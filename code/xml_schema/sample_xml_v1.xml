@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recordID></recordID>
+
+<date>
+    <year></year>
+    <month></month>
+    <day></day>
+    <circa></circa>
+    <notes></notes>
+</date>
+
+<location>
+    <place></place>
+    <diocese></diocese>
+    <province></province>
+    <countryModern></countryModern>
+    <latitude></latitude>
+    <longitude></longitude>
+    <notes></notes>
+</location>
+
+<classficiationInfo>
+    <classification></classification>
+    <issuingAuthority>
+        <name></name>
+        <altName></altName>
+    </issuingAuthority>
+    <regnal>
+        <start></start>
+        <end></end>
+    </regnal>
+    <delegated></delegated>
+    <notes></notes>
+</classficiationInfo>
+
+<languageInfo>
+    <language></language>
+    <notes></notes>
+</languageInfo>
+
+<textInfo>
+    <textNeeded></textNeeded>
+    <noKnownText></noKnownText>
+    <fragment></fragment>
+</textInfo>
+
+<sourceInfo>
+    <source></source>
+    <sourceOther></sourceOther>
+    <edition></edition>
+    <editionOther></editionOther>
+    <notes></notes>
+    <transcriptionNotes></transcriptionNotes>
+</sourceInfo>
+
+<transcriptionInfo>
+    <baseText></baseText>
+    <ocr></ocr>
+    <transcriptionStatus></transcriptionStatus>
+</transcriptionInfo>
+
+<generalNotes></generalNotes>
+
+<biblioRefs></biblioRefs>
+
+<notesFile>
+    <transcribedBy></transcribedBy>
+    <dateStarted></dateStarted>
+    <dateFinished></dateFinished>
+    <dateReviewedByRWD></dateReviewedByRWD>
+    <problemsOrQueries></problemsOrQueries>
+    <editorialNotes></editorialNotes>
+</notesFile>
+
+<text>
+    <div id="0"></div>
+    <div id="1"></div>
+    <div id="2"></div>
+    <div id="3"></div>
+</text>
