@@ -22,3 +22,5 @@ Output: ["GoogleBooks", "Digital MS", "Data Capture"]
 
 - There are other **unicode** characters that appear in the database, such as foreign characters or cross sign. I have left them untouched.
 
+- For an example of the JSON file, see the prettified version here: https://codebeautify.org/jsonviewer/cbdc2338
+
