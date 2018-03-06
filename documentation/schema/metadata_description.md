@@ -8,30 +8,30 @@ Original Google Doc: [link](https://docs.google.com/document/d/1pwxtJGLXpapAbY9k
 For the “Title” field (which the TEI format requires, I think), can it just be the filename of the .txt file? (NB: the title consists of RecordID_Place_Year - and the year is followed by a “c” if the date is uncertain, e.g. 0300_Milan_1287 or 0540_Piacenza_1337c)
 
 
-NB: Fields that are found in all records will be marked by a (*) next to it; other fields may be blank
+NB: Fields that are found in all records will be marked by a :star: next to it; other fields may be blank
 
 
-- **RecordID **: unique identifier, starting at 0001; expressed in four-digit form in filenames, but not in database
+- **RecordID** :star:: unique identifier, starting at 0001; expressed in four-digit form in filenames, but not in database
 
 - **Date**: dates are expressed numerically; where a date is uncertain, an arbitrary intermediate year is given
-   1. **Year **
-   2. **Month **
+   1. **Year** :star:
+   2. **Month**
    3. **Day**
    4. **Circa** [=ca.]: field is marked ‘Yes’ if the issuing year is uncertain; it is not checked if the uncertainty concerns only the month/day
    5. **Dating Notes**: discursive field giving date ranges (for texts of uncertain dating) or other remarks concerning the dates of the text
 
 - **Place**: the place where the council or synod associated with the text’s issuing occurred (which is usually, though not always, the diocesan or metropolitan see)
-   1. **Place**
+   1. **Place** :star:
    2. **Diocese** (often omitted in the case of provincial or legatine councils)
    3. **Province** (often omitted where a diocese is directly subject to the Holy See)
-      1. Most records include entries for both diocese and province; some lack one or the other; no records lack both.
-   4. **Country_Modern** (the country in which the place of issue is currently located)
-   5. **Latitude** (for the place of issue; usually taken from GeoHack)
-   6. **Longitude** (for the place of issue usually taken from GeoHack)
+      - Most records include entries for both diocese and province; some lack one or the other; no records lack both.
+   4. **Country_Modern** :star: (the country in which the place of issue is currently located)
+   5. **Latitude** :star: (for the place of issue; usually taken from GeoHack)
+   6. **Longitude** :star: (for the place of issue usually taken from GeoHack)
    4. **PlaceNotes**: discursive field giving further information concerning place, diocese, or province
 
 - **Classification**: The nature and jurisdictional scope of the text 
-   1. **Classification** (options include):
+   1. **Classification** :star:(options include):
       1. Diocesan: legislation issued at or in association with a diocesan synod)
       2. Provincial: legislation issued at or in association with a provincial council (or a council bringing together several neighboring provinces)
       3. Legatine: legislation issued at or in association with a legatine or national council
@@ -90,7 +90,7 @@ NB: Fields that are found in all records will be marked by a (*) next to it; oth
 
 - **OCR**: marked yes if OCR technology was used to produce an initial transcription (note that this field was added late, and so many transcriptions that were initially generated from OCR technology are not marked accordingly) 
 
-- **Transcription** (only one can be checked yes)
+- **Transcription** :star: (only one can be checked yes)
    1. Not Started: Transcription has not yet begun
    2. In Process: Text is in queue for transcription
    3. Completed: Transcription has been created and corrected, but not reviewed by RWD
@@ -107,18 +107,18 @@ NB: Fields that are found in all records will be marked by a (*) next to it; oth
 
 NB: the first four fields can all be completely ignored and need not be carried over into the XML-markup version of the text; they serve only to facilitate the transcription clean-up process
 
-1. **Record ID**: four digit numerical unique identifier, which should match the first four digits of the file name and the corresponding database entry
-2. **Date**: The year text was issued (arbitrary, where dating is uncertain - in which case date range is usually given here as well, in parentheses)
-3. **Location**: Generally equivalent to ‘Place’ field in database
-4. **Source**: Indicate the principal MS and/or printed edition from which transcription was derived
+1. **Record ID** :star:: four digit numerical unique identifier, which should match the first four digits of the file name and the corresponding database entry
+2. **Date** :star:: The year text was issued (arbitrary, where dating is uncertain - in which case date range is usually given here as well, in parentheses)
+3. **Location** :star:: Generally equivalent to ‘Place’ field in database
+4. **Source** :star:: Indicate the principal MS and/or printed edition from which transcription was derived
 ---
-1. **Transcribed by**: the name of the project member responsible for transcribing from the MS or printed edition, for correcting the initial OCR-generated transcription, and/or for formatting the transcription according to the project guidelines
-2. **Date Started**: the date the project member began transcribing/correcting/formatting the text
-3. **Date Finished**: the date the project member finished transcribing/correcting/formatting the text
+1. **Transcribed by** :star:: the name of the project member responsible for transcribing from the MS or printed edition, for correcting the initial OCR-generated transcription, and/or for formatting the transcription according to the project guidelines
+2. **Date Started** :star:: the date the project member began transcribing/correcting/formatting the text
+3. **Date Finished** :star:: the date the project member finished transcribing/correcting/formatting the text
 4. **Reviewed RWD**: this field is added once the transcription has been reviewed by RWD, and gives the date at which the review took place
 5. **Problems or Queries**: introduces a list of any issues or concerns arising from the transcription, as well as any important editorial decisions that affected the correction process
 ---
-1. **Notes**: any editorial notes or concerns will be noted here, with numbers in square brackets corresponding to numbered-and-square-bracketed entries in the corresponding text (not all texts will have notes, but some will have dozens or more)
+1. **Notes** :star:: any editorial notes or concerns will be noted here, with numbers in square brackets corresponding to numbered-and-square-bracketed entries in the corresponding text (not all texts will have notes, but some will have dozens or more)
 ________________
 
 [1] I intend eventually to create a separate, properly organized database for all of these source/edition fields, such that each entry will simply be marked with an ID and the corresponding volume/page/folios numbers. But that’s a project for the summer or later.
