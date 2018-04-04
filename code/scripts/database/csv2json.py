@@ -38,8 +38,9 @@ def readIntoDict(row):
 def createJsonFile(dictionary):
     record_id = str(dictionary[getColumnNames()[0]]).zfill(4) # e.g: "0001"
     file_name = json_file_format(record_id)
-    with open(file_name, 'w') as json_file:
-        json_file.write(json.dumps(dictionary))
+    with io.open(file_name, 'w', encoding='utf-8') as json_file:
+        #json_file.write(json.dumps(dictionary, ensure_ascii=False).encode('utf-8'))
+        json.dump(dictionary, json_file, ensure_ascii=False)
     print('Created JSON file: {}'.format(file_name))
 
 def processData(key, value):
