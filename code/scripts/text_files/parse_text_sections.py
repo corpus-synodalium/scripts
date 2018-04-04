@@ -7,7 +7,7 @@ from collections import defaultdict
 
 """
 parse_text_sections.py (v1) Apr 03, 2018
-------------------------------
+----------------------------------------
 Parse sections from txt files.
 """
 
@@ -56,10 +56,9 @@ def readIntoDict(lines, filename):
     last_section_number = None
     section_names = []
     d['incipit'] = []
+    section_names.append('incipit')
     for line in lines:
         if not (section_found or line.startswith('(')):
-            if 'incipit' not in section_names:
-                section_names.append('incipit')
             d['incipit'].append(line)
         elif line.startswith('('):
             # Match (X) at the beginning of a string where X is alpha-numeric string
@@ -96,6 +95,7 @@ def readIntoDict(lines, filename):
         d = new_dict
 
     d['section_names'] = section_names
+    assert(len(set(d['section_names'])) == len(d.keys()) - 1)
     return d
 
 def getExplicitIdentifiers():
