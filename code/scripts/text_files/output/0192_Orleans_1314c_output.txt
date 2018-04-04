@@ -1,6 +1,3 @@
-Section: incipit
-====================
-
 Section: 001
 ====================
 (1) DIe dominica praecedente synodum sacerdotes, qui capellanum non habent in suis parrochiis, diligenter inquirant publice in ecclesia, si qui sunt infirmi in parrochia.
@@ -35,6 +32,10 @@ Section: 008
 ====================
 (8) Statuimus, quod per totam dioecesim Aurelianensem in festo Inventionis sanctae Crucis et Exaltationis solemne fiat festum, et fiant octavae solemnes, sicut in majori ecclesia Aurelianensi fieri consuevit.
 
+Section: T1
+====================
+(T1) De Baptismo.
+
 Section: 009
 ====================
 (9) Baptismus cum honore et reverentia celebretur, et cum magna cautela, maxime in distinctione et prolatione verborum, in quibus tota virtus consistit sacramenti, et salus puerorum, scilicet nominando puerum et dicendo: Ego baptizo te in nomine Patris, et Filii, et Spiritus sancti.
@@ -67,6 +68,10 @@ Section: 015
 ====================
 (15) Ad levandum puerum de fonte tres vel quatuor ad plus recipiantur; quod amplius est, a malo est.
 
+Section: T2
+====================
+(T2) De confirmatione puerorum.
+
 Section: 016
 ====================
 (16) Sacerdotes scientes adventum episcopi, moneant frequenter populum ad confirmationem puerorum, et ad audiendum sermonem episcopi, et per hospitia singulorum, si opus fuerit, discurrant, propter istam monitionem faciendam per se vel per suum capellanum vel clericum.
@@ -88,6 +93,10 @@ Section: 020
 ====================
 (20) Nullus sacerdos confirmare aut consecrare virgines audeat.
 Solius est enim episcopi confirmare, virgines consecrare, ordines dare, ecclesias dedicare.
+
+Section: T3
+====================
+(T3) De altaribus.
 
 Section: 021
 ====================
@@ -138,6 +147,10 @@ Section: 031
 ====================
 (31) Nulli permittatur clerico servire altari, nisi in superpelliceis et cappa clausa.
 
+Section: T4
+====================
+(T4) De celebratione missae.
+
 Section: 032
 ====================
 (32) Nullus sacerdos audeat bis in die celebrare, excepta die nativitatis Domini et sancto die Paschae.
@@ -157,6 +170,10 @@ Section: 034
 Section: 035
 ====================
 (35) Ad horas B. MARIAE Virginis semper dicatur tertius versus MARIA mater gratiae, et cantetur cum nota in ecclesia, quando cantatur cum nota in ecclesia Aurelianensi, et cum devotione, non in surgendo et calciando.
+
+Section: T5
+====================
+(T5) De confessione.
 
 Section: 036
 ====================
@@ -257,6 +274,10 @@ Section: 058
 (58) Omnes praecipiant instituta jejunia observari, scilicet jejunium quadragesimale, quatuor temporum, vigiliarum, scilicet natalis Domini, assumtionis beatae Mariae Virginis, B. Johannis Baptistae, beatorum Petri et Paul, B. Matthaei apostoli, Simonis et Judae apostolorum, B. Andreae apostoli, B. Laurentii, et omnium Sanctorum, in majori letania, scilicet in festo B. Marci evangelistae, [1] in tribus diebus Rogationum.
 Si vero aliqua de praedictis vigiliis de Dominica evenire contigerit, die sabbati praecedenti jejunium indicatur, et absque omni peccato, ex debito enim tenemur facere talia jejunia.
 
+Section: T6
+====================
+(T6) De matrimonio.
+
 Section: 059
 ====================
 (59) Matrimonium cum honore et reverentia celebretur, et in facie ecclesiae, non cum risu et jocose, ne contemnatur.
@@ -274,6 +295,10 @@ Malefici quoque et celantes consanguinitatem, votum, ordinem, affinitatem, dispa
 Section: 062
 ====================
 (62) Nullus sacerdos in casu dubio audeat perficere matrimonium inconsulto episcopo; sed semper ad eum referat omnes matrimonii dubietates.
+
+Section: T7
+====================
+(T7) Nova constitutio matrimonii.
 
 Section: 063
 ====================
@@ -298,6 +323,10 @@ Section: 066
 ====================
 (66) Prohibeant sacerdotes in ecclesia publice sub poena excommunicationis, ne alter conjugum transeat aut recipiatur ad religionem, nisi per episcopum.
 
+Section: T8
+====================
+(T8) De unctione.
+
 Section: 067
 ====================
 (67) Cum summa reverentia deferatur oleum sanctum ad infirmos, et eos inungant sacerdotes, cum magno honore et orationum celebritate, quae ad haec sunt ordinatae, et nihil inde penitus exigant, sive a paupere sive a divite; sed si quid gratis datum fuerit, gratis accipiatur.
@@ -310,14 +339,26 @@ Section: 069
 ====================
 (69) Doceant frequenter sacerdotes populum hoc sacramentum licite posse iterari et saepe recipi, scilicet in qualibet magna infirmitate vel necessitate, unde metus est mortis, et post receptum posse licite reverti ad opus conjugale eum qui convaluerit de infirmitate.
 
+Section: T9
+====================
+(T9) De libris ecclesiasticis et poenitentiis.
+
 Section: 070
 ====================
 (70) Librum qui dicitur manuale habeant singuli sacerdotes parochiales, ubi ordo continetur extremae-unctionis, et catechesim baptismi et hujusmodi; habeant etiam singuli sacerdotes canones poenitentiales et ordinarium officiorum ecclesiae, secundum modum et usum qui observatur in majori ecclesia.
+
+Section: T10
+====================
+(T10) De testamentis.
 
 Section: 071
 ====================
 (71) Prohibetur sacerdotibus, ne testamenta sua ordinent per manum laicalem.
 Ipsi quoque prohibeant laicis frequenter ne testamenta sua faciant sine praesentia sacerdotis: quod si fecerint sine praesentia sacerdotis, non valebit, neque tenebitur testamentum.
+
+Section: T11
+====================
+(T11) De reditibus ecclesiarum.
 
 Section: 072
 ====================
@@ -326,6 +367,10 @@ Section: 072
 Section: 073
 ====================
 (73) Prohibetur penitus presbyteris et parochianis, ne de his quae sunt ecclesiae, aut presbyteri, aliqua alienent ab ecclesia, nisi per consilium episcopi vel archidiaconi sui.
+
+Section: T12
+====================
+(T12) De interragiis.
 
 Section: 074
 ====================
@@ -343,6 +388,10 @@ Section: 077
 ====================
 (77) Prohibeant sacerdotes sub poena excommunicationis in cimiterio vel in ecclesiis choreas duci.
 
+Section: T13
+====================
+(T13) De citationibus.
+
 Section: 078
 ====================
 (78) Presbyteri super citationibus et vocationibus faciendis non credant his qui fidem dederint, nisi citationem ostenderint super excommunicationibus ferendis, sive litteris non credant.
@@ -355,6 +404,10 @@ Section: 080
 ====================
 (80) Praeterea ex plurimorum presbyterorum relatu didicimus, quod citationibus impetratis, illi qui eas impetrant sacerdoti eas postponunt ostendere malitiose, ut prima facie praesumitur, eas ostendere differentes, usque ad penultimum diem citationis occurrentem.
 Ut igitur malitiis talium valeamus obviare, volumus et praecipimus, quod si citatio octo dies aut plures contineat, quod nisi infra triduum a tempore impetrationis computandum eam ostenderint sacerdoti, citationem sacerdos nullatenus exequatur; et si forsan minus tempus obtineat, sacerdos eam nullatenus exequatur, nisi eidem tempestive ostendatur.
+
+Section: T14
+====================
+(T14) De praegnantibus mortuis.
 
 Section: 081
 ====================
@@ -404,6 +457,10 @@ Section: 092
 ====================
 (92) Nullus clericus faciat jusjurandum patronis antequam fuerit episcopo praesentatus.
 
+Section: T15
+====================
+(T15) De ministratione panis.
+
 Section: 093
 ====================
 (93) Sacerdos ministrans diligenter attendat, quod hostia sit integra, et quod habeat circulum integrum, et quod vinum non sit acetosum.
@@ -411,6 +468,13 @@ Section: 093
 Section: 094
 ====================
 (94) Si per negligentiam sacerdotis evenerit, quod absit, ut sacerdos cantans missam panem vel vinum oblitus fuerit, cum hoc cognoverit, si hostia defuerit, assumat illam, et mittat super corporale, et incipiat consecrationem a Simili modo posteaquam coenatum est, usque in finem.
+
+Section: 095
+====================
+(95) Si cum aqua tantummodo cantare contigerit, cum hoc expertus fuerit, mittat vinum in calicem, et incipiat ut supra diximus a Simili modo.
+Quod si cantaverit de vino sine aqua, et expertus fuerit, mittat aquam in vinum et reincipiat: Oremus praeceptis salutaribus moniti, etc. et dicat orationem Dominicam et Libera nos quaesumus Domine.
+(95) [2] Si per negligentiam evenerit, ut peracto canone, peracta consecratione, nec vinum nec aqua reperiantur in calice, statim debet infundi utrumque, et sacerdos reiterabit consecrationem ab illo loco canonis: Simili modo postea quam coenatum est: ita tamen, ne illas duas cruces obmittat, quae singulariter fiunt super panem.
+Quod si de vino sine aqua, vel de aqua sine vino fiat consecratio, vinum reputabitur pro consecratione aqua non reputabitur, et ita negligentia de vino major reputabitur, et minor est poenitentia danda.
 
 Section: 095
 ====================
@@ -460,66 +524,6 @@ Si usque ad quartum, XX. diebus poeniteat, et linteum quod tetigerit stilla, tri
 Section: 103
 ====================
 (103) Si per ebrietatem et voracitatem eucharistiam evomuerit, XL. diebus poeniteat, clerici vel monachi sive diaconi sive presbyteri septuaginta diebus poeniteant, episcopi nonaginta.
-
-Section: T1
-====================
-(T1) De Baptismo.
-
-Section: T10
-====================
-(T10) De testamentis.
-
-Section: T11
-====================
-(T11) De reditibus ecclesiarum.
-
-Section: T12
-====================
-(T12) De interragiis.
-
-Section: T13
-====================
-(T13) De citationibus.
-
-Section: T14
-====================
-(T14) De praegnantibus mortuis.
-
-Section: T15
-====================
-(T15) De ministratione panis.
-
-Section: T2
-====================
-(T2) De confirmatione puerorum.
-
-Section: T3
-====================
-(T3) De altaribus.
-
-Section: T4
-====================
-(T4) De celebratione missae.
-
-Section: T5
-====================
-(T5) De confessione.
-
-Section: T6
-====================
-(T6) De matrimonio.
-
-Section: T7
-====================
-(T7) Nova constitutio matrimonii.
-
-Section: T8
-====================
-(T8) De unctione.
-
-Section: T9
-====================
-(T9) De libris ecclesiasticis et poenitentiis.
 
 Section: explicit
 ====================
