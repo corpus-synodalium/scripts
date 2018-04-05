@@ -1,6 +1,7 @@
 import os
 import re
-import pprint
+import json
+from pprint import pprint
 from collections import defaultdict
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
@@ -17,26 +18,64 @@ def main():
     input_file_names = [f for f in os.listdir('input')]
     counter = 0
     for f in input_file_names:
+        #print(f)
+        associated_json_file = './json/database_{}.json'.format(re.findall(r'^(.*?)_', f)[0])
+        metadata = dict()
+        with open(associated_json_file) as json_data:
+            metadata = json.load(json_data)
         lines = readFile(f)
         dictObj = readIntoDict(lines, f)
-        createXmlFile(dictObj, f)
+        createXMLFile(dictObj, metadata, f)
         counter += 1
-        break
+        
 
     print('Number of input txt files: {}'.format(len(input_file_names)))
-    print('Number of output txt files: {}'.format(counter))
+    print('Number of output xml files: {}'.format(counter))
+
+def createXMLFile(dictObj, metadata, filename):
+
+    root = createXMLTemplate()
+    xmlstr = populateXML(root, dictObj, metadata, filename)
+    xml_filename = './xml_output/{}_output.xml'.format(re.findall(r'^(.*?)\.txt', filename)[0])
+    with open(xml_filename, 'w', encoding='utf-8') as xml_file:
+        xml_file.write(xmlstr)
+    print('Created {}'.format(xml_filename))
 
 # ----------------
 # Helper Functions
 # ----------------
 
+def populateXML(root, dictObj, metadata, filename):
+    recordID = root.find('teiHeader/fileDesc/titleStmt/recordID')
+    recordID.text = 'Record ID: {}'.format(str(int(metadata['RecordID'])).zfill(4))
 
-def createXmlFile(dictObj, filename):
+    diocese = root.find('teiHeader/profileDesc/creation/diocese')
+    diocese.text = metadata['Diocese']
+
+    province = root.find('teiHeader/profileDesc/creation/province')
+    province.text = metadata['Province']
+
+
+
+    section_names = dictObj['section_names']
+    body = root.find('text/body')
+    for section in section_names:
+        div = ET.SubElement(body, 'div')
+        head = ET.SubElement(div, 'head')
+        head.text = section
+
+        for line in dictObj[section]:
+            p = ET.SubElement(div, 'p')
+            p.text = line
+
+    xmlstr = minidom.parseString(ET.tostring(root)).toprettyxml(indent="    ")
+    return xmlstr
+
+def createXMLTemplate():
     root = ET.Element('root')
 
     # TEI Header
     teiHeader = ET.SubElement(root, 'teiHeader')
-
     fileDesc = ET.SubElement(teiHeader, 'fileDesc')
 
     # Title Statement
@@ -87,47 +126,25 @@ def createXmlFile(dictObj, filename):
     delegated = ET.SubElement(creation, 'delegated')
     classNotes = ET.SubElement(creation, 'classNotes')
 
-
     # Text
     text = ET.SubElement(root, 'text')
     body = ET.SubElement(text, 'body')
 
-    section_names = dictObj['section_names']
-    for section in section_names:
-        div = ET.SubElement(body, 'div')
-        head = ET.SubElement(div, 'head')
-        head.text = section
-        for line in dictObj[section]:
-            p = ET.SubElement(div, 'p')
-            p.text = line
+    return root
 
-    xmlstr = minidom.parseString(ET.tostring(root)).toprettyxml(indent="    ")
-    print(xmlstr)
-
-
-
-
-def createOutputFile(dictObj, filename):
-    json_file_name = './output/{}_output.txt'.format(re.findall(r'^(.*?)\.txt', filename)[0])
-    with open(json_file_name, 'w') as file:
-        section_names = dictObj['section_names']
-
-        for section in section_names:
-            file.write('Section: {}\n'.format(section))
-            file.write('====================\n')
-            values = dictObj[section]
-            for v in values:
-                file.write('{}\n'.format(v))
-            file.write('\n')
-
-    print('Created {}'.format(json_file_name))
 
 def readFile(filename):
     lines = []
     filename = './input/{}'.format(filename)
-    with open(filename, 'r') as file:
-        lines = [line.strip() for line in file.readlines()]
-    lines = filter(None, lines) # remove empty strings from list
+    try:
+        with open(filename, 'r', encoding='utf-8') as file:
+            lines = [line.strip() for line in file.readlines()]
+        lines = list(filter(None, lines)) # remove empty strings from list
+    except UnicodeDecodeError:
+        print('UnicodeDecodeError for file: {}'.format(filename))
+        with open(filename, 'r', encoding='latin-1') as file:
+            lines = [line.strip() for line in file.readlines()]
+        lines = list(filter(None, lines)) # remove empty strings from list
     return lines
 
 def readIntoDict(lines, filename):

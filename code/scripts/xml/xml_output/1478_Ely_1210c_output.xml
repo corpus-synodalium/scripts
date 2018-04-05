@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <recordID>Record ID: 1478</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage/>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate/>
+                <dateNotes/>
+                <origPlaces/>
+                <diocese>Ely</diocese>
+                <province>Canterbury</province>
+                <country/>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain/>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>text</head>
+                <p>Eustachius episcopus Elyensis quondam constituit sic: Si oves post festum sancti Michaelis et ante festum sancti Martini ab una parochia in alteram transferantur et in quindena vel mense post Pascha revertantur, decima agnorum dimidietur inter ecclesias parochiales, et lana pro rata temporis exsolvatur.</p>
+                <p>Si vero post festum sancti Martini transmittantur et in predicto tempore post Pascha revertantur, medietas decimarum agnorum cum tota lana ad ecclesiam de cuius parochia existunt revertantur.</p>
+            </div>
+        </body>
+    </text>
+</root>

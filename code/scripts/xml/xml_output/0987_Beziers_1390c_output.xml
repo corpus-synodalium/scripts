@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <recordID>Record ID: 0987</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage/>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate/>
+                <dateNotes/>
+                <origPlaces/>
+                <diocese>Béziers</diocese>
+                <province>Narbonne</province>
+                <country/>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain/>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>text</head>
+                <p>ITem, quia saepe ex oppressione puerorum scandala irreparabilia contingunt.</p>
+                <p>Idcirco nos BARTHOLOMAEUS miseratione divina episcopus Biterrensis statuimus et ordinamus, quod de cetero priores seu sacerdotes curati ecclesiarum nostrae dioecesis Biterrensis, dum major populi multitudo in eorum ecclesiis pervenerit ad divina, frequenter diebus dominicis et festivis parochianos suos moneant, ne cum pueris seu infantibus de die vel de nocte in lecto vel alio loco dormiant; sed eos in cunabulis teneant juxta morem solitum, donec majores triennio sint effecti.</p>
+            </div>
+        </body>
+    </text>
+</root>
