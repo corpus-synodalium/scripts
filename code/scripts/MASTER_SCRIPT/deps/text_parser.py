@@ -47,11 +47,11 @@ class TextParser:
         section_found = False
         last_section_number = None
         section_names = []
-        d['incipit'] = []
-        section_names.append('incipit')
+        d['Incipit'] = []
+        section_names.append('Incipit')
         for line in lines:
             if not (section_found or line.startswith('(')):
-                d['incipit'].append(line)
+                d['Incipit'].append(line)
             elif line.startswith('('):
                 # Match (X) at the beginning of a string where X is alpha-numeric string
                 try:
@@ -59,7 +59,8 @@ class TextParser:
                 except IndexError:
                     raise Exception('Improperly formatted section line in {}. \nDetails: "{}"'.format(input_file_name, line))
                 if last_section_number.isdigit():
-                    last_section_number = str(int(last_section_number)).zfill(3)
+                    last_section_number = str(int(last_section_number))
+                last_section_number = 'Section {}'.format(last_section_number)
                 section_found = True
                 d[last_section_number].append(line)
                 section_names.append(last_section_number)
@@ -67,8 +68,8 @@ class TextParser:
                 d[last_section_number].append(line)
                 
         # inspect the last section for explicit (conclusion)
-        d['explicit'] = []
-        section_names.append('explicit')
+        d['Explicit'] = []
+        section_names.append('Explicit')
         last_section = d[last_section_number]
         copy = last_section[:]
         is_explicit = False
@@ -77,7 +78,7 @@ class TextParser:
                 words_to_check = self.getExplicitIdentifiers()
                 if is_explicit or any(word in line.lower() for word in words_to_check):
                     is_explicit = True
-                    d['explicit'].append(line)
+                    d['Explicit'].append(line)
                     copy.remove(line)
             d[last_section_number] = copy
 
@@ -85,8 +86,8 @@ class TextParser:
         if not section_found:
             #print('{}'.format(filename))
             new_dict = dict()
-            new_dict['text'] = lines
-            section_names = ['text']
+            new_dict['All Text'] = lines
+            section_names = ['All Text']
             d = new_dict
 
         d['section_names'] = section_names

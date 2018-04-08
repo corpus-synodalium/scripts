@@ -114,8 +114,12 @@ class UtilityFunctions:
     def populateText(self, root, text, footnotes, metadata, filename):
         section_names = text['section_names']
         body = root.find('text/body')
+        all_text = ET.SubElement(body, 'div')
+        head = ET.SubElement(all_text, 'head')
+        head.text = 'Text'
+
         for section in section_names:
-            div = ET.SubElement(body, 'div')
+            div = ET.SubElement(all_text, 'div')
             head = ET.SubElement(div, 'head')
             head.text = section
 
