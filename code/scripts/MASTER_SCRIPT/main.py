@@ -45,6 +45,7 @@ class MasterParser():
         print('Number of rows in csv file: {}'.format(len(self.metadata.keys())))
 
     def writeXMLFiles(self):
+        counter = 0 # added for testing purposes; remove later
         for filename in sorted(self.text_parser.input_file_names):
             record_id = self.text_parser.getRecordID(filename)
             xml_file_name = '{}{}.xml'.format(self.xml_output_dir, record_id)
@@ -54,6 +55,9 @@ class MasterParser():
                 metadata = self.metadata[record_id]
                 xml_file.write(self.utils.getXMLStr(text, footnotes, metadata, filename))
             print('Created {}'.format(xml_file_name))
+            counter += 1
+            if counter == 100:
+                break
 
 def main():
     master = MasterParser()

@@ -1,3 +1,4 @@
+import re
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
 
@@ -8,28 +9,8 @@ class UtilityFunctions:
 
     def getXMLStr(self, text, footnotes, metadata, filename):
         root = self.getXMLTemplate()
-        recordID = root.find('teiHeader/fileDesc/titleStmt/recordID')
-        recordID.text = 'Record ID: {}'.format(str(int(metadata['RecordID'])).zfill(4))
-
-        diocese = root.find('teiHeader/profileDesc/creation/diocese')
-        diocese.text = metadata['Diocese']
-
-        province = root.find('teiHeader/profileDesc/creation/province')
-        province.text = metadata['Province']
-
-
-
-        section_names = text['section_names']
-        body = root.find('text/body')
-        for section in section_names:
-            div = ET.SubElement(body, 'div')
-            head = ET.SubElement(div, 'head')
-            head.text = section
-
-            for line in text[section]:
-                p = ET.SubElement(div, 'p')
-                p.text = line
-
+        self.populateTeiHeader(root, metadata, filename)
+        self.populateText(root, text, footnotes, metadata, filename)
         xmlstr = minidom.parseString(ET.tostring(root)).toprettyxml(indent="    ")
         return xmlstr
 
@@ -94,3 +75,50 @@ class UtilityFunctions:
         body = ET.SubElement(text, 'body')
 
         return root
+
+    # ---------------------------------------------
+    # Helper Functions
+    # ---------------------------------------------
+    
+    def getTitleFromFileName(self, filename):
+        record_id = re.findall(r'^(.*?)_', filename)[0]
+        name = re.findall(r'^(?:.*?)_(.*?)_(?:.*?)\.txt$', filename)[0]
+        year = re.findall(r'^(?:.*?)_(?:.*?)_(.*?)\.txt$', filename)[0]
+        title = '{}. {} ({})'.format(record_id, name, year)
+        return title
+
+
+
+    def populateTeiHeader(self, root, metadata, filename):
+        self.populateFileDesc(root, metadata, filename)
+        self.populateProfileDesc(root, metadata, filename)
+
+    def populateFileDesc(self, root, metadata, filename):
+        title = root.find('teiHeader/fileDesc/titleStmt/title')
+        title.text = self.getTitleFromFileName(filename)
+
+
+        recordID = root.find('teiHeader/fileDesc/titleStmt/recordID')
+        recordID.text = 'Record ID: {}'.format(str(int(metadata['RecordID'])).zfill(4))
+
+        
+
+    def populateProfileDesc(self, root, metadata, filename):
+        diocese = root.find('teiHeader/profileDesc/creation/diocese')
+        diocese.text = metadata['Diocese']
+
+        province = root.find('teiHeader/profileDesc/creation/province')
+        province.text = metadata['Province']
+
+
+    def populateText(self, root, text, footnotes, metadata, filename):
+        section_names = text['section_names']
+        body = root.find('text/body')
+        for section in section_names:
+            div = ET.SubElement(body, 'div')
+            head = ET.SubElement(div, 'head')
+            head.text = section
+
+            for line in text[section]:
+                p = ET.SubElement(div, 'p')
+                p.text = line
