@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <recordID>Record ID: 1702</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage/>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate/>
+                <dateNotes/>
+                <origPlaces/>
+                <diocese>Lamego</diocese>
+                <province>Braga</province>
+                <country/>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain/>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>incipit</head>
+            </div>
+            <div>
+                <head>001</head>
+                <p>(1) Nouerint uniuersi presentem paginam inspecturi quod nos Egas, diuina miseratione episcopus Lamecensis, in sinodo nostra sentenciando pronunciauimus, habito consilio peritorum, quod omnes decime nostre diocesis inter ecclesias diuidantur sicut hactenus diuise fuerunt.</p>
+            </div>
+            <div>
+                <head>002</head>
+                <p>(2) Item, si aliquis ab ista sinodo in antea emerit possessiones in terminis alienis, decime integre remaneant ecclesie in cuius termino hereditas fuerit laborata.</p>
+            </div>
+            <div>
+                <head>003</head>
+                <p>(3) Item, si aliquis dederit suam hereditatem ad portionem alicui de alio termino laborandam, media pars illius decime ducatur ad ecclesiam cuius parrochianus fuerit laborator.</p>
+            </div>
+            <div>
+                <head>explicit</head>
+                <p>In cuius rei testimonium presentem paginam sigillo nostro fecimus comuniri.</p>
+                <p>Sub era m.a cc.a I. xl.a</p>
+            </div>
+        </body>
+    </text>
+</root>
