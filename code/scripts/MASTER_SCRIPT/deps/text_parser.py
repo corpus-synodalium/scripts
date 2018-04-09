@@ -60,7 +60,7 @@ class TextParser:
                     raise Exception('Improperly formatted section line in {}. \nDetails: "{}"'.format(input_file_name, line))
                 if last_section_number.isdigit():
                     last_section_number = str(int(last_section_number))
-                last_section_number = 'Section {}'.format(last_section_number)
+                last_section_number = 'Capitulum {}'.format(last_section_number)
                 section_found = True
                 d[last_section_number].append(line)
                 section_names.append(last_section_number)

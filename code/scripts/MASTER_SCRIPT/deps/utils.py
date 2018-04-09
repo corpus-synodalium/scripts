@@ -126,3 +126,11 @@ class UtilityFunctions:
             for line in text[section]:
                 p = ET.SubElement(div, 'p')
                 p.text = line
+
+        div = ET.SubElement(all_text, 'div')
+        head = ET.SubElement(div, 'head')
+        head.text = 'Footnotes' 
+
+        for line in footnotes:
+            p = ET.SubElement(div, 'p')
+            p.text = line 
