@@ -82,6 +82,15 @@ class TextParser:
                     copy.remove(line)
             d[last_section_number] = copy
 
+        # Remove incipit and explicit if empty
+        if not d['Incipit']:
+            d.pop('Incipit')
+            section_names.remove('Incipit')
+
+        if not d['Explicit']:
+            d.pop('Explicit')
+            section_names.remove('Explicit')
+
         # Update the dict if the file has no numbered section
         if not section_found:
             #print('{}'.format(filename))
