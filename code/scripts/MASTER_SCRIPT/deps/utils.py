@@ -112,8 +112,17 @@ class UtilityFunctions:
 
 
     def populateText(self, root, text, footnotes, metadata, filename):
-        section_names = text['section_names']
         body = root.find('text/body')
+        meta = ET.SubElement(body, 'div')
+        head = ET.SubElement(meta, 'head')
+        head.text = 'Metadata'
+
+        for key in self.getColumnNames():
+            p = ET.SubElement(meta, 'p')
+            p.text = '{}: {}'.format(key, metadata[key])
+
+        # Text
+        section_names = text['section_names']
         all_text = ET.SubElement(body, 'div')
         head = ET.SubElement(all_text, 'head')
         head.text = 'Text'
@@ -127,6 +136,7 @@ class UtilityFunctions:
                 p = ET.SubElement(div, 'p')
                 p.text = line
 
+        # FootNotes
         div = ET.SubElement(all_text, 'div')
         head = ET.SubElement(div, 'head')
         head.text = 'Footnotes' 
@@ -134,3 +144,42 @@ class UtilityFunctions:
         for line in footnotes:
             p = ET.SubElement(div, 'p')
             p.text = line 
+
+    def getColumnNames(self):
+        column_names = ['RecordID',
+        'Year',
+        'Month',
+        'Day',
+        'Circa',
+        'DatingNotes',
+        'Place',
+        'Diocese',
+        'Province',
+        'CountryModern',
+        'Latitude',
+        'Longitude',
+        'PlaceNotes',
+        'Classification',
+        'IssuingAuthority',
+        'IssuingAuthorityAlt',
+        'RegnalStart',
+        'RegnalEnd',
+        'Delegated',
+        'ClassificationNotes',
+        'Language',
+        'LanguageNotes',
+        'TextNeeded',
+        'NoKnownText',
+        'Fragment',
+        'Source',
+        'SourceOther',
+        'Edition',
+        'EditionOther',
+        'SourceNotes',
+        'TranscriptionNotes',
+        'BaseText',
+        'OCR',
+        'Transcription',
+        'GeneralNotes',
+        'BiblioRefs']
+        return column_names
