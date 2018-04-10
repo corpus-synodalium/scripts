@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 1286</recordID>
+                <title>Paris (#1286)</title>
+                <recordID>1286</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate>1208</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Paris</origPlace>
                 <diocese>Paris</diocese>
                 <province>Sens</province>
-                <country/>
+                <country>France</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Legatine</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,57 +55,101 @@
     <text>
         <body>
             <div>
-                <head>incipit</head>
+                <head>Metadata</head>
+                <p>RecordID: 1286</p>
+                <p>Year: 1208</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Paris</p>
+                <p>Diocese: Paris</p>
+                <p>Province: Sens</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 48.24754</p>
+                <p>Longitude: 3.287659</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Legatine</p>
+                <p>IssuingAuthority: Galone</p>
+                <p>IssuingAuthorityAlt: Galo</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Pontal, Statuts synodaux I, 98-99</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'WebDownload']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
             </div>
             <div>
-                <head>001</head>
-                <p>(1) Incipit Constitutio Gale.</p>
-                <p>Nos Gallo, miseratione divina Sancte Marie in porticu diaconus cardinalis, apostolice sedis legatus, excommunicamus omnes sacerdotes et clericos quoscumque, qui post legitimam admonitionem focarias vel mulieres alias, de quibus mala possit suspicio suboriri, in domibus propriis, vel alibi, unde populus vel ecclesia scandalizetur, duxerint retinendas; nisi sint clerici qui in minoribus ordinibus contraxisse legitime probentur, qui cum uxoribus ecclesiastica non debent beneficia retinere.</p>
-                <p>Moneantur quoque, ne matres vel sorores, aliasque conjunctas personas secum habeant, cum quibus etsi nihil sevi criminis fedus naturale existimari permittat, frequenter tamen, suggerente diabolo, noscitur fuisse [1] facinus perpetratum.</p>
-            </div>
-            <div>
-                <head>002</head>
-                <p>(2) Prohibemus etiam sub eadem excommunicatione, ne sacerdotes vel clerici, occasione alicujus consuetudinis, pro baptismo, sepultura, benedictione, aliisve sacramentis ecclesiasticis, aliquid exigere vel extorquere presumant.</p>
-                <p>Sed ea liberaliter et sine difficultate studeant canonice ministrare.</p>
-                <p>Moneantur tamen laici diligenter, ne quod pro reverentia sacramentorum devotio fidelium introduxit, ex avaritia velint aliquatenus revocare.</p>
-            </div>
-            <div>
-                <head>003</head>
-                <p>(3) Item, ne de cetero sacerdotes capis manicatis utantur; et ne constituti in sacris ordinibus manicas consutitias, solutares rostratos, vestesque rubri coloris habeant, districtione consimili prohibemus.</p>
-            </div>
-            <div>
-                <head>004</head>
-                <p>(4) Decanis quoque et archipresbyteris, et archidiaconibus, ne vestes rubri coloris, vel viridis habere presumant, et specialiter archidiaconibus et prepositis qui habent curam animarum, ne capas foratas habeant manicatas.</p>
-            </div>
-            <div>
-                <head>005</head>
-                <p>(5) Monachi etiam ut capis sumptuosis et non nigris de cetero non utantur, sub eadem pena duximus inhibendum.</p>
-            </div>
-            <div>
-                <head>006</head>
-                <p>(6) Inhibemus etiam omnibus tam clericis quam monachis sub excommunicationis vinculo, ne fenus exerceant; et ne aliquam negotiationem exerceant inhonestam, prohibentur indistincte.</p>
-            </div>
-            <div>
-                <head>007</head>
-                <p>(7) Ut autem ab omnibus, in tonsura, habitu, et conversatione, honestas ecclesiastica conservetur, districte precipimus universis prelatis, sub attestatione divini judicii; firmiter injungentes, ut omnia supradicta observent, et, quantum in ipsis erit, faciant a subditis, monitione premissa, per censuram ecclesiasticam inviolabiliter observari.</p>
-                <p>Explicit. [2]</p>
-            </div>
-            <div>
-                <head>008</head>
-                <p>(8) Volentes autem, quantum cum Deo et honeste possumus, magistris et scholaribus deferre; eatenus circa ipsos rigorem, si quis est constitutionis nostre, duximus temperandum ut antequam excommunicationis periculum incurratur, admonitio generaliter fiat per magistros in scolis, et comminatio excommunicationis in transgressores.</p>
-                <p>Quibus premissis, si qui forte contumaces et rebelles extiterint, iterum et nominatim sub eadem comminatione et in scholis moneantur, indulta nihilominus ad satisfaciendum dilatione competenti.</p>
-            </div>
-            <div>
-                <head>009</head>
-                <p>(9) Quod si forte nec taliter respicere voluerint, ex tunc per cancellarium, qui pro tempore fuerit, excommunicati denuncientur; et tamdiu ab omnibus evitentur, donec satisfecerint competenter, et ab episcopo, si presens fuerit, vel eo absente, ab abbate S. Victoris, cum forma ecclesie fuerint absoluti.</p>
-            </div>
-            <div>
-                <head>010</head>
-                <p>(10) Precipimus autem magistris in virtute Spiritus Sancti, ut predicta omnia, excepto tamen necessitatis articulo excusabilis, diligentius exequantur, ne per negligentiam vel malitiam aliquorum, nostre constitutionis auctoritas contempnatur.</p>
-            </div>
-            <div>
-                <head>explicit</head>
-                <p>Explicit constitutio Galonis.</p>
+                <head>Text</head>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) Incipit Constitutio Gale.</p>
+                    <p>Nos Gallo, miseratione divina Sancte Marie in porticu diaconus cardinalis, apostolice sedis legatus, excommunicamus omnes sacerdotes et clericos quoscumque, qui post legitimam admonitionem focarias vel mulieres alias, de quibus mala possit suspicio suboriri, in domibus propriis, vel alibi, unde populus vel ecclesia scandalizetur, duxerint retinendas; nisi sint clerici qui in minoribus ordinibus contraxisse legitime probentur, qui cum uxoribus ecclesiastica non debent beneficia retinere.</p>
+                    <p>Moneantur quoque, ne matres vel sorores, aliasque conjunctas personas secum habeant, cum quibus etsi nihil sevi criminis fedus naturale existimari permittat, frequenter tamen, suggerente diabolo, noscitur fuisse [1] facinus perpetratum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Prohibemus etiam sub eadem excommunicatione, ne sacerdotes vel clerici, occasione alicujus consuetudinis, pro baptismo, sepultura, benedictione, aliisve sacramentis ecclesiasticis, aliquid exigere vel extorquere presumant.</p>
+                    <p>Sed ea liberaliter et sine difficultate studeant canonice ministrare.</p>
+                    <p>Moneantur tamen laici diligenter, ne quod pro reverentia sacramentorum devotio fidelium introduxit, ex avaritia velint aliquatenus revocare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) Item, ne de cetero sacerdotes capis manicatis utantur; et ne constituti in sacris ordinibus manicas consutitias, solutares rostratos, vestesque rubri coloris habeant, districtione consimili prohibemus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) Decanis quoque et archipresbyteris, et archidiaconibus, ne vestes rubri coloris, vel viridis habere presumant, et specialiter archidiaconibus et prepositis qui habent curam animarum, ne capas foratas habeant manicatas.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) Monachi etiam ut capis sumptuosis et non nigris de cetero non utantur, sub eadem pena duximus inhibendum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>(6) Inhibemus etiam omnibus tam clericis quam monachis sub excommunicationis vinculo, ne fenus exerceant; et ne aliquam negotiationem exerceant inhonestam, prohibentur indistincte.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>(7) Ut autem ab omnibus, in tonsura, habitu, et conversatione, honestas ecclesiastica conservetur, districte precipimus universis prelatis, sub attestatione divini judicii; firmiter injungentes, ut omnia supradicta observent, et, quantum in ipsis erit, faciant a subditis, monitione premissa, per censuram ecclesiasticam inviolabiliter observari.</p>
+                    <p>Explicit. [2]</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>(8) Volentes autem, quantum cum Deo et honeste possumus, magistris et scholaribus deferre; eatenus circa ipsos rigorem, si quis est constitutionis nostre, duximus temperandum ut antequam excommunicationis periculum incurratur, admonitio generaliter fiat per magistros in scolis, et comminatio excommunicationis in transgressores.</p>
+                    <p>Quibus premissis, si qui forte contumaces et rebelles extiterint, iterum et nominatim sub eadem comminatione et in scholis moneantur, indulta nihilominus ad satisfaciendum dilatione competenti.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>(9) Quod si forte nec taliter respicere voluerint, ex tunc per cancellarium, qui pro tempore fuerit, excommunicati denuncientur; et tamdiu ab omnibus evitentur, donec satisfecerint competenter, et ab episcopo, si presens fuerit, vel eo absente, ab abbate S. Victoris, cum forma ecclesie fuerint absoluti.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>(10) Precipimus autem magistris in virtute Spiritus Sancti, ut predicta omnia, excepto tamen necessitatis articulo excusabilis, diligentius exequantur, ne per negligentiam vel malitiam aliquorum, nostre constitutionis auctoritas contempnatur.</p>
+                </div>
+                <div>
+                    <head>Explicit</head>
+                    <p>Explicit constitutio Galonis.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] 'noscitur fuisse' in quotation brackets.</p>
+                    <p>[2] 'Articles supplementaires extraits du manuscrit B' note inserted here.</p>
+                </div>
             </div>
         </body>
     </text>

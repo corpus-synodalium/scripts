@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 0754</recordID>
+                <title>Skara (#0754)</title>
+                <recordID>0754</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate>1411</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Skara</origPlace>
                 <diocese>Skara</diocese>
                 <province>Uppsala</province>
-                <country/>
+                <country>Sweden</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Diocesan</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,199 +55,244 @@
     <text>
         <body>
             <div>
-                <head>incipit</head>
-                <p>﻿Articuli synodales Brynulphi.</p>
+                <head>Metadata</head>
+                <p>RecordID: 754</p>
+                <p>Year: 1411</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Skara</p>
+                <p>Diocese: Skara</p>
+                <p>Province: Uppsala</p>
+                <p>CountryModern: Sweden</p>
+                <p>Latitude: 58.383333</p>
+                <p>Longitude: 13.433333</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Brynolf II Karlsson</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1405</p>
+                <p>RegnalEnd: 1424</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Gummerus, Synodalstatuter, pp66-69</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: https://books.google.com/books?id=kt8vAQAAMAAJ</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'WebDownload']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
             </div>
             <div>
-                <head>001</head>
-                <p>(1) Primo quod decime non vendantur summatim, sed sub certo modio crebrorum postquam collecte fuerint.</p>
-            </div>
-            <div>
-                <head>002</head>
-                <p>(2) Item nullus permittat exactores occupare granaria ecclesiarum.</p>
-            </div>
-            <div>
-                <head>003</head>
-                <p>(3) Item predicent curati quolibet die dominica parochianis suis declarando que sunt precepta, que sacramenta ecclesie, que opera misericordie et que mortalia peccata.</p>
-            </div>
-            <div>
-                <head>004</head>
-                <p>(4) Item obseruentur scripta Brynulphi recomende memorie.</p>
-            </div>
-            <div>
-                <head>005</head>
-                <p>(5) Item habeantur a quolibet curato articuli synodales in scriptis.</p>
-            </div>
-            <div>
-                <head>006</head>
-                <p>(6) Itera restaurantur predia ecclesiastica et precipue fundi presbiterales.</p>
-            </div>
-            <div>
-                <head>007</head>
-                <p>(7) Item nullus habeat concubinam sub pena ammissionis omnium bonorum suorum mobilium et sub pena carceris.</p>
-            </div>
-            <div>
-                <head>008</head>
-                <p>(8) Item pena adulterancium erit ammissio omnium bonorum mobilium, pena carceris et priuacio beneficii.</p>
-            </div>
-            <div>
-                <head>009</head>
-                <p>(9) Item nullus communicet parochianum alterius sine sui curati licencia sub pena trium marcarum.</p>
-            </div>
-            <div>
-                <head>010</head>
-                <p>(10) Item nullus alienet bona ecclesie sine licencia episcopi.</p>
-            </div>
-            <div>
-                <head>011</head>
-                <p>(11) Item nullus admittat questores sine licencia episcopi.</p>
-            </div>
-            <div>
-                <head>012</head>
-                <p>(12) Item quilibet curatus det oram tantum et ecclesia det II oras de qualibet nocte procuracionis pro restauracione domus ecclesie catedralis Parisiis situate, quarta quando visitet episcopus excepta.</p>
-            </div>
-            <div>
-                <head>013</head>
-                <p>(13) Item quod qui curati fuerant per quinquennium habeant funeralia.</p>
-            </div>
-            <div>
-                <head>014</head>
-                <p>(14) Item sint scripture ad trunccos ecclesie cathedralis in qualibet parochiali ecclesia iuxta antiquam consuetudinem et curati pronuncient indulgencias scriptas ibidem et modum promerendi eas.</p>
-            </div>
-            <div>
-                <head>015</head>
-                <p>(15) Item quilibet officialis informet in capitulis suis clericos sui officialatus de quolibet articulo litere indulgenciarum ad trunccos et de statutis, et si ad hoc non fuerit sufficiens, faciat per alium de contracta.</p>
-            </div>
-            <div>
-                <head>016</head>
-                <p>(16) Item cereus paschalis fiet de nouo quolibet anno.</p>
-            </div>
-            <div>
-                <head>017</head>
-                <p>(17) Item quilibet curatus habeat clauem ad cistam et granarium ecclesie cum tutoribus.</p>
-            </div>
-            <div>
-                <head>018</head>
-                <p>(18) Item nullus presbiter nostre dyocesis sit extra episcopatum per VIII dies absque nostra licencia sub pena suspensionis ab officio donec redierit, nisi legitime impeditus.</p>
-            </div>
-            <div>
-                <head>019</head>
-                <p>(19) Item Curati habeant casus papales et episcopales in scriptis, vt sciant consulere suis penitentibus.</p>
-            </div>
-            <div>
-                <head>020</head>
-                <p>(20) Item curati intiment parochialibus suis indulgencias que dantur visitantibus ecclesiam cathedralem et manus sibi porrigentibus adiutrices.</p>
-            </div>
-            <div>
-                <head>021</head>
-                <p>(21) Item clerici habeant in scriptis canones penitenciales.</p>
-            </div>
-            <div>
-                <head>022</head>
-                <p>(22) Item clerici intiment parochianis suis quod confessores erunt apud ecclesiam cathedralem auctoritatem habentes in casibus papalibus et episcopalibus in festo assumpcionis beate Marie virginis.</p>
-            </div>
-            <div>
-                <head>023</head>
-                <p>(23) Item tot sint collectores pro ecclesia cathedrali quot sunt curati ad minus.</p>
-            </div>
-            <div>
-                <head>024</head>
-                <p>(24) Item quilibet curatus soluat ecclesiis que debet et tenetur ante pascha.</p>
-            </div>
-            <div>
-                <head>025</head>
-                <p>(25) Item quilibet curatus moneat parochianos suos ter ante festum pasche ad soluendum debita ecclesiis quod debet et tenetur ante pascha.</p>
-            </div>
-            <div>
-                <head>026</head>
-                <p>(26) Item quilibet curatus moneat parochianos suos ter ante festum purificacionis vt soluant fideliter decimas suas ante Blasii.</p>
-            </div>
-            <div>
-                <head>027</head>
-                <p>(27) Item conscribantur decime fideliter in festo purificacionis et tradantur officialibus cum nominibus restancium et postea mittantur scripta illa episcopo ad curiam suam infra quindenam a festo Purificacionis.</p>
-            </div>
-            <div>
-                <head>028</head>
-                <p>(28) Item adulteri non recipiant corpus Christi in festo pasche, nisi legittime impediti fuerint, et non sepeliantur in ecclesia illo anno si moriuntur.</p>
-            </div>
-            <div>
-                <head>029</head>
-                <p>(29) Item minus decimantes quam vnum crebrum biwgreth ponant decimas suas simul in vnum locum et postea diuidantur per crebra Ita quod de quolibet crebro recipiat II modios ecclesia, II modios episcopus, I modium hospitale et I diuidant inter se prepositus et archidiaconus.</p>
-            </div>
-            <div>
-                <head>030</head>
-                <p>(30) Item recipiatur nouum crisma omni anno infra quindenam post pascha et antiqua comburatur.</p>
-            </div>
-            <div>
-                <head>031</head>
-                <p>(31) Item habeatur I crismale pro omnibus ecclesiis vnius curati.</p>
-            </div>
-            <div>
-                <head>032</head>
-                <p>(32) Item de trina immersione baptizandorum.</p>
-            </div>
-            <div>
-                <head>033</head>
-                <p>(33) Item moneantur usurarii et violenter hospitantes in fundis presbiteralibus et eis eorum periculum intimetur.</p>
-            </div>
-            <div>
-                <head>034</head>
-                <p>(34) Item nullus tales sepeliat nisi sufficienti prestita satisfactione et caucione de satisfaciendo lesis.</p>
-            </div>
-            <div>
-                <head>035</head>
-                <p>(35) Item Oretur publice omni die dominica pro animabus benefactorum et scribantur nomina eorum in missalibus.</p>
-            </div>
-            <div>
-                <head>036</head>
-                <p>(36) Item nullus benedicat nupcias prius benedictas.</p>
-            </div>
-            <div>
-                <head>037</head>
-                <p>(37) Item aduertent curati quod eorum missalia sint correcta.</p>
-            </div>
-            <div>
-                <head>038</head>
-                <p>(38) Item omnes clerici veniant ad synodum prima die synodi mane.</p>
-            </div>
-            <div>
-                <head>039</head>
-                <p>(39) Item nullus recipiat pignus ex parte ecclesie nisi ad certum tempus.</p>
-            </div>
-            <div>
-                <head>040</head>
-                <p>(40) Item nullus exigat pecuniam pro sacramentis nisi peracto officio.</p>
-            </div>
-            <div>
-                <head>041</head>
-                <p>(41) Item nullus portet crismale nisi fuerit infra sacros.</p>
-            </div>
-            <div>
-                <head>042</head>
-                <p>(42) Item nullus celebret cum corrupto vino.</p>
-            </div>
-            <div>
-                <head>043</head>
-                <p>(43) Item libri ecclesiarum non deportentur de ecclesia.</p>
-            </div>
-            <div>
-                <head>044</head>
-                <p>(44) Item excommunicati per episcopum excommunicentur per omnes curatos in dyocesi.</p>
-            </div>
-            <div>
-                <head>045</head>
-                <p>(45) Item quilibet curatus habeat vestimenta munda altaris et indumenta.</p>
-            </div>
-            <div>
-                <head>046</head>
-                <p>(46) Item consecrentur quolibet mense noue hostie consumptis prius consecratis.</p>
-            </div>
-            <div>
-                <head>047</head>
-                <p>(47) Item presbiter lauet corporale per se.</p>
-            </div>
-            <div>
-                <head>explicit</head>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>﻿Articuli synodales Brynulphi.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) Primo quod decime non vendantur summatim, sed sub certo modio crebrorum postquam collecte fuerint.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Item nullus permittat exactores occupare granaria ecclesiarum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) Item predicent curati quolibet die dominica parochianis suis declarando que sunt precepta, que sacramenta ecclesie, que opera misericordie et que mortalia peccata.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) Item obseruentur scripta Brynulphi recomende memorie.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) Item habeantur a quolibet curato articuli synodales in scriptis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>(6) Itera restaurantur predia ecclesiastica et precipue fundi presbiterales.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>(7) Item nullus habeat concubinam sub pena ammissionis omnium bonorum suorum mobilium et sub pena carceris.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>(8) Item pena adulterancium erit ammissio omnium bonorum mobilium, pena carceris et priuacio beneficii.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>(9) Item nullus communicet parochianum alterius sine sui curati licencia sub pena trium marcarum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>(10) Item nullus alienet bona ecclesie sine licencia episcopi.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>(11) Item nullus admittat questores sine licencia episcopi.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>(12) Item quilibet curatus det oram tantum et ecclesia det II oras de qualibet nocte procuracionis pro restauracione domus ecclesie catedralis Parisiis situate, quarta quando visitet episcopus excepta.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>(13) Item quod qui curati fuerant per quinquennium habeant funeralia.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>(14) Item sint scripture ad trunccos ecclesie cathedralis in qualibet parochiali ecclesia iuxta antiquam consuetudinem et curati pronuncient indulgencias scriptas ibidem et modum promerendi eas.</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>(15) Item quilibet officialis informet in capitulis suis clericos sui officialatus de quolibet articulo litere indulgenciarum ad trunccos et de statutis, et si ad hoc non fuerit sufficiens, faciat per alium de contracta.</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>(16) Item cereus paschalis fiet de nouo quolibet anno.</p>
+                </div>
+                <div>
+                    <head>Capitulum 17</head>
+                    <p>(17) Item quilibet curatus habeat clauem ad cistam et granarium ecclesie cum tutoribus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18</head>
+                    <p>(18) Item nullus presbiter nostre dyocesis sit extra episcopatum per VIII dies absque nostra licencia sub pena suspensionis ab officio donec redierit, nisi legitime impeditus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 19</head>
+                    <p>(19) Item Curati habeant casus papales et episcopales in scriptis, vt sciant consulere suis penitentibus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 20</head>
+                    <p>(20) Item curati intiment parochialibus suis indulgencias que dantur visitantibus ecclesiam cathedralem et manus sibi porrigentibus adiutrices.</p>
+                </div>
+                <div>
+                    <head>Capitulum 21</head>
+                    <p>(21) Item clerici habeant in scriptis canones penitenciales.</p>
+                </div>
+                <div>
+                    <head>Capitulum 22</head>
+                    <p>(22) Item clerici intiment parochianis suis quod confessores erunt apud ecclesiam cathedralem auctoritatem habentes in casibus papalibus et episcopalibus in festo assumpcionis beate Marie virginis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 23</head>
+                    <p>(23) Item tot sint collectores pro ecclesia cathedrali quot sunt curati ad minus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 24</head>
+                    <p>(24) Item quilibet curatus soluat ecclesiis que debet et tenetur ante pascha.</p>
+                </div>
+                <div>
+                    <head>Capitulum 25</head>
+                    <p>(25) Item quilibet curatus moneat parochianos suos ter ante festum pasche ad soluendum debita ecclesiis quod debet et tenetur ante pascha.</p>
+                </div>
+                <div>
+                    <head>Capitulum 26</head>
+                    <p>(26) Item quilibet curatus moneat parochianos suos ter ante festum purificacionis vt soluant fideliter decimas suas ante Blasii.</p>
+                </div>
+                <div>
+                    <head>Capitulum 27</head>
+                    <p>(27) Item conscribantur decime fideliter in festo purificacionis et tradantur officialibus cum nominibus restancium et postea mittantur scripta illa episcopo ad curiam suam infra quindenam a festo Purificacionis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 28</head>
+                    <p>(28) Item adulteri non recipiant corpus Christi in festo pasche, nisi legittime impediti fuerint, et non sepeliantur in ecclesia illo anno si moriuntur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 29</head>
+                    <p>(29) Item minus decimantes quam vnum crebrum biwgreth ponant decimas suas simul in vnum locum et postea diuidantur per crebra Ita quod de quolibet crebro recipiat II modios ecclesia, II modios episcopus, I modium hospitale et I diuidant inter se prepositus et archidiaconus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 30</head>
+                    <p>(30) Item recipiatur nouum crisma omni anno infra quindenam post pascha et antiqua comburatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 31</head>
+                    <p>(31) Item habeatur I crismale pro omnibus ecclesiis vnius curati.</p>
+                </div>
+                <div>
+                    <head>Capitulum 32</head>
+                    <p>(32) Item de trina immersione baptizandorum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 33</head>
+                    <p>(33) Item moneantur usurarii et violenter hospitantes in fundis presbiteralibus et eis eorum periculum intimetur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 34</head>
+                    <p>(34) Item nullus tales sepeliat nisi sufficienti prestita satisfactione et caucione de satisfaciendo lesis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 35</head>
+                    <p>(35) Item Oretur publice omni die dominica pro animabus benefactorum et scribantur nomina eorum in missalibus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 36</head>
+                    <p>(36) Item nullus benedicat nupcias prius benedictas.</p>
+                </div>
+                <div>
+                    <head>Capitulum 37</head>
+                    <p>(37) Item aduertent curati quod eorum missalia sint correcta.</p>
+                </div>
+                <div>
+                    <head>Capitulum 38</head>
+                    <p>(38) Item omnes clerici veniant ad synodum prima die synodi mane.</p>
+                </div>
+                <div>
+                    <head>Capitulum 39</head>
+                    <p>(39) Item nullus recipiat pignus ex parte ecclesie nisi ad certum tempus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 40</head>
+                    <p>(40) Item nullus exigat pecuniam pro sacramentis nisi peracto officio.</p>
+                </div>
+                <div>
+                    <head>Capitulum 41</head>
+                    <p>(41) Item nullus portet crismale nisi fuerit infra sacros.</p>
+                </div>
+                <div>
+                    <head>Capitulum 42</head>
+                    <p>(42) Item nullus celebret cum corrupto vino.</p>
+                </div>
+                <div>
+                    <head>Capitulum 43</head>
+                    <p>(43) Item libri ecclesiarum non deportentur de ecclesia.</p>
+                </div>
+                <div>
+                    <head>Capitulum 44</head>
+                    <p>(44) Item excommunicati per episcopum excommunicentur per omnes curatos in dyocesi.</p>
+                </div>
+                <div>
+                    <head>Capitulum 45</head>
+                    <p>(45) Item quilibet curatus habeat vestimenta munda altaris et indumenta.</p>
+                </div>
+                <div>
+                    <head>Capitulum 46</head>
+                    <p>(46) Item consecrentur quolibet mense noue hostie consumptis prius consecratis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 47</head>
+                    <p>(47) Item presbiter lauet corporale per se.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1]</p>
+                    <p>[2]</p>
+                    <p>[]</p>
+                </div>
             </div>
         </body>
     </text>

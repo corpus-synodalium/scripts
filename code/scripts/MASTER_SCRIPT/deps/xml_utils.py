@@ -5,8 +5,8 @@ from xml.dom import minidom
 # xml_utils.py (v1) Apr 09, 2018
 # ------------------------------
 # Utility (helper) functions used in main.py for writing XML output file.
-# This module uses Python 3
-# Written by Thawsitt Naing (thawsitt@cs.stanford.edu)
+# This module uses Python 3.
+# Written by Thawsitt Naing (thawsitt@cs.stanford.edu).
 
 
 class XMLUtils:
@@ -63,7 +63,7 @@ class XMLUtils:
         # child nodes of 'creation'
         origDate = ET.SubElement(creation, 'origDate')
         dateNotes = ET.SubElement(creation, 'dateNotes')
-        origPlaces = ET.SubElement(creation, 'origPlaces')
+        origPlace = ET.SubElement(creation, 'origPlace')
         diocese = ET.SubElement(creation, 'diocese')
         province = ET.SubElement(creation, 'province')
         country = ET.SubElement(creation, 'country')
@@ -89,10 +89,16 @@ class XMLUtils:
     def getTitleFromFileName(self, filename):
         record_id = re.findall(r'^(.*?)_', filename)[0]
         name = re.findall(r'^(?:.*?)_(.*?)_(?:.*?)\.txt$', filename)[0]
-        year = re.findall(r'^(?:.*?)_(?:.*?)_(.*?)\.txt$', filename)[0]
-        title = '{}. {} ({})'.format(record_id, name, year)
+        title = '{} (#{})'.format(name, record_id)
         return title
 
+    def getDateText(self, metadata):
+        date_text = metadata['Year']
+        if metadata['Month']:
+            date_text += '-{}'.format(str(int(metadata['Month'])).zfill(2))
+        if metadata['Day']:
+            date_text += '-{}'.format(str(int(metadata['Day'])).zfill(2))
+        return date_text
 
 
     def populateTeiHeader(self, root, metadata, filename):
@@ -105,16 +111,34 @@ class XMLUtils:
 
 
         recordID = root.find('teiHeader/fileDesc/titleStmt/recordID')
-        recordID.text = 'Record ID: {}'.format(str(int(metadata['RecordID'])).zfill(4))
+        recordID.text = '{}'.format(str(int(metadata['RecordID'])).zfill(4))
 
         
 
     def populateProfileDesc(self, root, metadata, filename):
+        origDate = root.find('teiHeader/profileDesc/creation/origDate')
+        origDate.text = self.getDateText(metadata)
+        if metadata['Circa'] == 'Yes':
+            origDate.set('precision', 'circa')
+
+
+        origPlace = root.find('teiHeader/profileDesc/creation/origPlace')
+        origPlace.text = metadata['Place']
+
         diocese = root.find('teiHeader/profileDesc/creation/diocese')
         diocese.text = metadata['Diocese']
 
         province = root.find('teiHeader/profileDesc/creation/province')
         province.text = metadata['Province']
+
+        country = root.find('teiHeader/profileDesc/creation/country')
+        country.text = metadata['CountryModern']
+
+        classification = root.find('teiHeader/profileDesc/textDesc/domain')
+        classification.text = metadata['Classification']
+
+        langUsage = root.find('teiHeader/profileDesc/langUsage')
+        langUsage.text = metadata['Language']
 
 
     def populateText(self, root, text, footnotes, metadata, filename):

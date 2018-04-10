@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 0239</recordID>
+                <title>Rouen (#0239)</title>
+                <recordID>0239</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate>1299</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Rouen</origPlace>
                 <diocese>Rouen</diocese>
                 <province>Rouen</province>
-                <country/>
+                <country>France</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Provincial</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,51 +55,90 @@
     <text>
         <body>
             <div>
-                <head>incipit</head>
+                <head>Metadata</head>
+                <p>RecordID: 239</p>
+                <p>Year: 1299</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Rouen</p>
+                <p>Diocese: Rouen</p>
+                <p>Province: Rouen</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 49.443889</p>
+                <p>Longitude: 1.103333</p>
+                <p>PlaceNotes: held in the church of Notre-Dame du Pre</p>
+                <p>Classification: Provincial</p>
+                <p>IssuingAuthority: Guillaume de Flavacourt</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1278</p>
+                <p>RegnalEnd: 1306</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Bessin, Concilia, I, 162-64</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: https://books.google.com/books?id=0SGIk69vxS0C</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'WebDownload']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
             </div>
             <div>
-                <head>001</head>
-                <p>(1) Quoniam, sicut ipsa facti evidentia quotidiana, docente cognovimus, sacerdotes quidam curati, atquae beneficiati clerici, cucufati, sotularibus consutis laqueis calciati, ensibus accincti, seu gladiis quorum usus eis interdicitur, super vestem, ad modum militum, [1] impudenter accedunt in locis publicis; vestimenta nimia brevitate notanda, minusque congruentem tonsuram publice deferentes, focarias seu concubinas, aut alias mulieres, quarum conversatio cum eisdem clericis est suspecta, in suis habent domibus, atque nonnunquam in alienis confovent et frequentant.</p>
-                <p>Ac nonnulli iustitiae saecularis officium, audiendo causas, examinando processus ut iudices [2], in curia saeculari exercent, et quidam foeneratitiis aliisque contractibus illicitis [3] contra [4] se immiscent.</p>
-                <p>Vitam suam alias in luxuriis, ebrietatibus, commessationibus deducentes, supplicium quaerunt sibi perpetuum; seminantes in carne, corruptionem messuri, perenniter; ministerium suum vituperant, proximos scandalisant, atque subiectos, et alios populos, quibus bene vivendi lumen et speculum sine ruga [5] debent per opera sancta praetendere, in seipsis, apostatare faciunt et errare in invio, ac ex suis reprobis actibus et exemplis illos in puteum interitus secum trahunt.</p>
-                <p>Quin obliti penitus Dei sui, atque homines sine lege, officii sui immemores, qui sunt in sanctificatione electi, praecepta spernunt canonica atque divina, praevaricatores effecti, proh pudor! suae legis.  Nos tantis obviare periculis, et quos timor divinus a malo non revocat, etiam naturalis ratio non redarguit, et mundana verecundia non refraenat, suis dicentes in cordibus. [6]</p>
-                <p>Ubi est deus ? poenarum fraenis temporalium quas formidant, perstringere cupientes: Statuimus, antiquorum Patrum salubria Statuta recensentes, [7] ut si clericus Beneficiatus quilibet, post generalem admonitionem de abstinendo penitus a praemissis et quolibet eorumdem, et de vivendo pie, decenter atque iuste secundum canonicas sanctiones, aliquem de praedictis excessibus praesumerit attentare: amissionis poena omnium fructuum beneficii sui, seu beneficiorum, si plura forsitan obtineat, per annum unum absque misericordia percellatur.</p>
-                <p>Contra ipsum ad privationem beneficii ipsius seu beneficiorum, si per annum pertinax in eadem malitia perseveret, nihilominus porcedatur.</p>
-            </div>
-            <div>
-                <head>002</head>
-                <p>(2) Statuimus ut Baillivi, praepositi, maiores, atque alii iudices saeculares, quocumque nomine conseantur, assisias atque placita diebus Dominicis atque Festis Virginis gloriosae, Sanctorum Ioannis Baptistae, Michaelis Archangelis, Sanctorumque Apostolorum et Evangelistarum, ac aliis qui cum clero et populo in ecclesiis celebrantur, in quibus, solum divinis est laudibus, non terrenis negotiis insistendum, tenere atque exercere desistant, penitusque quiescant, generaliter moneantur.</p>
-                <p>Qui si parere contemserit, temere forsan contrarium attentando; incurrant excommunicationis sententiam ipso facto.</p>
-            </div>
-            <div>
-                <head>003</head>
-                <p>(3) Poena feriri simili ipso facto auctoritate praedicti concilii statuentes, clericos, qui super factis personalibus, atque specialiter de clamore de Haro, ubi de facto personae quaeritur, se supponunt iustitiae saeculari seu ipsi iustitiae, sub praetextu factorum huiusmodi exhibent emendas, post monitionem de contrario generalem.</p>
-            </div>
-            <div>
-                <head>004</head>
-                <p>(4) Porro quorumdam iudicum saecularium inconsulta conamina, quibus matris suae videlicet Ecclesiae, libertates atque iura multifaria moliuntur infringere, memorati auctoritate concilii reprimere cupientes.</p>
-                <p>Statuimus inhibendo [8] ne quoscumque clericorum eorum, aliasve personas, occasione factorum a clericis commissorum, super delictis atque factis personalibus quibuscumque commissi, atque specialiter in clamore de Haro, necnon de crimine usurario a Clerico perpetrato [9] coram se, vivente eodem clerico vel defuncto, respondere compellant, seu cognitionem factorum huiusmodi in se sumant.</p>
-                <p>Quod si generaliter, moniti, contra fecerint: auctoritate praedicta excommunicationi subiaceant ipso facto.</p>
-            </div>
-            <div>
-                <head>005</head>
-                <p>(5) Adhuc nostrum pulsat animum, ut adversus varia saecularis Iustitiae officia tenentium insensatam malitiam occurramus: qui quod sibi sacrae Scripturae praeconium comminatur, ignorant; qui pro temporalibus molestiis quas, cum praesunt, pauperibus ingerunt, atque qui armis bellicis non utuntur, per quos ministri Ecclesiae designantur; aeterno incendio cremabuntur: quodque si pax augeatur, et disciplina Ecclesiae per infideles principes, eorumque ministros quoslibet, solvatur, ille tamen exiget ab eis rationem, qui suam illorum tradidit Ecclesiam potestati.</p>
-                <p>Contra matrem Ecclesiam manum suam erectis cornibus aggravantes, ipsius iurisdictionem et libertatem suis fallaciis usurpare nituntur, ac iudices ecclesiasticos in casibus, in quibus de iure vel antiqua et approbata consuetudine ad eosdem causarum cognitio noscitur pertinere, quominus de ipsis cognoscere valeant, impediunt atque perturbant: eisdem cedulas inhibitorias dirigentes, quae brevia nuncupantur, in casibus in quibus de sui natura brevia nulla cadunt: propter quae novellae constitutionis Domini Bonifacii Papae VIII auctoritate, in excommunicationis sententiam incidunt ipso facto.  Deliberatione habita super hoc diligenti, statuimus ordinantes, ut nulla haec brevia per ecclesiasticos iudices admittantur, nec eis in aliquo pareant.</p>
-                <p>Quod si in hac sumpta occasione, Baillivi, praepositi, vicecomites, aliive iudices saeculares, in personarum vel bonorum captionem procedant, directe vel indirecte partem ad desistendum vel iudicem compellendo: monitione legitima praecedente, excommunicationi subiaceant ipso facto; a qua per Praelatos, non nisi parte et iudice congrue satisfactis, ac sibi poena super tanto excessu indicta legitima, quae timorem ceteris incutiat, attentandi similia quomodolibet absolvantur: nolentes ut per Officialem aut Poenitentiarios Praelatorum, nisi eis ex speciali commissione liceat, huiusmodi sententiae relaxentur.</p>
-                <p>Sententiamque excommunicationis latam ab uno iudice ecclesastico, praemissorum occasione ac similium, alii in suarum iurisdictionum districtibus exequantur.</p>
-            </div>
-            <div>
-                <head>006</head>
-                <p>(6) Ceterum animarum saluti consulere, ac earum periculo obviare volentes, statuimus quod Praelati, fratribus Praedicatoribus, aut Minoribus, aliisve religiosia quibuslibet, potestatem absolvendi subditos a peccatis suis de cetero non commitant in casibus, qui de iure vel consuetudine reservantur eisdem, nisi certis personis et notis dumtaxat, quarum Praelati industriam duxerint eligendam in certis casibus, qui in concessione vel commissione eis facta specialiter inserantur: quodque ipsa commissio ad casus, in quibus tenetur catholicus quilibet confiteri semel in anno peccata sua proprio sacerdoti, nullatenus extendatur, nisi ipsius sacerdotis habita super hoc voluntate.</p>
-            </div>
-            <div>
-                <head>007</head>
-                <p>(7) Vobis itaque universis Christi fidelibus in civitate et Dioecesi Lexoviensi [10] constitutis, atque vestrum cuilibet, in virtute sanctae obedientiae firmiter iniungimus atque mandamus, quatenus supradicta salubria et ordinationes, secundum tenorem praemissum, quantum in vobis consistit, fideliter observetis, et eis humiliter pareatis.</p>
-                <p>Statuta sunt haec et unanimiter ordinata die, loco, et Concilio memoratis.</p>
-                <p>Anno Domini MCCXIX.</p>
-            </div>
-            <div>
-                <head>explicit</head>
+                <head>Text</head>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) Quoniam, sicut ipsa facti evidentia quotidiana, docente cognovimus, sacerdotes quidam curati, atquae beneficiati clerici, cucufati, sotularibus consutis laqueis calciati, ensibus accincti, seu gladiis quorum usus eis interdicitur, super vestem, ad modum militum, [1] impudenter accedunt in locis publicis; vestimenta nimia brevitate notanda, minusque congruentem tonsuram publice deferentes, focarias seu concubinas, aut alias mulieres, quarum conversatio cum eisdem clericis est suspecta, in suis habent domibus, atque nonnunquam in alienis confovent et frequentant.</p>
+                    <p>Ac nonnulli iustitiae saecularis officium, audiendo causas, examinando processus ut iudices [2], in curia saeculari exercent, et quidam foeneratitiis aliisque contractibus illicitis [3] contra [4] se immiscent.</p>
+                    <p>Vitam suam alias in luxuriis, ebrietatibus, commessationibus deducentes, supplicium quaerunt sibi perpetuum; seminantes in carne, corruptionem messuri, perenniter; ministerium suum vituperant, proximos scandalisant, atque subiectos, et alios populos, quibus bene vivendi lumen et speculum sine ruga [5] debent per opera sancta praetendere, in seipsis, apostatare faciunt et errare in invio, ac ex suis reprobis actibus et exemplis illos in puteum interitus secum trahunt.</p>
+                    <p>Quin obliti penitus Dei sui, atque homines sine lege, officii sui immemores, qui sunt in sanctificatione electi, praecepta spernunt canonica atque divina, praevaricatores effecti, proh pudor! suae legis.  Nos tantis obviare periculis, et quos timor divinus a malo non revocat, etiam naturalis ratio non redarguit, et mundana verecundia non refraenat, suis dicentes in cordibus. [6]</p>
+                    <p>Ubi est deus ? poenarum fraenis temporalium quas formidant, perstringere cupientes: Statuimus, antiquorum Patrum salubria Statuta recensentes, [7] ut si clericus Beneficiatus quilibet, post generalem admonitionem de abstinendo penitus a praemissis et quolibet eorumdem, et de vivendo pie, decenter atque iuste secundum canonicas sanctiones, aliquem de praedictis excessibus praesumerit attentare: amissionis poena omnium fructuum beneficii sui, seu beneficiorum, si plura forsitan obtineat, per annum unum absque misericordia percellatur.</p>
+                    <p>Contra ipsum ad privationem beneficii ipsius seu beneficiorum, si per annum pertinax in eadem malitia perseveret, nihilominus porcedatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Statuimus ut Baillivi, praepositi, maiores, atque alii iudices saeculares, quocumque nomine conseantur, assisias atque placita diebus Dominicis atque Festis Virginis gloriosae, Sanctorum Ioannis Baptistae, Michaelis Archangelis, Sanctorumque Apostolorum et Evangelistarum, ac aliis qui cum clero et populo in ecclesiis celebrantur, in quibus, solum divinis est laudibus, non terrenis negotiis insistendum, tenere atque exercere desistant, penitusque quiescant, generaliter moneantur.</p>
+                    <p>Qui si parere contemserit, temere forsan contrarium attentando; incurrant excommunicationis sententiam ipso facto.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) Poena feriri simili ipso facto auctoritate praedicti concilii statuentes, clericos, qui super factis personalibus, atque specialiter de clamore de Haro, ubi de facto personae quaeritur, se supponunt iustitiae saeculari seu ipsi iustitiae, sub praetextu factorum huiusmodi exhibent emendas, post monitionem de contrario generalem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) Porro quorumdam iudicum saecularium inconsulta conamina, quibus matris suae videlicet Ecclesiae, libertates atque iura multifaria moliuntur infringere, memorati auctoritate concilii reprimere cupientes.</p>
+                    <p>Statuimus inhibendo [8] ne quoscumque clericorum eorum, aliasve personas, occasione factorum a clericis commissorum, super delictis atque factis personalibus quibuscumque commissi, atque specialiter in clamore de Haro, necnon de crimine usurario a Clerico perpetrato [9] coram se, vivente eodem clerico vel defuncto, respondere compellant, seu cognitionem factorum huiusmodi in se sumant.</p>
+                    <p>Quod si generaliter, moniti, contra fecerint: auctoritate praedicta excommunicationi subiaceant ipso facto.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) Adhuc nostrum pulsat animum, ut adversus varia saecularis Iustitiae officia tenentium insensatam malitiam occurramus: qui quod sibi sacrae Scripturae praeconium comminatur, ignorant; qui pro temporalibus molestiis quas, cum praesunt, pauperibus ingerunt, atque qui armis bellicis non utuntur, per quos ministri Ecclesiae designantur; aeterno incendio cremabuntur: quodque si pax augeatur, et disciplina Ecclesiae per infideles principes, eorumque ministros quoslibet, solvatur, ille tamen exiget ab eis rationem, qui suam illorum tradidit Ecclesiam potestati.</p>
+                    <p>Contra matrem Ecclesiam manum suam erectis cornibus aggravantes, ipsius iurisdictionem et libertatem suis fallaciis usurpare nituntur, ac iudices ecclesiasticos in casibus, in quibus de iure vel antiqua et approbata consuetudine ad eosdem causarum cognitio noscitur pertinere, quominus de ipsis cognoscere valeant, impediunt atque perturbant: eisdem cedulas inhibitorias dirigentes, quae brevia nuncupantur, in casibus in quibus de sui natura brevia nulla cadunt: propter quae novellae constitutionis Domini Bonifacii Papae VIII auctoritate, in excommunicationis sententiam incidunt ipso facto.  Deliberatione habita super hoc diligenti, statuimus ordinantes, ut nulla haec brevia per ecclesiasticos iudices admittantur, nec eis in aliquo pareant.</p>
+                    <p>Quod si in hac sumpta occasione, Baillivi, praepositi, vicecomites, aliive iudices saeculares, in personarum vel bonorum captionem procedant, directe vel indirecte partem ad desistendum vel iudicem compellendo: monitione legitima praecedente, excommunicationi subiaceant ipso facto; a qua per Praelatos, non nisi parte et iudice congrue satisfactis, ac sibi poena super tanto excessu indicta legitima, quae timorem ceteris incutiat, attentandi similia quomodolibet absolvantur: nolentes ut per Officialem aut Poenitentiarios Praelatorum, nisi eis ex speciali commissione liceat, huiusmodi sententiae relaxentur.</p>
+                    <p>Sententiamque excommunicationis latam ab uno iudice ecclesastico, praemissorum occasione ac similium, alii in suarum iurisdictionum districtibus exequantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>(6) Ceterum animarum saluti consulere, ac earum periculo obviare volentes, statuimus quod Praelati, fratribus Praedicatoribus, aut Minoribus, aliisve religiosia quibuslibet, potestatem absolvendi subditos a peccatis suis de cetero non commitant in casibus, qui de iure vel consuetudine reservantur eisdem, nisi certis personis et notis dumtaxat, quarum Praelati industriam duxerint eligendam in certis casibus, qui in concessione vel commissione eis facta specialiter inserantur: quodque ipsa commissio ad casus, in quibus tenetur catholicus quilibet confiteri semel in anno peccata sua proprio sacerdoti, nullatenus extendatur, nisi ipsius sacerdotis habita super hoc voluntate.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>(7) Vobis itaque universis Christi fidelibus in civitate et Dioecesi Lexoviensi [10] constitutis, atque vestrum cuilibet, in virtute sanctae obedientiae firmiter iniungimus atque mandamus, quatenus supradicta salubria et ordinationes, secundum tenorem praemissum, quantum in vobis consistit, fideliter observetis, et eis humiliter pareatis.</p>
+                    <p>Statuta sunt haec et unanimiter ordinata die, loco, et Concilio memoratis.</p>
+                    <p>Anno Domini MCCXIX.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
             </div>
         </body>
     </text>

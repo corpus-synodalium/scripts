@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 0172</recordID>
+                <title>Chartres (#0172)</title>
+                <recordID>0172</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate>1355</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Chartres</origPlace>
                 <diocese>Chartres</diocese>
                 <province>Sens</province>
-                <country/>
+                <country>France</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Diocesan</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,18 +55,60 @@
     <text>
         <body>
             <div>
-                <head>incipit</head>
-                <p>NOs vicarii et commissarii in hac parte a domino domino L. miseratione divina Carnotensi episcopo deputati in praesenti sancta synodo monitiones, inhibitiones, revocationes, et praecepta quae sequuntur edidimus.</p>
+                <head>Metadata</head>
+                <p>RecordID: 172</p>
+                <p>Year: 1355</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Chartres</p>
+                <p>Diocese: Chartres</p>
+                <p>Province: Sens</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 48.455847</p>
+                <p>Longitude: 1.484184</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Louis de Vaucemain</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Martene, Vet Script, 7, coll 1366-67</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Data Capture']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
             </div>
             <div>
-                <head>001</head>
-                <p>(1) Quod frustra essent jura, nisi ea tenerentur, et eatenus a sanctis patribus nonnulla statuta provincialia et synodalia juri consona fuerunt facta, per quae tam ecclesiastici quam commissi eis habent regi.</p>
-                <p>Quae quidem statuta circa baptismata, matrimonium, et alia ecclesiastica sacramenta, necnon circa regimen et ordinationem status ecclesiastici et mundani plura sunt necessaria, quae singuli abbates, decani rurales et ecclesiarum curati sub certis poenis in eisdem contentis habere et servare tenentur; quae etiam annis singulis ab omnibus haberi praecipimus et observari.</p>
-                <p>Et quia experientia novimus, quod pauci ea habent et servant, ex quo plura illicita et inconvenientia committuntur, et debita omittuntur, non absque gravi culpa praedictorum: quin immo cum annis singulis sancta synodus celebratur, nonnulli abbates, decani rurales, et ecclesiarum curati ad eam venire non curant, et eorum qui veniunt secum ad ea quae aguntur vacant, alii per ecclesiam colloquendo, alii per villam ad mercaturas, et alia opera illicita et inhonesta discurrunt, et illicentiati recedunt: nescientes nec curantes quid in synodo fuerit ordinatum, adeo quod magis confusio quam synodus dici possit, nec notitia haberi potest, qui praesentes fuerint vel absentes, nec parentibus obedientia prodesse, vel non parentibus contumacia potest obesse.</p>
-                <p>Idcirco nos volentes talibus obviare et de remedio providere, monemus peremtorie in his scriptis omnes et singulos abbates, decanos rurales, et ecclesiarum curatos sub poena contumaciae, quod omnes et singuli coram nobis vel mandato nostro in curia nostra compareant personaliter antequam recedant, ut scire possimus qui venerint, et qui non; alioquin omnes et singulos qui recesserint, reputamus contumaces.</p>
-            </div>
-            <div>
-                <head>explicit</head>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>NOs vicarii et commissarii in hac parte a domino domino L. miseratione divina Carnotensi episcopo deputati in praesenti sancta synodo monitiones, inhibitiones, revocationes, et praecepta quae sequuntur edidimus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) Quod frustra essent jura, nisi ea tenerentur, et eatenus a sanctis patribus nonnulla statuta provincialia et synodalia juri consona fuerunt facta, per quae tam ecclesiastici quam commissi eis habent regi.</p>
+                    <p>Quae quidem statuta circa baptismata, matrimonium, et alia ecclesiastica sacramenta, necnon circa regimen et ordinationem status ecclesiastici et mundani plura sunt necessaria, quae singuli abbates, decani rurales et ecclesiarum curati sub certis poenis in eisdem contentis habere et servare tenentur; quae etiam annis singulis ab omnibus haberi praecipimus et observari.</p>
+                    <p>Et quia experientia novimus, quod pauci ea habent et servant, ex quo plura illicita et inconvenientia committuntur, et debita omittuntur, non absque gravi culpa praedictorum: quin immo cum annis singulis sancta synodus celebratur, nonnulli abbates, decani rurales, et ecclesiarum curati ad eam venire non curant, et eorum qui veniunt secum ad ea quae aguntur vacant, alii per ecclesiam colloquendo, alii per villam ad mercaturas, et alia opera illicita et inhonesta discurrunt, et illicentiati recedunt: nescientes nec curantes quid in synodo fuerit ordinatum, adeo quod magis confusio quam synodus dici possit, nec notitia haberi potest, qui praesentes fuerint vel absentes, nec parentibus obedientia prodesse, vel non parentibus contumacia potest obesse.</p>
+                    <p>Idcirco nos volentes talibus obviare et de remedio providere, monemus peremtorie in his scriptis omnes et singulos abbates, decanos rurales, et ecclesiarum curatos sub poena contumaciae, quod omnes et singuli coram nobis vel mandato nostro in curia nostra compareant personaliter antequam recedant, ut scire possimus qui venerint, et qui non; alioquin omnes et singulos qui recesserint, reputamus contumaces.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
             </div>
         </body>
     </text>

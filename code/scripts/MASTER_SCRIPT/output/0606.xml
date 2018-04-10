@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 0606</recordID>
+                <title>Lisbon (#0606)</title>
+                <recordID>0606</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate>1268</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Lisbon</origPlace>
                 <diocese>Lisbon</diocese>
                 <province>Braga</province>
-                <country/>
+                <country>Portugal</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Diocesan</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,23 +55,65 @@
     <text>
         <body>
             <div>
-                <head>incipit</head>
-                <p>Hee sunt constitutiones quas Mattheus Vlixbonensis episcopus cum consilio capituli sui, cum rectoribus et clero episcopatus Vlixbonensis, in synodo celebrata apud Vlixbona, promulgauit era m.ccc.vi.</p>
+                <head>Metadata</head>
+                <p>RecordID: 606</p>
+                <p>Year: 1268</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Lisbon</p>
+                <p>Diocese: Lisbon</p>
+                <p>Province: Braga</p>
+                <p>CountryModern: Portugal</p>
+                <p>Latitude: 38.713811</p>
+                <p>Longitude: -9.139386</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Mateus</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Synodicon Hispanum, 2, 302-303</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['Library Scan', 'Hard Copy Scan']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
             </div>
             <div>
-                <head>001</head>
-                <p>(1) De testamentis clericorum</p>
-                <p>Vt rectores ecclesiarum res ipsarum diligentius augeant et conseruent, statuimus ut quilibet rector de medietate mobilium eclesie cui preest possit disponere et ordinare pro sue libito uoluntatis tempore mortis sue, dummodo alias competens aniuersarium dicte ecclesie duxerit relinquendum.</p>
-            </div>
-            <div>
-                <head>002</head>
-                <p>(2) De percipiendis fructibus prebendarum</p>
-                <p>Item, ut bona matricis et aliarum ecclesiarum in posterum augeantur, statuimus ut canonicus decedens fructus sue porcionis percipiat integre per annum postquam decesserit secundum consuetudinem ecclesie Vlixbonensis et ex eis sua debita persoluantur, si non habet bona alia de quibus creditoribus et suis seruientibus satisfaciat.</p>
-                <p>Si uero decedens non est debitis obligatus, tunc fructus sue prebende cum diligentia conseruentur ut ex eis aliqua possessio ematur pro eius aniuersario die mortis sue perpetuo faciendo, nisi canonicus decedens equiualens aniuersarium aliunde pro anima sua reliquerit, et tunc de fructibus prebende sue pro suo libito ordinet et disponat.</p>
-                <p>Hoc autem statutum ad omnes porcionarios ecclesie Cathedralis et beneficiatos in ecclesiis parrochialibus ciuitatis et diocesis Vlixbonensis extendi uolumus et mandamus.</p>
-            </div>
-            <div>
-                <head>explicit</head>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Hee sunt constitutiones quas Mattheus Vlixbonensis episcopus cum consilio capituli sui, cum rectoribus et clero episcopatus Vlixbonensis, in synodo celebrata apud Vlixbona, promulgauit era m.ccc.vi.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) De testamentis clericorum</p>
+                    <p>Vt rectores ecclesiarum res ipsarum diligentius augeant et conseruent, statuimus ut quilibet rector de medietate mobilium eclesie cui preest possit disponere et ordinare pro sue libito uoluntatis tempore mortis sue, dummodo alias competens aniuersarium dicte ecclesie duxerit relinquendum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) De percipiendis fructibus prebendarum</p>
+                    <p>Item, ut bona matricis et aliarum ecclesiarum in posterum augeantur, statuimus ut canonicus decedens fructus sue porcionis percipiat integre per annum postquam decesserit secundum consuetudinem ecclesie Vlixbonensis et ex eis sua debita persoluantur, si non habet bona alia de quibus creditoribus et suis seruientibus satisfaciat.</p>
+                    <p>Si uero decedens non est debitis obligatus, tunc fructus sue prebende cum diligentia conseruentur ut ex eis aliqua possessio ematur pro eius aniuersario die mortis sue perpetuo faciendo, nisi canonicus decedens equiualens aniuersarium aliunde pro anima sua reliquerit, et tunc de fructibus prebende sue pro suo libito ordinet et disponat.</p>
+                    <p>Hoc autem statutum ad omnes porcionarios ecclesie Cathedralis et beneficiatos in ecclesiis parrochialibus ciuitatis et diocesis Vlixbonensis extendi uolumus et mandamus.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
             </div>
         </body>
     </text>

@@ -1,5 +1,3 @@
-import os
-import re
 
 # note_parser.py (v1) Apr 09, 2018
 # --------------------------------

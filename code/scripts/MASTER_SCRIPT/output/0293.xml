@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 0293</recordID>
+                <title>Angers (#0293)</title>
+                <recordID>0293</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate>1279</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Angers</origPlace>
                 <diocese>Angers</diocese>
                 <province>Tours</province>
-                <country/>
+                <country>France</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Provincial</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,42 +55,90 @@
     <text>
         <body>
             <div>
-                <head>incipit</head>
-                <p>Concilium celebratum apud Andegavis anno Domini millesimo ccm lxxix.</p>
-                <p>Ad honorem Dei et utilitatem ecclesiarum nostre provincie Turonensis, quibus auctore Domino presidemus, necnon ad reformationem eorum que in visitatione dicte provincie invenimus corrigenda, vocatis venerabilibus fratribus suffraganeis nostris, abbatibus, capitulis et aliis qui fuerunt evocandi, provinciale concilium Andegavi die dominica post festum beate Luce evangeliste duximus celebrandum, in quo de ipsorum episcoporum, abbatum et aliorum ad hoc vocatorum consilio et assensu, ordinavimus capitula que sequuntur, statuta provincialium conciliorum tam predecessorum nostrorum quam auctoritate nostra alias edita, nihilominus innovantes.</p>
+                <head>Metadata</head>
+                <p>RecordID: 293</p>
+                <p>Year: 1279</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Angers</p>
+                <p>Diocese: Angers</p>
+                <p>Province: Tours</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 47.473612</p>
+                <p>Longitude: -0.554167</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Provincial</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Avril, Tours, 271-75</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: Hard Copy Scan</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
             </div>
             <div>
-                <head>001</head>
-                <p>(1) De trahentibus personas ecclesiasticas super actionibus personalibus ad judicium seculare.</p>
-                <p>Cum nuper in Bituricensi concilio auctoritate domini Simonis, tituli Sancte Cecilie presbyteri cardinalis apostolice sedis legati congregato, provida fuerit deliberatione statutum de justiciariis secularibus solam jurisdictionem temporalem habentibus, qui in actionibus personalibus ecclesiasticas personas coram se litigare compellunt, quod si iidem judiciarii dictas personas in premissis coram se litigare compellant vel compulerint, eo ipso auctoritate dicti concilii sententiam excommunicationis incurrant, nos, ad instar predicti concilii, in eos qui predictas personas coram dictis secularibus justiciariis super actionibus personalibus traxerint vel trahi procuraverint, excommunicationis sententiam auctoritate presentis concilii promulgamus que circa eos nullatenus relaxetur, nisi lesis hujusmodi de damnis et expensis et interesse prius per ipsos satisfactum fuerit.</p>
-            </div>
-            <div>
-                <head>002</head>
-                <p>(2) De penis [1].</p>
-                <p>Pro litteris ordinationum et pecunia exigenda.</p>
-                <p>Preterea cum scriptum sit in canone quod sicut non debet episcopus manum quam imponit vendere, ita nec minister vel notarius in ordinatione cujusquam vocem vel calamum vendere, presentis approbatione concilii prohibemus ne quis de cetero pro litteris sigillandis, que conceduntur pro ordinationibus clericorum, aliquod pecuniarum commodum vel quicquam aliud exigat, vel recipiat temporale, alioquin statuti hujusmodi transgressores, si in sacris, sint suspensi, si laici vel in minoribus ordinibus fuerint constituti, excommunicationis sententie, hujus auctoritate concilii, se noverint subjacere.</p>
-            </div>
-            <div>
-                <head>003</head>
-                <p>(3) De cadaveribus ecclesiastice sepulture non tradendis.</p>
-                <p>Item, cum in pluribus casibus prohibeant tam canones quam provincialium conciliorum statuta quorumdam defunctorum corpora tradi ecclesiastice sepulture, et nonnulli sicut in aliquibus nuper hujus provincie locis accidit, preter assensum parochialis presbiteri, in ecclesiis vel cimiteriis propria temeritate intulerint corpora talium defunctorum, nos transgressorum hujusmodi et eorum insolentias pene adjectione cohibere volentes omnes hujusmodi presumptores et illos etiam qui ad hoc eis opem aut consilium dederint, excommunicationis sententiam incurrere volumus ipso facto, sacerdotibus qui ad hoc interesse presumpserint usque ad sex menses hoc ipso suspensionis sententiam incursuris.</p>
-            </div>
-            <div>
-                <head>004</head>
-                <p>(4) Contra clericos qui excommunicationem sustinent per annum et amplius et est pena maxima [2].</p>
-                <p>Item, quia ex eo quod ecclesiastica censura damnabiliter contemnitur, nec ut decet servatur, a clericis maxime tam secularibus quam regularibus ceteros ad id per exempla pernitiosa trahentibus ad ruinam frequenter contigit rumpi nervum ecclesiastice discipline, nos volentes obviare eorum malitiis, prout possumus, remedium adhibendo, auctoritate presentis concilii duximus statuendum, quod clerici, tam seculares quam religiosi beneficium ecclesiasticum seu administrationem quamlibet obtinentes, si excommunicationis sententiam auctoritate ordinaria vel canonis latam incurrerint, postquam solemniter fuerit publicata per amissionem fructuum beneficiorum suorum, seu administrationum hujusmodi quibus a jure puniantur, quandiu in excommunicatione perstiterint, et quos ad consilium diocesani loci converti precipimus in utilitatem ecclesiarum illarum.</p>
-                <p>In quibus obtinuerint beneficia seu administrationes predictas, si dictam sententiam ultra annum sustinuerint animis obstinatis, per locorum diocesanos legitime moneantur, ut an dicta excommunicationis sententia faciant se absolvi.</p>
-                <p>Et si post monitionem hujusmodi, absolutionis beneficium non procuraverint infra alium annum a tempore monitionis ipsorum beneficiis suis per locorum episcopos hujus concilii autoritate priventur.</p>
-            </div>
-            <div>
-                <head>005</head>
-                <p>(5) Datur episcopis in suis diocesis facultas absolvendi a censuris a concilio latis [3].</p>
-                <p>In omnibus autem casibus in quibus excommunicationis vel suspensionis sententiam in presenti concilio duximus promulgandam, cuilibet episcopo in suis civitate et diocesi absolvendi suspensos et excommunicatos post satisfactionem congruam in forma ecclesie auctoritate presentis concilii concedimus potestatem.</p>
-            </div>
-            <div>
-                <head>explicit</head>
-                <p>In cujus rei testimonium etc.</p>
-                <p>Actum dicta die anno Domini MoCCoLXXIX.</p>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Concilium celebratum apud Andegavis anno Domini millesimo ccm lxxix.</p>
+                    <p>Ad honorem Dei et utilitatem ecclesiarum nostre provincie Turonensis, quibus auctore Domino presidemus, necnon ad reformationem eorum que in visitatione dicte provincie invenimus corrigenda, vocatis venerabilibus fratribus suffraganeis nostris, abbatibus, capitulis et aliis qui fuerunt evocandi, provinciale concilium Andegavi die dominica post festum beate Luce evangeliste duximus celebrandum, in quo de ipsorum episcoporum, abbatum et aliorum ad hoc vocatorum consilio et assensu, ordinavimus capitula que sequuntur, statuta provincialium conciliorum tam predecessorum nostrorum quam auctoritate nostra alias edita, nihilominus innovantes.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) De trahentibus personas ecclesiasticas super actionibus personalibus ad judicium seculare.</p>
+                    <p>Cum nuper in Bituricensi concilio auctoritate domini Simonis, tituli Sancte Cecilie presbyteri cardinalis apostolice sedis legati congregato, provida fuerit deliberatione statutum de justiciariis secularibus solam jurisdictionem temporalem habentibus, qui in actionibus personalibus ecclesiasticas personas coram se litigare compellunt, quod si iidem judiciarii dictas personas in premissis coram se litigare compellant vel compulerint, eo ipso auctoritate dicti concilii sententiam excommunicationis incurrant, nos, ad instar predicti concilii, in eos qui predictas personas coram dictis secularibus justiciariis super actionibus personalibus traxerint vel trahi procuraverint, excommunicationis sententiam auctoritate presentis concilii promulgamus que circa eos nullatenus relaxetur, nisi lesis hujusmodi de damnis et expensis et interesse prius per ipsos satisfactum fuerit.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) De penis [1].</p>
+                    <p>Pro litteris ordinationum et pecunia exigenda.</p>
+                    <p>Preterea cum scriptum sit in canone quod sicut non debet episcopus manum quam imponit vendere, ita nec minister vel notarius in ordinatione cujusquam vocem vel calamum vendere, presentis approbatione concilii prohibemus ne quis de cetero pro litteris sigillandis, que conceduntur pro ordinationibus clericorum, aliquod pecuniarum commodum vel quicquam aliud exigat, vel recipiat temporale, alioquin statuti hujusmodi transgressores, si in sacris, sint suspensi, si laici vel in minoribus ordinibus fuerint constituti, excommunicationis sententie, hujus auctoritate concilii, se noverint subjacere.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) De cadaveribus ecclesiastice sepulture non tradendis.</p>
+                    <p>Item, cum in pluribus casibus prohibeant tam canones quam provincialium conciliorum statuta quorumdam defunctorum corpora tradi ecclesiastice sepulture, et nonnulli sicut in aliquibus nuper hujus provincie locis accidit, preter assensum parochialis presbiteri, in ecclesiis vel cimiteriis propria temeritate intulerint corpora talium defunctorum, nos transgressorum hujusmodi et eorum insolentias pene adjectione cohibere volentes omnes hujusmodi presumptores et illos etiam qui ad hoc eis opem aut consilium dederint, excommunicationis sententiam incurrere volumus ipso facto, sacerdotibus qui ad hoc interesse presumpserint usque ad sex menses hoc ipso suspensionis sententiam incursuris.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) Contra clericos qui excommunicationem sustinent per annum et amplius et est pena maxima [2].</p>
+                    <p>Item, quia ex eo quod ecclesiastica censura damnabiliter contemnitur, nec ut decet servatur, a clericis maxime tam secularibus quam regularibus ceteros ad id per exempla pernitiosa trahentibus ad ruinam frequenter contigit rumpi nervum ecclesiastice discipline, nos volentes obviare eorum malitiis, prout possumus, remedium adhibendo, auctoritate presentis concilii duximus statuendum, quod clerici, tam seculares quam religiosi beneficium ecclesiasticum seu administrationem quamlibet obtinentes, si excommunicationis sententiam auctoritate ordinaria vel canonis latam incurrerint, postquam solemniter fuerit publicata per amissionem fructuum beneficiorum suorum, seu administrationum hujusmodi quibus a jure puniantur, quandiu in excommunicatione perstiterint, et quos ad consilium diocesani loci converti precipimus in utilitatem ecclesiarum illarum.</p>
+                    <p>In quibus obtinuerint beneficia seu administrationes predictas, si dictam sententiam ultra annum sustinuerint animis obstinatis, per locorum diocesanos legitime moneantur, ut an dicta excommunicationis sententia faciant se absolvi.</p>
+                    <p>Et si post monitionem hujusmodi, absolutionis beneficium non procuraverint infra alium annum a tempore monitionis ipsorum beneficiis suis per locorum episcopos hujus concilii autoritate priventur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) Datur episcopis in suis diocesis facultas absolvendi a censuris a concilio latis [3].</p>
+                    <p>In omnibus autem casibus in quibus excommunicationis vel suspensionis sententiam in presenti concilio duximus promulgandam, cuilibet episcopo in suis civitate et diocesi absolvendi suspensos et excommunicatos post satisfactionem congruam in forma ecclesie auctoritate presentis concilii concedimus potestatem.</p>
+                </div>
+                <div>
+                    <head>Explicit</head>
+                    <p>In cujus rei testimonium etc.</p>
+                    <p>Actum dicta die anno Domini MoCCoLXXIX.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] removed &lt;&gt;</p>
+                    <p>[2] removed &lt;&gt;</p>
+                    <p>[3] removed &lt;&gt;</p>
+                </div>
             </div>
         </body>
     </text>

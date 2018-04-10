@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 1302</recordID>
+                <title>Chateau-Gontier (#1302)</title>
+                <recordID>1302</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate>1253</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Château-Gontier </origPlace>
                 <diocese>Tours</diocese>
                 <province>Tours</province>
-                <country/>
+                <country>France</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Provincial</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,13 +55,58 @@
     <text>
         <body>
             <div>
-                <head>text</head>
-                <p>Concilium apud Castrum Gonterii celebratum, anno Domini millesimo ducentesimo LIIIo.</p>
-                <p>De abusoribus litterarum apostolicarum.</p>
-                <p>Quoniam quamplures non observantes constitutionem Gregorii pape IX, que in novis Decretalibus in titulo De rescriptis ultima inscribitur, et incipit Quia nonnulli, multos contra ipsius constitutionis tenorem vexare presumunt, nos presentis auctoritate provincialis concilii, excommunicamus omnes illos qui a Pascha proximo venturo in antea talia presumpserint attentare.</p>
-                <p>Si vero vexatus contra tenorem constitutionis ejusdem, vexatorem suum in causam duxerit vel traxerit, contra ipsius constitutionis tenorem, ipsum hujusmodi excommunicationis sententia, volumus non ligari.</p>
-                <p>Et ne per ignorantiam in hac parte se possit aliquis excusari, precipimus hec omnia supradicta in parochialibus ecclesiis denunciari publice singulis diebus dominicis ac festivis.</p>
-                <p>Actum apud Castrum Gonterii, in concilio provinciali, anno gratie MCCLIIIo.</p>
+                <head>Metadata</head>
+                <p>RecordID: 1302</p>
+                <p>Year: 1253</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Château-Gontier </p>
+                <p>Diocese: Tours</p>
+                <p>Province: Tours</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 47.828611</p>
+                <p>Longitude: -0.702778</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Provincial</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Avril, Tours, 187-88</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: Hard Copy Scan</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>All Text</head>
+                    <p>Concilium apud Castrum Gonterii celebratum, anno Domini millesimo ducentesimo LIIIo.</p>
+                    <p>De abusoribus litterarum apostolicarum.</p>
+                    <p>Quoniam quamplures non observantes constitutionem Gregorii pape IX, que in novis Decretalibus in titulo De rescriptis ultima inscribitur, et incipit Quia nonnulli, multos contra ipsius constitutionis tenorem vexare presumunt, nos presentis auctoritate provincialis concilii, excommunicamus omnes illos qui a Pascha proximo venturo in antea talia presumpserint attentare.</p>
+                    <p>Si vero vexatus contra tenorem constitutionis ejusdem, vexatorem suum in causam duxerit vel traxerit, contra ipsius constitutionis tenorem, ipsum hujusmodi excommunicationis sententia, volumus non ligari.</p>
+                    <p>Et ne per ignorantiam in hac parte se possit aliquis excusari, precipimus hec omnia supradicta in parochialibus ecclesiis denunciari publice singulis diebus dominicis ac festivis.</p>
+                    <p>Actum apud Castrum Gonterii, in concilio provinciali, anno gratie MCCLIIIo.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
             </div>
         </body>
     </text>

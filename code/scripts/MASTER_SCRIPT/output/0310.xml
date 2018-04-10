@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 0310</recordID>
+                <title>Saintes (#0310)</title>
+                <recordID>0310</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate>1298</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Saintes</origPlace>
                 <diocese>Saintes</diocese>
                 <province>Bordeaux</province>
-                <country/>
+                <country>France</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Diocesan</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,43 +55,82 @@
     <text>
         <body>
             <div>
-                <head>incipit</head>
+                <head>Metadata</head>
+                <p>RecordID: 310</p>
+                <p>Year: 1298</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Saintes</p>
+                <p>Diocese: Saintes</p>
+                <p>Province: Bordeaux</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 45.7464</p>
+                <p>Longitude: -0.6333</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Mansi 24, col 1185-86</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Data Capture']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
             </div>
             <div>
-                <head>001</head>
-                <p>(1) CUrati sacerdotes, sotulares consutitios, et manicas, sub poena excommunicationis ulterius portare non praesumant.</p>
-                <p>Constitutiones praedecessorum nostrorum, et provinciales, etiam sub poenis ibi insertis, praecipimus observari.</p>
-            </div>
-            <div>
-                <head>002</head>
-                <p>(2) Item denunciamus excommunicatos illos omnes, qui sine nostra licentia ecclesias suas dederunt ad firmam.</p>
-            </div>
-            <div>
-                <head>003</head>
-                <p>(3) Item monemus omnes ecclesiarum rectores, ut in ecclesiis suis personaliter resideant.</p>
-                <p>Quod nisi fecerint, poenam constitutionis super hoc editae eos incurrere volumus ipso facto: illis dumtaxat exceptis, qui a nobis licentiam obtinuerunt gratia studiorum.</p>
-                <p>Quos etiam, si lascivam vitam ducant in studiis, revocamus: et etiam illos, qui subrepta a nobis licentia ob causam ignominiosam recessisse dicuntur, super criminibus diffamati.</p>
-            </div>
-            <div>
-                <head>004</head>
-                <p>(4) Monemus omnes religiosos, ut tam in domibus, quam extra, deferant habitum suum.</p>
-                <p>Qui contrarium fecerint, nisi ex causa legitima valeant excusari, ipso facto sententiam excommunicationis incurrant.</p>
-            </div>
-            <div>
-                <head>005</head>
-                <p>(5) Item monemus omnes illos, qui in alienis parochiis decimas novalium, sine consensu nostro et rectorum ecclesiarum, in quarum parochiis ipsa consistunt novalia, percipiunt, ut amodo non percipiant: et si contrarium fecerint, noverint se excommunicationis vinculo innodatos.</p>
-            </div>
-            <div>
-                <head>006</head>
-                <p>(6) Denunciamus item excommunicatos omnes illos, qui apud nos ratione testamentorum excommunicati fuerint: et denunciari mandamus, nisi infra viginti dies de absolutione doceant coram nobis.</p>
-            </div>
-            <div>
-                <head>007</head>
-                <p>(7) Statuimus, quod quicumque bona clericorum, ecclesiarum, seu ecclesiasticarum personarum, injuste invaserint, ceperint, occupaverint, rapuerint, detinuerint; invadi, occupari, capi, percipi, rapi, detineri fecerint, mandaverint, procuraverint; vel nomine suo invasum, occupatum, captum, raptum, detentum, ratum habuerint; et quicumque jurisdictionem ecclesiasticam, jura, consuetudines laudabiles ecclesiarum hactenus observatas, impediverint, turbaverint, vel oppresserint scienter, ipso facto excommunicationis sententiam incurrant.</p>
-                <p>Et haec diebus Dominicis, et aliis solemnitatibus, in ecclesiis, et aliis locis ecclesiasticis, mandamus nunciari.</p>
-            </div>
-            <div>
-                <head>explicit</head>
+                <head>Text</head>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) CUrati sacerdotes, sotulares consutitios, et manicas, sub poena excommunicationis ulterius portare non praesumant.</p>
+                    <p>Constitutiones praedecessorum nostrorum, et provinciales, etiam sub poenis ibi insertis, praecipimus observari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Item denunciamus excommunicatos illos omnes, qui sine nostra licentia ecclesias suas dederunt ad firmam.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) Item monemus omnes ecclesiarum rectores, ut in ecclesiis suis personaliter resideant.</p>
+                    <p>Quod nisi fecerint, poenam constitutionis super hoc editae eos incurrere volumus ipso facto: illis dumtaxat exceptis, qui a nobis licentiam obtinuerunt gratia studiorum.</p>
+                    <p>Quos etiam, si lascivam vitam ducant in studiis, revocamus: et etiam illos, qui subrepta a nobis licentia ob causam ignominiosam recessisse dicuntur, super criminibus diffamati.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) Monemus omnes religiosos, ut tam in domibus, quam extra, deferant habitum suum.</p>
+                    <p>Qui contrarium fecerint, nisi ex causa legitima valeant excusari, ipso facto sententiam excommunicationis incurrant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) Item monemus omnes illos, qui in alienis parochiis decimas novalium, sine consensu nostro et rectorum ecclesiarum, in quarum parochiis ipsa consistunt novalia, percipiunt, ut amodo non percipiant: et si contrarium fecerint, noverint se excommunicationis vinculo innodatos.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>(6) Denunciamus item excommunicatos omnes illos, qui apud nos ratione testamentorum excommunicati fuerint: et denunciari mandamus, nisi infra viginti dies de absolutione doceant coram nobis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>(7) Statuimus, quod quicumque bona clericorum, ecclesiarum, seu ecclesiasticarum personarum, injuste invaserint, ceperint, occupaverint, rapuerint, detinuerint; invadi, occupari, capi, percipi, rapi, detineri fecerint, mandaverint, procuraverint; vel nomine suo invasum, occupatum, captum, raptum, detentum, ratum habuerint; et quicumque jurisdictionem ecclesiasticam, jura, consuetudines laudabiles ecclesiarum hactenus observatas, impediverint, turbaverint, vel oppresserint scienter, ipso facto excommunicationis sententiam incurrant.</p>
+                    <p>Et haec diebus Dominicis, et aliis solemnitatibus, in ecclesiis, et aliis locis ecclesiasticis, mandamus nunciari.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
             </div>
         </body>
     </text>

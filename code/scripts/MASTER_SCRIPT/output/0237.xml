@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 0237</recordID>
+                <title>Treguier (#0237)</title>
+                <recordID>0237</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate>1374</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Tréguier</origPlace>
                 <diocese>Tréguier</diocese>
                 <province>Tours</province>
-                <country/>
+                <country>France</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Diocesan</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,45 +55,89 @@
     <text>
         <body>
             <div>
-                <head>incipit</head>
+                <head>Metadata</head>
+                <p>RecordID: 237</p>
+                <p>Year: 1374</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Tréguier</p>
+                <p>Diocese: Tréguier</p>
+                <p>Province: Tours</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 48.785833</p>
+                <p>Longitude: -3.231111</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Martene, Thes IV, 1125-1126</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Data Capture']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
             </div>
             <div>
-                <head>001</head>
-                <p>(1) JOHANNES Dei ac sanctae sedis apostolicae gratia episcopus Trecorensis universis fidelibus in nostris civitate et dioecesi constitutis, salutem in Domino sempiternam.</p>
-                <p>Cum deceat gloriosam Virginem MARIAM post ipsum Deum laudare et honorare, et cum sanctis suis sit gloriosus, et ad alios Christi fideles pertineat divinum officium magis augmentare quam diminuere: hinc est quod in omnibus capellis gloriosae Virginis Mariae, angelorum et archangelorum, beatorum apostolorum et evangelistarum, beatorum TUDGUALI et YVONIS et NICOLAI, et omnium martyrum et confessorum, virginum, et aliorum sanctorum et sanctarum in civitate et dioecesi nostris constitutis aedificatis, et bene constructis in honore cujuslibet ipsorum, missae celebrentur de cetero per idoneos capellanos de voluntate rectorum parochialium nostrae dioecesis, in quorum parochiis dictae capellae fuerint, in diebus ipsorum propriorum festorum cum nota, et aliis diebus sine nota, cum eis opportunum fuerit, et devotio sua aut aliena ad hoc eos inducent, non obstantibus quibuscumque statutis per praedecessores nostros in contrarium editis, praebemus licentiam et assensum; inhibentes sub poena juris omnibus capellanis, ut in dictis capellis vel alibi praetextu dictae dispensationis, aut alias ad benedictiones nuptiales clandestine procedant.</p>
-            </div>
-            <div>
-                <head>002</head>
-                <p>(2) Item, similiter dispensantes cum omnibus fundatoribus ecclesiarum, seu capellarum, ut in eisdem ecclesiis, seu capellis per eos datis, et ceteri utilitatem competentem secundum eorum facultates in reditibus, seu in aliis legatis fabricae ecclesiarum offerentes, in eisdem ecclesiis seu capellis inhumari valeant: inhibentes rectoribus ecclesiarum et procuratoribus dictarum fabricarum, ne alias indistincte quemlibet in ecclesiis suis, seu capellis ad sepulturam admittant.</p>
-            </div>
-            <div>
-                <head>003</head>
-                <p>(3) Item, sub poena excommunicationis, et decem librarum usualium omnibus rectoribus et capellanis et presbyteris nostrae dioecesis, vel civitatis a quocumque conservatore emanatas et vigore quorumcumque processuum privilegiorum contra aliquem de subditis nostris, nisi prius eadem privilegia fuerint nobis, aut officiali nostro ordinario intimata, aut eadem privilegia sub manu publica, aut sub sigillo authentico fuerint in eadem civitate incorporata, sub iisdem poenis mandamus et praecipimus eisdem rectoribus seu capellanis, seu viris ecclesiasticis [1] quatenus parti citate copiam citationis, aut instantem relationem in electione partis in ejus expensas ad sui potitionem assignent, antequam litteras parti adversae restituant.</p>
-            </div>
-            <div>
-                <head>004</head>
-                <p>(4) Item, sub excommunicationis poena mandamus omnibus curatis nostrae dioecesis, ut infra mensem a data praesentium habeant sigillum proprium, in quo continebitur nomen suae parochiae, cum differentia speciali ab aliis, ad executionem faciendam.</p>
-            </div>
-            <div>
-                <head>005</head>
-                <p>(5) Item, irritamus, cassamus, et annullamus omnes obligationes quae de cetero per notarios nostros in talibus recipiantur.</p>
-            </div>
-            <div>
-                <head>006</head>
-                <p>(6) Item, sortilegia et sortilegos, usurarios publicos, et omnes libertates ecclesiasticas, et praesertim Minihii B. Tudguali infringentes in his scriptis excommunicamus; et prohibemus, si notum fuerit, ad ecclesiasticam sepulturam recipi.</p>
-            </div>
-            <div>
-                <head>007</head>
-                <p>(7) Item, mandamus in his scriptis, et praecipimus sub excommunicationis poena omnibus rectoribus, quatenus statuta nostra praesentia et alia praeterita quae fecimus sub excommunicationis poena et decem librarum, quas poenas contra eos et eorum quemlibet qui in praemissis et eorum singulis deficientes seu negligentes fuerint, in his scriptis declaramus [2] et praesentia statuta in eorum ecclesiis publicentur quo usque toti populo sint nota, et pro publicatis manifesta.</p>
-                <p>Datum in plena synodo nostra, sub signo nostro praesentibus apposito, die Jovis post Pentecosten Domini, anno Domini M. CCC. LXXIV.</p>
-            </div>
-            <div>
-                <head>008</head>
-                <p>(8) Item, revocamus omnes gratias per nos alias concessas.</p>
-            </div>
-            <div>
-                <head>explicit</head>
-                <p>Datum ut supra.</p>
+                <head>Text</head>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) JOHANNES Dei ac sanctae sedis apostolicae gratia episcopus Trecorensis universis fidelibus in nostris civitate et dioecesi constitutis, salutem in Domino sempiternam.</p>
+                    <p>Cum deceat gloriosam Virginem MARIAM post ipsum Deum laudare et honorare, et cum sanctis suis sit gloriosus, et ad alios Christi fideles pertineat divinum officium magis augmentare quam diminuere: hinc est quod in omnibus capellis gloriosae Virginis Mariae, angelorum et archangelorum, beatorum apostolorum et evangelistarum, beatorum TUDGUALI et YVONIS et NICOLAI, et omnium martyrum et confessorum, virginum, et aliorum sanctorum et sanctarum in civitate et dioecesi nostris constitutis aedificatis, et bene constructis in honore cujuslibet ipsorum, missae celebrentur de cetero per idoneos capellanos de voluntate rectorum parochialium nostrae dioecesis, in quorum parochiis dictae capellae fuerint, in diebus ipsorum propriorum festorum cum nota, et aliis diebus sine nota, cum eis opportunum fuerit, et devotio sua aut aliena ad hoc eos inducent, non obstantibus quibuscumque statutis per praedecessores nostros in contrarium editis, praebemus licentiam et assensum; inhibentes sub poena juris omnibus capellanis, ut in dictis capellis vel alibi praetextu dictae dispensationis, aut alias ad benedictiones nuptiales clandestine procedant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Item, similiter dispensantes cum omnibus fundatoribus ecclesiarum, seu capellarum, ut in eisdem ecclesiis, seu capellis per eos datis, et ceteri utilitatem competentem secundum eorum facultates in reditibus, seu in aliis legatis fabricae ecclesiarum offerentes, in eisdem ecclesiis seu capellis inhumari valeant: inhibentes rectoribus ecclesiarum et procuratoribus dictarum fabricarum, ne alias indistincte quemlibet in ecclesiis suis, seu capellis ad sepulturam admittant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) Item, sub poena excommunicationis, et decem librarum usualium omnibus rectoribus et capellanis et presbyteris nostrae dioecesis, vel civitatis a quocumque conservatore emanatas et vigore quorumcumque processuum privilegiorum contra aliquem de subditis nostris, nisi prius eadem privilegia fuerint nobis, aut officiali nostro ordinario intimata, aut eadem privilegia sub manu publica, aut sub sigillo authentico fuerint in eadem civitate incorporata, sub iisdem poenis mandamus et praecipimus eisdem rectoribus seu capellanis, seu viris ecclesiasticis [1] quatenus parti citate copiam citationis, aut instantem relationem in electione partis in ejus expensas ad sui potitionem assignent, antequam litteras parti adversae restituant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) Item, sub excommunicationis poena mandamus omnibus curatis nostrae dioecesis, ut infra mensem a data praesentium habeant sigillum proprium, in quo continebitur nomen suae parochiae, cum differentia speciali ab aliis, ad executionem faciendam.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) Item, irritamus, cassamus, et annullamus omnes obligationes quae de cetero per notarios nostros in talibus recipiantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>(6) Item, sortilegia et sortilegos, usurarios publicos, et omnes libertates ecclesiasticas, et praesertim Minihii B. Tudguali infringentes in his scriptis excommunicamus; et prohibemus, si notum fuerit, ad ecclesiasticam sepulturam recipi.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>(7) Item, mandamus in his scriptis, et praecipimus sub excommunicationis poena omnibus rectoribus, quatenus statuta nostra praesentia et alia praeterita quae fecimus sub excommunicationis poena et decem librarum, quas poenas contra eos et eorum quemlibet qui in praemissis et eorum singulis deficientes seu negligentes fuerint, in his scriptis declaramus [2] et praesentia statuta in eorum ecclesiis publicentur quo usque toti populo sint nota, et pro publicatis manifesta.</p>
+                    <p>Datum in plena synodo nostra, sub signo nostro praesentibus apposito, die Jovis post Pentecosten Domini, anno Domini M. CCC. LXXIV.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>(8) Item, revocamus omnes gratias per nos alias concessas.</p>
+                </div>
+                <div>
+                    <head>Explicit</head>
+                    <p>Datum ut supra.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] &quot;ecclesiasticis&quot; printed in square brackets</p>
+                    <p>[2] gap in text but not marked with dots</p>
+                </div>
             </div>
         </body>
     </text>

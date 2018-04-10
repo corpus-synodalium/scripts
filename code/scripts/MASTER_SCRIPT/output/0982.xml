@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 0982</recordID>
+                <title>Beziers (#0982)</title>
+                <recordID>0982</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate>1369-10-17</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Béziers</origPlace>
                 <diocese>Béziers</diocese>
                 <province>Narbonne</province>
-                <country/>
+                <country>France</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Diocesan</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,45 +55,87 @@
     <text>
         <body>
             <div>
-                <head>incipit</head>
-                <p>EX parte domini Biterrensis episcopi ista fuerunt ordinata per dominum HUGONEM miseratione divina episcopum Biterrensem in sancta synodo B. Lucae, anno Domini M. CCC. LXIX. die decima septima mensis Octobris et ibidem publicata.</p>
+                <head>Metadata</head>
+                <p>RecordID: 982</p>
+                <p>Year: 1369</p>
+                <p>Month: 10</p>
+                <p>Day: 17</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Béziers</p>
+                <p>Diocese: Béziers</p>
+                <p>Province: Narbonne</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 43.347615</p>
+                <p>Longitude: 3.218991</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Hugues de la Jugie</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1349</p>
+                <p>RegnalEnd: 1371</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Martene, Thes IV, 660-61</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Data Capture']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
             </div>
             <div>
-                <head>001</head>
-                <p>(1) Primo, praecipitur omnibus prioribus quod antequam recedant ad eorum domicilia, nobis aut officiali nostro fidem plenam faciant de statutis synodalibus seu copia eorumdem, prout in synodo Paschae Domini proxime lapsa sub certa poena fuit ordinatum: vel causam sufficientem allegent, si quam habent, cur ipsa non habeant.</p>
-            </div>
-            <div>
-                <head>002</head>
-                <p>(2) Item, praecipitur quod, prout in dicta proxime lapsa synodo fuit ordinatum, etiam tradant officiali nostro seu procuratori nostro nomina illorum, qui ultra annum in excommunicatione perstiterunt, et adhuc persistunt, et per quem, et ad quorum instantiam, et pro qua causa fuerunt et sunt excommunicati, nec non et nomina sacrilegorum, concubinariorum et usurariorum manifestorum cujuslibet sexus.</p>
-            </div>
-            <div>
-                <head>003</head>
-                <p>(3) Item; revocantur omnes licentiae datae per nos prioribus de non residendo: immo ordinatur, ut quilibet in sua parochiali ecclesia personaliter resideat, nisi a nobis licentiam obtinuerit specialem, et hoc sub poena quam a jure et erga nos possint incurrere.</p>
-            </div>
-            <div>
-                <head>004</head>
-                <p>(4) Item, simili modo ordinatur quod de cetero in aurora diei pulsetur tribus ictibus cum batallo majoris campanae, et quilibet audiens, cujuscumque status fuerit, dicat ter Pater noster et Ave Maria, et cuilibet dicenti de omnipotentis Dei auctoritate et nobis attributa damus et concedimus xx. dies indulgentiae in remissionem suorum peccaminum.</p>
-            </div>
-            <div>
-                <head>005</head>
-                <p>(5) Item, etiam ordinamus quod nullus, cujusvis conditionis et auctoritatis sit, malefactorem aliquem invitum aut alias res prophanas, de ecclesia extrahere audeat, nisi in casibus a jure permissis, et de auctoritate illius seu illorum quibus id jura et sanctae constitutiones concedunt.</p>
-            </div>
-            <div>
-                <head>006</head>
-                <p>(6) Item, statuimus et ordinamus quod quilibet prior curam habens animarum in die festi sive solemnitatis patroni suae ecclesiae apud suam ecclesiam personaliter intersit, et prout tenetur solemnitatem in divinis officiis ibidem peragat, nisi alias legitimam habeat excusationem propter quam commode non possit, ut praedicitur, interesse, et quod in crastinum ejusdem festi celebretur pro mortuis.</p>
-                <p>Id dominica tunc proxime praecedenti populo nuncietur.</p>
-            </div>
-            <div>
-                <head>007</head>
-                <p>(7) Item, quia magnam offensam facit Deo, ad cujus imaginem et similitudinem omnes facti sumus, mulier quae alienum colorem imponit in facie sua volens potius talem habere faciem, qualem pictor facit, quam qualem ei Deus fecit: contra quod legitur in Ecclesiastico, Ne accipias faciem adversus faciem tuam: ea propter in Domino exhortantes volumus quod nulla mulier faciem suam tingat seu liniat cum aqua tincta alieni coloris: ita quod rubicundior, albior, et pulcrior appareat, si indignationem Dei voluerit evitare.</p>
-            </div>
-            <div>
-                <head>008</head>
-                <p>(8) Item, etiam statuimus et ordinamus, licet alias in statutis synodalibus nostris et provincialibus etiam fuerit ordinatum, et ad tollendum abusus quorumdam qui multipliciter homines et mulieres nostrae dioecesis vigore rescriptorum apostolicorum extra suum ordinarium forum trahunt, et trahere nituntur, ipsos laboribus et sumtibus malitiose interdum fatigando, quod nullus presbyter curatus vel non curatus, aut alia quaevis ecclesiastica persona nostrae dioecesis quibuscumque litteris aut mandatis quorumcumque extraordinariorum judicum, legatorum aut subdelegatorum, aut etiam commissariorum parere audeat, nisi originales litterae eorum potestatis ipsis curatis presbyteris fuerint exhibitae.</p>
-                <p>Cum vero eas non exhibuerint litteras et mandata ipsis directa nobis aut officiali nostro Biterrensi quam citius commode poterunt mittant, ut eis visis, quod justum fuerit ordinare valeamus.</p>
-            </div>
-            <div>
-                <head>explicit</head>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>EX parte domini Biterrensis episcopi ista fuerunt ordinata per dominum HUGONEM miseratione divina episcopum Biterrensem in sancta synodo B. Lucae, anno Domini M. CCC. LXIX. die decima septima mensis Octobris et ibidem publicata.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) Primo, praecipitur omnibus prioribus quod antequam recedant ad eorum domicilia, nobis aut officiali nostro fidem plenam faciant de statutis synodalibus seu copia eorumdem, prout in synodo Paschae Domini proxime lapsa sub certa poena fuit ordinatum: vel causam sufficientem allegent, si quam habent, cur ipsa non habeant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Item, praecipitur quod, prout in dicta proxime lapsa synodo fuit ordinatum, etiam tradant officiali nostro seu procuratori nostro nomina illorum, qui ultra annum in excommunicatione perstiterunt, et adhuc persistunt, et per quem, et ad quorum instantiam, et pro qua causa fuerunt et sunt excommunicati, nec non et nomina sacrilegorum, concubinariorum et usurariorum manifestorum cujuslibet sexus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) Item; revocantur omnes licentiae datae per nos prioribus de non residendo: immo ordinatur, ut quilibet in sua parochiali ecclesia personaliter resideat, nisi a nobis licentiam obtinuerit specialem, et hoc sub poena quam a jure et erga nos possint incurrere.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) Item, simili modo ordinatur quod de cetero in aurora diei pulsetur tribus ictibus cum batallo majoris campanae, et quilibet audiens, cujuscumque status fuerit, dicat ter Pater noster et Ave Maria, et cuilibet dicenti de omnipotentis Dei auctoritate et nobis attributa damus et concedimus xx. dies indulgentiae in remissionem suorum peccaminum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) Item, etiam ordinamus quod nullus, cujusvis conditionis et auctoritatis sit, malefactorem aliquem invitum aut alias res prophanas, de ecclesia extrahere audeat, nisi in casibus a jure permissis, et de auctoritate illius seu illorum quibus id jura et sanctae constitutiones concedunt.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>(6) Item, statuimus et ordinamus quod quilibet prior curam habens animarum in die festi sive solemnitatis patroni suae ecclesiae apud suam ecclesiam personaliter intersit, et prout tenetur solemnitatem in divinis officiis ibidem peragat, nisi alias legitimam habeat excusationem propter quam commode non possit, ut praedicitur, interesse, et quod in crastinum ejusdem festi celebretur pro mortuis.</p>
+                    <p>Id dominica tunc proxime praecedenti populo nuncietur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>(7) Item, quia magnam offensam facit Deo, ad cujus imaginem et similitudinem omnes facti sumus, mulier quae alienum colorem imponit in facie sua volens potius talem habere faciem, qualem pictor facit, quam qualem ei Deus fecit: contra quod legitur in Ecclesiastico, Ne accipias faciem adversus faciem tuam: ea propter in Domino exhortantes volumus quod nulla mulier faciem suam tingat seu liniat cum aqua tincta alieni coloris: ita quod rubicundior, albior, et pulcrior appareat, si indignationem Dei voluerit evitare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>(8) Item, etiam statuimus et ordinamus, licet alias in statutis synodalibus nostris et provincialibus etiam fuerit ordinatum, et ad tollendum abusus quorumdam qui multipliciter homines et mulieres nostrae dioecesis vigore rescriptorum apostolicorum extra suum ordinarium forum trahunt, et trahere nituntur, ipsos laboribus et sumtibus malitiose interdum fatigando, quod nullus presbyter curatus vel non curatus, aut alia quaevis ecclesiastica persona nostrae dioecesis quibuscumque litteris aut mandatis quorumcumque extraordinariorum judicum, legatorum aut subdelegatorum, aut etiam commissariorum parere audeat, nisi originales litterae eorum potestatis ipsis curatis presbyteris fuerint exhibitae.</p>
+                    <p>Cum vero eas non exhibuerint litteras et mandata ipsis directa nobis aut officiali nostro Biterrensi quam citius commode poterunt mittant, ut eis visis, quod justum fuerit ordinare valeamus.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
             </div>
         </body>
     </text>

@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 2158</recordID>
+                <title>Cambrai (#2158)</title>
+                <recordID>2158</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate>1359</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Cambrai</origPlace>
                 <diocese>Cambrai</diocese>
                 <province>Reims</province>
-                <country/>
+                <country>Belgium</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Diocesan</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,9 +55,57 @@
     <text>
         <body>
             <div>
-                <head>text</head>
-                <p>Percipimus quosdam suae salutis immemores, et juris ignaros, qui patronos ecclesiarum, aliorumque beneficiorum collatores ordinarios decipientes, quin potius ipsos fraudantes, plures virtute litterarum apostolicarum acceptationes fraudulentas et occultas facere non formidant, provisiones suas de dictis beneficiis, necnon possessionis adeptionem longo tempore protrahentes, in laesionem aliorum impetrantium, et suarum periculum animarum; nos igitur fraudibus, et tot diversis periculis obviare cupientes, easdem acceptationes occulte et fraudulenter fieri de caetero prohibemus, tabellionibus et notariis publicis omnibus districte injungentes, et sub poena perpetuae depositionis sui officii, necnon privationis, praecipientes, quatenus si acceptationes aliquas coram eis fieri de caetero contigerit, patrono seu ordinario collatori beneficii sic acceptati infra mensem intimare procurent.</p>
-                <p>Alioquin, indignationem nostram, et sui officii privationem, et infamiae periculum poterunt merito formidare.</p>
+                <head>Metadata</head>
+                <p>RecordID: 2158</p>
+                <p>Year: 1359</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Cambrai</p>
+                <p>Diocese: Cambrai</p>
+                <p>Province: Reims</p>
+                <p>CountryModern: Belgium</p>
+                <p>Latitude: 50.175579</p>
+                <p>Longitude: 3.2345</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Pierre de Clermont</p>
+                <p>IssuingAuthorityAlt: Petrus de Claromonte</p>
+                <p>RegnalStart: 1349</p>
+                <p>RegnalEnd: 1368</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Gousset, APER, III, 87</p>
+                <p>EditionOther: Acta et decreta synodi diocesanae Cameracensis...R. de Croy (Douai, 1550)(partial)</p>
+                <p>SourceNotes: https://books.google.com/books?id=XNU-AAAAcAAJ</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: WebDownload</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: ['Inc. percipimus quosdam...', 'Survives as tit. XXIX in 1550 compilation.']</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>All Text</head>
+                    <p>Percipimus quosdam suae salutis immemores, et juris ignaros, qui patronos ecclesiarum, aliorumque beneficiorum collatores ordinarios decipientes, quin potius ipsos fraudantes, plures virtute litterarum apostolicarum acceptationes fraudulentas et occultas facere non formidant, provisiones suas de dictis beneficiis, necnon possessionis adeptionem longo tempore protrahentes, in laesionem aliorum impetrantium, et suarum periculum animarum; nos igitur fraudibus, et tot diversis periculis obviare cupientes, easdem acceptationes occulte et fraudulenter fieri de caetero prohibemus, tabellionibus et notariis publicis omnibus districte injungentes, et sub poena perpetuae depositionis sui officii, necnon privationis, praecipientes, quatenus si acceptationes aliquas coram eis fieri de caetero contigerit, patrono seu ordinario collatori beneficii sic acceptati infra mensem intimare procurent.</p>
+                    <p>Alioquin, indignationem nostram, et sui officii privationem, et infamiae periculum poterunt merito formidare.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1]</p>
+                    <p>[2]</p>
+                    <p>[]</p>
+                </div>
             </div>
         </body>
     </text>

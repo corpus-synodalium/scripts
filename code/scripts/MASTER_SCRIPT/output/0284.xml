@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 0284</recordID>
+                <title>Rouen (#0284)</title>
+                <recordID>0284</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate precision="circa">1305</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Rouen</origPlace>
                 <diocese>Rouen</diocese>
                 <province>Rouen</province>
-                <country/>
+                <country>France</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Diocesan</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,50 +55,94 @@
     <text>
         <body>
             <div>
-                <head>incipit</head>
-                <p>﻿</p>
-                <p>SYNODUS ROTOMAGENSIS</p>
-                <p>OBSERVATIO PRAEVIA</p>
-                <p>CAPITULA</p>
+                <head>Metadata</head>
+                <p>RecordID: 284</p>
+                <p>Year: 1305</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: Yes</p>
+                <p>DatingNotes: incorrectly conflated with 1313 provincial council in earlier Bessin edition; preface gives reasons for dating it to ca 1305</p>
+                <p>Place: Rouen</p>
+                <p>Diocese: Rouen</p>
+                <p>Province: Rouen</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 49.443889</p>
+                <p>Longitude: 1.103333</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Guillaume de Flavacourt</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1278</p>
+                <p>RegnalEnd: 1306</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Bessin, Concilia, II, 87-89</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: https://books.google.com/books?id=0SGIk69vxS0C</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'WebDownload']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
             </div>
             <div>
-                <head>001</head>
-                <p>(1)</p>
-                <p>Statuit Conculium Provinciale celebratum apud Prioratum beatae Mariae de Prato iuxta Rotomagum, ut Sacerdotes Curati et Clerici beneficiati quicumque, qui generaliter moniti ne de cetero incedant in locis publicis cucufati, seu sotularibus consutitiis calciati, vel ensibus accincti su gladiis ad modum militum super vestes, et ne minus congruentem Tonsuram, aut vestimenta deferant nimia brevitate notanda.</p>
-                <p>Ne etiam focarias su concubinas, aut alias mulieres suspectas in suis habeant domibus, vel in alienis foveant aut frequentent: et ne casus audiendo, vel examinando processus in curia saeculari, vel quomodolibet alias exerceant iustitiae saecularis.</p>
-                <p>Ne etiam foeneraticos aliosque contractus illicitos exerceant, neque suam in luxuriis, ebrietatibus et comessationibus vitam ducant: sed pie, decenter atque iuste vivant secundum Canonicas sanctiones, sine aliquo crimine praemissorum, post generalem monitionem de abstinendo penitus ab eisdem; si culpabiles fuerint deprehensi, sint in poena amissionis omnium fructuum beneficiorum suorum per unum annum absque misericordia, ac contra ipsos ad privationem beneficiorum, si per annum pertinaces in eadem perseverent malitia, procedatur.</p>
-            </div>
-            <div>
-                <head>002</head>
-                <p>(2)</p>
-                <p>Item idem Concilium statuit ut Baillivi; Vice-comites praepositi, et maiores, et alii iudices saeculares quocumque nomine censeantur, moneant ut assisias et placita Dominicis diebus et festivis Virginis gloriosae, Beatorum Ioannis Baptistae et Michaelis Archangeli, Sanctorumque Apostolorum et Evangelistarum, et aliis qui a clero et populo in Ecclesiis celebrantur.</p>
-                <p>In quibus solum divinis laudibus est non terrenis negotiis, insistendum, tenere et exercere desistant penitus et quiescant: et si parere contempserint: incurrant excommunicationis sententiam ipso facto.</p>
-            </div>
-            <div>
-                <head>003</head>
-                <p>(3)</p>
-                <p>Item quod Clerici qui super factis personalibus ubi clamor de Haro fuerit, et de facto personae super hoc quaerendo se supponent iustitiae saeculari, seu ipsi iustitiae praetextu facti huiusmodi exhibebunt emendam; post monitionem de contrario generalem, ipso facto sententiam excommunicationis incurrant.</p>
-            </div>
-            <div>
-                <head>004</head>
-                <p>(4)</p>
-                <p>Item statuit idem Concilium inhibendo, ne quisquam saecularis iudex Clericos aliasve personas occasione factorum a Clericis commissorum super delictis et factis personalibus quibuscumque commissis et specialiter in clamore de Haro, nec de crimine usurarum a Clerico perpetrato, vivente eodem Clerico vel defuncto, coram se quomodolibet respondere compellant, seu cognitionem huiusmodi in se sumant: quod si generaliter moniti contra fecerint; excommunicationi subiaceant ipso facto, a qua per Praelatos non nisi parti et iudici congrue satisfacto quomodolibet absolvantur, nec per Officiales aut Poenitentiarios Praelatorum, nisi eis ex speciali commisso liceat, ab huiusmodi sententia relaxentur.</p>
-            </div>
-            <div>
-                <head>005</head>
-                <p>(5)</p>
-                <p>Item statuit hoc Concilium quod Brevia quae iudices saeculares ut Ecclesiasticam iurisdictionem impediant et perturbent, de iudiciis Ecclesiasticis dirigunt in causis in quibus de sui natura Brevia nulla cadunt, per Ecclesiasticos iudices nullatenus admittantur, nec eis in aliquo pareant; quod si assumpta forsan occasione Baillivi, Praepositi, Vice-comites, aliive iudices saeculares: ad personarum vel bonorum captionem procedant directe vel indirecte, partem ad defendendum vel iudicem compellendo, monitione legitima praecedente, excommunicationi subiaceant ipso facto, a qua absolvi non valeant, nisi sicut de aliis est praemissum.</p>
-            </div>
-            <div>
-                <head>006</head>
-                <p>(6)</p>
-                <p>Item statuit Provinciale Concilium apud Pintarvillam novissime celebratum; [1] omnes et singulos iudices saeculares Clericos ratione facti vel obligationis personalis etiam habiti vel habitae coram eis, si ipsorum iudicum literae factae super hoc ostendantur, quae tamquam non coram suo iudice pro infectis habeantur; iustitiantes per suorum captionem bonorum et amicorum suorum, seu aliis quomodolibet directe vel indirecte; necnon omnes et singulos religiosos, et saeculares Clericos et laicos cuiuscumque status, ordinis, officii, seu etiam dignitatis extiterint, hoc publice vel occulte fieri procurantes, ipso facto excommunicationis sententia subiacere. [2]</p>
-                <p>Ut autem prio dictum Concilium et secundum, et quae in ipsis sunt statuta et acta pateant universis, ea in Synodis singulis, Decanorumque Kalendis ruralium, ac per Parochilaes presbyteros diebus singulis Dominics post lecturam Evangelii publice divulgentur, quatinus unusquisque poenas in ipsis insitas Conciliis lucidius videat, ac propensius valeat declinare: et de ignorantia nequeat contra dicta Concilia se tueri.</p>
-                <p>Habeat itaque presbyter Parochialis apud se quilibet memorata Statuta: et eadem, sicut praemittitur, in Ecclesia non negligat publicare.</p>
-                <p>Volumus quoque quod per Decanos de inobedientibus Presbyteris in hac parte, infra nostram primo venturam Synodum hyemalem reddamur in virtute obedientiae certiores.</p>
-            </div>
-            <div>
-                <head>explicit</head>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>﻿</p>
+                    <p>SYNODUS ROTOMAGENSIS</p>
+                    <p>OBSERVATIO PRAEVIA</p>
+                    <p>CAPITULA</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1)</p>
+                    <p>Statuit Conculium Provinciale celebratum apud Prioratum beatae Mariae de Prato iuxta Rotomagum, ut Sacerdotes Curati et Clerici beneficiati quicumque, qui generaliter moniti ne de cetero incedant in locis publicis cucufati, seu sotularibus consutitiis calciati, vel ensibus accincti su gladiis ad modum militum super vestes, et ne minus congruentem Tonsuram, aut vestimenta deferant nimia brevitate notanda.</p>
+                    <p>Ne etiam focarias su concubinas, aut alias mulieres suspectas in suis habeant domibus, vel in alienis foveant aut frequentent: et ne casus audiendo, vel examinando processus in curia saeculari, vel quomodolibet alias exerceant iustitiae saecularis.</p>
+                    <p>Ne etiam foeneraticos aliosque contractus illicitos exerceant, neque suam in luxuriis, ebrietatibus et comessationibus vitam ducant: sed pie, decenter atque iuste vivant secundum Canonicas sanctiones, sine aliquo crimine praemissorum, post generalem monitionem de abstinendo penitus ab eisdem; si culpabiles fuerint deprehensi, sint in poena amissionis omnium fructuum beneficiorum suorum per unum annum absque misericordia, ac contra ipsos ad privationem beneficiorum, si per annum pertinaces in eadem perseverent malitia, procedatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2)</p>
+                    <p>Item idem Concilium statuit ut Baillivi; Vice-comites praepositi, et maiores, et alii iudices saeculares quocumque nomine censeantur, moneant ut assisias et placita Dominicis diebus et festivis Virginis gloriosae, Beatorum Ioannis Baptistae et Michaelis Archangeli, Sanctorumque Apostolorum et Evangelistarum, et aliis qui a clero et populo in Ecclesiis celebrantur.</p>
+                    <p>In quibus solum divinis laudibus est non terrenis negotiis, insistendum, tenere et exercere desistant penitus et quiescant: et si parere contempserint: incurrant excommunicationis sententiam ipso facto.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3)</p>
+                    <p>Item quod Clerici qui super factis personalibus ubi clamor de Haro fuerit, et de facto personae super hoc quaerendo se supponent iustitiae saeculari, seu ipsi iustitiae praetextu facti huiusmodi exhibebunt emendam; post monitionem de contrario generalem, ipso facto sententiam excommunicationis incurrant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4)</p>
+                    <p>Item statuit idem Concilium inhibendo, ne quisquam saecularis iudex Clericos aliasve personas occasione factorum a Clericis commissorum super delictis et factis personalibus quibuscumque commissis et specialiter in clamore de Haro, nec de crimine usurarum a Clerico perpetrato, vivente eodem Clerico vel defuncto, coram se quomodolibet respondere compellant, seu cognitionem huiusmodi in se sumant: quod si generaliter moniti contra fecerint; excommunicationi subiaceant ipso facto, a qua per Praelatos non nisi parti et iudici congrue satisfacto quomodolibet absolvantur, nec per Officiales aut Poenitentiarios Praelatorum, nisi eis ex speciali commisso liceat, ab huiusmodi sententia relaxentur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5)</p>
+                    <p>Item statuit hoc Concilium quod Brevia quae iudices saeculares ut Ecclesiasticam iurisdictionem impediant et perturbent, de iudiciis Ecclesiasticis dirigunt in causis in quibus de sui natura Brevia nulla cadunt, per Ecclesiasticos iudices nullatenus admittantur, nec eis in aliquo pareant; quod si assumpta forsan occasione Baillivi, Praepositi, Vice-comites, aliive iudices saeculares: ad personarum vel bonorum captionem procedant directe vel indirecte, partem ad defendendum vel iudicem compellendo, monitione legitima praecedente, excommunicationi subiaceant ipso facto, a qua absolvi non valeant, nisi sicut de aliis est praemissum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>(6)</p>
+                    <p>Item statuit Provinciale Concilium apud Pintarvillam novissime celebratum; [1] omnes et singulos iudices saeculares Clericos ratione facti vel obligationis personalis etiam habiti vel habitae coram eis, si ipsorum iudicum literae factae super hoc ostendantur, quae tamquam non coram suo iudice pro infectis habeantur; iustitiantes per suorum captionem bonorum et amicorum suorum, seu aliis quomodolibet directe vel indirecte; necnon omnes et singulos religiosos, et saeculares Clericos et laicos cuiuscumque status, ordinis, officii, seu etiam dignitatis extiterint, hoc publice vel occulte fieri procurantes, ipso facto excommunicationis sententia subiacere. [2]</p>
+                    <p>Ut autem prio dictum Concilium et secundum, et quae in ipsis sunt statuta et acta pateant universis, ea in Synodis singulis, Decanorumque Kalendis ruralium, ac per Parochilaes presbyteros diebus singulis Dominics post lecturam Evangelii publice divulgentur, quatinus unusquisque poenas in ipsis insitas Conciliis lucidius videat, ac propensius valeat declinare: et de ignorantia nequeat contra dicta Concilia se tueri.</p>
+                    <p>Habeat itaque presbyter Parochialis apud se quilibet memorata Statuta: et eadem, sicut praemittitur, in Ecclesia non negligat publicare.</p>
+                    <p>Volumus quoque quod per Decanos de inobedientibus Presbyteris in hac parte, infra nostram primo venturam Synodum hyemalem reddamur in virtute obedientiae certiores.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1]  Quotation marks begin here.</p>
+                    <p>[2] Quotation marks presumably end here (after square bracket)</p>
+                </div>
             </div>
         </body>
     </text>

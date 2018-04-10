@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 0986</recordID>
+                <title>Beziers (#0986)</title>
+                <recordID>0986</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate precision="circa">1390</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Béziers</origPlace>
                 <diocese>Béziers</diocese>
                 <province>Narbonne</province>
-                <country/>
+                <country>France</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Diocesan</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,9 +55,54 @@
     <text>
         <body>
             <div>
-                <head>text</head>
-                <p>CUm suggerente humani generis antiquo hoste, qui fidelium animas fraudulenti laqueo satagit illigare, nonnulli iniquitatis filii et mandatorum divinorum nequissimi transgressores, non verentes nomen Domini Beataeque Virginis Mariae Dei genitricis et aliorum sanctorum blasphemare in ignominiam et despectum sacro sanctae fidei orthodoxae, animarum damnationem, et malum exemplum plurimorum, die nocteque in plateis et locis aliis, tam publice quam occulte, in omni verbo et actibus suis Deum et Beatam Dei genitricem ac sanctos alios, ac eorum juvamen et praesidium a se abjicientes, se sub ejusdem antiqui hostis laqueo damnabiliter alligando, Deum omnipotentem, beatissimamque Dei genitricem Virginem Mariam, sanctosque suos, et eorum sacratissima nomina vilissime ac perniciose abnegent, renedent, blasphement, despichent, atque jurent, et alias diversimode ac vituperose in suis nefandis colloquiis plurima verba maledica, quae haeresim sapiunt, proferant atque dicant: quae sic impunita remanere non licet: Nos igitur BARTHOLOMAEUS miseratione divina Biterrensis episcopus volentes, ac visceraliter cupientes salutem animarum subditorum nostrorum salubriter procurare, et talia verba ignominiosa a cordibus eorumdem stirpare et abjicere ac vos in viam salutis dirigere, et super praemissis de remedio oportuno providere.</p>
-                <p>Reliqua aesunt.</p>
+                <head>Metadata</head>
+                <p>RecordID: 986</p>
+                <p>Year: 1390</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: Yes</p>
+                <p>DatingNotes: 1384x1402 (Martene erroneously dates these to 1409)</p>
+                <p>Place: Béziers</p>
+                <p>Diocese: Béziers</p>
+                <p>Province: Narbonne</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 43.347615</p>
+                <p>Longitude: 3.218991</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Martene, Thes IV, 664</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Data Capture']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>All Text</head>
+                    <p>CUm suggerente humani generis antiquo hoste, qui fidelium animas fraudulenti laqueo satagit illigare, nonnulli iniquitatis filii et mandatorum divinorum nequissimi transgressores, non verentes nomen Domini Beataeque Virginis Mariae Dei genitricis et aliorum sanctorum blasphemare in ignominiam et despectum sacro sanctae fidei orthodoxae, animarum damnationem, et malum exemplum plurimorum, die nocteque in plateis et locis aliis, tam publice quam occulte, in omni verbo et actibus suis Deum et Beatam Dei genitricem ac sanctos alios, ac eorum juvamen et praesidium a se abjicientes, se sub ejusdem antiqui hostis laqueo damnabiliter alligando, Deum omnipotentem, beatissimamque Dei genitricem Virginem Mariam, sanctosque suos, et eorum sacratissima nomina vilissime ac perniciose abnegent, renedent, blasphement, despichent, atque jurent, et alias diversimode ac vituperose in suis nefandis colloquiis plurima verba maledica, quae haeresim sapiunt, proferant atque dicant: quae sic impunita remanere non licet: Nos igitur BARTHOLOMAEUS miseratione divina Biterrensis episcopus volentes, ac visceraliter cupientes salutem animarum subditorum nostrorum salubriter procurare, et talia verba ignominiosa a cordibus eorumdem stirpare et abjicere ac vos in viam salutis dirigere, et super praemissis de remedio oportuno providere.</p>
+                    <p>Reliqua aesunt.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
             </div>
         </body>
     </text>

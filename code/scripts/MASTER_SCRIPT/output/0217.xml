@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 0217</recordID>
+                <title>Toul (#0217)</title>
+                <recordID>0217</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate>1192</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Toul</origPlace>
                 <diocese>Toul</diocese>
                 <province>Trier</province>
-                <country/>
+                <country>France</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Diocesan</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,62 +55,107 @@
     <text>
         <body>
             <div>
-                <head>incipit</head>
-                <p>IN nomine Patris, et Filii, et Spiritus-sancti.</p>
-                <p>ODO Dei gratia Leuchorum episcopus omnibus ecclesiasticis personis in episcopatu nostro constitutis in perpetuum.</p>
-                <p>Noverint in posterum, ac memoriter teneant universi, quod dilecti nobis in Domino fratres et amici archidiaconi et abbates de episcopatu nostro ad nos venientes, et pro lacrymabilibus injuriis, quibus ecclesiae nostrae et ecclesiarum ministri quotidie oppressi irremediabiliter laborabant et afficiebantur, pariter ingemiscentes; unanimiter nos rogaverunt, ut contra tyrannidem raptorum et quorum libet malefactorum in eos desaevientium, illud auxilii et protectionis consilium atque tutamen eis misericorditer exhiberemus, quod ex injuncta nobis cura et officio pastorali eis paterne exhibere debebamus.</p>
-                <p>Unde nos communicato cum eis consilio, sicut rationabile nobis visum fuit, et eorum discreta consideratio nobis consuluit, statuimus quod in praesenti pagina capitulatim annotari praecipimus.</p>
+                <head>Metadata</head>
+                <p>RecordID: 217</p>
+                <p>Year: 1192</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Toul</p>
+                <p>Diocese: Toul</p>
+                <p>Province: Trier</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 48.675</p>
+                <p>Longitude: 5.891667</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Martene, Thes, IV, col. 1177-80</p>
+                <p>EditionOther: Mansi 22, col. 647-50 &amp; suppl. t. 2, coll 755-58; </p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Data Capture']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
             </div>
             <div>
-                <head>001</head>
-                <p>(1) Statuimus itaque, et sub anathemate interdixumus, ut quando per quodcumque castrum seu villam in episcopatu nostro consistentem bona ecclesiarum nostrarum, seu cujuslibet clericorum nostrorum per injustam ablationem deducta transire, vel forte ibi pernoctare contigerit, ita quod exinde nihil prorsus ibi remaneat, interim divina ibi non celebrentur.</p>
-                <p>Ubicumque autem bona illa vel ex toto, vel ex parte receptari, vendi, aut quocumque modo expendi contigerit, divina ibi fieri omnino interdicimus, et emtores pariter cum praedatoribus eadem excommunicationis sententia innodatos esse usque ad integram restitutionem, et condignam satisfactionem decernimus: hoc adjicientes, quod interim si qui ibi manentes, et illius injuriae non consentanei nec auctores in extremis positi fuerint, confessionis et viatici suffragio fungantur: sepulturam vero in atrio non habeant, donec ablatis ex integro restitutis, et divina ibi celebrentur, et extra atrium positi sine omni emendatione debito atrii honore donentur.</p>
-            </div>
-            <div>
-                <head>002</head>
-                <p>(2) Constituimus etiam, ut si aliquis de principibus aut nobilioribus hujus terrae bona quaelibet ecclesiarum seu clericorum nostrorum in propria persona sua per violentiam diripuerit, et in villam suam deduxerit; in eadem villa, et in tota alia terra sua divina non celebrentur, donec ablata ex integro restituantur.</p>
-                <p>Si vero milites, vel quicumque de familia tam principum quam nobilium aliorum bona quacumque similiter ecclesiarum seu clericorum nostrorum violenter acceperint, et in villam domini sui deduxerint; divina ibi penitus non celebrentur, donec ablata cum satisfactione ex integro restituantur: et cum ipsi maleficii auctores a nobis nominatim excommunicati fuerint, et hoc per episcopatum nostrum innotuerit; ab omnibus presbyteris, ubicumque divina fient, singulis dominicis diebus nominatim excommunicentur.</p>
-                <p>Si vero pro rigore justitiae capitalia ex integro reddita fuerint, ipsi tamen, non nisi satisfactione nobis prius facta, nullatenus absolvantur.</p>
-                <p>Hoc vero nunc superaddimus, quod quicumque aliquem de hujusmodi malefactoribus, a nobis nominatim excommunicatis, in domo sua receperit, apud sese eum pernoctare sustinuerit, pariter cum illo excommunicatus sit, nisi per ignorantiam se hoc fecisse probare possit: quod sola manu sua ei facere licebit si voluerit:</p>
-                <p>Si autem se inde purgare non potest, et ad emendationem culpae pro nocte illa decem solidos solvere voluerit, et totiens decem solidos quot noctibus illum recepit, a sententiae vinculo absolutus erit.</p>
-            </div>
-            <div>
-                <head>003</head>
-                <p>(3) Quia vero diligenti ac perutili consideratione haec deliberavimus, et communi omnium subditorum nobis clericorum tam rogatu quam assensu hoc teneri decrevimus ac praecipimus, statuimus, quod quicumque subditus nobis simpliciter clericus, seu etiam monachus hoc nostrum mandatum transgressus fuerit, et beneficio, si habuerit, et officio careat in perpetuum.</p>
-            </div>
-            <div>
-                <head>004</head>
-                <p>(4) Porro de his qui corpus alicujus defuncti violenter in cimeterio tumulaverint eo tempore quo villa illa a christianitatis obsequio propter justitiam suspensa fuerit; constituimus, ut quamdiu ibi sepultum fuerit, divina ibi penitus non celebrentur; et cum ejectum fuerit, nec in illo, nec in alio cimeterio deinceps umquam sepeliatur.</p>
-                <p>De his vero qui corpus sic tumulaverunt, si quis ante reconciliationem obierit, similiter christiana sepultura careat in perpetuum.</p>
-            </div>
-            <div>
-                <head>005</head>
-                <p>(5) Et quoniam gravis et intolerabilis plaga domibus religiosorum imminet ex hoc, quod potentes terrae boves seu cetera animalia, vel carros ad carrucandum sibi violenter diripiunt; irrefragabili determinatione constituimus, ut illi qui talem violentiam fecerint, statim sub interdicto excommunicationis teneantur; et illi qui eis dederint vel vendiderint quod carricabunt, postquam violentiam illam cognoverint, similiter excommunicentur, et villa illa ad quam deportatum fuerit quod carricaverint, ab omni christianitatis obsequio suspendatur, quousque damna domibus illata ex integro restaurentur, et digne de cetero Deo nobisque satisfiat.</p>
-            </div>
-            <div>
-                <head>006</head>
-                <p>(6) De fugitivis vero qui professiones suas irritas facientes, de quolibet ordine ad saeculum revertuntur, similiter constituimus, ut singulis dominicis diebus per universas parochias excommunicentur; et si uxores duxerint, uxores similiter et familiae eorum excommunicentur, et omnes qui eis aliquam christianitatis communionem scienter praestiterint, sub interdicto cum eisdem teneantur.</p>
-            </div>
-            <div>
-                <head>007</head>
-                <p>(7) Si quis vero nobilium vel potentum terrae tempore quo excommunicatus fuerit a nobis, presbyterum aliquem adduxerit, et contra interdictum nostrum divina sibi celebrare fecerit; ille qui taliter celebrare praesumserit, excommunicetur, et officio et beneficio ecclesiastico in episcopatu nostro careat in perpetuum.</p>
-            </div>
-            <div>
-                <head>008</head>
-                <p>(8) Constituimus etiam, ut si aliquis presbyter a nobis excommunicatus in dioecesi nostra divina celebrare praesumserit, beneficio et officio ecclesiastico careat in perpetuum.</p>
-            </div>
-            <div>
-                <head>009</head>
-                <p>(9) De haereticis autem qui vocantur VVadoys, omnibus fidelibus tam clericis quam laicis in remissionem peccatorum suorum praecipimus, ut quicumque eos invenerint, vinculis astrictos teneant, et ad sedem Tullensem puniendos adducant.</p>
-            </div>
-            <div>
-                <head>010</head>
-                <p>(10) Illud sane memoriae commendandum, quod si qui pro executione hujus justitiae a propriis sedibus suis, quod absit, expulsi fuerint, apud nos nostro patrocinio nostraque dispositione victus et vestitus administrationem, prout dignum fuerit, indubitanter invenient.</p>
-                <p>Omnibus hujus cartae tenorem servantibus sit pax et gaudium per omnia saecula saeculorum.</p>
-            </div>
-            <div>
-                <head>explicit</head>
-                <p>Actum legitime, publice recitatum, canonice in sancta Tullensi synodo confirmatum, indictione X. VIII. idus Maii anno dominicae incarnationis M. C. XCII.</p>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>IN nomine Patris, et Filii, et Spiritus-sancti.</p>
+                    <p>ODO Dei gratia Leuchorum episcopus omnibus ecclesiasticis personis in episcopatu nostro constitutis in perpetuum.</p>
+                    <p>Noverint in posterum, ac memoriter teneant universi, quod dilecti nobis in Domino fratres et amici archidiaconi et abbates de episcopatu nostro ad nos venientes, et pro lacrymabilibus injuriis, quibus ecclesiae nostrae et ecclesiarum ministri quotidie oppressi irremediabiliter laborabant et afficiebantur, pariter ingemiscentes; unanimiter nos rogaverunt, ut contra tyrannidem raptorum et quorum libet malefactorum in eos desaevientium, illud auxilii et protectionis consilium atque tutamen eis misericorditer exhiberemus, quod ex injuncta nobis cura et officio pastorali eis paterne exhibere debebamus.</p>
+                    <p>Unde nos communicato cum eis consilio, sicut rationabile nobis visum fuit, et eorum discreta consideratio nobis consuluit, statuimus quod in praesenti pagina capitulatim annotari praecipimus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) Statuimus itaque, et sub anathemate interdixumus, ut quando per quodcumque castrum seu villam in episcopatu nostro consistentem bona ecclesiarum nostrarum, seu cujuslibet clericorum nostrorum per injustam ablationem deducta transire, vel forte ibi pernoctare contigerit, ita quod exinde nihil prorsus ibi remaneat, interim divina ibi non celebrentur.</p>
+                    <p>Ubicumque autem bona illa vel ex toto, vel ex parte receptari, vendi, aut quocumque modo expendi contigerit, divina ibi fieri omnino interdicimus, et emtores pariter cum praedatoribus eadem excommunicationis sententia innodatos esse usque ad integram restitutionem, et condignam satisfactionem decernimus: hoc adjicientes, quod interim si qui ibi manentes, et illius injuriae non consentanei nec auctores in extremis positi fuerint, confessionis et viatici suffragio fungantur: sepulturam vero in atrio non habeant, donec ablatis ex integro restitutis, et divina ibi celebrentur, et extra atrium positi sine omni emendatione debito atrii honore donentur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Constituimus etiam, ut si aliquis de principibus aut nobilioribus hujus terrae bona quaelibet ecclesiarum seu clericorum nostrorum in propria persona sua per violentiam diripuerit, et in villam suam deduxerit; in eadem villa, et in tota alia terra sua divina non celebrentur, donec ablata ex integro restituantur.</p>
+                    <p>Si vero milites, vel quicumque de familia tam principum quam nobilium aliorum bona quacumque similiter ecclesiarum seu clericorum nostrorum violenter acceperint, et in villam domini sui deduxerint; divina ibi penitus non celebrentur, donec ablata cum satisfactione ex integro restituantur: et cum ipsi maleficii auctores a nobis nominatim excommunicati fuerint, et hoc per episcopatum nostrum innotuerit; ab omnibus presbyteris, ubicumque divina fient, singulis dominicis diebus nominatim excommunicentur.</p>
+                    <p>Si vero pro rigore justitiae capitalia ex integro reddita fuerint, ipsi tamen, non nisi satisfactione nobis prius facta, nullatenus absolvantur.</p>
+                    <p>Hoc vero nunc superaddimus, quod quicumque aliquem de hujusmodi malefactoribus, a nobis nominatim excommunicatis, in domo sua receperit, apud sese eum pernoctare sustinuerit, pariter cum illo excommunicatus sit, nisi per ignorantiam se hoc fecisse probare possit: quod sola manu sua ei facere licebit si voluerit:</p>
+                    <p>Si autem se inde purgare non potest, et ad emendationem culpae pro nocte illa decem solidos solvere voluerit, et totiens decem solidos quot noctibus illum recepit, a sententiae vinculo absolutus erit.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) Quia vero diligenti ac perutili consideratione haec deliberavimus, et communi omnium subditorum nobis clericorum tam rogatu quam assensu hoc teneri decrevimus ac praecipimus, statuimus, quod quicumque subditus nobis simpliciter clericus, seu etiam monachus hoc nostrum mandatum transgressus fuerit, et beneficio, si habuerit, et officio careat in perpetuum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) Porro de his qui corpus alicujus defuncti violenter in cimeterio tumulaverint eo tempore quo villa illa a christianitatis obsequio propter justitiam suspensa fuerit; constituimus, ut quamdiu ibi sepultum fuerit, divina ibi penitus non celebrentur; et cum ejectum fuerit, nec in illo, nec in alio cimeterio deinceps umquam sepeliatur.</p>
+                    <p>De his vero qui corpus sic tumulaverunt, si quis ante reconciliationem obierit, similiter christiana sepultura careat in perpetuum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) Et quoniam gravis et intolerabilis plaga domibus religiosorum imminet ex hoc, quod potentes terrae boves seu cetera animalia, vel carros ad carrucandum sibi violenter diripiunt; irrefragabili determinatione constituimus, ut illi qui talem violentiam fecerint, statim sub interdicto excommunicationis teneantur; et illi qui eis dederint vel vendiderint quod carricabunt, postquam violentiam illam cognoverint, similiter excommunicentur, et villa illa ad quam deportatum fuerit quod carricaverint, ab omni christianitatis obsequio suspendatur, quousque damna domibus illata ex integro restaurentur, et digne de cetero Deo nobisque satisfiat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>(6) De fugitivis vero qui professiones suas irritas facientes, de quolibet ordine ad saeculum revertuntur, similiter constituimus, ut singulis dominicis diebus per universas parochias excommunicentur; et si uxores duxerint, uxores similiter et familiae eorum excommunicentur, et omnes qui eis aliquam christianitatis communionem scienter praestiterint, sub interdicto cum eisdem teneantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>(7) Si quis vero nobilium vel potentum terrae tempore quo excommunicatus fuerit a nobis, presbyterum aliquem adduxerit, et contra interdictum nostrum divina sibi celebrare fecerit; ille qui taliter celebrare praesumserit, excommunicetur, et officio et beneficio ecclesiastico in episcopatu nostro careat in perpetuum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>(8) Constituimus etiam, ut si aliquis presbyter a nobis excommunicatus in dioecesi nostra divina celebrare praesumserit, beneficio et officio ecclesiastico careat in perpetuum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>(9) De haereticis autem qui vocantur VVadoys, omnibus fidelibus tam clericis quam laicis in remissionem peccatorum suorum praecipimus, ut quicumque eos invenerint, vinculis astrictos teneant, et ad sedem Tullensem puniendos adducant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>(10) Illud sane memoriae commendandum, quod si qui pro executione hujus justitiae a propriis sedibus suis, quod absit, expulsi fuerint, apud nos nostro patrocinio nostraque dispositione victus et vestitus administrationem, prout dignum fuerit, indubitanter invenient.</p>
+                    <p>Omnibus hujus cartae tenorem servantibus sit pax et gaudium per omnia saecula saeculorum.</p>
+                </div>
+                <div>
+                    <head>Explicit</head>
+                    <p>Actum legitime, publice recitatum, canonice in sancta Tullensi synodo confirmatum, indictione X. VIII. idus Maii anno dominicae incarnationis M. C. XCII.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
             </div>
         </body>
     </text>

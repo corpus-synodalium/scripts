@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 0185</recordID>
+                <title>Meaux (#0185)</title>
+                <recordID>0185</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate>1365</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Meaux</origPlace>
                 <diocese>Meaux</diocese>
                 <province>Sens</province>
-                <country/>
+                <country>France</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Diocesan</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,99 +55,144 @@
     <text>
         <body>
             <div>
-                <head>incipit</head>
-                <p>Item acta in synodo facta per magistros Henricum decanum Meldensem et Ludovicum Pariart officialem Meldensem vicarios generales in spiritualibus reverendi in Christo Patris domini JOHANNIS episcopi Meldensis nunc in remotis agentis cum potestate expressa synodo praesidendi et agendi, quae in synodo sunt agenda.</p>
-                <p>Anno Domini millesimo trecentesimo sexagesimo quinto.</p>
+                <head>Metadata</head>
+                <p>RecordID: 185</p>
+                <p>Year: 1365</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Meaux</p>
+                <p>Diocese: Meaux</p>
+                <p>Province: Sens</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 48.960278</p>
+                <p>Longitude: 2.888333</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Martene, Thes., IV, coll 923-30</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Data Capture']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: Contains a separate set of &quot;Instructions to Deacons&quot;</p>
+                <p>BiblioRefs: None</p>
             </div>
             <div>
-                <head>001</head>
-                <p>(1) CUm secundum jura canonica matrimoniale sacramentum in paradiso terrestri fuit ab ipso rerum omnium conditore institutum, et secundum Apostolum mulier viro mortuo ab ejus sit [1] lege soluta, et nubendi cui vult in Domino habeat liberam facultatem, et nonnulli cupiditas et gulositatis filii, dum vir aut mulier, ad secunda sponsalia vel nuptias transeunt, injurias, carmina, libellos diffamatorios contra eosdem sponsos, et de eisdem seu altero eorum dicant, faciant, et palam vociferantur, et lingua materna promulgant noctivalia Gallice Charivaris, durantibus dictis sponsalibus, et alias insolentias et nefanda quamplura committunt: donec ipsi sponsalia praedicta contrahentes pecuniis, commessationibus, et potibus erga tales excessus committentes se redemerint, et ipsorum gulositati satisfecerint, ex quibus quamplurimi a dicto matrimoniali sacramento retrahuntur in dicti sacramenti vituperium, et ipsorum sic secundo contrahentium injuriam, et in enormem Dei et Ecclesiae offensam, et scandalum plurimorum, suaeque salutis dispendium.</p>
-                <p>Ea propter omnibus et singulis nobis subditis districte praecipimus, et eosdem una monitione peremtoria monemus per praesentes, et etiam inhibemus sub poena excommunicationis, vosque curati in ecclesiis vestris diebus dominicis et festivis, dum inibi affuerit populi multitudo, singulis parochianis vestris sub dictis poenis inhibeatis, et ipsos moneatis auctoritate nostra, quos tenore praesentium monemus, ne praemissa detestanda per se vel per alios committant, aut dent ad ea perpetranda auxilium, consilium, vel favorem.</p>
-                <p>Alioquin ipsos in hiis scriptis excommunicamus, et sic excommunicatos publice nunciari volumus et mandamus.</p>
-                <p>Rebellium in praemissis, si qui sint, quod absit, nomina et cognomina nobis, dum ad vos ipsorum notitia devenerit, litteratorie referatis sub poenis superius enarratis, ut nominatim et specialiter eosdem excommunicatos pro praemissis nunciari faciamus et vitari seu vocari.</p>
-            </div>
-            <div>
-                <head>002</head>
-                <p>(2) Quod nullus celebret bis in die.</p>
-                <p>Item, cum in institutione canonica sit interdictum, nosque in synodo Meldensi ultimo celebrata prohibuerimus, et sub poenis canonicis ne aliquis presbyter bis in die, nisi in festo Nativitatis Domini celebrare praesumat, quodque nullus presbyter per aliquem curatum vel capellanum civitatis et dioecesis Meldenis permittatur in ecclesia vel capella divina officia celebrare, nisi fuerit auctoritate domini episcopi Meldensis approbatus, et super hoc litteras obtineat.</p>
-                <p>Et insuper injunxerimus quod omnes et singuli parochialium ecclesiarum rectores habeant perfecte et complete sub poena excommunicationis et emendae statuta synodalia et provincialia, quae decreta et leges proprie censentur esse, et quod de mense in mensem statuta magis aedificantia publice populo lingua materna exponant: et prout intelleximus sunt quamplures dictorum statutorum transgressores.</p>
-                <p>Praecipimus sub poena excommunicationis, et viginti librarum Turonensium, omnibus decanis, quatenus nomina et cognomina omnium virorum ecclesiasticorum contra praemissa in vestris decanatibus facientium, nec non statum omnium et singularum ecclesiarum per ipsos decanos visitatarum ac personarum ecclesiasticarum modum et conditionem, et a suis ecclesiis et ab ista synodo absentium, et ea quae reformatione et correctione indigent in eisdem, prout ad eorumdem notitiam est deventum, absque fraude nobis tradant antequam de civitate Meldensi recedant.</p>
-                <p>Quae per ipsos decanos fieri sub praedictis poenis volumus et mandamus in synodo annis singulis in futurum in ista civitate seu dioecesi celebranda.</p>
-            </div>
-            <div>
-                <head>003</head>
-                <p>(3) Statutum synodale contra presbyteros habentes focarias concubinas.</p>
-                <p>Quam multiplicibus poenis a sacrorum canonum conditoribus illatis subjaceant viri ecclesiastici mulieres focarias et concubinas secum tenentes, quampertimescendis censuris tam excommunicationis, quam suspensionis ab officiis, et beneficiis, ac tandem privatione perpetua a beneficiis ecclesiasticis, cogendi sunt hujusmodi viri ecclesiastici, ut concubinas et focarias quas detinent a se removeant, ipsas ulterius minime admissuri, nullus vir ecclesiasticus sanae mentis praesumitur ignorare.</p>
-                <p>Hinc est quod nos omnes et singulos viros ecclesiasticos nobis subditos mulieres focarias seu concubinas secum tenentes vel habentes, aut cum ipsis conversantes taliter, quod ex hoc et ab hoc inter laicos scandalum contra ipsos oriatur, monemus primo, secundo, et tertio, et peremtorie, quatinus illas a se removeant, ulterius ipsas minime admissuri, infra duos menses a die hujus nostrae sanctae synodi computandos.</p>
-                <p>Et hoc sub poenis suspensionis ab ecclesiasticis beneficiis, quam in ipsos et quemlibet eorum feremus, si hujusmodi duobus mensibus elapsis monitionibus nostris acquiescere contemserint.</p>
-                <p>Cum iteratione quod si ipsi sic suspensi eas ulterius secum praesumserint tenere, vel cum ipsis conversaverint, taliter quod scandalum inter laicos exinde, ut praemissum est, oriatur, cum crescente contumacia, crescere debeat et poena, ipsos excommunicabimus, et eos a beneficiis ecclesiasticis privabimus, et alias contra ipsos procedemus, prout de jure fuerit procedendum.</p>
-            </div>
-            <div>
-                <head>004</head>
-                <p>(4) Contra impedientes executionem mandatorum curiae.</p>
-                <p>Cum turbationes et impedimenta quae laicorum excrescens indevotio litterarum nostrarum aut curiae nostrae portitoribus et latoribus ipsisque litteris affert eas rumpendo, lacerando, et de portitorum manibus violenter eripiendo, rectorum ecclesiarum ipsarum aut executorem eorumdem vitio plerumque contingere simus informati, qui ipsos portitores et eorum litteras parti contra quam diriguntur revelant, ac in publicum detegunt et tales turbatae jurisdictionis nostrae participes et auctores quodammodo faciunt excesses hujusmodi, praecipimus sub poena excommunicationis et suspensionis ab officio et beneficio aliisque arbitrariis poenis universos curatos, rectores, atque executioni litterarum deputatos, et missos ipsos portitores reverenter et pacifice suscipere et celare, litterasque incontinenti, saecularibus quibuscumque negotiis praetermissis, diligenter exsequi et secrete, executionisque differant publicationem, donec duarum leucarum spatio a loco praedicto suae curae potuerit inspecto gressu communi elongari portitor, aut quicumque illas litteras attulerit.</p>
-            </div>
-            <div>
-                <head>005</head>
-                <p>(5) De legatis fabricae sancti Stephani factis.</p>
-                <p>Monemus omnes curatos dioecesis Meldensis sub poena centum solidorum ad opus fabricae Meldensis ecclesiae applicandorum, ut ipsi moneant sub poena excommunicationis heredes defunctorum, qui pia legata ad opus fabricae praedictae ecclesiae Meldensis reliquerunt, ut ipsi de praedictis legatis, si non sit satisfactum, satisfaciant domino Johanni de Courcelles custodi reliquiarum dictae ecclesiae, infra festum beati Martini hyemalis: quas poenas centum solidorum et excommunicationis sententiam, si non fecerint, dictos curatos et heredes in hiis scriptis declaramus incurrisse.</p>
-                <p>Item, monemus dictos curatos, ut ipsi sub poena excommunicationis, si aliquid receperint pro dicta fabrica, de eo si non satisfecerint, infra festum beati Martini satisfaciant praedicto domino Johanni: alioquin ex nunc prout ex tunc excommunicatos declaramus in hiis scriptis.</p>
-            </div>
-            <div>
-                <head>006</head>
-                <p>(6) De synodalibus habendis per decanos.</p>
-                <p>Praecipimus omnibus decanis ruralibus non habentibus praecepta synodalia completa et constitutiones provinciales, ut sub poena viginti librarum Turonensium domino Meldensi episcopo applicandarum, habeant praedicta praecepta synodalia et constitutiones provinciales infra festum omnium sanctorum proximo venturum: ut possint curatis sui decanatus non habentibus praemissa, de eis tradere exemplum dictorum praeceptorum suis sumtibus et expensis: quam poenam, si dicti decani neglexerint praemissa, ipsos incurrisse termino elapso in his scriptis declaramus.</p>
-            </div>
-            <div>
-                <head>007</head>
-                <p>(7) [2] De synodalibus habendis per curatos.</p>
-                <p>Praecipimus districte omnibus curatis praedictae Meldensis dioecesis, ut ipsi sub poena viginti librarum Turonensium dicto domino episcopo applicandarum praedicta praecepta per manus decanorum habeant et recipiant, et diligenter inquirant infra festum Nativitatis Domini proximo venturum.</p>
-                <p>Quam poenam, si hoc neglexerint, contra eos decrevimus commissam.</p>
-            </div>
-            <div>
-                <head>008</head>
-                <p>(8) Contra impedientes jurisdictionem episcopi.</p>
-                <p>Districte praecipimus omnibus curatis praedictae Meldensis dioecesis, ut ipsi sub poena viginti librarum Turonensium domino episcopo Meldensi applicandarum, denuncient ad pronum suum diebus dominicis et festivis in missa, facto silentio, quod omnes illos qui jurisdictionem ecclesiasticam impediunt, manifeste vel occulte, directe vel indirecte, et qui impedientibus impendunt auxilium, consilium, et favorem, quos etiam omnes praedictos in hiis scriptis excommunicatos declaramus.</p>
-                <p>Item, quod nulli curati ad inhumandum corpus in cimeteriis seu ecclesiis suis procedant, nisi prius habita copia testamenti seu testamentorum confecti seu confectorum sub sigillo curiae Meldensis vel curati seu curatorum ad finem reddendi compotum de eisdem, et quod primitus heredes seu executores dictorum defunctorum permittant nobis et deputatis nostris aut deputandis a nobis reddere compotum et rationem de testamentis defunctorum.</p>
-                <p>Item, apponatur ista clausula: In testamentis in primis voluit et jussit dictus testator quod de suo praesenti testamento seu ultima voluntate compotum reddatur curiae reverendi in Christo patris ac domini Meldensis episcopi, et sic alibi.</p>
-                <p>INSTRUCTIO DECANORUM tam in cursu visitationis, quam extra.</p>
-                <p>QUoniam ex decretis sanctorum patrum statutum est et sancitum, ne venerabile nomen episcopi vilesceret, non ad modicam civitatem, sed ad venerabilem locum adtitulandus est et nominandus episcopus: qui et si valde idoneus sit, mandata tamen caelestia efficacius exsequatur, si onera sua partiatur, et sicut matrici praeest ecclesiae, ita archipresbyteri de plebe et rurales decani statuuntur, qui non solum imperiti et simplicis vulgi sollicitudinem et curiosam gerant affectionem, verum presbyterorum, qui per minores titulos et ecclesias habitant, vitam jugi circumspectione custodiunt, in qua unusquisque industria divinum opus exerceat, episcopo suo denunciet, ut in nullo titubet ecclesiastica sollicitudo, sciat se dictorum archipresbyterorum unusquisque in suae visitationis cursu et extra ad sequentia capitula ex suscepti regiminis debito obligari.</p>
-                <p>Primo, cum archipresbyterum aut decanum ad ecclesiam visitationis causa declinare contigerit, non solus, sed duobus fide dignis, aut publico tabellione, si ejus fuerit hujusmodi facultas, comitatus ecclesiae rectorem, et clericum, matricularios, seu gagiarios, et parochianos competenti numero secundum sui discretionem qui ecclesiae magis affecti fuerint, advocet: quibus praesentibus, infra statutum tempus adimpleat.</p>
-                <p>Inquirat igitur de ecclesiae subjectione in se, videlicet ad cujus pertineat ordinationem seu collationem, sive domini Meldensis, aut alterius praesentantis, vel patroni, quod in visitationis rotulo primum declaretur.</p>
-                <p>Inquirat etiam circa ecclesiae rectorem, si intitulatus ad eam, id est verus curatus resideat in eadem, et si non, cum per sacros canones sine licentia praelati a cura non liceat quemquam recedere, inquirat de causa non residentiae, et videat litteras scholaritatis, aut aliam dispensationem, si quam habeat, et scribat in visitationis rotulo.</p>
-                <p>Item, et si verus intitulatus seu curatus se scholarem praetendat, nisi de scholaritate et privilegio doceat incontinenti, vel saltem in synodo fidem fecerit, super quo rescribat decanus, fructus beneficii arrestet, et committat secundum formam infra scriptam.</p>
-                <p>Item, cum curatus secundum canonum praecepta in sacro presbyteratus ordine debeat constitui infra anni spatium a tempore adepti beneficii, inquirat super eo decanus; et si non promotum ad sacrum presbyteratus ordinem reperiat, arrester fructus, et committat, ut praedicitur.</p>
-                <p>Item, et si in die sancto Sabbati Paschae non sit praesens ecclesiae curatus, ex ejus dioecesis statuto synodali fructus beneficii domino acquisiti sunt, nisi de non residendo fuerit cum eo dispensatum: fructus beneficii ad manum domini ponat, et arrestet, nisi de dispensatione aut aliter ordinatione per dominum facta, litteraliter et in continenti fiat sibi fides.</p>
-                <p>Item, et fructus beneficii eorum qui in synodo non interfuerunt arrestet, et ad manum domini ponat.</p>
-                <p>Et super omnibus hiis arrestis caveatur, ut statim post arrestum idoneos committat et fide dignos, qui solvendo sint ad receptionem fructuum et beneficii administrationem sumtibus ipsius beneficii, quam parcioribus et minoribus fieri poterit pro beneficii utilitate, dictisque sic commissis brevem assignet terminum, ad quem in curia Meldensi compareant, ut dicti beneficii administrationi per officialem et sigilliferum plenius provideatur, nec manum levent in quibuscumque casibus, nisi de expeditione fructuum per litteras patentes signeto et sigillo curiae sigillatas ei constet sub forma debita: alioquin de fructibus in damnis domino Meldensi ac aliis ad quos spectabunt satisfaciant, et aliter arbitrarie puniantur.</p>
-                <p>Item, et si reperiat decanus cum vero curato de non residendo legitime dispensatum esse, inquirat si deserviens seu vicarius praesentatus fuerit, et per dominum approbatus: de quo incontinenti debebit sibi fidem facere per litteras domini anno pro quo visitat concessas: alioquin administrationem inhibeat eidem vicario aut commisso, cujuscumque etiam status sit, ipsumque ex officio citet pro hujusmodi excessu.</p>
-                <p>Et ante diem citationis scribat, fructusque beneficii arrestet, et committat, ut praedicitur.</p>
-                <p>Item, de vita et honestate rectoris parochiae, et ejus honesta conversatione, sive intitulatus, id est verus curatus residens sit, sive vicarius et commissus diligenter inquirat, praesertim si tabernam in domo presbyterali teneat, si domus intra fines cimeterii sit constituta, si focariam seu concubinam secum habeat, quod omnino sub poenis statutorum synodalium fieri prohibeat; et generaliter si parochianis aut habitantibus in scandalo sit, aut per ejus defectum aliquis in administratione sacramentorum defectus fuerit.</p>
-                <p>Item, si una die per presbyterum etiam approbatum una solum missa celebretur, et non duae vel plures sine causa speciali, de qua per litteras domini constet, ut praedicitur, excepto Nativitatis Domini die.</p>
-                <p>Item, inquirat an in parochia sint aliqui excommunicati, et a quo tempore, et si aggravati, vel reaggravati sint, et si in excommunicationis sententia continue perseverent.</p>
-                <p>Item, an apud curatum sint registra excommunicatorum, et si excommunicati singulis diebus dominicis in ecclesiae prono nominentur: quae omnino fieri praecipiat sub poenis in statutis synodalibus contentis.</p>
-                <p>Et si registra non habeat curatus aut rector quicumque sit, ei praefigatur terminus intra quem a registratore curiae copiam habeat registri manu ejus registratoris signatam.</p>
-                <p>Item, si sint aliqui publice usurarii, sortilegi, haeretici, idololatrae, apostatae, adulteri, et concubinarii, publice diffamati, vel leprosi, aut de lepra suspecti.</p>
-                <p>Item, si sint aliqui ecclesiasticam jurisdictionem impedientes: quos faciant excommunicatos denunciari singulis diebus dominicis in ecclesiae prono secundum formam cedulae nuper a domino Meldensi episcopo compositae valde compendiose.</p>
-                <p>Item, si sint aliqui per sacra prohibita detestando jurantes, qui in fide videntur male sentire.</p>
-                <p>Item, de domo presbyterali et utensilibus presbyteratus, et ne inter rectorem ecclesiae, parochianos, aut matricularios, eis sit aliqualis rancor seu perseveret quantum possibile erit provideat, injungatque et faciat per rectorem ecclesiae et matricularios litteras fieri sub curiae Meldensis sigillo de concordia inter ipsos super reparationibus et utensilibus, factaque tute sub custodia conserventur.</p>
-                <p>Item, et si matologium habeant curati, et praecipiat omnia donata ecclesiae quocumque titulo in eo scribi, et relicta sive legata cum diligentia procurari per ecclesiae rectorem et matricularium, a quolibet et quantum in se est, litterasque et titulos rerum ecclesiae donatarum sub fide custodia in ecclesia arca custodiant, sub poenis synodalium statutorum.</p>
-                <p>Item, et idem de matriculariis quod ecclesiae vel sancto relicta procurent, et si aliqui sint reditus ecclesiae detinentes, quod singulis diebus dominicis excommunicati nuncientur.</p>
-                <p>Item, propter pericula quae circa partus mulierum saepe eveniunt, diligenter inquirat et faciat quod in unaquaque parochia una sit obstetrix jurata aut duae juxta parochiae multitudinem, et ad hanc eligendam et procurandum quod eligatur cogant matricularios ecclesiae per citationem officii, si opus sit, ipsamque electam ad curiam mittant indilate, ut examinetur, et juret, ut moris est, litterasque approbationis a curia obtineat, et de ejus electione rescribat, aut rescribi injungat per ecclesiae rectorem.</p>
-                <p>Item, unumquemque rectorem ecclesiae cogant statuta synodalia et novas constitutiones habere sub poena statuti synodalis; alioquin poena ejusdem statuti ab ipsorum quolibet exigetur.</p>
-                <p>Quibus si quidem scrutatis visitando ecclesiae statum, et sacraria, jocalia, et mobilia quaecumque diligenter scrutetur et perquirat.</p>
-                <p>Primo nempe a dignioribus inchoans Corpus Christi sacram Eucharistiam reverenter suscipiat, et honeste cavens circa ejus administrationem et tutelam, quaedam specialia, videlicet ut in vase mundo et honesto panno sericove honesto cooperto in armariolo vel fenestra sub tuta et fida clave claudatur, ne possit ad illud temeraria vel prophana manus extendi ad horribilia et nefaria committenda.</p>
-                <p>Nam si incaute relinquatur, is ad quem ejus custodia pertinet, tribus mensibus est ab officio suspendendus: et si nefarium quid contigerit, gravius juxta delicti qualitatem punietur.</p>
-                <p>Item, quod duae sint cuppae seu duo repositoria, unum videlicet quod pro hostiis conservandis remaneat, alterum quod ad infirmos deferatur.</p>
-                <p>Item, quod secundum parochianorum multitudinem et temporis dubium, duae vel tres aut plures hostiae conserventur, quae saepe renoventur propter corruptionis pericula.</p>
-                <p>Et super hiis et super aliis quae sequi possunt, doceant sacerdotes secundum sua synodalia statuta fore discretos.</p>
-                <p>Item, et continue lumen seu lampas ardeat ante Corpus Christi, qui est candor lucis aeternae.</p>
-                <p>Secundo, ad sanctum chrisma descendens, illud in vase sano, honesto et integro custodiri faciat, et quod de quolibet oleo sit competenter in vasis distinctis: super quorum quolibet cedula sit continens, Oleum etc. clare scripta, ne uno pro reliquo sacerdos inadvertenter utatur.</p>
-                <p>Item, et quod in tuta fenestra seu armariolo Christi corporis inferiore cum clave secura custodiatur, ne ad illud, ut praedicitur, profana et nefaria manus extendatur, quod et de fontium lapide advertat qui mundi servandi sunt.</p>
-                <p>Tertio, quod calix integer sit argenteus, non cupreus, aut de stanno, et quod bonum habeat repositorium: et si facultas ecclesiae patiatur, quod duo sint calices [3]</p>
-            </div>
-            <div>
-                <head>explicit</head>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Item acta in synodo facta per magistros Henricum decanum Meldensem et Ludovicum Pariart officialem Meldensem vicarios generales in spiritualibus reverendi in Christo Patris domini JOHANNIS episcopi Meldensis nunc in remotis agentis cum potestate expressa synodo praesidendi et agendi, quae in synodo sunt agenda.</p>
+                    <p>Anno Domini millesimo trecentesimo sexagesimo quinto.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) CUm secundum jura canonica matrimoniale sacramentum in paradiso terrestri fuit ab ipso rerum omnium conditore institutum, et secundum Apostolum mulier viro mortuo ab ejus sit [1] lege soluta, et nubendi cui vult in Domino habeat liberam facultatem, et nonnulli cupiditas et gulositatis filii, dum vir aut mulier, ad secunda sponsalia vel nuptias transeunt, injurias, carmina, libellos diffamatorios contra eosdem sponsos, et de eisdem seu altero eorum dicant, faciant, et palam vociferantur, et lingua materna promulgant noctivalia Gallice Charivaris, durantibus dictis sponsalibus, et alias insolentias et nefanda quamplura committunt: donec ipsi sponsalia praedicta contrahentes pecuniis, commessationibus, et potibus erga tales excessus committentes se redemerint, et ipsorum gulositati satisfecerint, ex quibus quamplurimi a dicto matrimoniali sacramento retrahuntur in dicti sacramenti vituperium, et ipsorum sic secundo contrahentium injuriam, et in enormem Dei et Ecclesiae offensam, et scandalum plurimorum, suaeque salutis dispendium.</p>
+                    <p>Ea propter omnibus et singulis nobis subditis districte praecipimus, et eosdem una monitione peremtoria monemus per praesentes, et etiam inhibemus sub poena excommunicationis, vosque curati in ecclesiis vestris diebus dominicis et festivis, dum inibi affuerit populi multitudo, singulis parochianis vestris sub dictis poenis inhibeatis, et ipsos moneatis auctoritate nostra, quos tenore praesentium monemus, ne praemissa detestanda per se vel per alios committant, aut dent ad ea perpetranda auxilium, consilium, vel favorem.</p>
+                    <p>Alioquin ipsos in hiis scriptis excommunicamus, et sic excommunicatos publice nunciari volumus et mandamus.</p>
+                    <p>Rebellium in praemissis, si qui sint, quod absit, nomina et cognomina nobis, dum ad vos ipsorum notitia devenerit, litteratorie referatis sub poenis superius enarratis, ut nominatim et specialiter eosdem excommunicatos pro praemissis nunciari faciamus et vitari seu vocari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Quod nullus celebret bis in die.</p>
+                    <p>Item, cum in institutione canonica sit interdictum, nosque in synodo Meldensi ultimo celebrata prohibuerimus, et sub poenis canonicis ne aliquis presbyter bis in die, nisi in festo Nativitatis Domini celebrare praesumat, quodque nullus presbyter per aliquem curatum vel capellanum civitatis et dioecesis Meldenis permittatur in ecclesia vel capella divina officia celebrare, nisi fuerit auctoritate domini episcopi Meldensis approbatus, et super hoc litteras obtineat.</p>
+                    <p>Et insuper injunxerimus quod omnes et singuli parochialium ecclesiarum rectores habeant perfecte et complete sub poena excommunicationis et emendae statuta synodalia et provincialia, quae decreta et leges proprie censentur esse, et quod de mense in mensem statuta magis aedificantia publice populo lingua materna exponant: et prout intelleximus sunt quamplures dictorum statutorum transgressores.</p>
+                    <p>Praecipimus sub poena excommunicationis, et viginti librarum Turonensium, omnibus decanis, quatenus nomina et cognomina omnium virorum ecclesiasticorum contra praemissa in vestris decanatibus facientium, nec non statum omnium et singularum ecclesiarum per ipsos decanos visitatarum ac personarum ecclesiasticarum modum et conditionem, et a suis ecclesiis et ab ista synodo absentium, et ea quae reformatione et correctione indigent in eisdem, prout ad eorumdem notitiam est deventum, absque fraude nobis tradant antequam de civitate Meldensi recedant.</p>
+                    <p>Quae per ipsos decanos fieri sub praedictis poenis volumus et mandamus in synodo annis singulis in futurum in ista civitate seu dioecesi celebranda.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) Statutum synodale contra presbyteros habentes focarias concubinas.</p>
+                    <p>Quam multiplicibus poenis a sacrorum canonum conditoribus illatis subjaceant viri ecclesiastici mulieres focarias et concubinas secum tenentes, quampertimescendis censuris tam excommunicationis, quam suspensionis ab officiis, et beneficiis, ac tandem privatione perpetua a beneficiis ecclesiasticis, cogendi sunt hujusmodi viri ecclesiastici, ut concubinas et focarias quas detinent a se removeant, ipsas ulterius minime admissuri, nullus vir ecclesiasticus sanae mentis praesumitur ignorare.</p>
+                    <p>Hinc est quod nos omnes et singulos viros ecclesiasticos nobis subditos mulieres focarias seu concubinas secum tenentes vel habentes, aut cum ipsis conversantes taliter, quod ex hoc et ab hoc inter laicos scandalum contra ipsos oriatur, monemus primo, secundo, et tertio, et peremtorie, quatinus illas a se removeant, ulterius ipsas minime admissuri, infra duos menses a die hujus nostrae sanctae synodi computandos.</p>
+                    <p>Et hoc sub poenis suspensionis ab ecclesiasticis beneficiis, quam in ipsos et quemlibet eorum feremus, si hujusmodi duobus mensibus elapsis monitionibus nostris acquiescere contemserint.</p>
+                    <p>Cum iteratione quod si ipsi sic suspensi eas ulterius secum praesumserint tenere, vel cum ipsis conversaverint, taliter quod scandalum inter laicos exinde, ut praemissum est, oriatur, cum crescente contumacia, crescere debeat et poena, ipsos excommunicabimus, et eos a beneficiis ecclesiasticis privabimus, et alias contra ipsos procedemus, prout de jure fuerit procedendum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) Contra impedientes executionem mandatorum curiae.</p>
+                    <p>Cum turbationes et impedimenta quae laicorum excrescens indevotio litterarum nostrarum aut curiae nostrae portitoribus et latoribus ipsisque litteris affert eas rumpendo, lacerando, et de portitorum manibus violenter eripiendo, rectorum ecclesiarum ipsarum aut executorem eorumdem vitio plerumque contingere simus informati, qui ipsos portitores et eorum litteras parti contra quam diriguntur revelant, ac in publicum detegunt et tales turbatae jurisdictionis nostrae participes et auctores quodammodo faciunt excesses hujusmodi, praecipimus sub poena excommunicationis et suspensionis ab officio et beneficio aliisque arbitrariis poenis universos curatos, rectores, atque executioni litterarum deputatos, et missos ipsos portitores reverenter et pacifice suscipere et celare, litterasque incontinenti, saecularibus quibuscumque negotiis praetermissis, diligenter exsequi et secrete, executionisque differant publicationem, donec duarum leucarum spatio a loco praedicto suae curae potuerit inspecto gressu communi elongari portitor, aut quicumque illas litteras attulerit.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) De legatis fabricae sancti Stephani factis.</p>
+                    <p>Monemus omnes curatos dioecesis Meldensis sub poena centum solidorum ad opus fabricae Meldensis ecclesiae applicandorum, ut ipsi moneant sub poena excommunicationis heredes defunctorum, qui pia legata ad opus fabricae praedictae ecclesiae Meldensis reliquerunt, ut ipsi de praedictis legatis, si non sit satisfactum, satisfaciant domino Johanni de Courcelles custodi reliquiarum dictae ecclesiae, infra festum beati Martini hyemalis: quas poenas centum solidorum et excommunicationis sententiam, si non fecerint, dictos curatos et heredes in hiis scriptis declaramus incurrisse.</p>
+                    <p>Item, monemus dictos curatos, ut ipsi sub poena excommunicationis, si aliquid receperint pro dicta fabrica, de eo si non satisfecerint, infra festum beati Martini satisfaciant praedicto domino Johanni: alioquin ex nunc prout ex tunc excommunicatos declaramus in hiis scriptis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>(6) De synodalibus habendis per decanos.</p>
+                    <p>Praecipimus omnibus decanis ruralibus non habentibus praecepta synodalia completa et constitutiones provinciales, ut sub poena viginti librarum Turonensium domino Meldensi episcopo applicandarum, habeant praedicta praecepta synodalia et constitutiones provinciales infra festum omnium sanctorum proximo venturum: ut possint curatis sui decanatus non habentibus praemissa, de eis tradere exemplum dictorum praeceptorum suis sumtibus et expensis: quam poenam, si dicti decani neglexerint praemissa, ipsos incurrisse termino elapso in his scriptis declaramus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>(7) [2] De synodalibus habendis per curatos.</p>
+                    <p>Praecipimus districte omnibus curatis praedictae Meldensis dioecesis, ut ipsi sub poena viginti librarum Turonensium dicto domino episcopo applicandarum praedicta praecepta per manus decanorum habeant et recipiant, et diligenter inquirant infra festum Nativitatis Domini proximo venturum.</p>
+                    <p>Quam poenam, si hoc neglexerint, contra eos decrevimus commissam.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>(8) Contra impedientes jurisdictionem episcopi.</p>
+                    <p>Districte praecipimus omnibus curatis praedictae Meldensis dioecesis, ut ipsi sub poena viginti librarum Turonensium domino episcopo Meldensi applicandarum, denuncient ad pronum suum diebus dominicis et festivis in missa, facto silentio, quod omnes illos qui jurisdictionem ecclesiasticam impediunt, manifeste vel occulte, directe vel indirecte, et qui impedientibus impendunt auxilium, consilium, et favorem, quos etiam omnes praedictos in hiis scriptis excommunicatos declaramus.</p>
+                    <p>Item, quod nulli curati ad inhumandum corpus in cimeteriis seu ecclesiis suis procedant, nisi prius habita copia testamenti seu testamentorum confecti seu confectorum sub sigillo curiae Meldensis vel curati seu curatorum ad finem reddendi compotum de eisdem, et quod primitus heredes seu executores dictorum defunctorum permittant nobis et deputatis nostris aut deputandis a nobis reddere compotum et rationem de testamentis defunctorum.</p>
+                    <p>Item, apponatur ista clausula: In testamentis in primis voluit et jussit dictus testator quod de suo praesenti testamento seu ultima voluntate compotum reddatur curiae reverendi in Christo patris ac domini Meldensis episcopi, et sic alibi.</p>
+                    <p>INSTRUCTIO DECANORUM tam in cursu visitationis, quam extra.</p>
+                    <p>QUoniam ex decretis sanctorum patrum statutum est et sancitum, ne venerabile nomen episcopi vilesceret, non ad modicam civitatem, sed ad venerabilem locum adtitulandus est et nominandus episcopus: qui et si valde idoneus sit, mandata tamen caelestia efficacius exsequatur, si onera sua partiatur, et sicut matrici praeest ecclesiae, ita archipresbyteri de plebe et rurales decani statuuntur, qui non solum imperiti et simplicis vulgi sollicitudinem et curiosam gerant affectionem, verum presbyterorum, qui per minores titulos et ecclesias habitant, vitam jugi circumspectione custodiunt, in qua unusquisque industria divinum opus exerceat, episcopo suo denunciet, ut in nullo titubet ecclesiastica sollicitudo, sciat se dictorum archipresbyterorum unusquisque in suae visitationis cursu et extra ad sequentia capitula ex suscepti regiminis debito obligari.</p>
+                    <p>Primo, cum archipresbyterum aut decanum ad ecclesiam visitationis causa declinare contigerit, non solus, sed duobus fide dignis, aut publico tabellione, si ejus fuerit hujusmodi facultas, comitatus ecclesiae rectorem, et clericum, matricularios, seu gagiarios, et parochianos competenti numero secundum sui discretionem qui ecclesiae magis affecti fuerint, advocet: quibus praesentibus, infra statutum tempus adimpleat.</p>
+                    <p>Inquirat igitur de ecclesiae subjectione in se, videlicet ad cujus pertineat ordinationem seu collationem, sive domini Meldensis, aut alterius praesentantis, vel patroni, quod in visitationis rotulo primum declaretur.</p>
+                    <p>Inquirat etiam circa ecclesiae rectorem, si intitulatus ad eam, id est verus curatus resideat in eadem, et si non, cum per sacros canones sine licentia praelati a cura non liceat quemquam recedere, inquirat de causa non residentiae, et videat litteras scholaritatis, aut aliam dispensationem, si quam habeat, et scribat in visitationis rotulo.</p>
+                    <p>Item, et si verus intitulatus seu curatus se scholarem praetendat, nisi de scholaritate et privilegio doceat incontinenti, vel saltem in synodo fidem fecerit, super quo rescribat decanus, fructus beneficii arrestet, et committat secundum formam infra scriptam.</p>
+                    <p>Item, cum curatus secundum canonum praecepta in sacro presbyteratus ordine debeat constitui infra anni spatium a tempore adepti beneficii, inquirat super eo decanus; et si non promotum ad sacrum presbyteratus ordinem reperiat, arrester fructus, et committat, ut praedicitur.</p>
+                    <p>Item, et si in die sancto Sabbati Paschae non sit praesens ecclesiae curatus, ex ejus dioecesis statuto synodali fructus beneficii domino acquisiti sunt, nisi de non residendo fuerit cum eo dispensatum: fructus beneficii ad manum domini ponat, et arrestet, nisi de dispensatione aut aliter ordinatione per dominum facta, litteraliter et in continenti fiat sibi fides.</p>
+                    <p>Item, et fructus beneficii eorum qui in synodo non interfuerunt arrestet, et ad manum domini ponat.</p>
+                    <p>Et super omnibus hiis arrestis caveatur, ut statim post arrestum idoneos committat et fide dignos, qui solvendo sint ad receptionem fructuum et beneficii administrationem sumtibus ipsius beneficii, quam parcioribus et minoribus fieri poterit pro beneficii utilitate, dictisque sic commissis brevem assignet terminum, ad quem in curia Meldensi compareant, ut dicti beneficii administrationi per officialem et sigilliferum plenius provideatur, nec manum levent in quibuscumque casibus, nisi de expeditione fructuum per litteras patentes signeto et sigillo curiae sigillatas ei constet sub forma debita: alioquin de fructibus in damnis domino Meldensi ac aliis ad quos spectabunt satisfaciant, et aliter arbitrarie puniantur.</p>
+                    <p>Item, et si reperiat decanus cum vero curato de non residendo legitime dispensatum esse, inquirat si deserviens seu vicarius praesentatus fuerit, et per dominum approbatus: de quo incontinenti debebit sibi fidem facere per litteras domini anno pro quo visitat concessas: alioquin administrationem inhibeat eidem vicario aut commisso, cujuscumque etiam status sit, ipsumque ex officio citet pro hujusmodi excessu.</p>
+                    <p>Et ante diem citationis scribat, fructusque beneficii arrestet, et committat, ut praedicitur.</p>
+                    <p>Item, de vita et honestate rectoris parochiae, et ejus honesta conversatione, sive intitulatus, id est verus curatus residens sit, sive vicarius et commissus diligenter inquirat, praesertim si tabernam in domo presbyterali teneat, si domus intra fines cimeterii sit constituta, si focariam seu concubinam secum habeat, quod omnino sub poenis statutorum synodalium fieri prohibeat; et generaliter si parochianis aut habitantibus in scandalo sit, aut per ejus defectum aliquis in administratione sacramentorum defectus fuerit.</p>
+                    <p>Item, si una die per presbyterum etiam approbatum una solum missa celebretur, et non duae vel plures sine causa speciali, de qua per litteras domini constet, ut praedicitur, excepto Nativitatis Domini die.</p>
+                    <p>Item, inquirat an in parochia sint aliqui excommunicati, et a quo tempore, et si aggravati, vel reaggravati sint, et si in excommunicationis sententia continue perseverent.</p>
+                    <p>Item, an apud curatum sint registra excommunicatorum, et si excommunicati singulis diebus dominicis in ecclesiae prono nominentur: quae omnino fieri praecipiat sub poenis in statutis synodalibus contentis.</p>
+                    <p>Et si registra non habeat curatus aut rector quicumque sit, ei praefigatur terminus intra quem a registratore curiae copiam habeat registri manu ejus registratoris signatam.</p>
+                    <p>Item, si sint aliqui publice usurarii, sortilegi, haeretici, idololatrae, apostatae, adulteri, et concubinarii, publice diffamati, vel leprosi, aut de lepra suspecti.</p>
+                    <p>Item, si sint aliqui ecclesiasticam jurisdictionem impedientes: quos faciant excommunicatos denunciari singulis diebus dominicis in ecclesiae prono secundum formam cedulae nuper a domino Meldensi episcopo compositae valde compendiose.</p>
+                    <p>Item, si sint aliqui per sacra prohibita detestando jurantes, qui in fide videntur male sentire.</p>
+                    <p>Item, de domo presbyterali et utensilibus presbyteratus, et ne inter rectorem ecclesiae, parochianos, aut matricularios, eis sit aliqualis rancor seu perseveret quantum possibile erit provideat, injungatque et faciat per rectorem ecclesiae et matricularios litteras fieri sub curiae Meldensis sigillo de concordia inter ipsos super reparationibus et utensilibus, factaque tute sub custodia conserventur.</p>
+                    <p>Item, et si matologium habeant curati, et praecipiat omnia donata ecclesiae quocumque titulo in eo scribi, et relicta sive legata cum diligentia procurari per ecclesiae rectorem et matricularium, a quolibet et quantum in se est, litterasque et titulos rerum ecclesiae donatarum sub fide custodia in ecclesia arca custodiant, sub poenis synodalium statutorum.</p>
+                    <p>Item, et idem de matriculariis quod ecclesiae vel sancto relicta procurent, et si aliqui sint reditus ecclesiae detinentes, quod singulis diebus dominicis excommunicati nuncientur.</p>
+                    <p>Item, propter pericula quae circa partus mulierum saepe eveniunt, diligenter inquirat et faciat quod in unaquaque parochia una sit obstetrix jurata aut duae juxta parochiae multitudinem, et ad hanc eligendam et procurandum quod eligatur cogant matricularios ecclesiae per citationem officii, si opus sit, ipsamque electam ad curiam mittant indilate, ut examinetur, et juret, ut moris est, litterasque approbationis a curia obtineat, et de ejus electione rescribat, aut rescribi injungat per ecclesiae rectorem.</p>
+                    <p>Item, unumquemque rectorem ecclesiae cogant statuta synodalia et novas constitutiones habere sub poena statuti synodalis; alioquin poena ejusdem statuti ab ipsorum quolibet exigetur.</p>
+                    <p>Quibus si quidem scrutatis visitando ecclesiae statum, et sacraria, jocalia, et mobilia quaecumque diligenter scrutetur et perquirat.</p>
+                    <p>Primo nempe a dignioribus inchoans Corpus Christi sacram Eucharistiam reverenter suscipiat, et honeste cavens circa ejus administrationem et tutelam, quaedam specialia, videlicet ut in vase mundo et honesto panno sericove honesto cooperto in armariolo vel fenestra sub tuta et fida clave claudatur, ne possit ad illud temeraria vel prophana manus extendi ad horribilia et nefaria committenda.</p>
+                    <p>Nam si incaute relinquatur, is ad quem ejus custodia pertinet, tribus mensibus est ab officio suspendendus: et si nefarium quid contigerit, gravius juxta delicti qualitatem punietur.</p>
+                    <p>Item, quod duae sint cuppae seu duo repositoria, unum videlicet quod pro hostiis conservandis remaneat, alterum quod ad infirmos deferatur.</p>
+                    <p>Item, quod secundum parochianorum multitudinem et temporis dubium, duae vel tres aut plures hostiae conserventur, quae saepe renoventur propter corruptionis pericula.</p>
+                    <p>Et super hiis et super aliis quae sequi possunt, doceant sacerdotes secundum sua synodalia statuta fore discretos.</p>
+                    <p>Item, et continue lumen seu lampas ardeat ante Corpus Christi, qui est candor lucis aeternae.</p>
+                    <p>Secundo, ad sanctum chrisma descendens, illud in vase sano, honesto et integro custodiri faciat, et quod de quolibet oleo sit competenter in vasis distinctis: super quorum quolibet cedula sit continens, Oleum etc. clare scripta, ne uno pro reliquo sacerdos inadvertenter utatur.</p>
+                    <p>Item, et quod in tuta fenestra seu armariolo Christi corporis inferiore cum clave secura custodiatur, ne ad illud, ut praedicitur, profana et nefaria manus extendatur, quod et de fontium lapide advertat qui mundi servandi sunt.</p>
+                    <p>Tertio, quod calix integer sit argenteus, non cupreus, aut de stanno, et quod bonum habeat repositorium: et si facultas ecclesiae patiatur, quod duo sint calices [3]</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] first letter unclear: could be &quot;sit&quot; or &quot;fit&quot;</p>
+                    <p>[2] wrongly numbered as 6 in text</p>
+                    <p>[3] gap marked with &quot;. . . . .&quot; followed by &quot;Reliquum desideratur in M. S. codice&quot; in italics</p>
+                </div>
             </div>
         </body>
     </text>

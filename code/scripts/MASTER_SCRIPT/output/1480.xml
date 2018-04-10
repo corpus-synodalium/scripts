@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 1480</recordID>
+                <title>Worcester (#1480)</title>
+                <recordID>1480</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate>1219</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Worcester</origPlace>
                 <diocese>Worcester</diocese>
                 <province>Canterbury</province>
-                <country/>
+                <country>England</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Diocesan</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,93 +55,138 @@
     <text>
         <body>
             <div>
-                <head>incipit</head>
-                <p>Constitutiones edite a bone memorie domino Willelmo de Bleys episcopo Wigornensi.</p>
-                <p>In nomine patris et filii et spiritus sancti, amen.</p>
-                <p>Anno incarnationis domini moccoxixo hec subscripta statuta sunt per episcopatum Wygornensem a domino Willelmo de Bleis eiusdem loci episcopo, videlicet:</p>
+                <head>Metadata</head>
+                <p>RecordID: 1480</p>
+                <p>Year: 1219</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Worcester</p>
+                <p>Diocese: Worcester</p>
+                <p>Province: Canterbury</p>
+                <p>CountryModern: England</p>
+                <p>Latitude: 52.19123</p>
+                <p>Longitude: -2.22231</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: William de Blois</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Powicke &amp; Cheney I, 52-57</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: Data Capture</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
             </div>
             <div>
-                <head>001</head>
-                <p>(1) quod quando persona vel vicarius vel sacerdos ministrans mortuus fuerit, statim ut mors eius denuntiata est decano loci, idem decanus mortem ipsam denuntiabit omnibus matricibus ecclesiis de decanatu suo in quarum qualibet, morte denuntiata eiusdem, pulsabuntur campane pro eodem defuncto, et capellanus loci incontinenti commendationem dicet pro anima ipsius defuncti et post vesperas Placebo et Dirige; et in crastino vel quam citius poterit missam cantabit. In proximo autem capitulo in eodem decanatu celebrato idem ab omnibus capellanis tunc presentibus cum psalmo De profundis nominatim absolvetur, et in eodem capitulo diligenter inquiretur ab eodem qui eidem capitulo presidebit utrum predictum servitium pro defunctis in qualibet ecclesia eiusdem decanatus plene factum fuerit; et ex parte episcopi firmiter precipiatur et in virtute obedientie iniungatur ut ubi factum non fuerit, plenarie perficiatur cum debita celebritate.</p>
-                <p>Item archidiaconus loci vel eius officialis statim ex quo eadem mors annuntiata fuerit omnibus aliis decanis archidiaconatus sui eandem mortem nominatim denuntiabit, quorum quilibet in decanatu suo secundum formam subscriptam pro eodem defuncto servitium fieri faciat, nullatenus obmittendo in singulis capitulis proximo celebratis quod hic scriptum est.</p>
-                <p>Cum vero decanus mortuus fuerit, archidiacono vel eius officiali mortem ipsam statim ex quo ei innotuerit per archidiaconatum denuntiante, totum idem et eodem modo quo predictum est faciet pro anima defuncti decani sicut supradictum est pro anima persone vel vicarii vel sacerdotis in ministerio decedentis: hoc addito quod in decanatu in quo fuerat decanus servitium pro defunctis in qualibet ecclesia eiusdem decanatus iterabitur pro anima ipsius; mortuo autem officiali archidiaconi, per totum archidiaconatum servitium pro defunctis pro anima ipsius fiat semel in qualibet ecclesia tam conventuali quam parochiali.</p>
-                <p>Cum archidiaconus mortuus fuerit, episcopo vel eius officiali mortem eius per archidiaconatum denuntiante, totum id et eodem modo fiat per totum archidiaconatum pro anima ipsius sicut scriptum est pro anima decani, hoc addito quod per totum archidiaconatum servitium pro defunctis pro anima ipsius iterabitur.</p>
-                <p>Mortuo autem officiali episcopi, per totum episcopatum predictum servitium pro anima ipsius fiat semel in qualibet ecclesia.</p>
-                <p>Cum autem abbas vel prior conventualis mortuus fuerit, episcopus statim ex quo ei innotuerit, animam absolvet et cum commendatione et Placebo et Dirige missam pro defunctis personaliter pro anima ipsius cantabit.</p>
-                <p>Hoc autem fiet in omni ecclesia conventuali ab abbate vel priore eiusdem loci.</p>
-                <p>In quolibet vero decanatu totius episcopatus in capitulo proximo celebrato postea ex quo hoc innotuerit sollempniter absolvatur anima ipsius defuncti cum psalmo De profundis.</p>
-                <p>In decanatu vero in quo situm est monasterium cuius fuerat abbas vel prior mortuus, totum servitium cum celebratione misse similiter fiet in qualibet ecclesia eiusdem decanatus pro anima ipsius defuncti.</p>
-                <p>Vice vero versa quando decanus vel persona vel vicarius vel sacerdos eiusdem decanatus mortuus fuerit, simili modo fiet pro anima ipsius in eodem monasterio.</p>
-                <p>Cum autem episcopus viam universe carnis ingressus fuerit, quid pro anima ipsius faciendum sit in synodo celebranda per gratiam dei statuetur.</p>
-            </div>
-            <div>
-                <head>002</head>
-                <p>(2) Statuimus ut nullus fiat decanus nisi habeat beneficium ecclesiasticum.</p>
-                <p>Ut nulli decanatus dentur ad firmam.</p>
-                <p>Ut nullus decanus habeat apparitorem, nisi fuerit ille clericus ad minus ordinatus in acolitum.</p>
-            </div>
-            <div>
-                <head>003</head>
-                <p>(3) Cum persona vel vicarius decesserit, omnia instrumenta sua immobilia remaneant suo successori: una mensa cum duobus tripodibus, et maior si plures fuerint ibi invente; maior olla enea si plures fuerint invente; una archa, et maior si plures fuerint invente; unum doleum, et maius si plura fuerint inventa; una cuva, et maior si plures fuerint invente; una carecta, et melior si plures fuerint invente.</p>
-                <p>Item, statuimus quod quando persona vel vicarius decesserit ante Annuntiationem beate Marie, omnes proventus de eo quod seminaverit in terra ecclesie percipiet; si autem ad firmam dederit, nichil habebit.</p>
-            </div>
-            <div>
-                <head>004</head>
-                <p>(4) Item, si persona vel vicarius decesserit, non fiat distributio rerum suarum antequam constiterit episcopo vel eius officiali ipsum testamentum condidisse, et interim faciet decanus omnia sua fideliter conservari.</p>
-            </div>
-            <div>
-                <head>005</head>
-                <p>(5) Item, ne persone vel vicarii, habentes loca in quibus edificare possunt in feodo ecclesiastico, in feodo laicali edificare presumant.</p>
-                <p>Ne terre ecclesiarum dentur ad firmam laicis vel liberis hominibus.</p>
-                <p>Item, prohibemus sub interminatione anathematis ne ecclesiastica persona decimas ponat in laicali feodo, cum habeat ecclesiasticum in quo possit eas ponere.</p>
-            </div>
-            <div>
-                <head>006</head>
-                <p>(6) Item, prohibemus ne iudei libros, vestimenta, vel alia ornamenta ecclesiastica loco pignoris vel alio modo recipiant.</p>
-                <p>Quod si fecerint, nisi commoniti ea restituant ecclesiis de quibus subrepta fuerint, subtrahatur eis participium christianorum secundum tenorem concilii.</p>
-                <p>Item, prohibemus sub interminatione anathematis ne mulieres christiane nutriant pueros iudeorum, nec habeant iudei servientes mulieres Christianas, que in hospitiis eorum pernoctent.</p>
-                <p>Item, ne christiani recipiant pecuniam iudeorum ad deponendum in ecclesiis, ut quasi res proprie magis salve custodiantur.</p>
-                <p>Item, ne christiani nummos mutuo prestent iudeis, ut eos tradant ad usuram spe lucri recipiendi.</p>
-            </div>
-            <div>
-                <head>007</head>
-                <p>(7) Item, prohibemus ne in civitatibus vel burgis aliquid capiatur de ecclesiasticis personis, videlicet episcopis, abbatibus, prioribus, archidiaconis, personis, vicariis, seu quibuscunque aliis personis ecclesiasticis, vel ab eorum propria familia vel etiam rusticis, pro edificatione murorum circa civitates vel burgos construendorum.</p>
-                <p>Quodsi aliqua extorta dicta occasione a predictis facta fuerint personis, primo moneantur captores ad ea que extorta fuerint restituenda, quod nisi infra octo dies fecerint, ipso die excommunicentur.</p>
-                <p>Preterea moneantur auctores, si necesse fuerit, ad extorta restituenda; et nisi infra octo dies fecerint, supponatur civitas vel burgum interdicto, non expectata presentia episcopi vel eius officialis.</p>
-            </div>
-            <div>
-                <head>008</head>
-                <p>(8) Si clericus habens coronam et tonsuram competentem captus fuerit, sive fuerit notus sive ignotus, et litteratus, moneantur captores et detentores per decanum loci ut eum libere sine difficultate recedere dimittant, nisi forte deprehensus fuerit in manifesto delicto, et tunc exigat eum decanus loci ut ei custodiendus dimittatur auctoritate domini episcopi.</p>
-                <p>Quod si negatum fuerit, ammonitione premissa eodem die nominatim excommunicentur.</p>
-                <p>Et adeantur auctores captionis et detentores et moneantur ut clericum captum ut supradictum est dimittant.</p>
-                <p>Quod si infra triduum non fecerint, sive cives fuerint sive burgenses, civitas vel burgum interdicto supponatur.</p>
-                <p>Si autem per castellanum captus fuerit clericus, predicto modo moneatur et eodem modo fiat executio sententie contra eum; et si necesse fuerit, adeatur vicecomes vel subvicecomes et moneatur competenter ut clericum predictum secundum formam predictam liberari faciat.</p>
-                <p>Quod si infra octo dies non fecerit, tantum supponatur terra eius interdicto; si vero terram in episcopatu non habuerit, post octo dies suspendatur ab ingressu ecclesie, et si post xv dies in contumacia permanserit, nominatim excommunicetur.</p>
-                <p>Si clericus dicto modo captus notus fuerit et de episcopatu, licet minus competenter sit tonsoratus vel coronatus, predicto modo liberetur et episcopus ei pro incompetenti tonsoratione vel coronatione penam infligat.</p>
-            </div>
-            <div>
-                <head>009</head>
-                <p>(9) Si rector ecclesie pensionarius discedat circa festum Sancti Michaelis qui teneatur viris religiosis vel alii ecclesiastice persone in aliqua pensione solvenda, statuimus ut de bonis defuncti respondeatur ei cui pensio debeatur usque ad Annuntiationem beate Marie sequentem, et successor eius ab illo termino de pensione debita respondeat.</p>
-            </div>
-            <div>
-                <head>010</head>
-                <p>(10) Ut post festum Sancte Trinitatis fiant cerei minoris portionis de cereo paschali, qui tantum cedant in usus pauperum mortuorum.</p>
-            </div>
-            <div>
-                <head>011</head>
-                <p>(11) Ut nullus nisi sacerdos admittatur ad aliquam ecclesiam cuius estimatio non excedat v marcas, sed admissus residentiam faciat in eadem ecclesia.</p>
-            </div>
-            <div>
-                <head>012</head>
-                <p>(12) Item, denuntient sacerdotes quod si aliquis medicorum suadet aliquid quod advertatur alicui in periculum anime sue, non admittat illud, secundum tenorem concilii.</p>
-            </div>
-            <div>
-                <head>013</head>
-                <p>(13) Item, ut in diocesi nostra uniformis sit prestatio decimarum agnorum et vellerum et ut laicis subtrahatur occasio malignandi, statuimus ut presente rectore ecclesie vel eius nuntio fiat decimatio predictorum.</p>
-                <p>Quodsi laici ad hoc induci non possunt, per censuram ecclesiasticam compellantur.</p>
-            </div>
-            <div>
-                <head>explicit</head>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Constitutiones edite a bone memorie domino Willelmo de Bleys episcopo Wigornensi.</p>
+                    <p>In nomine patris et filii et spiritus sancti, amen.</p>
+                    <p>Anno incarnationis domini moccoxixo hec subscripta statuta sunt per episcopatum Wygornensem a domino Willelmo de Bleis eiusdem loci episcopo, videlicet:</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) quod quando persona vel vicarius vel sacerdos ministrans mortuus fuerit, statim ut mors eius denuntiata est decano loci, idem decanus mortem ipsam denuntiabit omnibus matricibus ecclesiis de decanatu suo in quarum qualibet, morte denuntiata eiusdem, pulsabuntur campane pro eodem defuncto, et capellanus loci incontinenti commendationem dicet pro anima ipsius defuncti et post vesperas Placebo et Dirige; et in crastino vel quam citius poterit missam cantabit. In proximo autem capitulo in eodem decanatu celebrato idem ab omnibus capellanis tunc presentibus cum psalmo De profundis nominatim absolvetur, et in eodem capitulo diligenter inquiretur ab eodem qui eidem capitulo presidebit utrum predictum servitium pro defunctis in qualibet ecclesia eiusdem decanatus plene factum fuerit; et ex parte episcopi firmiter precipiatur et in virtute obedientie iniungatur ut ubi factum non fuerit, plenarie perficiatur cum debita celebritate.</p>
+                    <p>Item archidiaconus loci vel eius officialis statim ex quo eadem mors annuntiata fuerit omnibus aliis decanis archidiaconatus sui eandem mortem nominatim denuntiabit, quorum quilibet in decanatu suo secundum formam subscriptam pro eodem defuncto servitium fieri faciat, nullatenus obmittendo in singulis capitulis proximo celebratis quod hic scriptum est.</p>
+                    <p>Cum vero decanus mortuus fuerit, archidiacono vel eius officiali mortem ipsam statim ex quo ei innotuerit per archidiaconatum denuntiante, totum idem et eodem modo quo predictum est faciet pro anima defuncti decani sicut supradictum est pro anima persone vel vicarii vel sacerdotis in ministerio decedentis: hoc addito quod in decanatu in quo fuerat decanus servitium pro defunctis in qualibet ecclesia eiusdem decanatus iterabitur pro anima ipsius; mortuo autem officiali archidiaconi, per totum archidiaconatum servitium pro defunctis pro anima ipsius fiat semel in qualibet ecclesia tam conventuali quam parochiali.</p>
+                    <p>Cum archidiaconus mortuus fuerit, episcopo vel eius officiali mortem eius per archidiaconatum denuntiante, totum id et eodem modo fiat per totum archidiaconatum pro anima ipsius sicut scriptum est pro anima decani, hoc addito quod per totum archidiaconatum servitium pro defunctis pro anima ipsius iterabitur.</p>
+                    <p>Mortuo autem officiali episcopi, per totum episcopatum predictum servitium pro anima ipsius fiat semel in qualibet ecclesia.</p>
+                    <p>Cum autem abbas vel prior conventualis mortuus fuerit, episcopus statim ex quo ei innotuerit, animam absolvet et cum commendatione et Placebo et Dirige missam pro defunctis personaliter pro anima ipsius cantabit.</p>
+                    <p>Hoc autem fiet in omni ecclesia conventuali ab abbate vel priore eiusdem loci.</p>
+                    <p>In quolibet vero decanatu totius episcopatus in capitulo proximo celebrato postea ex quo hoc innotuerit sollempniter absolvatur anima ipsius defuncti cum psalmo De profundis.</p>
+                    <p>In decanatu vero in quo situm est monasterium cuius fuerat abbas vel prior mortuus, totum servitium cum celebratione misse similiter fiet in qualibet ecclesia eiusdem decanatus pro anima ipsius defuncti.</p>
+                    <p>Vice vero versa quando decanus vel persona vel vicarius vel sacerdos eiusdem decanatus mortuus fuerit, simili modo fiet pro anima ipsius in eodem monasterio.</p>
+                    <p>Cum autem episcopus viam universe carnis ingressus fuerit, quid pro anima ipsius faciendum sit in synodo celebranda per gratiam dei statuetur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Statuimus ut nullus fiat decanus nisi habeat beneficium ecclesiasticum.</p>
+                    <p>Ut nulli decanatus dentur ad firmam.</p>
+                    <p>Ut nullus decanus habeat apparitorem, nisi fuerit ille clericus ad minus ordinatus in acolitum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) Cum persona vel vicarius decesserit, omnia instrumenta sua immobilia remaneant suo successori: una mensa cum duobus tripodibus, et maior si plures fuerint ibi invente; maior olla enea si plures fuerint invente; una archa, et maior si plures fuerint invente; unum doleum, et maius si plura fuerint inventa; una cuva, et maior si plures fuerint invente; una carecta, et melior si plures fuerint invente.</p>
+                    <p>Item, statuimus quod quando persona vel vicarius decesserit ante Annuntiationem beate Marie, omnes proventus de eo quod seminaverit in terra ecclesie percipiet; si autem ad firmam dederit, nichil habebit.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) Item, si persona vel vicarius decesserit, non fiat distributio rerum suarum antequam constiterit episcopo vel eius officiali ipsum testamentum condidisse, et interim faciet decanus omnia sua fideliter conservari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) Item, ne persone vel vicarii, habentes loca in quibus edificare possunt in feodo ecclesiastico, in feodo laicali edificare presumant.</p>
+                    <p>Ne terre ecclesiarum dentur ad firmam laicis vel liberis hominibus.</p>
+                    <p>Item, prohibemus sub interminatione anathematis ne ecclesiastica persona decimas ponat in laicali feodo, cum habeat ecclesiasticum in quo possit eas ponere.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>(6) Item, prohibemus ne iudei libros, vestimenta, vel alia ornamenta ecclesiastica loco pignoris vel alio modo recipiant.</p>
+                    <p>Quod si fecerint, nisi commoniti ea restituant ecclesiis de quibus subrepta fuerint, subtrahatur eis participium christianorum secundum tenorem concilii.</p>
+                    <p>Item, prohibemus sub interminatione anathematis ne mulieres christiane nutriant pueros iudeorum, nec habeant iudei servientes mulieres Christianas, que in hospitiis eorum pernoctent.</p>
+                    <p>Item, ne christiani recipiant pecuniam iudeorum ad deponendum in ecclesiis, ut quasi res proprie magis salve custodiantur.</p>
+                    <p>Item, ne christiani nummos mutuo prestent iudeis, ut eos tradant ad usuram spe lucri recipiendi.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>(7) Item, prohibemus ne in civitatibus vel burgis aliquid capiatur de ecclesiasticis personis, videlicet episcopis, abbatibus, prioribus, archidiaconis, personis, vicariis, seu quibuscunque aliis personis ecclesiasticis, vel ab eorum propria familia vel etiam rusticis, pro edificatione murorum circa civitates vel burgos construendorum.</p>
+                    <p>Quodsi aliqua extorta dicta occasione a predictis facta fuerint personis, primo moneantur captores ad ea que extorta fuerint restituenda, quod nisi infra octo dies fecerint, ipso die excommunicentur.</p>
+                    <p>Preterea moneantur auctores, si necesse fuerit, ad extorta restituenda; et nisi infra octo dies fecerint, supponatur civitas vel burgum interdicto, non expectata presentia episcopi vel eius officialis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>(8) Si clericus habens coronam et tonsuram competentem captus fuerit, sive fuerit notus sive ignotus, et litteratus, moneantur captores et detentores per decanum loci ut eum libere sine difficultate recedere dimittant, nisi forte deprehensus fuerit in manifesto delicto, et tunc exigat eum decanus loci ut ei custodiendus dimittatur auctoritate domini episcopi.</p>
+                    <p>Quod si negatum fuerit, ammonitione premissa eodem die nominatim excommunicentur.</p>
+                    <p>Et adeantur auctores captionis et detentores et moneantur ut clericum captum ut supradictum est dimittant.</p>
+                    <p>Quod si infra triduum non fecerint, sive cives fuerint sive burgenses, civitas vel burgum interdicto supponatur.</p>
+                    <p>Si autem per castellanum captus fuerit clericus, predicto modo moneatur et eodem modo fiat executio sententie contra eum; et si necesse fuerit, adeatur vicecomes vel subvicecomes et moneatur competenter ut clericum predictum secundum formam predictam liberari faciat.</p>
+                    <p>Quod si infra octo dies non fecerit, tantum supponatur terra eius interdicto; si vero terram in episcopatu non habuerit, post octo dies suspendatur ab ingressu ecclesie, et si post xv dies in contumacia permanserit, nominatim excommunicetur.</p>
+                    <p>Si clericus dicto modo captus notus fuerit et de episcopatu, licet minus competenter sit tonsoratus vel coronatus, predicto modo liberetur et episcopus ei pro incompetenti tonsoratione vel coronatione penam infligat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>(9) Si rector ecclesie pensionarius discedat circa festum Sancti Michaelis qui teneatur viris religiosis vel alii ecclesiastice persone in aliqua pensione solvenda, statuimus ut de bonis defuncti respondeatur ei cui pensio debeatur usque ad Annuntiationem beate Marie sequentem, et successor eius ab illo termino de pensione debita respondeat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>(10) Ut post festum Sancte Trinitatis fiant cerei minoris portionis de cereo paschali, qui tantum cedant in usus pauperum mortuorum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>(11) Ut nullus nisi sacerdos admittatur ad aliquam ecclesiam cuius estimatio non excedat v marcas, sed admissus residentiam faciat in eadem ecclesia.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>(12) Item, denuntient sacerdotes quod si aliquis medicorum suadet aliquid quod advertatur alicui in periculum anime sue, non admittat illud, secundum tenorem concilii.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>(13) Item, ut in diocesi nostra uniformis sit prestatio decimarum agnorum et vellerum et ut laicis subtrahatur occasio malignandi, statuimus ut presente rectore ecclesie vel eius nuntio fiat decimatio predictorum.</p>
+                    <p>Quodsi laici ad hoc induci non possunt, per censuram ecclesiasticam compellantur.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1]</p>
+                    <p>[2]</p>
+                    <p>[]</p>
+                </div>
             </div>
         </body>
     </text>

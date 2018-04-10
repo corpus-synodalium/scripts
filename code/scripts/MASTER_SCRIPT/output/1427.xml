@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 1427</recordID>
+                <title>Pont-Audemer (#1427)</title>
+                <recordID>1427</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate>1321</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Pont-Audemer </origPlace>
                 <diocese>Evreux</diocese>
                 <province>Rouen</province>
-                <country/>
+                <country>France</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Provincial</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,66 +55,111 @@
     <text>
         <body>
             <div>
-                <head>incipit</head>
-                <p>CASUS RESERVATI</p>
-                <p>Per Concilium Provinciale Rotomag. modo exquirantur.</p>
+                <head>Metadata</head>
+                <p>RecordID: 1427</p>
+                <p>Year: 1321</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Pont-Audemer </p>
+                <p>Diocese: Evreux</p>
+                <p>Province: Rouen</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 49.355</p>
+                <p>Longitude: 0.514722</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Provincial</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Mansi 25, coll 683-86</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Data Capture']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
             </div>
             <div>
-                <head>001</head>
-                <p>(1) Qui faciunt sortilegia de Sacramentis Ecclesiae.</p>
-            </div>
-            <div>
-                <head>002</head>
-                <p>(2) Qui malitiose procurat abortivum.</p>
-            </div>
-            <div>
-                <head>003</head>
-                <p>(3) Qui ad conjugendum vel distinguendum [1] factum matrimonium, deponunt scienter falsum testimonium.</p>
-            </div>
-            <div>
-                <head>004</head>
-                <p>(4) Qui ad exhaeredandum aliquem falsum testimonium deponunt.</p>
-            </div>
-            <div>
-                <head>005</head>
-                <p>(5) Qui a Judaeo sumpserit potionem.</p>
-            </div>
-            <div>
-                <head>006</head>
-                <p>(6) Clerici, qui se supponunt justitiae saeculari, vel qui exhibent emendam in factis personalibus, ubi Haro fuerit, si praesumant respondere, vel causas hujusmodi agitare coram judicibus saecularibus.</p>
-                <p>[2]</p>
-            </div>
-            <div>
-                <head>008</head>
-                <p>(8) Judices saeculares, qui de causis Ecclesiae se intromittunt qualitercumque, si moniti generaliter fuerint.</p>
-            </div>
-            <div>
-                <head>009</head>
-                <p>(9) Quicumque judices, qui generaliter sunt moniti, ut assisias et placita diebus dominicis, et festis Apostolorum, et beatae Mariae, et Joannis Baptistae, et aliis quae a Clero et populo celebrantur, tenere desistant.</p>
-            </div>
-            <div>
-                <head>010</head>
-                <p>(10) Illi qui impediunt jurisdictionem Ecclesiasticam.</p>
-            </div>
-            <div>
-                <head>011</head>
-                <p>(11) Facientes violentiam Clericis indebite ultra quam exigit rebellio defendentis: vel qui detinent eos ultra requisitionem judicis Ecclesiastici.</p>
-            </div>
-            <div>
-                <head>012</head>
-                <p>(12) Illi qui invocant daemones per artem magicam, vel per [3] consentientes.</p>
-            </div>
-            <div>
-                <head>013</head>
-                <p>(13) Persona Ecclesiastica, quae contra personam Ecclesiasticam studiose procurat Haro fieri, ut causam trahat coram judice saeculari.</p>
-            </div>
-            <div>
-                <head>014</head>
-                <p>(14) Matrimonia inter contrahentes clandestine.</p>
-                <p>Omnes praedicti sunt excommunicati per provinciale Concilium Rotomagense.</p>
-            </div>
-            <div>
-                <head>explicit</head>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>CASUS RESERVATI</p>
+                    <p>Per Concilium Provinciale Rotomag. modo exquirantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) Qui faciunt sortilegia de Sacramentis Ecclesiae.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Qui malitiose procurat abortivum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) Qui ad conjugendum vel distinguendum [1] factum matrimonium, deponunt scienter falsum testimonium.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) Qui ad exhaeredandum aliquem falsum testimonium deponunt.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) Qui a Judaeo sumpserit potionem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>(6) Clerici, qui se supponunt justitiae saeculari, vel qui exhibent emendam in factis personalibus, ubi Haro fuerit, si praesumant respondere, vel causas hujusmodi agitare coram judicibus saecularibus.</p>
+                    <p>[2]</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>(8) Judices saeculares, qui de causis Ecclesiae se intromittunt qualitercumque, si moniti generaliter fuerint.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>(9) Quicumque judices, qui generaliter sunt moniti, ut assisias et placita diebus dominicis, et festis Apostolorum, et beatae Mariae, et Joannis Baptistae, et aliis quae a Clero et populo celebrantur, tenere desistant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>(10) Illi qui impediunt jurisdictionem Ecclesiasticam.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>(11) Facientes violentiam Clericis indebite ultra quam exigit rebellio defendentis: vel qui detinent eos ultra requisitionem judicis Ecclesiastici.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>(12) Illi qui invocant daemones per artem magicam, vel per [3] consentientes.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>(13) Persona Ecclesiastica, quae contra personam Ecclesiasticam studiose procurat Haro fieri, ut causam trahat coram judice saeculari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>(14) Matrimonia inter contrahentes clandestine.</p>
+                    <p>Omnes praedicti sunt excommunicati per provinciale Concilium Rotomagense.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] &quot;(f. disjungendum)&quot; printed here: editor's note</p>
+                    <p>[2] no heading numbered 7. No obvious gap in text.</p>
+                    <p>[3] gap marked with &quot;....&quot;.</p>
+                </div>
             </div>
         </body>
     </text>

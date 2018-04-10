@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 1527</recordID>
+                <title>Lambeth (#1527)</title>
+                <recordID>1527</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate precision="circa">1305</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Lambeth</origPlace>
                 <diocese/>
                 <province>Canterbury</province>
-                <country/>
+                <country>England</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Other</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,138 +55,180 @@
     <text>
         <body>
             <div>
-                <head>incipit</head>
+                <head>Metadata</head>
+                <p>RecordID: 1527</p>
+                <p>Year: 1305</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: Yes</p>
+                <p>DatingNotes: 1295x1313</p>
+                <p>Place: Lambeth</p>
+                <p>Diocese: None</p>
+                <p>Province: Canterbury</p>
+                <p>CountryModern: England</p>
+                <p>Latitude: 51.4903</p>
+                <p>Longitude: -0.1193</p>
+                <p>PlaceNotes: or Merton?</p>
+                <p>Classification: Other</p>
+                <p>IssuingAuthority: Robert Winchelsey</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1294</p>
+                <p>RegnalEnd: 1313</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: Unpublished drafts or personal mandates</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Powicke &amp; Cheney II, 1382-1393</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: Some texts are known to predate Winchelsey's election as AB, but throughout later Middle Ages these were consistently ascribed to him</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: Data Capture</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: Cheney, &quot;So-called Statutes of John Pecham and Robert Winchelsey,&quot; </p>
             </div>
             <div>
-                <head>A</head>
-                <p>(A) De iuramento et obedientia rectoribus et vicariis in eorum ecclesiis a celebrantibus faciendo.</p>
-                <p>Constitutio domini Roberti de Wynchelsey Cantuariensis archiepiscopi facta in visitatione sua a.d. mo ccco vto.</p>
-            </div>
-            <div>
-                <head>A1</head>
-                <p>(A1) Presbiteri stipendiarii necnon alii sacerdotes, propriis sumptibus vel per amicos sustentati, divina celebrantes in archiepiscopatu nostro non recipiant oblationes, portiones, obventiones, denarios pro requisitis, tricenalia, vel aliquam partem certam quotam, presertim oblationes pro corporibus mortuorum presentibus, non optenta licentia a rectoribus vel vicariis ecclesiarum in quibus celebraverunt ullo modo, nec asportent in preiudicium rectorum vel vicariorum predictorum vel eorum vicemgerentium, ne sententiam excommunicationis maioris in hac parte latam incurrant in miscendo se ut prius in divinis.</p>
-            </div>
-            <div>
-                <head>A2</head>
-                <p>(A2) Predicti vero presbiteri, die dominica vel festiva post admissionem suam, iurabunt coram rectoribus, vicariis, seu eorum vicemgerentibus si nulli vicarii sint ibidem, alioquin coram ipsis vicariis vel locorum parochianis inter missarum sollempnia aperte coram ipsis sacrosanctis euuangeliis inspectis, quod ecclesiis parochialibus vel capellis in quibus divina celebrantur eorumque rectoribus seu vicariis vel ipsorum loca tenentibus vel quorum interest nullum omnino inferent preiudicium circa oblationes, portiones, obventiones, denarios pro requisitis, tricenalia, vel iura quocunque nomine censeantur, immo quatenus de iure est eosdem servabunt indempnes in premissis et singulis premissorum.</p>
-            </div>
-            <div>
-                <head>A3</head>
-                <p>(A3) Iurent etiam specialiter dicti sacerdotes quod odia, scandala, rixas, aut contentiones inter rectorem et parochianos nullo modo suscitent aut aliquo modo foveant sed, quatenus in eis est, concordiam nutriant et servent inter eosdem.</p>
-            </div>
-            <div>
-                <head>A4</head>
-                <p>(A4) Et in dicto archiepiscopatu non celebrent divina, sed expresse eis interdicatur, donec premissa prestiterint iuramenta vel saltem per eos non stet quominus prestent.</p>
-                <p>Et si celebrent in loco sic interdicto, irregularitatem incurrant preter alias penas quas canones inducunt contrarium facientibus.</p>
-                <p>Et si fuerint convicti coram archidiacono loci vel officiali eius se infirmasse predictum iuramentum vel si fuerint diffamati et se purgare nequeunt, ammovebuntur omnino et tanquam periuris interdicetur eis divina celebratio in dicto archiepiscopatu, donec fuerit super hoc canonice dispensatum.</p>
-            </div>
-            <div>
-                <head>A5</head>
-                <p>(A5) Item, non audiant confessiones parochianorum ecclesiarum vel capellarum in quibus divina ministraverint, nisi in casibus a iure permissis, nec oblationes huiusmodi ecclesie sibi appropriabunt; et si sic fecerint, crimen sacrilegii incurrant, nisi de licentia presidentium petita sit et optenta.</p>
-            </div>
-            <div>
-                <head>A6</head>
-                <p>(A6) Item, debent interesse cancello, matutinis, vesperis, et aliis divinis officiis, debitis horis, induti superpelliciis que sibi propriis expensis providebunt; et non in navi ecclesie, cimiterio, nec in campis erunt.</p>
-                <p>Et si fuerint commoniti super hiis per presidentes, non reddant se elatos nec erigant cervices contra presidentes, nec propter hoc excitabunt aliquos qui foveant vel protegant.</p>
-                <p>Et ad interessendum predictis horis et magnis missis debet eis iniungi in virtute obedientie quod sint presentes, canentes, legentes, et psalmodizantes.</p>
-            </div>
-            <div>
-                <head>A7</head>
-                <p>(A7) Dicti vero presbiteri dictis dominicis diebus et festivis, vel si corpus alicuius defuncti affuerit, suas missas post lectum euuangelium maioris misse incipiant et compleant et non prius, nisi de licentia rectoris vel vicarii specialiter optenta.</p>
-            </div>
-            <div>
-                <head>A8</head>
-                <p>(A8) Item, presbiteri non detrahant rectoribus vel vicariis ecclesiarum vel capellarum ubi celebraverint, sed humiliter prebebunt et facient debitam reverentiam.</p>
-            </div>
-            <div>
-                <head>A9</head>
-                <p>(A9) Item, non exercebunt tabernas nec spectacula nec cellas meretricum nec ludos noxios vel prohibitos.</p>
-            </div>
-            <div>
-                <head>A10</head>
-                <p>(A10) Dicti vero rectores vel vicarii vel eorum loca tenentes debent benigne recipere iuramentum predictum et habebunt copiam de premissis in ecclesiis suis.</p>
-            </div>
-            <div>
-                <head>B</head>
-                <p>(B) Decretum domini Roberti de Wynchelse de ornamentis ecclesie inveniendis et corrigendis.</p>
-                <p>Hoc est decretum domini Roberti nuper Cantuariensis archiepiscopi in sua visitatione provinciali, inter rectores et parochianos locorum perpetuis temporibus observandum, inter cetera tenorem continens infrascriptum.</p>
-                <p>Ut autem certiores sint parochiani de defectibus ipsos contingentibus, ut inter ipsos et rectores eorumdem ambiguitas non generetur in futurum, notificamus eisdem quod iidem parochiani tenentur invenire infrascripta: videlicet calicem, missale, vestimentum principale, scilicet casulam, albam, amictam, stolam, manipulum, cum duabus tualliis benedictis ad mangnum altare, crucem processionalem, crucem pro mortuis, turribulum, lucernam cum tintinnabulo pro corpore Christi ad infirmos deferendo, velum quadragesimale, vexilla pro rogationibus, II campanas manuales ad pulsandum quando portantur ad ecclesiam corpora mortuorum, feretrum, vas ad aquam benedictam, osculatorium, candelabrum ad cereum pascalem, et campanas in campanili et cordas ad easdem, fontes et seruras ad eosdem, reparationem navis ecclesie in longitudine et latitudine interius et exterius tam in altaribus quam in imaginibus et fenestris, clausuram cimiterii.</p>
-                <p>Cetera omnia tam in reparatione cancelli quam in ornamentis eiusdem interius et exterius per diversas consuetudines approbatas habent a rectoribus locorum et vicariis secundum eorum compositiones reparari.</p>
-            </div>
-            <div>
-                <head>C</head>
-                <p>(C) Ut sciant parochiani defectus ecclesiarum ipsos contingentes tenore presentium innotescimus universis parochianis per totam nostram Cantuariensem provinciam constitutis eosdem compelli res et ornamenta omnia infrascripta invenire: scilicet missale, calicem, vestimentum principale, scilicet casulam, albam, amictam, stolam, manipulum, zonam, cum duabus tuellis benedictis et omnibus suis appendiciis, item crucem processionalem et aliam crucem pro mortuis, thuribulum cum nave et thure, lucernam cum tintinabulo, velum quadragesimale, vexilla, campanas manuales pro mortuis, feretrum, vas ad aquam benedictam, tabulas pacis, candelabrum ad cereum paschalem, campanile cum campanis et cordis, fontem cum seruris, reparationem navis ecclesie interius et exterius tam de iure quam de consuetudine tam in ymaginibus et precipue ymagine principali in cancello quam in altaribus et fenestris vitreis, item clausuram cimiterii tam de iure quam de consuetudine.</p>
-                <p>Volumus etiam imposterum ad eosdem parochianos predicta singula pertinere.</p>
-                <p>Cetera autem tam in reparatione cancelli interius et exterius quam in aliis hic non expressis iuxta consuetudines et ordinationes approbatas rectoribus vel vicariis incumbit reparare.</p>
-                <p>Item, compellendi sunt parochiani ad inveniendum ista subscripta: videlicet legendam, antiphonale, gradale, psalterium, troparium, ordinale, manuale, capam pro choro cum omnibus suis appendiciis, frontale ad magnum altare, tria superpellicia, unum rochetum, pixidem pro corpore Christi honestam, reparationem librorum et vestimentorum quandocunque contigerit eadem reparatione indigere.</p>
-            </div>
-            <div>
-                <head>D</head>
-                <p>(D)  Decretum dominorum Roberti et Walteri dei gratia archiepiscoporum Cantuariensis ecclesie, in eorum visitatione metropolitana, inter cetera provisum et ordinatum est: ut parochiani de omnibus archidiaconatibus sint de cetero certiores de defectibus ipsos contingentibus, ne inter rectores et ipsos ambiguitas generetur pro temporibus successivis, volumus de cetero et precipimus quod parochiani tenentur invenire omnia subscripta: videlicet legendam, antiphonare, gradale, psalterium, troparium, ordinale, missale, manuale, calicem, vestimentum principale cum casula, dalmatica, tunica, cum capa de choro cum omnibus suis appendiciis, frontale ad magnum altare cum tribus tuallis, tria superpellicia, unum rochetum, crucem processionalem, crucem pro mortuis, turribulum, lanternam, tintinnabulum ad deferendum coram corpore Christi ad visitandum infirmos, pixidem pro corpore Christi honestam, velum</p>
-                <p>quadragesimale, vexilla pro rogationibus, campanas cum cordis, feretrum pro defunctis, vas pro aqua benedicta, osculatorium, candelabrum pro cereo paschali, fontem cum serrura, imagines in ecclesia, imaginem principalem in cancello, clausuram cimiterii undique, reparationem navis ecclesie interius et exterius tam in ymaginibus quam in fenestris vitreis, reparationem librorum et vestimentorum quandocunque contigerint emendari.</p>
-                <p>Cetera autem omnia tam in reparatione cancelli quam aliis hic non expressis secundum diversas consuetudines et approbatas a locorum rectoribus et vicariis habent in omnibus reparari sumptibus eorundem.</p>
-                <p>Item, precipimus quod de cetero nullus sepeliatur in ecclesia nisi rector et patronus, nec ludi nec mercata nec placita secularia sint aliquo modo in ecclesia nec in cimiterio, nisi tantum orationes et opera misericordie.</p>
-            </div>
-            <div>
-                <head>E</head>
-                <p>(E) Statuimus etiam quod prediales decime ibi solvantur ubi sunt; personales vero ubi sacramenta recipiuntur; decime pecudum solvantur ubi pascuntur et aluntur.</p>
-                <p>Ad lites et ad contentiones inter rectores ecclesiarum quietandas firmiter statuendo precipimus quod, quando oves diversis temporibus anni in diversis locis demorantur, ut est de ovibus que post festum sancti Michaelis et ante festum sancti Martini ab una parochia ad aliam transmittuntur et in quindena vel mense post Pascha revertuntur, decima agnorum dividatur inter ecclesias parochiales, et lana pro rata temporis utrique ecclesie persolvatur.</p>
-                <p>Si vero post festum sancti Martini transmittantur et in predicto tempore, videlicet quindena vel mense post Pascha, revertantur, medietas decime agnorum cum tota decima lane ad ecclesiam de cuius parochia existunt oves revertatur; quam constitutionem sub pena excommunicationis in nostra provincia precipimus observari.</p>
-            </div>
-            <div>
-                <head>F</head>
-                <p>(F) De decimis lactis solvendis a primo tempore sue innovationis et aliis tam de proventibus boscorum, warennarum quam artificiorum et negotiationum.</p>
-                <p>Sancta ecclesia constituit quod prelati et ordinarii ecclesiarum hereticos et in fide dubios et ad fidem ecclesiasticam revocent et revocatos compellant.</p>
-                <p>Intelleximus quod nonnulli parochiani nostri in errorem heresis et diffidentie iam pervertuntur, articulos catholice fidei relinquentes et libertatibus ecclesiasticis obviantes, ecclesias ausu temerario suo iure penitus spoliando, decimas ecclesiis suis de iure debitas et alia iura ecclesiastica retinendo; et qui alios cum poterit ab errore non revocat seipsum ab errore minime demonstrat.</p>
-                <p>Cum ergo ecclesia et ecclesiarum rectores tales non cogunt filios ut reddant, illos ac seipsos perdunt.</p>
-                <p>Nos igitur volentes et cupientes statuta nostrorum superiorum ut tenemur servare et mandatis ecclesie obedire, obviando huiusmodi malitiis et medelam ecclesiasticam tribuere, cum igitur sacro eloquio iubente de omnibus que novantur per annum et nullo tempore excluso decime sunt cum omni integritate et absque diminutione solvende, licet unicuique capellano parochiali parochianos suos per censuram ecclesiasticam ad solutionem decimarum compellere.</p>
-                <p>Unde propter tales cotidianos defectus et hominum malitias vobis omnibus et singulis mandamus in virtute obedientie firmiter iniungentes quatinus diligenter moneatis et efficaciter inducatis et quilibet vestrum inducat in parochia sua quod dicti parochiani omnes et singuli integre et sine diminutione decimas inferius annotatas suis ecclesiis persolvant, videlicet decimam lactis a primo tempore sue innovationis tam in mense Augusti quam in aliis mensibus, de proventibus boscorum, pannagiis silvarum, et aliarum rerum si vendantur, vivariorum, piscariorum, fluminum, stangnorum, arborum, pecorum, columbarum, seminum, fructuum, et bestiarum, warenarum, aucupitii, ortorum, curtilagiorum, lane, lini, vini, grani, turvarum, in locis ubi fabricantur et fodiuntur, cignorum, pavonum, aucarum, anatum, ovorum, cuniculorum, vitulorum, apium, mellis, cere, molendinorum, venationum, artificiorum, et negotiationum, necnon agnorum et equorum, secundum verum valorem, et omnium proventuum rerum aliarum de cetero satisfaciant competenter ecclesiis quibus de iure tenentur, nullis expensis ratione prestationis decimarum deductis decimis retinendis seu deducendis, nisi tantum de prestatione decimarum artificiorum et negotiationum.</p>
-                <p>Quod si monitionibus nostris parere contempserint per sententias suspensionis, excommunicationis, et interdicti ad prestationem decimarum predictarum compellatis.</p>
-            </div>
-            <div>
-                <head>G</head>
-                <p>(G) Decretum domini Roberti de Wynchelsee nuper Cantuariensis archiepiscopi in sua visitatione metropolitana.</p>
-                <p>Quoniam propter diversas consuetudines in ecclesiis in nostra provincia Cantuariensis ecclesie in petendo decimas inter rectores et parochianos rixe, contentiones, scandala, et odia multotiens oriuntur, volumus, statuimus, et precipimus quod de cetero in omnibus ecclesiis per omnes archidiaconatus provincie nostre uniformis sit petitio decimarum.</p>
-            </div>
-            <div>
-                <head>G1</head>
-                <p>(G1) Volumus et precipimus quod decime de frugibus non deductis expensis integre sine aliqua diminutione deo solvantur; et de fructibus arborum ortorum et de seminibus omnibus et de omnibus herbis ortorum, nisi parochiani velint satisfacere rectori.</p>
-                <p>Item precipimus et statuimus quod decime solvantur de aucis, anatibus, ovis, pullis gallinarum, columbis, cignis, gruibus, pavonibus, fesantibus, perdicibus, sive de omnibus domesticis volatilibus, de feris bestiis in parco, et de cuniculis, et de omnibus aliis bonis tam nominatis quam non nominatis que renovantur per annum.</p>
-                <p>Item volumus et statuimus quod decime de boscis, fenis, sive in pratis parvis sive magnis sive in cheviciis,deo et ecclesie persolvantur.</p>
-            </div>
-            <div>
-                <head>G2</head>
-                <p>(G2) Item, de nutrimentis agnorum volumus quod pro quolibet agno de quinque agnis reddatur obolus pro decima et pro vi agnis reddatur unus ad decimam.</p>
-                <p>Et si vendantur ante decimationem decimus denarius solvatur, et sic fiat de decimatione lane.</p>
-                <p>Item si oves alibi in yeme et alibi in estate nutriantur, dividenda est decima pro rata temporis portione.</p>
-                <p>Et si quis emerit oves vel vendiderit et certum fuerit a qua parochia ille venerunt, dividenda est decima.</p>
-                <p>Et si incertum fuerit, totam decimam illa ecclesia percipiet ubi tonduntur.</p>
-                <p>Item volumus et statuimus quod decima lactis solvatur per totum annum tam in Quadragesima quam in autumpno et extra, sub pena excommunicationis, nisi satisfaciant rectori.</p>
-            </div>
-            <div>
-                <head>G3</head>
-                <p>(G3) Item, de pasturis et pascuis tam communibus quam separatis statuimus quod decime solvantur.</p>
-            </div>
-            <div>
-                <head>G4</head>
-                <p>(G4) Item, de piscationibus, turbariis, ac omnibus proficuis aliis molendinorum, et apibus, et omnibus aliis proficuis qualitercunque iuste acquisitis deo et ecclesie decimentur.</p>
-            </div>
-            <div>
-                <head>G5</head>
-                <p>(G5) Item statuimus et precipimus quod decime de artificibus, mercatoribus, carpentariis, fabris, textricibus,braciatricibus, communibus furnis, ac de omnibus stipendiariis fideliter solvantur.</p>
-            </div>
-            <div>
-                <head>G6</head>
-                <p>(G6) Item, precipimus et statuimus sub pena excommunicationis quod consuetudo ecclesie de principalibus cum sua possessione observetur in omnibus.</p>
-            </div>
-            <div>
-                <head>G7</head>
-                <p>(G7) Item, precipimus rectoribus in virtute obedientie et in periculo animarum suarum quod primo, secundo, et tertio huiusmodi decimas cum oblationibus eorum quater per annum in ecclesiis fideliter faciant renovari, et super hoc moneantur et excitentur parochiani ne illud detur oblivioni.</p>
-                <p>Et si non fecerint neque deo solverint predictas decimas modo supradicto ab ingressu ecclesie suspendantur et sic gradatim compellantur per censuram ecclesiasticam usque ad sententiam excommunicationis.</p>
-                <p>Et si forte satisfecerint et petierint relaxationem, mittantur ad loci episcopum post satisfactionem.</p>
-            </div>
-            <div>
-                <head>explicit</head>
+                <head>Text</head>
+                <div>
+                    <head>Capitulum A</head>
+                    <p>(A) De iuramento et obedientia rectoribus et vicariis in eorum ecclesiis a celebrantibus faciendo.</p>
+                    <p>Constitutio domini Roberti de Wynchelsey Cantuariensis archiepiscopi facta in visitatione sua a.d. mo ccco vto.</p>
+                </div>
+                <div>
+                    <head>Capitulum A1</head>
+                    <p>(A1) Presbiteri stipendiarii necnon alii sacerdotes, propriis sumptibus vel per amicos sustentati, divina celebrantes in archiepiscopatu nostro non recipiant oblationes, portiones, obventiones, denarios pro requisitis, tricenalia, vel aliquam partem certam quotam, presertim oblationes pro corporibus mortuorum presentibus, non optenta licentia a rectoribus vel vicariis ecclesiarum in quibus celebraverunt ullo modo, nec asportent in preiudicium rectorum vel vicariorum predictorum vel eorum vicemgerentium, ne sententiam excommunicationis maioris in hac parte latam incurrant in miscendo se ut prius in divinis.</p>
+                </div>
+                <div>
+                    <head>Capitulum A2</head>
+                    <p>(A2) Predicti vero presbiteri, die dominica vel festiva post admissionem suam, iurabunt coram rectoribus, vicariis, seu eorum vicemgerentibus si nulli vicarii sint ibidem, alioquin coram ipsis vicariis vel locorum parochianis inter missarum sollempnia aperte coram ipsis sacrosanctis euuangeliis inspectis, quod ecclesiis parochialibus vel capellis in quibus divina celebrantur eorumque rectoribus seu vicariis vel ipsorum loca tenentibus vel quorum interest nullum omnino inferent preiudicium circa oblationes, portiones, obventiones, denarios pro requisitis, tricenalia, vel iura quocunque nomine censeantur, immo quatenus de iure est eosdem servabunt indempnes in premissis et singulis premissorum.</p>
+                </div>
+                <div>
+                    <head>Capitulum A3</head>
+                    <p>(A3) Iurent etiam specialiter dicti sacerdotes quod odia, scandala, rixas, aut contentiones inter rectorem et parochianos nullo modo suscitent aut aliquo modo foveant sed, quatenus in eis est, concordiam nutriant et servent inter eosdem.</p>
+                </div>
+                <div>
+                    <head>Capitulum A4</head>
+                    <p>(A4) Et in dicto archiepiscopatu non celebrent divina, sed expresse eis interdicatur, donec premissa prestiterint iuramenta vel saltem per eos non stet quominus prestent.</p>
+                    <p>Et si celebrent in loco sic interdicto, irregularitatem incurrant preter alias penas quas canones inducunt contrarium facientibus.</p>
+                    <p>Et si fuerint convicti coram archidiacono loci vel officiali eius se infirmasse predictum iuramentum vel si fuerint diffamati et se purgare nequeunt, ammovebuntur omnino et tanquam periuris interdicetur eis divina celebratio in dicto archiepiscopatu, donec fuerit super hoc canonice dispensatum.</p>
+                </div>
+                <div>
+                    <head>Capitulum A5</head>
+                    <p>(A5) Item, non audiant confessiones parochianorum ecclesiarum vel capellarum in quibus divina ministraverint, nisi in casibus a iure permissis, nec oblationes huiusmodi ecclesie sibi appropriabunt; et si sic fecerint, crimen sacrilegii incurrant, nisi de licentia presidentium petita sit et optenta.</p>
+                </div>
+                <div>
+                    <head>Capitulum A6</head>
+                    <p>(A6) Item, debent interesse cancello, matutinis, vesperis, et aliis divinis officiis, debitis horis, induti superpelliciis que sibi propriis expensis providebunt; et non in navi ecclesie, cimiterio, nec in campis erunt.</p>
+                    <p>Et si fuerint commoniti super hiis per presidentes, non reddant se elatos nec erigant cervices contra presidentes, nec propter hoc excitabunt aliquos qui foveant vel protegant.</p>
+                    <p>Et ad interessendum predictis horis et magnis missis debet eis iniungi in virtute obedientie quod sint presentes, canentes, legentes, et psalmodizantes.</p>
+                </div>
+                <div>
+                    <head>Capitulum A7</head>
+                    <p>(A7) Dicti vero presbiteri dictis dominicis diebus et festivis, vel si corpus alicuius defuncti affuerit, suas missas post lectum euuangelium maioris misse incipiant et compleant et non prius, nisi de licentia rectoris vel vicarii specialiter optenta.</p>
+                </div>
+                <div>
+                    <head>Capitulum A8</head>
+                    <p>(A8) Item, presbiteri non detrahant rectoribus vel vicariis ecclesiarum vel capellarum ubi celebraverint, sed humiliter prebebunt et facient debitam reverentiam.</p>
+                </div>
+                <div>
+                    <head>Capitulum A9</head>
+                    <p>(A9) Item, non exercebunt tabernas nec spectacula nec cellas meretricum nec ludos noxios vel prohibitos.</p>
+                </div>
+                <div>
+                    <head>Capitulum A10</head>
+                    <p>(A10) Dicti vero rectores vel vicarii vel eorum loca tenentes debent benigne recipere iuramentum predictum et habebunt copiam de premissis in ecclesiis suis.</p>
+                </div>
+                <div>
+                    <head>Capitulum B</head>
+                    <p>(B) Decretum domini Roberti de Wynchelse de ornamentis ecclesie inveniendis et corrigendis.</p>
+                    <p>Hoc est decretum domini Roberti nuper Cantuariensis archiepiscopi in sua visitatione provinciali, inter rectores et parochianos locorum perpetuis temporibus observandum, inter cetera tenorem continens infrascriptum.</p>
+                    <p>Ut autem certiores sint parochiani de defectibus ipsos contingentibus, ut inter ipsos et rectores eorumdem ambiguitas non generetur in futurum, notificamus eisdem quod iidem parochiani tenentur invenire infrascripta: videlicet calicem, missale, vestimentum principale, scilicet casulam, albam, amictam, stolam, manipulum, cum duabus tualliis benedictis ad mangnum altare, crucem processionalem, crucem pro mortuis, turribulum, lucernam cum tintinnabulo pro corpore Christi ad infirmos deferendo, velum quadragesimale, vexilla pro rogationibus, II campanas manuales ad pulsandum quando portantur ad ecclesiam corpora mortuorum, feretrum, vas ad aquam benedictam, osculatorium, candelabrum ad cereum pascalem, et campanas in campanili et cordas ad easdem, fontes et seruras ad eosdem, reparationem navis ecclesie in longitudine et latitudine interius et exterius tam in altaribus quam in imaginibus et fenestris, clausuram cimiterii.</p>
+                    <p>Cetera omnia tam in reparatione cancelli quam in ornamentis eiusdem interius et exterius per diversas consuetudines approbatas habent a rectoribus locorum et vicariis secundum eorum compositiones reparari.</p>
+                </div>
+                <div>
+                    <head>Capitulum C</head>
+                    <p>(C) Ut sciant parochiani defectus ecclesiarum ipsos contingentes tenore presentium innotescimus universis parochianis per totam nostram Cantuariensem provinciam constitutis eosdem compelli res et ornamenta omnia infrascripta invenire: scilicet missale, calicem, vestimentum principale, scilicet casulam, albam, amictam, stolam, manipulum, zonam, cum duabus tuellis benedictis et omnibus suis appendiciis, item crucem processionalem et aliam crucem pro mortuis, thuribulum cum nave et thure, lucernam cum tintinabulo, velum quadragesimale, vexilla, campanas manuales pro mortuis, feretrum, vas ad aquam benedictam, tabulas pacis, candelabrum ad cereum paschalem, campanile cum campanis et cordis, fontem cum seruris, reparationem navis ecclesie interius et exterius tam de iure quam de consuetudine tam in ymaginibus et precipue ymagine principali in cancello quam in altaribus et fenestris vitreis, item clausuram cimiterii tam de iure quam de consuetudine.</p>
+                    <p>Volumus etiam imposterum ad eosdem parochianos predicta singula pertinere.</p>
+                    <p>Cetera autem tam in reparatione cancelli interius et exterius quam in aliis hic non expressis iuxta consuetudines et ordinationes approbatas rectoribus vel vicariis incumbit reparare.</p>
+                    <p>Item, compellendi sunt parochiani ad inveniendum ista subscripta: videlicet legendam, antiphonale, gradale, psalterium, troparium, ordinale, manuale, capam pro choro cum omnibus suis appendiciis, frontale ad magnum altare, tria superpellicia, unum rochetum, pixidem pro corpore Christi honestam, reparationem librorum et vestimentorum quandocunque contigerit eadem reparatione indigere.</p>
+                </div>
+                <div>
+                    <head>Capitulum D</head>
+                    <p>(D)  Decretum dominorum Roberti et Walteri dei gratia archiepiscoporum Cantuariensis ecclesie, in eorum visitatione metropolitana, inter cetera provisum et ordinatum est: ut parochiani de omnibus archidiaconatibus sint de cetero certiores de defectibus ipsos contingentibus, ne inter rectores et ipsos ambiguitas generetur pro temporibus successivis, volumus de cetero et precipimus quod parochiani tenentur invenire omnia subscripta: videlicet legendam, antiphonare, gradale, psalterium, troparium, ordinale, missale, manuale, calicem, vestimentum principale cum casula, dalmatica, tunica, cum capa de choro cum omnibus suis appendiciis, frontale ad magnum altare cum tribus tuallis, tria superpellicia, unum rochetum, crucem processionalem, crucem pro mortuis, turribulum, lanternam, tintinnabulum ad deferendum coram corpore Christi ad visitandum infirmos, pixidem pro corpore Christi honestam, velum</p>
+                    <p>quadragesimale, vexilla pro rogationibus, campanas cum cordis, feretrum pro defunctis, vas pro aqua benedicta, osculatorium, candelabrum pro cereo paschali, fontem cum serrura, imagines in ecclesia, imaginem principalem in cancello, clausuram cimiterii undique, reparationem navis ecclesie interius et exterius tam in ymaginibus quam in fenestris vitreis, reparationem librorum et vestimentorum quandocunque contigerint emendari.</p>
+                    <p>Cetera autem omnia tam in reparatione cancelli quam aliis hic non expressis secundum diversas consuetudines et approbatas a locorum rectoribus et vicariis habent in omnibus reparari sumptibus eorundem.</p>
+                    <p>Item, precipimus quod de cetero nullus sepeliatur in ecclesia nisi rector et patronus, nec ludi nec mercata nec placita secularia sint aliquo modo in ecclesia nec in cimiterio, nisi tantum orationes et opera misericordie.</p>
+                </div>
+                <div>
+                    <head>Capitulum E</head>
+                    <p>(E) Statuimus etiam quod prediales decime ibi solvantur ubi sunt; personales vero ubi sacramenta recipiuntur; decime pecudum solvantur ubi pascuntur et aluntur.</p>
+                    <p>Ad lites et ad contentiones inter rectores ecclesiarum quietandas firmiter statuendo precipimus quod, quando oves diversis temporibus anni in diversis locis demorantur, ut est de ovibus que post festum sancti Michaelis et ante festum sancti Martini ab una parochia ad aliam transmittuntur et in quindena vel mense post Pascha revertuntur, decima agnorum dividatur inter ecclesias parochiales, et lana pro rata temporis utrique ecclesie persolvatur.</p>
+                    <p>Si vero post festum sancti Martini transmittantur et in predicto tempore, videlicet quindena vel mense post Pascha, revertantur, medietas decime agnorum cum tota decima lane ad ecclesiam de cuius parochia existunt oves revertatur; quam constitutionem sub pena excommunicationis in nostra provincia precipimus observari.</p>
+                </div>
+                <div>
+                    <head>Capitulum F</head>
+                    <p>(F) De decimis lactis solvendis a primo tempore sue innovationis et aliis tam de proventibus boscorum, warennarum quam artificiorum et negotiationum.</p>
+                    <p>Sancta ecclesia constituit quod prelati et ordinarii ecclesiarum hereticos et in fide dubios et ad fidem ecclesiasticam revocent et revocatos compellant.</p>
+                    <p>Intelleximus quod nonnulli parochiani nostri in errorem heresis et diffidentie iam pervertuntur, articulos catholice fidei relinquentes et libertatibus ecclesiasticis obviantes, ecclesias ausu temerario suo iure penitus spoliando, decimas ecclesiis suis de iure debitas et alia iura ecclesiastica retinendo; et qui alios cum poterit ab errore non revocat seipsum ab errore minime demonstrat.</p>
+                    <p>Cum ergo ecclesia et ecclesiarum rectores tales non cogunt filios ut reddant, illos ac seipsos perdunt.</p>
+                    <p>Nos igitur volentes et cupientes statuta nostrorum superiorum ut tenemur servare et mandatis ecclesie obedire, obviando huiusmodi malitiis et medelam ecclesiasticam tribuere, cum igitur sacro eloquio iubente de omnibus que novantur per annum et nullo tempore excluso decime sunt cum omni integritate et absque diminutione solvende, licet unicuique capellano parochiali parochianos suos per censuram ecclesiasticam ad solutionem decimarum compellere.</p>
+                    <p>Unde propter tales cotidianos defectus et hominum malitias vobis omnibus et singulis mandamus in virtute obedientie firmiter iniungentes quatinus diligenter moneatis et efficaciter inducatis et quilibet vestrum inducat in parochia sua quod dicti parochiani omnes et singuli integre et sine diminutione decimas inferius annotatas suis ecclesiis persolvant, videlicet decimam lactis a primo tempore sue innovationis tam in mense Augusti quam in aliis mensibus, de proventibus boscorum, pannagiis silvarum, et aliarum rerum si vendantur, vivariorum, piscariorum, fluminum, stangnorum, arborum, pecorum, columbarum, seminum, fructuum, et bestiarum, warenarum, aucupitii, ortorum, curtilagiorum, lane, lini, vini, grani, turvarum, in locis ubi fabricantur et fodiuntur, cignorum, pavonum, aucarum, anatum, ovorum, cuniculorum, vitulorum, apium, mellis, cere, molendinorum, venationum, artificiorum, et negotiationum, necnon agnorum et equorum, secundum verum valorem, et omnium proventuum rerum aliarum de cetero satisfaciant competenter ecclesiis quibus de iure tenentur, nullis expensis ratione prestationis decimarum deductis decimis retinendis seu deducendis, nisi tantum de prestatione decimarum artificiorum et negotiationum.</p>
+                    <p>Quod si monitionibus nostris parere contempserint per sententias suspensionis, excommunicationis, et interdicti ad prestationem decimarum predictarum compellatis.</p>
+                </div>
+                <div>
+                    <head>Capitulum G</head>
+                    <p>(G) Decretum domini Roberti de Wynchelsee nuper Cantuariensis archiepiscopi in sua visitatione metropolitana.</p>
+                    <p>Quoniam propter diversas consuetudines in ecclesiis in nostra provincia Cantuariensis ecclesie in petendo decimas inter rectores et parochianos rixe, contentiones, scandala, et odia multotiens oriuntur, volumus, statuimus, et precipimus quod de cetero in omnibus ecclesiis per omnes archidiaconatus provincie nostre uniformis sit petitio decimarum.</p>
+                </div>
+                <div>
+                    <head>Capitulum G1</head>
+                    <p>(G1) Volumus et precipimus quod decime de frugibus non deductis expensis integre sine aliqua diminutione deo solvantur; et de fructibus arborum ortorum et de seminibus omnibus et de omnibus herbis ortorum, nisi parochiani velint satisfacere rectori.</p>
+                    <p>Item precipimus et statuimus quod decime solvantur de aucis, anatibus, ovis, pullis gallinarum, columbis, cignis, gruibus, pavonibus, fesantibus, perdicibus, sive de omnibus domesticis volatilibus, de feris bestiis in parco, et de cuniculis, et de omnibus aliis bonis tam nominatis quam non nominatis que renovantur per annum.</p>
+                    <p>Item volumus et statuimus quod decime de boscis, fenis, sive in pratis parvis sive magnis sive in cheviciis,deo et ecclesie persolvantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum G2</head>
+                    <p>(G2) Item, de nutrimentis agnorum volumus quod pro quolibet agno de quinque agnis reddatur obolus pro decima et pro vi agnis reddatur unus ad decimam.</p>
+                    <p>Et si vendantur ante decimationem decimus denarius solvatur, et sic fiat de decimatione lane.</p>
+                    <p>Item si oves alibi in yeme et alibi in estate nutriantur, dividenda est decima pro rata temporis portione.</p>
+                    <p>Et si quis emerit oves vel vendiderit et certum fuerit a qua parochia ille venerunt, dividenda est decima.</p>
+                    <p>Et si incertum fuerit, totam decimam illa ecclesia percipiet ubi tonduntur.</p>
+                    <p>Item volumus et statuimus quod decima lactis solvatur per totum annum tam in Quadragesima quam in autumpno et extra, sub pena excommunicationis, nisi satisfaciant rectori.</p>
+                </div>
+                <div>
+                    <head>Capitulum G3</head>
+                    <p>(G3) Item, de pasturis et pascuis tam communibus quam separatis statuimus quod decime solvantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum G4</head>
+                    <p>(G4) Item, de piscationibus, turbariis, ac omnibus proficuis aliis molendinorum, et apibus, et omnibus aliis proficuis qualitercunque iuste acquisitis deo et ecclesie decimentur.</p>
+                </div>
+                <div>
+                    <head>Capitulum G5</head>
+                    <p>(G5) Item statuimus et precipimus quod decime de artificibus, mercatoribus, carpentariis, fabris, textricibus,braciatricibus, communibus furnis, ac de omnibus stipendiariis fideliter solvantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum G6</head>
+                    <p>(G6) Item, precipimus et statuimus sub pena excommunicationis quod consuetudo ecclesie de principalibus cum sua possessione observetur in omnibus.</p>
+                </div>
+                <div>
+                    <head>Capitulum G7</head>
+                    <p>(G7) Item, precipimus rectoribus in virtute obedientie et in periculo animarum suarum quod primo, secundo, et tertio huiusmodi decimas cum oblationibus eorum quater per annum in ecclesiis fideliter faciant renovari, et super hoc moneantur et excitentur parochiani ne illud detur oblivioni.</p>
+                    <p>Et si non fecerint neque deo solverint predictas decimas modo supradicto ab ingressu ecclesie suspendantur et sic gradatim compellantur per censuram ecclesiasticam usque ad sententiam excommunicationis.</p>
+                    <p>Et si forte satisfecerint et petierint relaxationem, mittantur ad loci episcopum post satisfactionem.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1]</p>
+                    <p>[2]</p>
+                    <p>[]</p>
+                </div>
             </div>
         </body>
     </text>

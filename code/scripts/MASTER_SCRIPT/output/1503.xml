@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 1503</recordID>
+                <title>Chichester (#1503)</title>
+                <recordID>1503</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate>1248</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Chichester</origPlace>
                 <diocese>Chichester</diocese>
                 <province>Canterbury</province>
-                <country/>
+                <country>England</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Diocesan</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,10 +55,58 @@
     <text>
         <body>
             <div>
-                <head>text</head>
-                <p>R. dei gratia Cycestrensis episcopus archidiaconis, decanis, et omnibus personis, vicariis, et capellanis parochias regentibus salutem, gratiam, et benedictionem.</p>
-                <p>Cum secundum generalem ecclesie Anglicane consuetudinem teneamini in signum obedientie et reverentie in ebdomada Pentecosten cum parochianis vestris in processione congregatis ecclesiam vestram matricem Cycestrensem vel eius nomine Lewensem et Hasting propter nimiam locorum distantiam visitare cum oblationibus debitis secundum consuetudinem a iure divino introductam, secundum quod in alio mandato nostro super hoc edito plenius continetur, ne ipsa ecclesia aliquorum fraude vel negligentia suo iure frustretur in elusionem mandati memorati, universitatem vestram monemus et exhortamur in virtute obedientie qua nobis et dicte ecclesie tenemini quatinus singuli capellani in singulis parochiis suis facta descriptione singularum domorum et familiarum et collectis oblationibus tam presentium in processione quam absentium qui venire non possunt in die processioni sue assignato sub suorum testimonio decanorum procuratoribus dicte ecclesie fideliter respondeant super collectis et eisdem descriptionis memorate scripturam tradant, ut qui inventi fuerint contumaces et rebelles non solum relaxatione et indulgentia nostra et coepiscoporum nostrorum careant, set alias pro modo excessus canonica districtione feriantur.</p>
-                <p>Dat anno domini mo cco xlviiio mense Aprilis.</p>
+                <head>Metadata</head>
+                <p>RecordID: 1503</p>
+                <p>Year: 1248</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Chichester</p>
+                <p>Diocese: Chichester</p>
+                <p>Province: Canterbury</p>
+                <p>CountryModern: England</p>
+                <p>Latitude: 50.83652</p>
+                <p>Longitude: -0.77918</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Richard de Wich</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: Episcopal mandate (not necessarily issued in synod)</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Powicke &amp; Cheney I, 418</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: Data Capture</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: concerning pentecostal processions</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>All Text</head>
+                    <p>R. dei gratia Cycestrensis episcopus archidiaconis, decanis, et omnibus personis, vicariis, et capellanis parochias regentibus salutem, gratiam, et benedictionem.</p>
+                    <p>Cum secundum generalem ecclesie Anglicane consuetudinem teneamini in signum obedientie et reverentie in ebdomada Pentecosten cum parochianis vestris in processione congregatis ecclesiam vestram matricem Cycestrensem vel eius nomine Lewensem et Hasting propter nimiam locorum distantiam visitare cum oblationibus debitis secundum consuetudinem a iure divino introductam, secundum quod in alio mandato nostro super hoc edito plenius continetur, ne ipsa ecclesia aliquorum fraude vel negligentia suo iure frustretur in elusionem mandati memorati, universitatem vestram monemus et exhortamur in virtute obedientie qua nobis et dicte ecclesie tenemini quatinus singuli capellani in singulis parochiis suis facta descriptione singularum domorum et familiarum et collectis oblationibus tam presentium in processione quam absentium qui venire non possunt in die processioni sue assignato sub suorum testimonio decanorum procuratoribus dicte ecclesie fideliter respondeant super collectis et eisdem descriptionis memorate scripturam tradant, ut qui inventi fuerint contumaces et rebelles non solum relaxatione et indulgentia nostra et coepiscoporum nostrorum careant, set alias pro modo excessus canonica districtione feriantur.</p>
+                    <p>Dat anno domini mo cco xlviiio mense Aprilis.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1]</p>
+                    <p>[2]</p>
+                    <p>[]</p>
+                </div>
             </div>
         </body>
     </text>

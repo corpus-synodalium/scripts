@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 0610</recordID>
+                <title>Porto (#0610)</title>
+                <recordID>0610</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate>1360-11-20</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Porto</origPlace>
                 <diocese>Porto</diocese>
                 <province>Braga</province>
-                <country/>
+                <country>Portugal</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Diocesan</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,22 +55,61 @@
     <text>
         <body>
             <div>
-                <head>incipit</head>
+                <head>Metadata</head>
+                <p>RecordID: 610</p>
+                <p>Year: 1360</p>
+                <p>Month: 11</p>
+                <p>Day: 20</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Porto</p>
+                <p>Diocese: Porto</p>
+                <p>Province: Braga</p>
+                <p>CountryModern: Portugal</p>
+                <p>Latitude: 41.162142</p>
+                <p>Longitude: -8.621953</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Afonso Pires</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Synodicon Hispanum, 2, 348-349</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['Library Scan', 'Hard Copy Scan']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
             </div>
             <div>
-                <head>001</head>
-                <p>(1) Hic est quedam constitutio quam dominus episcopus uobis publicat, qua cauetur quod religiosi abbates sancti Benedicti, priores sancti Agustini cum suis conuentibus non possint monachum ac canonicum regularem in suis monasteriis de nouo criare nec eidem professionem facere uel alios monachos seu canonicos regulares aliunde professos in suis monasteriis recipere absque mandato et licentia domini episcopi Portugalensis.</p>
-            </div>
-            <div>
-                <head>002</head>
-                <p>(2) Quod nullus abbas de ordine sancti Benedicti uel prior principalis seu conuentualis de ordine sancti Agustini faceret emprazamenta de suis hereditatibus et casalibus et de aliis possessionibus nec concederent in emphiteosin, nisi habita auctoritate et asensu a domino episcopo uel eius uicariis.</p>
-            </div>
-            <div>
-                <head>003</head>
-                <p>(3) Quod nullus beneficiatus in ciuitate et diocesi Portugalensi exiret dictam diocesim absque licencia domini episcopi supra dicti seu eiusdem uicariorum.</p>
-            </div>
-            <div>
-                <head>explicit</head>
+                <head>Text</head>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) Hic est quedam constitutio quam dominus episcopus uobis publicat, qua cauetur quod religiosi abbates sancti Benedicti, priores sancti Agustini cum suis conuentibus non possint monachum ac canonicum regularem in suis monasteriis de nouo criare nec eidem professionem facere uel alios monachos seu canonicos regulares aliunde professos in suis monasteriis recipere absque mandato et licentia domini episcopi Portugalensis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Quod nullus abbas de ordine sancti Benedicti uel prior principalis seu conuentualis de ordine sancti Agustini faceret emprazamenta de suis hereditatibus et casalibus et de aliis possessionibus nec concederent in emphiteosin, nisi habita auctoritate et asensu a domino episcopo uel eius uicariis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) Quod nullus beneficiatus in ciuitate et diocesi Portugalensi exiret dictam diocesim absque licencia domini episcopi supra dicti seu eiusdem uicariorum.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
             </div>
         </body>
     </text>

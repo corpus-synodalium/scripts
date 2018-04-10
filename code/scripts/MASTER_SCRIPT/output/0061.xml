@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 0061</recordID>
+                <title>Cambrai (#0061)</title>
+                <recordID>0061</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate>1289-10-01</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Cambrai</origPlace>
                 <diocese>Cambrai</diocese>
                 <province>Reims</province>
-                <country/>
+                <country>Belgium</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Diocesan</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,48 +55,96 @@
     <text>
         <body>
             <div>
-                <head>incipit</head>
-                <p>Guillermus, Dei gratia Cameracensis episcopus, universis presentes litteras inspecturis salutem in Domino sempiternam. Noveritis quod nos de consensu et assensu archidiaconorum Ecclesie Cameracensis statuimus ea que sequuntur.</p>
+                <head>Metadata</head>
+                <p>RecordID: 61</p>
+                <p>Year: 1289</p>
+                <p>Month: 10</p>
+                <p>Day: 1</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Cambrai</p>
+                <p>Diocese: Cambrai</p>
+                <p>Province: Reims</p>
+                <p>CountryModern: Belgium</p>
+                <p>Latitude: 50.175579</p>
+                <p>Longitude: 3.2345</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Guillaume d'Avesnes</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1286</p>
+                <p>RegnalEnd: 1296</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: though issued as letters patent, they would seem to have been promulgated first at the autumn synod</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Avril, Statuts, IV, 128-30</p>
+                <p>EditionOther: Boeren, Anciens statuts, III, 413-15</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: Hard Copy Scan</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
             </div>
             <div>
-                <head>001</head>
-                <p>(1) Statuimus quod presbyteri parochiales Cameracensis diocesis, si decedant infra festum Nativitatis beati Joannis Baptiste et festum Magdalene, omnes fructus parochie separatos a solo tempore sue mortis, maturos et sine fraude separatos, percipiant et suos faciant.</p>
-                <p>Et si terras ad parochialem ecclesiam spectantes excoluerint, culture sumptus qui firma [1] vulgariter nuncupatur restituantur eisdem, et de premissis suam possint facere voluntatem.</p>
-                <p>Residuum vero bonorum parochie cedant episcopo et archidiacono, de quibus ipsi parochiam competenter facient deserviri.</p>
-                <p>Si autem dicti presbyteri infra festum Magdalene [2] et Purificationis subsequentis decesserint, omnes fructus ab eis perceptos et etiam a solo separates percipient.</p>
-                <p>Fructus vero post mortem ipsorum percipiendi cedent episcopo et archidiacono, ita tamen quod pro rata perceptorum et percipiendorum fructuum ad deserviendum ecclesie usque ad Nativitatem Joannis Baptiste quelibet pars partem seu portionem ipsam contingentem apponat.</p>
-                <p>Si vero infra festum Purificationis et Nativitatis sancti Joannis Baptiste decedant presbyteri, omnes fructus illius anni usque ad dictum festum Nativitatis sancti Joannis Baptiste percipient, ita tamen quod de eisdem per consilium decani loci parochiali ecclesie facient deserviri.</p>
-            </div>
-            <div>
-                <head>002</head>
-                <p>(2) Item statuimus et precipimus ut singuli presbyteri civitatis et diocesis Cameracensis singula nomina parochianorum suorum excommunicatorum per annum et amplius cujuscumque sexus existant, causas etiam sententie in eos late et temporis spatium per quod excommunicati fuerint, nobis sigillatim vel officiali nostro Cameracensi rescribant.</p>
-            </div>
-            <div>
-                <head>003</head>
-                <p>(3) Item statuimus ut presbyteri ut qui per eorum culpam seu negligentiam ultra duos menses sententiam excommunicationis sustinuerint, per totum tempus per quod sententiam excommunicationis indurabunt fructus suos ecclesiasticos perdant, ne ipsi, qui sunt et esse debent quasi positum signum ad sagittam, aliis exemplum seu materiam prebeant malignandi.</p>
-            </div>
-            <div>
-                <head>004</head>
-                <p>(4) Statuimus ut decani causa computationis faciende apud Cameracum venientes in communibus expensis episcopi et archidiaconi vivant veniendo, morando et ad propria revertendo.</p>
-                <p>Si vero causa synodi veniant, a presbyteris sibi subditis contributionem recipiant moderatam.</p>
-            </div>
-            <div>
-                <head>005</head>
-                <p>(5) Item statuimus ut singuli decani senogia sive cathedraticas a singulis ecclesiis sibi subditis debitas, tam anno bissextili quam in aliis, et modum solvendi et quantum, quolibet anno nobis infra instans festum Natalis Domini lucide rescribant.</p>
-            </div>
-            <div>
-                <head>006</head>
-                <p>(6) Item quilibet decanus in prima convocatione quam faciet, singulis presbyteris sui decanatus in virtute sancte obedientie, et sub pena suspensionis et excommunicationis precipiat et injungat ut [3] quilibet presbyter nomina omnium et singulorum usurariorum notoriorum et manifestorum in suis parochiis commorantium decano suo infra octo dies in scriptis tradat.</p>
-                <p>Dicti autem decani parochiarum et personarum talium nomina officiali nostro Cameracensi sub sigillis suis mittant secrete et fideliter interclusa infra alios XV dies; et hoc ipsis decanis sub pena predicta precipimus fideliter exequendum.</p>
-            </div>
-            <div>
-                <head>007</head>
-                <p>(7) Item quilibet decanus registra sibi commissa per sigilliferum seu transcripta eorum in compoto suo referat ut quod inde receptum fuerit computetur recipiendum queratur.</p>
-            </div>
-            <div>
-                <head>explicit</head>
-                <p>In cujus rei testimonium presentibus litteris sigillum nostrum duximus apponendum.</p>
-                <p>Datum anno Domini MoCCoLXXXo nono, in die beati Remigii in capite octobris.</p>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Guillermus, Dei gratia Cameracensis episcopus, universis presentes litteras inspecturis salutem in Domino sempiternam. Noveritis quod nos de consensu et assensu archidiaconorum Ecclesie Cameracensis statuimus ea que sequuntur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) Statuimus quod presbyteri parochiales Cameracensis diocesis, si decedant infra festum Nativitatis beati Joannis Baptiste et festum Magdalene, omnes fructus parochie separatos a solo tempore sue mortis, maturos et sine fraude separatos, percipiant et suos faciant.</p>
+                    <p>Et si terras ad parochialem ecclesiam spectantes excoluerint, culture sumptus qui firma [1] vulgariter nuncupatur restituantur eisdem, et de premissis suam possint facere voluntatem.</p>
+                    <p>Residuum vero bonorum parochie cedant episcopo et archidiacono, de quibus ipsi parochiam competenter facient deserviri.</p>
+                    <p>Si autem dicti presbyteri infra festum Magdalene [2] et Purificationis subsequentis decesserint, omnes fructus ab eis perceptos et etiam a solo separates percipient.</p>
+                    <p>Fructus vero post mortem ipsorum percipiendi cedent episcopo et archidiacono, ita tamen quod pro rata perceptorum et percipiendorum fructuum ad deserviendum ecclesie usque ad Nativitatem Joannis Baptiste quelibet pars partem seu portionem ipsam contingentem apponat.</p>
+                    <p>Si vero infra festum Purificationis et Nativitatis sancti Joannis Baptiste decedant presbyteri, omnes fructus illius anni usque ad dictum festum Nativitatis sancti Joannis Baptiste percipient, ita tamen quod de eisdem per consilium decani loci parochiali ecclesie facient deserviri.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Item statuimus et precipimus ut singuli presbyteri civitatis et diocesis Cameracensis singula nomina parochianorum suorum excommunicatorum per annum et amplius cujuscumque sexus existant, causas etiam sententie in eos late et temporis spatium per quod excommunicati fuerint, nobis sigillatim vel officiali nostro Cameracensi rescribant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) Item statuimus ut presbyteri ut qui per eorum culpam seu negligentiam ultra duos menses sententiam excommunicationis sustinuerint, per totum tempus per quod sententiam excommunicationis indurabunt fructus suos ecclesiasticos perdant, ne ipsi, qui sunt et esse debent quasi positum signum ad sagittam, aliis exemplum seu materiam prebeant malignandi.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) Statuimus ut decani causa computationis faciende apud Cameracum venientes in communibus expensis episcopi et archidiaconi vivant veniendo, morando et ad propria revertendo.</p>
+                    <p>Si vero causa synodi veniant, a presbyteris sibi subditis contributionem recipiant moderatam.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) Item statuimus ut singuli decani senogia sive cathedraticas a singulis ecclesiis sibi subditis debitas, tam anno bissextili quam in aliis, et modum solvendi et quantum, quolibet anno nobis infra instans festum Natalis Domini lucide rescribant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>(6) Item quilibet decanus in prima convocatione quam faciet, singulis presbyteris sui decanatus in virtute sancte obedientie, et sub pena suspensionis et excommunicationis precipiat et injungat ut [3] quilibet presbyter nomina omnium et singulorum usurariorum notoriorum et manifestorum in suis parochiis commorantium decano suo infra octo dies in scriptis tradat.</p>
+                    <p>Dicti autem decani parochiarum et personarum talium nomina officiali nostro Cameracensi sub sigillis suis mittant secrete et fideliter interclusa infra alios XV dies; et hoc ipsis decanis sub pena predicta precipimus fideliter exequendum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>(7) Item quilibet decanus registra sibi commissa per sigilliferum seu transcripta eorum in compoto suo referat ut quod inde receptum fuerit computetur recipiendum queratur.</p>
+                </div>
+                <div>
+                    <head>Explicit</head>
+                    <p>In cujus rei testimonium presentibus litteris sigillum nostrum duximus apponendum.</p>
+                    <p>Datum anno Domini MoCCoLXXXo nono, in die beati Remigii in capite octobris.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] removed &lt;&gt; around firma</p>
+                    <p>[2] removed &lt;&gt; around Magdalene</p>
+                    <p>[3] removed &lt;&gt; around ut, footnote et add. ms.</p>
+                </div>
             </div>
         </body>
     </text>

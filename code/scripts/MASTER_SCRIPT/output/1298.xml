@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 1298</recordID>
+                <title>Tours (#1298)</title>
+                <recordID>1298</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate>1227</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Tours (?)</origPlace>
                 <diocese/>
                 <province>Tours</province>
-                <country/>
+                <country>France</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Provincial</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,18 +55,57 @@
     <text>
         <body>
             <div>
-                <head>incipit</head>
+                <head>Metadata</head>
+                <p>RecordID: 1298</p>
+                <p>Year: 1227</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Tours (?)</p>
+                <p>Diocese: None</p>
+                <p>Province: Tours</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 47.393611</p>
+                <p>Longitude: 0.689167</p>
+                <p>PlaceNotes: Location unknown</p>
+                <p>Classification: Provincial</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Avril, Tours, 127</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: Hard Copy Scan</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: Avril reconstructs the two articles from other references</p>
+                <p>BiblioRefs: None</p>
             </div>
             <div>
-                <head>001</head>
-                <p>(1) Clerici ribaldi qui goliardi vulgo nuncupantur, per episcopos et alios Ecclesie prelatos precipiantur tondi vel radi.</p>
-            </div>
-            <div>
-                <head>002</head>
-                <p>(2) Cruce signati homicidio vel alio enormi delicto deprehensi, vel alias coram judice ecclesiastico convicti legitime signo crucis et aliis privilegiis tunc cruce signatis etiam competentibus per judicem ecclesiasticum exuantur.</p>
-            </div>
-            <div>
-                <head>explicit</head>
+                <head>Text</head>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) Clerici ribaldi qui goliardi vulgo nuncupantur, per episcopos et alios Ecclesie prelatos precipiantur tondi vel radi.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Cruce signati homicidio vel alio enormi delicto deprehensi, vel alias coram judice ecclesiastico convicti legitime signo crucis et aliis privilegiis tunc cruce signatis etiam competentibus per judicem ecclesiasticum exuantur.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
             </div>
         </body>
     </text>

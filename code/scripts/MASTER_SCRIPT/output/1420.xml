@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 1420</recordID>
+                <title>Gubbio (#1420)</title>
+                <recordID>1420</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate>1492</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Gubbio</origPlace>
                 <diocese>Gubbio</diocese>
                 <province>[Holy See]</province>
-                <country/>
+                <country>Italy</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Diocesan</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,15 +55,61 @@
     <text>
         <body>
             <div>
-                <head>text</head>
-                <p>NUOVA CONFIRMATIO</p>
-                <p>CONSTITUTIONUM SYNODALIUM FACTA</p>
-                <p>A FRANCISCO DE RUVERE EPISCOPO EUGUBINO</p>
-                <p>ANNO 1492.</p>
-                <p>Lecte per me Franciscum notarium infrascriptum ac etiam edite, facte condite et in scriptis sententialiter promulgate fuerunt constitutiones predicte et quemlibet earum ac contenta in eis per supradictum dominum Episcopum eugubinum pro tribunali sedente in generali sinodo prelatorum et clericorum civitatis et diocesis eugubine propter hec spetialiter congregata in maiori ecclesia Eugubina, presentibus infrascriptis testibus videlicet, eximio decretarum doctore domino Bernardino de Rapinaclibus de Eugubio, dignissimo priore dicte maioris ecclesie.</p>
-                <p>Domino Paolo ser Antonutii abbate monasterii sancti Petri Eugubini, Domino Filippo de Felixiis abbate sancti Verecundi, Domino Ipolito de Brancaleonibus, abbate abbatie sancti Benedicti veteris, Eugubine diocesis.</p>
-                <p>Domino Mauro de Acorombonibus priore canonice Vitisgrosse dicte diocesis.</p>
-                <p>Fratre Petro de Amorosettis de Eugubio, hordinis Heremitarum Sancti Augustini de Eugubio, et sacre teologie Bacalario, fratre Petro Posede priore ecclesie sancti Dominici hordinis predicatorum de Eugubio, Domino Xristophoro, Stefani, domino Sante Antonii, et domino Laurentio Bartolomei de Eugubio canonicis dicte maioris ecclesie Catredalis, et Francisco Pierpauli de Acorombonibus de Eugubio et pluribus aliis testibus tam clericis quam laicis sub annis Domini Nostri Iesu Christi millesimo CCCCLXXXXII, indictione decima tempore sactissimi in Xristo Patris et domini domini Alexandri divina providentia pape sexti die vero quarta mensis decembris.</p>
+                <head>Metadata</head>
+                <p>RecordID: 1420</p>
+                <p>Year: 1492</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Gubbio</p>
+                <p>Diocese: Gubbio</p>
+                <p>Province: [Holy See]</p>
+                <p>CountryModern: Italy</p>
+                <p>Latitude: 43.35</p>
+                <p>Longitude: 12.56667</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Cenci, Costituzioni, 379</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: Hard Copy Scan</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>All Text</head>
+                    <p>NUOVA CONFIRMATIO</p>
+                    <p>CONSTITUTIONUM SYNODALIUM FACTA</p>
+                    <p>A FRANCISCO DE RUVERE EPISCOPO EUGUBINO</p>
+                    <p>ANNO 1492.</p>
+                    <p>Lecte per me Franciscum notarium infrascriptum ac etiam edite, facte condite et in scriptis sententialiter promulgate fuerunt constitutiones predicte et quemlibet earum ac contenta in eis per supradictum dominum Episcopum eugubinum pro tribunali sedente in generali sinodo prelatorum et clericorum civitatis et diocesis eugubine propter hec spetialiter congregata in maiori ecclesia Eugubina, presentibus infrascriptis testibus videlicet, eximio decretarum doctore domino Bernardino de Rapinaclibus de Eugubio, dignissimo priore dicte maioris ecclesie.</p>
+                    <p>Domino Paolo ser Antonutii abbate monasterii sancti Petri Eugubini, Domino Filippo de Felixiis abbate sancti Verecundi, Domino Ipolito de Brancaleonibus, abbate abbatie sancti Benedicti veteris, Eugubine diocesis.</p>
+                    <p>Domino Mauro de Acorombonibus priore canonice Vitisgrosse dicte diocesis.</p>
+                    <p>Fratre Petro de Amorosettis de Eugubio, hordinis Heremitarum Sancti Augustini de Eugubio, et sacre teologie Bacalario, fratre Petro Posede priore ecclesie sancti Dominici hordinis predicatorum de Eugubio, Domino Xristophoro, Stefani, domino Sante Antonii, et domino Laurentio Bartolomei de Eugubio canonicis dicte maioris ecclesie Catredalis, et Francisco Pierpauli de Acorombonibus de Eugubio et pluribus aliis testibus tam clericis quam laicis sub annis Domini Nostri Iesu Christi millesimo CCCCLXXXXII, indictione decima tempore sactissimi in Xristo Patris et domini domini Alexandri divina providentia pape sexti die vero quarta mensis decembris.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>None</p>
+                </div>
             </div>
         </body>
     </text>

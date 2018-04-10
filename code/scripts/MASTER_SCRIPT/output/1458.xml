@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 1458</recordID>
+                <title>Canterbury (#1458)</title>
+                <recordID>1458</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate>1432</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>London</origPlace>
                 <diocese>Canterbury</diocese>
                 <province>Canterbury</province>
-                <country/>
+                <country>England</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Provincial</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,12 +55,58 @@
     <text>
         <body>
             <div>
-                <head>text</head>
-                <p>Henricus, permissione divina Cantuariensis archiepiscopus, totius Angliae primas et apostolicae sedis legatus, universis et singulis rectoribus vicariis capellanis curatis etc.</p>
-                <p>Senscentis mundi malitia ferali more lasciviens contra salutaria maiorum constitutiones ut prius usque ibidem in spiritu levitatis.</p>
-                <p>Quocirca de dictorum confratrum nostrorum consilio vobis omnibus et singulis auctoritate dicti concilii committimus et mandamus sub poena inoboedientiae et contemptus firmiter iniungentes quatenus omnes et singulos parochianos vestros quibuscunque pondenibus aut mensuris notabiliter standardo regia discordantibus et praecipue dicta prohibito pondere le auncell scheft seu poundre vulgariter nuncupato qualitercunque utentes utive facientes eisdem prima, secundo et tertio peremptorie maneatis et ipsos quantum in vobis est efficaciter inducatis monerive seu sic induci faciatis eosdem quos etiam tenore praesentium peremptorie monemus quatenus infra unius mensis spatium a tempore monitionis vestrae huiusmodi quin verius nostrae continue numerandum ab omni pondere seu mensura standardo regio (ut praefertur) notabiliter discordante et praesertim ab omni usu quin potius abusu dicti prohibiti ponderis vocati le auncell scheft seu poundre abstineant et desistant omnino abstineatque et desistat quilibet eorundem.</p>
-                <p>Dictaque mensuras et pondera sic ut praemittitur [1] prohibita realiter et cum effectu dimittant eadem vel eorum aliquo de cetera nullatenus receptura nec eis aut aliquo eorundem usum sub poena excommunicationis maioris quam etc.</p>
-                <p>Quorum absolutionem diocesanis locorum et paenitentiariis eorum specialiter reservamus, etc.</p>
+                <head>Metadata</head>
+                <p>RecordID: 1458</p>
+                <p>Year: 1432</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: London</p>
+                <p>Diocese: Canterbury</p>
+                <p>Province: Canterbury</p>
+                <p>CountryModern: England</p>
+                <p>Latitude: 51.507222</p>
+                <p>Longitude: -0.1275</p>
+                <p>PlaceNotes: [check place]</p>
+                <p>Classification: Provincial</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Records of Convocation 5, p. 300</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['Library Scan', 'Hard Copy Scan']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: ['[Second] constitution abolishing so-called &quot;Auncell weight&quot;', '[delete from database?]']</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>All Text</head>
+                    <p>Henricus, permissione divina Cantuariensis archiepiscopus, totius Angliae primas et apostolicae sedis legatus, universis et singulis rectoribus vicariis capellanis curatis etc.</p>
+                    <p>Senscentis mundi malitia ferali more lasciviens contra salutaria maiorum constitutiones ut prius usque ibidem in spiritu levitatis.</p>
+                    <p>Quocirca de dictorum confratrum nostrorum consilio vobis omnibus et singulis auctoritate dicti concilii committimus et mandamus sub poena inoboedientiae et contemptus firmiter iniungentes quatenus omnes et singulos parochianos vestros quibuscunque pondenibus aut mensuris notabiliter standardo regia discordantibus et praecipue dicta prohibito pondere le auncell scheft seu poundre vulgariter nuncupato qualitercunque utentes utive facientes eisdem prima, secundo et tertio peremptorie maneatis et ipsos quantum in vobis est efficaciter inducatis monerive seu sic induci faciatis eosdem quos etiam tenore praesentium peremptorie monemus quatenus infra unius mensis spatium a tempore monitionis vestrae huiusmodi quin verius nostrae continue numerandum ab omni pondere seu mensura standardo regio (ut praefertur) notabiliter discordante et praesertim ab omni usu quin potius abusu dicti prohibiti ponderis vocati le auncell scheft seu poundre abstineant et desistant omnino abstineatque et desistat quilibet eorundem.</p>
+                    <p>Dictaque mensuras et pondera sic ut praemittitur [1] prohibita realiter et cum effectu dimittant eadem vel eorum aliquo de cetera nullatenus receptura nec eis aut aliquo eorundem usum sub poena excommunicationis maioris quam etc.</p>
+                    <p>Quorum absolutionem diocesanis locorum et paenitentiariis eorum specialiter reservamus, etc.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] (ut praemittitur)</p>
+                </div>
             </div>
         </body>
     </text>

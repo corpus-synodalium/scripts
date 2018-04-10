@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 1861</recordID>
+                <title>Trent (#1861)</title>
+                <recordID>1861</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate>1228-05-19</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Trent</origPlace>
                 <diocese>Trent</diocese>
                 <province>Aquileia</province>
-                <country/>
+                <country>Italy</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Diocesan</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,8 +55,56 @@
     <text>
         <body>
             <div>
-                <head>text</head>
-                <p>Interdicimus ne clerici nostre diocesis eligant decanos, archipresbiteros, confratres sine voluntate domini episcopi, quod qui fecerint vel facere presumpserint, tanquam rebelles et contumaces et nostri iuris perversores excomunicamus et excomunicatos publice denunciamus, nisi infra quindecim dies coram nobis satisfacturi compareant, quia talis electio specialiter spectat ad nos.</p>
+                <head>Metadata</head>
+                <p>RecordID: 1861</p>
+                <p>Year: 1228</p>
+                <p>Month: 5</p>
+                <p>Day: 19</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Trent</p>
+                <p>Diocese: Trent</p>
+                <p>Province: Aquileia</p>
+                <p>CountryModern: Italy</p>
+                <p>Latitude: 46.066667</p>
+                <p>Longitude: 11.116777</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Gerardo Oscasali</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1224</p>
+                <p>RegnalEnd: 1232</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Voltelini, Beitrage zur Geschichte Tirols, I, pp164-65</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: http://www.zobodat.at/pdf/VeroeffFerd_3_33_0001-0188.pdf</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'WebDownload']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: ['one surviving constitution (survives only through later report), and traces of others appear in later statutes (see Curzel &amp; Eccher studies)', 'Interdicimus ne clerici nostre diocesis eligant decanos, archipresbiteros, confratres sine voluntate domini episcopi, quod qui fecerint vel facere presumpserint, tanquam rebelles et contumaces et nostri iuris perversores excomunicamus et excomunicatos publice denunciamus, nisi infra quindecim dies coram nobis satisfacturi compareant, quia talis electio specialiter spectat ad nos.']</p>
+                <p>BiblioRefs: Curzel, Secondo sinodo</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>All Text</head>
+                    <p>Interdicimus ne clerici nostre diocesis eligant decanos, archipresbiteros, confratres sine voluntate domini episcopi, quod qui fecerint vel facere presumpserint, tanquam rebelles et contumaces et nostri iuris perversores excomunicamus et excomunicatos publice denunciamus, nisi infra quindecim dies coram nobis satisfacturi compareant, quia talis electio specialiter spectat ad nos.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1]</p>
+                    <p>[2]</p>
+                    <p>[]</p>
+                </div>
             </div>
         </body>
     </text>

@@ -42,7 +42,8 @@ doc_xpaths = {
     "create_date": [
         ".//profileDesc/creation/date", ".//fileDesc/sourceDesc/bibl/imprint/date",
         ".//sourceDesc/biblFull/publicationStmt/date", ".//profileDesc/dummy/creation/date",
-        ".//fileDesc/sourceDesc/bibl/creation/date"
+        ".//fileDesc/sourceDesc/bibl/creation/date",
+        ".//profileDesc/creation/origDate"
     ],
     "publisher": [
         ".//sourceDesc/bibl/imprint[@type='artfl']", ".//sourceDesc/bibl/imprint[@type='marc534']",
@@ -99,6 +100,13 @@ doc_xpaths = {
     "idno": [
         ".//fileDesc/publicationStmt/idno/"
     ],
+    # RWD Custom Facets
+    "origDate": [
+        ".//profileDesc/creation/origDate"
+    ],
+    "origPlace": [
+        ".//profileDesc/creation/origPlace"
+    ],
     "diocese": [
         ".//profileDesc/creation/diocese"
     ],
@@ -108,17 +116,15 @@ doc_xpaths = {
     "country": [
         ".//profileDesc/creation/country"
     ],
-    "origin_place": [
-        ".//profileDesc/creation/origPlace"
+    "classification": [
+        ".//profileDesc/textDesc/domain"
     ],
-    "origin_date": [
-        ".//profileDesc/creation/originDate"
+    "language": [
+        ".//profileDesc/langUsage"
     ],
-    "base_text": [
-        ".//fileDesc/sourceDesc/baseText"
-    ],
-    "text_needed": [
-        ".//fileDesc/sourceDesc/textNeeded"
+    ###
+    "record_id" : [
+        ".//fileDesc/titleStmt/recordID"
     ]
 }
 

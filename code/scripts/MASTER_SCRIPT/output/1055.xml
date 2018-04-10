@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 1055</recordID>
+                <title>Dol (#1055)</title>
+                <recordID>1055</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate precision="circa">1450</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Dol-de-Bretagne</origPlace>
                 <diocese>Dol</diocese>
                 <province>Tours</province>
-                <country/>
+                <country>France</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Diocesan</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,32 +55,77 @@
     <text>
         <body>
             <div>
-                <head>incipit</head>
-                <p>Radulphus permissione divina dolensis episcopus universis et singulis parochialium ecclesiarum rectoribus seu curatis per nostras civitatem et diocesim ubilibet constitutis salute in domino sempiternam.</p>
+                <head>Metadata</head>
+                <p>RecordID: 1055</p>
+                <p>Year: 1450</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: Yes</p>
+                <p>DatingNotes: 1444x1456</p>
+                <p>Place: Dol-de-Bretagne</p>
+                <p>Diocese: Dol</p>
+                <p>Province: Tours</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 48.550833</p>
+                <p>Longitude: -1.755833</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Raoul de la Moussaie</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Statuts synodaux du diocèse de Dol, revus et publiés par Mathurin de Pledran, évêque de Dol. Nannetensis: per Guillermum Tourquetil, 1509, §89-93</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: ['Survive in 1509 compilation', 'digital version downloaded: http://www.tablettes-rennaises.fr/themes/rennes/static/flipbook/index.html?userid=0&amp;docid=34287&amp;language=fra ; ']</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: Digital MS</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
             </div>
             <div>
-                <head>001</head>
-                <p>(1) Quorumdam relatio nuper ad nostram pervenit notionem quod cum in diversis causis tam ecclesiasticis spiritualibus quam forensibus sive secularibus de alicuius aut aliquorum etate aut parentella vel cognatione naturali seu spirituali dubietatem oriri contigat nulli teste quandocunque vel pauci superstites inveniuntur qui huiusmodi dubietatis modum sciant dissolvere testimonio veritatis quomodo aut morte preventos aut absentes aut huius rei immemores eos qui serie facti noverunt plerumque audivimus propter quid sepe contingit multos fraude vel ignorantia ductos ad nuptias ante nubiles annos completos aut cum personis se attingentibus intra gradus prohibitos convolare et quam plures licet illegitimos ad sacros maxime ordines et ad beneficia ecclesiastica ante etatem a canonibus definitam aspirare sacrorum sanctiones canonum infringendo, sed et huius rei occultata veritas nonnunque recta inter homines perturbat iudicia precipue in questionibus aut controversiis successionum vel in integrum restitutionum, ignorantibus iudicibus etatem vel parentelam litigantium, hinc est quod nos huiusmodi discriminibus via precludere et modum quo facilius veritas predictorum pateat dubiorum invenire cupientes prehabita super hoc matura deliberatione statuimus et ordinamus vobis predictarum ecclesiarum parochialium rectoribus curatis et vestrum cuilibet districte inungentes quod de cetero post sacrum baptisma infantibus ministratum in ecclesiis vostris in libro papireo seu in pergameno recte et firmiter ut decet consuto et colligato sumptibus fabricarum ante dictarum ecclesiarum parochialium querendo et emendo, describatis seu describi faciatis immediate nomina et cognomina omnium et singulorum infantium utriusque sexus baptizatorum.</p>
-                <p>Nec non nomina et cognomina patrum et matrum eorundem nomina quoque et cognomina conpatrum et commatrum qui predictis infantes de sacro fonte levaverunt et in huiusmodi scriptura vestra in principio vel in fine eiusdem signanter et expresse declaretis diem et annum quo unus quisque infancium predictorum fuerit baptizatus vobis insuper predictis rectoribus et vostrum cuilibet precipientes quod huiusmodi librum seu matriculam baptisatorum in tuto loco sub fida et diligenti custodia conservandi reponatis, ac omnibus desiderantibus quorum interesse veresimiliter credideritis inspiciendi atque legendum exhibeatis, ut omnes ad eundem librum recurrentes inopia probationum clariorum emergente super dubitatis articulis in prefato libro seu matricula contentis immorentur et per hoc a dispendiosis litibus et ceteris pretactis discriminibus liberentur.</p>
-                <p>Siquis autem rectores vel curati presenti nostro statuto obedire recusaverint sententia excommunicationis se noverint innodandos et subiaceant mulcte viginti solidorum applicandorum videlicet quindecim fabrice ecclesie nostre dolensis et quicumque ecclesie cuius rector vel curatus in premissis inobediens vel negligens fuerit pro quolibet defectu.</p>
-            </div>
-            <div>
-                <head>002</head>
-                <p>(2) Item statuimus et ordinamus sub penis excommunicationis ac centum librarum elemosinis reverendi in cristo patris domini episcopi dolensis applicandarum prohibemus ne quis cuiuscunque gradus status preminentie aut conditionis existat de cetero apponat seu apponi de pingi aut sculpi faciat invitris seu parietibus scuta aut armorum intersignia nisi prout in illis ecclesiarum vitris seu locis aliis per antea et antiquitus esse solebant in sepulturis tantum solitum morem et laudabilem servare liceat.</p>
-                <p>Neque vitra scientur quis rumpere seu frangere presumat parique modo statuimus et sub eisdem penis inhibemus ne aliqua sedilia sine scamna nisi ad usum parochianorum ut universorum comunia tumbeque sine tumuli in eisdem ecclesiis per quem piam ponantur nisi de nostra licentia a nobis seu nostro in spiritualibus vicario obtenta.</p>
-            </div>
-            <div>
-                <head>003</head>
-                <p>(3) Insuper statuendo inhibemus quod in loco sacro ecclesia vel cimiterio nullus de foro seculari aliquam inquestam explectam aiournamentum faciat neque iurisdictionem in eisdem qualitercunque exerceat et hec universa et singula supradicta sub penis excommunicationis et centum librarum fieri prohibemus quam in contrarium facientes aut consilium seu iuvamen dantes sive fieri mandantes se noverint incursuros.</p>
-            </div>
-            <div>
-                <head>004</head>
-                <p>(4) Ulterius statuimus et destricte precipimus ne quis ad forum ecclesiasticum recurrentes aut a dicto foro litteras impetrantes super causis que ad ipsum forum de iure vel consuetudine antica pertinent per se vel alium directe seu per obliquum impediat sive molestet ipsos adiornando, arestando, minas, iniurias eis aut aliquid dannum inferendo.</p>
-                <p>Nec ad se desistendum vel in foro seculari de causis huiusmodi litigandum per litigantium seu litigare volentium propinquorum amicorumue seu rerum captionem detentionem vel occupationem alis ne modis quibuscunque compellat seu compelli faciat vel procuret.</p>
-                <p>Neque quoquomodo iurisdictionem ecclesiasticam perturbet per applegiamentum oppositionem aut adiornamentum seu literarum ab ipsa iurisdictione emanatarum portitoribus earundem executoribus iniuriando vel eis minando seu executionem dictarum litterarum impediendo eas vel a latoribus auferendo ut alias quovis quesito colore seu figmento quo minus coram iudicibus ecclesiasticis litigantes seu litigare volentes de causis suis valeant libere iusticiam consequi et eos adire nec ad predicta faciendo det consilium auxilium preceptum vel favorem suiquis vero contra hoc attentare presumpserit excommunicationem se ipso facto sciat incurrere cuius absolutionem nobi reservamus.</p>
-            </div>
-            <div>
-                <head>explicit</head>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Radulphus permissione divina dolensis episcopus universis et singulis parochialium ecclesiarum rectoribus seu curatis per nostras civitatem et diocesim ubilibet constitutis salute in domino sempiternam.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) Quorumdam relatio nuper ad nostram pervenit notionem quod cum in diversis causis tam ecclesiasticis spiritualibus quam forensibus sive secularibus de alicuius aut aliquorum etate aut parentella vel cognatione naturali seu spirituali dubietatem oriri contigat nulli teste quandocunque vel pauci superstites inveniuntur qui huiusmodi dubietatis modum sciant dissolvere testimonio veritatis quomodo aut morte preventos aut absentes aut huius rei immemores eos qui serie facti noverunt plerumque audivimus propter quid sepe contingit multos fraude vel ignorantia ductos ad nuptias ante nubiles annos completos aut cum personis se attingentibus intra gradus prohibitos convolare et quam plures licet illegitimos ad sacros maxime ordines et ad beneficia ecclesiastica ante etatem a canonibus definitam aspirare sacrorum sanctiones canonum infringendo, sed et huius rei occultata veritas nonnunque recta inter homines perturbat iudicia precipue in questionibus aut controversiis successionum vel in integrum restitutionum, ignorantibus iudicibus etatem vel parentelam litigantium, hinc est quod nos huiusmodi discriminibus via precludere et modum quo facilius veritas predictorum pateat dubiorum invenire cupientes prehabita super hoc matura deliberatione statuimus et ordinamus vobis predictarum ecclesiarum parochialium rectoribus curatis et vestrum cuilibet districte inungentes quod de cetero post sacrum baptisma infantibus ministratum in ecclesiis vostris in libro papireo seu in pergameno recte et firmiter ut decet consuto et colligato sumptibus fabricarum ante dictarum ecclesiarum parochialium querendo et emendo, describatis seu describi faciatis immediate nomina et cognomina omnium et singulorum infantium utriusque sexus baptizatorum.</p>
+                    <p>Nec non nomina et cognomina patrum et matrum eorundem nomina quoque et cognomina conpatrum et commatrum qui predictis infantes de sacro fonte levaverunt et in huiusmodi scriptura vestra in principio vel in fine eiusdem signanter et expresse declaretis diem et annum quo unus quisque infancium predictorum fuerit baptizatus vobis insuper predictis rectoribus et vostrum cuilibet precipientes quod huiusmodi librum seu matriculam baptisatorum in tuto loco sub fida et diligenti custodia conservandi reponatis, ac omnibus desiderantibus quorum interesse veresimiliter credideritis inspiciendi atque legendum exhibeatis, ut omnes ad eundem librum recurrentes inopia probationum clariorum emergente super dubitatis articulis in prefato libro seu matricula contentis immorentur et per hoc a dispendiosis litibus et ceteris pretactis discriminibus liberentur.</p>
+                    <p>Siquis autem rectores vel curati presenti nostro statuto obedire recusaverint sententia excommunicationis se noverint innodandos et subiaceant mulcte viginti solidorum applicandorum videlicet quindecim fabrice ecclesie nostre dolensis et quicumque ecclesie cuius rector vel curatus in premissis inobediens vel negligens fuerit pro quolibet defectu.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Item statuimus et ordinamus sub penis excommunicationis ac centum librarum elemosinis reverendi in cristo patris domini episcopi dolensis applicandarum prohibemus ne quis cuiuscunque gradus status preminentie aut conditionis existat de cetero apponat seu apponi de pingi aut sculpi faciat invitris seu parietibus scuta aut armorum intersignia nisi prout in illis ecclesiarum vitris seu locis aliis per antea et antiquitus esse solebant in sepulturis tantum solitum morem et laudabilem servare liceat.</p>
+                    <p>Neque vitra scientur quis rumpere seu frangere presumat parique modo statuimus et sub eisdem penis inhibemus ne aliqua sedilia sine scamna nisi ad usum parochianorum ut universorum comunia tumbeque sine tumuli in eisdem ecclesiis per quem piam ponantur nisi de nostra licentia a nobis seu nostro in spiritualibus vicario obtenta.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) Insuper statuendo inhibemus quod in loco sacro ecclesia vel cimiterio nullus de foro seculari aliquam inquestam explectam aiournamentum faciat neque iurisdictionem in eisdem qualitercunque exerceat et hec universa et singula supradicta sub penis excommunicationis et centum librarum fieri prohibemus quam in contrarium facientes aut consilium seu iuvamen dantes sive fieri mandantes se noverint incursuros.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) Ulterius statuimus et destricte precipimus ne quis ad forum ecclesiasticum recurrentes aut a dicto foro litteras impetrantes super causis que ad ipsum forum de iure vel consuetudine antica pertinent per se vel alium directe seu per obliquum impediat sive molestet ipsos adiornando, arestando, minas, iniurias eis aut aliquid dannum inferendo.</p>
+                    <p>Nec ad se desistendum vel in foro seculari de causis huiusmodi litigandum per litigantium seu litigare volentium propinquorum amicorumue seu rerum captionem detentionem vel occupationem alis ne modis quibuscunque compellat seu compelli faciat vel procuret.</p>
+                    <p>Neque quoquomodo iurisdictionem ecclesiasticam perturbet per applegiamentum oppositionem aut adiornamentum seu literarum ab ipsa iurisdictione emanatarum portitoribus earundem executoribus iniuriando vel eis minando seu executionem dictarum litterarum impediendo eas vel a latoribus auferendo ut alias quovis quesito colore seu figmento quo minus coram iudicibus ecclesiasticis litigantes seu litigare volentes de causis suis valeant libere iusticiam consequi et eos adire nec ad predicta faciendo det consilium auxilium preceptum vel favorem suiquis vero contra hoc attentare presumpserit excommunicationem se ipso facto sciat incurrere cuius absolutionem nobi reservamus.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1]</p>
+                    <p>[2]</p>
+                    <p>[]</p>
+                </div>
             </div>
         </body>
     </text>

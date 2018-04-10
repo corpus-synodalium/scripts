@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 1272</recordID>
+                <title>Arras (#1272)</title>
+                <recordID>1272</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate>1296-10-16</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Arras</origPlace>
                 <diocese>Arras</diocese>
                 <province>Reims</province>
-                <country/>
+                <country>France</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Diocesan</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,121 +55,165 @@
     <text>
         <body>
             <div>
-                <head>incipit</head>
-                <p>Incipiunt statuta facta a vicariis Attrebatensis episcopi Gerardi.</p>
-                <p>Hec sunt statuta synod alia facta per discretos viros vicarios reverendi patris domini Gerardi Dei gratia Attrebatensis episcopi in sancta synodo, de mandato et ordinatione dicti patris anno Domini M CC nonagesimo sexto, feria tertia post festum beati Dyonisii, ceteris in suo robore remanentibus.</p>
+                <head>Metadata</head>
+                <p>RecordID: 1272</p>
+                <p>Year: 1296</p>
+                <p>Month: 10</p>
+                <p>Day: 16</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Arras</p>
+                <p>Diocese: Arras</p>
+                <p>Province: Reims</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 50.289722</p>
+                <p>Longitude: 2.780833</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Gerard Pigalotti</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Avril, Statuts, IV, 217-22</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: Hard Copy Scan</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
             </div>
             <div>
-                <head>001</head>
-                <p>(1) Primo statuimus ne aliquis se ingerat ad coronam vel litteras dimissorias habendas nisi secum ferat litteras sui sacerdotis parochialis, quod sit legitime natus, nec filius usurarii, nec aliquod aliud canonicum impedimentum obsistat.</p>
-            </div>
-            <div>
-                <head>002</head>
-                <p>(2) De clericis.</p>
-                <p>Item quod quicumque dicunt se recepisse coronas a domino episcopo qui nunc est, et non habent litteras dicti domini sigillo proprio sigillatas, vel sigillo curie Attrebatensis, usque ad mensem veniant ad vicarios, adducentes probationes convenientes quod coronas receperunt, et recipiant litteras sigillatas sub sigillo curie Attrebatensis, alias sciant se pro clericis non defendi.</p>
-            </div>
-            <div>
-                <head>003</head>
-                <p>(3) Item de clericis.</p>
-                <p>Item statuimus quod nullus clericus portet pannos virgatos vel partitos diversorum colorum, nec arma sine licentia curie Attrebatensis sub pena decem solidorum parisiensium.</p>
-            </div>
-            <div>
-                <head>004</head>
-                <p>(4) De clericis et personis beneficiatis.</p>
-                <p>Item prohibemus sub pena amissionis beneficii ne aliquis clericus habens beneficium teneat secum filium vel filios proprios quos genuit ex quo beneficium habuit.</p>
-            </div>
-            <div>
-                <head>005</head>
-                <p>(5) Item statuimus ne aliqua persona ecclesiastica, sacerdos aut clericus beneficiatus, de bonis ecclesiasticis, possessionem vel aliqua bona liberis suis naturalibus vel concubinis acquirat vel acquiri faciat per se vel per alium quoquomodo; qui vero contra fecerint, ipso facto sententiam excommunicationis incurrant.</p>
-            </div>
-            <div>
-                <head>006</head>
-                <p>(6) De abbatibus et abbatissis.</p>
-                <p>Item precipimus ut abbates et abbatisse in prioratibus suis debitum ponant numerum monachorum vel monialium sicut ab antiquo fuit consuetum; qui vero contra fecerint, ipso facto sententiam excommunicationis incurrant.</p>
-            </div>
-            <div>
-                <head>007</head>
-                <p>(7) Item prohibemus sub pena suspensionis et excommunicationis quas ex nunc in contrafacientes prout ex tunc ferimus ne aliquis abbas, prior vel prelatus quicumque, capitulum, vel conventus, faciat aliquam venditionem ad vitam vel perpetuo vel alienationem de bonis ecclesie sue inrequisito episcopo vel ejus vicariis, et si que fient, eas decernimus nullas esse.</p>
-            </div>
-            <div>
-                <head>008</head>
-                <p>(8) De prelationibus.</p>
-                <p>Item precipimus sub pena suspensionis et excommunicationis quas in hiis scriptis in contrafacientes ferimus ne aliquis se ingerat ad aliquam curam, vel prelationem, vel beneficium vel dignitatem, vel custodiam, vel conectionem, nec eis utatur, nec ea teneat sine voluntate illius qui debet dare de jure, et qui tenent, resignent usque ad mensem, alias ex nunc prout ex tunc sciant et se sententiam excommunicationis incurrisse.</p>
-            </div>
-            <div>
-                <head>009</head>
-                <p>(9) De nunciis, vel questuariis.</p>
-                <p>Item precipimus omnibus presbiteris parochialibus, vel eorum vices gerentibus, ne aliquos questuarios ipsorum negotia permittant exponere, vel predicare, vel ostiatim indulgentias deferre, nec eis pulsatis campanis vel processionaliter concurrant, vel ferias indicant, vel permittant fieri in eorum adventu.</p>
-                <p>Sed ipsi presbiteri exponant fideliter et proponant fideliter secundum tenorem litterarum eorum, negotia, vel eorum vices gerentes, etiamsi littere de contrario faciant vel facient notionem.</p>
-                <p>Et qui contrafecerint, sciant quod curie Attrebatensi emendabunt condigne, dumtaxat exceptis nunciis vel questuariis Beate Marie Attrebatensis nostre matris ecclesie, et Sancti Nicasii Attrebatensis.</p>
-            </div>
-            <div>
-                <head>010</head>
-                <p>(10) De mandatis judicum delegatorum.</p>
-                <p>Item ut falsitas litterarum et malivolorum astutie possint vitari, prohibemus sacerdotibus et aliis ecclesiarum prelatis, et omnibus clericis et aliis quibuscumque sub pena excommunicationis quam in eos ex nunc ferimus si contra fecerint, ne exequantur mandata judicum delegatorum, nisi prius viso scripto auctentico domini pape bullato, vel de mandato curie Attrebatensis.</p>
-            </div>
-            <div>
-                <head>011</head>
-                <p>(11) De mandatis curie Remensis.</p>
-                <p>Item precipimus sub pena eadem omnibus presbiteris ne aliqua mandata curie Remensis recipiant vel exequantur, sine assensu episcopi vel ejus vicariorum, vel saltern ea predictis ostendantur antequam exequantur.</p>
-            </div>
-            <div>
-                <head>012</head>
-                <p>(12) De resignationibus.</p>
-                <p>Item prohibemus ne fiant resignationes beneficiorum sive ecclesiarum nisi in manu episcopi vel vicariorum; alias qui recipiunt et qui resignant sciant de beneficio non gaudere, et si que fiant, eas decernimus esse nullas.</p>
-            </div>
-            <div>
-                <head>013</head>
-                <p>(13) De absolutione excommunicatorum.</p>
-                <p>Item sacerdotes excommunicatos non habeant pro absolutis, nisi eis bene et legitime de absolutione eorum constiterit per litteras de jure patentes absolutionis.</p>
-            </div>
-            <div>
-                <head>014</head>
-                <p>(14) De sortilegiis et maleficiis.</p>
-                <p>Item prohibemus sub pena excommunicationis quam in hiis scriptis in contrafacientes ferimus ne aliquis vel aliqua de sortilegiis, divinationibus vel maleficiis se intromittat vel ad hoc operam det, et tales episcopo vel ejus vicariis a decanis et presbiteris mandamus in virtute sancte obedientie denunciandos.</p>
-            </div>
-            <div>
-                <head>015</head>
-                <p>(15) De testamentis.</p>
-                <p>Preterea cum plures tam religiose quam alie persone nostre dyocesis in locis diversis diversas pecuniarum summas seu diversos redditus aut bona ex testamentis fidelium ad opus capellaniarum seu beneficiorum perpetuorum legata, data et collata, sibi retinere presumant et presumpserint, et emolumentum exinde veniens super hoc dampnabiliter suis usibus applicando, videlicet quod a capellanis conductoriis aut aliis missas fecerint a suis subditis vel aliis sacerdotibus quibuscumque pro modica pecunie quantitate vel precarie celebrari, contra voluntatem, ordinationem et placitum testatorum, statuimus sub interminatione excommunicationis quod qui talia faciunt vel detinent, vel sciunt facientes vel detinentes, indicent episcopo vel vicariis, alias sciant se sententiam excommunicationis ipso facto incurrisse.</p>
-            </div>
-            <div>
-                <head>016</head>
-                <p>(16) De executoribus testamentorum.</p>
-                <p>Item quia executores testamentorum, alii ex negligentia, alii malitiose bona defunctorum detinent et utuntur, et hec et similia debent diligentia episcopi commendari, precipimus omnibus et singulis cujuscumque conditionis et status sub pena excommunicationis quam in hiis scriptis in contra facientes ferimus ut quicumque aliquas executiones testamentorum habent et habebunt pre manibus plusquam per annum, eas exequantur usque ad mensem, vel ostendant episcopo vel vicariis legitimum impedimentum, et nichilominus qui contra venerint, tali executione sint privati.</p>
-            </div>
-            <div>
-                <head>017</head>
-                <p>(17) De executionibus testamentorum.</p>
-                <p>Item sub eadem districtione precipimus ne aliqui vel alique se intromittant de executionibus testamentorum, nisi sint testamentarii, sine licentia episcopi vel ejus vicariorum, vel talia sibi usurpent vel procurent, et qui prohibent testamenta fieri sine eorum presentia, vel nisi fiant testamentarii, vel eis aliquid distribuendum relinquatur, vel eorum ordinationi relictum, sint excommunicati.</p>
-            </div>
-            <div>
-                <head>018</head>
-                <p>(18) De illis qui injuste detinent aliqua bona episcopatus.</p>
-                <p>Excommunicamus in hiis scriptis omnes habentes aliquid de bonis episcopatus feodalibus vel aliis, qui injuste alienaverunt, vel sciunt habentes vel alienantes, vel sciunt frustata vel alienata, et non resignant vel revelant vicariis usque ad mensem a notitia predictorum.</p>
-            </div>
-            <div>
-                <head>019</head>
-                <p>(19) De impedientibus jurisdictionem curie Attrebatensis.</p>
-                <p>Item precipimus singulis sacerdotibus sub pena excommunicationis quod singulis dominicis diebus et festivis, candelis accensis, campanis pulsatis, publice ac solempniter excommunicent omnes illos et illas qui perturbant jurisdictionem curie Attrebatensis, et qui impediunt quod dicta curia jurisdictione sua non utatur sicut usa est in temporibus antiquis, et exponant presbiteri in ecclesiis suis coram populo quibus et quot modis intelligatur jurisdictionem dicte curie perturbari, videlicet interdicendo alicui et inhibendo, vel faciendo per alium inhiberi, ne in curia Attrebatensi causam suam prosequatur; item comminando eidem per se vel per alium; item capiendo vel capi faciendo per justitiam secularem ilIum qui in curia Attrebatensi trahit in causam adversarium suum vel nuncium, et ipsius litterarum portitorem, vel verberando eumdem, vel ipsi comminando, vel aliquid faciendo per quod processus negotii valeat retardari, in occulto vel in aperto, vel occasiones querendo aliquas, vel facta aliqua, antiqua vel nova, vel eidem imponendo quod ipsi non imponerent, si in curia Attrebatensi causam non moveret; et exponant publice quod ipsi qui agunt talia, auctoritate dicti domini episcopi sententiam excommunicationis incurrant.</p>
-            </div>
-            <div>
-                <head>020</head>
-                <p>(20) De mandato quod presbiteri habeant hec statuta.</p>
-                <p>Item licet presbiteri statuta synodalia teneantur habere de jure, nichilominus precipimus quod omnes presbiteri parochiales sub pena suspensionis infra mensem habeant hec statuta et de hiis et aliis publice legant aliquid et exponant hora misse post evangelium in ecclesiis suis.</p>
-            </div>
-            <div>
-                <head>021</head>
-                <p>(21) De hiis qui se dicunt gratiam aliquam a domino episcopo recepisse.</p>
-                <p>Item statuimus quod quicumque dicunt se habere aliquam gratiam vel commissionem a domino episcopo vel ejus vicariis verbo vel scripto, infra quindenam eas ostendant vicariis, alias ex nunc prout ex tunc tali gratia vel commissione sciant se esse privatos.</p>
-            </div>
-            <div>
-                <head>022</head>
-                <p>(22) De excessibus subditorum.</p>
-                <p>Item mandamus omnibus prelatis et presbiteris et maxime decanis in virtute sancte obedientie ut excessus suorum subditorum clericorum vel laicorum quos ipsi non possint corrigere, episcopo vel ejus vicariis denuncient fideliter et sine mora, ut circa hoc remedium apponatur opportunum.</p>
-            </div>
-            <div>
-                <head>explicit</head>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Incipiunt statuta facta a vicariis Attrebatensis episcopi Gerardi.</p>
+                    <p>Hec sunt statuta synod alia facta per discretos viros vicarios reverendi patris domini Gerardi Dei gratia Attrebatensis episcopi in sancta synodo, de mandato et ordinatione dicti patris anno Domini M CC nonagesimo sexto, feria tertia post festum beati Dyonisii, ceteris in suo robore remanentibus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) Primo statuimus ne aliquis se ingerat ad coronam vel litteras dimissorias habendas nisi secum ferat litteras sui sacerdotis parochialis, quod sit legitime natus, nec filius usurarii, nec aliquod aliud canonicum impedimentum obsistat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) De clericis.</p>
+                    <p>Item quod quicumque dicunt se recepisse coronas a domino episcopo qui nunc est, et non habent litteras dicti domini sigillo proprio sigillatas, vel sigillo curie Attrebatensis, usque ad mensem veniant ad vicarios, adducentes probationes convenientes quod coronas receperunt, et recipiant litteras sigillatas sub sigillo curie Attrebatensis, alias sciant se pro clericis non defendi.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) Item de clericis.</p>
+                    <p>Item statuimus quod nullus clericus portet pannos virgatos vel partitos diversorum colorum, nec arma sine licentia curie Attrebatensis sub pena decem solidorum parisiensium.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) De clericis et personis beneficiatis.</p>
+                    <p>Item prohibemus sub pena amissionis beneficii ne aliquis clericus habens beneficium teneat secum filium vel filios proprios quos genuit ex quo beneficium habuit.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) Item statuimus ne aliqua persona ecclesiastica, sacerdos aut clericus beneficiatus, de bonis ecclesiasticis, possessionem vel aliqua bona liberis suis naturalibus vel concubinis acquirat vel acquiri faciat per se vel per alium quoquomodo; qui vero contra fecerint, ipso facto sententiam excommunicationis incurrant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>(6) De abbatibus et abbatissis.</p>
+                    <p>Item precipimus ut abbates et abbatisse in prioratibus suis debitum ponant numerum monachorum vel monialium sicut ab antiquo fuit consuetum; qui vero contra fecerint, ipso facto sententiam excommunicationis incurrant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>(7) Item prohibemus sub pena suspensionis et excommunicationis quas ex nunc in contrafacientes prout ex tunc ferimus ne aliquis abbas, prior vel prelatus quicumque, capitulum, vel conventus, faciat aliquam venditionem ad vitam vel perpetuo vel alienationem de bonis ecclesie sue inrequisito episcopo vel ejus vicariis, et si que fient, eas decernimus nullas esse.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>(8) De prelationibus.</p>
+                    <p>Item precipimus sub pena suspensionis et excommunicationis quas in hiis scriptis in contrafacientes ferimus ne aliquis se ingerat ad aliquam curam, vel prelationem, vel beneficium vel dignitatem, vel custodiam, vel conectionem, nec eis utatur, nec ea teneat sine voluntate illius qui debet dare de jure, et qui tenent, resignent usque ad mensem, alias ex nunc prout ex tunc sciant et se sententiam excommunicationis incurrisse.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>(9) De nunciis, vel questuariis.</p>
+                    <p>Item precipimus omnibus presbiteris parochialibus, vel eorum vices gerentibus, ne aliquos questuarios ipsorum negotia permittant exponere, vel predicare, vel ostiatim indulgentias deferre, nec eis pulsatis campanis vel processionaliter concurrant, vel ferias indicant, vel permittant fieri in eorum adventu.</p>
+                    <p>Sed ipsi presbiteri exponant fideliter et proponant fideliter secundum tenorem litterarum eorum, negotia, vel eorum vices gerentes, etiamsi littere de contrario faciant vel facient notionem.</p>
+                    <p>Et qui contrafecerint, sciant quod curie Attrebatensi emendabunt condigne, dumtaxat exceptis nunciis vel questuariis Beate Marie Attrebatensis nostre matris ecclesie, et Sancti Nicasii Attrebatensis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>(10) De mandatis judicum delegatorum.</p>
+                    <p>Item ut falsitas litterarum et malivolorum astutie possint vitari, prohibemus sacerdotibus et aliis ecclesiarum prelatis, et omnibus clericis et aliis quibuscumque sub pena excommunicationis quam in eos ex nunc ferimus si contra fecerint, ne exequantur mandata judicum delegatorum, nisi prius viso scripto auctentico domini pape bullato, vel de mandato curie Attrebatensis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>(11) De mandatis curie Remensis.</p>
+                    <p>Item precipimus sub pena eadem omnibus presbiteris ne aliqua mandata curie Remensis recipiant vel exequantur, sine assensu episcopi vel ejus vicariorum, vel saltern ea predictis ostendantur antequam exequantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>(12) De resignationibus.</p>
+                    <p>Item prohibemus ne fiant resignationes beneficiorum sive ecclesiarum nisi in manu episcopi vel vicariorum; alias qui recipiunt et qui resignant sciant de beneficio non gaudere, et si que fiant, eas decernimus esse nullas.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>(13) De absolutione excommunicatorum.</p>
+                    <p>Item sacerdotes excommunicatos non habeant pro absolutis, nisi eis bene et legitime de absolutione eorum constiterit per litteras de jure patentes absolutionis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>(14) De sortilegiis et maleficiis.</p>
+                    <p>Item prohibemus sub pena excommunicationis quam in hiis scriptis in contrafacientes ferimus ne aliquis vel aliqua de sortilegiis, divinationibus vel maleficiis se intromittat vel ad hoc operam det, et tales episcopo vel ejus vicariis a decanis et presbiteris mandamus in virtute sancte obedientie denunciandos.</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>(15) De testamentis.</p>
+                    <p>Preterea cum plures tam religiose quam alie persone nostre dyocesis in locis diversis diversas pecuniarum summas seu diversos redditus aut bona ex testamentis fidelium ad opus capellaniarum seu beneficiorum perpetuorum legata, data et collata, sibi retinere presumant et presumpserint, et emolumentum exinde veniens super hoc dampnabiliter suis usibus applicando, videlicet quod a capellanis conductoriis aut aliis missas fecerint a suis subditis vel aliis sacerdotibus quibuscumque pro modica pecunie quantitate vel precarie celebrari, contra voluntatem, ordinationem et placitum testatorum, statuimus sub interminatione excommunicationis quod qui talia faciunt vel detinent, vel sciunt facientes vel detinentes, indicent episcopo vel vicariis, alias sciant se sententiam excommunicationis ipso facto incurrisse.</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>(16) De executoribus testamentorum.</p>
+                    <p>Item quia executores testamentorum, alii ex negligentia, alii malitiose bona defunctorum detinent et utuntur, et hec et similia debent diligentia episcopi commendari, precipimus omnibus et singulis cujuscumque conditionis et status sub pena excommunicationis quam in hiis scriptis in contra facientes ferimus ut quicumque aliquas executiones testamentorum habent et habebunt pre manibus plusquam per annum, eas exequantur usque ad mensem, vel ostendant episcopo vel vicariis legitimum impedimentum, et nichilominus qui contra venerint, tali executione sint privati.</p>
+                </div>
+                <div>
+                    <head>Capitulum 17</head>
+                    <p>(17) De executionibus testamentorum.</p>
+                    <p>Item sub eadem districtione precipimus ne aliqui vel alique se intromittant de executionibus testamentorum, nisi sint testamentarii, sine licentia episcopi vel ejus vicariorum, vel talia sibi usurpent vel procurent, et qui prohibent testamenta fieri sine eorum presentia, vel nisi fiant testamentarii, vel eis aliquid distribuendum relinquatur, vel eorum ordinationi relictum, sint excommunicati.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18</head>
+                    <p>(18) De illis qui injuste detinent aliqua bona episcopatus.</p>
+                    <p>Excommunicamus in hiis scriptis omnes habentes aliquid de bonis episcopatus feodalibus vel aliis, qui injuste alienaverunt, vel sciunt habentes vel alienantes, vel sciunt frustata vel alienata, et non resignant vel revelant vicariis usque ad mensem a notitia predictorum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 19</head>
+                    <p>(19) De impedientibus jurisdictionem curie Attrebatensis.</p>
+                    <p>Item precipimus singulis sacerdotibus sub pena excommunicationis quod singulis dominicis diebus et festivis, candelis accensis, campanis pulsatis, publice ac solempniter excommunicent omnes illos et illas qui perturbant jurisdictionem curie Attrebatensis, et qui impediunt quod dicta curia jurisdictione sua non utatur sicut usa est in temporibus antiquis, et exponant presbiteri in ecclesiis suis coram populo quibus et quot modis intelligatur jurisdictionem dicte curie perturbari, videlicet interdicendo alicui et inhibendo, vel faciendo per alium inhiberi, ne in curia Attrebatensi causam suam prosequatur; item comminando eidem per se vel per alium; item capiendo vel capi faciendo per justitiam secularem ilIum qui in curia Attrebatensi trahit in causam adversarium suum vel nuncium, et ipsius litterarum portitorem, vel verberando eumdem, vel ipsi comminando, vel aliquid faciendo per quod processus negotii valeat retardari, in occulto vel in aperto, vel occasiones querendo aliquas, vel facta aliqua, antiqua vel nova, vel eidem imponendo quod ipsi non imponerent, si in curia Attrebatensi causam non moveret; et exponant publice quod ipsi qui agunt talia, auctoritate dicti domini episcopi sententiam excommunicationis incurrant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 20</head>
+                    <p>(20) De mandato quod presbiteri habeant hec statuta.</p>
+                    <p>Item licet presbiteri statuta synodalia teneantur habere de jure, nichilominus precipimus quod omnes presbiteri parochiales sub pena suspensionis infra mensem habeant hec statuta et de hiis et aliis publice legant aliquid et exponant hora misse post evangelium in ecclesiis suis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 21</head>
+                    <p>(21) De hiis qui se dicunt gratiam aliquam a domino episcopo recepisse.</p>
+                    <p>Item statuimus quod quicumque dicunt se habere aliquam gratiam vel commissionem a domino episcopo vel ejus vicariis verbo vel scripto, infra quindenam eas ostendant vicariis, alias ex nunc prout ex tunc tali gratia vel commissione sciant se esse privatos.</p>
+                </div>
+                <div>
+                    <head>Capitulum 22</head>
+                    <p>(22) De excessibus subditorum.</p>
+                    <p>Item mandamus omnibus prelatis et presbiteris et maxime decanis in virtute sancte obedientie ut excessus suorum subditorum clericorum vel laicorum quos ipsi non possint corrigere, episcopo vel ejus vicariis denuncient fideliter et sine mora, ut circa hoc remedium apponatur opportunum.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1]</p>
+                    <p>[2]</p>
+                </div>
             </div>
         </body>
     </text>

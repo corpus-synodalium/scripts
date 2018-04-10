@@ -7,7 +7,7 @@ from collections import defaultdict
 
 """
 parse_text_sections.py (v1) Apr 03, 2018
-----------------------------------------
+-----------------------------------------
 Parse sections from txt files.
 """
 

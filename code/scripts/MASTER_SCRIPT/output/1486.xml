@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 1486</recordID>
+                <title>Canterbury (#1486)</title>
+                <recordID>1486</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate>1225</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Canterbury</origPlace>
                 <diocese>Canterbury</diocese>
                 <province>Canterbury</province>
-                <country/>
+                <country>England</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Provincial</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,12 +55,60 @@
     <text>
         <body>
             <div>
-                <head>text</head>
-                <p>Concubine sacerdotum et clericorum qui beneficiati fuerint vel qui fuerint infra sacros ordines constituti ecclesiastica careant sepultura, nisi sane se correxerint et incolumes, vel tanta in extremis appareat earum penitentia propter quam non inmerito debeat cum eis dispensari.</p>
-                <p>Item, nec recipiantur ad osculum pacis nec ad panem benedictum in ecclesia quamdiu tales eas detineant in domibus suis vel publice extra domos suas.</p>
-                <p>Item, si pepererint non purificentur, nisi prestiterint sufficientem cautionem archidiacono vel eius officiali de satisfactione in proximo capitulo post earum purificationem facienda.</p>
-                <p>Item, sacerdos in cuius parochia concubina alicuius talium moratur,m si hoc non ostenderit archidiacono vel eius officiali, suspendatur et priusquam relaxetur gravi penitentie subiaceat.</p>
-                <p>Item, mulier que convinci poterit quod sacerdos eam carnaliter cognoverit, publicam et solempnem agat penitentiam acsi de adulterio esset convicta, etsi soluta fuerit; si vero desponsata super huiusmodi fuerit convicta, tamquam pro dupplici adulterio puniatur, ne tanti reatus inpunitas aliis transeat in materiam delinquendi.</p>
+                <head>Metadata</head>
+                <p>RecordID: 1486</p>
+                <p>Year: 1225</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Canterbury</p>
+                <p>Diocese: Canterbury</p>
+                <p>Province: Canterbury</p>
+                <p>CountryModern: England</p>
+                <p>Latitude: 51.275</p>
+                <p>Longitude: 1.087</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Provincial</p>
+                <p>IssuingAuthority: Stephen Langton</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Powicke &amp; Cheney I, 154-55</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: Data Capture</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: Decree against concubinary priests and beneficed clerks and their mistresses; may not have been issued in a synod but simply sent in letter from AB to suffragans</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>All Text</head>
+                    <p>Concubine sacerdotum et clericorum qui beneficiati fuerint vel qui fuerint infra sacros ordines constituti ecclesiastica careant sepultura, nisi sane se correxerint et incolumes, vel tanta in extremis appareat earum penitentia propter quam non inmerito debeat cum eis dispensari.</p>
+                    <p>Item, nec recipiantur ad osculum pacis nec ad panem benedictum in ecclesia quamdiu tales eas detineant in domibus suis vel publice extra domos suas.</p>
+                    <p>Item, si pepererint non purificentur, nisi prestiterint sufficientem cautionem archidiacono vel eius officiali de satisfactione in proximo capitulo post earum purificationem facienda.</p>
+                    <p>Item, sacerdos in cuius parochia concubina alicuius talium moratur,m si hoc non ostenderit archidiacono vel eius officiali, suspendatur et priusquam relaxetur gravi penitentie subiaceat.</p>
+                    <p>Item, mulier que convinci poterit quod sacerdos eam carnaliter cognoverit, publicam et solempnem agat penitentiam acsi de adulterio esset convicta, etsi soluta fuerit; si vero desponsata super huiusmodi fuerit convicta, tamquam pro dupplici adulterio puniatur, ne tanti reatus inpunitas aliis transeat in materiam delinquendi.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1]</p>
+                    <p>[2]</p>
+                    <p>[]</p>
+                </div>
             </div>
         </body>
     </text>

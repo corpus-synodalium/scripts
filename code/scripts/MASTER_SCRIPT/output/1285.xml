@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 1285</recordID>
+                <title>Paris (#1285)</title>
+                <recordID>1285</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate precision="circa">1205</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Paris</origPlace>
                 <diocese>Paris</diocese>
                 <province>Sens</province>
-                <country/>
+                <country>France</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Diocesan</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,48 +55,88 @@
     <text>
         <body>
             <div>
-                <head>incipit</head>
+                <head>Metadata</head>
+                <p>RecordID: 1285</p>
+                <p>Year: 1205</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: Yes</p>
+                <p>DatingNotes: 1200x1208</p>
+                <p>Place: Paris</p>
+                <p>Diocese: Paris</p>
+                <p>Province: Sens</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 48.24754</p>
+                <p>Longitude: 3.287659</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Pontal, Statuts synodaux I, 94-95</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'WebDownload']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: Additions to Statutes of Eudes de Sully (very complicated transmission history; these appear in three MSS)</p>
+                <p>BiblioRefs: None</p>
             </div>
             <div>
-                <head>070</head>
-                <p>(70) Prohibeant sacerdotes publice laicis sub anathemate cum Judeis commercia facere, mutuo ab eis pecuniam ad usuram vel aliquid accipere, eis vendere vel mutuo dare, vel ab ipsis emere; quorum enim dispar est cultus, nullus debet esse animorum consensus.</p>
-            </div>
-            <div>
-                <head>071</head>
-                <p>(71) Insuper laicis prohibeatur sub pena excommunicationis, ne presumant disputare cum Judeis de fidei christiane articulis.</p>
-            </div>
-            <div>
-                <head>072</head>
-                <p>(72) Item, omnes illos christianos, qui cum Judeis cohabitant et annua stipendia ab eis accipientes ipsis in domibus eorum serviunt, excommunicatos haberi et a sacra communione arceri precipimus.</p>
-            </div>
-            <div>
-                <head>073</head>
-                <p>(73) Item confessor non debet ad singula peccata terrere confitentem, sed integre elicere aspidem de caverna, persuadendo per exempla David, S. Petri, Magdalene et Latronis et hujusmodi, tandem terreat et injuncta penitentia spem spondeat, si tamen vitaverit residuum, ad quod juxta Augustinum necesse est fugere occasiones et opportunitates peccatorum.</p>
-            </div>
-            <div>
-                <head>074</head>
-                <p>(74) Non respiciat confessor vultum confitentis, maxime mulieris, nisi forte in transitu, sed cito et verecunde, ut percipiat signa contritionis, nec requirat nomina personarum, cum quibus confitens peccavit, nisi forte in casu ut possit suum parochianum obstinatum vel suam parrochianam per se vel per alios sui criminis concisos ab obstinatione peccati deterrere, ita tamen quod personam sibi confessam in nullo reddat notabilem.</p>
-                <p>Ita etiam querat si confitens voluerit sponte alium nominare: de alieno parrochiano forsan debet aliquas circunstantias ejus ordinario intimare.</p>
-            </div>
-            <div>
-                <head>075</head>
-                <p>(75) Non dicantur duo introitus sub uno canone, quia in nullo officio ecclesiastico fit talis monstruosa mixtura sed celebrata integra missa una, potest sacerdos extracta clausula addere plures [1], prout tempus exigit vel ipsius devotio vel audientium.</p>
-            </div>
-            <div>
-                <head>076</head>
-                <p>(76) Item nullus bis in die missam audeat celebrare, nisi grandi necessitate ut in Natali Domini, ubi non est sacerdos alius; nam si tres sunt, singuli debent singulas celebrare.</p>
-                <p>Tamen dominus papa et episcopi non sic.</p>
-            </div>
-            <div>
-                <head>077</head>
-                <p>(77) Item quando, celebrata missa, supervenit ex inopinato cadaver si desit coadjutor, debet idem pro defunctis celebrare; quia non est corpus humanum sepulture sine missa tradendum, si sit congrua celebrandi hora et nisi post communionem receperit sacerdos ablutionem seu explanationem.</p>
-                <p>Nam post receptionem ablutionis, nullus debet celebrare, quia ibi est purum vinum vel aqua, sed non in piscina projici, sed ab alio jejuno sumi debet prima ablutio, quia ibi remanet aliquid de sanguine, si sit sacerdos celebraturus.</p>
-                <p>Nam si festum habens propriam missam supervenerit in die inofficiata, id est habente proprium officium debet, unam missam integre decantare, illam scilicet que celebrior videbitur considerata loci et temporis ratione, postmodum subjungere officium alterius misse.</p>
-                <p>Tertius casus vel deinceps bis in die celebrandi est nobis interim non occurit, nisi forte aliquis habeat ecclesiam simul et capellam, quod non est diu de facili tolerandum, nisi habeat coadjutorem.</p>
-                <p>Item in defectu viatici potest bis celebrare aliquis.</p>
-            </div>
-            <div>
-                <head>explicit</head>
+                <head>Text</head>
+                <div>
+                    <head>Capitulum 70</head>
+                    <p>(70) Prohibeant sacerdotes publice laicis sub anathemate cum Judeis commercia facere, mutuo ab eis pecuniam ad usuram vel aliquid accipere, eis vendere vel mutuo dare, vel ab ipsis emere; quorum enim dispar est cultus, nullus debet esse animorum consensus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 71</head>
+                    <p>(71) Insuper laicis prohibeatur sub pena excommunicationis, ne presumant disputare cum Judeis de fidei christiane articulis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 72</head>
+                    <p>(72) Item, omnes illos christianos, qui cum Judeis cohabitant et annua stipendia ab eis accipientes ipsis in domibus eorum serviunt, excommunicatos haberi et a sacra communione arceri precipimus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 73</head>
+                    <p>(73) Item confessor non debet ad singula peccata terrere confitentem, sed integre elicere aspidem de caverna, persuadendo per exempla David, S. Petri, Magdalene et Latronis et hujusmodi, tandem terreat et injuncta penitentia spem spondeat, si tamen vitaverit residuum, ad quod juxta Augustinum necesse est fugere occasiones et opportunitates peccatorum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 74</head>
+                    <p>(74) Non respiciat confessor vultum confitentis, maxime mulieris, nisi forte in transitu, sed cito et verecunde, ut percipiat signa contritionis, nec requirat nomina personarum, cum quibus confitens peccavit, nisi forte in casu ut possit suum parochianum obstinatum vel suam parrochianam per se vel per alios sui criminis concisos ab obstinatione peccati deterrere, ita tamen quod personam sibi confessam in nullo reddat notabilem.</p>
+                    <p>Ita etiam querat si confitens voluerit sponte alium nominare: de alieno parrochiano forsan debet aliquas circunstantias ejus ordinario intimare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 75</head>
+                    <p>(75) Non dicantur duo introitus sub uno canone, quia in nullo officio ecclesiastico fit talis monstruosa mixtura sed celebrata integra missa una, potest sacerdos extracta clausula addere plures [1], prout tempus exigit vel ipsius devotio vel audientium.</p>
+                </div>
+                <div>
+                    <head>Capitulum 76</head>
+                    <p>(76) Item nullus bis in die missam audeat celebrare, nisi grandi necessitate ut in Natali Domini, ubi non est sacerdos alius; nam si tres sunt, singuli debent singulas celebrare.</p>
+                    <p>Tamen dominus papa et episcopi non sic.</p>
+                </div>
+                <div>
+                    <head>Capitulum 77</head>
+                    <p>(77) Item quando, celebrata missa, supervenit ex inopinato cadaver si desit coadjutor, debet idem pro defunctis celebrare; quia non est corpus humanum sepulture sine missa tradendum, si sit congrua celebrandi hora et nisi post communionem receperit sacerdos ablutionem seu explanationem.</p>
+                    <p>Nam post receptionem ablutionis, nullus debet celebrare, quia ibi est purum vinum vel aqua, sed non in piscina projici, sed ab alio jejuno sumi debet prima ablutio, quia ibi remanet aliquid de sanguine, si sit sacerdos celebraturus.</p>
+                    <p>Nam si festum habens propriam missam supervenerit in die inofficiata, id est habente proprium officium debet, unam missam integre decantare, illam scilicet que celebrior videbitur considerata loci et temporis ratione, postmodum subjungere officium alterius misse.</p>
+                    <p>Tertius casus vel deinceps bis in die celebrandi est nobis interim non occurit, nisi forte aliquis habeat ecclesiam simul et capellam, quod non est diu de facili tolerandum, nisi habeat coadjutorem.</p>
+                    <p>Item in defectu viatici potest bis celebrare aliquis.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] 'addere plures' in quotation brackets.</p>
+                </div>
             </div>
         </body>
     </text>

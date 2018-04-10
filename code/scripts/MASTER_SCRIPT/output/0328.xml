@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 0328</recordID>
+                <title>Pistoia (#0328)</title>
+                <recordID>0328</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate>1308</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Pistoia</origPlace>
                 <diocese>Pistoia</diocese>
                 <province>Lucca</province>
-                <country/>
+                <country>Italy</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Diocesan</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,33 +55,75 @@
     <text>
         <body>
             <div>
-                <head>incipit</head>
-                <p>CONSTITUTIONES SYNODI DIOECESANAE PISTORIENSIS</p>
-                <p>Sub Episcopo Ermanno editae.</p>
-                <p>Anno MCCCVIII.</p>
-                <p>In Dei nomine.</p>
-                <p>Amen.</p>
-                <p>Infrascriptae sunt Constitutiones factae, et editae per Ven. Patrem D. Ermanum Dei gratia Pistoriensem episcopum, et lectae, et publicatae in Synodo Cleri civitatis, et dioecesis Pistoriensis celebrata in Ecclesia majori civitatis Pistorii sub anno Dominicae Nativitatis MCCCVIII. indictione VII. die VIII. Decembris, et postea confirmate per Venerabilem in Xpo Patrem Dominum Barontum Dei gratia episcopum Pistoriensem successorem dicti Ven. Patris D. Ermanni.</p>
+                <head>Metadata</head>
+                <p>RecordID: 328</p>
+                <p>Year: 1308</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: reissued in 1327, 1386, and 1459, according to text </p>
+                <p>Place: Pistoia</p>
+                <p>Diocese: Pistoia</p>
+                <p>Province: Lucca</p>
+                <p>CountryModern: Italy</p>
+                <p>Latitude: 43.93333</p>
+                <p>Longitude: 10.91667</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Ermanno</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Mansi 25 col 169-174</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: notes concerning repromulgation/ratification omitted from transcription</p>
+                <p>BaseText: ['GoogleBooks', 'Data Capture']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
             </div>
             <div>
-                <head>001</head>
-                <p>(1) Rubrica.</p>
-                <p>Quod Clerici, et Conversi portent habitum, et tonsuram.</p>
-                <p>LIcet clericos, religiosos, et conversos congruis attollere favoribus, eorum immunitates, jura, et privilegia illibata conservare pro viribus intendamus; tamen ipsos suis juribus, et honoribus ita volumus esse contentos, quod immunitatum, et jurium suorum limites observantes, jura non impediant, vel occupent aliorum.</p>
-                <p>Et qui eorum verbis, et exemplis laicos debent ad viam vitae et rectitudinis revocare, ipsos in mortis devia non impellant, et ne ex ipsis fomites eorum erroris, et discordiarum materiam dicantur laici invenire.</p>
-                <p>Sane sicut nos tam facti experientia, quam frequens clamor instruxit; quidam clerici, religiosi, ac ecclesiarum, et venerabilium locorum civitatis, et dioecesis Pistorien. conversi, nec in vestimentorum forma, nec in modo tonsurae, nec in qualitate negotiorum, de ecclesiae religione, seu conversione ostendunt, ad poenae subterfugium se pro clericis, religiosis, seu conversis solummodo exhibentes; et cum super excessibus, quos saeculari lapsu committunt, et negotiationibus saecularibus, quas exercent, ad publica judicia protrahuntur, circumcisis crinibus, et habitu clericali, seu religioso assumpto, ut possint circumvenire vindictam, se pro religiosis, vel conversis, seu clericis repraesentant, fori privilegium labiis allegantes, quod factis negaverant paulo ante.</p>
-                <p>Verum quia privilegium meretur amittere qui permissa sibi abutitur potestate, et frustra legis invocat auxilium, qui contravenit in legem; nos volentes tam praedictorum animarum periculis, quam scandalis, et malis exemplis quae exinde occurrunt, et possint occurrere, auxiliante domino, praecavere, omnes clericos, et religiosos, et conversos ecclesiarum saecularium, vel venerabilium, seu religiosorum locorum Pistorien. civitatis, et dioecesis semel secundo, et peremptorie monemus, ut se ipsos debeant emendare, et saecularibus negotiationibus, et officiis dimissis, omnino vestem, et tonsuram portare debeant congruentes; ita quod in modo tonsurae, et vestimentorum qualitate eorum religioni conveniant, et a laicis discernantur.</p>
-            </div>
-            <div>
-                <head>002</head>
-                <p>(2) Rubrica.</p>
-                <p>De electione</p>
-                <p>Et quod non recipiantur in canonicos, vel conversos sine licentia episcopi.</p>
-                <p>CUm propter indiscretam electionem, et receptionem canonicorum, clericorum, et conversorum, quae passim, et indistincte consueverunt fieri per praelatos, et rectores ecclesiarum, Monasteriorum, et hospitalium civitatis, et dioecesis Pistoriensis scandala non modica, et damna gravia provenerint hactenus, et proveniant ecclesiis, monasteriis, et hospitalibus civitatis, et dioecesis nostrae, pro eo, quod multotiens indigni, et pravae vitae homines, et qui, non ut serviant Deo, sed ut evitent saecularia onera, et impune perpetrent maleficia, se procurant recipi in monasteriorum, ecclesiarum, et hospitalium canonicos, clericos, et conversos; statuimus, ut nullus praelatus, vel rector ecclesiarum, seu hospitalium civitatis, et dioecesis Pistoriensis deinceps ultra numerum statutum, seu consuetum tum in ecclesia, cui praeest, si ecclesia est, quae numerum habeat canonicorum, seu clericorum; et in ecclesiis, in quibus non est numerus, et in hospitalibus aliquem eligant, vel recipiant in canonicum, clericum, vel conversum, sine nostra licentia speciali.</p>
-                <p>Quod si secus per aliquem fuerit attemptatum, electio, et receptio hujusmodi nullae sint ipso jure, et praelatus, vel rector, qui sic electos, vel receptos habuerit pro canonicis, clericis, vel conversis, ipso jure sententiam excommunicationis incurrat; et nihilominus taliter electi, vel recepti, si se gesserint pro canonicis, clericis, vel conversis ecclesiarum, vel hospitalium, in quibus sic electi, vel recepti fuerint, ipso jure excommunicati existant.</p>
-            </div>
-            <div>
-                <head>explicit</head>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>CONSTITUTIONES SYNODI DIOECESANAE PISTORIENSIS</p>
+                    <p>Sub Episcopo Ermanno editae.</p>
+                    <p>Anno MCCCVIII.</p>
+                    <p>In Dei nomine.</p>
+                    <p>Amen.</p>
+                    <p>Infrascriptae sunt Constitutiones factae, et editae per Ven. Patrem D. Ermanum Dei gratia Pistoriensem episcopum, et lectae, et publicatae in Synodo Cleri civitatis, et dioecesis Pistoriensis celebrata in Ecclesia majori civitatis Pistorii sub anno Dominicae Nativitatis MCCCVIII. indictione VII. die VIII. Decembris, et postea confirmate per Venerabilem in Xpo Patrem Dominum Barontum Dei gratia episcopum Pistoriensem successorem dicti Ven. Patris D. Ermanni.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) Rubrica.</p>
+                    <p>Quod Clerici, et Conversi portent habitum, et tonsuram.</p>
+                    <p>LIcet clericos, religiosos, et conversos congruis attollere favoribus, eorum immunitates, jura, et privilegia illibata conservare pro viribus intendamus; tamen ipsos suis juribus, et honoribus ita volumus esse contentos, quod immunitatum, et jurium suorum limites observantes, jura non impediant, vel occupent aliorum.</p>
+                    <p>Et qui eorum verbis, et exemplis laicos debent ad viam vitae et rectitudinis revocare, ipsos in mortis devia non impellant, et ne ex ipsis fomites eorum erroris, et discordiarum materiam dicantur laici invenire.</p>
+                    <p>Sane sicut nos tam facti experientia, quam frequens clamor instruxit; quidam clerici, religiosi, ac ecclesiarum, et venerabilium locorum civitatis, et dioecesis Pistorien. conversi, nec in vestimentorum forma, nec in modo tonsurae, nec in qualitate negotiorum, de ecclesiae religione, seu conversione ostendunt, ad poenae subterfugium se pro clericis, religiosis, seu conversis solummodo exhibentes; et cum super excessibus, quos saeculari lapsu committunt, et negotiationibus saecularibus, quas exercent, ad publica judicia protrahuntur, circumcisis crinibus, et habitu clericali, seu religioso assumpto, ut possint circumvenire vindictam, se pro religiosis, vel conversis, seu clericis repraesentant, fori privilegium labiis allegantes, quod factis negaverant paulo ante.</p>
+                    <p>Verum quia privilegium meretur amittere qui permissa sibi abutitur potestate, et frustra legis invocat auxilium, qui contravenit in legem; nos volentes tam praedictorum animarum periculis, quam scandalis, et malis exemplis quae exinde occurrunt, et possint occurrere, auxiliante domino, praecavere, omnes clericos, et religiosos, et conversos ecclesiarum saecularium, vel venerabilium, seu religiosorum locorum Pistorien. civitatis, et dioecesis semel secundo, et peremptorie monemus, ut se ipsos debeant emendare, et saecularibus negotiationibus, et officiis dimissis, omnino vestem, et tonsuram portare debeant congruentes; ita quod in modo tonsurae, et vestimentorum qualitate eorum religioni conveniant, et a laicis discernantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Rubrica.</p>
+                    <p>De electione</p>
+                    <p>Et quod non recipiantur in canonicos, vel conversos sine licentia episcopi.</p>
+                    <p>CUm propter indiscretam electionem, et receptionem canonicorum, clericorum, et conversorum, quae passim, et indistincte consueverunt fieri per praelatos, et rectores ecclesiarum, Monasteriorum, et hospitalium civitatis, et dioecesis Pistoriensis scandala non modica, et damna gravia provenerint hactenus, et proveniant ecclesiis, monasteriis, et hospitalibus civitatis, et dioecesis nostrae, pro eo, quod multotiens indigni, et pravae vitae homines, et qui, non ut serviant Deo, sed ut evitent saecularia onera, et impune perpetrent maleficia, se procurant recipi in monasteriorum, ecclesiarum, et hospitalium canonicos, clericos, et conversos; statuimus, ut nullus praelatus, vel rector ecclesiarum, seu hospitalium civitatis, et dioecesis Pistoriensis deinceps ultra numerum statutum, seu consuetum tum in ecclesia, cui praeest, si ecclesia est, quae numerum habeat canonicorum, seu clericorum; et in ecclesiis, in quibus non est numerus, et in hospitalibus aliquem eligant, vel recipiant in canonicum, clericum, vel conversum, sine nostra licentia speciali.</p>
+                    <p>Quod si secus per aliquem fuerit attemptatum, electio, et receptio hujusmodi nullae sint ipso jure, et praelatus, vel rector, qui sic electos, vel receptos habuerit pro canonicis, clericis, vel conversis, ipso jure sententiam excommunicationis incurrat; et nihilominus taliter electi, vel recepti, si se gesserint pro canonicis, clericis, vel conversis ecclesiarum, vel hospitalium, in quibus sic electi, vel recepti fuerint, ipso jure excommunicati existant.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
             </div>
         </body>
     </text>

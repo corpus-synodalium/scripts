@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 1160</recordID>
+                <title>Rouen (#1160)</title>
+                <recordID>1160</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate>1311</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Rouen</origPlace>
                 <diocese>Rouen</diocese>
                 <province>Rouen</province>
-                <country/>
+                <country>France</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Diocesan</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,34 +55,75 @@
     <text>
         <body>
             <div>
-                <head>incipit</head>
+                <head>Metadata</head>
+                <p>RecordID: 1160</p>
+                <p>Year: 1311</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: Autumn</p>
+                <p>Place: Rouen</p>
+                <p>Diocese: Rouen</p>
+                <p>Province: Rouen</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 49.443889</p>
+                <p>Longitude: 1.103333</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Gilles Ascelin</p>
+                <p>IssuingAuthorityAlt: Gilles Aycelin de Montaigu</p>
+                <p>RegnalStart: 1311</p>
+                <p>RegnalEnd: 1318</p>
+                <p>Delegated: Yes</p>
+                <p>ClassificationNotes: issued by vicar J. de Cropio</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: Rouen, BM, 1181 (Y 223A), fol 32v-33v</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Bessin, Concilia, II, 84</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: https://books.google.com/books?id=0SGIk69vxS0C</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'WebDownload']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: Title; Precepta sinodalia facta sacerdotibus per magistrum J. de Cropeio vicarium reverendi.</p>
+                <p>BiblioRefs: None</p>
             </div>
             <div>
-                <head>001</head>
-                <p>(1) Praecipimus propter reverentiam sacrarum vestium, quod quilibet Sacerdos Missam celebrans, habeat rocherum supra vestes, et qui non habet in praesenti, infra Natale Domini procuret.</p>
-                <p>Item quod quilibet curatus semel in mense ad minus si est sacerdos, celebrat unam, si sit in statu celebrandi: qui vero non fuerit in statu, infra mensem alium, vel citius quam poterit, se disponat.</p>
-                <p>Transgressores autem huius praecepti, volumus pro transgressione qualibet in viginti solidos faciat puniri, per manus Domini Archiepiscopi in pios usus convertendos.</p>
-                <p>Cuius transgressionis absolutionem praedicto Domino Archiepiscopo reservamus.</p>
-            </div>
-            <div>
-                <head>002</head>
-                <p>(2) Item statuimus quod quando contingit aliquem rectorem ecclesiae decedere, rector proximioris ecclesiae statim illud Decano, et Decanus sine mora Domino Archiepiscopo vel eius Vicario significent per suas litteras diem mortis eius, et utrum testatus fuerit, seu etiam intestatus.</p>
-            </div>
-            <div>
-                <head>003</head>
-                <p>(3) Item prohibemus sub poena excommunicationis et suspensionis ne aliquis bona occupet, nisi causa conservandi, et ad notitiam Domini vel illius ad cuius officium pertinet dispositio bonorum intestatorum.</p>
-                <p>Eamdem poenam statuentes contra illos qui ab aliis talia bona sciverint occupata, nisi infra octo dies ad notitiam Domini, vel illius cuius ad officium pertinet, duxerint deducendum.</p>
-            </div>
-            <div>
-                <head>004</head>
-                <p>(4) Omnes illos qui tenentur venire ad Synodum, et cessante legitimo impedimento non venerint; vel venerint, et citius quam debuerint recesserunt; vel prout venire debuerunt, in sacra Synodo non se [2] habuerunt: suspendimus in his scriptis.</p>
-            </div>
-            <div>
-                <head>005</head>
-                <p>(5) Si quis autem se sentiat ab Archidiacono vel Decano suis qualitercumque praegravari, denuntient illud nobis et scita necessitate, statim remedium apponemus.</p>
-            </div>
-            <div>
-                <head>explicit</head>
+                <head>Text</head>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) Praecipimus propter reverentiam sacrarum vestium, quod quilibet Sacerdos Missam celebrans, habeat rocherum supra vestes, et qui non habet in praesenti, infra Natale Domini procuret.</p>
+                    <p>Item quod quilibet curatus semel in mense ad minus si est sacerdos, celebrat unam, si sit in statu celebrandi: qui vero non fuerit in statu, infra mensem alium, vel citius quam poterit, se disponat.</p>
+                    <p>Transgressores autem huius praecepti, volumus pro transgressione qualibet in viginti solidos faciat puniri, per manus Domini Archiepiscopi in pios usus convertendos.</p>
+                    <p>Cuius transgressionis absolutionem praedicto Domino Archiepiscopo reservamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Item statuimus quod quando contingit aliquem rectorem ecclesiae decedere, rector proximioris ecclesiae statim illud Decano, et Decanus sine mora Domino Archiepiscopo vel eius Vicario significent per suas litteras diem mortis eius, et utrum testatus fuerit, seu etiam intestatus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) Item prohibemus sub poena excommunicationis et suspensionis ne aliquis bona occupet, nisi causa conservandi, et ad notitiam Domini vel illius ad cuius officium pertinet dispositio bonorum intestatorum.</p>
+                    <p>Eamdem poenam statuentes contra illos qui ab aliis talia bona sciverint occupata, nisi infra octo dies ad notitiam Domini, vel illius cuius ad officium pertinet, duxerint deducendum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) Omnes illos qui tenentur venire ad Synodum, et cessante legitimo impedimento non venerint; vel venerint, et citius quam debuerint recesserunt; vel prout venire debuerunt, in sacra Synodo non se [2] habuerunt: suspendimus in his scriptis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) Si quis autem se sentiat ab Archidiacono vel Decano suis qualitercumque praegravari, denuntient illud nobis et scita necessitate, statim remedium apponemus.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] &quot;veritate&quot; in Rouen, BM 1181 (Y 223A), fol 32v-33v</p>
+                    <p>[2] (se) in ed.</p>
+                </div>
             </div>
         </body>
     </text>

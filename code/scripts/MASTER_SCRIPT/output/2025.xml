@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 2025</recordID>
+                <title>Le-Mans (#2025)</title>
+                <recordID>2025</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate precision="circa">1270</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Le Mans</origPlace>
                 <diocese>Le Mans</diocese>
                 <province>Tours</province>
-                <country/>
+                <country>France</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Liber Synodalis</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,108 +55,151 @@
     <text>
         <body>
             <div>
-                <head>incipit</head>
+                <head>Metadata</head>
+                <p>RecordID: 2025</p>
+                <p>Year: 1270</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: Yes</p>
+                <p>DatingNotes: second half of the 13th-c (and after 1268)</p>
+                <p>Place: Le Mans</p>
+                <p>Diocese: Le Mans</p>
+                <p>Province: Tours</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 48.0077</p>
+                <p>Longitude: 0.1984</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Liber Synodalis</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: Additions to Liber Synodalis</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Avril, Naissance et evolution, 247-49</p>
+                <p>EditionOther: Pontal, Statuts, II, 151-79</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: Hard Copy Scan</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
             </div>
             <div>
-                <head>001</head>
-                <p>(1) Excommunicamus omnes sacerdotes et clericos quoscumque qui post legitimam monicionem, focarias vel mulieres alias de quibus mala possit suspicia suboriri in propriis domibus vel alibi, unde populus vel ecclesia scandalizatur, duxerint retinendas.</p>
-            </div>
-            <div>
-                <head>002</head>
-                <p>(2) Item, modus abjurationis solutorum et solutarum talis est videlicet quod utraque mechus et mecha sunt presentes et jurabit mechus:</p>
-                <p>Ego, tali juro quod si de cetero te talem carnaliter cognovero, ego te ducam in uxorem.</p>
-                <p>Mecha jurabit sic: Ego, talis juro quod si de cetero me permisero a te tali carnaliter cognosci, ego te accipiam in maritum, et ad dictas abjuracionem faciendas vocentur testes et scribantur.</p>
-            </div>
-            <div>
-                <head>003</head>
-                <p>(3) Providendum est in synodo de ecclesiis quomodo interdicantur vel non, ne scilicet presbiteri de mandata alicujus judicis delegati interdicant aliquando ecclesiam, nisi prius visis litteris apostolicis.</p>
-                <p>Recepta earum copia, habuerint consilium nobiscum vel officialis nostri, vel saltem cum decano loci.</p>
-            </div>
-            <div>
-                <head>004</head>
-                <p>(4) De festis ferialibus custodiendis ut illi qui festa non servaverint mittantur ad nos vel ad officialem nostrum pro meritis muniendi et, nisi infra terminum statuendum, ostenderint, liberacionem suam extra ecclesiam teneantur.</p>
-            </div>
-            <div>
-                <head>005</head>
-                <p>(5) De excommunicationibus faciendis maxime exemptorum, ut non fiant mandata judicium suorum, nisi constiterit de litteris apostolicis.</p>
-            </div>
-            <div>
-                <head>006</head>
-                <p>(6) De excommunicatis in mortis articulo absolvendis ut caucio recepta tam de satisfaciendo quam de emenda nostra significetur decano et in ejus registro ponatur, ut ad effectum ducatur, nec tradatur corpus de se ecclesiastice sepulture, nisi prius dicta cautio fuerit addignata.</p>
-            </div>
-            <div>
-                <head>007</head>
-                <p>(7) De publicando in ecclesiis ut cruce signati cruces, et clerici conjugati tonsuras deferant manifeste, alioquin quando significetur eis quod non intendimus quod gaudent privliegio suo et de coronis presbiterorum regandorum capellas [1].</p>
-            </div>
-            <div>
-                <head>008</head>
-                <p>(8) Detentoribus litteratum nostrarum et officialis ut executores, cui diriguntur, habeant potestatem excommunicandi detentorem in canoni.</p>
-            </div>
-            <div>
-                <head>009</head>
-                <p>(9) De immundicia cimiteriorum de quorum constabit decanis et decani per decantus suos provideant quod staquilinea et alie immundicie a cimiteriis ejiciantur.</p>
-            </div>
-            <div>
-                <head>010</head>
-                <p>(10) De utensilibus post mortem vel cessionem presbiterorum in ecclesiis, dimittendum ut decani ad hoc compellant executores defunctorum [2] vel alios, quorum interest, et rebelles ad nos puniendi mittantur.</p>
-            </div>
-            <div>
-                <head>011</head>
-                <p>(11) De excommunicandis per presbiteros de mandato officialis, scilicet de registracione eorum per presbiteros et dignificandum decanis et per decanum officiali.</p>
-            </div>
-            <div>
-                <head>012</head>
-                <p>(12) De publicandis excommunicatis nominatim qualibet die dominica et diligenter attendatur ne sint in ecclesiis quamdiu divina celebrantur.</p>
-            </div>
-            <div>
-                <head>013</head>
-                <p>(13) De excommunicandis qualibet die dominica impedientibus jurisdictionem ecclesie.</p>
-            </div>
-            <div>
-                <head>014</head>
-                <p>(14) De absolucione quam faciunt presbiteri post missam quod diligenter exponatur quod per talem absolucionem non sunt homines absoluti a sententiis judicum nec a peccato mortali, licet prosit ad veniam.</p>
-            </div>
-            <div>
-                <head>015</head>
-                <p>(15) De abbatibus qui auferunt bona priorum cum moriuntur ut prioratibus tantum dimittant de bonis prioratus, quod soluto ere alieno competens ad animum sustentacio relinquatur successori.</p>
-            </div>
-            <div>
-                <head>016</head>
-                <p>(16) De presbiteris consuetis excommunicari ut a beneficiis suspendatur tanto tempore et interim arcius evitentur, quando in excommunicacione steterint.</p>
-            </div>
-            <div>
-                <head>017</head>
-                <p>(17) De promotis de novo ut non afferatn celebrare.</p>
-            </div>
-            <div>
-                <head>018</head>
-                <p>(18) De monachis non officiantibus in prioratus, ut de hoc habens provideant et corrigant secundum ordinis disciplinam.</p>
-            </div>
-            <div>
-                <head>019</head>
-                <p>(19) Anno Domini M CC LX octo.</p>
-                <p>Hoc est consilium Castri Gunteri, die lune post festum Marie Magdalene.</p>
-                <p>Sane quia multi salutis sue immemores excommunicationis sententiam per annum vel amplius animo sustinent indurato, absolutionis beneficium usque ad egritudinem in qua decedunt, petere differentes, statuimus ut talibus in morte denegetur ecclesiastica sepultura. [3]</p>
-                <p>Preterea nonnulli barones, milites, ballivi et alii seculares homines, conjurationes, confederationesf, colligationes seu conspirationes tacitas vel expressas faciunt contra libertatem ecclesiasticam maxime restringendo vel diminuendo ecclesiasticam jurisdictionem et subditis suis ne in foro ecclesiastico litigent in hiis que ad forum ecclesiasticum pertinent de jure vel de consuetudine inhibendo.</p>
-                <p>Nos omnes hujusmodi presumptores per locorum quoscumque ordinarios, aut de ipsorum mandato in locis publicis in generali moneri volumus et mandamus ut infra duos menses a tempore monitionis hujusmodi revocent quicquid super hoc attemptaverunt et inhiberi ne in futurum talia attemptare presumant.</p>
-                <p>Si qui vero in premissis culpabiles existentes, predictis monitionibus et inhibitionibus parere contempserint, nos, auctoritate hujus concilii, ipsos ex tunc in scriptis excommunicamus. [4]</p>
-            </div>
-            <div>
-                <head>020</head>
-                <p>(20) Si quis autem hoc sscelus perpetraverit, non solum dignitatis honorem amittat, verum usque ad exitum vite sue subdat.</p>
-            </div>
-            <div>
-                <head>021</head>
-                <p>(21) Si quis sacerdos cum filia sua spirituali fornicatus fuerit, sciat se grave adulterium commisisse.</p>
-                <p>Id circo demina, si laica est, omnia relinquat et res suas pauperibus tribuat vel conversa in monasterio usque ad mortem serviat.</p>
-            </div>
-            <div>
-                <head>022</head>
-                <p>(22) Sacerdos autem qui malum ecemplum dederit hominibus ab omni officio deponatur et peregrinando quindecim annis peniteat, postea vero ad monasterium vadat, ibique cunctis diebus vite sue Deo serviat et deponitur tamen, si in conscienciam populi devenerit.</p>
-                <p>Amen.</p>
-            </div>
-            <div>
-                <head>explicit</head>
+                <head>Text</head>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) Excommunicamus omnes sacerdotes et clericos quoscumque qui post legitimam monicionem, focarias vel mulieres alias de quibus mala possit suspicia suboriri in propriis domibus vel alibi, unde populus vel ecclesia scandalizatur, duxerint retinendas.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Item, modus abjurationis solutorum et solutarum talis est videlicet quod utraque mechus et mecha sunt presentes et jurabit mechus:</p>
+                    <p>Ego, tali juro quod si de cetero te talem carnaliter cognovero, ego te ducam in uxorem.</p>
+                    <p>Mecha jurabit sic: Ego, talis juro quod si de cetero me permisero a te tali carnaliter cognosci, ego te accipiam in maritum, et ad dictas abjuracionem faciendas vocentur testes et scribantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) Providendum est in synodo de ecclesiis quomodo interdicantur vel non, ne scilicet presbiteri de mandata alicujus judicis delegati interdicant aliquando ecclesiam, nisi prius visis litteris apostolicis.</p>
+                    <p>Recepta earum copia, habuerint consilium nobiscum vel officialis nostri, vel saltem cum decano loci.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) De festis ferialibus custodiendis ut illi qui festa non servaverint mittantur ad nos vel ad officialem nostrum pro meritis muniendi et, nisi infra terminum statuendum, ostenderint, liberacionem suam extra ecclesiam teneantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) De excommunicationibus faciendis maxime exemptorum, ut non fiant mandata judicium suorum, nisi constiterit de litteris apostolicis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>(6) De excommunicatis in mortis articulo absolvendis ut caucio recepta tam de satisfaciendo quam de emenda nostra significetur decano et in ejus registro ponatur, ut ad effectum ducatur, nec tradatur corpus de se ecclesiastice sepulture, nisi prius dicta cautio fuerit addignata.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>(7) De publicando in ecclesiis ut cruce signati cruces, et clerici conjugati tonsuras deferant manifeste, alioquin quando significetur eis quod non intendimus quod gaudent privliegio suo et de coronis presbiterorum regandorum capellas [1].</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>(8) Detentoribus litteratum nostrarum et officialis ut executores, cui diriguntur, habeant potestatem excommunicandi detentorem in canoni.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>(9) De immundicia cimiteriorum de quorum constabit decanis et decani per decantus suos provideant quod staquilinea et alie immundicie a cimiteriis ejiciantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>(10) De utensilibus post mortem vel cessionem presbiterorum in ecclesiis, dimittendum ut decani ad hoc compellant executores defunctorum [2] vel alios, quorum interest, et rebelles ad nos puniendi mittantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>(11) De excommunicandis per presbiteros de mandato officialis, scilicet de registracione eorum per presbiteros et dignificandum decanis et per decanum officiali.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>(12) De publicandis excommunicatis nominatim qualibet die dominica et diligenter attendatur ne sint in ecclesiis quamdiu divina celebrantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>(13) De excommunicandis qualibet die dominica impedientibus jurisdictionem ecclesie.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>(14) De absolucione quam faciunt presbiteri post missam quod diligenter exponatur quod per talem absolucionem non sunt homines absoluti a sententiis judicum nec a peccato mortali, licet prosit ad veniam.</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>(15) De abbatibus qui auferunt bona priorum cum moriuntur ut prioratibus tantum dimittant de bonis prioratus, quod soluto ere alieno competens ad animum sustentacio relinquatur successori.</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>(16) De presbiteris consuetis excommunicari ut a beneficiis suspendatur tanto tempore et interim arcius evitentur, quando in excommunicacione steterint.</p>
+                </div>
+                <div>
+                    <head>Capitulum 17</head>
+                    <p>(17) De promotis de novo ut non afferatn celebrare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18</head>
+                    <p>(18) De monachis non officiantibus in prioratus, ut de hoc habens provideant et corrigant secundum ordinis disciplinam.</p>
+                </div>
+                <div>
+                    <head>Capitulum 19</head>
+                    <p>(19) Anno Domini M CC LX octo.</p>
+                    <p>Hoc est consilium Castri Gunteri, die lune post festum Marie Magdalene.</p>
+                    <p>Sane quia multi salutis sue immemores excommunicationis sententiam per annum vel amplius animo sustinent indurato, absolutionis beneficium usque ad egritudinem in qua decedunt, petere differentes, statuimus ut talibus in morte denegetur ecclesiastica sepultura. [3]</p>
+                    <p>Preterea nonnulli barones, milites, ballivi et alii seculares homines, conjurationes, confederationesf, colligationes seu conspirationes tacitas vel expressas faciunt contra libertatem ecclesiasticam maxime restringendo vel diminuendo ecclesiasticam jurisdictionem et subditis suis ne in foro ecclesiastico litigent in hiis que ad forum ecclesiasticum pertinent de jure vel de consuetudine inhibendo.</p>
+                    <p>Nos omnes hujusmodi presumptores per locorum quoscumque ordinarios, aut de ipsorum mandato in locis publicis in generali moneri volumus et mandamus ut infra duos menses a tempore monitionis hujusmodi revocent quicquid super hoc attemptaverunt et inhiberi ne in futurum talia attemptare presumant.</p>
+                    <p>Si qui vero in premissis culpabiles existentes, predictis monitionibus et inhibitionibus parere contempserint, nos, auctoritate hujus concilii, ipsos ex tunc in scriptis excommunicamus. [4]</p>
+                </div>
+                <div>
+                    <head>Capitulum 20</head>
+                    <p>(20) Si quis autem hoc sscelus perpetraverit, non solum dignitatis honorem amittat, verum usque ad exitum vite sue subdat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 21</head>
+                    <p>(21) Si quis sacerdos cum filia sua spirituali fornicatus fuerit, sciat se grave adulterium commisisse.</p>
+                    <p>Id circo demina, si laica est, omnia relinquat et res suas pauperibus tribuat vel conversa in monasterio usque ad mortem serviat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 22</head>
+                    <p>(22) Sacerdos autem qui malum ecemplum dederit hominibus ab omni officio deponatur et peregrinando quindecim annis peniteat, postea vero ad monasterium vadat, ibique cunctis diebus vite sue Deo serviat et deponitur tamen, si in conscienciam populi devenerit.</p>
+                    <p>Amen.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] regandiis capellis MS</p>
+                    <p>[2] defunctos MS</p>
+                    <p>[3] &quot;Sane quia...sepultura.&quot; inserted from 1305_Chateau-Gontier_1268, c. 3</p>
+                    <p>[4] &quot;Preterea...scriptis excommunicamus.&quot; inserted from 1305_Chateau-Gontier_1268, c. 2</p>
+                </div>
             </div>
         </body>
     </text>

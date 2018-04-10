@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 0053</recordID>
+                <title>Cambrai (#0053)</title>
+                <recordID>0053</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate>1274-10-01</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Cambrai</origPlace>
                 <diocese>Cambrai</diocese>
                 <province>Reims</province>
-                <country/>
+                <country>Belgium</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Diocesan</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,29 +55,72 @@
     <text>
         <body>
             <div>
-                <head>incipit</head>
-                <p>Anno Domini MoCCoLXXo quarto.</p>
+                <head>Metadata</head>
+                <p>RecordID: 53</p>
+                <p>Year: 1274</p>
+                <p>Month: 10</p>
+                <p>Day: 1</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: Month/Day uncertain</p>
+                <p>Place: Cambrai</p>
+                <p>Diocese: Cambrai</p>
+                <p>Province: Reims</p>
+                <p>CountryModern: Belgium</p>
+                <p>Latitude: 50.175579</p>
+                <p>Longitude: 3.2345</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Avril, Statuts, IV, 94-95</p>
+                <p>EditionOther: Boeren, Anciens statuts, III, 392-93</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: Hard Copy Scan</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
             </div>
             <div>
-                <head>001</head>
-                <p>(1) Hec est declaratio seu correctio articuli seu statuti in quo fit mentio de excommunicatis qui in articulo necessitatis absolvuntur, videlicet quod ante absolutionem jurabunt coram suo sacerdote stare mandatis judicis a quo sunt excommunicati, quo facto absolvantur a suo sacerdote, qui si convaluerint amodo non sunt absolvendi, sed sunt compellendi sub debito juramento ut pareant mandato judicis supradicti, et alias possent compelli per judicem a quo erant excommunicati ut pareant mandato suo.</p>
-            </div>
-            <div>
-                <head>002</head>
-                <p>(2) Item corpora absolutorum in articulo mortis possunt et debent tradi ecclesiastice sepulture, sed heredes eorum compellendi sunt satisfacere de hiis pro quibus defuncti erant excommunicati.</p>
-            </div>
-            <div>
-                <head>003</head>
-                <p>(3) Item injungimus presbyteris, si ipsi defuncti fuerint excommunicati auctoritate nostra vel curie nostre Cameracensis, quod ipsi compellant heredes per sententiam ut satisfaciant curie nostre super premissis, et hoc injungimus sub pena suspensionis.</p>
-                <p>Quod si non fecerint, contra eos gravius procedemus.</p>
-            </div>
-            <div>
-                <head>004</head>
-                <p>(4) De matrimonio.</p>
-                <p>Item inhibemus ne aliquis ante solis ortum presumat matrimonia celebrare.</p>
-            </div>
-            <div>
-                <head>explicit</head>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Anno Domini MoCCoLXXo quarto.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) Hec est declaratio seu correctio articuli seu statuti in quo fit mentio de excommunicatis qui in articulo necessitatis absolvuntur, videlicet quod ante absolutionem jurabunt coram suo sacerdote stare mandatis judicis a quo sunt excommunicati, quo facto absolvantur a suo sacerdote, qui si convaluerint amodo non sunt absolvendi, sed sunt compellendi sub debito juramento ut pareant mandato judicis supradicti, et alias possent compelli per judicem a quo erant excommunicati ut pareant mandato suo.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Item corpora absolutorum in articulo mortis possunt et debent tradi ecclesiastice sepulture, sed heredes eorum compellendi sunt satisfacere de hiis pro quibus defuncti erant excommunicati.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) Item injungimus presbyteris, si ipsi defuncti fuerint excommunicati auctoritate nostra vel curie nostre Cameracensis, quod ipsi compellant heredes per sententiam ut satisfaciant curie nostre super premissis, et hoc injungimus sub pena suspensionis.</p>
+                    <p>Quod si non fecerint, contra eos gravius procedemus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) De matrimonio.</p>
+                    <p>Item inhibemus ne aliquis ante solis ortum presumat matrimonia celebrare.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>None</p>
+                </div>
             </div>
         </body>
     </text>

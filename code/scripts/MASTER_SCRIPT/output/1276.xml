@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 1276</recordID>
+                <title>Noyon (#1276)</title>
+                <recordID>1276</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate>1295</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Noyon</origPlace>
                 <diocese>Noyon</diocese>
                 <province>Reims</province>
-                <country/>
+                <country>France</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Diocesan</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,27 +55,67 @@
     <text>
         <body>
             <div>
-                <head>incipit</head>
+                <head>Metadata</head>
+                <p>RecordID: 1276</p>
+                <p>Year: 1295</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Noyon</p>
+                <p>Diocese: Noyon</p>
+                <p>Province: Reims</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 49.581667</p>
+                <p>Longitude: 2.999722</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Avril, Statuts, IV, 269-70</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: Hard Copy Scan</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
             </div>
             <div>
-                <head>001</head>
-                <p>(1) Anno Domini millesimo ducentesimo nonagesimo quinto in sancta synodo, nos Guido, Dei gratia Noviomensis episcopus, die martis post festum beati Remigii in capite octobris, volumus, statuimus et etiam ordinamus jura superedita publicando quod quicumque sacerdos nostre Noviomensis dyocesis de nostra jurisdictione ordinaria existens suspensus vel excommunicatus fuerit, auctoritate judicis competentis, quamdiu sit suspensus vel excommunicatus fuerit, aliquid non percipiat de grossis fructibus seu de grossis [1] oblationibus, decimis vel alio emolumento quocumque sui beneficii cujuscumque fuerit cum cura vel sine cura, modicum sive magnum, sed interim suspensione vel excommunicatione durante per ydoneum sacerdotem nostra autoritate prefigendum deserviantur competenter beneficia illius qui excommunicatus fuerit vel suspensus, et servienti in beneficio de proventibus beneficii competens salarium auctoritate nostra solvatur.</p>
-                <p>Residuum autem implicetur quibus videbimus applicandum, quod si sit excommunicatus vel suspensus sententiam excommunicationis vel suspensionis per annum vel amplius sustinuerit animo indurato ad privationem sui beneficii procedatur vel de jure fuerit procedentum.</p>
-            </div>
-            <div>
-                <head>002</head>
-                <p>(2) Item quod quicumque sacerdos se obligaverit coram judice competenti per suum juramentum, et transgressus fuerit juramentum, sit perjurus, pena privatione beneficii punietur, prout de jure fuerit faciendum.</p>
-            </div>
-            <div>
-                <head>003</head>
-                <p>(3) Item quod nullus sacerdos aliquem defunctum tradi ecclesiastice sepulture, nisi primitus parochiali presbitero ostendatur testamentum, si in scriptis testamentum fecerit, alioquin a nobis vel officiali nostro punietur.</p>
-            </div>
-            <div>
-                <head>004</head>
-                <p>(4) Item quod presbiteri qui ad capitulum sibi per decanum assignatum non venerint penam duorum solidorum parisiensium se noverint incursuros suis decanis solvendorum.</p>
-            </div>
-            <div>
-                <head>explicit</head>
+                <head>Text</head>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) Anno Domini millesimo ducentesimo nonagesimo quinto in sancta synodo, nos Guido, Dei gratia Noviomensis episcopus, die martis post festum beati Remigii in capite octobris, volumus, statuimus et etiam ordinamus jura superedita publicando quod quicumque sacerdos nostre Noviomensis dyocesis de nostra jurisdictione ordinaria existens suspensus vel excommunicatus fuerit, auctoritate judicis competentis, quamdiu sit suspensus vel excommunicatus fuerit, aliquid non percipiat de grossis fructibus seu de grossis [1] oblationibus, decimis vel alio emolumento quocumque sui beneficii cujuscumque fuerit cum cura vel sine cura, modicum sive magnum, sed interim suspensione vel excommunicatione durante per ydoneum sacerdotem nostra autoritate prefigendum deserviantur competenter beneficia illius qui excommunicatus fuerit vel suspensus, et servienti in beneficio de proventibus beneficii competens salarium auctoritate nostra solvatur.</p>
+                    <p>Residuum autem implicetur quibus videbimus applicandum, quod si sit excommunicatus vel suspensus sententiam excommunicationis vel suspensionis per annum vel amplius sustinuerit animo indurato ad privationem sui beneficii procedatur vel de jure fuerit procedentum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Item quod quicumque sacerdos se obligaverit coram judice competenti per suum juramentum, et transgressus fuerit juramentum, sit perjurus, pena privatione beneficii punietur, prout de jure fuerit faciendum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) Item quod nullus sacerdos aliquem defunctum tradi ecclesiastice sepulture, nisi primitus parochiali presbitero ostendatur testamentum, si in scriptis testamentum fecerit, alioquin a nobis vel officiali nostro punietur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) Item quod presbiteri qui ad capitulum sibi per decanum assignatum non venerint penam duorum solidorum parisiensium se noverint incursuros suis decanis solvendorum.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] 'grossis' in brackets.</p>
+                </div>
             </div>
         </body>
     </text>

@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 1524</recordID>
+                <title>Lambeth (#1524)</title>
+                <recordID>1524</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate precision="circa">1281</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Lambeth</origPlace>
                 <diocese/>
                 <province>Canterbury</province>
-                <country/>
+                <country>England</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Other</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,352 +55,400 @@
     <text>
         <body>
             <div>
-                <head>incipit</head>
-                <p>Incipiunt constitutiones fratris Iohannis de Peccham quondam Cantuariensis archiepiscopi.</p>
-                <p>Ab exordio nascentis ecclesie christiane ortodoxi patres retroactis temporibus errorum laqueis, morum corruptionibus, adversitatum molestiis, conciliorum tractatibus obviaverunt.</p>
-                <p>In eis siquidem sapientes se mutuo exacuunt, et congregati sancti viri Christi domini sensum et concilium faciliter impetrant, qui se spondet talibus sui nominis honorem zelantibus medium affuturum.</p>
-                <p>Sanctorum igitur patrum vestigiis inherentes, iurisque auctoritate compulsi, ac necessitate multiplici ecclesie perurgente, nos frater I. permissione divina Cantuariensis archiepiscopus, totius Anglie primas, cupientes presentibus incomodis obviare, sperantesque, Christi patrocinante gratia, ad hoc nos posse proficere, cum fratrum ac coepiscoporum nostrorum ac ceterorum nostre provincie prelatorum assistentia efficaci, de prudentum virorum consilio, hoc sacrum concilium mandavimus convocari; intendentes, previa spiritus sancti gratia, ope vestra et consilio transgressores canonum corrigere; quedam etiam olim salubriter edita, non tamen satis utentium moribus approbata, recensita stabilire, et contra novellas quasdam tergiversationes, quas in fumo sulphureo non cessat abyssi puteus exalare, novis quibusdam remediis occurrere ut valemus, in quo obtrectatorum dentes minime formidamus.</p>
-                <p>Quoniam etsi res divine tanquam perfectissime in certis consistant finibus, humani tamen iuris conditionem in infinitum decurrere cogit necessitas manifesta.</p>
-                <p>Contemptum autem canonum immane esse piaculum utriusque docet pagina testamenti.</p>
-                <p>Decretis enim apostolicis et conciliorum diffinitionibus obsistentes a sancte matris ecclesie meritis sunt precisi, utpote quos rumphea Mosayca plectit sententia capitali, et sapientia incarnata illos qui ecclesiam non audiunt ethnicis et publicanis similes esse decrevit, ac contemptum auctoritatis apostolice in contemptum patris omnium redundare.</p>
-                <p>Quippe quos legum suarum Petrus ligat vinculis, in summi et celestis imperatoris palatio sunt ligati.</p>
-                <p>Econtra tamen quosdam frivole de christiani nominis titulo gloriantes tam clericos quam laicos cotidianis angustiis experimur iugum canonum abicere et apostolicas sanctiones arrogantia dyabolica conculcare, illius gloriosi martiris Thome patriarche nostri inmemores, qui se pro huiusmodi iuribus defendendis murum opposuit pro ipsis, primum sustinens exilium et postea passionem.</p>
-                <p>Lateranensis igitur concilii auctoritate premoniti, faciemus canonicas regulas recitari.</p>
-                <p>Et quia Lugdunense concilium ultimo celebratum eo enormius quo recensius infringitur, ne quis possit se in temeritate huiusmodi per ignorantiam excusare, ipsum volumus in principio recenseri, non solum ut omnibus innotescat verum etiam ut, si quid in ipso videatur intollerabile istius consuetudini regionis, que in multis ab omnibus aliis est distincta, circa illud temperamentum apostolice clementie humiliter imploretur, quoniam, sacro testante eloquio, melior est obedientia quam victima et quasi peccatum arriolandi est repugnare et quasi scelus ydolatrie nolle acquiescere.</p>
-                <p>Hanc enim inobedientiam credimus esse causam mutationis miserabilis utriusque parietis ecclesie Anglicane.</p>
-                <p>Secundo, constitutiones sancte memorie domini Ottoboni eo faciemus legi reverentius quo ipse in eisdem statutis suis hoc mandavit fieri per annos singulos ab archiepiscopis et episcopis in synodis suis de verbo ad verbum, postea ad honorem apostolicum sublimatus.</p>
-                <p>Tertio vero recitari volumus concilium de Lameht, quod sancte memorie predecessor noster Bonefacius cum fratribus et coepiscopis sui temporis noscitur salubriter edidisse, ut circa ipsum quod dicitur fuisse appellatione suspensum qualiter procedi debeat videatur.</p>
-                <p>Ultimo vero adiciemus que nobis videntur necessario ordinanda.</p>
+                <head>Metadata</head>
+                <p>RecordID: 1524</p>
+                <p>Year: 1281</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: Yes</p>
+                <p>DatingNotes: 1279x1292; dated 1281 in Forrest, English Provincial Constitutions, 48</p>
+                <p>Place: Lambeth</p>
+                <p>Diocese: None</p>
+                <p>Province: Canterbury</p>
+                <p>CountryModern: England</p>
+                <p>Latitude: 51.4903</p>
+                <p>Longitude: -0.1193</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Other</p>
+                <p>IssuingAuthority: John Peckham</p>
+                <p>IssuingAuthorityAlt: John Pecham</p>
+                <p>RegnalStart: 1279</p>
+                <p>RegnalEnd: 1292</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: Unpublished drafts or personal mandates</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Powicke &amp; Cheney II, 892-918</p>
+                <p>EditionOther: Mansi 24, 403-428, Wilkins II, 51-61</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: Data Capture</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: Cheney concludes (p. 1118) that these &quot;represent a variety of personal mandates of the archbishop and of drafts for conciliar legislation which were later abandoned or revised. None the less, they passed into circulation in the province and some of them (I-IV and VI) were inserted and glossed by Lyndwood in the Provinciale.&quot; The specific context of the individual texts is presented in the introductory notes to the edition.</p>
+                <p>BiblioRefs: Cheney, &quot;So-called Statutes of John Pecham and Robert Winchelsey,&quot; </p>
             </div>
             <div>
-                <head>001</head>
-                <p>(1) De custodia eukaristie.</p>
-                <p>Altissimus de terra assumpti corporis creavit humani generis medicinam in vii vasculis repositam, que sunt vii ecclesie sacramenta que a plerisque nec cum condigna tractari reverentia, nec cum debita diligentia dispensari fide didicimus oculata.</p>
-                <p>In hiis igitur presens correctio sumat exordium, et precipue circa corporis et sanguinis domini sacramentum quod est sacramentum et sacrificium, sacramentum sanctificans manducantes, et sacrificium oblatione sua universis tam vivis quam defunctis proficiens, pro quorum suffragiis immolatur.</p>
-                <p>Multos igitur esse numero et paucos merito domini sacerdotes cotidianis scandalis experimur, inter quorum dampnabiles accidias hanc plangimus precipue quod ad hoc ipsum eukaristie sacramentum se irreverentes exhibent supra modum, quod execratis linguis conficiunt, contemptibiliter custodiunt et reponunt, et ipsum tanto tempore negligunt immutatum donec corrumpantur species continentes; ut salutis auctor qui infinito amore se in viaticum dedit ecclesie pro tante irreverentie iniuria merito offendatur; in cuius remedium discriminis statuimus ut quilibet sacerdos quem canonica necessitas non excusat conficiat omni ebdomada saltem semel, et ut in qualibet ecclesia parochiali fiat tabernaculum cum clausura decens et honestum, secundum cure magnitudinem et ecclesie facultates, in quo ipsum corpus domini in pixide pulcherrima et lineis integumentis, sed nullatenus in loculo propter comminutionis devitandum periculum collocetur, quod in omni dominica precipimus renovari.</p>
-                <p>In elevatione vero ipsius corporis domini pulsentur campane in uno latere, ut populares, quibus celebrationi missarum non vacat cotidie interesse, ubicunque fuerint seu in agris seu in domibus, flectant genua, indulgentias concessas a pluribus episcopis habituri.</p>
-                <p>Sacerdotes autem in custodia eukaristie negligentes puniri precipimus secundum regulam concilii generalis, capitulo Statuimus, et gravius, si in negligentia perseverent.</p>
-                <p>Circa deportationem vero ipsius eukaristie ad egrotos, servetur honestas alias et alibi constituta.</p>
-                <p>Attendant insuper sacerdotes quod cum communionem sacram porrigunt simplicibus paschali tempore vel alio sollicite eos instruant sub panis specie simul eis dari corpus et sanguinem domini, immo Christum integrum vivum et verum qui totus est sub specie sacramenti.</p>
-                <p>Doceant etiam eosdem illud quod ipsis eisdem temporibus in calice propinatur sacramentum non esse, sed vinum purum eis hauriendum traditum ut facilius sacramentum glutiant quod ceperunt.</p>
-                <p>Solis enim celebrantibus sanguinem sub specie vini consecrati sumere in huiusmodi minoribus ecclesiis est concessum.</p>
-                <p>Instruant etiam eosdem sumptum ore sacramentum non nimis dentibus comminuere, sed tritum modice sorbere perfecte, ne particulam aliquam eveniat in dentium interstitiis vel alibi remanere.</p>
-                <p>Parochiales insuper sacerdotes caveant diligenter ne alicui dent corpus domini nisi prius constet eis ipsum fuisse confessum testimonio vel iudicio fidedigno, et huiusmodi certificationis honus ipsi suscepturo imponimus sacramentum qui habet ea que saluti sue sunt necessaria procurare.</p>
-                <p>Nullus etiam sacram communionem prebeat parochiano alterius sacerdotis sine ipsius licentia manifesta; quam ordinationem non intendimus ad peregrinantes extendere, nec necessitatis casui derogare.</p>
-            </div>
-            <div>
-                <head>002</head>
-                <p>(2) De annualibus.</p>
-                <p>Sacerdotes insuper caveant universi ne missarum peculiarium seu familiarium se celebrationi obligent, quominus valeant canonico officio commissam sibi officiare ecclesiam, ut tenentur.</p>
-                <p>Nec presumat aliquis annualia celebranda suscipere nisi pro defuncto celebret cotidie vel procuret specialiter celebrari.</p>
-                <p>Nullus etiam plura recipiat annualia celebranda quam habet socios sacerdotes, illo casu excepto in quo procurans suffragia fieri pro defuncto consentit expresse defuncti memoriam in missa alii vel aliis copulari.</p>
-                <p>Nec credat celebrans se dicendo missam unam posse satisfacere pro duobus, pro quorum utroque promisit specialiter et in solidum celebrare.</p>
-                <p>Licet enim dicat capitulum, De consec. di. v, Non mediocriter, quod nichil minus accipitur cum missa pro cunctis una dicitur quam si pro uno quolibet ipsorum diceretur, loquitur tamen de hiis missis, que anxiato corde dicuntur.</p>
-                <p>Absit enim ne a quoquam catholico credatur tantum intensive proficere missam unam devote celebratam mille hominibus pro quibus forsan dicitur quantum si pro eis mille misse devotione consimili canerentur.</p>
-                <p>Licet enim ipsum sacrificium, quod est Christus, sit infinite virtutis, non tamen in sacramento vel sacrificio in sue inmensitatis summa plenitudine operatur, alioquin pro uno mortuo nunquam oporteret missam dicere nisi unam.</p>
-                <p>Operatur enim in huiusmodi misteriis distributione certa sue plenitudinis quam ipse eisdem lege infallibili alligavit.</p>
-                <p>Illos autem qui pro annualibus seu anniversariis celebrandis stipendia receperunt, nec ex certa malitia vel accidia satisfecerunt ut tenentur, monemus ut omissa suppleant et ad plenum satisfaciant in futurum; et quandocunque id non fecerint, fructus taliter receptos pro animabus illorum qui eis talia contulerunt erogent pauperibus, aut si utrumque istorum sponte neglexerint, sicut fraudatores fidelium, ab ordinariis suis aspere corrigantur.</p>
-            </div>
-            <div>
-                <head>003</head>
-                <p>(3) De baptismo.</p>
-                <p>Circa sacramentum baptismi quosdam comperimus deliquisse.</p>
-                <p>Cum enim periclitantibus parvulis pro necessitatis inevitabilis articulo quibuscunque laicis vel mulieribus sit concessum in casibus huiusmodi periclitantes taliter baptizare et huiusmodi baptismum ad salutem constet sufficere si forma debita teneatur, nec debere baptizatos taliter iterum baptizari, quidam tamen stolidi sacerdotes sic baptizatos parvulos non sine sacramenti iniuria rebaptizant; quod ne de cetero fiat firmiter inhibemus, sed super sic baptizatos dicantur exorcismi et catecismi, propter reverentiam ecclesie statuentis.</p>
-                <p>Forma autem sacramenti in lingua vulgari consistit, non solum in significatis verum etiam in ordine eorumdem quo ipsum sacramentum est divinitus institutum, quo Christus dominus illis verbis et taliter ordinatis ut sunt in lingua latina regenerativam contulit potestatem.</p>
-                <p>Dicatur ergo sic a taliter baptizantibus: Ich crisne in þe name of þe vader etc. vel aliter in lingua materna secundum consuetudinem patrie; vel in gallico sic: Jeo baptize toy en nun du pere etc.</p>
-                <p>Quod si sacerdos rationabiliter dubitet an parvulus fuerit in forma debita baptizatus, tenens modum decretalis cum exorcismo et catecismo dicat: Si nondum baptizatus es, ego etc.</p>
-                <p>Attendant etiam sacerdotes, ne lasciva nomina que scilicet mox prolata sonant lasciviam, imponi permittant parvulis baptizatis, sexus precipue feminini.</p>
-                <p>Et si contrarium fiat, per confirmantes episcopos corrigatur.</p>
-            </div>
-            <div>
-                <head>004</head>
-                <p>(4) De sacramento confirmationis.</p>
-                <p>Confirmationis insuper sacramentum multi negligunt temerarie, quia desunt forsan ad talia vigiles hortatores; adeo ut plures immo innumeri sunt inveterati dierum malorum qui nondum confirmationis gratiam receperunt.</p>
-                <p>Cui negligentie dampnabili obviantes, statuimus ut nullus ad sacra-[fo. 93vb]mentum corporis et sanguinis domini admittatur, extra mortis articulum, nisi fuerit confirmatus, vel nisi a receptione confirmationis fuerit rationabiliter impeditus.</p>
-            </div>
-            <div>
-                <head>005</head>
-                <p>(5) Ne quinque simul ordines conferantur.</p>
-                <p>Cum secundum doctores theologicos militia clericalis vii muniatur ordinibus, singulorum caracteribus in anima consignatis, per singulos etiam recipiens augmentum gratie, nisi ordinati ficte ordinem suscipiant seu crimine irretiti, expedit plurimum ipsos ordines minime recipere inculcatos, quoniam inculcatio reverentiam minuit et gratiam per consequens que per irreverentiam repercutitur ab ingratis.</p>
-                <p>Contra dignitatem igitur tam reverentissimi dinoscitur esse sacramenti, quinque simul, quatuor scilicet ordines non sacros cum uno sacro, alicui uni homini exhibere, unde in nonnullis aliis provinciis quatuor minores ordines non simul faciliter conferuntur, ut ascendentes clerici ad Christi ministeria quasi canticum graduum continentes cum probati extiterint in minoribus officiis gradatim demum proficiant ad maiora.</p>
-                <p>Quia igitur ex singulis ecclesiis que pia, que religiosa, queque honestiora sunt tenemur eligere, et ea tanquam faciculum in Anglorum mentibus colligare, precipimus ut episcopi in hiis sequantur canonicas sanctiones, minores etiam ordines quando id potest fieri bono modo pro sacramenti reverentia dentur saltem aliquotiens conbinati, et recipientes eos seu simul seu sigillatim in vulgari lingua publice instruantur de distinctione ordinum, officiorum, et caracterum, ac de profectu gratie, que in singulis ordinibus digne accedentibus augmentatur.</p>
-            </div>
-            <div>
-                <head>006</head>
-                <p>(6) De confessoribus.</p>
-                <p>Sacramentum penitentie naufragantium remedium singulare per quorundam insipientiam sacerdotum debito caret fructu, et qui credunt a fluctibus emergere perniciosius in dampnationis pelagum demerguntur, dum de facto absolvunt plurimi quos de iure absolvere nequeunt; vivificantes, ut ait propheta, propter pugillum ordei et fragmen panis animas que non vivunt, utpote absolventes de facto, excommunicatos a iure, et precipue ab Oxoniensi concilio propter lesionem seu perturbationem ecclesiastice libertatis vel propter consimilia scelera in eodem concilio simili pena dampnata, seu decimas vel alia iura ecclesiastica detinentes, quibus obsistentes ut seductoribus animarum et pulvillos consuentibus sub cubitis reproborum, omnibus Cantuariensis provincie confessoribus sub nobis et nostris coepiscopis constitutis districtius inhibemus ne decetero manus audeant extendere ad seducendas huiusmodi animas per absolutionis signaculum, quod novimus sine satisfactione debita et speciali commissione archiepiscopi et episcopi non tenere, dum sunt in suis sceleribus pertinaces; existimantes nichilominus huiusmodi, non tam confessores quam fovearum diaboli confossores, peccare gravissime, cum convincantur saltem tacite eisdem sceleribus consentire, et scelerosos in sua perfidia confortare; unde caveant ipsi ne eodem cum talibus excommunicationis laqueo involvantur.</p>
-                <p>Cum insuper nos dudum pluralitatem beneficiorum sacrilege usurpatam cohibere volentes, inhibuerimus sub pena excommunicationis ne quis de facto ad tales in suis furtis et sacrilegiis contumaces manus extenderet absolvendos, quidam tamen sacerdotes potius Baal vel Belial quam domini salvatoris contrarium facere presumpserunt, occidentes animas Christi sanguine redemptas et enervantes ecclesiasticam disciplinam.</p>
-                <p>Istos igitur quasi vulpes demolientes vineas domini veraciter reputantes, sub pristina districtione precipimus iterato quatinus a talibus absolvendis decetero abstineant et ad renuntiandum beneficiis obtentis illicite vel retentis sollicite inducant.</p>
-                <p>Alioquin sciant se certissime divine maledictionis fulgure feriendos.</p>
-                <p>Sunt preterea nonnulli qui pretextu quorumdam privilegiorum generalium a sede apostolica obtentorum spreta contra intentionem apostolicam auctoritate pontificali ipsorum pontificum irrequisito beneplacito et assensu ingerunt se subditorum eorumdem confessionibus audiendis, quorum presumptionem volentes reprimere ut tenemur, prohibemus sub pena excommunicationis ne quis decetero absque episcopi licentia expressa vel probabiliter presumpta confessiones suorum audiat subditorum, nisi in audiendis confessionibus a iurisdictione ordinaria diocesana et metropolitana expresso tenore sui privilegii sit exemptus.</p>
-                <p>Et si qui contrarium facere presumpserint, procedatur contra eos sicut contra privilegiorum temerarios abusores.</p>
-            </div>
-            <div>
-                <head>007</head>
-                <p>(7) De penitentia solempnia.</p>
-                <p>Preterea cum iuxta sacros canones peccata graviora, ut incestus et similia, que vulgatissima suo scandalo totam commovent civitatem, sint solempni penitentia castiganda, quorumdam tamen negligentia id agente, huiusmodi penitentia videtur quasi in oblivionem tradita, et crevisse per consequens audacia huiusmodi horrenda facinora et flagitia perpetrandi; quocirca precipimus ut huiusmodi penitentia solempnis decetero imponatur secundum canonicas sanctiones.</p>
-                <p>Absolutionem autem ab homicidio voluntario, tam publico quam occulto, solis episcopis, extra necessitatis articulum, reservamus, per quod minorum audaciam refrenare intendimus et non maiorum reverentie in aliquo derogare.</p>
-            </div>
-            <div>
-                <head>008</head>
-                <p>(8) De uno confessore in quolibet decanatu constituendo.</p>
-                <p>Licet a sanctis patribus iam pridem fuerit ordinatum ut in quolibet decanatu unus sit rector aut vicarius litterature sufficientis, illustratus gratia, fameque laudabilis, assignatus ad confessiones rectorum, vicariorum, aliorum etiam sacerdotum ac ministrorum ecclesie audiendas, iniungendasque penitentias, ut sit mare fusile in templi introitu iuxta templi tipici sacramenta; hoc tamen hactenus non fuit cleri moribus approbatum non sine multis dei iniuriis ac celebrationibus que exsecrationes potius dicerentur.</p>
-                <p>Ordinationem igitur predictam a dissuetudine revocantes, precipimus ut ipsa decetero inviolabiliter observetur; ex hoc inhibere minime intendentes quin possint pretacti, si voluerint, ad alios communes penitentiarios, dum tamen id constet, pro sacramento penitentie convolare.</p>
-            </div>
-            <div>
-                <head>009</head>
-                <p>(9) De informatione simplicium sacerdotum.</p>
-                <p>Ignorantia sacerdotum populum precipitat in foveam erroris; et clericorum stultitia vel ruditas, qui diffinitione canonica filios fidelium instruere iubentur, magis aliquando ad errorem proficit quam doctrinam.</p>
-                <p>Quidam etiam ceci predicantes non semper loca visitant que magis constat veritatis lumine indigere; testante propheta, quia parvuli petierunt panem, nec erat qui frangeret, et alio clamante quia egeni et pauperes querunt aquas, lingua eorum siti arruit.</p>
-                <p>In quorum remedium discriminum statuendo precipimus ut quilibet sacerdos plebi presidens, quater in anno, hoc est, semel in qualibet quarta anni, die una sollempni vel pluribus, per se vel per alium exponat populo vulgariter, absque cuiuslibet subtilitatis textura fantastica, quatuordecim fidei articulos, decem mandata decalogi, duo precepta evangelii, scilicet, gemine caritatis, septem etiam opera misericordie, septem peccata capitalia, cum sua progenie, septem virtutes principales, ac septem gratie sacramenta.</p>
-                <p>Et ne quis a predictis per ignorantiam se excuset, que tamen omnes ministri ecclesie scire tenentur, ea perstringimus summaria brevitate.</p>
-                <p>Sciendum est igitur vii esse fidei articulos pertinentes ad misterium trinitatis; quorum quatuor pertinent ad divinitatis intrinseca, tres vero pertinent ad effectus.</p>
-                <p>Primus est unitas divine essentie in trium personarum indivisibili trinitate, iuxta illud: Credo in unum deum.</p>
-                <p>Secundus est, Patrem credere ingenitum esse deum.</p>
-                <p>Tertius est, Filium credere unigenitum esse deum.</p>
-                <p>Quartus est, Credere spiritum sanctum, nec genitum nec ingenitum esse deum, sed a patre et filio pariter procedentem.</p>
-                <p>Quintus est, creatio celi et terre; hoc est, omnis visibilis et invisibilis creature a tota indivisibiliter trinitate.</p>
-                <p>Sextus est, sanctificatio ecclesie per spiritum sanctum, et gratie sacramenta, et cetera omnia, in quibus communicat ecclesia christiana.</p>
-                <p>In quo intelligitur quod ecclesia cum suis sacramentis et legibus per spiritum sanctum omni homini quantumcumque peccatori sufficit ad salutem; et quod extra ecclesiam non est salus.</p>
-                <p>Septimus est, consummatio ecclesie per gloriam eternam in anima et carne veraciter suscitanda; et per oppositum intelligitur eterna dampnatio reproborum.</p>
-                <p>Item, alii vii articuli pertinent ad Christi humanitatem.</p>
-                <p>Primus est, incarnatio seu vera carnis assumptio ex sola per spiritum sanctum virgine gloriosa.</p>
-                <p>Secundus est, veri incarnati dei nativitas ex virgine incorrupta.</p>
-                <p>Tertius est, vera Christi dei passio et mors in cruce sub tyrannide Pilati.</p>
-                <p>Quartus est, descensio Christi dei ad inferos in anima, quiescente corpore in sepulcro, ad spoliationem tartari.</p>
-                <p>Quintus est, vera Christi resurrectio.</p>
-                <p>Sextus est, vera ipsius ad celos ascensio.</p>
-                <p>Septimus est, ipsius venturi ad iudicium certissima expectatio.</p>
-                <p>Item, decem mandatorum veteris testamenti tria ordinantur ad deum, que dicuntur mandata prime tabule; vii vero ad proximum, que dicuntur secunde tabule mandata.</p>
-                <p>In primo prohibetur omnis ydolatria, cum dicitur: Non habebis deos alienos coram me.</p>
-                <p>In quo implicite prohibentur omnia sortilegia et omnes incantationes, cum superstitionibus caracterum, et huiusmodi figmentorum.</p>
-                <p>In secundo, cum dicitur: Non assumes nomen dei tui in vanum, prohibetur principaliter heresis universa, et secundario omnis blasphemia et irreverens dei nominatio, precipue in periurio.</p>
-                <p>In tertio mandato, cum dicitur: Memento ut sabbatum sanctifices, precipitur cultus religionis christiane, ad quem indifferenter clerici et laici obligantur.</p>
-                <p>Ubi sciendum est quod obligatio ad feriandum in sabbato legali secundum formam veteris testamenti expiravit omnino cum ceteris in lege cerimoniis, et successit in novo testamento modus vacandi cultui divino diebus dominicis, et ceteris diebus solempnibus ad hoc auctoritate ecclesie deputatis; quibus diebus modus vacandi non est sumendus a superstitione iudaica, sed a canonicis institutis.</p>
-                <p>Primum secunde tabule est patrem et matrem explicite temporaliter et spiritualiter honorare; implicite autem et secundario omnis homo, pro sui gradus merito, ex eodem mandato intelligitur honorandus.</p>
-                <p>In hoc autem mandato intelliguntur non solum pater et mater carnaliter, verum etiam spiritualiter, ut pater sit prelatus ecclesie, mediatus vel immediatus; mater autem ecclesia, cuius sunt filii catholici universi.</p>
-                <p>Secundum est: Non occides, in quo explicite inhibetur illicita persone interemptio consensu, verbo, opere, et favore; implicite vero hic omnis iniusta persone lesio inhibetur.</p>
-                <p>Spiritualiter etiam occidunt, qui non reficiunt indigentes; similiter occidunt, qui</p>
-                <p>detrahunt, vel qui innocentes opprimunt et confundunt.</p>
-                <p>Tertium mandatum est: Non mechaberis, in quo explicite inhibetur adulterium, implicite vero fornicatio; que explicite prohibetur Deuteronomio xxiii ubi dicitur: Non erit meretrix de filiabus Israel, neque scortator de filiis Israel.</p>
-                <p>Inhibetur etiam in eodem mandato omnis commixtio viri et mulieris quam bona matrimonii non excusant; omnis etiam voluntaria pollutio quocumque modo aliter studiose et voluntarie procurata.</p>
-                <p>Quartum mandatum est: Non furtum facies, in quo explicite prohibetur clamdestina contractatio rei aliene, invito domino; implicite vero omnis iniuriosa, seu per fraudem, seu per usuram, seu per violentiam, seu per metum rei usurpatio aliene.</p>
-                <p>Quintum mandatum est: Non loqueris contra proximum tuum falsum testimonium, in quo explicite prohibetur falsa testificatio ad nocendum; implicite autem falsa testificatio ad indignum contra merita promovendum.</p>
-                <p>In hoc etiam mandato omne mendacium, sed perniciosum precipue condempnatur.</p>
-                <p>Sextum mandatum est: Non concupisces domum proximi tui, suple, cum eius iniuria, in quo mandato implicite inhibetur cupiditas possessionis immobilis, catholici precipue cuiuscumque.</p>
-                <p>Septimum mandatum est: Non desiderabis uxorem eius, non servum, non ancillam, non bovem, non asinum, nec omnia que illius sunt, in quibus omnis cupiditas possessionis aliene, quantum ad res mobiles, condempnatur.</p>
-                <p>Hiis autem decem mandatis duo superaddit evangelium: dilectionem scilicet dei et proximi.</p>
-                <p>Deum diligit qui predicta mandata ex amore, non ex timore pene, principaliter custodit; proximum autem debet quilibet diligere sicut seipsum, ubi hec coniunctio sicut non dicit equalitatem sed conformitatem; ut videlicet diligas proximum tuum ad quod teipsum: hoc est, ad bonum, non ad malum; et quomodo teipsum: hoc est, spiritualiter, non carnaliter, secundum quod carnalitas dicit vitium; item, quantum teipsum: hoc est, in prosperitate et adversitate, sanitate et infirmitate; item, quantum teipsum respectu temporalium: pro tanto ut plus diligas omnem hominem et singulum, quam omnem affluentiam temporalem; item, sicut teipsum: pro tanto ut plus diligas proximi tui animam seu anime salutem eternam quam tuam vitam propriam temporalem, sicut etiam anime tue vitam debes vite preponere carnis tue; item, qualiter teipsum:ut videlicet omni alii in necessitate subvenias, sicut tibi velles in necessitate consimili subveniri.</p>
-                <p>Et hec omnia intelliguntur, cum dicitur: Diliges proximum tuum sicut teipsum.</p>
-                <p>Sex sunt opera misericordie que ex Mathei evangelio patefiunt, que sunt: pascere famelicum; potare sitibundum; hospitio recipere peregrinum; vestire nudum; visitare infirmum; consolari carceri mancipatum; septimum vero ex Tobia colligitur, quod est: sepelire corpora mortuorum.</p>
-                <p>Septem vero peccata capitalia sunt: superbia, invidia, ira vel odium, accidia, avaritia, gula, luxuria.</p>
-                <p>Et est superbia amor excellende; de qua oriuntur iactantia, ostentatio, ypocrisis, scismata, et similia.</p>
-                <p>Invidia vero est odium felicitatis aliene; de qua oriuntur detractio, murmuratio, dissencio, perversa iudicia et similia.</p>
-                <p>Ira est appetitus vindicte et nocumenti alieni que, cum perseverat in corde, fit odium, de qua oriuntur persecutiones verborum et factorum, plage, homicidia, et similia.</p>
-                <p>Accidia est tedium boni spiritualis, ex quo homo nec in deo nec in divinis laudibus delectatur; ex qua sequitur ingnavia, pusillanimitas, desperatio, et similia.</p>
-                <p>Avaritia est immoderatus amor mobilis vel inmobilis affluende, vel illicite adquirendo, vel illicite detinendo; ex qua oriuntur fraus, furtum, sacrilegium, symonia, et omne turpe lucrum.</p>
-                <p>Gula est inmoderatus amor delectationis secundum gustum in cibo et potu, in qua quintupliciter peccatur: scilicet in tempore, quando commeditur nimis mane aut nimis tarde aut nimis assidue; item in qualitate, cum queruntur cibaria opipara, id est nimis delicata; item in quantitate, quando nimis commeditur vel bibitur, quod est vilissimum genus gule; et est nimium in cibo et potu quod cor aggravat et impedit sensum interiorem aut exteriorem, seu quod ledit corporis sanitatem; item in aviditate seu voracitate; et ultimo in curiosa et exquisita alimentorum preparatione pro gule deliciis excitandis, que quinque continentur in hoc versu: Prepropere, laute, nimis, ardenter, studiose.</p>
-                <p>Luxuriam vero non oportet notificare, cuius infamia aerem inficit universum.</p>
-                <p>Septem vero virtutes principales sunt, fides, spes, caritas, que ad Deum ordinantur, et iccirco theologice appellantur; prudentia, iustitia, temperantia, fortitudo, per quas homo ad seipsum et proximum ordinatur.</p>
-                <p>Et est actus prudentie bonum eligere; actus iustitie recte facere; actus temperantie non impediri deliciis; actus fortitudinis, non dimittere bonum agendum pro angustiis vel molestiis quibuscunque.</p>
-                <p>Et dicuntur hee quatuor virtutes cardinales, hoc est, principales; quia istis iiiior plures alie sunt subiecte de quibus, quia pro solis simplicibus laboramus, ad presens amplius non tractamus.</p>
-                <p>Septem etiam sunt gratie sacramenta, quorum dispensatores sunt prelati ecclesie; quorum quinque ab omnibus debent recipi christianis: utpote baptismus, confirmatio, penitentia, eukaristia suo tempore, et extrema unctio, que tantum illis dari debet qui gravis infirmitatis indiciis videntur mortis appropinquare periculo; dum tamen, si fieri potest, detur dum sunt compotes rationis.</p>
-                <p>Et si contingat etiam eos frenesi vel quacunque alienatione mentis laborare, si ante alienationem erant de sua salute solliciti, consulimus nichilominus eis hoc sacramentum fiducialiter ministrari.</p>
-                <p>Credimus enim et experimentis didicimus quantumcumque frenetico, si tamen sit predestinationis filius, ipsius susceptionem, vel ad habendum lucidum intervallum, vel saltem ad spirituale comodum, utpote augmentum gratie, profuturum.</p>
-                <p>Sunt et duo alia sacramenta, ordo et matrimonium; quorum primum perfectis convenit, secundum vero novi testamenti tempore solis convenit inperfectis: et tamen ipsum ex vi sacramenti credimus largiri gratiam, si sincero animo contrahatur.</p>
-            </div>
-            <div>
-                <head>010</head>
-                <p>(10) De excommunicationum sententiis publicandis.</p>
-                <p>Eisdem etiam temporibus sententie publicentur, nostris ac predecessorum nostrorum temporibus olim late; verbi gratia excommunicati sunt ex Oxoniensi concilio</p>
-            </div>
-            <div>
-                <head>10i</head>
-                <p>(10i) ecclesias suo iure privantes, et earumdem libertates per malitiam et contra iustitiam infringere vel perturbare etiam contendentes; ubi tria genera hominum excommunicationis vinculo innodantur: auferentes scilicet ecclesiis iura sua; infringentes ecclesiasticas libertates, et sine fractione contentiose turbantes easdem.</p>
-                <p>Quod intelligimus non solum de generalibus libertatibus universalis ecclesie, verum etiam de specialibus tam temporalibus quam spiritualibus contra iustitiam ecclesie cuiuscunque; in quo illos excommunicari intelligimus precipue qui litteris aut iuribus curie laicalis ecclesiasticarum causarum processum impediunt, que ita ad ecclesiam pertinere noscuntur quod nullatenus possunt nec consueverunt per seculare iudicium terminari; quod dicimus non intendentes predictam sententiam ad istos tantummodo coartare nec turbationes iurium ecclesiasticorum alias approbantes, sed quia huiusmodi dei et ecclesie inimicos volumus rigore debito castigare.</p>
-                <p>Ex huius insuper sententie decreto excommunicatos denuntiari precipimus omnes illos qui falso exemptionis titulo episcopalem aut archiepiscopalem processum impediunt aut subterfugiunt disciplinam.</p>
-            </div>
-            <div>
-                <head>10ii</head>
-                <p>(10ii) Item, omnes illos qui pacem et tranquillitatem domini regis et regni iniuriose perturbare presumunt, et qui iura domini regis iniuste detinere contendunt.</p>
-                <p>Ex quo intelligimus excommunicari non solum guerrarum suscitantes horrorem, verum etiam latrones publicos omnes pariter et predones et quoscunque regni iustitiam temere impugnantes.</p>
-            </div>
-            <div>
-                <head>10iii</head>
-                <p>(10iii) Item, excommunicantur universi qui scienter falsum perhibent testimonium vel perhiberi procurant vel qui tales testes scienter producunt ad impediendum iustum matrimonium vel ad exheredationem alicuius hominis procurandam.</p>
-            </div>
-            <div>
-                <head>10iv</head>
-                <p>(10iv) Item, excommunicantur advocati omnes qui malitiose per quascunque exceptiones verum matrimonium impediunt ne effectum debitum sortiatur, vel in quibuscunque causis ut contra iustitiam processus ecclesie diutius suspendatur.</p>
-            </div>
-            <div>
-                <head>10v</head>
-                <p>(10v) Item, excommunicantur omnes illi qui gratia lucri, odii, vel favoris, malitiose crimen imponunt alicui, cum apud bonas et graves personas non fuerit infamatus, ut sic ei purgatio indicatur, vel alio modo gravetur.</p>
-            </div>
-            <div>
-                <head>10vi</head>
-                <p>(10vi) Item, excommunicantur omnes qui vacante ecclesia malitiose opponunt vel opponi procurant questionem de iure patronatus, ut verum patronum a collatione illius ecclesie saltem impediant illa vice.</p>
-            </div>
-            <div>
-                <head>10vii</head>
-                <p>(10vii) Item, excommunicantur omnes illi qui malitiose contempnunt exequi mandatum regis de excommunicatis capiendis, vel eorum impediunt captionem seu procurant iniustam eorum liberationem contra decretum ecclesiastice discipline.</p>
-            </div>
-            <div>
-                <head>10viii</head>
-                <p>(10viii) Item, excommunicantur in concilio sancte memorie Ottoboni omnes illi qui pro impedimento pacis seu compositionis litigantium quicquam recipiunt donec ipsum sic receptum restituerint donatori.</p>
-            </div>
-            <div>
-                <head>10ix</head>
-                <p>(10ix) Item, excommunicantur per eundem quicunque de domibus, maneriis, vel grangiis, vel locis aliis archiepiscoporum vel episcoporum vel aliarum personarum ecclesiasticarum contra ipsorum voluntatem vel custodum rerum earundem aliquid auferunt vel consumunt vel iniuriose contractant; qua sententia ligantur nec absolvi possunt donec de iniuria satisfecerint competenter.</p>
-            </div>
-            <div>
-                <head>10x</head>
-                <p>(10x) Item, excommunicantur ab eodem quicunque abstrahunt violenter reum ad ecclesiam vel cimiterium vel claustrum fugientem, vel qui ei victum necessarium prohibent exhiberi, vel qui res alienas in locis predictis depositas violenter asportant vel asportari faciunt, vel qui asportationem talem factam nomine suo vel a familiaribus suis ratam habent, vel qui ad hoc publice vel occulte consilium vel auxilium prebuerint seu consensum.</p>
-            </div>
-            <div>
-                <head>10xi</head>
-                <p>(10xi) Item, excommunicati sunt ab omnibus archiepiscopis et episcopis Anglie omnes qui veniunt aut faciunt contra magnam cartam; que sententia per sedem apostolicam est pluries confirmata.</p>
-                <p>De hac autem publicatione inquirant archidiaconi locorum diligenter; et quotiens presbiteros invenerint predictam moralem instructionem seu premissas excommunicationum sententias statutis temporibus populo minime predicasse, totiens eos arguant et, pena canonica castigando, supplere compellant quod temere omiserunt.</p>
-            </div>
-            <div>
-                <head>011</head>
-                <p>(11) De hospitalitate tenenda.</p>
-                <p>Preterea, cum sacro testante eloquio, pastores greges sibi creditos pascere teneantur, ac os bovis triturantis non debeat alligari, statuimus ut rectores, qui in ecclesiis suis non faciunt residentiam corporalem nec habent vicarios, per yconomos suos hospitalitatis gratiam exhibeant iuxta quod sufficiunt ecclesie facultates; adeo ut saltem parochianorum pauperum necessitati subveniatur extreme et ut qui ibidem transeuntes predicant verbum dei, necessaria recipiant corporis alimenta, ne ecclesie ipsorum inopie violentia a predicantibus merito deserantur.</p>
-                <p>Dignus est enim operarius cibo suo, nec quisquam tenetur propriis stipendiis militare.</p>
-            </div>
-            <div>
-                <head>012</head>
-                <p>(12) De certificationibus faciendis.</p>
-                <p>Quidam ruralium decanorum in citationibus faciendis contra omnem iuris ordinem de luciferana versutia merito diffamantur, qui videlicet certificationem subdolam vendunt pro peccunia filiis falsitatis, nulla citatione ad notitiam citati ante certificationem huiusmodi vel postea aliquatenus veniente, unde frequenter evenit ut innocens condempnetur.</p>
-                <p>In cuius nequitie remedium statuimus ut nulli tradatur vel concedatur certificatorium, nisi die solempni inter missarum sollempnia, in ecclesia ubi citatus fovet larem vel amplius conversatur, publice recitatum; hoc adiuncto moderamine, ut citatus sufficientes habeat inducias ut die et loco sibi prefixis competenter valeat comparere.</p>
-                <p>Quod si casu aliquo tantum tempus arcet quod dilationi locus non pateat, citatione facta publice coram testibus, detur certificatorium in ecclesia vel alio loco publico, coram testibus fidedignis; ita quod dies citationis et locus in ipso certificatorio exprimantur.</p>
-                <p>Et nullo modo fiat certificatio ante citationem factam; quod iurent se fideliter facturos decani in episcopali synodo omni anno.</p>
-            </div>
-            <div>
-                <head>013</head>
-                <p>(13) De falsis procuratoriis non signandis.</p>
-                <p>Ex horrenda quorundam malitia perpendimus accidisse quod, aliquo possessore ecclesiastici beneficii in remotis agente, aliquis dolosus ipsius adversarius domum eius vel rem aliam contra inhibitionem domini concupiscens, spiritu sathanico se in lucis angelum transfigurans, fingit mendaciter predictum absentem vocari coram iudice, et se ipsius procuratorem existere et vocari nomine absentis ad causam eius in iudicio defendendam, pretendens autem falsum procuratorium alicui decano vel superiori forsitan supplicat in hec verba: Quia sigillum meum paucis est cognitum, peto ut sigillum auctoritatis vestre huic meo procuratorio apponatis; et sic, data mercede iniquitatis, optinet quod requirit.</p>
-                <p>Deinde vero optento falso procuratorio, cum altero, se ipsius fingente mendaciter adversarium, litem ingreditur, et in hac fraude procedens, possessionem tandem nanciscitur per sententiam, vero domino cuius status sic de facto subvertitur hoc penitus ignorante.</p>
-                <p>Volentes igitur tam detestandis fraudibus obviare, statuimus ut nullus decanus seu archidiaconus vel eius officialis seu etiam officialis episcopi sigillum suum alicui procuratorio apponere presumat, nisi hoc ab eo petatur publice in iudicio, vel extra iudicium si is qui procuratorem constituit, quem constet verum esse dominum, presens corporaliter hoc requirat, ut fraus quelibet excludatur.</p>
-                <p>Quicunque vero decanus, archidiaconus, vel eius officialis seu etiam officialis episcopi, ex certa malitia contrarium fecerit, per triennium ipso facto ab officio et beneficio sit suspensus.</p>
-                <p>Quicunque etiam advocatus huiusmodi facinus fieri procuraverit suspensus sit per triennium ab officio advocandi, et inhabilis ad beneficium ecclesiasticum optinendum.</p>
-                <p>Quod si sit uxoratus aut bigamus, excommunicationi subiaceat ipso facto, eo quod per tale procuratorium actum fuerit vel procuratum modis omnibus pro infecto penitus reputato.</p>
-                <p>Procurator autem ipse totius falsitatis intentor ab omni actu legitimo perpetuo repellatur; et hii omnes nichilominus, si super hoc convinci valeant, parti lese ad interesse et restituenda dampna omnia teneantur.</p>
-            </div>
-            <div>
-                <head>014</head>
-                <p>(14) Ne fiant clamdestine inquisitiones.</p>
-                <p>Per provinciam nostram frequenter perpendimus iustos ecclesiasticorum beneficiorum possessores suis beneficiis fraude diabolica spoliari.</p>
-                <p>Dum enim nonnulli infernalis rogi facibus agitati in ipsorum beneficia oculos ambitionis infigunt, procurant se per patronos ad eadem presentari et, impetrantes clamdestinas inquisitiones fieri per decanos vel alios, possessionem nanciscuntur beneficiorum huiusmodi, iustis eorundem possessoribus hoc penitus ignorantibus; unde contingit de petitore perfido fieri possessorem, et de possessore vero fieri actorem, omni iustitia reclamante.</p>
-                <p>Nos autem cupientes a nostra provincia tantam nequitiam funditus extirpare, statuimus et perpetuo ordinamus ut nullus decanus seu quivis prelatus alius, exceptis personis episcoporum, quorum hac ordinatione auctoritas non artatur, inquisitionem faciat de presentationis huiusmodi negotio, nisi in pleno loci capitulo, eo qui possessionem ecclesie incumbit vocato legitime, sub tanti temporis spatio quo possit sibi prudentum virorum consilio prospicere, et defensioni status sui sufficienti remedio providere.</p>
-                <p>Quicquid autem decetero contra hanc ordinationem nostram fuerit attemptatum decernimus penitus non tenere; ad satisfaciendum nichilominus de dampno omnimodo, quod idem possessor perpessus fuerit, decanum vel prelatum alium taliter clamdestine inquirentem presentis sanctione concilii condempnantes; ambitiosum ipsum ab ipso beneficio sic nequiter ambito excludentes perpetuo, et nichilominus eundem ab omni obtentu ecclesiastici alterius beneficii per triennium suspendentes.</p>
-            </div>
-            <div>
-                <head>015</head>
-                <p>(15) De firmis.</p>
-                <p>Vendentes et ementes qui de templo dudum cepit eicere, si cepta penitus perfecisset, non fraudarentur pauperes firmarum contractibus, quibus convertitur in mammonam quod est Christi visceribus infundendum.</p>
-                <p>Huic igitur pesti remedium apponentes, precipimus firmiter observari quod circa firmas in Oxoniensi concilio salubriter est provisum: ut videlicet ecclesie ad firmam minime tradantur, nisi ex causis necessariis per suos episcopos approbatis.</p>
-                <p>Statuimus insuper ut nulli tradantur ad firmam, nisi personis ecclesiasticis sanctis et honestis, quas locorum episcopi libere valeant cohercere; proviso etiam ut parochie pauperibus de firmis huiusmodi pinguis portio iuri consona, secundum arbitrium episcopi, assignetur sub testimonio quatuor fidelium parochianorum eisdem fideliter eroganda.</p>
-                <p>Et ut ab huiusmodi firmis omnis contractus ymaginarius subducatur, quia in personis clericorum falso suppositis vel sub nomine baiulatus ecclesie ad firmam laicis conceduntur, sacro approbante concilio ordinamus ut siquis clericus in tali versutia repertus fuerit, puniatur secundum statutum sancte memorie domini</p>
-                <p>Ottoboni, et gravius si prelati viderint expedire.</p>
-            </div>
-            <div>
-                <head>016</head>
-                <p>(16) De religiosis.</p>
-                <p>Plures invenimus religiosas domos ordinis sancti Augustini que, pro eo quod olim quibusdam matricibus ecclesiis ultramarinis adheserant, a quibus modo immo iam diuturno tempore separate noscuntur, occasione quarundam cerimoniarum a dictis matricibus domibus receptarum, per quas discrepant a ceteris eiusdem ordinis domibus in Cantuariensi provincia constitutis, non conveniunt cum ceteris in capitulo generali singulis trienniis iuxta generale concilium celebrando.</p>
-                <p>Sed quia turpis est pars que non convenit suo toti, statuimus ut decetero omnes huiusmodi domus, salva sibi cerimoniarum suarum observantia speciali, moneantur per locorum episcopos ut conveniant cum aliis canonicis in capitulo generali de regimine et reformatione ordinis communiter tractaturi, vel si inter eos quantum ad substantialia religionis sit notabilis diversitas, sibiipsis separatim constituant capitulum generale; alioquin hoc facere per censuram ecclesiasticam compellantur.</p>
-            </div>
-            <div>
-                <head>017</head>
-                <p>(17) De sanctimonialibus.</p>
-                <p>Tantum invaluit detestande lubricitatis enormitas ut quidam, nec legibus nec canonibus deferentes ad castitatem sanctimonialium contutandam editis, cum ipsis sacrilegium et incestum committere non formidant; cui horrendo flagitio remedium apponere cupientes, omnes tam clericos quam laycos huiusmodi turpitudinis patratores majoris excommunicationis sententia innodamus, solis personis episcoporum huiusmodi absolutionem sententie reservantes, excepto mortis articulo, in quo sic absolvi valeant a quolibet sacerdote ut, si convaluerint, piaculum suum huiusmodi teneantur sub pena predicti anathematis infra trium mensium spatium propriis episcopis confiteri aut, sede episcopali vacante, custodi spiritualitatis aut decano ecclesie cathedralis.</p>
-            </div>
-            <div>
-                <head>018</head>
-                <p>(18) De eodem.</p>
-                <p>Sanctimoniales plurime in vagationis vitio delectate, Dyne vagantis exemplo, in consimile corruptionis scandalum immo longe perniciosius assidue prolabuntur.</p>
-                <p>Cui periculo providentes, magis optantes earum saluti consulere quam vanis earundem desideriis complacere, sub pena excommunicationis totaliter inhibemus ne qua illarum etiam cum socia, nedum sola, apud parentes vel affines quantumcunque propinquos, nedum apud extraneos quantumcunque fame, eminentie, vel religionis existant, ultra tres dies naturales causa recreationis perhendinare, seu pro quacunque necessitate vel occasione ultra sex dies, cessante infirmitate, commorari presumant; nisi locorum episcopis aliud aliquotiens ex causa necessaria videatur, de quo eorum conscientias in tremendo iudicio oneramus.</p>
-                <p>Hanc autem ordinationem ad illas non extendimus que exterius coguntur mendicare sibi necessaria, dum mendicant.</p>
-                <p>Item de eodem.</p>
-            </div>
-            <div>
-                <head>019</head>
-                <p>(19) Item, moniales quedam in tantum desipiunt ut, cum sint etatis legitime et doli capaces, postquam ultra annum inter moniales monastice vixerint, putant se non esse professas ac sibi licere redire ad seculum, pro eo quod benedictionem episcopalem cum solempnitate voti emissi minime receperunt.</p>
-                <p>Nos vero errorem huiusmodi excludentes, presentis auctoritate concilii declaramus eas ipso facto professas existere reputandas, postquam ultra annum vitam sponte in collegio duxerint regularem, adeo ut ad seculum redire nullatenus permittantur, nichilominus ab episcopis cum solempnitate debita consecrandas suo tempore vel velandas.</p>
-                <p>Idem etiam, quantum ad professionis vinculum, sentimus de monachis et religiosis aliis quibuscunque quibus nichil obsistit canonicum; et eos, si ultra annum religionis habitum in monasterio sponte detulerint et ipso reiecto ad seculum redierint, esse sicut apostatas ab ecclesiasticis officiis repellendos, et ad repetenda sua monasteria secundum iuris exigentiam compellendos ; de quibus diligens fiat inquisitio per archidiaconos, quoniam multos huiusmodi sub ovino vellere lupinum animum noverint palliare.</p>
-            </div>
-            <div>
-                <head>020</head>
-                <p>(20) De apostatis.</p>
-                <p>Preterea sunt nonnulli quos apparet per facti evidentiam seculum intendere perpetuo relinquere et per certa indicia in claustri excubiis velle toto suo tempore domino militare, qui tamen, prevalente in eis carnali desiderio, redeunt ad vomitum, seculum repetentes inter sidera errantia computandi.</p>
-                <p>Quamvis igitur iura manifeste diffiniant huiusmodi non posse religionis habitum omnino, deserere quin saltem in religione aliqua perpetuo maneant laxiori, quidam tamen attrite frontis audacia apostasie infamiam non verentes, postquam absolute se velle seculum relinquere ostenderunt, relicta Ierosolima, redeunt in Egiptum.</p>
-                <p>Quocirca statuimus ut ordinarii locorum tales cum omni diligentia investigent, et subtractione tam officii quam beneficii ecclesiastici, si quod habent, ad statum pristinum vel laxiorem cogant regulam pertransire.</p>
-                <p>Quod si sint laici huiusmodi apostate, et ipsi ad salutis sue studia per censuram ecclesiasticam compellantur.</p>
-                <p>Hanc autem ordinationem ad illos non extendimus cum quibus sedes apostolica aliter ordinavit.</p>
-            </div>
-            <div>
-                <head>021</head>
-                <p>(21) Ne religiosi executores testamentorum fiant.</p>
-                <p>Religiosa sinceritas ab omni secularis inplicationis macula est eo solicitius preservanda quo devotionis sancte simplicitas facilius retardatur, cum in curis extrinsecis mentis oculus distractus ab unitatis studio prepeditur.</p>
-                <p>Quocirca in concilio de Lamth salubriter est provisum ne aliqui religiosi cuiuscunque professionis sint executores testamentorum, nisi de ordinariorum licentia et voluntate procedat.</p>
-                <p>Cui statuto adiciendum duximus ut nullus religiosus permittatur executor alicuius existere testamenti, nisi suus superior sufficienter caveat pro religioso huiusmodi, quod exequetur fideliter et reddet integre rationem de residuis si que fuerint, et de dampnis si que per ipsum evenerint, loci ordinario absque difficultate qualibet responsurus.</p>
-                <p>Et quia nonnulli religionis habitum deferentes, licet non sint executores, tamen distributores efficiuntur bonorum defuncti, temeritate propria vel imprudentia aliena, ex quo magnam provenire vidimus bonorum huiusmodi lesionem, idem circa huiusmodi distributionem precipimus observari quod circa executionem superius est provisum, ne aliter executioni vel distributioni huiusmodi se inmisceant sub pena anathematis inhibentes.</p>
-                <p>Unde qui sufficienter cavere nequeunt, sciant se tam ab executione quam a distributione bonorum huiusmodi presentis diffinitione concilii perpetuo elongatos.</p>
-            </div>
-            <div>
-                <head>022</head>
-                <p>(22) De habitu clericorum.</p>
-                <p>Quamvis religionis nomen vite monastice loquentium usus appropriet, habet tamen clericalis honestas religiose vite gradum eximium, si ea custodiat vita et habitu que sacri canones decreverunt clericis observanda.</p>
-                <p>Sed proth dolor! clerici plurimi huius inclite regionis, iudeorum antiquam insaniam imitantes, qui Grecas glorias paternis honoribus pretulerunt, dum verecundantur clerici apparere, militari se contegunt apparatu, ut stultis placeant quos constat cunctis sapientibus eo ipso merito displicere ac fatuos reputari.</p>
-                <p>Et cum corona sit caracter ecclesiastice militie et revelati cordis ac patuli radiis celestibus insigne, ipsi ut veraciter ostendant se huius caracteris titulum erubescere, tena coronas abscondunt, quasi celestes radios repellentes, et iudeorum instar corda sua gerentes, erroris velamine obscurata.</p>
-                <p>Statuto igitur adherentes domini Ottoboni, nichilominus ordinamus et districte precipimus ut clericus quilibet in sacris ordinibus constitutus vestem exteriorem gerat dissimilem militari, utpote anterius et posterius non birratam, vel saltem ex forma sua militari vel laicali congrua dissimilem honestate.</p>
-                <p>Et qui secus facere presumpserit, quamdiu forme contrarie vestem tulerit, ab ingressu ecclesie suspendatur.</p>
-                <p>Et quia predictus legatus contra portantes infulas vel tenas coram prelatis aut coram populo publice deferentes statuit ut si moniti se minime emendaverint, ipso facto ab officio suspensionem incurrant; in qua si per tres menses perstiterint, extunc a beneficio sint suspensi; a qua suspensione absolvi nequeant nisi data sexta parte ecclesiasticorum bonorum suorum per manus episcoporum pauperibus eroganda, nichilominus penis aliis puniendi, iuxta arbitrium prelatorum; nos autem huiusmodi statutum advertentes modice efficacie hactenus extitisse pro eo quod minores prelati huiusmodi clericos monstruosos monere non audent, propter quod in penas a dicto legato statutas videntur pusillanimitatis sue merito incidisse, et raro episcoporum aspectibus huiusmodi clerici se presentant; statuimus ut omni monitione cessante, cum clericos iuris ignorantia non excuset, predicti clerici sue protervie merito, quotienscunque publice coram populo vel prelatis huiusmodi infulas portaverint, nisi forsan in itinere, in penas omnes incidant supradictas.</p>
-                <p>Caveant insuper omnes illi, de quibus loquitur legatus, qui moniti infularum insolentiam publice detulerint per pretaxati temporis spatium, ne in suspensionem ab officio et beneficio inciderint merito sue culpe.</p>
-                <p>Mandamus etiam inposterum ut de talibus fiat per decanatus singulos inquisitio specialis, et cuiuscunque sint gradus vel excellentie contra ipsos in forma canonica procedatur.</p>
-            </div>
-            <div>
-                <head>023</head>
-                <p>(23) De filiis presbiterorum.</p>
-                <p>Cum a iure sit inhibitum ne absque dispensatione apostolica preficiantur filii rectorum aut presbiterorum in ecclesiis in quibus patres eorum immediate sue proximo ministrarunt, et constet ipsa beneficia vacare si contrarium de facto fuerit attemptatum, precipimus ut prelati de ecclesiis sic vacantibus diligenter inquirant, et iuxta iuris exigentiam de eis non differant ordinare, cautius precaventes decetero ut tales  ad huiusmodi beneficia nullo titulo admittant, ne contra iustitiam in hereditate crucifixi per surreptionem locus pateat successioni.</p>
-            </div>
-            <div>
-                <head>024</head>
-                <p>(24) De institutionibus.</p>
-                <p>Ex solito cursu causarum multis recepimus conquerentibus quod nonnulli coepiscopi nostri, clericos presentatos ad vacantes ecclesias admittentes, litteras testimoniales eis recusant impendere facti sui; propter quod, suboriente inter huiusmodi presentatos et alios materia questionis, succumbit plerumque veritas falsitati.</p>
-                <p>Nos autem ecclesiasticis regulis adherentes, que fidem gestorum ex legalibus colligunt instrumentis, statuimus ut unusquisque episcopus clerico quem ad ecclesiam aliquam admittit litteras patentes super sua admissione concedat, inter alia continentes in quo consistat ordine et quo titulo ad beneficium huiusmodi admittatur.</p>
-            </div>
-            <div>
-                <head>025</head>
-                <p>(25) De clericis plura beneficia occupantibus.</p>
-                <p>Langor prolixior gravat medicum, nec faciliter evellitur plantatio infernalis que innumeris perditionis filiis est infixa; nec alicui mortalium hactenus legitur fuisse concessum simul totam convertere multitudinem impiorum, sacra pagina contestante: Deus, inquit, consumet nationes has in conspectu tuo paulatim atque per partes.</p>
-                <p>Sane ecclesia Anglicana a membris putridis et falsis clericis ab olim sustinuit plagas diras, qui pompe et avaritie estibus inflammati, beneficia cum cura absque dispensatione apostolica ac contra canones acervantes, nec veriti sunt hactenus animas perdere acquisitas sanguine redemptoris, nec erubuerunt fures existere et vitam infamem agere tamdiu, donec horrenda morte, ut in multis vidimus, divine severitatis percussi fulmine, de medio sunt sublati.</p>
-                <p>Quam plagam paulatim atque per partes sanare cupientes, huiusmodi multiplicationem in futurum salubriter precipiendo inhibuimus, circa adventus nostri principium, sub certi forma rigoris, ne quis auderet extunc huiusmodi pluralitate se involvere ullo modo; preteritam etiam minis salubribus deterrentes, quas minas intendimus auctore deo effectui mancipare; ut sic, iuxta sacra eloquia, radicatam nequitiam valeamus paulatim funditus extirpare, paulatim quidem dicente scriptura: Non poteris eas delere pariter, ne forte multiplicentur contra te bestie terre.</p>
-                <p>Huius autem processus nostri conatibus boni fructus exordium contulit pietas redemptoris, dum saltim est prohibita pristina effrenatio beneficia huiusmodi sine scrupulo admittendi.</p>
-                <p>Quibusdam etiam dedit deus compunctionis spiritum, ut dampnate pluralitatis sue magnam partem absciderint, quibusdam insuper ut superfluitatem suam nostre submiserint discretionis arbitrio moderandam; qua submissione noverint universi huiusmodi excessus non purgari vitium, cum non possimus cum ipsis in talibus dispensare, sed purgationem ipsius quodammodo, quamvis tenuiter, inchoari.</p>
-                <p>Ceteros autem omnes et singulos huiusmodi pluralitatem dampnabiliter occupantes, et in sue adhuc persistentes arrogantie supercilio, monemus primo, secundo, et tertio, quia cum parata sit eis absorbendis nisi citius penitentiam egerint vorago infernalis, mola asinaria deprimente, ulteriori deliberationi nulla potest concedi dilatio, quatinus huiusmodi beneficia libere et absolute infra sex mensium spatium in episcoporum suorum manibus omnino resignent, satisfacientes nichilominus, ut eorum status patitur, ecclesiis sic fraudatis, nunquam per se vel per alios, clam vel palam, vere vel ymaginarie, aliquid de huiusmodi ecclesiarum fructibus illicite recepturi; salvo nobis iure de illis beneficiis ordinandi, quorum collatio est ad nos per lapsum temporis devoluta; alioquin extunc contra ipsos, favente altissimo, in forma canonica procedemus.</p>
-                <p>Interim etiam hac monitione nec nobis nec fratribus ac coepiscopis nostris preiudicare intendimus, quin contra huiusmodi ordinario progressu particulariter procedatur.</p>
-            </div>
-            <div>
-                <head>026</head>
-                <p>(26) De advocatis.</p>
-                <p>Veloces ad audiendum existere et tardos ad loquendum sanctus Iacobus imperat, et a iuventute usque ad maturitatis annos edoctum decet ceteris prestare ducatum.</p>
-                <p>In scola siquidem Putagore quinquennale tenebant auditores silentium, priusquam de illa gentium sapientia disserere sinerentur.</p>
-                <p>Cuius prudentie disciplinam plurimi advocatorum huius temporis non sectantur; quin potius post unum librum iuris vix auditum dimidium arrogant sibi officium in causis ecclesiasticis publice postulandi.</p>
-                <p>Et quia veritatem iuris ignorant, ad fraudes horribiles impeditivas processus iudicialis tantummodo se convertunt.</p>
-                <p>Cui pesti remedium apponere cupientes, statuimus ut nullus decetero permittatur advocationis officium publice exercere, nisi prius ad minus per triennium audiverit cum debita diligentia ius canonicum et civile.</p>
-                <p>Huius autem fidem, ubi nec de condigno apparet testimonio nec per facti evidentiam, proprio faciat iuramento.</p>
-            </div>
-            <div>
-                <head>027</head>
-                <p>(27) De suffragiis episcoporum.</p>
-                <p>Ingratitudinis vitium est plurimum detestandum, et subditorum precipue ad prelatos, qui sollicite pervigilant tanquam rationem reddituri pro sibi creditis animabus.</p>
-                <p>Quocirca statuimus ut, archiepiscopo vel episcopo decedente, quilibet sacerdos tam religiosus quam secularis qui defuncto subditus extiterat, pro ipso missam unam dicere teneatur; fratres etiam et coepiscopi omnes in congregatione sua sequenti proxima simul faciant sollempne officium pro defuncto, singuli nichilominus in capellis suis condigna sibi suffragia exhibentes, sicut desiderant sibi in casu consimili exhiberi.</p>
-                <p>Acta sunt hec in concilio apud Lameth. celebrato et recitata in ultima actione dicti concilii die veneris, vi idus Octobr., E littera dominicali currente, anno domini mo cco lxxxo primo, indictione nona, pontificatus domini Martini pape iiii primo, anno regni illustris domini nostri Edwardi regis Anglie nono et consecrationis nostre tertio.</p>
-            </div>
-            <div>
-                <head>explicit</head>
-                <p>Expliciunt constitutiones domini Iohannis archiepiscopi Cantuariensis composite apud Lamheth..</p>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Incipiunt constitutiones fratris Iohannis de Peccham quondam Cantuariensis archiepiscopi.</p>
+                    <p>Ab exordio nascentis ecclesie christiane ortodoxi patres retroactis temporibus errorum laqueis, morum corruptionibus, adversitatum molestiis, conciliorum tractatibus obviaverunt.</p>
+                    <p>In eis siquidem sapientes se mutuo exacuunt, et congregati sancti viri Christi domini sensum et concilium faciliter impetrant, qui se spondet talibus sui nominis honorem zelantibus medium affuturum.</p>
+                    <p>Sanctorum igitur patrum vestigiis inherentes, iurisque auctoritate compulsi, ac necessitate multiplici ecclesie perurgente, nos frater I. permissione divina Cantuariensis archiepiscopus, totius Anglie primas, cupientes presentibus incomodis obviare, sperantesque, Christi patrocinante gratia, ad hoc nos posse proficere, cum fratrum ac coepiscoporum nostrorum ac ceterorum nostre provincie prelatorum assistentia efficaci, de prudentum virorum consilio, hoc sacrum concilium mandavimus convocari; intendentes, previa spiritus sancti gratia, ope vestra et consilio transgressores canonum corrigere; quedam etiam olim salubriter edita, non tamen satis utentium moribus approbata, recensita stabilire, et contra novellas quasdam tergiversationes, quas in fumo sulphureo non cessat abyssi puteus exalare, novis quibusdam remediis occurrere ut valemus, in quo obtrectatorum dentes minime formidamus.</p>
+                    <p>Quoniam etsi res divine tanquam perfectissime in certis consistant finibus, humani tamen iuris conditionem in infinitum decurrere cogit necessitas manifesta.</p>
+                    <p>Contemptum autem canonum immane esse piaculum utriusque docet pagina testamenti.</p>
+                    <p>Decretis enim apostolicis et conciliorum diffinitionibus obsistentes a sancte matris ecclesie meritis sunt precisi, utpote quos rumphea Mosayca plectit sententia capitali, et sapientia incarnata illos qui ecclesiam non audiunt ethnicis et publicanis similes esse decrevit, ac contemptum auctoritatis apostolice in contemptum patris omnium redundare.</p>
+                    <p>Quippe quos legum suarum Petrus ligat vinculis, in summi et celestis imperatoris palatio sunt ligati.</p>
+                    <p>Econtra tamen quosdam frivole de christiani nominis titulo gloriantes tam clericos quam laicos cotidianis angustiis experimur iugum canonum abicere et apostolicas sanctiones arrogantia dyabolica conculcare, illius gloriosi martiris Thome patriarche nostri inmemores, qui se pro huiusmodi iuribus defendendis murum opposuit pro ipsis, primum sustinens exilium et postea passionem.</p>
+                    <p>Lateranensis igitur concilii auctoritate premoniti, faciemus canonicas regulas recitari.</p>
+                    <p>Et quia Lugdunense concilium ultimo celebratum eo enormius quo recensius infringitur, ne quis possit se in temeritate huiusmodi per ignorantiam excusare, ipsum volumus in principio recenseri, non solum ut omnibus innotescat verum etiam ut, si quid in ipso videatur intollerabile istius consuetudini regionis, que in multis ab omnibus aliis est distincta, circa illud temperamentum apostolice clementie humiliter imploretur, quoniam, sacro testante eloquio, melior est obedientia quam victima et quasi peccatum arriolandi est repugnare et quasi scelus ydolatrie nolle acquiescere.</p>
+                    <p>Hanc enim inobedientiam credimus esse causam mutationis miserabilis utriusque parietis ecclesie Anglicane.</p>
+                    <p>Secundo, constitutiones sancte memorie domini Ottoboni eo faciemus legi reverentius quo ipse in eisdem statutis suis hoc mandavit fieri per annos singulos ab archiepiscopis et episcopis in synodis suis de verbo ad verbum, postea ad honorem apostolicum sublimatus.</p>
+                    <p>Tertio vero recitari volumus concilium de Lameht, quod sancte memorie predecessor noster Bonefacius cum fratribus et coepiscopis sui temporis noscitur salubriter edidisse, ut circa ipsum quod dicitur fuisse appellatione suspensum qualiter procedi debeat videatur.</p>
+                    <p>Ultimo vero adiciemus que nobis videntur necessario ordinanda.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) De custodia eukaristie.</p>
+                    <p>Altissimus de terra assumpti corporis creavit humani generis medicinam in vii vasculis repositam, que sunt vii ecclesie sacramenta que a plerisque nec cum condigna tractari reverentia, nec cum debita diligentia dispensari fide didicimus oculata.</p>
+                    <p>In hiis igitur presens correctio sumat exordium, et precipue circa corporis et sanguinis domini sacramentum quod est sacramentum et sacrificium, sacramentum sanctificans manducantes, et sacrificium oblatione sua universis tam vivis quam defunctis proficiens, pro quorum suffragiis immolatur.</p>
+                    <p>Multos igitur esse numero et paucos merito domini sacerdotes cotidianis scandalis experimur, inter quorum dampnabiles accidias hanc plangimus precipue quod ad hoc ipsum eukaristie sacramentum se irreverentes exhibent supra modum, quod execratis linguis conficiunt, contemptibiliter custodiunt et reponunt, et ipsum tanto tempore negligunt immutatum donec corrumpantur species continentes; ut salutis auctor qui infinito amore se in viaticum dedit ecclesie pro tante irreverentie iniuria merito offendatur; in cuius remedium discriminis statuimus ut quilibet sacerdos quem canonica necessitas non excusat conficiat omni ebdomada saltem semel, et ut in qualibet ecclesia parochiali fiat tabernaculum cum clausura decens et honestum, secundum cure magnitudinem et ecclesie facultates, in quo ipsum corpus domini in pixide pulcherrima et lineis integumentis, sed nullatenus in loculo propter comminutionis devitandum periculum collocetur, quod in omni dominica precipimus renovari.</p>
+                    <p>In elevatione vero ipsius corporis domini pulsentur campane in uno latere, ut populares, quibus celebrationi missarum non vacat cotidie interesse, ubicunque fuerint seu in agris seu in domibus, flectant genua, indulgentias concessas a pluribus episcopis habituri.</p>
+                    <p>Sacerdotes autem in custodia eukaristie negligentes puniri precipimus secundum regulam concilii generalis, capitulo Statuimus, et gravius, si in negligentia perseverent.</p>
+                    <p>Circa deportationem vero ipsius eukaristie ad egrotos, servetur honestas alias et alibi constituta.</p>
+                    <p>Attendant insuper sacerdotes quod cum communionem sacram porrigunt simplicibus paschali tempore vel alio sollicite eos instruant sub panis specie simul eis dari corpus et sanguinem domini, immo Christum integrum vivum et verum qui totus est sub specie sacramenti.</p>
+                    <p>Doceant etiam eosdem illud quod ipsis eisdem temporibus in calice propinatur sacramentum non esse, sed vinum purum eis hauriendum traditum ut facilius sacramentum glutiant quod ceperunt.</p>
+                    <p>Solis enim celebrantibus sanguinem sub specie vini consecrati sumere in huiusmodi minoribus ecclesiis est concessum.</p>
+                    <p>Instruant etiam eosdem sumptum ore sacramentum non nimis dentibus comminuere, sed tritum modice sorbere perfecte, ne particulam aliquam eveniat in dentium interstitiis vel alibi remanere.</p>
+                    <p>Parochiales insuper sacerdotes caveant diligenter ne alicui dent corpus domini nisi prius constet eis ipsum fuisse confessum testimonio vel iudicio fidedigno, et huiusmodi certificationis honus ipsi suscepturo imponimus sacramentum qui habet ea que saluti sue sunt necessaria procurare.</p>
+                    <p>Nullus etiam sacram communionem prebeat parochiano alterius sacerdotis sine ipsius licentia manifesta; quam ordinationem non intendimus ad peregrinantes extendere, nec necessitatis casui derogare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) De annualibus.</p>
+                    <p>Sacerdotes insuper caveant universi ne missarum peculiarium seu familiarium se celebrationi obligent, quominus valeant canonico officio commissam sibi officiare ecclesiam, ut tenentur.</p>
+                    <p>Nec presumat aliquis annualia celebranda suscipere nisi pro defuncto celebret cotidie vel procuret specialiter celebrari.</p>
+                    <p>Nullus etiam plura recipiat annualia celebranda quam habet socios sacerdotes, illo casu excepto in quo procurans suffragia fieri pro defuncto consentit expresse defuncti memoriam in missa alii vel aliis copulari.</p>
+                    <p>Nec credat celebrans se dicendo missam unam posse satisfacere pro duobus, pro quorum utroque promisit specialiter et in solidum celebrare.</p>
+                    <p>Licet enim dicat capitulum, De consec. di. v, Non mediocriter, quod nichil minus accipitur cum missa pro cunctis una dicitur quam si pro uno quolibet ipsorum diceretur, loquitur tamen de hiis missis, que anxiato corde dicuntur.</p>
+                    <p>Absit enim ne a quoquam catholico credatur tantum intensive proficere missam unam devote celebratam mille hominibus pro quibus forsan dicitur quantum si pro eis mille misse devotione consimili canerentur.</p>
+                    <p>Licet enim ipsum sacrificium, quod est Christus, sit infinite virtutis, non tamen in sacramento vel sacrificio in sue inmensitatis summa plenitudine operatur, alioquin pro uno mortuo nunquam oporteret missam dicere nisi unam.</p>
+                    <p>Operatur enim in huiusmodi misteriis distributione certa sue plenitudinis quam ipse eisdem lege infallibili alligavit.</p>
+                    <p>Illos autem qui pro annualibus seu anniversariis celebrandis stipendia receperunt, nec ex certa malitia vel accidia satisfecerunt ut tenentur, monemus ut omissa suppleant et ad plenum satisfaciant in futurum; et quandocunque id non fecerint, fructus taliter receptos pro animabus illorum qui eis talia contulerunt erogent pauperibus, aut si utrumque istorum sponte neglexerint, sicut fraudatores fidelium, ab ordinariis suis aspere corrigantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) De baptismo.</p>
+                    <p>Circa sacramentum baptismi quosdam comperimus deliquisse.</p>
+                    <p>Cum enim periclitantibus parvulis pro necessitatis inevitabilis articulo quibuscunque laicis vel mulieribus sit concessum in casibus huiusmodi periclitantes taliter baptizare et huiusmodi baptismum ad salutem constet sufficere si forma debita teneatur, nec debere baptizatos taliter iterum baptizari, quidam tamen stolidi sacerdotes sic baptizatos parvulos non sine sacramenti iniuria rebaptizant; quod ne de cetero fiat firmiter inhibemus, sed super sic baptizatos dicantur exorcismi et catecismi, propter reverentiam ecclesie statuentis.</p>
+                    <p>Forma autem sacramenti in lingua vulgari consistit, non solum in significatis verum etiam in ordine eorumdem quo ipsum sacramentum est divinitus institutum, quo Christus dominus illis verbis et taliter ordinatis ut sunt in lingua latina regenerativam contulit potestatem.</p>
+                    <p>Dicatur ergo sic a taliter baptizantibus: Ich crisne in þe name of þe vader etc. vel aliter in lingua materna secundum consuetudinem patrie; vel in gallico sic: Jeo baptize toy en nun du pere etc.</p>
+                    <p>Quod si sacerdos rationabiliter dubitet an parvulus fuerit in forma debita baptizatus, tenens modum decretalis cum exorcismo et catecismo dicat: Si nondum baptizatus es, ego etc.</p>
+                    <p>Attendant etiam sacerdotes, ne lasciva nomina que scilicet mox prolata sonant lasciviam, imponi permittant parvulis baptizatis, sexus precipue feminini.</p>
+                    <p>Et si contrarium fiat, per confirmantes episcopos corrigatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) De sacramento confirmationis.</p>
+                    <p>Confirmationis insuper sacramentum multi negligunt temerarie, quia desunt forsan ad talia vigiles hortatores; adeo ut plures immo innumeri sunt inveterati dierum malorum qui nondum confirmationis gratiam receperunt.</p>
+                    <p>Cui negligentie dampnabili obviantes, statuimus ut nullus ad sacra-[fo. 93vb]mentum corporis et sanguinis domini admittatur, extra mortis articulum, nisi fuerit confirmatus, vel nisi a receptione confirmationis fuerit rationabiliter impeditus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) Ne quinque simul ordines conferantur.</p>
+                    <p>Cum secundum doctores theologicos militia clericalis vii muniatur ordinibus, singulorum caracteribus in anima consignatis, per singulos etiam recipiens augmentum gratie, nisi ordinati ficte ordinem suscipiant seu crimine irretiti, expedit plurimum ipsos ordines minime recipere inculcatos, quoniam inculcatio reverentiam minuit et gratiam per consequens que per irreverentiam repercutitur ab ingratis.</p>
+                    <p>Contra dignitatem igitur tam reverentissimi dinoscitur esse sacramenti, quinque simul, quatuor scilicet ordines non sacros cum uno sacro, alicui uni homini exhibere, unde in nonnullis aliis provinciis quatuor minores ordines non simul faciliter conferuntur, ut ascendentes clerici ad Christi ministeria quasi canticum graduum continentes cum probati extiterint in minoribus officiis gradatim demum proficiant ad maiora.</p>
+                    <p>Quia igitur ex singulis ecclesiis que pia, que religiosa, queque honestiora sunt tenemur eligere, et ea tanquam faciculum in Anglorum mentibus colligare, precipimus ut episcopi in hiis sequantur canonicas sanctiones, minores etiam ordines quando id potest fieri bono modo pro sacramenti reverentia dentur saltem aliquotiens conbinati, et recipientes eos seu simul seu sigillatim in vulgari lingua publice instruantur de distinctione ordinum, officiorum, et caracterum, ac de profectu gratie, que in singulis ordinibus digne accedentibus augmentatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>(6) De confessoribus.</p>
+                    <p>Sacramentum penitentie naufragantium remedium singulare per quorundam insipientiam sacerdotum debito caret fructu, et qui credunt a fluctibus emergere perniciosius in dampnationis pelagum demerguntur, dum de facto absolvunt plurimi quos de iure absolvere nequeunt; vivificantes, ut ait propheta, propter pugillum ordei et fragmen panis animas que non vivunt, utpote absolventes de facto, excommunicatos a iure, et precipue ab Oxoniensi concilio propter lesionem seu perturbationem ecclesiastice libertatis vel propter consimilia scelera in eodem concilio simili pena dampnata, seu decimas vel alia iura ecclesiastica detinentes, quibus obsistentes ut seductoribus animarum et pulvillos consuentibus sub cubitis reproborum, omnibus Cantuariensis provincie confessoribus sub nobis et nostris coepiscopis constitutis districtius inhibemus ne decetero manus audeant extendere ad seducendas huiusmodi animas per absolutionis signaculum, quod novimus sine satisfactione debita et speciali commissione archiepiscopi et episcopi non tenere, dum sunt in suis sceleribus pertinaces; existimantes nichilominus huiusmodi, non tam confessores quam fovearum diaboli confossores, peccare gravissime, cum convincantur saltem tacite eisdem sceleribus consentire, et scelerosos in sua perfidia confortare; unde caveant ipsi ne eodem cum talibus excommunicationis laqueo involvantur.</p>
+                    <p>Cum insuper nos dudum pluralitatem beneficiorum sacrilege usurpatam cohibere volentes, inhibuerimus sub pena excommunicationis ne quis de facto ad tales in suis furtis et sacrilegiis contumaces manus extenderet absolvendos, quidam tamen sacerdotes potius Baal vel Belial quam domini salvatoris contrarium facere presumpserunt, occidentes animas Christi sanguine redemptas et enervantes ecclesiasticam disciplinam.</p>
+                    <p>Istos igitur quasi vulpes demolientes vineas domini veraciter reputantes, sub pristina districtione precipimus iterato quatinus a talibus absolvendis decetero abstineant et ad renuntiandum beneficiis obtentis illicite vel retentis sollicite inducant.</p>
+                    <p>Alioquin sciant se certissime divine maledictionis fulgure feriendos.</p>
+                    <p>Sunt preterea nonnulli qui pretextu quorumdam privilegiorum generalium a sede apostolica obtentorum spreta contra intentionem apostolicam auctoritate pontificali ipsorum pontificum irrequisito beneplacito et assensu ingerunt se subditorum eorumdem confessionibus audiendis, quorum presumptionem volentes reprimere ut tenemur, prohibemus sub pena excommunicationis ne quis decetero absque episcopi licentia expressa vel probabiliter presumpta confessiones suorum audiat subditorum, nisi in audiendis confessionibus a iurisdictione ordinaria diocesana et metropolitana expresso tenore sui privilegii sit exemptus.</p>
+                    <p>Et si qui contrarium facere presumpserint, procedatur contra eos sicut contra privilegiorum temerarios abusores.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>(7) De penitentia solempnia.</p>
+                    <p>Preterea cum iuxta sacros canones peccata graviora, ut incestus et similia, que vulgatissima suo scandalo totam commovent civitatem, sint solempni penitentia castiganda, quorumdam tamen negligentia id agente, huiusmodi penitentia videtur quasi in oblivionem tradita, et crevisse per consequens audacia huiusmodi horrenda facinora et flagitia perpetrandi; quocirca precipimus ut huiusmodi penitentia solempnis decetero imponatur secundum canonicas sanctiones.</p>
+                    <p>Absolutionem autem ab homicidio voluntario, tam publico quam occulto, solis episcopis, extra necessitatis articulum, reservamus, per quod minorum audaciam refrenare intendimus et non maiorum reverentie in aliquo derogare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>(8) De uno confessore in quolibet decanatu constituendo.</p>
+                    <p>Licet a sanctis patribus iam pridem fuerit ordinatum ut in quolibet decanatu unus sit rector aut vicarius litterature sufficientis, illustratus gratia, fameque laudabilis, assignatus ad confessiones rectorum, vicariorum, aliorum etiam sacerdotum ac ministrorum ecclesie audiendas, iniungendasque penitentias, ut sit mare fusile in templi introitu iuxta templi tipici sacramenta; hoc tamen hactenus non fuit cleri moribus approbatum non sine multis dei iniuriis ac celebrationibus que exsecrationes potius dicerentur.</p>
+                    <p>Ordinationem igitur predictam a dissuetudine revocantes, precipimus ut ipsa decetero inviolabiliter observetur; ex hoc inhibere minime intendentes quin possint pretacti, si voluerint, ad alios communes penitentiarios, dum tamen id constet, pro sacramento penitentie convolare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>(9) De informatione simplicium sacerdotum.</p>
+                    <p>Ignorantia sacerdotum populum precipitat in foveam erroris; et clericorum stultitia vel ruditas, qui diffinitione canonica filios fidelium instruere iubentur, magis aliquando ad errorem proficit quam doctrinam.</p>
+                    <p>Quidam etiam ceci predicantes non semper loca visitant que magis constat veritatis lumine indigere; testante propheta, quia parvuli petierunt panem, nec erat qui frangeret, et alio clamante quia egeni et pauperes querunt aquas, lingua eorum siti arruit.</p>
+                    <p>In quorum remedium discriminum statuendo precipimus ut quilibet sacerdos plebi presidens, quater in anno, hoc est, semel in qualibet quarta anni, die una sollempni vel pluribus, per se vel per alium exponat populo vulgariter, absque cuiuslibet subtilitatis textura fantastica, quatuordecim fidei articulos, decem mandata decalogi, duo precepta evangelii, scilicet, gemine caritatis, septem etiam opera misericordie, septem peccata capitalia, cum sua progenie, septem virtutes principales, ac septem gratie sacramenta.</p>
+                    <p>Et ne quis a predictis per ignorantiam se excuset, que tamen omnes ministri ecclesie scire tenentur, ea perstringimus summaria brevitate.</p>
+                    <p>Sciendum est igitur vii esse fidei articulos pertinentes ad misterium trinitatis; quorum quatuor pertinent ad divinitatis intrinseca, tres vero pertinent ad effectus.</p>
+                    <p>Primus est unitas divine essentie in trium personarum indivisibili trinitate, iuxta illud: Credo in unum deum.</p>
+                    <p>Secundus est, Patrem credere ingenitum esse deum.</p>
+                    <p>Tertius est, Filium credere unigenitum esse deum.</p>
+                    <p>Quartus est, Credere spiritum sanctum, nec genitum nec ingenitum esse deum, sed a patre et filio pariter procedentem.</p>
+                    <p>Quintus est, creatio celi et terre; hoc est, omnis visibilis et invisibilis creature a tota indivisibiliter trinitate.</p>
+                    <p>Sextus est, sanctificatio ecclesie per spiritum sanctum, et gratie sacramenta, et cetera omnia, in quibus communicat ecclesia christiana.</p>
+                    <p>In quo intelligitur quod ecclesia cum suis sacramentis et legibus per spiritum sanctum omni homini quantumcumque peccatori sufficit ad salutem; et quod extra ecclesiam non est salus.</p>
+                    <p>Septimus est, consummatio ecclesie per gloriam eternam in anima et carne veraciter suscitanda; et per oppositum intelligitur eterna dampnatio reproborum.</p>
+                    <p>Item, alii vii articuli pertinent ad Christi humanitatem.</p>
+                    <p>Primus est, incarnatio seu vera carnis assumptio ex sola per spiritum sanctum virgine gloriosa.</p>
+                    <p>Secundus est, veri incarnati dei nativitas ex virgine incorrupta.</p>
+                    <p>Tertius est, vera Christi dei passio et mors in cruce sub tyrannide Pilati.</p>
+                    <p>Quartus est, descensio Christi dei ad inferos in anima, quiescente corpore in sepulcro, ad spoliationem tartari.</p>
+                    <p>Quintus est, vera Christi resurrectio.</p>
+                    <p>Sextus est, vera ipsius ad celos ascensio.</p>
+                    <p>Septimus est, ipsius venturi ad iudicium certissima expectatio.</p>
+                    <p>Item, decem mandatorum veteris testamenti tria ordinantur ad deum, que dicuntur mandata prime tabule; vii vero ad proximum, que dicuntur secunde tabule mandata.</p>
+                    <p>In primo prohibetur omnis ydolatria, cum dicitur: Non habebis deos alienos coram me.</p>
+                    <p>In quo implicite prohibentur omnia sortilegia et omnes incantationes, cum superstitionibus caracterum, et huiusmodi figmentorum.</p>
+                    <p>In secundo, cum dicitur: Non assumes nomen dei tui in vanum, prohibetur principaliter heresis universa, et secundario omnis blasphemia et irreverens dei nominatio, precipue in periurio.</p>
+                    <p>In tertio mandato, cum dicitur: Memento ut sabbatum sanctifices, precipitur cultus religionis christiane, ad quem indifferenter clerici et laici obligantur.</p>
+                    <p>Ubi sciendum est quod obligatio ad feriandum in sabbato legali secundum formam veteris testamenti expiravit omnino cum ceteris in lege cerimoniis, et successit in novo testamento modus vacandi cultui divino diebus dominicis, et ceteris diebus solempnibus ad hoc auctoritate ecclesie deputatis; quibus diebus modus vacandi non est sumendus a superstitione iudaica, sed a canonicis institutis.</p>
+                    <p>Primum secunde tabule est patrem et matrem explicite temporaliter et spiritualiter honorare; implicite autem et secundario omnis homo, pro sui gradus merito, ex eodem mandato intelligitur honorandus.</p>
+                    <p>In hoc autem mandato intelliguntur non solum pater et mater carnaliter, verum etiam spiritualiter, ut pater sit prelatus ecclesie, mediatus vel immediatus; mater autem ecclesia, cuius sunt filii catholici universi.</p>
+                    <p>Secundum est: Non occides, in quo explicite inhibetur illicita persone interemptio consensu, verbo, opere, et favore; implicite vero hic omnis iniusta persone lesio inhibetur.</p>
+                    <p>Spiritualiter etiam occidunt, qui non reficiunt indigentes; similiter occidunt, qui</p>
+                    <p>detrahunt, vel qui innocentes opprimunt et confundunt.</p>
+                    <p>Tertium mandatum est: Non mechaberis, in quo explicite inhibetur adulterium, implicite vero fornicatio; que explicite prohibetur Deuteronomio xxiii ubi dicitur: Non erit meretrix de filiabus Israel, neque scortator de filiis Israel.</p>
+                    <p>Inhibetur etiam in eodem mandato omnis commixtio viri et mulieris quam bona matrimonii non excusant; omnis etiam voluntaria pollutio quocumque modo aliter studiose et voluntarie procurata.</p>
+                    <p>Quartum mandatum est: Non furtum facies, in quo explicite prohibetur clamdestina contractatio rei aliene, invito domino; implicite vero omnis iniuriosa, seu per fraudem, seu per usuram, seu per violentiam, seu per metum rei usurpatio aliene.</p>
+                    <p>Quintum mandatum est: Non loqueris contra proximum tuum falsum testimonium, in quo explicite prohibetur falsa testificatio ad nocendum; implicite autem falsa testificatio ad indignum contra merita promovendum.</p>
+                    <p>In hoc etiam mandato omne mendacium, sed perniciosum precipue condempnatur.</p>
+                    <p>Sextum mandatum est: Non concupisces domum proximi tui, suple, cum eius iniuria, in quo mandato implicite inhibetur cupiditas possessionis immobilis, catholici precipue cuiuscumque.</p>
+                    <p>Septimum mandatum est: Non desiderabis uxorem eius, non servum, non ancillam, non bovem, non asinum, nec omnia que illius sunt, in quibus omnis cupiditas possessionis aliene, quantum ad res mobiles, condempnatur.</p>
+                    <p>Hiis autem decem mandatis duo superaddit evangelium: dilectionem scilicet dei et proximi.</p>
+                    <p>Deum diligit qui predicta mandata ex amore, non ex timore pene, principaliter custodit; proximum autem debet quilibet diligere sicut seipsum, ubi hec coniunctio sicut non dicit equalitatem sed conformitatem; ut videlicet diligas proximum tuum ad quod teipsum: hoc est, ad bonum, non ad malum; et quomodo teipsum: hoc est, spiritualiter, non carnaliter, secundum quod carnalitas dicit vitium; item, quantum teipsum: hoc est, in prosperitate et adversitate, sanitate et infirmitate; item, quantum teipsum respectu temporalium: pro tanto ut plus diligas omnem hominem et singulum, quam omnem affluentiam temporalem; item, sicut teipsum: pro tanto ut plus diligas proximi tui animam seu anime salutem eternam quam tuam vitam propriam temporalem, sicut etiam anime tue vitam debes vite preponere carnis tue; item, qualiter teipsum:ut videlicet omni alii in necessitate subvenias, sicut tibi velles in necessitate consimili subveniri.</p>
+                    <p>Et hec omnia intelliguntur, cum dicitur: Diliges proximum tuum sicut teipsum.</p>
+                    <p>Sex sunt opera misericordie que ex Mathei evangelio patefiunt, que sunt: pascere famelicum; potare sitibundum; hospitio recipere peregrinum; vestire nudum; visitare infirmum; consolari carceri mancipatum; septimum vero ex Tobia colligitur, quod est: sepelire corpora mortuorum.</p>
+                    <p>Septem vero peccata capitalia sunt: superbia, invidia, ira vel odium, accidia, avaritia, gula, luxuria.</p>
+                    <p>Et est superbia amor excellende; de qua oriuntur iactantia, ostentatio, ypocrisis, scismata, et similia.</p>
+                    <p>Invidia vero est odium felicitatis aliene; de qua oriuntur detractio, murmuratio, dissencio, perversa iudicia et similia.</p>
+                    <p>Ira est appetitus vindicte et nocumenti alieni que, cum perseverat in corde, fit odium, de qua oriuntur persecutiones verborum et factorum, plage, homicidia, et similia.</p>
+                    <p>Accidia est tedium boni spiritualis, ex quo homo nec in deo nec in divinis laudibus delectatur; ex qua sequitur ingnavia, pusillanimitas, desperatio, et similia.</p>
+                    <p>Avaritia est immoderatus amor mobilis vel inmobilis affluende, vel illicite adquirendo, vel illicite detinendo; ex qua oriuntur fraus, furtum, sacrilegium, symonia, et omne turpe lucrum.</p>
+                    <p>Gula est inmoderatus amor delectationis secundum gustum in cibo et potu, in qua quintupliciter peccatur: scilicet in tempore, quando commeditur nimis mane aut nimis tarde aut nimis assidue; item in qualitate, cum queruntur cibaria opipara, id est nimis delicata; item in quantitate, quando nimis commeditur vel bibitur, quod est vilissimum genus gule; et est nimium in cibo et potu quod cor aggravat et impedit sensum interiorem aut exteriorem, seu quod ledit corporis sanitatem; item in aviditate seu voracitate; et ultimo in curiosa et exquisita alimentorum preparatione pro gule deliciis excitandis, que quinque continentur in hoc versu: Prepropere, laute, nimis, ardenter, studiose.</p>
+                    <p>Luxuriam vero non oportet notificare, cuius infamia aerem inficit universum.</p>
+                    <p>Septem vero virtutes principales sunt, fides, spes, caritas, que ad Deum ordinantur, et iccirco theologice appellantur; prudentia, iustitia, temperantia, fortitudo, per quas homo ad seipsum et proximum ordinatur.</p>
+                    <p>Et est actus prudentie bonum eligere; actus iustitie recte facere; actus temperantie non impediri deliciis; actus fortitudinis, non dimittere bonum agendum pro angustiis vel molestiis quibuscunque.</p>
+                    <p>Et dicuntur hee quatuor virtutes cardinales, hoc est, principales; quia istis iiiior plures alie sunt subiecte de quibus, quia pro solis simplicibus laboramus, ad presens amplius non tractamus.</p>
+                    <p>Septem etiam sunt gratie sacramenta, quorum dispensatores sunt prelati ecclesie; quorum quinque ab omnibus debent recipi christianis: utpote baptismus, confirmatio, penitentia, eukaristia suo tempore, et extrema unctio, que tantum illis dari debet qui gravis infirmitatis indiciis videntur mortis appropinquare periculo; dum tamen, si fieri potest, detur dum sunt compotes rationis.</p>
+                    <p>Et si contingat etiam eos frenesi vel quacunque alienatione mentis laborare, si ante alienationem erant de sua salute solliciti, consulimus nichilominus eis hoc sacramentum fiducialiter ministrari.</p>
+                    <p>Credimus enim et experimentis didicimus quantumcumque frenetico, si tamen sit predestinationis filius, ipsius susceptionem, vel ad habendum lucidum intervallum, vel saltem ad spirituale comodum, utpote augmentum gratie, profuturum.</p>
+                    <p>Sunt et duo alia sacramenta, ordo et matrimonium; quorum primum perfectis convenit, secundum vero novi testamenti tempore solis convenit inperfectis: et tamen ipsum ex vi sacramenti credimus largiri gratiam, si sincero animo contrahatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>(10) De excommunicationum sententiis publicandis.</p>
+                    <p>Eisdem etiam temporibus sententie publicentur, nostris ac predecessorum nostrorum temporibus olim late; verbi gratia excommunicati sunt ex Oxoniensi concilio</p>
+                </div>
+                <div>
+                    <head>Capitulum 10i</head>
+                    <p>(10i) ecclesias suo iure privantes, et earumdem libertates per malitiam et contra iustitiam infringere vel perturbare etiam contendentes; ubi tria genera hominum excommunicationis vinculo innodantur: auferentes scilicet ecclesiis iura sua; infringentes ecclesiasticas libertates, et sine fractione contentiose turbantes easdem.</p>
+                    <p>Quod intelligimus non solum de generalibus libertatibus universalis ecclesie, verum etiam de specialibus tam temporalibus quam spiritualibus contra iustitiam ecclesie cuiuscunque; in quo illos excommunicari intelligimus precipue qui litteris aut iuribus curie laicalis ecclesiasticarum causarum processum impediunt, que ita ad ecclesiam pertinere noscuntur quod nullatenus possunt nec consueverunt per seculare iudicium terminari; quod dicimus non intendentes predictam sententiam ad istos tantummodo coartare nec turbationes iurium ecclesiasticorum alias approbantes, sed quia huiusmodi dei et ecclesie inimicos volumus rigore debito castigare.</p>
+                    <p>Ex huius insuper sententie decreto excommunicatos denuntiari precipimus omnes illos qui falso exemptionis titulo episcopalem aut archiepiscopalem processum impediunt aut subterfugiunt disciplinam.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10ii</head>
+                    <p>(10ii) Item, omnes illos qui pacem et tranquillitatem domini regis et regni iniuriose perturbare presumunt, et qui iura domini regis iniuste detinere contendunt.</p>
+                    <p>Ex quo intelligimus excommunicari non solum guerrarum suscitantes horrorem, verum etiam latrones publicos omnes pariter et predones et quoscunque regni iustitiam temere impugnantes.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10iii</head>
+                    <p>(10iii) Item, excommunicantur universi qui scienter falsum perhibent testimonium vel perhiberi procurant vel qui tales testes scienter producunt ad impediendum iustum matrimonium vel ad exheredationem alicuius hominis procurandam.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10iv</head>
+                    <p>(10iv) Item, excommunicantur advocati omnes qui malitiose per quascunque exceptiones verum matrimonium impediunt ne effectum debitum sortiatur, vel in quibuscunque causis ut contra iustitiam processus ecclesie diutius suspendatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10v</head>
+                    <p>(10v) Item, excommunicantur omnes illi qui gratia lucri, odii, vel favoris, malitiose crimen imponunt alicui, cum apud bonas et graves personas non fuerit infamatus, ut sic ei purgatio indicatur, vel alio modo gravetur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10vi</head>
+                    <p>(10vi) Item, excommunicantur omnes qui vacante ecclesia malitiose opponunt vel opponi procurant questionem de iure patronatus, ut verum patronum a collatione illius ecclesie saltem impediant illa vice.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10vii</head>
+                    <p>(10vii) Item, excommunicantur omnes illi qui malitiose contempnunt exequi mandatum regis de excommunicatis capiendis, vel eorum impediunt captionem seu procurant iniustam eorum liberationem contra decretum ecclesiastice discipline.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10viii</head>
+                    <p>(10viii) Item, excommunicantur in concilio sancte memorie Ottoboni omnes illi qui pro impedimento pacis seu compositionis litigantium quicquam recipiunt donec ipsum sic receptum restituerint donatori.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10ix</head>
+                    <p>(10ix) Item, excommunicantur per eundem quicunque de domibus, maneriis, vel grangiis, vel locis aliis archiepiscoporum vel episcoporum vel aliarum personarum ecclesiasticarum contra ipsorum voluntatem vel custodum rerum earundem aliquid auferunt vel consumunt vel iniuriose contractant; qua sententia ligantur nec absolvi possunt donec de iniuria satisfecerint competenter.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10x</head>
+                    <p>(10x) Item, excommunicantur ab eodem quicunque abstrahunt violenter reum ad ecclesiam vel cimiterium vel claustrum fugientem, vel qui ei victum necessarium prohibent exhiberi, vel qui res alienas in locis predictis depositas violenter asportant vel asportari faciunt, vel qui asportationem talem factam nomine suo vel a familiaribus suis ratam habent, vel qui ad hoc publice vel occulte consilium vel auxilium prebuerint seu consensum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10xi</head>
+                    <p>(10xi) Item, excommunicati sunt ab omnibus archiepiscopis et episcopis Anglie omnes qui veniunt aut faciunt contra magnam cartam; que sententia per sedem apostolicam est pluries confirmata.</p>
+                    <p>De hac autem publicatione inquirant archidiaconi locorum diligenter; et quotiens presbiteros invenerint predictam moralem instructionem seu premissas excommunicationum sententias statutis temporibus populo minime predicasse, totiens eos arguant et, pena canonica castigando, supplere compellant quod temere omiserunt.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>(11) De hospitalitate tenenda.</p>
+                    <p>Preterea, cum sacro testante eloquio, pastores greges sibi creditos pascere teneantur, ac os bovis triturantis non debeat alligari, statuimus ut rectores, qui in ecclesiis suis non faciunt residentiam corporalem nec habent vicarios, per yconomos suos hospitalitatis gratiam exhibeant iuxta quod sufficiunt ecclesie facultates; adeo ut saltem parochianorum pauperum necessitati subveniatur extreme et ut qui ibidem transeuntes predicant verbum dei, necessaria recipiant corporis alimenta, ne ecclesie ipsorum inopie violentia a predicantibus merito deserantur.</p>
+                    <p>Dignus est enim operarius cibo suo, nec quisquam tenetur propriis stipendiis militare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>(12) De certificationibus faciendis.</p>
+                    <p>Quidam ruralium decanorum in citationibus faciendis contra omnem iuris ordinem de luciferana versutia merito diffamantur, qui videlicet certificationem subdolam vendunt pro peccunia filiis falsitatis, nulla citatione ad notitiam citati ante certificationem huiusmodi vel postea aliquatenus veniente, unde frequenter evenit ut innocens condempnetur.</p>
+                    <p>In cuius nequitie remedium statuimus ut nulli tradatur vel concedatur certificatorium, nisi die solempni inter missarum sollempnia, in ecclesia ubi citatus fovet larem vel amplius conversatur, publice recitatum; hoc adiuncto moderamine, ut citatus sufficientes habeat inducias ut die et loco sibi prefixis competenter valeat comparere.</p>
+                    <p>Quod si casu aliquo tantum tempus arcet quod dilationi locus non pateat, citatione facta publice coram testibus, detur certificatorium in ecclesia vel alio loco publico, coram testibus fidedignis; ita quod dies citationis et locus in ipso certificatorio exprimantur.</p>
+                    <p>Et nullo modo fiat certificatio ante citationem factam; quod iurent se fideliter facturos decani in episcopali synodo omni anno.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>(13) De falsis procuratoriis non signandis.</p>
+                    <p>Ex horrenda quorundam malitia perpendimus accidisse quod, aliquo possessore ecclesiastici beneficii in remotis agente, aliquis dolosus ipsius adversarius domum eius vel rem aliam contra inhibitionem domini concupiscens, spiritu sathanico se in lucis angelum transfigurans, fingit mendaciter predictum absentem vocari coram iudice, et se ipsius procuratorem existere et vocari nomine absentis ad causam eius in iudicio defendendam, pretendens autem falsum procuratorium alicui decano vel superiori forsitan supplicat in hec verba: Quia sigillum meum paucis est cognitum, peto ut sigillum auctoritatis vestre huic meo procuratorio apponatis; et sic, data mercede iniquitatis, optinet quod requirit.</p>
+                    <p>Deinde vero optento falso procuratorio, cum altero, se ipsius fingente mendaciter adversarium, litem ingreditur, et in hac fraude procedens, possessionem tandem nanciscitur per sententiam, vero domino cuius status sic de facto subvertitur hoc penitus ignorante.</p>
+                    <p>Volentes igitur tam detestandis fraudibus obviare, statuimus ut nullus decanus seu archidiaconus vel eius officialis seu etiam officialis episcopi sigillum suum alicui procuratorio apponere presumat, nisi hoc ab eo petatur publice in iudicio, vel extra iudicium si is qui procuratorem constituit, quem constet verum esse dominum, presens corporaliter hoc requirat, ut fraus quelibet excludatur.</p>
+                    <p>Quicunque vero decanus, archidiaconus, vel eius officialis seu etiam officialis episcopi, ex certa malitia contrarium fecerit, per triennium ipso facto ab officio et beneficio sit suspensus.</p>
+                    <p>Quicunque etiam advocatus huiusmodi facinus fieri procuraverit suspensus sit per triennium ab officio advocandi, et inhabilis ad beneficium ecclesiasticum optinendum.</p>
+                    <p>Quod si sit uxoratus aut bigamus, excommunicationi subiaceat ipso facto, eo quod per tale procuratorium actum fuerit vel procuratum modis omnibus pro infecto penitus reputato.</p>
+                    <p>Procurator autem ipse totius falsitatis intentor ab omni actu legitimo perpetuo repellatur; et hii omnes nichilominus, si super hoc convinci valeant, parti lese ad interesse et restituenda dampna omnia teneantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>(14) Ne fiant clamdestine inquisitiones.</p>
+                    <p>Per provinciam nostram frequenter perpendimus iustos ecclesiasticorum beneficiorum possessores suis beneficiis fraude diabolica spoliari.</p>
+                    <p>Dum enim nonnulli infernalis rogi facibus agitati in ipsorum beneficia oculos ambitionis infigunt, procurant se per patronos ad eadem presentari et, impetrantes clamdestinas inquisitiones fieri per decanos vel alios, possessionem nanciscuntur beneficiorum huiusmodi, iustis eorundem possessoribus hoc penitus ignorantibus; unde contingit de petitore perfido fieri possessorem, et de possessore vero fieri actorem, omni iustitia reclamante.</p>
+                    <p>Nos autem cupientes a nostra provincia tantam nequitiam funditus extirpare, statuimus et perpetuo ordinamus ut nullus decanus seu quivis prelatus alius, exceptis personis episcoporum, quorum hac ordinatione auctoritas non artatur, inquisitionem faciat de presentationis huiusmodi negotio, nisi in pleno loci capitulo, eo qui possessionem ecclesie incumbit vocato legitime, sub tanti temporis spatio quo possit sibi prudentum virorum consilio prospicere, et defensioni status sui sufficienti remedio providere.</p>
+                    <p>Quicquid autem decetero contra hanc ordinationem nostram fuerit attemptatum decernimus penitus non tenere; ad satisfaciendum nichilominus de dampno omnimodo, quod idem possessor perpessus fuerit, decanum vel prelatum alium taliter clamdestine inquirentem presentis sanctione concilii condempnantes; ambitiosum ipsum ab ipso beneficio sic nequiter ambito excludentes perpetuo, et nichilominus eundem ab omni obtentu ecclesiastici alterius beneficii per triennium suspendentes.</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>(15) De firmis.</p>
+                    <p>Vendentes et ementes qui de templo dudum cepit eicere, si cepta penitus perfecisset, non fraudarentur pauperes firmarum contractibus, quibus convertitur in mammonam quod est Christi visceribus infundendum.</p>
+                    <p>Huic igitur pesti remedium apponentes, precipimus firmiter observari quod circa firmas in Oxoniensi concilio salubriter est provisum: ut videlicet ecclesie ad firmam minime tradantur, nisi ex causis necessariis per suos episcopos approbatis.</p>
+                    <p>Statuimus insuper ut nulli tradantur ad firmam, nisi personis ecclesiasticis sanctis et honestis, quas locorum episcopi libere valeant cohercere; proviso etiam ut parochie pauperibus de firmis huiusmodi pinguis portio iuri consona, secundum arbitrium episcopi, assignetur sub testimonio quatuor fidelium parochianorum eisdem fideliter eroganda.</p>
+                    <p>Et ut ab huiusmodi firmis omnis contractus ymaginarius subducatur, quia in personis clericorum falso suppositis vel sub nomine baiulatus ecclesie ad firmam laicis conceduntur, sacro approbante concilio ordinamus ut siquis clericus in tali versutia repertus fuerit, puniatur secundum statutum sancte memorie domini</p>
+                    <p>Ottoboni, et gravius si prelati viderint expedire.</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>(16) De religiosis.</p>
+                    <p>Plures invenimus religiosas domos ordinis sancti Augustini que, pro eo quod olim quibusdam matricibus ecclesiis ultramarinis adheserant, a quibus modo immo iam diuturno tempore separate noscuntur, occasione quarundam cerimoniarum a dictis matricibus domibus receptarum, per quas discrepant a ceteris eiusdem ordinis domibus in Cantuariensi provincia constitutis, non conveniunt cum ceteris in capitulo generali singulis trienniis iuxta generale concilium celebrando.</p>
+                    <p>Sed quia turpis est pars que non convenit suo toti, statuimus ut decetero omnes huiusmodi domus, salva sibi cerimoniarum suarum observantia speciali, moneantur per locorum episcopos ut conveniant cum aliis canonicis in capitulo generali de regimine et reformatione ordinis communiter tractaturi, vel si inter eos quantum ad substantialia religionis sit notabilis diversitas, sibiipsis separatim constituant capitulum generale; alioquin hoc facere per censuram ecclesiasticam compellantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 17</head>
+                    <p>(17) De sanctimonialibus.</p>
+                    <p>Tantum invaluit detestande lubricitatis enormitas ut quidam, nec legibus nec canonibus deferentes ad castitatem sanctimonialium contutandam editis, cum ipsis sacrilegium et incestum committere non formidant; cui horrendo flagitio remedium apponere cupientes, omnes tam clericos quam laycos huiusmodi turpitudinis patratores majoris excommunicationis sententia innodamus, solis personis episcoporum huiusmodi absolutionem sententie reservantes, excepto mortis articulo, in quo sic absolvi valeant a quolibet sacerdote ut, si convaluerint, piaculum suum huiusmodi teneantur sub pena predicti anathematis infra trium mensium spatium propriis episcopis confiteri aut, sede episcopali vacante, custodi spiritualitatis aut decano ecclesie cathedralis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18</head>
+                    <p>(18) De eodem.</p>
+                    <p>Sanctimoniales plurime in vagationis vitio delectate, Dyne vagantis exemplo, in consimile corruptionis scandalum immo longe perniciosius assidue prolabuntur.</p>
+                    <p>Cui periculo providentes, magis optantes earum saluti consulere quam vanis earundem desideriis complacere, sub pena excommunicationis totaliter inhibemus ne qua illarum etiam cum socia, nedum sola, apud parentes vel affines quantumcunque propinquos, nedum apud extraneos quantumcunque fame, eminentie, vel religionis existant, ultra tres dies naturales causa recreationis perhendinare, seu pro quacunque necessitate vel occasione ultra sex dies, cessante infirmitate, commorari presumant; nisi locorum episcopis aliud aliquotiens ex causa necessaria videatur, de quo eorum conscientias in tremendo iudicio oneramus.</p>
+                    <p>Hanc autem ordinationem ad illas non extendimus que exterius coguntur mendicare sibi necessaria, dum mendicant.</p>
+                    <p>Item de eodem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 19</head>
+                    <p>(19) Item, moniales quedam in tantum desipiunt ut, cum sint etatis legitime et doli capaces, postquam ultra annum inter moniales monastice vixerint, putant se non esse professas ac sibi licere redire ad seculum, pro eo quod benedictionem episcopalem cum solempnitate voti emissi minime receperunt.</p>
+                    <p>Nos vero errorem huiusmodi excludentes, presentis auctoritate concilii declaramus eas ipso facto professas existere reputandas, postquam ultra annum vitam sponte in collegio duxerint regularem, adeo ut ad seculum redire nullatenus permittantur, nichilominus ab episcopis cum solempnitate debita consecrandas suo tempore vel velandas.</p>
+                    <p>Idem etiam, quantum ad professionis vinculum, sentimus de monachis et religiosis aliis quibuscunque quibus nichil obsistit canonicum; et eos, si ultra annum religionis habitum in monasterio sponte detulerint et ipso reiecto ad seculum redierint, esse sicut apostatas ab ecclesiasticis officiis repellendos, et ad repetenda sua monasteria secundum iuris exigentiam compellendos ; de quibus diligens fiat inquisitio per archidiaconos, quoniam multos huiusmodi sub ovino vellere lupinum animum noverint palliare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 20</head>
+                    <p>(20) De apostatis.</p>
+                    <p>Preterea sunt nonnulli quos apparet per facti evidentiam seculum intendere perpetuo relinquere et per certa indicia in claustri excubiis velle toto suo tempore domino militare, qui tamen, prevalente in eis carnali desiderio, redeunt ad vomitum, seculum repetentes inter sidera errantia computandi.</p>
+                    <p>Quamvis igitur iura manifeste diffiniant huiusmodi non posse religionis habitum omnino, deserere quin saltem in religione aliqua perpetuo maneant laxiori, quidam tamen attrite frontis audacia apostasie infamiam non verentes, postquam absolute se velle seculum relinquere ostenderunt, relicta Ierosolima, redeunt in Egiptum.</p>
+                    <p>Quocirca statuimus ut ordinarii locorum tales cum omni diligentia investigent, et subtractione tam officii quam beneficii ecclesiastici, si quod habent, ad statum pristinum vel laxiorem cogant regulam pertransire.</p>
+                    <p>Quod si sint laici huiusmodi apostate, et ipsi ad salutis sue studia per censuram ecclesiasticam compellantur.</p>
+                    <p>Hanc autem ordinationem ad illos non extendimus cum quibus sedes apostolica aliter ordinavit.</p>
+                </div>
+                <div>
+                    <head>Capitulum 21</head>
+                    <p>(21) Ne religiosi executores testamentorum fiant.</p>
+                    <p>Religiosa sinceritas ab omni secularis inplicationis macula est eo solicitius preservanda quo devotionis sancte simplicitas facilius retardatur, cum in curis extrinsecis mentis oculus distractus ab unitatis studio prepeditur.</p>
+                    <p>Quocirca in concilio de Lamth salubriter est provisum ne aliqui religiosi cuiuscunque professionis sint executores testamentorum, nisi de ordinariorum licentia et voluntate procedat.</p>
+                    <p>Cui statuto adiciendum duximus ut nullus religiosus permittatur executor alicuius existere testamenti, nisi suus superior sufficienter caveat pro religioso huiusmodi, quod exequetur fideliter et reddet integre rationem de residuis si que fuerint, et de dampnis si que per ipsum evenerint, loci ordinario absque difficultate qualibet responsurus.</p>
+                    <p>Et quia nonnulli religionis habitum deferentes, licet non sint executores, tamen distributores efficiuntur bonorum defuncti, temeritate propria vel imprudentia aliena, ex quo magnam provenire vidimus bonorum huiusmodi lesionem, idem circa huiusmodi distributionem precipimus observari quod circa executionem superius est provisum, ne aliter executioni vel distributioni huiusmodi se inmisceant sub pena anathematis inhibentes.</p>
+                    <p>Unde qui sufficienter cavere nequeunt, sciant se tam ab executione quam a distributione bonorum huiusmodi presentis diffinitione concilii perpetuo elongatos.</p>
+                </div>
+                <div>
+                    <head>Capitulum 22</head>
+                    <p>(22) De habitu clericorum.</p>
+                    <p>Quamvis religionis nomen vite monastice loquentium usus appropriet, habet tamen clericalis honestas religiose vite gradum eximium, si ea custodiat vita et habitu que sacri canones decreverunt clericis observanda.</p>
+                    <p>Sed proth dolor! clerici plurimi huius inclite regionis, iudeorum antiquam insaniam imitantes, qui Grecas glorias paternis honoribus pretulerunt, dum verecundantur clerici apparere, militari se contegunt apparatu, ut stultis placeant quos constat cunctis sapientibus eo ipso merito displicere ac fatuos reputari.</p>
+                    <p>Et cum corona sit caracter ecclesiastice militie et revelati cordis ac patuli radiis celestibus insigne, ipsi ut veraciter ostendant se huius caracteris titulum erubescere, tena coronas abscondunt, quasi celestes radios repellentes, et iudeorum instar corda sua gerentes, erroris velamine obscurata.</p>
+                    <p>Statuto igitur adherentes domini Ottoboni, nichilominus ordinamus et districte precipimus ut clericus quilibet in sacris ordinibus constitutus vestem exteriorem gerat dissimilem militari, utpote anterius et posterius non birratam, vel saltem ex forma sua militari vel laicali congrua dissimilem honestate.</p>
+                    <p>Et qui secus facere presumpserit, quamdiu forme contrarie vestem tulerit, ab ingressu ecclesie suspendatur.</p>
+                    <p>Et quia predictus legatus contra portantes infulas vel tenas coram prelatis aut coram populo publice deferentes statuit ut si moniti se minime emendaverint, ipso facto ab officio suspensionem incurrant; in qua si per tres menses perstiterint, extunc a beneficio sint suspensi; a qua suspensione absolvi nequeant nisi data sexta parte ecclesiasticorum bonorum suorum per manus episcoporum pauperibus eroganda, nichilominus penis aliis puniendi, iuxta arbitrium prelatorum; nos autem huiusmodi statutum advertentes modice efficacie hactenus extitisse pro eo quod minores prelati huiusmodi clericos monstruosos monere non audent, propter quod in penas a dicto legato statutas videntur pusillanimitatis sue merito incidisse, et raro episcoporum aspectibus huiusmodi clerici se presentant; statuimus ut omni monitione cessante, cum clericos iuris ignorantia non excuset, predicti clerici sue protervie merito, quotienscunque publice coram populo vel prelatis huiusmodi infulas portaverint, nisi forsan in itinere, in penas omnes incidant supradictas.</p>
+                    <p>Caveant insuper omnes illi, de quibus loquitur legatus, qui moniti infularum insolentiam publice detulerint per pretaxati temporis spatium, ne in suspensionem ab officio et beneficio inciderint merito sue culpe.</p>
+                    <p>Mandamus etiam inposterum ut de talibus fiat per decanatus singulos inquisitio specialis, et cuiuscunque sint gradus vel excellentie contra ipsos in forma canonica procedatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 23</head>
+                    <p>(23) De filiis presbiterorum.</p>
+                    <p>Cum a iure sit inhibitum ne absque dispensatione apostolica preficiantur filii rectorum aut presbiterorum in ecclesiis in quibus patres eorum immediate sue proximo ministrarunt, et constet ipsa beneficia vacare si contrarium de facto fuerit attemptatum, precipimus ut prelati de ecclesiis sic vacantibus diligenter inquirant, et iuxta iuris exigentiam de eis non differant ordinare, cautius precaventes decetero ut tales  ad huiusmodi beneficia nullo titulo admittant, ne contra iustitiam in hereditate crucifixi per surreptionem locus pateat successioni.</p>
+                </div>
+                <div>
+                    <head>Capitulum 24</head>
+                    <p>(24) De institutionibus.</p>
+                    <p>Ex solito cursu causarum multis recepimus conquerentibus quod nonnulli coepiscopi nostri, clericos presentatos ad vacantes ecclesias admittentes, litteras testimoniales eis recusant impendere facti sui; propter quod, suboriente inter huiusmodi presentatos et alios materia questionis, succumbit plerumque veritas falsitati.</p>
+                    <p>Nos autem ecclesiasticis regulis adherentes, que fidem gestorum ex legalibus colligunt instrumentis, statuimus ut unusquisque episcopus clerico quem ad ecclesiam aliquam admittit litteras patentes super sua admissione concedat, inter alia continentes in quo consistat ordine et quo titulo ad beneficium huiusmodi admittatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 25</head>
+                    <p>(25) De clericis plura beneficia occupantibus.</p>
+                    <p>Langor prolixior gravat medicum, nec faciliter evellitur plantatio infernalis que innumeris perditionis filiis est infixa; nec alicui mortalium hactenus legitur fuisse concessum simul totam convertere multitudinem impiorum, sacra pagina contestante: Deus, inquit, consumet nationes has in conspectu tuo paulatim atque per partes.</p>
+                    <p>Sane ecclesia Anglicana a membris putridis et falsis clericis ab olim sustinuit plagas diras, qui pompe et avaritie estibus inflammati, beneficia cum cura absque dispensatione apostolica ac contra canones acervantes, nec veriti sunt hactenus animas perdere acquisitas sanguine redemptoris, nec erubuerunt fures existere et vitam infamem agere tamdiu, donec horrenda morte, ut in multis vidimus, divine severitatis percussi fulmine, de medio sunt sublati.</p>
+                    <p>Quam plagam paulatim atque per partes sanare cupientes, huiusmodi multiplicationem in futurum salubriter precipiendo inhibuimus, circa adventus nostri principium, sub certi forma rigoris, ne quis auderet extunc huiusmodi pluralitate se involvere ullo modo; preteritam etiam minis salubribus deterrentes, quas minas intendimus auctore deo effectui mancipare; ut sic, iuxta sacra eloquia, radicatam nequitiam valeamus paulatim funditus extirpare, paulatim quidem dicente scriptura: Non poteris eas delere pariter, ne forte multiplicentur contra te bestie terre.</p>
+                    <p>Huius autem processus nostri conatibus boni fructus exordium contulit pietas redemptoris, dum saltim est prohibita pristina effrenatio beneficia huiusmodi sine scrupulo admittendi.</p>
+                    <p>Quibusdam etiam dedit deus compunctionis spiritum, ut dampnate pluralitatis sue magnam partem absciderint, quibusdam insuper ut superfluitatem suam nostre submiserint discretionis arbitrio moderandam; qua submissione noverint universi huiusmodi excessus non purgari vitium, cum non possimus cum ipsis in talibus dispensare, sed purgationem ipsius quodammodo, quamvis tenuiter, inchoari.</p>
+                    <p>Ceteros autem omnes et singulos huiusmodi pluralitatem dampnabiliter occupantes, et in sue adhuc persistentes arrogantie supercilio, monemus primo, secundo, et tertio, quia cum parata sit eis absorbendis nisi citius penitentiam egerint vorago infernalis, mola asinaria deprimente, ulteriori deliberationi nulla potest concedi dilatio, quatinus huiusmodi beneficia libere et absolute infra sex mensium spatium in episcoporum suorum manibus omnino resignent, satisfacientes nichilominus, ut eorum status patitur, ecclesiis sic fraudatis, nunquam per se vel per alios, clam vel palam, vere vel ymaginarie, aliquid de huiusmodi ecclesiarum fructibus illicite recepturi; salvo nobis iure de illis beneficiis ordinandi, quorum collatio est ad nos per lapsum temporis devoluta; alioquin extunc contra ipsos, favente altissimo, in forma canonica procedemus.</p>
+                    <p>Interim etiam hac monitione nec nobis nec fratribus ac coepiscopis nostris preiudicare intendimus, quin contra huiusmodi ordinario progressu particulariter procedatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 26</head>
+                    <p>(26) De advocatis.</p>
+                    <p>Veloces ad audiendum existere et tardos ad loquendum sanctus Iacobus imperat, et a iuventute usque ad maturitatis annos edoctum decet ceteris prestare ducatum.</p>
+                    <p>In scola siquidem Putagore quinquennale tenebant auditores silentium, priusquam de illa gentium sapientia disserere sinerentur.</p>
+                    <p>Cuius prudentie disciplinam plurimi advocatorum huius temporis non sectantur; quin potius post unum librum iuris vix auditum dimidium arrogant sibi officium in causis ecclesiasticis publice postulandi.</p>
+                    <p>Et quia veritatem iuris ignorant, ad fraudes horribiles impeditivas processus iudicialis tantummodo se convertunt.</p>
+                    <p>Cui pesti remedium apponere cupientes, statuimus ut nullus decetero permittatur advocationis officium publice exercere, nisi prius ad minus per triennium audiverit cum debita diligentia ius canonicum et civile.</p>
+                    <p>Huius autem fidem, ubi nec de condigno apparet testimonio nec per facti evidentiam, proprio faciat iuramento.</p>
+                </div>
+                <div>
+                    <head>Capitulum 27</head>
+                    <p>(27) De suffragiis episcoporum.</p>
+                    <p>Ingratitudinis vitium est plurimum detestandum, et subditorum precipue ad prelatos, qui sollicite pervigilant tanquam rationem reddituri pro sibi creditis animabus.</p>
+                    <p>Quocirca statuimus ut, archiepiscopo vel episcopo decedente, quilibet sacerdos tam religiosus quam secularis qui defuncto subditus extiterat, pro ipso missam unam dicere teneatur; fratres etiam et coepiscopi omnes in congregatione sua sequenti proxima simul faciant sollempne officium pro defuncto, singuli nichilominus in capellis suis condigna sibi suffragia exhibentes, sicut desiderant sibi in casu consimili exhiberi.</p>
+                    <p>Acta sunt hec in concilio apud Lameth. celebrato et recitata in ultima actione dicti concilii die veneris, vi idus Octobr., E littera dominicali currente, anno domini mo cco lxxxo primo, indictione nona, pontificatus domini Martini pape iiii primo, anno regni illustris domini nostri Edwardi regis Anglie nono et consecrationis nostre tertio.</p>
+                </div>
+                <div>
+                    <head>Explicit</head>
+                    <p>Expliciunt constitutiones domini Iohannis archiepiscopi Cantuariensis composite apud Lamheth..</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1]</p>
+                    <p>[2]</p>
+                    <p>[]</p>
+                </div>
             </div>
         </body>
     </text>

@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 0152</recordID>
+                <title>Avignon (#0152)</title>
+                <recordID>0152</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate>1344-10-13</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Avignon</origPlace>
                 <diocese>Avignon</diocese>
                 <province>Aix-en-Provence</province>
-                <country/>
+                <country>France</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Diocesan</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,21 +55,60 @@
     <text>
         <body>
             <div>
-                <head>incipit</head>
+                <head>Metadata</head>
+                <p>RecordID: 152</p>
+                <p>Year: 1344</p>
+                <p>Month: 10</p>
+                <p>Day: 13</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Avignon</p>
+                <p>Diocese: Avignon</p>
+                <p>Province: Aix-en-Provence</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 43.95</p>
+                <p>Longitude: 4.817</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Jean de Cojordan</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1336</p>
+                <p>RegnalEnd: 1348</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Martene, Thes, IV, cols. 568-69</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Data Capture']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
             </div>
             <div>
-                <head>001</head>
-                <p>(1) Quod legata ad pias causas debeant solvi infra annum.</p>
-                <p>NOs JOHANNES miseratione divina episcopus Avenionensis, attendentes quod in civitate et dioecesi Avenionensi decedentium heredes et bonorum successores, circa solutiones legatorum, praesertim ad pias causas relictorum, negligentes sunt et remissi, in animarum suarum periculum, mortuos defraudantes; approbante praesenti synodo, ordinamus et statuimus, quod universi et singuli parochialium ecclesiarum capellani, curati dictae civitatis Avenionensis per duodecim dies dominicos seu festivos proximos in ecclesiis suis publice, dum populus ad divina convenerit, moneant generaliter et peremtorie singulos et universos parochianos eorum, ut si qui sint inter eos deffunctorum heredes, bonorum successores, fidei commissarii, executores, gadiatores, seu distributores, qui ad solvendum hujusmodi legata ad pias causas relicta, quocumque titulo teneantur: quod ea omnia infra unum annum proximum datae, sine monitionibus supra dictis, solvant integre et perfecte, sub poena excommunicationis, quam contra non solventes, et solvere recusantes post dictum terminum faciemus debite publicari.</p>
-                <p>Adjicientes quod dicti curati in suis parochiis investigent exacta diligentia, et perquirant nomina parochianorum suorum, qui ad dicta legata solvenda quaelibet sunt adstricti, et ipsa in futura prima synodo nobis, seu officiali nostro, vel procuratori nostro causarum piarum in scriptis afferant: ut contra inobedientes, mediante justitia, procedatur, et pia voluntas obeuntium exequatur.</p>
-            </div>
-            <div>
-                <head>002</head>
-                <p>(2) Quod curati nihil recipianta quae storibus.</p>
-                <p>Item, quia sicut ad nostrum pervenit auditum, nonnulli priores, rectores, vicarii, et capellani curati ecclesiarum parochialium nostrae civitatis Avenionensis et dioecesis ab eleemosynarum quaestoribus munera et servitia exigunt et extorquent, ut permittant in ecclesiis quaecumque voluerint praedicare: quamvis juxta tenorem litterarum ipsis quaestoribus concessarum, non haberent, nisi necessitates piorum locorum explicare: ordinamus et statuimus, quod de cetero nullus prior, vicarius, seu capellanus, curatus ecclesiarum parochialium dictae civitatis Avenionensis vel dioecesis, ab aliquo quaestore aliquod munus audeat recipere, sub poena excommunicationis, quam contra recipientes faciemus debite publicari, proviso quod ipsos quaestores privilegiis vel authenticis litteris munitos caritative recipiant, eosque necessitates piorum locorum explicare permittant praedicatoribus resecatis.</p>
-            </div>
-            <div>
-                <head>explicit</head>
+                <head>Text</head>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) Quod legata ad pias causas debeant solvi infra annum.</p>
+                    <p>NOs JOHANNES miseratione divina episcopus Avenionensis, attendentes quod in civitate et dioecesi Avenionensi decedentium heredes et bonorum successores, circa solutiones legatorum, praesertim ad pias causas relictorum, negligentes sunt et remissi, in animarum suarum periculum, mortuos defraudantes; approbante praesenti synodo, ordinamus et statuimus, quod universi et singuli parochialium ecclesiarum capellani, curati dictae civitatis Avenionensis per duodecim dies dominicos seu festivos proximos in ecclesiis suis publice, dum populus ad divina convenerit, moneant generaliter et peremtorie singulos et universos parochianos eorum, ut si qui sint inter eos deffunctorum heredes, bonorum successores, fidei commissarii, executores, gadiatores, seu distributores, qui ad solvendum hujusmodi legata ad pias causas relicta, quocumque titulo teneantur: quod ea omnia infra unum annum proximum datae, sine monitionibus supra dictis, solvant integre et perfecte, sub poena excommunicationis, quam contra non solventes, et solvere recusantes post dictum terminum faciemus debite publicari.</p>
+                    <p>Adjicientes quod dicti curati in suis parochiis investigent exacta diligentia, et perquirant nomina parochianorum suorum, qui ad dicta legata solvenda quaelibet sunt adstricti, et ipsa in futura prima synodo nobis, seu officiali nostro, vel procuratori nostro causarum piarum in scriptis afferant: ut contra inobedientes, mediante justitia, procedatur, et pia voluntas obeuntium exequatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Quod curati nihil recipianta quae storibus.</p>
+                    <p>Item, quia sicut ad nostrum pervenit auditum, nonnulli priores, rectores, vicarii, et capellani curati ecclesiarum parochialium nostrae civitatis Avenionensis et dioecesis ab eleemosynarum quaestoribus munera et servitia exigunt et extorquent, ut permittant in ecclesiis quaecumque voluerint praedicare: quamvis juxta tenorem litterarum ipsis quaestoribus concessarum, non haberent, nisi necessitates piorum locorum explicare: ordinamus et statuimus, quod de cetero nullus prior, vicarius, seu capellanus, curatus ecclesiarum parochialium dictae civitatis Avenionensis vel dioecesis, ab aliquo quaestore aliquod munus audeat recipere, sub poena excommunicationis, quam contra recipientes faciemus debite publicari, proviso quod ipsos quaestores privilegiis vel authenticis litteris munitos caritative recipiant, eosque necessitates piorum locorum explicare permittant praedicatoribus resecatis.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
             </div>
         </body>
     </text>

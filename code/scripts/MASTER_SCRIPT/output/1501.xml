@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 1501</recordID>
+                <title>Winchester (#1501)</title>
+                <recordID>1501</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate precision="circa">1247</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Winchester</origPlace>
                 <diocese>Winchester</diocese>
                 <province>Canterbury</province>
-                <country/>
+                <country>England</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Diocesan</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,400 +55,445 @@
     <text>
         <body>
             <div>
-                <head>incipit</head>
-                <p>Statuta synodalia.</p>
-                <p>Debentes de vobis bonam rationem reddere, que secundum Augustinum est dicere, non tacere; sub scilentio transire non possumus quin vobis dicamus que vobis scire et observare credimus necessarium.</p>
-            </div>
-            <div>
-                <head>001</head>
-                <p>(1) Quia igitur sine decalogi observatione salus animarum non consistit, exhortamur in domino, firmiter iniungentes ut unusquisque pastor animarum et quilibet sacerdos parochialis sciat decalogum, id est, decem mandata legis mosayce, eademque populo sibi subiecto frequenter predicet et exponat.</p>
-                <p>Sciat etiam vii criminalia que sunt, eademque populo predicet fugienda.</p>
-                <p>Sciat etiam vii ecclesiastica sacramenta, et hii qui sunt sacerdotes maxime sciant que exiguntur ad vere confessionis et penitentie sacramentum, formamque baptizandi frequenter laicos doceant et ydiomate communi.</p>
-                <p>Habeant quique eorum simplicem intellectum fidei, sicut continetur in simbolo, tam maiori quam minori, et in tractatu qui dicitur Quicunque wlt, qui cotidie ad Primam psallitur.</p>
-            </div>
-            <div>
-                <head>002</head>
-                <p>(2) Eukaristia autem que est sacramentum dominici corporis in loco singulari, mundo, et signato semper honorifice collocata, devote ac fideliter observetur. Sacerdos vero quilibet doceat plebem suam ut cum in celebratione misse elevatur hostia salutaris se reverenter inclinet; idem faciat cum eam portet presbiter ad infirmum.</p>
-                <p>Quam in decenti habitu, superposito mundo velamine, ferat et referat manifeste et honorifice ante pectus cum reverentia et timore, semper lumine precedente, cum sit candor lucis eterne, ut ex hoc apud omnes fides et devotio augeatur; quemadmodum in consilio generali scribitur.</p>
-                <p>Tintinnabulum quoque simul cum lumine venerandam corporis hostiam semper precedat, ut eius sonitu excitetur fidelium devotio ad tanti debitam sacramenti adorationem.</p>
-            </div>
-            <div>
-                <head>003</head>
-                <p>(3) Omnes insuper sacerdotes parochialium ecclesiarum monemus et obsecramus in domino Iesu Christo, firmiter eisdem iniungentes quod parochianos suos attente moneant et efficaciter inducant quod, quotiens corpus Christi modo supradicto ad infirmum defertur, statim audito tintinnabulo cum devotione sacerdoti occurrant, corpus Christi usque ad domum infirmi et iterum ad ecclesiam prosequentes.</p>
-                <p>Omnibus autem qui corpus dominicum taliter fuerint secuti decem dies de iniuncta penitentia misericorditer sibi relaxamus.</p>
-            </div>
-            <div>
-                <head>004</head>
-                <p>(4) Rogamus insuper et monemus rectores, vicarios, et capellanos parochialium ecclesiarum quod in singulis parochialibus ecclesiis preparantur duo luminaria cerea honeste magnitudinis, facta ad modum torticeorum; et cum sacerdos incipit Te igitur, accendantur, et sic duo clerici ad dexteram et sinistram sacerdotis iuxta cornu altaris stantes ea accensa teneant donec sacerdos communicaverit. Omnibus autem qui hoc fecerint vel qui de bonis suis aliquid ad predicti luminis sustentationem contulerint decem dies de iniuncta sibi penitentia relaxamus.</p>
-            </div>
-            <div>
-                <head>005</head>
-                <p>(5) Observent etiam sacerdotes cum diligentia ne sacra eukaristia per vasis vitium aut diutinam conservationem contraxerit humiditatem sive mucorem, unde reddatur turpis gustui vel tactui aut aspectui abhominabilis; sed per singulas ebdomadas renovetur.</p>
-            </div>
-            <div>
-                <head>006</head>
-                <p>(6) Sacerdotes autem promtissimi sint et paratissimi, non solum diebus sed etiam noctibus, ut egrotantes visitent cum requiruntur, ne eorum negligentia, quod absit, moriatur infirmus sine confessione aut dominici corporis communione vel extrema unctione.</p>
-                <p>Quod si hec culpa sacerdotis evenerit, convictus de hoc suspendatur et sine nostra conscientia non relaxetur.</p>
-                <p>Pernoctare etiam extra parochiam suam nullus sacerdos parochialis aliqua ratione presumat, nisi alium ydoneum vice sua dimiserit ibidem.</p>
-            </div>
-            <div>
-                <head>007</head>
-                <p>(7) Superaltaria quoque sint honesta et congrue magnitudinis, firmiterque fixa in circumdante ligno ut non moveantur ab ipso, neque usurpentur ad alios usus quam ad divinorum celebrationem, ut videlicet non molantur super ea colores, vel aliqua fiant in eis similia.</p>
-            </div>
-            <div>
-                <head>008</head>
-                <p>(8) Panni etiam crismales non convertantur in usus seculares.</p>
-            </div>
-            <div>
-                <head>009</head>
-                <p>(9) In ecclesia quoque divinum officium integre fiat et devote, ut videlicet lectiones, ymni, psalmi, et alia que in dei laudem recitantur in ecclesia, habeant integram verborum prolationem mentisque ad sensum devotam attentionem ne, quod absit, pro hostia viva et integra offeratur hostia mutulata et mortua.</p>
-            </div>
-            <div>
-                <head>010</head>
-                <p>(10) Provideant etiam attentius ecclesiarum rectores et sacerdotes parochiales ut pueri parochiarum suarum diligenter doceantur et sciant orationem dominicam, et simbolum, et salutationem beate Marie virginis, et crucis signaculo se recte consignare.</p>
-                <p>Et quia quidam etiam adulti hec quandoque ignorant, precipimus quod cum laici ad confessionem accedunt, diligenter examinentur utrum scierint predicta, ut secundum quod expedit in eis a sacerdotibus instruantur.</p>
-            </div>
-            <div>
-                <head>011</head>
-                <p>(11) Item, quia mundi debent esse, sicut ait Ysayas, qui ferunt vasa domini pollutumque non tangere, exhortantes precipimus quod omnes beneficiati et in sacris ordinibus constituti vitium luxurie fugiant omnemque voluntariam carnis inmunditiam, continentie servantes puritatem.</p>
-            </div>
-            <div>
-                <head>012</head>
-                <p>(12) Nullusque ipsorum uxorem ducat; et si quis, antequam in sacros ordines esset constitutus, uxorem duxerit, beneficium ecclesiasticum non teneat, neque in sacris ordinibus, si eos postea acceperit, ministrare presumat.</p>
-            </div>
-            <div>
-                <head>013</head>
-                <p>(13) Attentius itaque inhibemus ne quis sacerdos, in domo sua concubinam retinens vel alibi ad aliquam habens consuetudinem, in tam gravi permanens peccato, ad sacrum altare celebraturus accedere presumat, cum consecratio illius in execrationem et benedictio sibi vertatur in maledictionem.</p>
-                <p>Et si quis, hac de causa suspensus, presumpserit celebrare divina, non solum beneficiis ecclesiasticis spolietur, verum etiam pro dupplici culpa arbitrio episcopi suspendatur.</p>
-                <p>Prelati vero qui tales iniquitates presumpserint sustinere, maxime obtentu peccunie vel alicuius commodi temporalis, pari subiaceant ultioni.</p>
-            </div>
-            <div>
-                <head>014</head>
-                <p>(14) Ceterum, cum non solum a malo sed ab omni specie mali abstinendum sit, firmiter inibemus ne clerici sine rationabili causa et manifesta frequentent sanctimonialium monasteria.</p>
-            </div>
-            <div>
-                <head>015</head>
-                <p>(15) Et ne quis sacerdos vel rector retineat feminam in domo sua, sive cognatam sive aliam, unde rationabiliter mala de ipso possit oriri suspicio.</p>
-            </div>
-            <div>
-                <head>016</head>
-                <p>(16) Firmiter etiam inhibemus ne quiquam beneficiati seu in sacris ordinibus</p>
-                <p>constituti sint ebriosi aut gulosi aut tabernas exercentes, ne morte eterna, secundum legis comminationem, moriantur, sed actu abstinentie et sobrietatis seipsos habiles reddant ut secundum doctrinam dei habeant scientiam discernendi inter sanctum et prophanum, inter mundum et pollutum, doceantque populum omnia legitima que dominus locutus est per manum Moysi.</p>
-            </div>
-            <div>
-                <head>017</head>
-                <p>(17) Quia etiam a ministris ecclesie omnis fomes cupiditatis et turpi lucris abscidendus est, exhortantes precipimus ne beneficiati aut in sacris ordinibus constituti negotiationes exerceant nec aliquid accomodent ad usuram; sed, sicut precipit doctrina evangelica, mutuum dent, nichil inde sperantes.</p>
-            </div>
-            <div>
-                <head>018</head>
-                <p>(18) Neque dent neque recipiant ecclesiastica beneficia ad firmam, nisi de nostra licentia speciali.</p>
-                <p>Sacerdos vero parochialis, si ecclesiam in qua ministrat de licentia nostra ad firmam tenuerit, aliam ecclesiam ad firmam recipere vel in alia ministrare non audeat, cum absque cupiditatis nota hoc facile contingere non possit.</p>
-                <p>Sacerdos etiam qui et rector est alicuius ecclesie, ecclesiam suam alteri ad firmam dare et in aliena ecclesia tanquam stipendiarius ministrare nulla ratione presumat sed sui proprii gregis curam diligenter exerceat.</p>
-            </div>
-            <div>
-                <head>019</head>
-                <p>(19) Item, sententiam sanguinis nullus dictet clericus aut proferat; sed nec sanguinis vindictam exerceat aut ubi exerceatur intersit.</p>
-                <p>Nec literas dictet aut scribat pro vindicta sanguinis destinandas.</p>
-                <p>Nec ructuariis aut balistariis aut huiusmodi sanguinis viris preponatur.</p>
-            </div>
-            <div>
-                <head>020</head>
-                <p>(20) Preterea, ad amputandam omnem cupiditatis speciem firmiter inhibemus ne beneficiati vel in sacris ordinibus constituti sint vicecomites vel iustitiarii seculares, vel ballivas laicas teneant, vel earumm firmas, unde laicis potestatibus obligentur ad ratiocinia de ballivis reddenda.</p>
-            </div>
-            <div>
-                <head>021</head>
-                <p>(21) Inhibemus similiter districtius ne aliquis rector faciat huiusmodi pactum cum suo capellano, videlicet, quod ipse sacerdos preter certa stipendia poterit recipere annualia vel tricennalia, quia huiusmodi pactio manifestum est indicium quod sacerdos eo ipso duplex recipit stipendium.</p>
-                <p>Necesse quoque est ut aut non perficiat suscepta annualia aut in ecclesia parochiali non rite efficiat divina obsequia.</p>
-            </div>
-            <div>
-                <head>022</head>
-                <p>(22) Ipsis autem sacerdotibus et clericis sufficiens et honesta tribuatur sustentatio ab ecclesiarum rectoribus, videlicet, v marce vel lx solidi pro stipendiis sacerdotum et clericorum, vel amplius secundum facultates ecclesiarum et honera, ne propter diminutam sustentationem oporteat ecclesiam divinis carere obsequiis, aut ipsos sacerdotes lucris turpibus inhiare seu victum mendicare.</p>
-            </div>
-            <div>
-                <head>023</head>
-                <p>(23) Aque insuper benedicte parochiarum pauperibus scolaribus assignentur.</p>
-            </div>
-            <div>
-                <head>024</head>
-                <p>(24) Inhibemus etiam firmiter ne laicis aliquibus committantur ad firmam libere terre ecclesiarum de dominicis, nisi forte iidem laici sint illius ecclesie servi, et tunc hoc fiat de licensia diocesani.</p>
-            </div>
-            <div>
-                <head>025</head>
-                <p>(25) Et ne rectores vel vicarii de bonis ecclesie edificent in laico feodo extra fundum ecclesie; et similiter ne decime in laico feodo reponantur, sed in fundo ipsius ecclesie, si fundum habeat.</p>
-                <p>Quod si fundum non habeat, infra annum fundum ad opus ecclesie de bonis eiusdem studeat comparare.</p>
-            </div>
-            <div>
-                <head>026</head>
-                <p>(26) Provideant autem rectores ecclesiarum vicariis et sacerdotibus suis in libera terra ecclesie honesta domicilia, ne ipsos oporteat cum laicis non sine scandalo et periculo commorari.</p>
-            </div>
-            <div>
-                <head>027</head>
-                <p>(27) Precipimus etiam ut redditus assignati ad luminaria non convertantur ad alios usus per ipsos rectores vel vicarios.</p>
-            </div>
-            <div>
-                <head>028</head>
-                <p>(28) Hortamur etiam precipientes ne clerici mimis, ioculatoribus, aut histrionibus intendant, neque ad aleas seu taxillos ludant vel ludentibus assideant; quia licet quibusdam videantur levia, tamen secundum sanctorum patrum doctrinas, qui talia faciunt demonibus prestant sacrificia.</p>
-            </div>
-            <div>
-                <head>029</head>
-                <p>(29) Et quia in clero nil splendere debeat nisi Iesu Christi humilitas et evangelica perfectio, que consulit quod si quis percusserit te in dexteram maxillam, prebeas et illi alteram, monemus precipientes ne clerici arma portent, sed coronam et tonsuram habeant ordini congruentem et habitum convenientem tam sibi quam suis equitaturis secundum quod determinant sancta consilia.</p>
-            </div>
-            <div>
-                <head>030</head>
-                <p>(30) Ut autem sacerdotes a laicis et secularibus personis habitu distinguantur, precipimus quod sacerdotes ubique in suis parochiis extra cepta domus sue et coram suis prelatis et ubique in conventibus secularium personarum cappis clausis aut aliis indumentis honestis utantur.</p>
-                <p>Qui autem in cappis manucatis aut aliis secularium personarum vestibus fuerint inventi, suspendantur donec vestem prohibitam vel pretium eius officiali nostro restituant in usus pauperum erogandum, illis sacerdotibus dumtaxat exceptis qui peregrinationis causa vel extra episcopatum proficiscuntur vel in obsequiis prelatorum suorum commorantur.</p>
-            </div>
-            <div>
-                <head>031</head>
-                <p>(31) Precipimus etiam ne aliqui recipiant plura beneficia curam animarum habentia cum quibus per sedem apostolicam super hoc non est dispensatum.</p>
-            </div>
-            <div>
-                <head>032</head>
-                <p>(32) Similiter quod filii proximo ministrantis ecclesias in quibus patribus inmediate suscesserunt, penitus resignent, et patroni ydoneos ad easdem ecclesias presentent.</p>
-            </div>
-            <div>
-                <head>033</head>
-                <p>(33) Subiectis quoque nostris districtius inhibemus ne quis sacerdos in duabus ecclesiis ministrare presumat, cum vix unus uni sufficere possit.</p>
-            </div>
-            <div>
-                <head>034</head>
-                <p>(34) Quilibet autem rector ecclesie honestum et ydoneum vicarium vel capellanum habeat qui, sicut expedierit, curam gerat animarum.</p>
-            </div>
-            <div>
-                <head>035</head>
-                <p>(35) Firmiter etiam inhibemus ne sacerdotes a laicis peccuniam pro penitentiis seu etiam aliis sacramentis administrandis turpis lucri causa extorqueant vel pecuniarias iniungant penitentias, videlicet, annalia vel tricennalia celebrari, vel alia hiis similia fieri.</p>
-                <p>Quod si aliquis hoc fecisse detectus fuerit, per annum suspendatur.</p>
-            </div>
-            <div>
-                <head>036</head>
-                <p>(36) Preterea, firmiter inhibemus ne diaconi confessiones audiant vel penitentias iniungant vel alia sacramenta ministrent que concessa sunt solis sacerdotibus ministrare.</p>
-            </div>
-            <div>
-                <head>037</head>
-                <p>(37) Volumus etiam et precipimus quod singuli clerici beneficiati ad ordines promoveantur quos cura animarum quam susceperunt exigit et requirit.</p>
-            </div>
-            <div>
-                <head>038</head>
-                <p>(38) Ad hec precipimus ut omnes rectores ecclesiarum et vicarii residentiam faciant in suis beneficiis personalem, conversantes in eisdem laudabiliter et honeste, nisi ob causam rationabilem cum eis ut in eisdem non resideant fuerit dispensatum.</p>
-            </div>
-            <div>
-                <head>039</head>
-                <p>(39) In ecclesiis quoque singulis quarum facultates ad hoc sufficiunt, sint unus diaconus et unus subdiaconus in eisdem ut decet ministrantes.</p>
-                <p>In aliis vero ecclesiis sit saltem unus clericus honestus, qui sacerdoti cum habitu et tonsura convenientibus in divinis ministret officiis.</p>
-            </div>
-            <div>
-                <head>040</head>
-                <p>(40) Statuimus autem quod capelle, intra parochias nostras contemplatione parochianorum a matrice ecclesia nimis distantium antiquitus erecte, que quandoque bis vel ter in ebdomada sacerdotis gaudebant obsequiis, continuum habeant de cetero sumptibus rectoris sacerdotis ministerium, si numerus animarum in confinio capelle commorantium in tantum sit auctus quod unus sacerdos tot animabus curandis non sufficiat competenter, et proventus matricis ecclesie et capelle in tantum excreverit quod idem incrementum ad unius sacerdotis exibitionem attingat.</p>
-                <p>Quod si proventus in nullo aucti fuerint, numerus vero animarum maior sit, ne salus animarum a nobis videatur neglecta, volumus quod tam rector quam parochiani ad unius sacerdotis exibitionem pro dierum numero contribuant. Idemque sacerdos capelle deserviens prope capellam diebus ac noctibus commoretur, et de capelle proventibus rectori matricis ecclesie plene respondeat.</p>
-            </div>
-            <div>
-                <head>041</head>
-                <p>(41) Omnibus etiam decanis in virtute obedientie districte precipimus quod oblationes penthecostales matrici ecclesie Winton ratione visitationis annue debitas, a singulis capellanis suorum decanatuum diligenter exigant et recipia nt, ac receptas sacriste nostro Winton sine retentione aut diminutione qualibet infra festum beati Petri ad vincula restituant, quid et quantum a singulis parochiis receperint in scriptis fideliter redigentes ac sacristam nostrum super hoc certiorem facientes.</p>
-                <p>Nullus autem officialis, decanus, vel capellanus aliquam eiusdem oblationis portionem sibi audeat occasione alicuius consuetudinis usurpare vel retinere, scituri quod si super hoc fuerint convicti, duplum eius quod sibi retinere presumpserint de proprio restituent.</p>
-            </div>
-            <div>
-                <head>042</head>
-                <p>(42) Sub pena insuper excommunicationis precipimus ne aliquis parochianus noster, clericus vel laicus, aliquem de parochianis nostris, clericum vel laicum, contra quem nichil habet iuste questionis, ad extraordinarium iudicem extra episcopatum nostrum trahere audeat aut malitiose convenire ut ab eo peccuniam pro redemptione vexationis extorqueat.</p>
-            </div>
-            <div>
-                <head>043</head>
-                <p>(43) Sacerdotes autem et clerici parochialium ecclesiarum potationes intra ecclesias cum secularibus personis seu mulieribus nullo tempore faciant, sicut in Quadragesima, dum clerici vel sacerdotes panem eukaristie faciunt, in plerisque locis fieri consuevit.</p>
-                <p>Sacerdos vero vel clericus qui talia fecerit graviter puniatur.</p>
-            </div>
-            <div>
-                <head>044</head>
-                <p>(44) Si quis autem laicus de aliquo crimine convictus fuerit aut confessus propter quod pena corporalis vel sollempnis ei de iure debeat infligi, nulla ratione liceat ei penam predictam redimere per peccuniam, nisi propter persone honestatem aut maiorem penitentie fructum is qui iurisdictioni preest aliter viderit dispensandum.</p>
-                <p>Clerici quoque de similibus criminibus convicti vel confessi suspendantur et absque conscientia nostra non relaxentur.</p>
-                <p>Omnes autem criminosi huiusmodi ad penitentiam privatam recipiendam ad nostrum penitentiarium transmittantur; cum litteris penitentiarii penitentiam suam continentibus ad proprium sacerdotem revertantur ut de peracta penitentia penitenti possint testimonium perhibere.</p>
-            </div>
-            <div>
-                <head>045</head>
-                <p>(45) Archidiaconi vero et eorum officiales seu decani qui, avaritia ducti, occasione questus redemptiones corporalium penitentiarum iuste debitarum receperint, aut corporales penas ubi non debentur ut peccuniam extorqueant interminaverint, de proprio duplum restituant et alias gravi pene subiaceant.</p>
-            </div>
-            <div>
-                <head>046</head>
-                <p>(46) Precipimus etiam auctoritate evangelica firmiter iniungentes ne in locis sacris aut diebus dominicis ubicunque habeantur mercata, cum dominus vendentes et ementes eiecerit de templo, ne domus orationis fieret spelunca latronum.</p>
-            </div>
-            <div>
-                <head>047</head>
-                <p>(47) Ad hec adicimus ut simiteria sint bene clausa, et tam ecclesie quam domus ad ecclesiam pertinentes competenter secundum ecclesie facultates sint edificate.</p>
-                <p>Rector quoque qui domum non habet infra annum domum competentem edificet.</p>
-                <p>Ipse etiam ecclesie sint decenter ornate tam in libris quam in sacris vasis et vestimentis; et tam vestimenta quam vasa sint in noctibus sub tuta et honesta custodia, nec reponantur in domibus laicorum, neque sub eorum custodia, nisi rationabilis et evidens ad hoc compulerit necessitas.</p>
-            </div>
-            <div>
-                <head>048</head>
-                <p>(48) Inhibemus etiam ne aliquis sacerdos celebret de vino aceto vel corrupto.</p>
-            </div>
-            <div>
-                <head>049</head>
-                <p>(49) Frequenti etiam predicatione commoneatur ne matres vel nutrices parvulos suos iuxta se in lecto collocent.</p>
-            </div>
-            <div>
-                <head>050</head>
-                <p>(50) Placita quoque secularia a locis sacris penitus arceantur.</p>
-            </div>
-            <div>
-                <head>051</head>
-                <p>(51) Omnibus insuper personis, vicariis, et capellanis curas parochiarum habentibus firmiter inhibemus ne alicui contractui matrimoniali vel sponsalium intersint vel auctoritatem prestent priusquam consuete et sollempnes denuntiationes in ecclesiis et parochiis contrahere volentium facte fuerint iuxta formam a nobis traditam.</p>
-            </div>
-            <div>
-                <head>052</head>
-                <p>(52) Item, quia libera debent esse matrimonia et inter habiles personas ad contrahendum tantummodo firmanda sunt, omnibus personis, vicariis, et capellanis firmiter precipimus quod, quotiens ecclesie constiterit aliquem ad mulierem aliquam ex consuetudine habere accessum preter copulam coniugalem, habita primum diligenti inquisitione an uxor eius possit esse, nullo canonico impedimento obsistente, diligenter moneatur et inducatur quod eam ducat in uxorem.</p>
-                <p>Quod si renuerit, tunc iuret vel fidem prestet de ea habenda in uxorem si ipsam decetero cognoverit.</p>
-                <p>Si vero aliquod a principio apparuerit inpedimentum quominus ipsam habere possit uxorem, simpliciter et absque omni conditione ipsi se adinvicem cogantur abiurare; qui si postea sese commiscuisse probantur, trine fustigationis pene tribus locis ipsos decrevimus subiacere.</p>
-            </div>
-            <div>
-                <head>053</head>
-                <p>(53) Precipimus etiam quod simplices fornicationes et leviora peccata per monitiones et obsecrationes absque iudicio capituli in singulis parochiis per rectores et capellanos parochiarum in forma ecclesie prius tradita corrigantur. Quod si per proprios capellanos corrigi non possint aut alias correcti fiant, incorigibiles denuntiantibus capellanis postea ad capitulum evocentur, ibique in forma ecclesie corrigantur absque pena pecuniaria seu amerciamento.</p>
-                <p>Si tamen sponte iudicio capituli voluerint obtemperare, singulis tamen per proprium sacerdotem vel per penitentiarium nostrum pro qualitate delicti iniun- gatur penitentia debita et salutaris.</p>
-                <p>Qui vero per proprios capellanos in parochiis suis fuerint correcti, ratione eiusdem delicti ad capitulum nullatenus vocentur nec ab aliquo mercientur. Caveant autem rectores et capellani parochiarum quod pro huiusmodi correctione peccuniam aut misericordiam qualemcumque non recipiant.</p>
-                <p>Quod si fecerint, duplum archidiacono restituant, si super hoc convincantur.</p>
-            </div>
-            <div>
-                <head>054</head>
-                <p>(54) Maiora autem crimina notoria seu manifesta per capellanos parochiales ad capitulum detrahantur ut capituli iudicio pena debita delinquentibus inponatur, que semel imposita si corporalis fuerit mediante peccunia non redimatur. Capellani quoque, si in corrigendis aut deferendis excessibus suorum parochianorum quos corrigere non possunt aut non tenentur negligentes fuerint vel remissi, aut aliquid de correctione seu denuntiatione omittenda receperint, suspendantur et duplum eius quod receperint archidiacono restituant.</p>
-            </div>
-            <div>
-                <head>055</head>
-                <p>(55) Abiurationes quoque fornicariarum sub pena peccuniaria fieri penitus prohibemus, nisi in casibus alias vobis expressis; et quod officiales seu decani pretextu pecunie vel muneris alicuius peccata huiusmodi nullatenus incorrecta dimittant.</p>
-            </div>
-            <div>
-                <head>056</head>
-                <p>(56) Item, quia in matrimoniis ex deliberato consilio legitimus debet inveniri consensus, nec potest dici legitimus qui ab ebriis vel iocandi animo seu demonstrandi causa fit, precipimus quod nullus vir aut mulier fidem sibi adinvicem dare de contraendo matrimonio per quecumque verba presumant in tabernis aut in puplicis potationibus.</p>
-                <p>Si quis contravenerit, sive vir fuerit vel mulier, trine fastigationis pene tribus locis publicis subiacebunt.</p>
-                <p>Laici quidem qui talibus contractis consenserint vel auctoritatem prestiterint graviter puniantur.</p>
-            </div>
-            <div>
-                <head>057</head>
-                <p>(57) Clandestina quippe matrimonia fieri districtius prohibemus.</p>
-            </div>
-            <div>
-                <head>058</head>
-                <p>(58) Subiectis quoque nostris sub interminatione anathematis inhibemus ne clerici de ecclesiis suis citra auctoritatem nostram pensiones solvere aut veteres augere vel aliquid sub collusione promittere presumant.</p>
-            </div>
-            <div>
-                <head>059</head>
-                <p>(59) Interdicimus etiam ne quis inter minores, quorum alter vel utrique ad annos canonibus seu legibus determinatos nondum pervenerint, nuptias audeat celebrare.</p>
-            </div>
-            <div>
-                <head>060</head>
-                <p>(60) Rectoribus ecclesiarum nobis subditis indultum esse volumus ut parochianos suos, qui decimas suas, que hucusque persolvi solebant, detinere presumpserint, post trinam admonitionem excommunicationis sententia feriant.</p>
-                <p>In aliis autem casibus citra conscientiam vel auctoritatem nostram quemquam excommunicare non presumant nominatim.</p>
-            </div>
-            <div>
-                <head>061</head>
-                <p>(61) Nullus rector ecclesie nobis subditus decimas suas prevendere audeat ante Pascha.</p>
-                <p>Fructus autem percepti in cimiterio sive in libera terra ecclesie ponantur, ut si clericus defunctus fuerit, debiti eius solutionem vel iustam dispositionem nullus laicus ex malitia valeat impedire.</p>
-                <p>Preterea sub interminatione anathematis inhibemus ne quis clericus decimas laico vel ecclesiasticum beneficium dimittat ad firmam sub aliquo colore. Decime enim et ecclesiastica beneficia, laicis temerarie et contra statuta canonum tenenda a clericis concessa, in manus nostras recipiantur.</p>
-                <p>Nec sacerdos aliquis alium a cantaria sua per pensionis augmentum vel alio modo tanquam laicum esset commercium subplantare presumat.</p>
-            </div>
-            <div>
-                <head>062</head>
-                <p>(62) Reliquias inventas de novo nemo publicare presumat, nisi prius auctoritate Romani pontificis fuerint approbate.</p>
-            </div>
-            <div>
-                <head>063</head>
-                <p>(63) Nullus Predicator questuarius in ecclesiis admittatur, nisi nostra super hoc fulciatur auctoritate.</p>
-                <p>Prelati vero non permittant illos qui ad eorum ecclesias venerationis causa accedunt variis documentis aut falsis figmentis decipi, sicut occasione questus fieri consuevit.</p>
-            </div>
-            <div>
-                <head>064</head>
-                <p>(64) Item, cum sanctorum reliquiis magna debeatur reverentia, illius corpori, qui sanctorum sanctus est et in sanctis suis gloriosus alios fecit sanctos, summus honor est inpendendus.</p>
-                <p>Ipsi itaque cui honor est et gloria debitum honorem conservare volentes, sub interminatione anathematis inhibemus ne in cimiteriis vel atriis ecclesiarum ludi vel lucte fiant nec mulieres ibidem correas, luxuriosa carmina canendo, lascive ducere presumant, cum ex hiis domini reverentia et sanctorum honore contemptis, rixe et contentiones et hominum mortes soleant evenire.</p>
-            </div>
-            <div>
-                <head>065</head>
-                <p>(65) Similiter ne laicorum edificia in cimiteriis fiant districtius inhibemus.</p>
-            </div>
-            <div>
-                <head>066</head>
-                <p>(66) Supellectilia in ecclesiis non dimittantur, nisi propter hostiles incursus aut incendia repentina seu alias necessitates urgentes ad eas oporteat habere refugium; ita tamen ut, necessitate cessante, res ad pristina loca reportentur.</p>
-            </div>
-            <div>
-                <head>067</head>
-                <p>(67) Tugurria et domus laicorum in cimiteriis quocumque tempore erecta amoveantur, propter inmunditiam fornicationis vitandam et propter occupationem cimiteriorum.</p>
-            </div>
-            <div>
-                <head>068</head>
-                <p>(68) Districtius insuper inhibemus ne archidiaconi vel eorum officiales vel decani nostre diocesis causas tractent vel terminent matrimoniales aut testamentarias aut criminales seu civiles que ad depositionem tendunt seu beneficii privationem, sive civiliter agatur sive criminaliter, nec aliquas alias causas ad nostram cognitionem precipue pertinentes.</p>
-            </div>
-            <div>
-                <head>069</head>
-                <p>(69) Inhibemus insuper archidiaconis nostris et eorum officialibus ne de ecclesiis ordinariorum nostrorum vel aliis ad donationem nostram spectantibus procurationes exigere vel extorquere vel easdem visitare presumant, a quibus ecclesiis temporibus predecessorum nostrorum procurationes non perceperunt nec easdem visitarunt.</p>
-            </div>
-            <div>
-                <head>070</head>
-                <p>(70) Firmiter etiam inhibemus eisdem ne procurationes antiquas ecclesiarum sine conscientia nostra et licentia augeant, vel tempore vacationis auctas extorqueant, vel a pauperibus ecclesiis, a quibus temporibus predecessorum nostrorum propter sui tenuitatem nunquam exacte fuerint vel solute, alique procurationes de novo exigantur sine nostra licentia speciali, cum per nostram ordinationem huiusmodi novi census debeant imponi.</p>
-            </div>
-            <div>
-                <head>071</head>
-                <p>(71) Persone autem et vicarii ecclesiarum donationis nostre et advocationis, in quibus nulle sunt partes archidiaconorum vel officialium suorum, firmiter inhibemus ne ipsi vel eorum capellani seu parochiani capitula eorum seu placita sequantur vel coram eis respondeant, contra antiquam consuetudinem et ecclesie Winton libertatem.</p>
-                <p>Eisdem personis et vicariis nostris firmiter iniungimus quod causas finiant parochianorum suorum per seipsos, vel per alios viros iurumperitos vel notitiam causarum per exercitium habentes audiant, tractent, et terminent, secundum antiquam consuetudinem, per simplices et imperitos capellanos seu firmarios hec fieri de cetero prohibentes.</p>
-                <p>Cognitionem autem causarum matrimonialium et maiorum questionum personis et vicariis predictis decetero penitus interdicimus.</p>
-            </div>
-            <div>
-                <head>072</head>
-                <p>(72) Omnes etiam qui sequestra nostra ausu temerario violabunt aut malitiose seu furtive diminuent sententia excommunicationis innodamus.</p>
-            </div>
-            <div>
-                <head>073</head>
-                <p>(73) Precipimus etiam quod festa sancti Swthuni et Birini, qui ecclesie et episcopatus nostri sunt patroni, et alia festa que sancti patres et predecessores nostri in episcopatu nostro sollempniter celebrari sanxerunt, ubique per episcopatum nostrum a clero et populo sollempniter celebrentur. Festum insuper Depositionis beati Edmundi confessoris xvi kalendas Decembris necnon et festum Translationis eiusdem vii kal.</p>
-                <p>Iunii sollempniter precipimus ubique in episcopatu nostro celebrari.</p>
-            </div>
-            <div>
-                <head>074</head>
-                <p>(74) Statuimus etiam quod clerici nostri beneficiati decedentes ecclesiis suis relinquant de suis facultatibus unde libri et ornamenta emantur, ubi libri et ornamenta non sunt.</p>
-                <p>Quod nisi fecerint, de bonis eorum retineatur tantum unde emi possunt.</p>
-            </div>
-            <div>
-                <head>075</head>
-                <p>(75) Sacerdotes alieni et ignote ordinationis nullo modo nisi per nos ad ministrandum recipiantur, quia tales volumus examinari tam in morum honestate quam literatura et officio ecclesiastico antequam ministrent.</p>
-                <p>Decani autem si per se contra formam prescriptam aliquem receperint graviter puniantur.</p>
-            </div>
-            <div>
-                <head>076</head>
-                <p>(76) Preterea statuimus ut si alicui loco religioso vel ecclesiastice persone pensio aliqua de auctoritate nostra debeatur et is qui eam debet infra xv dies post terminum solutionis prefixum eam non solverit, ex beneficiis de quibus pensiones debentur per officialem nostrum plene satisfiat, gratia quam domui Sancte Crucis fecimus salva in omnibus permanente.</p>
-            </div>
-            <div>
-                <head>077</head>
-                <p>(77) Statuimus etiam quod si ille qui ecclesiam pensionariam tenebat moriatur in die Cene vel post, quia de consuetudine episcopatus nostri fructus autumpni sequentis ad eum pertinent, de eisdem fructibus eiusdem anni satisfaciat de pensionibus usque ad Cenam eiusdem anni sequentem.</p>
-                <p>Quod si aliquo casu satisfieri non possit, successor inde respondeat.</p>
-                <p>Si autem talis fuerit ecclesia quod in oblationibus maior pars vel medietas obventionum consistat, ille qui percipit pro rata respondeat.</p>
-            </div>
-            <div>
-                <head>078</head>
-                <p>(78) Ceterum, quia rectores ecclesiarum ante Cenam domini decedentes post decessum de ecclesiis prius suis nichil recipiunt, statuimus quod si quas expensas fecerint ante decessum suum in colendis terris ecclesie eas integre a successoribus suis recipiant.</p>
-                <p>Idem fiat de expensis factis a firmariis eorum qui ecclesias ad firmam auctoritate nostra receperint.</p>
-                <p>Conventiones autem quas defuncti fecerunt cum capellanis successores usque ad finem anni servare compellantur.</p>
-            </div>
-            <div>
-                <head>079</head>
-                <p>(79) Sacerdotes etiam et clerici in suo testamento de bonis ecclesie suis focariis nichil relinquant quas paulo ante, dum sani essent, tenuerunt; et si reliquerint irritum habeatur, et per officiales nostros exigatur et pauperibus erogetur.</p>
-            </div>
-            <div>
-                <head>080</head>
-                <p>(80) Salubri insuper provisione decrevimus ne beneficiati vel sacerdotes domos aut possessiones laicas ad opus concubinarum suarum vel filiorum suorum emere presumant, nec etiam ad opus eorum construant.</p>
-                <p>Sed nec etiam peccuniam ministrent ad huiusmodi emenda ad opus illorum, ut sic eis subtrahatur occasio malignandi.</p>
-                <p>Et qui contrafecerint per subtractionem beneficii puniantur in tantum quantum in causa tali fuerit expensum.</p>
-            </div>
-            <div>
-                <head>081</head>
-                <p>(81) Item, propter religionem fratrum predicatorum et minorum et lucrum animarum statuimus ut liceat fidelibus accedere ad eos ad accipiendam penitentiam quandocumque voluerint extra Quadragesimam, et tunc etiam requisita licentia proprii sacerdotis, solutis proprie ecclesie oblationibus consuetis.</p>
-            </div>
-            <div>
-                <head>082</head>
-                <p>(82) Quoniam autem in plerisque locis nostri episcopatus secundum melius averium a decedentibus ex testamento vel ab intestato ecclesiis parochialibus exsolvitur, et in quibusdam locis a quibusdam personis non prestatur, propter quod lites et dissensiones inter quarumdem ecclesiarum rectores et suos parochianos frequenter oriuntur, ut salus animarum ex hoc proveniat et omnis de cetero litis materia dissolvatur, necnon ut uniformis sit modus apud omnes legata seu prestationes exigendi pariter et solvendi, sic duximus providendum, videlicet, quod si vir masculus testatus vel intestatus decesserit seu vidua, pro decimis suis maioribus seu minoribus indiscrete vel ignoranter detentis seu minus plene solutis secundum melius averium ecclesie sue matrici pro salute anime sue solvatur.</p>
-                <p>Si vero mulier coniugata, testata vel intestata, decesserit, nichil eo nomine ex testamento eiusdem vel ab intestata exigatur, nisi tamen quod, marito suo permittente, ecclesie duxerit relinquendum, nisi consuetudo aliter optineat. Talis sit mulier que, permittente viro suo, bona habuit taliter separata ut de eisdem in ultima voluntate inter vivos disponere possit pro arbitrio sue voluntatis.</p>
-                <p>Si autem moriens adeo fuerit pauper quod, soluto ecclesie ut predictum est secundo averio, apud heredem suum aut liberos nichil huiusmodi sit remansurum, volumus quod cum de paupertate sua canonice constiterit, nichil de bonis eiusdem eo nomine exigatur, nisi quod ecclesie specialiter duxerit relinquendum.</p>
-                <p>Si quid autem in civitatibus, municipiis, aut mercatis seu villis, de aliis decedentium mobilibus ecclesiis parochialibus relinqui aut deberi fuerit consuetum, nolimus eidem consuetudini per hanc nostram constitutionem in aliquo derogari.</p>
-                <p>Quicunque vero rector, vicarius, vel capellanus contra tenorem presentis constitutionis aliquid de bonis morientium duxerit exigendum, quod de bonis defuncti sibi vel ecclesie sue debebatur ea vice perdat et tantumdem de suo det nostro arbitrio pauperibus erogandum.</p>
-            </div>
-            <div>
-                <head>083</head>
-                <p>(83) Quia ex concilio Oxonie excommunicati sunt omnes qui puplicas faciunt et exerceant potationes que scotales vulgaliter appellantur, omnibus personis, vicariis, et capellanis in virtute obedientie precipimus quod omnes vicecomites, forestarios, prepositos, ballivos hundredorum et villarum qui huiusmodi potationes causa extorquende a subditis suis pecunie facient et omnes huiusmodi potationes voluntarie exercentes singulis diebus dominicis in ecclesiis suis publice denuntient excommunicatos, et eorumdem nomina postquam huiusmodi attemptare presumpserunt.</p>
-            </div>
-            <div>
-                <head>explicit</head>
+                <head>Metadata</head>
+                <p>RecordID: 1501</p>
+                <p>Year: 1247</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: Yes</p>
+                <p>DatingNotes: probably issued autumn 1247; certainly issued before late 1249</p>
+                <p>Place: Winchester</p>
+                <p>Diocese: Winchester</p>
+                <p>Province: Canterbury</p>
+                <p>CountryModern: England</p>
+                <p>Latitude: 51.0632</p>
+                <p>Longitude: -1.308</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: William Raleigh</p>
+                <p>IssuingAuthorityAlt: William de Raley</p>
+                <p>RegnalStart: 1242</p>
+                <p>RegnalEnd: 1250</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Powicke &amp; Cheney I, 403-16</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: Data Capture</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: Borrow heavily from Grosseteste's statutes for Lincoln (Raleigh being a close friend of Grosseteste)</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Statuta synodalia.</p>
+                    <p>Debentes de vobis bonam rationem reddere, que secundum Augustinum est dicere, non tacere; sub scilentio transire non possumus quin vobis dicamus que vobis scire et observare credimus necessarium.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) Quia igitur sine decalogi observatione salus animarum non consistit, exhortamur in domino, firmiter iniungentes ut unusquisque pastor animarum et quilibet sacerdos parochialis sciat decalogum, id est, decem mandata legis mosayce, eademque populo sibi subiecto frequenter predicet et exponat.</p>
+                    <p>Sciat etiam vii criminalia que sunt, eademque populo predicet fugienda.</p>
+                    <p>Sciat etiam vii ecclesiastica sacramenta, et hii qui sunt sacerdotes maxime sciant que exiguntur ad vere confessionis et penitentie sacramentum, formamque baptizandi frequenter laicos doceant et ydiomate communi.</p>
+                    <p>Habeant quique eorum simplicem intellectum fidei, sicut continetur in simbolo, tam maiori quam minori, et in tractatu qui dicitur Quicunque wlt, qui cotidie ad Primam psallitur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Eukaristia autem que est sacramentum dominici corporis in loco singulari, mundo, et signato semper honorifice collocata, devote ac fideliter observetur. Sacerdos vero quilibet doceat plebem suam ut cum in celebratione misse elevatur hostia salutaris se reverenter inclinet; idem faciat cum eam portet presbiter ad infirmum.</p>
+                    <p>Quam in decenti habitu, superposito mundo velamine, ferat et referat manifeste et honorifice ante pectus cum reverentia et timore, semper lumine precedente, cum sit candor lucis eterne, ut ex hoc apud omnes fides et devotio augeatur; quemadmodum in consilio generali scribitur.</p>
+                    <p>Tintinnabulum quoque simul cum lumine venerandam corporis hostiam semper precedat, ut eius sonitu excitetur fidelium devotio ad tanti debitam sacramenti adorationem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) Omnes insuper sacerdotes parochialium ecclesiarum monemus et obsecramus in domino Iesu Christo, firmiter eisdem iniungentes quod parochianos suos attente moneant et efficaciter inducant quod, quotiens corpus Christi modo supradicto ad infirmum defertur, statim audito tintinnabulo cum devotione sacerdoti occurrant, corpus Christi usque ad domum infirmi et iterum ad ecclesiam prosequentes.</p>
+                    <p>Omnibus autem qui corpus dominicum taliter fuerint secuti decem dies de iniuncta penitentia misericorditer sibi relaxamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) Rogamus insuper et monemus rectores, vicarios, et capellanos parochialium ecclesiarum quod in singulis parochialibus ecclesiis preparantur duo luminaria cerea honeste magnitudinis, facta ad modum torticeorum; et cum sacerdos incipit Te igitur, accendantur, et sic duo clerici ad dexteram et sinistram sacerdotis iuxta cornu altaris stantes ea accensa teneant donec sacerdos communicaverit. Omnibus autem qui hoc fecerint vel qui de bonis suis aliquid ad predicti luminis sustentationem contulerint decem dies de iniuncta sibi penitentia relaxamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) Observent etiam sacerdotes cum diligentia ne sacra eukaristia per vasis vitium aut diutinam conservationem contraxerit humiditatem sive mucorem, unde reddatur turpis gustui vel tactui aut aspectui abhominabilis; sed per singulas ebdomadas renovetur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>(6) Sacerdotes autem promtissimi sint et paratissimi, non solum diebus sed etiam noctibus, ut egrotantes visitent cum requiruntur, ne eorum negligentia, quod absit, moriatur infirmus sine confessione aut dominici corporis communione vel extrema unctione.</p>
+                    <p>Quod si hec culpa sacerdotis evenerit, convictus de hoc suspendatur et sine nostra conscientia non relaxetur.</p>
+                    <p>Pernoctare etiam extra parochiam suam nullus sacerdos parochialis aliqua ratione presumat, nisi alium ydoneum vice sua dimiserit ibidem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>(7) Superaltaria quoque sint honesta et congrue magnitudinis, firmiterque fixa in circumdante ligno ut non moveantur ab ipso, neque usurpentur ad alios usus quam ad divinorum celebrationem, ut videlicet non molantur super ea colores, vel aliqua fiant in eis similia.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>(8) Panni etiam crismales non convertantur in usus seculares.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>(9) In ecclesia quoque divinum officium integre fiat et devote, ut videlicet lectiones, ymni, psalmi, et alia que in dei laudem recitantur in ecclesia, habeant integram verborum prolationem mentisque ad sensum devotam attentionem ne, quod absit, pro hostia viva et integra offeratur hostia mutulata et mortua.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>(10) Provideant etiam attentius ecclesiarum rectores et sacerdotes parochiales ut pueri parochiarum suarum diligenter doceantur et sciant orationem dominicam, et simbolum, et salutationem beate Marie virginis, et crucis signaculo se recte consignare.</p>
+                    <p>Et quia quidam etiam adulti hec quandoque ignorant, precipimus quod cum laici ad confessionem accedunt, diligenter examinentur utrum scierint predicta, ut secundum quod expedit in eis a sacerdotibus instruantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>(11) Item, quia mundi debent esse, sicut ait Ysayas, qui ferunt vasa domini pollutumque non tangere, exhortantes precipimus quod omnes beneficiati et in sacris ordinibus constituti vitium luxurie fugiant omnemque voluntariam carnis inmunditiam, continentie servantes puritatem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>(12) Nullusque ipsorum uxorem ducat; et si quis, antequam in sacros ordines esset constitutus, uxorem duxerit, beneficium ecclesiasticum non teneat, neque in sacris ordinibus, si eos postea acceperit, ministrare presumat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>(13) Attentius itaque inhibemus ne quis sacerdos, in domo sua concubinam retinens vel alibi ad aliquam habens consuetudinem, in tam gravi permanens peccato, ad sacrum altare celebraturus accedere presumat, cum consecratio illius in execrationem et benedictio sibi vertatur in maledictionem.</p>
+                    <p>Et si quis, hac de causa suspensus, presumpserit celebrare divina, non solum beneficiis ecclesiasticis spolietur, verum etiam pro dupplici culpa arbitrio episcopi suspendatur.</p>
+                    <p>Prelati vero qui tales iniquitates presumpserint sustinere, maxime obtentu peccunie vel alicuius commodi temporalis, pari subiaceant ultioni.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>(14) Ceterum, cum non solum a malo sed ab omni specie mali abstinendum sit, firmiter inibemus ne clerici sine rationabili causa et manifesta frequentent sanctimonialium monasteria.</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>(15) Et ne quis sacerdos vel rector retineat feminam in domo sua, sive cognatam sive aliam, unde rationabiliter mala de ipso possit oriri suspicio.</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>(16) Firmiter etiam inhibemus ne quiquam beneficiati seu in sacris ordinibus</p>
+                    <p>constituti sint ebriosi aut gulosi aut tabernas exercentes, ne morte eterna, secundum legis comminationem, moriantur, sed actu abstinentie et sobrietatis seipsos habiles reddant ut secundum doctrinam dei habeant scientiam discernendi inter sanctum et prophanum, inter mundum et pollutum, doceantque populum omnia legitima que dominus locutus est per manum Moysi.</p>
+                </div>
+                <div>
+                    <head>Capitulum 17</head>
+                    <p>(17) Quia etiam a ministris ecclesie omnis fomes cupiditatis et turpi lucris abscidendus est, exhortantes precipimus ne beneficiati aut in sacris ordinibus constituti negotiationes exerceant nec aliquid accomodent ad usuram; sed, sicut precipit doctrina evangelica, mutuum dent, nichil inde sperantes.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18</head>
+                    <p>(18) Neque dent neque recipiant ecclesiastica beneficia ad firmam, nisi de nostra licentia speciali.</p>
+                    <p>Sacerdos vero parochialis, si ecclesiam in qua ministrat de licentia nostra ad firmam tenuerit, aliam ecclesiam ad firmam recipere vel in alia ministrare non audeat, cum absque cupiditatis nota hoc facile contingere non possit.</p>
+                    <p>Sacerdos etiam qui et rector est alicuius ecclesie, ecclesiam suam alteri ad firmam dare et in aliena ecclesia tanquam stipendiarius ministrare nulla ratione presumat sed sui proprii gregis curam diligenter exerceat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 19</head>
+                    <p>(19) Item, sententiam sanguinis nullus dictet clericus aut proferat; sed nec sanguinis vindictam exerceat aut ubi exerceatur intersit.</p>
+                    <p>Nec literas dictet aut scribat pro vindicta sanguinis destinandas.</p>
+                    <p>Nec ructuariis aut balistariis aut huiusmodi sanguinis viris preponatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 20</head>
+                    <p>(20) Preterea, ad amputandam omnem cupiditatis speciem firmiter inhibemus ne beneficiati vel in sacris ordinibus constituti sint vicecomites vel iustitiarii seculares, vel ballivas laicas teneant, vel earumm firmas, unde laicis potestatibus obligentur ad ratiocinia de ballivis reddenda.</p>
+                </div>
+                <div>
+                    <head>Capitulum 21</head>
+                    <p>(21) Inhibemus similiter districtius ne aliquis rector faciat huiusmodi pactum cum suo capellano, videlicet, quod ipse sacerdos preter certa stipendia poterit recipere annualia vel tricennalia, quia huiusmodi pactio manifestum est indicium quod sacerdos eo ipso duplex recipit stipendium.</p>
+                    <p>Necesse quoque est ut aut non perficiat suscepta annualia aut in ecclesia parochiali non rite efficiat divina obsequia.</p>
+                </div>
+                <div>
+                    <head>Capitulum 22</head>
+                    <p>(22) Ipsis autem sacerdotibus et clericis sufficiens et honesta tribuatur sustentatio ab ecclesiarum rectoribus, videlicet, v marce vel lx solidi pro stipendiis sacerdotum et clericorum, vel amplius secundum facultates ecclesiarum et honera, ne propter diminutam sustentationem oporteat ecclesiam divinis carere obsequiis, aut ipsos sacerdotes lucris turpibus inhiare seu victum mendicare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 23</head>
+                    <p>(23) Aque insuper benedicte parochiarum pauperibus scolaribus assignentur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 24</head>
+                    <p>(24) Inhibemus etiam firmiter ne laicis aliquibus committantur ad firmam libere terre ecclesiarum de dominicis, nisi forte iidem laici sint illius ecclesie servi, et tunc hoc fiat de licensia diocesani.</p>
+                </div>
+                <div>
+                    <head>Capitulum 25</head>
+                    <p>(25) Et ne rectores vel vicarii de bonis ecclesie edificent in laico feodo extra fundum ecclesie; et similiter ne decime in laico feodo reponantur, sed in fundo ipsius ecclesie, si fundum habeat.</p>
+                    <p>Quod si fundum non habeat, infra annum fundum ad opus ecclesie de bonis eiusdem studeat comparare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 26</head>
+                    <p>(26) Provideant autem rectores ecclesiarum vicariis et sacerdotibus suis in libera terra ecclesie honesta domicilia, ne ipsos oporteat cum laicis non sine scandalo et periculo commorari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 27</head>
+                    <p>(27) Precipimus etiam ut redditus assignati ad luminaria non convertantur ad alios usus per ipsos rectores vel vicarios.</p>
+                </div>
+                <div>
+                    <head>Capitulum 28</head>
+                    <p>(28) Hortamur etiam precipientes ne clerici mimis, ioculatoribus, aut histrionibus intendant, neque ad aleas seu taxillos ludant vel ludentibus assideant; quia licet quibusdam videantur levia, tamen secundum sanctorum patrum doctrinas, qui talia faciunt demonibus prestant sacrificia.</p>
+                </div>
+                <div>
+                    <head>Capitulum 29</head>
+                    <p>(29) Et quia in clero nil splendere debeat nisi Iesu Christi humilitas et evangelica perfectio, que consulit quod si quis percusserit te in dexteram maxillam, prebeas et illi alteram, monemus precipientes ne clerici arma portent, sed coronam et tonsuram habeant ordini congruentem et habitum convenientem tam sibi quam suis equitaturis secundum quod determinant sancta consilia.</p>
+                </div>
+                <div>
+                    <head>Capitulum 30</head>
+                    <p>(30) Ut autem sacerdotes a laicis et secularibus personis habitu distinguantur, precipimus quod sacerdotes ubique in suis parochiis extra cepta domus sue et coram suis prelatis et ubique in conventibus secularium personarum cappis clausis aut aliis indumentis honestis utantur.</p>
+                    <p>Qui autem in cappis manucatis aut aliis secularium personarum vestibus fuerint inventi, suspendantur donec vestem prohibitam vel pretium eius officiali nostro restituant in usus pauperum erogandum, illis sacerdotibus dumtaxat exceptis qui peregrinationis causa vel extra episcopatum proficiscuntur vel in obsequiis prelatorum suorum commorantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 31</head>
+                    <p>(31) Precipimus etiam ne aliqui recipiant plura beneficia curam animarum habentia cum quibus per sedem apostolicam super hoc non est dispensatum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 32</head>
+                    <p>(32) Similiter quod filii proximo ministrantis ecclesias in quibus patribus inmediate suscesserunt, penitus resignent, et patroni ydoneos ad easdem ecclesias presentent.</p>
+                </div>
+                <div>
+                    <head>Capitulum 33</head>
+                    <p>(33) Subiectis quoque nostris districtius inhibemus ne quis sacerdos in duabus ecclesiis ministrare presumat, cum vix unus uni sufficere possit.</p>
+                </div>
+                <div>
+                    <head>Capitulum 34</head>
+                    <p>(34) Quilibet autem rector ecclesie honestum et ydoneum vicarium vel capellanum habeat qui, sicut expedierit, curam gerat animarum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 35</head>
+                    <p>(35) Firmiter etiam inhibemus ne sacerdotes a laicis peccuniam pro penitentiis seu etiam aliis sacramentis administrandis turpis lucri causa extorqueant vel pecuniarias iniungant penitentias, videlicet, annalia vel tricennalia celebrari, vel alia hiis similia fieri.</p>
+                    <p>Quod si aliquis hoc fecisse detectus fuerit, per annum suspendatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 36</head>
+                    <p>(36) Preterea, firmiter inhibemus ne diaconi confessiones audiant vel penitentias iniungant vel alia sacramenta ministrent que concessa sunt solis sacerdotibus ministrare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 37</head>
+                    <p>(37) Volumus etiam et precipimus quod singuli clerici beneficiati ad ordines promoveantur quos cura animarum quam susceperunt exigit et requirit.</p>
+                </div>
+                <div>
+                    <head>Capitulum 38</head>
+                    <p>(38) Ad hec precipimus ut omnes rectores ecclesiarum et vicarii residentiam faciant in suis beneficiis personalem, conversantes in eisdem laudabiliter et honeste, nisi ob causam rationabilem cum eis ut in eisdem non resideant fuerit dispensatum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 39</head>
+                    <p>(39) In ecclesiis quoque singulis quarum facultates ad hoc sufficiunt, sint unus diaconus et unus subdiaconus in eisdem ut decet ministrantes.</p>
+                    <p>In aliis vero ecclesiis sit saltem unus clericus honestus, qui sacerdoti cum habitu et tonsura convenientibus in divinis ministret officiis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 40</head>
+                    <p>(40) Statuimus autem quod capelle, intra parochias nostras contemplatione parochianorum a matrice ecclesia nimis distantium antiquitus erecte, que quandoque bis vel ter in ebdomada sacerdotis gaudebant obsequiis, continuum habeant de cetero sumptibus rectoris sacerdotis ministerium, si numerus animarum in confinio capelle commorantium in tantum sit auctus quod unus sacerdos tot animabus curandis non sufficiat competenter, et proventus matricis ecclesie et capelle in tantum excreverit quod idem incrementum ad unius sacerdotis exibitionem attingat.</p>
+                    <p>Quod si proventus in nullo aucti fuerint, numerus vero animarum maior sit, ne salus animarum a nobis videatur neglecta, volumus quod tam rector quam parochiani ad unius sacerdotis exibitionem pro dierum numero contribuant. Idemque sacerdos capelle deserviens prope capellam diebus ac noctibus commoretur, et de capelle proventibus rectori matricis ecclesie plene respondeat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 41</head>
+                    <p>(41) Omnibus etiam decanis in virtute obedientie districte precipimus quod oblationes penthecostales matrici ecclesie Winton ratione visitationis annue debitas, a singulis capellanis suorum decanatuum diligenter exigant et recipia nt, ac receptas sacriste nostro Winton sine retentione aut diminutione qualibet infra festum beati Petri ad vincula restituant, quid et quantum a singulis parochiis receperint in scriptis fideliter redigentes ac sacristam nostrum super hoc certiorem facientes.</p>
+                    <p>Nullus autem officialis, decanus, vel capellanus aliquam eiusdem oblationis portionem sibi audeat occasione alicuius consuetudinis usurpare vel retinere, scituri quod si super hoc fuerint convicti, duplum eius quod sibi retinere presumpserint de proprio restituent.</p>
+                </div>
+                <div>
+                    <head>Capitulum 42</head>
+                    <p>(42) Sub pena insuper excommunicationis precipimus ne aliquis parochianus noster, clericus vel laicus, aliquem de parochianis nostris, clericum vel laicum, contra quem nichil habet iuste questionis, ad extraordinarium iudicem extra episcopatum nostrum trahere audeat aut malitiose convenire ut ab eo peccuniam pro redemptione vexationis extorqueat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 43</head>
+                    <p>(43) Sacerdotes autem et clerici parochialium ecclesiarum potationes intra ecclesias cum secularibus personis seu mulieribus nullo tempore faciant, sicut in Quadragesima, dum clerici vel sacerdotes panem eukaristie faciunt, in plerisque locis fieri consuevit.</p>
+                    <p>Sacerdos vero vel clericus qui talia fecerit graviter puniatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 44</head>
+                    <p>(44) Si quis autem laicus de aliquo crimine convictus fuerit aut confessus propter quod pena corporalis vel sollempnis ei de iure debeat infligi, nulla ratione liceat ei penam predictam redimere per peccuniam, nisi propter persone honestatem aut maiorem penitentie fructum is qui iurisdictioni preest aliter viderit dispensandum.</p>
+                    <p>Clerici quoque de similibus criminibus convicti vel confessi suspendantur et absque conscientia nostra non relaxentur.</p>
+                    <p>Omnes autem criminosi huiusmodi ad penitentiam privatam recipiendam ad nostrum penitentiarium transmittantur; cum litteris penitentiarii penitentiam suam continentibus ad proprium sacerdotem revertantur ut de peracta penitentia penitenti possint testimonium perhibere.</p>
+                </div>
+                <div>
+                    <head>Capitulum 45</head>
+                    <p>(45) Archidiaconi vero et eorum officiales seu decani qui, avaritia ducti, occasione questus redemptiones corporalium penitentiarum iuste debitarum receperint, aut corporales penas ubi non debentur ut peccuniam extorqueant interminaverint, de proprio duplum restituant et alias gravi pene subiaceant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 46</head>
+                    <p>(46) Precipimus etiam auctoritate evangelica firmiter iniungentes ne in locis sacris aut diebus dominicis ubicunque habeantur mercata, cum dominus vendentes et ementes eiecerit de templo, ne domus orationis fieret spelunca latronum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 47</head>
+                    <p>(47) Ad hec adicimus ut simiteria sint bene clausa, et tam ecclesie quam domus ad ecclesiam pertinentes competenter secundum ecclesie facultates sint edificate.</p>
+                    <p>Rector quoque qui domum non habet infra annum domum competentem edificet.</p>
+                    <p>Ipse etiam ecclesie sint decenter ornate tam in libris quam in sacris vasis et vestimentis; et tam vestimenta quam vasa sint in noctibus sub tuta et honesta custodia, nec reponantur in domibus laicorum, neque sub eorum custodia, nisi rationabilis et evidens ad hoc compulerit necessitas.</p>
+                </div>
+                <div>
+                    <head>Capitulum 48</head>
+                    <p>(48) Inhibemus etiam ne aliquis sacerdos celebret de vino aceto vel corrupto.</p>
+                </div>
+                <div>
+                    <head>Capitulum 49</head>
+                    <p>(49) Frequenti etiam predicatione commoneatur ne matres vel nutrices parvulos suos iuxta se in lecto collocent.</p>
+                </div>
+                <div>
+                    <head>Capitulum 50</head>
+                    <p>(50) Placita quoque secularia a locis sacris penitus arceantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 51</head>
+                    <p>(51) Omnibus insuper personis, vicariis, et capellanis curas parochiarum habentibus firmiter inhibemus ne alicui contractui matrimoniali vel sponsalium intersint vel auctoritatem prestent priusquam consuete et sollempnes denuntiationes in ecclesiis et parochiis contrahere volentium facte fuerint iuxta formam a nobis traditam.</p>
+                </div>
+                <div>
+                    <head>Capitulum 52</head>
+                    <p>(52) Item, quia libera debent esse matrimonia et inter habiles personas ad contrahendum tantummodo firmanda sunt, omnibus personis, vicariis, et capellanis firmiter precipimus quod, quotiens ecclesie constiterit aliquem ad mulierem aliquam ex consuetudine habere accessum preter copulam coniugalem, habita primum diligenti inquisitione an uxor eius possit esse, nullo canonico impedimento obsistente, diligenter moneatur et inducatur quod eam ducat in uxorem.</p>
+                    <p>Quod si renuerit, tunc iuret vel fidem prestet de ea habenda in uxorem si ipsam decetero cognoverit.</p>
+                    <p>Si vero aliquod a principio apparuerit inpedimentum quominus ipsam habere possit uxorem, simpliciter et absque omni conditione ipsi se adinvicem cogantur abiurare; qui si postea sese commiscuisse probantur, trine fustigationis pene tribus locis ipsos decrevimus subiacere.</p>
+                </div>
+                <div>
+                    <head>Capitulum 53</head>
+                    <p>(53) Precipimus etiam quod simplices fornicationes et leviora peccata per monitiones et obsecrationes absque iudicio capituli in singulis parochiis per rectores et capellanos parochiarum in forma ecclesie prius tradita corrigantur. Quod si per proprios capellanos corrigi non possint aut alias correcti fiant, incorigibiles denuntiantibus capellanis postea ad capitulum evocentur, ibique in forma ecclesie corrigantur absque pena pecuniaria seu amerciamento.</p>
+                    <p>Si tamen sponte iudicio capituli voluerint obtemperare, singulis tamen per proprium sacerdotem vel per penitentiarium nostrum pro qualitate delicti iniun- gatur penitentia debita et salutaris.</p>
+                    <p>Qui vero per proprios capellanos in parochiis suis fuerint correcti, ratione eiusdem delicti ad capitulum nullatenus vocentur nec ab aliquo mercientur. Caveant autem rectores et capellani parochiarum quod pro huiusmodi correctione peccuniam aut misericordiam qualemcumque non recipiant.</p>
+                    <p>Quod si fecerint, duplum archidiacono restituant, si super hoc convincantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 54</head>
+                    <p>(54) Maiora autem crimina notoria seu manifesta per capellanos parochiales ad capitulum detrahantur ut capituli iudicio pena debita delinquentibus inponatur, que semel imposita si corporalis fuerit mediante peccunia non redimatur. Capellani quoque, si in corrigendis aut deferendis excessibus suorum parochianorum quos corrigere non possunt aut non tenentur negligentes fuerint vel remissi, aut aliquid de correctione seu denuntiatione omittenda receperint, suspendantur et duplum eius quod receperint archidiacono restituant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 55</head>
+                    <p>(55) Abiurationes quoque fornicariarum sub pena peccuniaria fieri penitus prohibemus, nisi in casibus alias vobis expressis; et quod officiales seu decani pretextu pecunie vel muneris alicuius peccata huiusmodi nullatenus incorrecta dimittant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 56</head>
+                    <p>(56) Item, quia in matrimoniis ex deliberato consilio legitimus debet inveniri consensus, nec potest dici legitimus qui ab ebriis vel iocandi animo seu demonstrandi causa fit, precipimus quod nullus vir aut mulier fidem sibi adinvicem dare de contraendo matrimonio per quecumque verba presumant in tabernis aut in puplicis potationibus.</p>
+                    <p>Si quis contravenerit, sive vir fuerit vel mulier, trine fastigationis pene tribus locis publicis subiacebunt.</p>
+                    <p>Laici quidem qui talibus contractis consenserint vel auctoritatem prestiterint graviter puniantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 57</head>
+                    <p>(57) Clandestina quippe matrimonia fieri districtius prohibemus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 58</head>
+                    <p>(58) Subiectis quoque nostris sub interminatione anathematis inhibemus ne clerici de ecclesiis suis citra auctoritatem nostram pensiones solvere aut veteres augere vel aliquid sub collusione promittere presumant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 59</head>
+                    <p>(59) Interdicimus etiam ne quis inter minores, quorum alter vel utrique ad annos canonibus seu legibus determinatos nondum pervenerint, nuptias audeat celebrare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 60</head>
+                    <p>(60) Rectoribus ecclesiarum nobis subditis indultum esse volumus ut parochianos suos, qui decimas suas, que hucusque persolvi solebant, detinere presumpserint, post trinam admonitionem excommunicationis sententia feriant.</p>
+                    <p>In aliis autem casibus citra conscientiam vel auctoritatem nostram quemquam excommunicare non presumant nominatim.</p>
+                </div>
+                <div>
+                    <head>Capitulum 61</head>
+                    <p>(61) Nullus rector ecclesie nobis subditus decimas suas prevendere audeat ante Pascha.</p>
+                    <p>Fructus autem percepti in cimiterio sive in libera terra ecclesie ponantur, ut si clericus defunctus fuerit, debiti eius solutionem vel iustam dispositionem nullus laicus ex malitia valeat impedire.</p>
+                    <p>Preterea sub interminatione anathematis inhibemus ne quis clericus decimas laico vel ecclesiasticum beneficium dimittat ad firmam sub aliquo colore. Decime enim et ecclesiastica beneficia, laicis temerarie et contra statuta canonum tenenda a clericis concessa, in manus nostras recipiantur.</p>
+                    <p>Nec sacerdos aliquis alium a cantaria sua per pensionis augmentum vel alio modo tanquam laicum esset commercium subplantare presumat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 62</head>
+                    <p>(62) Reliquias inventas de novo nemo publicare presumat, nisi prius auctoritate Romani pontificis fuerint approbate.</p>
+                </div>
+                <div>
+                    <head>Capitulum 63</head>
+                    <p>(63) Nullus Predicator questuarius in ecclesiis admittatur, nisi nostra super hoc fulciatur auctoritate.</p>
+                    <p>Prelati vero non permittant illos qui ad eorum ecclesias venerationis causa accedunt variis documentis aut falsis figmentis decipi, sicut occasione questus fieri consuevit.</p>
+                </div>
+                <div>
+                    <head>Capitulum 64</head>
+                    <p>(64) Item, cum sanctorum reliquiis magna debeatur reverentia, illius corpori, qui sanctorum sanctus est et in sanctis suis gloriosus alios fecit sanctos, summus honor est inpendendus.</p>
+                    <p>Ipsi itaque cui honor est et gloria debitum honorem conservare volentes, sub interminatione anathematis inhibemus ne in cimiteriis vel atriis ecclesiarum ludi vel lucte fiant nec mulieres ibidem correas, luxuriosa carmina canendo, lascive ducere presumant, cum ex hiis domini reverentia et sanctorum honore contemptis, rixe et contentiones et hominum mortes soleant evenire.</p>
+                </div>
+                <div>
+                    <head>Capitulum 65</head>
+                    <p>(65) Similiter ne laicorum edificia in cimiteriis fiant districtius inhibemus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 66</head>
+                    <p>(66) Supellectilia in ecclesiis non dimittantur, nisi propter hostiles incursus aut incendia repentina seu alias necessitates urgentes ad eas oporteat habere refugium; ita tamen ut, necessitate cessante, res ad pristina loca reportentur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 67</head>
+                    <p>(67) Tugurria et domus laicorum in cimiteriis quocumque tempore erecta amoveantur, propter inmunditiam fornicationis vitandam et propter occupationem cimiteriorum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 68</head>
+                    <p>(68) Districtius insuper inhibemus ne archidiaconi vel eorum officiales vel decani nostre diocesis causas tractent vel terminent matrimoniales aut testamentarias aut criminales seu civiles que ad depositionem tendunt seu beneficii privationem, sive civiliter agatur sive criminaliter, nec aliquas alias causas ad nostram cognitionem precipue pertinentes.</p>
+                </div>
+                <div>
+                    <head>Capitulum 69</head>
+                    <p>(69) Inhibemus insuper archidiaconis nostris et eorum officialibus ne de ecclesiis ordinariorum nostrorum vel aliis ad donationem nostram spectantibus procurationes exigere vel extorquere vel easdem visitare presumant, a quibus ecclesiis temporibus predecessorum nostrorum procurationes non perceperunt nec easdem visitarunt.</p>
+                </div>
+                <div>
+                    <head>Capitulum 70</head>
+                    <p>(70) Firmiter etiam inhibemus eisdem ne procurationes antiquas ecclesiarum sine conscientia nostra et licentia augeant, vel tempore vacationis auctas extorqueant, vel a pauperibus ecclesiis, a quibus temporibus predecessorum nostrorum propter sui tenuitatem nunquam exacte fuerint vel solute, alique procurationes de novo exigantur sine nostra licentia speciali, cum per nostram ordinationem huiusmodi novi census debeant imponi.</p>
+                </div>
+                <div>
+                    <head>Capitulum 71</head>
+                    <p>(71) Persone autem et vicarii ecclesiarum donationis nostre et advocationis, in quibus nulle sunt partes archidiaconorum vel officialium suorum, firmiter inhibemus ne ipsi vel eorum capellani seu parochiani capitula eorum seu placita sequantur vel coram eis respondeant, contra antiquam consuetudinem et ecclesie Winton libertatem.</p>
+                    <p>Eisdem personis et vicariis nostris firmiter iniungimus quod causas finiant parochianorum suorum per seipsos, vel per alios viros iurumperitos vel notitiam causarum per exercitium habentes audiant, tractent, et terminent, secundum antiquam consuetudinem, per simplices et imperitos capellanos seu firmarios hec fieri de cetero prohibentes.</p>
+                    <p>Cognitionem autem causarum matrimonialium et maiorum questionum personis et vicariis predictis decetero penitus interdicimus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 72</head>
+                    <p>(72) Omnes etiam qui sequestra nostra ausu temerario violabunt aut malitiose seu furtive diminuent sententia excommunicationis innodamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 73</head>
+                    <p>(73) Precipimus etiam quod festa sancti Swthuni et Birini, qui ecclesie et episcopatus nostri sunt patroni, et alia festa que sancti patres et predecessores nostri in episcopatu nostro sollempniter celebrari sanxerunt, ubique per episcopatum nostrum a clero et populo sollempniter celebrentur. Festum insuper Depositionis beati Edmundi confessoris xvi kalendas Decembris necnon et festum Translationis eiusdem vii kal.</p>
+                    <p>Iunii sollempniter precipimus ubique in episcopatu nostro celebrari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 74</head>
+                    <p>(74) Statuimus etiam quod clerici nostri beneficiati decedentes ecclesiis suis relinquant de suis facultatibus unde libri et ornamenta emantur, ubi libri et ornamenta non sunt.</p>
+                    <p>Quod nisi fecerint, de bonis eorum retineatur tantum unde emi possunt.</p>
+                </div>
+                <div>
+                    <head>Capitulum 75</head>
+                    <p>(75) Sacerdotes alieni et ignote ordinationis nullo modo nisi per nos ad ministrandum recipiantur, quia tales volumus examinari tam in morum honestate quam literatura et officio ecclesiastico antequam ministrent.</p>
+                    <p>Decani autem si per se contra formam prescriptam aliquem receperint graviter puniantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 76</head>
+                    <p>(76) Preterea statuimus ut si alicui loco religioso vel ecclesiastice persone pensio aliqua de auctoritate nostra debeatur et is qui eam debet infra xv dies post terminum solutionis prefixum eam non solverit, ex beneficiis de quibus pensiones debentur per officialem nostrum plene satisfiat, gratia quam domui Sancte Crucis fecimus salva in omnibus permanente.</p>
+                </div>
+                <div>
+                    <head>Capitulum 77</head>
+                    <p>(77) Statuimus etiam quod si ille qui ecclesiam pensionariam tenebat moriatur in die Cene vel post, quia de consuetudine episcopatus nostri fructus autumpni sequentis ad eum pertinent, de eisdem fructibus eiusdem anni satisfaciat de pensionibus usque ad Cenam eiusdem anni sequentem.</p>
+                    <p>Quod si aliquo casu satisfieri non possit, successor inde respondeat.</p>
+                    <p>Si autem talis fuerit ecclesia quod in oblationibus maior pars vel medietas obventionum consistat, ille qui percipit pro rata respondeat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 78</head>
+                    <p>(78) Ceterum, quia rectores ecclesiarum ante Cenam domini decedentes post decessum de ecclesiis prius suis nichil recipiunt, statuimus quod si quas expensas fecerint ante decessum suum in colendis terris ecclesie eas integre a successoribus suis recipiant.</p>
+                    <p>Idem fiat de expensis factis a firmariis eorum qui ecclesias ad firmam auctoritate nostra receperint.</p>
+                    <p>Conventiones autem quas defuncti fecerunt cum capellanis successores usque ad finem anni servare compellantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 79</head>
+                    <p>(79) Sacerdotes etiam et clerici in suo testamento de bonis ecclesie suis focariis nichil relinquant quas paulo ante, dum sani essent, tenuerunt; et si reliquerint irritum habeatur, et per officiales nostros exigatur et pauperibus erogetur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 80</head>
+                    <p>(80) Salubri insuper provisione decrevimus ne beneficiati vel sacerdotes domos aut possessiones laicas ad opus concubinarum suarum vel filiorum suorum emere presumant, nec etiam ad opus eorum construant.</p>
+                    <p>Sed nec etiam peccuniam ministrent ad huiusmodi emenda ad opus illorum, ut sic eis subtrahatur occasio malignandi.</p>
+                    <p>Et qui contrafecerint per subtractionem beneficii puniantur in tantum quantum in causa tali fuerit expensum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 81</head>
+                    <p>(81) Item, propter religionem fratrum predicatorum et minorum et lucrum animarum statuimus ut liceat fidelibus accedere ad eos ad accipiendam penitentiam quandocumque voluerint extra Quadragesimam, et tunc etiam requisita licentia proprii sacerdotis, solutis proprie ecclesie oblationibus consuetis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 82</head>
+                    <p>(82) Quoniam autem in plerisque locis nostri episcopatus secundum melius averium a decedentibus ex testamento vel ab intestato ecclesiis parochialibus exsolvitur, et in quibusdam locis a quibusdam personis non prestatur, propter quod lites et dissensiones inter quarumdem ecclesiarum rectores et suos parochianos frequenter oriuntur, ut salus animarum ex hoc proveniat et omnis de cetero litis materia dissolvatur, necnon ut uniformis sit modus apud omnes legata seu prestationes exigendi pariter et solvendi, sic duximus providendum, videlicet, quod si vir masculus testatus vel intestatus decesserit seu vidua, pro decimis suis maioribus seu minoribus indiscrete vel ignoranter detentis seu minus plene solutis secundum melius averium ecclesie sue matrici pro salute anime sue solvatur.</p>
+                    <p>Si vero mulier coniugata, testata vel intestata, decesserit, nichil eo nomine ex testamento eiusdem vel ab intestata exigatur, nisi tamen quod, marito suo permittente, ecclesie duxerit relinquendum, nisi consuetudo aliter optineat. Talis sit mulier que, permittente viro suo, bona habuit taliter separata ut de eisdem in ultima voluntate inter vivos disponere possit pro arbitrio sue voluntatis.</p>
+                    <p>Si autem moriens adeo fuerit pauper quod, soluto ecclesie ut predictum est secundo averio, apud heredem suum aut liberos nichil huiusmodi sit remansurum, volumus quod cum de paupertate sua canonice constiterit, nichil de bonis eiusdem eo nomine exigatur, nisi quod ecclesie specialiter duxerit relinquendum.</p>
+                    <p>Si quid autem in civitatibus, municipiis, aut mercatis seu villis, de aliis decedentium mobilibus ecclesiis parochialibus relinqui aut deberi fuerit consuetum, nolimus eidem consuetudini per hanc nostram constitutionem in aliquo derogari.</p>
+                    <p>Quicunque vero rector, vicarius, vel capellanus contra tenorem presentis constitutionis aliquid de bonis morientium duxerit exigendum, quod de bonis defuncti sibi vel ecclesie sue debebatur ea vice perdat et tantumdem de suo det nostro arbitrio pauperibus erogandum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 83</head>
+                    <p>(83) Quia ex concilio Oxonie excommunicati sunt omnes qui puplicas faciunt et exerceant potationes que scotales vulgaliter appellantur, omnibus personis, vicariis, et capellanis in virtute obedientie precipimus quod omnes vicecomites, forestarios, prepositos, ballivos hundredorum et villarum qui huiusmodi potationes causa extorquende a subditis suis pecunie facient et omnes huiusmodi potationes voluntarie exercentes singulis diebus dominicis in ecclesiis suis publice denuntient excommunicatos, et eorumdem nomina postquam huiusmodi attemptare presumpserunt.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1]</p>
+                    <p>[2]</p>
+                    <p>[]</p>
+                </div>
             </div>
         </body>
     </text>

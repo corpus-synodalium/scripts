@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 0267</recordID>
+                <title>Gubbio (#0267)</title>
+                <recordID>0267</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate>1326</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Gubbio</origPlace>
                 <diocese>Gubbio</diocese>
                 <province>[Holy See]</province>
-                <country/>
+                <country>Italy</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Diocesan</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,263 +55,302 @@
     <text>
         <body>
             <div>
-                <head>incipit</head>
+                <head>Metadata</head>
+                <p>RecordID: 267</p>
+                <p>Year: 1326</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Gubbio</p>
+                <p>Diocese: Gubbio</p>
+                <p>Province: [Holy See]</p>
+                <p>CountryModern: Italy</p>
+                <p>Latitude: 43.35</p>
+                <p>Longitude: 12.56667</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Cenci, Costituzioni, 349-60</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['Library Scan', 'Hard Copy Scan']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: 15 of 35 statutes concern usury directly</p>
+                <p>BiblioRefs: None</p>
             </div>
             <div>
-                <head>001</head>
-                <p>(1) In nomine Christi amen.</p>
-                <p>Nos Petrus Dei et apostolice sedis gratia Episcopus Eugubinus ad laudem et gloriam nominis Iesu Christi et beatorum martyrum Mariani et Iacobi et gloriosi confessoris Ubaldi patronorum nostrorum et Ecclesie Eugubine, volentes ad eruditionem subditorum nostrorum et ad animarum suarum felicem salutem ut fructum conseguantur salutiferum qui non perit, meditari solicite, in quantum nobis, licet immeritis, ex alto permittitur, quia humanum genus pronum est ad malum potius quam ad bonum et in effrenata cupiditate seducitur ac continue nova parit litigia que presidentes cogunt salubria remedia invenire, ut, in quantum est possibile obvietur eisdem et exinde extirpentur errores, eorumque noxius appetitus sub iuris regula limitetur iufrascriptas constitutiones intendimus edere, edimus, condimus, ipsasque volumus a subditis nostris omnibus, et maxime usurariis inviolabiliter observari, ut male agentes rigore terreantur earum et ad viam rectitudinis perducantur.</p>
-                <p>Quas quidem constitutiones constitutionibus predecessorum nostrorum et nostris duximus adiungendas.</p>
-                <p>Et si constitutionibus antiquis hec nove aliqualiter contradicerent, directe vel indirecte, has volumus observari.</p>
-                <p>Cum priores declarationes iuridice trahi debeant cum in eis contrarietas vel diversitas invenitur.</p>
-                <p>Mandamus etiam, constitutiones nostras predictas inquantum de usuris et usurariorum personis loquuntur observari debere quocunque modo et quacunque forma iuditii de usuris agatur in negotiis preteritis presentibus et futuris.</p>
-            </div>
-            <div>
-                <head>002</head>
-                <p>(2) Cum certe pene contra usurarios publicos seu manifestos sint sacris canonibus institute quas confidentes, ex eo quod difficilis seu quasi impossibilis sit probatio qui sint vel fuerint usurarii manifesti, in animarum suarum detrimentum nequitur et perperam vilipendunt, presenti sanctione inviolabiliter observanda decernimus, quod ille qui habeatur et censeatur usurarius manifestus et pubblicus et contra eum fore tamquam contra manifestum usurarium procedendum, de quo constiterit per famam vel rumorem sive dictum, commune hominum loci vel vicinie in quo habitat vel habitavit usurarius tempore vite sue et continue vel interpolatim, quod fuerit usurarius vel quod usuras consueverit exercere.</p>
-                <p>Ad cuius fame vel rumoris sive comunis dicti probabationem legitimam sufficiant duo vel tres testes et singulares etiam si tali usurario vel dederint vel dare debeant aliquid ratione usurarum dummodo alias sint ydonei, qui recipiantur summarie sine solepnitate et figura iuditii et non vocato usurario seu eius heredibus ex offitio et arbitrio nostro seu nostri spetialis uffitialis vel vicarii generalis.</p>
-                <p>Et hoc locum habeat quacumque iuditii forma agatur.</p>
-            </div>
-            <div>
-                <head>003</head>
-                <p>(3) Item statuimus et ordinamus quod quicumque usurarius habuerit filios vel nepotes unum sive plures in sua potestate vel extra, minorem seu maiorem etatis legitime, in cuius vel quorum persona fiant contractus feneratitii, vel servientem vel familiarem vel uxorem sive consanguineum in quocumque gradu, vel alium quemcunque, unum vel plures, minorem vel maiorem aetatis legitime, quod tam pater, dominus, liberi, serviens, familiares usurarii censeantur et habeantur.</p>
-                <p>Et ad huiusmodi fraudem probandam sufficiant testes, fama seu rumor, modo in constitutione superiori proxime declarato.</p>
-                <p>Et pater seu dominus predictus et quelibet predictorum ad usurarum restitutionem efficaciter compellatur.</p>
-                <p>Et aliis penis legiptimis affitiantur contra usurarios sacris canonibus promulgatis.</p>
-                <p>Etiam presumatur dicti contractus fuisse et esse de pecunia patris seu domini quamquam in aliorum personis fuerint celebrati.</p>
-                <p>Et nihilominus, filii familiares seu consanguinei vel quivis alii qui tales contractus nepharios in personis earum fieri patiantur ad restitutionem condignam integraliter teneantur.</p>
-            </div>
-            <div>
-                <head>004</head>
-                <p>(4) Item statuimus et ordinamus quod omnia bona usurariorum predictorum sint et intelligantur omnibus debentibus usuras ab eis recipere, tacite obligata et ypotecata ex eo tempore quo primo ceperunt fenerari, itaque qui potiores tempore in receptione et exatione usurarum potiores iure habeantur et posterioribus preponatur et tales tam dotium quam cuiuscumque generis contractibus subsequentibus preferantur.</p>
-            </div>
-            <div>
-                <head>005</head>
-                <p>(5) Item statuimus et ordinamus quod non obstante aliqua alienatione universali vel singulari quocumque titulo facta per ipsos usurarios ab eo tempore citra quo ceperint fenerari de bonis et rebus eorum etiam si per plurales et plures manus ambulayerint, missio in tenutam et possessionem in bonis et rebus ipsis, tam ex primo quam ex secundo decreto seu alio titulo procedatur, et si possit, contra bona taliter obligata et detemptores eorum, occasione exationis et restitutionis fatiende de usuris perceptis et habitis per usurarios supradictos seu eorum filios vel familiares vel consanguineos fenerantes, ratione eorundem procedatur [1] arbitrio nostro seu nostri offitialis vel vicarii generalis, nulla excusatione premissa, in bonis predictis usurari et usurariorum dictorum.</p>
-            </div>
-            <div>
-                <head>006</head>
-                <p>(6) Item statuimus et ordinamus quod ex offitio nostro et nostre curie per nos seu per vicarium vel nostrum offitialem possit procedi super restitutionem usurarum fieri fatienda, et hiis que ipsum contingat usurarum negotium emergenter vel incidenter, summarie, sine solepnitate, oblatione libelli strepitu et figura iuditiorum prout melius nobis vel vicario nostro vel offitiali videbitur expedire tam contra ipsos usurarios quam eorumdem fideiussores et possessores rerum et bonorum ipsorum seu que quomdam fuerint usurariorum dictorum.</p>
-            </div>
-            <div>
-                <head>007</head>
-                <p>(7) Quod usurarii caventes et promittentes restituere usuras si non restituerint intra annum cadant in penam deserti.</p>
-                <p>Item statuimus et ordinamus quod si quis promisit iuravit seu iurabit mandata Ecclesia et se restiturum usuras et post iuramentum seu promissionem supervixerit uno anno et ipsas usuras non restituerit infra predictum annum numerandum a tempore prestite cautionis, vel alium terminum a nobis vel a nostro Vicario assignandum, iusto impedimento cessante, non obstante cautione predicta vel alia, quam de novo facere vellet, in penam deserti incidisse enormitate sacramenti et periuri et promissionis ac fidei violate, et periurium deberi publice nunctiari.</p>
-                <p>Et nihilominus eidem denegetur ecclesiastica sepultura.</p>
-            </div>
-            <div>
-                <head>008</head>
-                <p>(8) De modo probandi contra usurarios.</p>
-                <p>Item statuimus et ordinamus quod ad inveniendum, probandum et liquidandum aliquem esse vel fuisse usurarium, et quantitatem sive quantitates usurarum restituendam, et tempus quo debitores pecuniam fenebrem tenuerunt, maxime cum ab usurario in vita vel ultima voluntate erant, de quantitate extortarum usurarum depositum seu cautio exigenda, sufficiant probationes instrumentorum, fama vel inditia, presumptiones et argumenta seu duo vel tres testes etiam singulares et etiam si dedissent vel dare deberent usurario tali aliquid, ratione usurarum, de qua quantitate credatur eisdem, dummodo alias fuerint fidedigni, et de quantitate per testes predictos vel aliter ut superius dictum est, taliter declarata, depositum vel sufficiens cautio plenarie exigatur.</p>
-                <p>Et testes super hoc inducti deponent suo iuramento quod verisimile est usurarium predictum totam quantitatem recepisse et exigere potuisse cum quantitas est incerta.</p>
-                <p>Et censeatur talis publicus et manifestus usurarius et contra eum tamquam publicum et manifestum usurarium procedatur.</p>
-                <p>Et hec fiant secundum quod nobis vel nostro vicario pro salute usurarii viventis vel decedentis melius videbitur expedire.</p>
-                <p>Et si predictum depositum seu cautionem modo predicto facere denegaret incurrat penas a canone ordinatas.</p>
-            </div>
-            <div>
-                <head>009</head>
-                <p>(9) Contra usurarios:</p>
-                <p>Item statuimus et ordinamus quod per famam vel rumorem seu per testes etiam singulares vel alios modos a iure vel nostris constitutionibus declaratos probato aliquo usurario seu quod usuras consueverit exercere et facere cautiones de duplo, triplo, vel quadruplo per omnes sue cautiones et instrumenta usuraria censeatur, sive fuerint depositi pignoris, mutui, cambii, bladi, panni emptionis vel vendictionis rei mobilis vel immobilis societatis mercatoris, vel negotiationis vel cuiuscumque alterius tituli, et credatur iuramento debitoris de omni quantitate quam in fraudem usurarum, vel ultra certam sortem dixerit adiecta fuisse in debiti instrumento, vel de eo quod dixerit se solvisse vel solvere debere occasione talis contractus in fraudem usurarum confecti.</p>
-                <p>Inspecta tamen qualitate persone ipsius debitoris, qui utrum ydoneus sit ad tale sacramentum prestandum, nostro vel nostri vicarii arbitrio relinquatur.</p>
-                <p>Si vero debitor ipse malitiose suo iuramento maiorem in fraudem usurarum appositam fuisse in contractu expresserit quantitatem et minorem dixerit veram sortem, quam ille que in veritate est, ipso facto sententiam excomunicationis incurrat a qua non possit absolvi nisi cum dampnum et interesse restituat creditori, et alias nostro vel vicarii nostri arbitrio puniatur.</p>
-            </div>
-            <div>
-                <head>010</head>
-                <p>(10) Quod contra instrumentum quietationis sive per instrumentum debiti incisum vel non incisum solutio usurarum et sortis possit probari.</p>
-                <p>Item statuimus et ordinamus quod quantitates adiecte in contractibus feneratitiis qui facti sunt et fuerint per debitorem pecuniam feneri accipientem, habentem penes se instrumentum quietationis seu debiti et contracti feneratitii, incisum vel non incisum, pro satisfactione et solutione usurarum, presumatur et intelligatur ipsi feneratori solutum in totum cum ipsa vera quantitate, exacto super predictis prius iuramento a debitore predicto, nisi pro parte ipsius feneratoris per testimonium, seu instrumenta, seu presumptiones inditia et argumenta que arbitrio nostro vel vicarii nostri in tali negotio sufficere videatur, contrarium doceatur.</p>
-            </div>
-            <div>
-                <head>011</head>
-                <p>(11) Quod nullus rector, prelatus, religiosus vel Eugubinus</p>
-                <p>sumat ad sacramenta usurarium sine licentia domini episcopi vel Vicarii.</p>
-                <p>Item statuimus et ordinamus, volumus et mandamus quod nullus prelatus, seu rector alicuis ecclesie, seu quivis religiosus, vel quicumque alius de civitate Eugubii audeat vel presumat accedere ad aliquem usurarium ad promissionem seu cautionem ipsius adsumendam de usuris restituendis vel ad tribuenda eidem usurario ecclesiastica sacramenta, nisi suffitienti primo prestita cautione, absque nostra licentia et mandato, seu nostri vicarii arbitrio auferenda.</p>
-                <p>Et etiam cautione recepta volumus quod sine nostra vel vicarii nostri licentia alicui usurario sepultura ecclesiastica minime conferatur.</p>
-                <p>Etiam contrafatientes in quolibet casu predictorum penam excomunicationis incurrere volumus ipso facto.</p>
-                <p>Nisi forte adeo casus subitaneus esset quod ad nos seu vicarium nostrum sine periculo non possent habere recursum.</p>
-            </div>
-            <div>
-                <head>012</head>
-                <p>(12) Rubrica de religiosis et sacerdotibus quod tenentur revelare episcopo vel eius vicario usuras vel male ablata incerta, relicta in testamento, vel alia ultima voluntate, quibus interfuerunt.</p>
-                <p>Item statuimus, precipimus et mandamus quod omnes prelati et rectores ecclesiarum, quicumque religiosi vel non religiosi, qui interfuerint alicui testamento seu ultime voluntati alicuius testatoris in quo vel in qua, pro usuris vel male ablatis incertis, certa vel incerta pecunie quantitate relinquatur, nobis vel vicario nostro teneatur et debeat fideliter, si hoc actum fuerit in civitate ipsa die, vel sequenti, si vero in districto, in mensem per se vel per alium intimare et clare manifestare ut ipsa possimus facere distribui pro anima confitentis.</p>
-                <p>Contrafatientes pene excomunicationis, si malitiose egerint, volumus subiacere.</p>
-                <p>Et nihilominus nostro vel nostri vicarii arbitrio puniantur.</p>
-            </div>
-            <div>
-                <head>013</head>
-                <p>(13) Quod teneantur dare et scientes revelare omnes cautiones expositas pro usuris restituendis domino Episcopo vel eius vicario.</p>
-                <p>Item precipimus mandamus quod omnes cuiuscumque sexus et conditionis, qui prestiterunt vel fecerunt vel in posterum prestabunt aliquas cautiones super usuris restituendis vel male ablatis, incertis vel non incertis, ipsas cautiones nobis et nostro vicario teneantur intra mensem fideliter revelare ac etiam presentare.</p>
-                <p>Ad hoc ut cum obtulerit se facultas possint dicte cautiones executioni mandari.</p>
-                <p>Et illud idem facere teneantur illi qui receperint cautiones predictas, et notarii qui scripserint easdem.</p>
-                <p>Vel saltem si dictarum cautionum copia non haberent, nobis teneantur fideliter revelare quid sciunt, vel nostro vicario generali.</p>
-            </div>
-            <div>
-                <head>014</head>
-                <p>(14) Quod male ablata incerta non possint per aliquem absque domini episcopi licentia distribui, vel etiam dispensari.</p>
-                <p>Item statuimus, volumus et mandamus quod heredes seu executores testamentorum in quibus per male ablatis incertis aliqua dimissa fuissent, de eisdem incertis distribuendis vel executioni mandandis, se nullo modo directe vel indirecte aliqualiter intromictant.</p>
-                <p>Et hoc idem in illis qui male ablata huiusmodi receperint, vel aliqualiter ad restitutionem tenentur eorum directe vel indirecte volumus inviolabiliter observari.</p>
-                <p>Et si quidem predicti vel eorum aliquis contrarium fecerint, ipso facto eos et eorum quemlibet excomunicationis sententie decernimus subiacere.</p>
-                <p>Nec pretextu solutionis fraudolente taliter solventes volumus liberari, cum ad Nos dictorum male ablatorum incertorum distributio omnimode pertinere noscatur.</p>
-                <p>Ne malitiose vel simpliciter per sacerdotes vel alios quoscumque simplices aut falsarios dicta male ablata incerta aliqualiter auferantur.</p>
-            </div>
-            <div>
-                <head>015</head>
-                <p>(15) Quod fiat inhibitoria ponenti exceptionem, vei oblato libello, citata tamen parte.</p>
-                <p>Item statuimus quod si coram nostram curiam, vel etiam seculari, aliqua exceptio usuraria opponatur, vel offeratur libellus super usuris ad petitionem principalium opponentium dictam exceptionem vel porrigentium libellum, incontinenti huiusmodi exceptione opposita vel oblato libello, citata tamen parte, fiant litere inhibitorie et preceptum iudici et parti adverse et etiam cuilibet alii qui executionem contractus usurarii huiusmodi super que est apposita dicta exceptio vel oblatus libellus, facere possit directe vel indirecte, ne in dicto negotio aliqualiter procedatur.</p>
-                <p>Non obstantibus exceptionibus quibuscumque iuris vel facti cum interdum tales exceptiones opponantur in fraudem, ut interim huiusmodi contractus usurarii per iudicem secularem executioni mandentur.</p>
-                <p>Ad petitionem vero procuratorum non fiant tales litere vel preceptum nisi prius legitimatis personis et opponentes exceptionem huiusmodi vel libellum offerentes; infra XL dies causam finire debeant coram nobis.</p>
-                <p>Nisi forte per nos vel vicarium nostrum staret, obvenientibus aliquibus impedimentis, seu per partem adversam absentem vel opponentem aliquas exceptiones malitiose vel alio modo calumniose agentem, ita quod in causa procedi non possit, vel nisi causa alia legitima prepediret. Alioquin ex tunc fiat remissio ad curiam secularem. Volumus etiam omnes et singulas constitutiones nostras de usuris loquentes tam in feminis quam in masculis, etiam in repetendis usuris iam solutis et quocumque modo et quacumque forma iuditii agatur, debere inviolabiliter observari.</p>
-            </div>
-            <div>
-                <head>016</head>
-                <p>(16) De constitutionibus.</p>
-                <p>Item cum clericis et libertati Ecclesiastice layci opido sint infesti, quod preteritorum et presentium experimenta temporum manifeste declarant, dum suis finibus non contenti, nituntur in vetitum, et ad illicita frena relaxant, nec prudenter attendunt quod sit eis circa libertatem Ecclesie et iura spiritualia interdicta potestas, Statuta quedam et ordinamenta ordinant in lesione Sancte Matris Ecclesie, que est mater omnium et habet de omnibus iudicare, nec cuicumque licet de eius iudicare iudicio, et nostre intentionis existat tam orrendum laicorum abusum nullatenus sub dissimulatione transire, statuimus et ordinamus, quod omnis qui in nostra civitate et diocesi Eugubina vel conscribat statuta, provisiones vel quecumque ordinamenta in preiuditium ecclesiastice libertatis, et per que possit iurisdictio nostri spiritualis bracchii directe vel indirecte aliqualiter impediri, et maxime executio huismodi nefandi criminis usurarum, et fatientes aliqualiter observari predicta, seu qui ad ea condenda vel observanda quodlibet prebuerit consilium, vel favorem, vel si quis talia ordinamenta fecerint, ac Potestates, Capitani, Consules, Rectores et consigliarii, nec ea de capitularibus suis intra duos menses post promulgationem huiusmodi fecerint abmoveri, ipso facto sententiam excomunicationis incurrant.</p>
-            </div>
-            <div>
-                <head>017</head>
-                <p>(17) De vita et honestate clericorum.</p>
-                <p>Item statuimus et pro primo, secundo, et tertio peremptorio monitionis edicto precipimus et mandamus clericis universis quod comunem [2] honestatem servare debeant in habitu clericali, capitis tonsura, sine infula, cum corona decenti et quod nullis utantur vestibus a iure prohibitis.</p>
-                <p>Et si quidem continue honeste et decenter habitum non portaverint clericalem, sciant pro certo quod nostra spiritualis curia in criminali seu civili vel aliquo quocumque casu pro talibus apud curiam secularem nullatenus intercedet.</p>
-                <p>Et quod omnes religiosi cuiuscumque fuerint conditionis et status etiam si exempti fuerint cum ratione delicti de nostra jurisdictione ac foro effitiantur expresse.</p>
-                <p>Thabardos, seu quecumque alia vestimenta per que possit occultare habitus eorundem, portare non debeant quocumque modo.</p>
-                <p>Sed vestimenta desuper deferant per que appareat cuius ordinis et religionis existant.</p>
-                <p>Nisi forte se causa timoris vel necessitatis, seu alia causa veridica transformarent in opere licito sine malitia atque fraude.</p>
-                <p>Contra fatientes vero religiosos omnes et singulos excomunicationis sententie volumus subiacere.</p>
-            </div>
-            <div>
-                <head>018</head>
-                <p>(18) De appellationibus.</p>
-                <p>Item statuimus et volumus quod a nobis vel a nostris offitialibus appellantes, si ad romanam curiam, vel ad legatum Cardinalem infra XL dies; si autem ad rectorem spiritualem Ducatus infra dies viginti numerandos a die appellationis interposite prosequi teneantur.</p>
-                <p>Alioquin ipsa sententia in rem transeat iudicatam.</p>
-                <p>Sed dum Romana Curia in ultramontanis partibus moram trahit intra tres menses prosequi teneantur.</p>
-                <p>Et intelligantur appellationem prosequi appellantes, si legitime appellatos citari fecerint intra tempora supradicta, vel saltem coram superiore legitime se presentaverint, et citari petierint appellatos.</p>
-                <p>Et teneantur appellantes ab ipsa appellationis interpositione vel intra quintam diem specificare nomen iudicis ad quem dixerint appellandum.</p>
-                <p>Alias censeantur minime appellasse.</p>
-            </div>
-            <div>
-                <head>019</head>
-                <p>(19) De citationibus factis diebus feriatis.</p>
-                <p>Item ordinamus et volumus quod quelibet citatio et presentatio litterarum nostrarum, seu nostri offitialis quacumque die feriata facta fuerit etiam non feriata, valeat et teneat non obstantibus aliquo canone seu lege.</p>
-                <p>Et si dies termini in diem venerit feriata, proxima die termini non feriata citati taliter coram nostra curia teneantur legitime comparere.</p>
-            </div>
-            <div>
-                <head>020</head>
-                <p>(20) De Baiulis.</p>
-                <p>Item statuimus et sub excomunicationis pena precipimus quod cum alicui nostro et curie nostre nunctio seu baiulo data fuerit licentia aliquem seu aliquos pignorandi, tales se pignorari permittant et pignus condecens assignare baiulo procurent.</p>
-            </div>
-            <div>
-                <head>021</head>
-                <p>(21) Item statuimus quod offitiales nostri in omnibus causis cuiulisbet et criminalibus possint legales dilactiones abreviare, minuere et augere prout eis videbitur expedire.</p>
-            </div>
-            <div>
-                <head>022</head>
-                <p>(22) De medicis.</p>
-                <p>Innovamus etiam regulam canonicam qua cavetur ut cum medicos corporis ad infirmos vocari contigerit, ipsos ante omnia moneant et inducant ut medicos advocant animarum. Ut post quam fuerit infirmo de spirituali salute provisum ad corporalis medicine remedium salubrius procedatur, et causa cessante, cesset effectus.</p>
-                <p>Quam constitutionem per omnia sub pena excomunicationis precipimus observari. Cui sententie volumus contrafatientes medicos subiacere.</p>
-            </div>
-            <div>
-                <head>023</head>
-                <p>(23) De sententia excomunicationis.</p>
-                <p>Item statuentes ordinamus quod omnes qui sententiam excomunicationis incurrerint ex forma constitutionum nostrarum seu predecessorum nostrorum non possint ab alio quam a nobis seu a nostro generali vicario a tali excomunicatione absolutionis benefitium</p>
-                <p>obtinere.</p>
-                <p>Quorum absolutiones nobis vel nostro vicario spirituali reservamus.</p>
-            </div>
-            <div>
-                <head>024</head>
-                <p>(24) Super quibus omnibus et singulis constitutionibus nostris ac incidentibus et emergentibus ex eisdem, addendi, minuendi, mutandi, corrigendi, suplendi, interpetrandi et intelligendi.</p>
-                <p>Nobis et nostro vicario reservamus plenam auctoritatem et liberam potestatem.</p>
-                <p>DE SALARIO NOTARIORUM PRO SINGULIS ACTIS CURIE</p>
-            </div>
-            <div>
-                <head>025</head>
-                <p>(25) Exationem nimiam pro salariis scripturarum evitari volentes statuimus quod notarii curie nostre pro scripturis quas fecerint secundum modum denotatum inferius, sibi solvant nec amplius valeant extorquere sub pena excomunicationis et de illis postmodum gratis tribuendis, vel ex tali officio penitus privando.</p>
-                <p>Et hanc constitutionem teneatur noster vicarius sub pena eadem in ipsum infligenda facere observari in singulis capitulis infrascriptis.</p>
-                <p>In primis habeant et recipere et habere debeant tantum de commissione citationis denarios duos: et de presentatione et relatione totidem a qualibet parte seu actore et reo.</p>
-                <p>Si autem duo simul citati fuerint solvat actor pro commissione et relatione citationis et accusatione contumatie denarios quatuor pro quolibet.</p>
-                <p>Si autem plures duobus fuerint habeant, de predictis denarios duos pro quolibet.</p>
-                <p>Et si plures rei citati ad petitionem alicuius compiparuerint in termino et se pro representatis scribi fecerint accipiant a quolibet unum denarium tantum et totidem exigant de eisdem scripturis in publica forma reddendis.</p>
-            </div>
-            <div>
-                <head>026</head>
-                <p>(26) De lite contestata.</p>
-                <p>Item de litis contestatis, iuramento calumpnie et termino dato primo loco ad probandum denarios octo pro qualibet parte.</p>
-                <p>Item pro qualibet positione et pro quolibet intentionis articulo denarios duos ab actore et reo respondente unum denarium.</p>
-                <p>Item pro qualibet dilactione denarios duos.</p>
-                <p>Item pro quolibet sacramento delato a parte parti, denarios quatuor.</p>
-                <p>Item pro qualibet exceptione, replicatione seu triplicatione a parte prodocente denarios duos, et totidem ab alia parte si copiam voluerit de eisdem.</p>
-            </div>
-            <div>
-                <head>027</head>
-                <p>(27) De productione testium.</p>
-                <p>Item pro quolibet teste a parte producente denarios quatuor, et si dixerit se nihil scire.</p>
-                <p>Si vero dixerit mediam faciem carte sex denarios.</p>
-                <p>Si vero totum latus decem denarios.</p>
-                <p>Si vero dixerit totam unam cartam accipiat sexdecim denarios. Si vero ultra recipiat secundum modum predictum; ita quod facies seu latus cuius libet carte sit et esse debeat XXVI limulorum seu virgulorum continentium totidem silabas ad minus.</p>
-            </div>
-            <div>
-                <head>028</head>
-                <p>(28) De apertura testium.</p>
-                <p>Item pro apertura testium denarios quatuor pro qualibet parte.</p>
-                <p>Item pro conclusione totidem.</p>
-                <p>Item pro qualibet commissione fatienda alicui sapienti super diffinititiva denarios quatuor a qualibet parte.</p>
-                <p>Et super interlocutorium denarios duo a qualibet parte.</p>
-                <p>Item pro consilio ponendo in quaterno et apertura ipsius, si questio decem libras et ab inde infra denarios quatuor a qualibet parte.</p>
-                <p>Et deinde super accipiant, sicut capit, pro rata ita tamen quod pro dicta positione consilia et apertura ipsius non possit solvi ultra octo denarios pro qualibet parte.</p>
-            </div>
-            <div>
-                <head>029</head>
-                <p>(29) De productione instrumenti.</p>
-                <p>Item de productione alicuius instrumenti a parte producente denarios tres, et de productione actorum factorum in nostra curia, denarios duos a parte producente.</p>
-            </div>
-            <div>
-                <head>030</head>
-                <p>(30) De ponenda sententia.</p>
-                <p>Item pro qualibet sententia ponenda in quaternio usque in quantitatem centum solidos, denarios duodecim a qualibet parte et deinde super usque in quantitatem XXXV libr., solidos quinque pro qualibet parte.</p>
-                <p>Et usque in quantitatem CC libras a qualibet parte solidos decem. Deinde vero super ad arbitrium nostrum vel nostri vicarii.</p>
-                <p>Et hoc locum habeat in causis matrimonialibus, ubi sunt dotes taxate ultra centum libras; et ubi non sunt dotes taxate solvatur ad arbitrium nostrum vel nostri vicarii.</p>
-            </div>
-            <div>
-                <head>031</head>
-                <p>(31) De copia instrumenti procuratoris.</p>
-                <p>Item copia instrumenti procuratoris vel syndicatus denarios XII, et totidem pro registratura fatienda in registro curie.</p>
-                <p>Et ponantur omnia instrumenta syndicatus et procurationis in quaternio.</p>
-            </div>
-            <div>
-                <head>032</head>
-                <p>(32) De appellationibus.</p>
-                <p>Item pro registratura cuiuslibet appellationis introducte intra curiam duplum illius quod dictum est de testibus.</p>
-                <p>Item pro qualibet appellatione que fiet intra curiam viva voce denarios sex.</p>
-                <p>Si autem in scriptis usque in quantitatem XXV libras, recipiant ab appellantibus quinque solidos, et deinde usque in quantitatem quinquaginta librarum, octo solidos; et usque in quantitatem trecentarum librarum decem solidos, et totidem pro quolibet centenario usque in quantitatem trecentarum librarum et deinde superius, solidos duos pro quolibet centenario, non obstante quod plures sint in una appellatione quia plus solvi inhibemus expresse, hoc addito quod de aliqua appellatione solvi non possit nec debeat ultra unum florenum et dimidium.</p>
-                <p>Pro quibus quidem salariis teneantur notarii reddere appellationes in publica forma nullo salario ampliori recepto.</p>
-                <p>Item si ab interlecutore vel reiectore aliquarum positionum vel intentionum brevitate cum responsione nostra 'vel nostri vicarii contigerit appellari, accipiant quinque solidos et plus et minus secundum quod nobis vel vicario nostro videbitur inspecta quantitate negotii.</p>
-                <p>Et omnia que dicta sunt in civilibus locum habeant in criminalibus cum per modum accusationis vel denuntiationis agitur.</p>
-                <p>Si autem per modum inquisitionis agatur nihil exigatur a parte inquisita nisi cum copia actorum petent, et tunc fiat secundum modum superius denotatum.</p>
-                <p>Et teneantur notarii reddere sententias in forma publica in quibuscumque causis pro alia quantitate duplo maiori quantitate superius expressa et minus ad arbitrium nostrum vel nostri vicarii.</p>
-            </div>
-            <div>
-                <head>033</head>
-                <p>(33) De cancellatura sententie.</p>
-                <p>Item de cancellatura condempnationis decem librarum et instrumento quietationis in publica forma reddendo, si quantitas tota soluta fuerit per condempnatum, accipiant notarii quinque solidos et deinde supra usque in quantitatem quinquaginta libras, recipiant octo solidos; et usque in centum libras, decem solidos accipiant et nihil ulterius exigant dum tamen fiat talis solutio ad rationem eius quod solvitur, et non eius in quo quis extitit condempnatus.</p>
-                <p>At si contigerit aliquem ex nostris notaris ire extra civitatem in servitium alicuius hoc petentis possit recipere pro qualibet die solidos quatuor et nibilominus solvatur eidem de scripturis iuxta modum superius expressum et fiant eidem moderate et decentes expense.</p>
-                <p>Pro cautione insuper usurarum vel rerum male ablatarum incertarum volumus eisdem satisfieri secundum modum superius datum de cancellatura condempnationis et instrumento quietationis, reddendo ipsas scripturas in publica forma, ita tamen quod de aliqua cautione ultra tres florenos eisdem persolvi non possit,</p>
-            </div>
-            <div>
-                <head>034</head>
-                <p>(34) De ordinandis.</p>
-                <p>Item de representatione alicuius ad minores ordines volumus eis persolvi denarios duodecim, et solidos duos pro instrumento in publica forma reddendo.</p>
-                <p>De representatione ad sacros ordines habeant solidos duos et de instrumento in publica forma reddendo solidos tres.</p>
-                <p>Et hoc locum habeant quando sunt duo simul et semel presentati, quando vero plures, solvat quilibet pro presentatione ad minores denarios, octo; pro presentatione ad maiores denarios octodecim.</p>
-                <p>Et teneantur notarii literas presentationis registrare et ponere in quaternio expense et etiam instrumenta cuiuslibet ordinis et fiat unus quaternius de ordinatione per se.</p>
-                <p>Si autem dabuntur litere ordinatorie ad minores ordines habeant pro litteris denarios octodecim; si ad maiores solidos tres.</p>
-            </div>
-            <div>
-                <head>035</head>
-                <p>(35) Item de pronuntiatione tenute habeant denarios quatuor et totidem de revocatione si fiet sine fideiussione.</p>
-                <p>Si autem cum fideiussione habeant denarios sex.</p>
-                <p>Item de sententia excomunicationis danarios duodecim, et de absolutione denarios sex. Et si absolutus voluerit eam in publica forma, solvat denarios duodecim.</p>
-                <p>Item de litteris monitionis, si cum sententia scripserint habeant decem et octo denarios, et si sine sententia duodecim denarios; literis vero indulgentiarum hospitalaiorum et construariorum volumus ipsos habere denarios octo.</p>
-            </div>
-            <div>
-                <head>explicit</head>
+                <head>Text</head>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) In nomine Christi amen.</p>
+                    <p>Nos Petrus Dei et apostolice sedis gratia Episcopus Eugubinus ad laudem et gloriam nominis Iesu Christi et beatorum martyrum Mariani et Iacobi et gloriosi confessoris Ubaldi patronorum nostrorum et Ecclesie Eugubine, volentes ad eruditionem subditorum nostrorum et ad animarum suarum felicem salutem ut fructum conseguantur salutiferum qui non perit, meditari solicite, in quantum nobis, licet immeritis, ex alto permittitur, quia humanum genus pronum est ad malum potius quam ad bonum et in effrenata cupiditate seducitur ac continue nova parit litigia que presidentes cogunt salubria remedia invenire, ut, in quantum est possibile obvietur eisdem et exinde extirpentur errores, eorumque noxius appetitus sub iuris regula limitetur iufrascriptas constitutiones intendimus edere, edimus, condimus, ipsasque volumus a subditis nostris omnibus, et maxime usurariis inviolabiliter observari, ut male agentes rigore terreantur earum et ad viam rectitudinis perducantur.</p>
+                    <p>Quas quidem constitutiones constitutionibus predecessorum nostrorum et nostris duximus adiungendas.</p>
+                    <p>Et si constitutionibus antiquis hec nove aliqualiter contradicerent, directe vel indirecte, has volumus observari.</p>
+                    <p>Cum priores declarationes iuridice trahi debeant cum in eis contrarietas vel diversitas invenitur.</p>
+                    <p>Mandamus etiam, constitutiones nostras predictas inquantum de usuris et usurariorum personis loquuntur observari debere quocunque modo et quacunque forma iuditii de usuris agatur in negotiis preteritis presentibus et futuris.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Cum certe pene contra usurarios publicos seu manifestos sint sacris canonibus institute quas confidentes, ex eo quod difficilis seu quasi impossibilis sit probatio qui sint vel fuerint usurarii manifesti, in animarum suarum detrimentum nequitur et perperam vilipendunt, presenti sanctione inviolabiliter observanda decernimus, quod ille qui habeatur et censeatur usurarius manifestus et pubblicus et contra eum fore tamquam contra manifestum usurarium procedendum, de quo constiterit per famam vel rumorem sive dictum, commune hominum loci vel vicinie in quo habitat vel habitavit usurarius tempore vite sue et continue vel interpolatim, quod fuerit usurarius vel quod usuras consueverit exercere.</p>
+                    <p>Ad cuius fame vel rumoris sive comunis dicti probabationem legitimam sufficiant duo vel tres testes et singulares etiam si tali usurario vel dederint vel dare debeant aliquid ratione usurarum dummodo alias sint ydonei, qui recipiantur summarie sine solepnitate et figura iuditii et non vocato usurario seu eius heredibus ex offitio et arbitrio nostro seu nostri spetialis uffitialis vel vicarii generalis.</p>
+                    <p>Et hoc locum habeat quacumque iuditii forma agatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) Item statuimus et ordinamus quod quicumque usurarius habuerit filios vel nepotes unum sive plures in sua potestate vel extra, minorem seu maiorem etatis legitime, in cuius vel quorum persona fiant contractus feneratitii, vel servientem vel familiarem vel uxorem sive consanguineum in quocumque gradu, vel alium quemcunque, unum vel plures, minorem vel maiorem aetatis legitime, quod tam pater, dominus, liberi, serviens, familiares usurarii censeantur et habeantur.</p>
+                    <p>Et ad huiusmodi fraudem probandam sufficiant testes, fama seu rumor, modo in constitutione superiori proxime declarato.</p>
+                    <p>Et pater seu dominus predictus et quelibet predictorum ad usurarum restitutionem efficaciter compellatur.</p>
+                    <p>Et aliis penis legiptimis affitiantur contra usurarios sacris canonibus promulgatis.</p>
+                    <p>Etiam presumatur dicti contractus fuisse et esse de pecunia patris seu domini quamquam in aliorum personis fuerint celebrati.</p>
+                    <p>Et nihilominus, filii familiares seu consanguinei vel quivis alii qui tales contractus nepharios in personis earum fieri patiantur ad restitutionem condignam integraliter teneantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) Item statuimus et ordinamus quod omnia bona usurariorum predictorum sint et intelligantur omnibus debentibus usuras ab eis recipere, tacite obligata et ypotecata ex eo tempore quo primo ceperunt fenerari, itaque qui potiores tempore in receptione et exatione usurarum potiores iure habeantur et posterioribus preponatur et tales tam dotium quam cuiuscumque generis contractibus subsequentibus preferantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) Item statuimus et ordinamus quod non obstante aliqua alienatione universali vel singulari quocumque titulo facta per ipsos usurarios ab eo tempore citra quo ceperint fenerari de bonis et rebus eorum etiam si per plurales et plures manus ambulayerint, missio in tenutam et possessionem in bonis et rebus ipsis, tam ex primo quam ex secundo decreto seu alio titulo procedatur, et si possit, contra bona taliter obligata et detemptores eorum, occasione exationis et restitutionis fatiende de usuris perceptis et habitis per usurarios supradictos seu eorum filios vel familiares vel consanguineos fenerantes, ratione eorundem procedatur [1] arbitrio nostro seu nostri offitialis vel vicarii generalis, nulla excusatione premissa, in bonis predictis usurari et usurariorum dictorum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>(6) Item statuimus et ordinamus quod ex offitio nostro et nostre curie per nos seu per vicarium vel nostrum offitialem possit procedi super restitutionem usurarum fieri fatienda, et hiis que ipsum contingat usurarum negotium emergenter vel incidenter, summarie, sine solepnitate, oblatione libelli strepitu et figura iuditiorum prout melius nobis vel vicario nostro vel offitiali videbitur expedire tam contra ipsos usurarios quam eorumdem fideiussores et possessores rerum et bonorum ipsorum seu que quomdam fuerint usurariorum dictorum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>(7) Quod usurarii caventes et promittentes restituere usuras si non restituerint intra annum cadant in penam deserti.</p>
+                    <p>Item statuimus et ordinamus quod si quis promisit iuravit seu iurabit mandata Ecclesia et se restiturum usuras et post iuramentum seu promissionem supervixerit uno anno et ipsas usuras non restituerit infra predictum annum numerandum a tempore prestite cautionis, vel alium terminum a nobis vel a nostro Vicario assignandum, iusto impedimento cessante, non obstante cautione predicta vel alia, quam de novo facere vellet, in penam deserti incidisse enormitate sacramenti et periuri et promissionis ac fidei violate, et periurium deberi publice nunctiari.</p>
+                    <p>Et nihilominus eidem denegetur ecclesiastica sepultura.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>(8) De modo probandi contra usurarios.</p>
+                    <p>Item statuimus et ordinamus quod ad inveniendum, probandum et liquidandum aliquem esse vel fuisse usurarium, et quantitatem sive quantitates usurarum restituendam, et tempus quo debitores pecuniam fenebrem tenuerunt, maxime cum ab usurario in vita vel ultima voluntate erant, de quantitate extortarum usurarum depositum seu cautio exigenda, sufficiant probationes instrumentorum, fama vel inditia, presumptiones et argumenta seu duo vel tres testes etiam singulares et etiam si dedissent vel dare deberent usurario tali aliquid, ratione usurarum, de qua quantitate credatur eisdem, dummodo alias fuerint fidedigni, et de quantitate per testes predictos vel aliter ut superius dictum est, taliter declarata, depositum vel sufficiens cautio plenarie exigatur.</p>
+                    <p>Et testes super hoc inducti deponent suo iuramento quod verisimile est usurarium predictum totam quantitatem recepisse et exigere potuisse cum quantitas est incerta.</p>
+                    <p>Et censeatur talis publicus et manifestus usurarius et contra eum tamquam publicum et manifestum usurarium procedatur.</p>
+                    <p>Et hec fiant secundum quod nobis vel nostro vicario pro salute usurarii viventis vel decedentis melius videbitur expedire.</p>
+                    <p>Et si predictum depositum seu cautionem modo predicto facere denegaret incurrat penas a canone ordinatas.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>(9) Contra usurarios:</p>
+                    <p>Item statuimus et ordinamus quod per famam vel rumorem seu per testes etiam singulares vel alios modos a iure vel nostris constitutionibus declaratos probato aliquo usurario seu quod usuras consueverit exercere et facere cautiones de duplo, triplo, vel quadruplo per omnes sue cautiones et instrumenta usuraria censeatur, sive fuerint depositi pignoris, mutui, cambii, bladi, panni emptionis vel vendictionis rei mobilis vel immobilis societatis mercatoris, vel negotiationis vel cuiuscumque alterius tituli, et credatur iuramento debitoris de omni quantitate quam in fraudem usurarum, vel ultra certam sortem dixerit adiecta fuisse in debiti instrumento, vel de eo quod dixerit se solvisse vel solvere debere occasione talis contractus in fraudem usurarum confecti.</p>
+                    <p>Inspecta tamen qualitate persone ipsius debitoris, qui utrum ydoneus sit ad tale sacramentum prestandum, nostro vel nostri vicarii arbitrio relinquatur.</p>
+                    <p>Si vero debitor ipse malitiose suo iuramento maiorem in fraudem usurarum appositam fuisse in contractu expresserit quantitatem et minorem dixerit veram sortem, quam ille que in veritate est, ipso facto sententiam excomunicationis incurrat a qua non possit absolvi nisi cum dampnum et interesse restituat creditori, et alias nostro vel vicarii nostri arbitrio puniatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>(10) Quod contra instrumentum quietationis sive per instrumentum debiti incisum vel non incisum solutio usurarum et sortis possit probari.</p>
+                    <p>Item statuimus et ordinamus quod quantitates adiecte in contractibus feneratitiis qui facti sunt et fuerint per debitorem pecuniam feneri accipientem, habentem penes se instrumentum quietationis seu debiti et contracti feneratitii, incisum vel non incisum, pro satisfactione et solutione usurarum, presumatur et intelligatur ipsi feneratori solutum in totum cum ipsa vera quantitate, exacto super predictis prius iuramento a debitore predicto, nisi pro parte ipsius feneratoris per testimonium, seu instrumenta, seu presumptiones inditia et argumenta que arbitrio nostro vel vicarii nostri in tali negotio sufficere videatur, contrarium doceatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>(11) Quod nullus rector, prelatus, religiosus vel Eugubinus</p>
+                    <p>sumat ad sacramenta usurarium sine licentia domini episcopi vel Vicarii.</p>
+                    <p>Item statuimus et ordinamus, volumus et mandamus quod nullus prelatus, seu rector alicuis ecclesie, seu quivis religiosus, vel quicumque alius de civitate Eugubii audeat vel presumat accedere ad aliquem usurarium ad promissionem seu cautionem ipsius adsumendam de usuris restituendis vel ad tribuenda eidem usurario ecclesiastica sacramenta, nisi suffitienti primo prestita cautione, absque nostra licentia et mandato, seu nostri vicarii arbitrio auferenda.</p>
+                    <p>Et etiam cautione recepta volumus quod sine nostra vel vicarii nostri licentia alicui usurario sepultura ecclesiastica minime conferatur.</p>
+                    <p>Etiam contrafatientes in quolibet casu predictorum penam excomunicationis incurrere volumus ipso facto.</p>
+                    <p>Nisi forte adeo casus subitaneus esset quod ad nos seu vicarium nostrum sine periculo non possent habere recursum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>(12) Rubrica de religiosis et sacerdotibus quod tenentur revelare episcopo vel eius vicario usuras vel male ablata incerta, relicta in testamento, vel alia ultima voluntate, quibus interfuerunt.</p>
+                    <p>Item statuimus, precipimus et mandamus quod omnes prelati et rectores ecclesiarum, quicumque religiosi vel non religiosi, qui interfuerint alicui testamento seu ultime voluntati alicuius testatoris in quo vel in qua, pro usuris vel male ablatis incertis, certa vel incerta pecunie quantitate relinquatur, nobis vel vicario nostro teneatur et debeat fideliter, si hoc actum fuerit in civitate ipsa die, vel sequenti, si vero in districto, in mensem per se vel per alium intimare et clare manifestare ut ipsa possimus facere distribui pro anima confitentis.</p>
+                    <p>Contrafatientes pene excomunicationis, si malitiose egerint, volumus subiacere.</p>
+                    <p>Et nihilominus nostro vel nostri vicarii arbitrio puniantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>(13) Quod teneantur dare et scientes revelare omnes cautiones expositas pro usuris restituendis domino Episcopo vel eius vicario.</p>
+                    <p>Item precipimus mandamus quod omnes cuiuscumque sexus et conditionis, qui prestiterunt vel fecerunt vel in posterum prestabunt aliquas cautiones super usuris restituendis vel male ablatis, incertis vel non incertis, ipsas cautiones nobis et nostro vicario teneantur intra mensem fideliter revelare ac etiam presentare.</p>
+                    <p>Ad hoc ut cum obtulerit se facultas possint dicte cautiones executioni mandari.</p>
+                    <p>Et illud idem facere teneantur illi qui receperint cautiones predictas, et notarii qui scripserint easdem.</p>
+                    <p>Vel saltem si dictarum cautionum copia non haberent, nobis teneantur fideliter revelare quid sciunt, vel nostro vicario generali.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>(14) Quod male ablata incerta non possint per aliquem absque domini episcopi licentia distribui, vel etiam dispensari.</p>
+                    <p>Item statuimus, volumus et mandamus quod heredes seu executores testamentorum in quibus per male ablatis incertis aliqua dimissa fuissent, de eisdem incertis distribuendis vel executioni mandandis, se nullo modo directe vel indirecte aliqualiter intromictant.</p>
+                    <p>Et hoc idem in illis qui male ablata huiusmodi receperint, vel aliqualiter ad restitutionem tenentur eorum directe vel indirecte volumus inviolabiliter observari.</p>
+                    <p>Et si quidem predicti vel eorum aliquis contrarium fecerint, ipso facto eos et eorum quemlibet excomunicationis sententie decernimus subiacere.</p>
+                    <p>Nec pretextu solutionis fraudolente taliter solventes volumus liberari, cum ad Nos dictorum male ablatorum incertorum distributio omnimode pertinere noscatur.</p>
+                    <p>Ne malitiose vel simpliciter per sacerdotes vel alios quoscumque simplices aut falsarios dicta male ablata incerta aliqualiter auferantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>(15) Quod fiat inhibitoria ponenti exceptionem, vei oblato libello, citata tamen parte.</p>
+                    <p>Item statuimus quod si coram nostram curiam, vel etiam seculari, aliqua exceptio usuraria opponatur, vel offeratur libellus super usuris ad petitionem principalium opponentium dictam exceptionem vel porrigentium libellum, incontinenti huiusmodi exceptione opposita vel oblato libello, citata tamen parte, fiant litere inhibitorie et preceptum iudici et parti adverse et etiam cuilibet alii qui executionem contractus usurarii huiusmodi super que est apposita dicta exceptio vel oblatus libellus, facere possit directe vel indirecte, ne in dicto negotio aliqualiter procedatur.</p>
+                    <p>Non obstantibus exceptionibus quibuscumque iuris vel facti cum interdum tales exceptiones opponantur in fraudem, ut interim huiusmodi contractus usurarii per iudicem secularem executioni mandentur.</p>
+                    <p>Ad petitionem vero procuratorum non fiant tales litere vel preceptum nisi prius legitimatis personis et opponentes exceptionem huiusmodi vel libellum offerentes; infra XL dies causam finire debeant coram nobis.</p>
+                    <p>Nisi forte per nos vel vicarium nostrum staret, obvenientibus aliquibus impedimentis, seu per partem adversam absentem vel opponentem aliquas exceptiones malitiose vel alio modo calumniose agentem, ita quod in causa procedi non possit, vel nisi causa alia legitima prepediret. Alioquin ex tunc fiat remissio ad curiam secularem. Volumus etiam omnes et singulas constitutiones nostras de usuris loquentes tam in feminis quam in masculis, etiam in repetendis usuris iam solutis et quocumque modo et quacumque forma iuditii agatur, debere inviolabiliter observari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>(16) De constitutionibus.</p>
+                    <p>Item cum clericis et libertati Ecclesiastice layci opido sint infesti, quod preteritorum et presentium experimenta temporum manifeste declarant, dum suis finibus non contenti, nituntur in vetitum, et ad illicita frena relaxant, nec prudenter attendunt quod sit eis circa libertatem Ecclesie et iura spiritualia interdicta potestas, Statuta quedam et ordinamenta ordinant in lesione Sancte Matris Ecclesie, que est mater omnium et habet de omnibus iudicare, nec cuicumque licet de eius iudicare iudicio, et nostre intentionis existat tam orrendum laicorum abusum nullatenus sub dissimulatione transire, statuimus et ordinamus, quod omnis qui in nostra civitate et diocesi Eugubina vel conscribat statuta, provisiones vel quecumque ordinamenta in preiuditium ecclesiastice libertatis, et per que possit iurisdictio nostri spiritualis bracchii directe vel indirecte aliqualiter impediri, et maxime executio huismodi nefandi criminis usurarum, et fatientes aliqualiter observari predicta, seu qui ad ea condenda vel observanda quodlibet prebuerit consilium, vel favorem, vel si quis talia ordinamenta fecerint, ac Potestates, Capitani, Consules, Rectores et consigliarii, nec ea de capitularibus suis intra duos menses post promulgationem huiusmodi fecerint abmoveri, ipso facto sententiam excomunicationis incurrant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 17</head>
+                    <p>(17) De vita et honestate clericorum.</p>
+                    <p>Item statuimus et pro primo, secundo, et tertio peremptorio monitionis edicto precipimus et mandamus clericis universis quod comunem [2] honestatem servare debeant in habitu clericali, capitis tonsura, sine infula, cum corona decenti et quod nullis utantur vestibus a iure prohibitis.</p>
+                    <p>Et si quidem continue honeste et decenter habitum non portaverint clericalem, sciant pro certo quod nostra spiritualis curia in criminali seu civili vel aliquo quocumque casu pro talibus apud curiam secularem nullatenus intercedet.</p>
+                    <p>Et quod omnes religiosi cuiuscumque fuerint conditionis et status etiam si exempti fuerint cum ratione delicti de nostra jurisdictione ac foro effitiantur expresse.</p>
+                    <p>Thabardos, seu quecumque alia vestimenta per que possit occultare habitus eorundem, portare non debeant quocumque modo.</p>
+                    <p>Sed vestimenta desuper deferant per que appareat cuius ordinis et religionis existant.</p>
+                    <p>Nisi forte se causa timoris vel necessitatis, seu alia causa veridica transformarent in opere licito sine malitia atque fraude.</p>
+                    <p>Contra fatientes vero religiosos omnes et singulos excomunicationis sententie volumus subiacere.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18</head>
+                    <p>(18) De appellationibus.</p>
+                    <p>Item statuimus et volumus quod a nobis vel a nostris offitialibus appellantes, si ad romanam curiam, vel ad legatum Cardinalem infra XL dies; si autem ad rectorem spiritualem Ducatus infra dies viginti numerandos a die appellationis interposite prosequi teneantur.</p>
+                    <p>Alioquin ipsa sententia in rem transeat iudicatam.</p>
+                    <p>Sed dum Romana Curia in ultramontanis partibus moram trahit intra tres menses prosequi teneantur.</p>
+                    <p>Et intelligantur appellationem prosequi appellantes, si legitime appellatos citari fecerint intra tempora supradicta, vel saltem coram superiore legitime se presentaverint, et citari petierint appellatos.</p>
+                    <p>Et teneantur appellantes ab ipsa appellationis interpositione vel intra quintam diem specificare nomen iudicis ad quem dixerint appellandum.</p>
+                    <p>Alias censeantur minime appellasse.</p>
+                </div>
+                <div>
+                    <head>Capitulum 19</head>
+                    <p>(19) De citationibus factis diebus feriatis.</p>
+                    <p>Item ordinamus et volumus quod quelibet citatio et presentatio litterarum nostrarum, seu nostri offitialis quacumque die feriata facta fuerit etiam non feriata, valeat et teneat non obstantibus aliquo canone seu lege.</p>
+                    <p>Et si dies termini in diem venerit feriata, proxima die termini non feriata citati taliter coram nostra curia teneantur legitime comparere.</p>
+                </div>
+                <div>
+                    <head>Capitulum 20</head>
+                    <p>(20) De Baiulis.</p>
+                    <p>Item statuimus et sub excomunicationis pena precipimus quod cum alicui nostro et curie nostre nunctio seu baiulo data fuerit licentia aliquem seu aliquos pignorandi, tales se pignorari permittant et pignus condecens assignare baiulo procurent.</p>
+                </div>
+                <div>
+                    <head>Capitulum 21</head>
+                    <p>(21) Item statuimus quod offitiales nostri in omnibus causis cuiulisbet et criminalibus possint legales dilactiones abreviare, minuere et augere prout eis videbitur expedire.</p>
+                </div>
+                <div>
+                    <head>Capitulum 22</head>
+                    <p>(22) De medicis.</p>
+                    <p>Innovamus etiam regulam canonicam qua cavetur ut cum medicos corporis ad infirmos vocari contigerit, ipsos ante omnia moneant et inducant ut medicos advocant animarum. Ut post quam fuerit infirmo de spirituali salute provisum ad corporalis medicine remedium salubrius procedatur, et causa cessante, cesset effectus.</p>
+                    <p>Quam constitutionem per omnia sub pena excomunicationis precipimus observari. Cui sententie volumus contrafatientes medicos subiacere.</p>
+                </div>
+                <div>
+                    <head>Capitulum 23</head>
+                    <p>(23) De sententia excomunicationis.</p>
+                    <p>Item statuentes ordinamus quod omnes qui sententiam excomunicationis incurrerint ex forma constitutionum nostrarum seu predecessorum nostrorum non possint ab alio quam a nobis seu a nostro generali vicario a tali excomunicatione absolutionis benefitium</p>
+                    <p>obtinere.</p>
+                    <p>Quorum absolutiones nobis vel nostro vicario spirituali reservamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 24</head>
+                    <p>(24) Super quibus omnibus et singulis constitutionibus nostris ac incidentibus et emergentibus ex eisdem, addendi, minuendi, mutandi, corrigendi, suplendi, interpetrandi et intelligendi.</p>
+                    <p>Nobis et nostro vicario reservamus plenam auctoritatem et liberam potestatem.</p>
+                    <p>DE SALARIO NOTARIORUM PRO SINGULIS ACTIS CURIE</p>
+                </div>
+                <div>
+                    <head>Capitulum 25</head>
+                    <p>(25) Exationem nimiam pro salariis scripturarum evitari volentes statuimus quod notarii curie nostre pro scripturis quas fecerint secundum modum denotatum inferius, sibi solvant nec amplius valeant extorquere sub pena excomunicationis et de illis postmodum gratis tribuendis, vel ex tali officio penitus privando.</p>
+                    <p>Et hanc constitutionem teneatur noster vicarius sub pena eadem in ipsum infligenda facere observari in singulis capitulis infrascriptis.</p>
+                    <p>In primis habeant et recipere et habere debeant tantum de commissione citationis denarios duos: et de presentatione et relatione totidem a qualibet parte seu actore et reo.</p>
+                    <p>Si autem duo simul citati fuerint solvat actor pro commissione et relatione citationis et accusatione contumatie denarios quatuor pro quolibet.</p>
+                    <p>Si autem plures duobus fuerint habeant, de predictis denarios duos pro quolibet.</p>
+                    <p>Et si plures rei citati ad petitionem alicuius compiparuerint in termino et se pro representatis scribi fecerint accipiant a quolibet unum denarium tantum et totidem exigant de eisdem scripturis in publica forma reddendis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 26</head>
+                    <p>(26) De lite contestata.</p>
+                    <p>Item de litis contestatis, iuramento calumpnie et termino dato primo loco ad probandum denarios octo pro qualibet parte.</p>
+                    <p>Item pro qualibet positione et pro quolibet intentionis articulo denarios duos ab actore et reo respondente unum denarium.</p>
+                    <p>Item pro qualibet dilactione denarios duos.</p>
+                    <p>Item pro quolibet sacramento delato a parte parti, denarios quatuor.</p>
+                    <p>Item pro qualibet exceptione, replicatione seu triplicatione a parte prodocente denarios duos, et totidem ab alia parte si copiam voluerit de eisdem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 27</head>
+                    <p>(27) De productione testium.</p>
+                    <p>Item pro quolibet teste a parte producente denarios quatuor, et si dixerit se nihil scire.</p>
+                    <p>Si vero dixerit mediam faciem carte sex denarios.</p>
+                    <p>Si vero totum latus decem denarios.</p>
+                    <p>Si vero dixerit totam unam cartam accipiat sexdecim denarios. Si vero ultra recipiat secundum modum predictum; ita quod facies seu latus cuius libet carte sit et esse debeat XXVI limulorum seu virgulorum continentium totidem silabas ad minus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 28</head>
+                    <p>(28) De apertura testium.</p>
+                    <p>Item pro apertura testium denarios quatuor pro qualibet parte.</p>
+                    <p>Item pro conclusione totidem.</p>
+                    <p>Item pro qualibet commissione fatienda alicui sapienti super diffinititiva denarios quatuor a qualibet parte.</p>
+                    <p>Et super interlocutorium denarios duo a qualibet parte.</p>
+                    <p>Item pro consilio ponendo in quaterno et apertura ipsius, si questio decem libras et ab inde infra denarios quatuor a qualibet parte.</p>
+                    <p>Et deinde super accipiant, sicut capit, pro rata ita tamen quod pro dicta positione consilia et apertura ipsius non possit solvi ultra octo denarios pro qualibet parte.</p>
+                </div>
+                <div>
+                    <head>Capitulum 29</head>
+                    <p>(29) De productione instrumenti.</p>
+                    <p>Item de productione alicuius instrumenti a parte producente denarios tres, et de productione actorum factorum in nostra curia, denarios duos a parte producente.</p>
+                </div>
+                <div>
+                    <head>Capitulum 30</head>
+                    <p>(30) De ponenda sententia.</p>
+                    <p>Item pro qualibet sententia ponenda in quaternio usque in quantitatem centum solidos, denarios duodecim a qualibet parte et deinde super usque in quantitatem XXXV libr., solidos quinque pro qualibet parte.</p>
+                    <p>Et usque in quantitatem CC libras a qualibet parte solidos decem. Deinde vero super ad arbitrium nostrum vel nostri vicarii.</p>
+                    <p>Et hoc locum habeat in causis matrimonialibus, ubi sunt dotes taxate ultra centum libras; et ubi non sunt dotes taxate solvatur ad arbitrium nostrum vel nostri vicarii.</p>
+                </div>
+                <div>
+                    <head>Capitulum 31</head>
+                    <p>(31) De copia instrumenti procuratoris.</p>
+                    <p>Item copia instrumenti procuratoris vel syndicatus denarios XII, et totidem pro registratura fatienda in registro curie.</p>
+                    <p>Et ponantur omnia instrumenta syndicatus et procurationis in quaternio.</p>
+                </div>
+                <div>
+                    <head>Capitulum 32</head>
+                    <p>(32) De appellationibus.</p>
+                    <p>Item pro registratura cuiuslibet appellationis introducte intra curiam duplum illius quod dictum est de testibus.</p>
+                    <p>Item pro qualibet appellatione que fiet intra curiam viva voce denarios sex.</p>
+                    <p>Si autem in scriptis usque in quantitatem XXV libras, recipiant ab appellantibus quinque solidos, et deinde usque in quantitatem quinquaginta librarum, octo solidos; et usque in quantitatem trecentarum librarum decem solidos, et totidem pro quolibet centenario usque in quantitatem trecentarum librarum et deinde superius, solidos duos pro quolibet centenario, non obstante quod plures sint in una appellatione quia plus solvi inhibemus expresse, hoc addito quod de aliqua appellatione solvi non possit nec debeat ultra unum florenum et dimidium.</p>
+                    <p>Pro quibus quidem salariis teneantur notarii reddere appellationes in publica forma nullo salario ampliori recepto.</p>
+                    <p>Item si ab interlecutore vel reiectore aliquarum positionum vel intentionum brevitate cum responsione nostra 'vel nostri vicarii contigerit appellari, accipiant quinque solidos et plus et minus secundum quod nobis vel vicario nostro videbitur inspecta quantitate negotii.</p>
+                    <p>Et omnia que dicta sunt in civilibus locum habeant in criminalibus cum per modum accusationis vel denuntiationis agitur.</p>
+                    <p>Si autem per modum inquisitionis agatur nihil exigatur a parte inquisita nisi cum copia actorum petent, et tunc fiat secundum modum superius denotatum.</p>
+                    <p>Et teneantur notarii reddere sententias in forma publica in quibuscumque causis pro alia quantitate duplo maiori quantitate superius expressa et minus ad arbitrium nostrum vel nostri vicarii.</p>
+                </div>
+                <div>
+                    <head>Capitulum 33</head>
+                    <p>(33) De cancellatura sententie.</p>
+                    <p>Item de cancellatura condempnationis decem librarum et instrumento quietationis in publica forma reddendo, si quantitas tota soluta fuerit per condempnatum, accipiant notarii quinque solidos et deinde supra usque in quantitatem quinquaginta libras, recipiant octo solidos; et usque in centum libras, decem solidos accipiant et nihil ulterius exigant dum tamen fiat talis solutio ad rationem eius quod solvitur, et non eius in quo quis extitit condempnatus.</p>
+                    <p>At si contigerit aliquem ex nostris notaris ire extra civitatem in servitium alicuius hoc petentis possit recipere pro qualibet die solidos quatuor et nibilominus solvatur eidem de scripturis iuxta modum superius expressum et fiant eidem moderate et decentes expense.</p>
+                    <p>Pro cautione insuper usurarum vel rerum male ablatarum incertarum volumus eisdem satisfieri secundum modum superius datum de cancellatura condempnationis et instrumento quietationis, reddendo ipsas scripturas in publica forma, ita tamen quod de aliqua cautione ultra tres florenos eisdem persolvi non possit,</p>
+                </div>
+                <div>
+                    <head>Capitulum 34</head>
+                    <p>(34) De ordinandis.</p>
+                    <p>Item de representatione alicuius ad minores ordines volumus eis persolvi denarios duodecim, et solidos duos pro instrumento in publica forma reddendo.</p>
+                    <p>De representatione ad sacros ordines habeant solidos duos et de instrumento in publica forma reddendo solidos tres.</p>
+                    <p>Et hoc locum habeant quando sunt duo simul et semel presentati, quando vero plures, solvat quilibet pro presentatione ad minores denarios, octo; pro presentatione ad maiores denarios octodecim.</p>
+                    <p>Et teneantur notarii literas presentationis registrare et ponere in quaternio expense et etiam instrumenta cuiuslibet ordinis et fiat unus quaternius de ordinatione per se.</p>
+                    <p>Si autem dabuntur litere ordinatorie ad minores ordines habeant pro litteris denarios octodecim; si ad maiores solidos tres.</p>
+                </div>
+                <div>
+                    <head>Capitulum 35</head>
+                    <p>(35) Item de pronuntiatione tenute habeant denarios quatuor et totidem de revocatione si fiet sine fideiussione.</p>
+                    <p>Si autem cum fideiussione habeant denarios sex.</p>
+                    <p>Item de sententia excomunicationis danarios duodecim, et de absolutione denarios sex. Et si absolutus voluerit eam in publica forma, solvat denarios duodecim.</p>
+                    <p>Item de litteris monitionis, si cum sententia scripserint habeant decem et octo denarios, et si sine sententia duodecim denarios; literis vero indulgentiarum hospitalaiorum et construariorum volumus ipsos habere denarios octo.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
             </div>
         </body>
     </text>

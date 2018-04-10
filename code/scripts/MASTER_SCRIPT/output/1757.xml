@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 1757</recordID>
+                <title>London (#1757)</title>
+                <recordID>1757</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate precision="circa">1235</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>London</origPlace>
                 <diocese>London</diocese>
                 <province>Canterbury</province>
-                <country/>
+                <country>England</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Other</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,20 +55,65 @@
     <text>
         <body>
             <div>
-                <head>incipit</head>
-                <p>Rogerus permissione divina episcopus Londoniensis dilectis sibi in Christo rectoribus universis, vicariis, et capellanis parochialibus in civitate London. constitutis salutem in domino sempiternam.</p>
-                <p>Cupientes malitiis hominum obviare animosque subditorum nostrorum sub pacis dulcedine seu concordia conquiescere, ambigua et dubia que hactenus inter vos latere consueverant constituimus discutere et  fine debito terminare.</p>
-                <p>Unde de consensu viri venerabilis domini archidiaconi Londoniensis et aliorum discretorum in nostro tractatu presentium, statuimus et precipimus sub pena excommunicationis quam in personis contravenientium ferimus in hiis scriptis statuta nostra, que vobis tenore presentium dirigimus, in ecclesiis vestris seu locis aliis iudicialibus infra limites archidiaconatus Londoniensis contingentibus inviolabiliter observari.</p>
+                <head>Metadata</head>
+                <p>RecordID: 1757</p>
+                <p>Year: 1235</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: Yes</p>
+                <p>DatingNotes: c. 1229x1241</p>
+                <p>Place: London</p>
+                <p>Diocese: London</p>
+                <p>Province: Canterbury</p>
+                <p>CountryModern: England</p>
+                <p>Latitude: 51.507222</p>
+                <p>Longitude: -0.1275</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Other</p>
+                <p>IssuingAuthority: Roger Niger</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: Statutes for archdeaconry of London; not issued in a synod</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Powicke &amp; Cheney I, 328</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: Data Capture</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
             </div>
             <div>
-                <head>001</head>
-                <p>(1) De generalibus capitulis per annum.</p>
-                <p>Intendimus igitur, eo propitio qui largitor est omnium bonorum, premissis si possemus dispendiis providere et ne mater ecclesia iure suo sit privata vel destituta quominus posset suis in hac parte libertatibus gaudere consuetis, statuimus et sub pena predicta precipimus ut omnes rectores, vicarii, et capellani parochiales per se vel procuratores sufficientes in honesto habitu die lune in septimana Pentecostes apud ecclesiam sancti Pauli London. processionem dicte ecclesie cum parochianis suis prosecuturi prout decet iuxta consuetudinem prius obtentam sine molestia et pugna.</p>
-                <p>Et conveniant dicti rectores, vicarii, et capellani parochiales archidiaconatus predicti ad generale capitulum quater in anno locis antiquis et temporibus consuetis: primo, die veneris proximo post festum sancti Michaelis; secundo, die veneris proximo post festum Epiphanie; tertio, post festum Pasche; quarto, die veneris proximo post festum sancti Iohannis baptiste.</p>
-                <p>Et volumus quod quicunque rectorum predictorum ad processionem predictam seu predicta capitula non venerit solvet domino archidiacono vel eius officiali duas lagenas vini pro pena.</p>
-            </div>
-            <div>
-                <head>explicit</head>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Rogerus permissione divina episcopus Londoniensis dilectis sibi in Christo rectoribus universis, vicariis, et capellanis parochialibus in civitate London. constitutis salutem in domino sempiternam.</p>
+                    <p>Cupientes malitiis hominum obviare animosque subditorum nostrorum sub pacis dulcedine seu concordia conquiescere, ambigua et dubia que hactenus inter vos latere consueverant constituimus discutere et  fine debito terminare.</p>
+                    <p>Unde de consensu viri venerabilis domini archidiaconi Londoniensis et aliorum discretorum in nostro tractatu presentium, statuimus et precipimus sub pena excommunicationis quam in personis contravenientium ferimus in hiis scriptis statuta nostra, que vobis tenore presentium dirigimus, in ecclesiis vestris seu locis aliis iudicialibus infra limites archidiaconatus Londoniensis contingentibus inviolabiliter observari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) De generalibus capitulis per annum.</p>
+                    <p>Intendimus igitur, eo propitio qui largitor est omnium bonorum, premissis si possemus dispendiis providere et ne mater ecclesia iure suo sit privata vel destituta quominus posset suis in hac parte libertatibus gaudere consuetis, statuimus et sub pena predicta precipimus ut omnes rectores, vicarii, et capellani parochiales per se vel procuratores sufficientes in honesto habitu die lune in septimana Pentecostes apud ecclesiam sancti Pauli London. processionem dicte ecclesie cum parochianis suis prosecuturi prout decet iuxta consuetudinem prius obtentam sine molestia et pugna.</p>
+                    <p>Et conveniant dicti rectores, vicarii, et capellani parochiales archidiaconatus predicti ad generale capitulum quater in anno locis antiquis et temporibus consuetis: primo, die veneris proximo post festum sancti Michaelis; secundo, die veneris proximo post festum Epiphanie; tertio, post festum Pasche; quarto, die veneris proximo post festum sancti Iohannis baptiste.</p>
+                    <p>Et volumus quod quicunque rectorum predictorum ad processionem predictam seu predicta capitula non venerit solvet domino archidiacono vel eius officiali duas lagenas vini pro pena.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1]</p>
+                    <p>[2]</p>
+                    <p>[]</p>
+                </div>
             </div>
         </body>
     </text>

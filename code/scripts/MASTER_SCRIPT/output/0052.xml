@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 0052</recordID>
+                <title>Cambrai (#0052)</title>
+                <recordID>0052</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate>1273-10-01</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Cambrai</origPlace>
                 <diocese>Cambrai</diocese>
                 <province>Reims</province>
-                <country/>
+                <country>Belgium</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Diocesan</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,47 +55,92 @@
     <text>
         <body>
             <div>
-                <head>incipit</head>
-                <p>Additiones facte in sancta synodo per capitulum Cameracensis Ecclesie, sede Cameracensi vacante, convocata et per idem capitulum in Cameracensi ecclesia celebrata anno Domini MoCCoLXXoIII [1] in die beati Remigii in capite octobris.</p>
+                <head>Metadata</head>
+                <p>RecordID: 52</p>
+                <p>Year: 1273</p>
+                <p>Month: 10</p>
+                <p>Day: 1</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: MS gives 1270, but sede vacante only fell in October in 1273</p>
+                <p>Place: Cambrai</p>
+                <p>Diocese: Cambrai</p>
+                <p>Province: Reims</p>
+                <p>CountryModern: Belgium</p>
+                <p>Latitude: 50.175579</p>
+                <p>Longitude: 3.2345</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: sede vacante</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: sede vacante, issued by chapter</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Avril, Statuts, IV, 93-94</p>
+                <p>EditionOther: Boeren, Anciens statuts, III, 391-92</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: Hard Copy Scan</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
             </div>
             <div>
-                <head>001</head>
-                <p>(1) In primis statuta seu precepta synodalia a reverendis in Christo patribus ac dominis bone memorie Cameracensibus episcopis facta seu compilata, prout in libello synodalium cum suis additionibus continentur, que quidem valde sunt utilia, necessaria et salubria, in virtute obedientie et sub penis in eisdem contentis, statuimus ab omnibus quos tangunt secundum eorum tenorem diligenter observari.</p>
-            </div>
-            <div>
-                <head>002</head>
-                <p>(2) Item in statuto de vita et honestate clericorum ubi dicitur: Clerici coronam rotondam et tonsuram habeant competentem et septies in anno ad minus coronam radant, addimus: [2] ut per Ecclesiam loco et tempore liberius defendantur.</p>
-            </div>
-            <div>
-                <head>003</head>
-                <p>(3) De decanis.</p>
-                <p>Item in titulo in quo fit mentio de decanis christianitatum, addimus: Decani in suis visitationibus honeste se habeant, nec gravent presbyteros in equitaturis vel in aliis, sed expensas faciant moderatas.</p>
-            </div>
-            <div>
-                <head>004</head>
-                <p>(4) Item in excessibus laicorum puniendis mature se habeant penas debitas infligendo, aliquando corporales, aliquando alias, prout melius eis visum fuerit expedire, secundum qualitatem et quantitatem delictorum et personarum.</p>
-            </div>
-            <div>
-                <head>005</head>
-                <p>(5) De detentionibus clericorum.</p>
-                <p>In titulo de detentionibus clericorum, personarum et rerum ecclesiasticarum, ubi dicitur: In ilia parochia ubi detinebuntur persone ecclesiastice etc., addimus: seu qui sunt in possessione clericatus, vel pro clericis communiter habentur.</p>
-                <p>Item in fine ubi dicitur: Tamdiu cessetur ibidem etc., addimus: Sacerdotes vero non servantes hoc statutum ipso facto noverint se suspensos.</p>
-                <p>Et si per triduum suspensionem sustinuerint [3], sciant se graviter puniendos.</p>
-            </div>
-            <div>
-                <head>006</head>
-                <p>(6) Item statuimus ut si aliquando decani vel presbyteri sciverint aliquos clericos aut pro talibus communiter habitos a secularibus inhumatos vel alias occisos, vel etiam de loco ad locum latenter deductos et celatos, id quantocius poterunt nuntient superiori videlicet episcopo vel capitulo, seu archidiacono aut officiali; alioquin similiter noverint se suspensos, et etiam gravius puniendos.</p>
-            </div>
-            <div>
-                <head>007</head>
-                <p>(7) Item innovamus statutum factum alias videlicet quod singuli decani, presbyteri parochiales et capellani statuta synodalia cum additionibus habeant ad plenum.</p>
-            </div>
-            <div>
-                <head>008</head>
-                <p>(8) Preterea in articulo de baptismo ubi dicitur: Ad levandum puerum de fontibus duo vel tres ad plus admittantur, addimus statuentes: Et nominatim eligantur ac reliqui repellantur.</p>
-            </div>
-            <div>
-                <head>explicit</head>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Additiones facte in sancta synodo per capitulum Cameracensis Ecclesie, sede Cameracensi vacante, convocata et per idem capitulum in Cameracensi ecclesia celebrata anno Domini MoCCoLXXoIII [1] in die beati Remigii in capite octobris.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) In primis statuta seu precepta synodalia a reverendis in Christo patribus ac dominis bone memorie Cameracensibus episcopis facta seu compilata, prout in libello synodalium cum suis additionibus continentur, que quidem valde sunt utilia, necessaria et salubria, in virtute obedientie et sub penis in eisdem contentis, statuimus ab omnibus quos tangunt secundum eorum tenorem diligenter observari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Item in statuto de vita et honestate clericorum ubi dicitur: Clerici coronam rotondam et tonsuram habeant competentem et septies in anno ad minus coronam radant, addimus: [2] ut per Ecclesiam loco et tempore liberius defendantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) De decanis.</p>
+                    <p>Item in titulo in quo fit mentio de decanis christianitatum, addimus: Decani in suis visitationibus honeste se habeant, nec gravent presbyteros in equitaturis vel in aliis, sed expensas faciant moderatas.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) Item in excessibus laicorum puniendis mature se habeant penas debitas infligendo, aliquando corporales, aliquando alias, prout melius eis visum fuerit expedire, secundum qualitatem et quantitatem delictorum et personarum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) De detentionibus clericorum.</p>
+                    <p>In titulo de detentionibus clericorum, personarum et rerum ecclesiasticarum, ubi dicitur: In ilia parochia ubi detinebuntur persone ecclesiastice etc., addimus: seu qui sunt in possessione clericatus, vel pro clericis communiter habentur.</p>
+                    <p>Item in fine ubi dicitur: Tamdiu cessetur ibidem etc., addimus: Sacerdotes vero non servantes hoc statutum ipso facto noverint se suspensos.</p>
+                    <p>Et si per triduum suspensionem sustinuerint [3], sciant se graviter puniendos.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>(6) Item statuimus ut si aliquando decani vel presbyteri sciverint aliquos clericos aut pro talibus communiter habitos a secularibus inhumatos vel alias occisos, vel etiam de loco ad locum latenter deductos et celatos, id quantocius poterunt nuntient superiori videlicet episcopo vel capitulo, seu archidiacono aut officiali; alioquin similiter noverint se suspensos, et etiam gravius puniendos.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>(7) Item innovamus statutum factum alias videlicet quod singuli decani, presbyteri parochiales et capellani statuta synodalia cum additionibus habeant ad plenum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>(8) Preterea in articulo de baptismo ubi dicitur: Ad levandum puerum de fontibus duo vel tres ad plus admittantur, addimus statuentes: Et nominatim eligantur ac reliqui repellantur.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] removed &lt;&gt; around MoCCoLXXoIII, footnote MoCCoLXXoCo</p>
+                    <p>[2] removed &lt;&gt; around addimus:, footnote om. C.</p>
+                    <p>[3] removed &lt;&gt; around sustinuerint, footnote suspensionem suspensionem C.</p>
+                </div>
             </div>
         </body>
     </text>

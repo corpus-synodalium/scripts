@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 1922</recordID>
+                <title>Avignon (#1922)</title>
+                <recordID>1922</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate precision="circa">1260-07-15</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Avignon</origPlace>
                 <diocese>Avignon</diocese>
                 <province>Aix-en-Provence</province>
-                <country/>
+                <country>France</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Provincial</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,18 +55,64 @@
     <text>
         <body>
             <div>
-                <head>text</head>
-                <p>﻿Concilium primum per dominum В. Maleferrati, condam archiepiscopum Arelatensem, celebratum.</p>
-                <p>Anno Domini MoCC.LXX., idus julii, venerabiles patres domini В. Dei gratia archiepiscopus Arelatensis, R. Cavallicen., G. Carpentoraten., Zoen Avinion., S. Vasion., P. Auraycen., J. Tricastrinus episcopi, Arelatensis ecclesie suffraganei, atque multi alii prelati ejusdem provincie, apud Avinionem in provinciali consilio congregati, hec subscripta capitula in eodem concilio promulgala servari per totam eandem provinciam mandaverunt, licet eadem non sint statuta, sed in forma pronunciata fuerint statutorum.</p>
-                <p>Alienationes factas de possessionibus ecclesiarum, sine dyocesanorum consensu, rectores seu priores earundem ecclesiarum, sive sint alienatores, seu eorum successores, studeant celeriter revocare, quatenus processerint de facto.</p>
-                <p>Alioquin per dyocesanos locorum, tam dicti rectores seu priores, quam abbates, seu alii ad quos spectant ille ecclesie, ad id, monitione premissa, per censuram ecclesiasticam compellantur.</p>
-                <p>Cum autem testator legat certam peccunie quantitatem, vel res alias, pro forefactis suis, distribuendis arbitrio gadiatorum seu executorum testamenti sui, nec extant certe persone quibus seu inter quas pecunia, seu res sic legate distribuantur, statuimus quod pecunia, seu res predicte, per ipsos executores, de consilio tamen et assensu prelatorum, ne fraus aliqua per ipsos gadiatores valeat procurari, in pias causas dividantur ; et nisi testator tempus prefixent ad hujusmodi persolvenda, dicti executores per dyocesanos locorum ea infra annum solvere, per censuram eciam compellantur.</p>
-                <p>Item, statuimus quod dominus archiepiscopus et ejus suffraganei mutuum sibi ad invicem auxilium, in sententiis servandis et publicandis, prestent, cum per ilium, qui ipsas sententias tulerit, fuerint requisiti.</p>
-                <p>Item, statuimus quod illi qui habent personatus etiam sine cura seu beneficia curam animarum habentia, compellantur per dyocesanos, per substractionem beneficiorum, infra annum in presbyteros promoveri, nisi rationalem causam ostenderent quare infra annum non possent vel deberent, vel nisi sint archidiaconi, quibus sufficit quod sint dyaconi, et quod in dyaconatu ministrent.</p>
-                <p>Item, statuimus quod si episcopus, vel aliquis rector alicujus ecclesie de dyocesi, expensas necessarias fecerit in legatis et nunciis sedis apostolice, expense ille solvantur de communi contributione ecclesiarum tocius dyocesis, et iste expense semel in anno in una synodo colligantur.</p>
-                <p>Item, statuimus quod episcopi et capitula assignent et deputent clericis in personatibus seu dignitatibus sue ecclesie constitutis, qui carent redditibus, certos redditus juxta facultates suas et qualitatem dignitatis, sine magno prejudicio aliorum, quod videtur posse fieri ibi presertim ubi communia bona habentur.</p>
-                <p>Item, statuimus quod si religiosi, vel clerici seculares, se in guidagio seu defensione seculari posuerint, contra episcopos et prelatos suos, nisi, canonica admonicione premissa, illi guidagio seu defensioni penitus renunciaverint, per dyocesanum excommunicentur, alias per substractionem beneficii, si quod habent, si hoc contempserint, puniantur.</p>
-                <p>Item, statuimus quod si quis clericus episcopum, prepositum, seu alium in personatu, dignitate seu canonica alicujus ecclesie constitutum, factis vel verbis graviter dehonestaverit, non admitatur ulterius ad aliquod beneficium illius ecclesie, nisi passo injuriam satisfecerit de injuria vel offensa.</p>
+                <head>Metadata</head>
+                <p>RecordID: 1922</p>
+                <p>Year: 1260</p>
+                <p>Month: 7</p>
+                <p>Day: 15</p>
+                <p>Circa: Yes</p>
+                <p>DatingNotes: year uncertain</p>
+                <p>Place: Avignon</p>
+                <p>Diocese: Avignon</p>
+                <p>Province: Aix-en-Provence</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 43.95</p>
+                <p>Longitude: 4.817</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Provincial</p>
+                <p>IssuingAuthority: Bertrand Malferrat</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: issued by Bertrand, AB of Arles, with suffragans</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Gallia christiana novissima, 460-461, no. 1203</p>
+                <p>EditionOther: Mansi 24, cols 15-18</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'WebDownload']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>All Text</head>
+                    <p>﻿Concilium primum per dominum В. Maleferrati, condam archiepiscopum Arelatensem, celebratum.</p>
+                    <p>Anno Domini MoCC.LXX., idus julii, venerabiles patres domini В. Dei gratia archiepiscopus Arelatensis, R. Cavallicen., G. Carpentoraten., Zoen Avinion., S. Vasion., P. Auraycen., J. Tricastrinus episcopi, Arelatensis ecclesie suffraganei, atque multi alii prelati ejusdem provincie, apud Avinionem in provinciali consilio congregati, hec subscripta capitula in eodem concilio promulgala servari per totam eandem provinciam mandaverunt, licet eadem non sint statuta, sed in forma pronunciata fuerint statutorum.</p>
+                    <p>Alienationes factas de possessionibus ecclesiarum, sine dyocesanorum consensu, rectores seu priores earundem ecclesiarum, sive sint alienatores, seu eorum successores, studeant celeriter revocare, quatenus processerint de facto.</p>
+                    <p>Alioquin per dyocesanos locorum, tam dicti rectores seu priores, quam abbates, seu alii ad quos spectant ille ecclesie, ad id, monitione premissa, per censuram ecclesiasticam compellantur.</p>
+                    <p>Cum autem testator legat certam peccunie quantitatem, vel res alias, pro forefactis suis, distribuendis arbitrio gadiatorum seu executorum testamenti sui, nec extant certe persone quibus seu inter quas pecunia, seu res sic legate distribuantur, statuimus quod pecunia, seu res predicte, per ipsos executores, de consilio tamen et assensu prelatorum, ne fraus aliqua per ipsos gadiatores valeat procurari, in pias causas dividantur ; et nisi testator tempus prefixent ad hujusmodi persolvenda, dicti executores per dyocesanos locorum ea infra annum solvere, per censuram eciam compellantur.</p>
+                    <p>Item, statuimus quod dominus archiepiscopus et ejus suffraganei mutuum sibi ad invicem auxilium, in sententiis servandis et publicandis, prestent, cum per ilium, qui ipsas sententias tulerit, fuerint requisiti.</p>
+                    <p>Item, statuimus quod illi qui habent personatus etiam sine cura seu beneficia curam animarum habentia, compellantur per dyocesanos, per substractionem beneficiorum, infra annum in presbyteros promoveri, nisi rationalem causam ostenderent quare infra annum non possent vel deberent, vel nisi sint archidiaconi, quibus sufficit quod sint dyaconi, et quod in dyaconatu ministrent.</p>
+                    <p>Item, statuimus quod si episcopus, vel aliquis rector alicujus ecclesie de dyocesi, expensas necessarias fecerit in legatis et nunciis sedis apostolice, expense ille solvantur de communi contributione ecclesiarum tocius dyocesis, et iste expense semel in anno in una synodo colligantur.</p>
+                    <p>Item, statuimus quod episcopi et capitula assignent et deputent clericis in personatibus seu dignitatibus sue ecclesie constitutis, qui carent redditibus, certos redditus juxta facultates suas et qualitatem dignitatis, sine magno prejudicio aliorum, quod videtur posse fieri ibi presertim ubi communia bona habentur.</p>
+                    <p>Item, statuimus quod si religiosi, vel clerici seculares, se in guidagio seu defensione seculari posuerint, contra episcopos et prelatos suos, nisi, canonica admonicione premissa, illi guidagio seu defensioni penitus renunciaverint, per dyocesanum excommunicentur, alias per substractionem beneficii, si quod habent, si hoc contempserint, puniantur.</p>
+                    <p>Item, statuimus quod si quis clericus episcopum, prepositum, seu alium in personatu, dignitate seu canonica alicujus ecclesie constitutum, factis vel verbis graviter dehonestaverit, non admitatur ulterius ad aliquod beneficium illius ecclesie, nisi passo injuriam satisfecerit de injuria vel offensa.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>None</p>
+                </div>
             </div>
         </body>
     </text>

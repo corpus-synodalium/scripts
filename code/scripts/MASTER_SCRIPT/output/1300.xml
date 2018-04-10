@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 1300</recordID>
+                <title>Tours (#1300)</title>
+                <recordID>1300</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate>1239</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Tours</origPlace>
                 <diocese>Tours</diocese>
                 <province>Tours</province>
-                <country/>
+                <country>France</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Provincial</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,74 +55,126 @@
     <text>
         <body>
             <div>
-                <head>incipit</head>
-                <p>﻿Item, concilium apud Turones celebratum, anno Domini millesimo CCoXXXoIXo.</p>
+                <head>Metadata</head>
+                <p>RecordID: 1300</p>
+                <p>Year: 1239</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Tours</p>
+                <p>Diocese: Tours</p>
+                <p>Province: Tours</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 47.393611</p>
+                <p>Longitude: 0.689167</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Provincial</p>
+                <p>IssuingAuthority: Juhel de Mathefelon</p>
+                <p>IssuingAuthorityAlt: Juhellus</p>
+                <p>RegnalStart: 1229</p>
+                <p>RegnalEnd: 1245</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Avril, Tours, 170-76</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: Hard Copy Scan</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
             </div>
             <div>
-                <head>001</head>
-                <p>(1) Ut in qualibet parochia sint tres clerici vel laici qui crimina ecclesiastica referant episcopo [1].</p>
-                <p>Totis visceribus corrigere cupientes ea que correctione indigent in provincia Turonensi, sacri hujus approbatione concilii duximus statuendum, ut in qualibet parochia per episcopum vel archidiaconum [1a] eligantur tres clerici, vel si clerici inveniri non possint, tres laici fide digni qui jurent quod de his que sciverint unde scandalum sit subortum in parochia, vel in vicinis contra fidem vel alias de criminibus ecclesiasticis requisiti dicent episcopo vel archidiacono veritatem.</p>
-            </div>
-            <div>
-                <head>002</head>
-                <p>(2) De pena clericorum de crimine convictorum.</p>
-                <p>In correctionibus consuetis tam de modo puniendi clericos maxime beneficiatos quam etiam in sacris ordinibus constitutos, statuimus ut, si de criminibus confessi fuerint vel convicti ad arbitrium episcopi corrigantur, et si de secundo convicti fuerint, per substractionem beneficii ecclesiastici puniantur.</p>
-            </div>
-            <div>
-                <head>003</head>
-                <p>(3) De vestibus sacerdotum.</p>
-                <p>Item, sacri hujus approbatione concilii, prohibemus ne sacerdotes in publico incedant, nisi in capis clausis vel mantellis.</p>
-                <p>Clausa etiam habeant supertunicalia, quod si secus fecerint, in quinque solidis puniantur, fabrice majoris ecclesie applicandis.</p>
-            </div>
-            <div>
-                <head>004</head>
-                <p>(4) De sacramentis.</p>
-                <p>Item, innovamus ut sacramenta ecclesiastica gratis exhibeantur inhibentes ne antequam fiat pro eis aliquid petatur seu etiam exigatur, quibus gratis exhibitis, poterit peti quod de pia consuetudine exigi consuevit, subditis ad hoc per prelatos censura ecclesiastica compellendis.</p>
-                <p>Quod si quis contra fecerit, eo jure quo habiturus erat ea vice privetur et nihilominus in quinque solidis convertendis in fabrica ecclesie puniatur.</p>
-            </div>
-            <div>
-                <head>005</head>
-                <p>(5) Presbyteri pro jure suo parrochianos in speciali excommunicare non possint [2].</p>
-                <p>Item, interdicimus universis presbyteris ecclesiarum parochialium, ne pro jure suo vel ecclesie sue in speciali parochianos suos auctoritate propria excommunicare presumant, quod si fecerint sententiam decernimus esse nullam.</p>
-            </div>
-            <div>
-                <head>006</head>
-                <p>(6) De spuriis et concubinis [3].</p>
-                <p>Presentis auctoritate concilii prohibemus ne quis beneficiatus clericus vel in sacris ordinibus constitutus aliquid presumat filio spurio seu proprie etiam concubine in ultima voluntate legare, quod si fecerit non valeat, sed ecclesie applicetur.</p>
-            </div>
-            <div>
-                <head>007</head>
-                <p>(7) Ne archidiaconi et inferiores prelati officiales extra civitatem habeant.</p>
-                <p>Innovamus statutum editum apud Castrum Gonterii, et districtius inhibemus ne ipsi archidiaconi, archipresbyteri vel alii jurisdictionem habentes ecclesiasticam, extra civitatem habeant officiales seu allocatos, sed extra civitatem in propriis personis officium suum fideliter expleant, et si aliquis processus per eosdem habitus fuerit in hoc quod fieri prohibemus, decrevimus non tenere.</p>
-            </div>
-            <div>
-                <head>008</head>
-                <p>(8) De sententia excommunicationis mature ferenda.</p>
-                <p>Item, prohibemus ne prelati ecclesiarum excommunicationis precipitare sententias presumant, sed cum maturitate et legitimis monitionibus et competentibus intervallis, nisi negotium celeritatem desideret, et nisi periculum sit in mora, et tunc hoc ordine procedatur, ut primo delinquentes excommunicentur, postea crescente contumacia, cum pulsatione campanarum et aliis solemnitatibus, sententia aggravetur, et, nisi excommunicati ad gremium Ecclesie redierint euntes ad mercata et coquentes ad furna etb molentes ad molendina alias interdicantur, ac excommunicentur, postmodum participantes in cibo et potus, anathematis sententie supponantur.</p>
-            </div>
-            <div>
-                <head>009</head>
-                <p>(9) Ne participantes cum excommunicatis in generali excommunicentur.</p>
-                <p>Interdicimus tamen universis judicibus ne in generali excommunicare presumant participantes cum excommunicatis propter periculum animarum, quod si in£ tales sententie late fuerint, decernimus non tenere, statuentes ut ad compulsionem excommunicatorum, si notorii fuerint, invocetur auxilium brachii secularis.</p>
-            </div>
-            <div>
-                <head>010</head>
-                <p>(10) De monachis.</p>
-                <p>Item, auctoritate presentis concilii, statuimus ne monachis vel aliis religiosis detur aliqua pecunie summa, pro victu seu vestitu et aliis necessariis, sed, juxta facultatem monasterii, provideatur competenter eisdem [4].</p>
-            </div>
-            <div>
-                <head>011</head>
-                <p>(11) Ne clerici vel monachi in domo pedissecas habeant [5].</p>
-                <p>Statuimus ne clerici vel monachi pedissecas in domibus seu in mansione prioratus habere presumant, contra canonicas sanctiones, quod si contra presumptum fuerit debite subjaceant ultioni.</p>
-            </div>
-            <div>
-                <head>012</head>
-                <p>(12) Ne monachi in ecclesiis deserviant absque approbatione episcopi [6].</p>
-                <p>Ceterum hoc etiam illud duximus prohibendum ne monachi in ecclesiis parochialibus deserviant, nisi ab episcopo in casibus permissis curam receperunt animarum, quod si tales inventi fuerint auctoritate hujus concilii per episcopos precipimus amoveri.</p>
-            </div>
-            <div>
-                <head>explicit</head>
-                <p>Actum Turonis, anno Domini MCCoXXXIXo.</p>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>﻿Item, concilium apud Turones celebratum, anno Domini millesimo CCoXXXoIXo.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) Ut in qualibet parochia sint tres clerici vel laici qui crimina ecclesiastica referant episcopo [1].</p>
+                    <p>Totis visceribus corrigere cupientes ea que correctione indigent in provincia Turonensi, sacri hujus approbatione concilii duximus statuendum, ut in qualibet parochia per episcopum vel archidiaconum [1a] eligantur tres clerici, vel si clerici inveniri non possint, tres laici fide digni qui jurent quod de his que sciverint unde scandalum sit subortum in parochia, vel in vicinis contra fidem vel alias de criminibus ecclesiasticis requisiti dicent episcopo vel archidiacono veritatem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) De pena clericorum de crimine convictorum.</p>
+                    <p>In correctionibus consuetis tam de modo puniendi clericos maxime beneficiatos quam etiam in sacris ordinibus constitutos, statuimus ut, si de criminibus confessi fuerint vel convicti ad arbitrium episcopi corrigantur, et si de secundo convicti fuerint, per substractionem beneficii ecclesiastici puniantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) De vestibus sacerdotum.</p>
+                    <p>Item, sacri hujus approbatione concilii, prohibemus ne sacerdotes in publico incedant, nisi in capis clausis vel mantellis.</p>
+                    <p>Clausa etiam habeant supertunicalia, quod si secus fecerint, in quinque solidis puniantur, fabrice majoris ecclesie applicandis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) De sacramentis.</p>
+                    <p>Item, innovamus ut sacramenta ecclesiastica gratis exhibeantur inhibentes ne antequam fiat pro eis aliquid petatur seu etiam exigatur, quibus gratis exhibitis, poterit peti quod de pia consuetudine exigi consuevit, subditis ad hoc per prelatos censura ecclesiastica compellendis.</p>
+                    <p>Quod si quis contra fecerit, eo jure quo habiturus erat ea vice privetur et nihilominus in quinque solidis convertendis in fabrica ecclesie puniatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) Presbyteri pro jure suo parrochianos in speciali excommunicare non possint [2].</p>
+                    <p>Item, interdicimus universis presbyteris ecclesiarum parochialium, ne pro jure suo vel ecclesie sue in speciali parochianos suos auctoritate propria excommunicare presumant, quod si fecerint sententiam decernimus esse nullam.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>(6) De spuriis et concubinis [3].</p>
+                    <p>Presentis auctoritate concilii prohibemus ne quis beneficiatus clericus vel in sacris ordinibus constitutus aliquid presumat filio spurio seu proprie etiam concubine in ultima voluntate legare, quod si fecerit non valeat, sed ecclesie applicetur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>(7) Ne archidiaconi et inferiores prelati officiales extra civitatem habeant.</p>
+                    <p>Innovamus statutum editum apud Castrum Gonterii, et districtius inhibemus ne ipsi archidiaconi, archipresbyteri vel alii jurisdictionem habentes ecclesiasticam, extra civitatem habeant officiales seu allocatos, sed extra civitatem in propriis personis officium suum fideliter expleant, et si aliquis processus per eosdem habitus fuerit in hoc quod fieri prohibemus, decrevimus non tenere.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>(8) De sententia excommunicationis mature ferenda.</p>
+                    <p>Item, prohibemus ne prelati ecclesiarum excommunicationis precipitare sententias presumant, sed cum maturitate et legitimis monitionibus et competentibus intervallis, nisi negotium celeritatem desideret, et nisi periculum sit in mora, et tunc hoc ordine procedatur, ut primo delinquentes excommunicentur, postea crescente contumacia, cum pulsatione campanarum et aliis solemnitatibus, sententia aggravetur, et, nisi excommunicati ad gremium Ecclesie redierint euntes ad mercata et coquentes ad furna etb molentes ad molendina alias interdicantur, ac excommunicentur, postmodum participantes in cibo et potus, anathematis sententie supponantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>(9) Ne participantes cum excommunicatis in generali excommunicentur.</p>
+                    <p>Interdicimus tamen universis judicibus ne in generali excommunicare presumant participantes cum excommunicatis propter periculum animarum, quod si in£ tales sententie late fuerint, decernimus non tenere, statuentes ut ad compulsionem excommunicatorum, si notorii fuerint, invocetur auxilium brachii secularis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>(10) De monachis.</p>
+                    <p>Item, auctoritate presentis concilii, statuimus ne monachis vel aliis religiosis detur aliqua pecunie summa, pro victu seu vestitu et aliis necessariis, sed, juxta facultatem monasterii, provideatur competenter eisdem [4].</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>(11) Ne clerici vel monachi in domo pedissecas habeant [5].</p>
+                    <p>Statuimus ne clerici vel monachi pedissecas in domibus seu in mansione prioratus habere presumant, contra canonicas sanctiones, quod si contra presumptum fuerit debite subjaceant ultioni.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>(12) Ne monachi in ecclesiis deserviant absque approbatione episcopi [6].</p>
+                    <p>Ceterum hoc etiam illud duximus prohibendum ne monachi in ecclesiis parochialibus deserviant, nisi ab episcopo in casibus permissis curam receperunt animarum, quod si tales inventi fuerint auctoritate hujus concilii per episcopos precipimus amoveri.</p>
+                </div>
+                <div>
+                    <head>Explicit</head>
+                    <p>Actum Turonis, anno Domini MCCoXXXIXo.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1]removed &lt;&gt;</p>
+                    <p>[1a] archidiaconum  in parentheses</p>
+                    <p>[2]removed &lt;&gt;</p>
+                    <p>[3]removed &lt;&gt;</p>
+                    <p>[4] Alternate version: 'prohibemus ne monachis vel aliis religiosis detur pro victu seu vestitu et aliis necessariis pecunia, sed abbates et alii administratores locorum, juxta facultatem monasterii provideant competenter.'</p>
+                    <p>[5]removed &lt;&gt;</p>
+                    <p>[6]removed &lt;&gt;</p>
+                </div>
             </div>
         </body>
     </text>

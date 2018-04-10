@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 1856</recordID>
+                <title>Aquileia (#1856)</title>
+                <recordID>1856</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate>1181-02-03</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Aquileia</origPlace>
                 <diocese>Aquileia</diocese>
                 <province>Aquileia</province>
-                <country/>
+                <country>Italy</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Diocesan</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,22 +55,68 @@
     <text>
         <body>
             <div>
-                <head>text</head>
-                <p>Voldaricus Dei gratia sanctae Aquilejensis ecclesiae patriarcha, apostolicae sedis legatus, dilectis in Christo fratribus Luiprando decano caeterisque ejusdem ecclesiae, tam futuris, quam praesentibus, in perpetuum.</p>
-                <p>Ad regimen et ministerium sanctae Aquilejensis ecclesiae, Deo dispensante, vocati, si decorem domus Dei diligimus, si ea quae religionis sunt et honestatis in ipsa vel instituta confirmamus, vel neglecta instituimus, ab ipso profecto pastoralis sollicitudinis praemium expectamus et laborum, qui pastor vere et singulariter bonus, omnium est retributor, et corona pastorum.</p>
-                <p>Eapropter, filii in Domino carissimi, qui sanctae Aquilegensis ecclesiae facies et decor vultus ejus esse debetis, ad honestiorem vitae ac disciplinae statum, auctore Domino, vos reducere cupientes; auctoritate D. Alexandri papa II. et legationis, qua fungimur, necnon et metropolitica, qua vobis et sanctae Aquilejensi ecclesiae praesidemus, statuimus et in perpetuum confirmamus: ut de caetero in communi vita maneatis, in eodem dormitorio simul omnes dormiatis, in eodem refectorio cibum pariter omnes sumatis, nec extra commune refectorium alicui vestrum cibus sive potus ministretur; nisi forte aliqua fuerit infirmitate detentus, vel necessitate minutionis, seu gratia hospitum ex licentia decani defuerint.</p>
-                <p>Decernimus etiam, ut tu, dilecte in Christo frater decane, tuique successores, et magister scholarum, qui nunc est, et qui pro tempore fuerit, simplicem in victu, et duplicem in vestitu praebendam habeant: omnes autem canonici, ubicunque fuerint absentes, ea quae pro vestimentis provenire debuerint, percipiant.</p>
-                <p>Si qui vero ex cotidianis canonicis, gratia studendi, scholas adiverint, ea, quae pro vestibus dantur communiter cum aliis fratribus, et insuper gratia speciali dimidiam marcam annuatim obtineant.</p>
-                <p>Statuimus praeterea, ut omnia bona, tam ea quae de praepositura, videlicet de ecclesiis, et praediis; quam quae de obedientiis proveniunt, in communes usus fratrum redigantur, utilitati vestrae modis omnibus profutura.</p>
-                <p>Vassallos vero, et ministeriales, et beneficia ipsorum ad usus praepositi, qui pro tempore fuerit, reservamus; omni jurisdictione, potestate, et utilitate in bonis vestris, ecclesiae scilicet, et praediis ei sublata, nullius praedecessoris nostri privilegio obstante.</p>
-                <p>Sane quicunque vestrum, Domino vocante, de hoc mundo migraverit; licet ei praebendam suam pro anima sua, cuicunque voluerit ad anni circulum dimittere.</p>
-                <p>Quaecunque igitur in futurum persona hujus nostrae institutionis paginam perturbare, seu quoquo modo immutare attentaverit, et ea quae honestatis intuitu statuimus, quiete in suo statu manere non permiserit; a communione sacratissimi corporis et sanguinis Jesu Christi aliena fiat, et iram omnipotentis Dei et Matris misericordiae sentiat, tradita Satanae  in interitum carnis, ut spiritus salvus sit in die Domini, nisi resipuerit, et quod illicite praesumpsit, congrua satisfactione expiaverit.</p>
-                <p>Omnibus autem eidem constitutioni nostrae suam firmitatem conservantibus sit pax, et gaudium in agnitione Domini nostri Jesu Christi, et revelatione justi judicii Dei.</p>
-                <p>Amen.</p>
-                <p>Acta sunt haec concilio venerabilium suffraganeorum nostrorum, Bernadi Tergestini, et Justinopolitani, Jonathae Concordiansis [1] ...tefridi Sextensis et Valchyonis Beliniensis abbatum, et totius Capituli communi assensu et voluntate.</p>
-                <p>Anno Dominicae Incarnationis mill. centesimo LXXXI. indictione XIV. tertio die intrante februario.</p>
-                <p>Aquilegiae feliciter.</p>
-                <p>Ego Chuonradus domini patriarchae capellanus jussu ipsius, et petitione canonicorum Aquilegensis ecclesiae hanc paginam scripsi, et dedi.</p>
+                <head>Metadata</head>
+                <p>RecordID: 1856</p>
+                <p>Year: 1181</p>
+                <p>Month: 2</p>
+                <p>Day: 3</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Aquileia</p>
+                <p>Diocese: Aquileia</p>
+                <p>Province: Aquileia</p>
+                <p>CountryModern: Italy</p>
+                <p>Latitude: 45.766667</p>
+                <p>Longitude: 13.366667</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Voldarico II</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Mansi, 22, cols 471-474</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Data Capture']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: discussed in Ceccon, SInodi diocesane, 54</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>All Text</head>
+                    <p>Voldaricus Dei gratia sanctae Aquilejensis ecclesiae patriarcha, apostolicae sedis legatus, dilectis in Christo fratribus Luiprando decano caeterisque ejusdem ecclesiae, tam futuris, quam praesentibus, in perpetuum.</p>
+                    <p>Ad regimen et ministerium sanctae Aquilejensis ecclesiae, Deo dispensante, vocati, si decorem domus Dei diligimus, si ea quae religionis sunt et honestatis in ipsa vel instituta confirmamus, vel neglecta instituimus, ab ipso profecto pastoralis sollicitudinis praemium expectamus et laborum, qui pastor vere et singulariter bonus, omnium est retributor, et corona pastorum.</p>
+                    <p>Eapropter, filii in Domino carissimi, qui sanctae Aquilegensis ecclesiae facies et decor vultus ejus esse debetis, ad honestiorem vitae ac disciplinae statum, auctore Domino, vos reducere cupientes; auctoritate D. Alexandri papa II. et legationis, qua fungimur, necnon et metropolitica, qua vobis et sanctae Aquilejensi ecclesiae praesidemus, statuimus et in perpetuum confirmamus: ut de caetero in communi vita maneatis, in eodem dormitorio simul omnes dormiatis, in eodem refectorio cibum pariter omnes sumatis, nec extra commune refectorium alicui vestrum cibus sive potus ministretur; nisi forte aliqua fuerit infirmitate detentus, vel necessitate minutionis, seu gratia hospitum ex licentia decani defuerint.</p>
+                    <p>Decernimus etiam, ut tu, dilecte in Christo frater decane, tuique successores, et magister scholarum, qui nunc est, et qui pro tempore fuerit, simplicem in victu, et duplicem in vestitu praebendam habeant: omnes autem canonici, ubicunque fuerint absentes, ea quae pro vestimentis provenire debuerint, percipiant.</p>
+                    <p>Si qui vero ex cotidianis canonicis, gratia studendi, scholas adiverint, ea, quae pro vestibus dantur communiter cum aliis fratribus, et insuper gratia speciali dimidiam marcam annuatim obtineant.</p>
+                    <p>Statuimus praeterea, ut omnia bona, tam ea quae de praepositura, videlicet de ecclesiis, et praediis; quam quae de obedientiis proveniunt, in communes usus fratrum redigantur, utilitati vestrae modis omnibus profutura.</p>
+                    <p>Vassallos vero, et ministeriales, et beneficia ipsorum ad usus praepositi, qui pro tempore fuerit, reservamus; omni jurisdictione, potestate, et utilitate in bonis vestris, ecclesiae scilicet, et praediis ei sublata, nullius praedecessoris nostri privilegio obstante.</p>
+                    <p>Sane quicunque vestrum, Domino vocante, de hoc mundo migraverit; licet ei praebendam suam pro anima sua, cuicunque voluerit ad anni circulum dimittere.</p>
+                    <p>Quaecunque igitur in futurum persona hujus nostrae institutionis paginam perturbare, seu quoquo modo immutare attentaverit, et ea quae honestatis intuitu statuimus, quiete in suo statu manere non permiserit; a communione sacratissimi corporis et sanguinis Jesu Christi aliena fiat, et iram omnipotentis Dei et Matris misericordiae sentiat, tradita Satanae  in interitum carnis, ut spiritus salvus sit in die Domini, nisi resipuerit, et quod illicite praesumpsit, congrua satisfactione expiaverit.</p>
+                    <p>Omnibus autem eidem constitutioni nostrae suam firmitatem conservantibus sit pax, et gaudium in agnitione Domini nostri Jesu Christi, et revelatione justi judicii Dei.</p>
+                    <p>Amen.</p>
+                    <p>Acta sunt haec concilio venerabilium suffraganeorum nostrorum, Bernadi Tergestini, et Justinopolitani, Jonathae Concordiansis [1] ...tefridi Sextensis et Valchyonis Beliniensis abbatum, et totius Capituli communi assensu et voluntate.</p>
+                    <p>Anno Dominicae Incarnationis mill. centesimo LXXXI. indictione XIV. tertio die intrante februario.</p>
+                    <p>Aquilegiae feliciter.</p>
+                    <p>Ego Chuonradus domini patriarchae capellanus jussu ipsius, et petitione canonicorum Aquilegensis ecclesiae hanc paginam scripsi, et dedi.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] Gap marked with &quot;. . . . . .&quot;</p>
+                </div>
             </div>
         </body>
     </text>

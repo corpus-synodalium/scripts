@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 0751</recordID>
+                <title>Linkoping (#0751)</title>
+                <recordID>0751</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate>1412</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Linköping</origPlace>
                 <diocese>Linköping</diocese>
                 <province>Uppsala</province>
-                <country/>
+                <country>Sweden</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Abstract/Abbreviation</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,115 +55,161 @@
     <text>
         <body>
             <div>
-                <head>incipit</head>
-                <p>Nota articulos confirmatos in consilio provinciali Arbogensi oppido Anno domini M°CD°XII die exaltacione [1] sancte crucis.</p>
+                <head>Metadata</head>
+                <p>RecordID: 751</p>
+                <p>Year: 1412</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Linköping</p>
+                <p>Diocese: Linköping</p>
+                <p>Province: Uppsala</p>
+                <p>CountryModern: Sweden</p>
+                <p>Latitude: 58.4</p>
+                <p>Longitude: 15.616667</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Abstract/Abbreviation</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: local abstract (&quot;affattadt för Linköping stift&quot;) of statutes from provincial council of Arboga of 1412</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Gummerus, Synodalstatuter, 29-31</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: https://books.google.com/books?id=kt8vAQAAMAAJ</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'WebDownload']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
             </div>
             <div>
-                <head>001</head>
-                <p>(1) Primo quod procuracio episcopalis agatur secundum statuta sabinensia.</p>
-            </div>
-            <div>
-                <head>002</head>
-                <p>(2) Item quod curati vel sacerdotes possint describere bona sua in extremis secundum suum arbitrium.</p>
-            </div>
-            <div>
-                <head>003</head>
-                <p>(3) Item omnes clerici tenentur respicere ecclesiam cathedralem in extremis cum testamento.</p>
-            </div>
-            <div>
-                <head>004</head>
-                <p>(4) Item decime dabuntur de omni acquisitione humana.</p>
-            </div>
-            <div>
-                <head>005</head>
-                <p>(5) Itera VII domus edificabuntur in fundo presbiterali per parochianos.</p>
-            </div>
-            <div>
-                <head>006</head>
-                <p>(6) Item omnes decime inferuntur infra festum purificacionis sub pena trium marcarum.</p>
-            </div>
-            <div>
-                <head>007</head>
-                <p>(7) Item nullus rusticorum presumat transferre aliqua mercimonia ad ciuitates diebus festiuis priusquam summa missa finita nisi commensalia sub pena trium marcarum; similiter mercatores opellas suas seu institutores exercentes mercaturas eadem pena puniantur.</p>
-            </div>
-            <div>
-                <head>008</head>
-                <p>(8) Item annonie non admittantur.</p>
-            </div>
-            <div>
-                <head>009</head>
-                <p>(9) Item familia sacerdotum non exponat tributum dictum mordhgiaeldh.</p>
-            </div>
-            <div>
-                <head>010</head>
-                <p>(10) Item omnes curati exponant decimas annuales secundum taxam ecclesiarum.</p>
-            </div>
-            <div>
-                <head>011</head>
-                <p>(11) Item curati habentes duas ecclesias celebrent vicissim diebus dominicis.</p>
-            </div>
-            <div>
-                <head>012</head>
-                <p>(12) Item concubinis presbiterorum publice inponitur publica penitencia cum pena pecuniaria.</p>
-                <p>Clerici vero incarcerantur, ut desistant.</p>
-            </div>
-            <div>
-                <head>013</head>
-                <p>(13) Item prefecti non subleuant regales reatus de colonis ecclesie, sed episcopus.</p>
-            </div>
-            <div>
-                <head>014</head>
-                <p>(14) Item domus edificate in cimiteriis post mortem edificantis cedant ecclesiis.</p>
-            </div>
-            <div>
-                <head>015</head>
-                <p>(15) Item coloni ecclesie non dabunt pelles lupinas vel penam pro illis aut procuracionem pro placitis eorum tenendis.</p>
-            </div>
-            <div>
-                <head>016</head>
-                <p>(16) Item diebus festiuis, dum pixis portatur ad altare, cantabuntur memorie scilicet de cruce, de virgine et pro defunctis, pro quibus memoriis dominus archiepiscopus contulit XL:a dies indulgentiarum, dyocesanus vero totidem.</p>
-            </div>
-            <div>
-                <head>017</head>
-                <p>(17) Item fornicatores [2] et fornicatrices inponitur pena pecuniaria Sz III marce.</p>
-                <p>Et si non desistant eliminantur.</p>
-            </div>
-            <div>
-                <head>018</head>
-                <p>(18) Item prepositi rurales et curati scolares extra tempora debita sine litteris vel contra litterarum tenorem euagantes arrestent, Et res earum viciniori rectori scolarum assignent pauperibus scolaribus erogantes.</p>
-            </div>
-            <div>
-                <head>019</head>
-                <p>(19) Item casus papales et episcopales et casus, in quibus excuminicacio [3] per iura et statuta incurritur, per publica descripta in cathedralibus ecclesiis habeantur, quos eciam quilibet curatus habeat, sciens quod nullo casu preterquam in mortis articulo auctoritatem habeat absoluendi.</p>
-            </div>
-            <div>
-                <head>020</head>
-                <p>(20) Item consilium dampnauit et reprobauit omnes sortilegos, incantatores, diuinatores et sumpniorum interpretatores et quascunque litteras et scripturas cum characteribus et vocabulorum ignotorum in sacra scriptura non expressorum inscripcionibus, quas supersticiose contra ignem, aquam et gladium Et alia mortis et morborum pericula.</p>
-                <p>Item omnes scripturas in plumbo oblacionibus et [4] parietibus contra dolorem dencium et febrium et alias quascunque hominum vel jumentorum.</p>
-                <p>Item omnes modos, quibus vtuntur homines occulta furta quomodo inuestigantur.</p>
-                <p>Item obseruaciones dierum egypciacarum pro inchoacione operum et alia huiusmodi deliramenta, que plene non possunt explicari que si quis inuentus fuerit agere, scribere, vti vel portare, tamquam pro graui puniatur.</p>
-                <p>Et si ea tamquam licita defenderet, ab ingressu ecclesie suspensus publica penitencia puniatur cum pena trium marcarum.</p>
-            </div>
-            <div>
-                <head>021</head>
-                <p>(21) Item declarauit dictum consilium quod nullum laycorum habere auctoritatem super ecclesiastica iudicandas, ymmo omnia judicia contra ecclesiam in bonorum suorum abjudicacionibus per solos laycos attemptata dicimus, diffinimus iure canonico esse nullam, protestamurque publice in hiis scriptis quod quamuis propter defectum iusticie et raritatem placitorum regalium in hoc regno super bonorum ecclesiasticorum abjudicacionibus per solos laycos attemptatos huc vsque tacuimus.</p>
-                <p>Nequaquam tamen per huius modi taciturnitatem incidimus huius modi judiciis, In quantum iuri canonico et libertati ecclesie sunt contraria, consentire vel ea quomodolibet approbare Sed oportuno tempore judicibus competentibus inventis occurrere volumus huius modi judiciis sic vt premittetur attemptatis.</p>
-            </div>
-            <div>
-                <head>022</head>
-                <p>(22) Item aduene et ignoti non admittantur ad contrahendum matrimonia, nisi constet per testes vel litteras euidenter quod sint soluti.</p>
-                <p>Sacerdotes qui tales benedixerunt, tribus marcis puniantur.</p>
-            </div>
-            <div>
-                <head>023</head>
-                <p>(23) Item desponsati ante susceptam benedictionem non condormiant sub pena trium marcarum.</p>
-            </div>
-            <div>
-                <head>024</head>
-                <p>(24) Item si infantes sine baptismo moriuntur, duplicem parentibus penitencia, que alias pro oppressione infantis sueuit inponi, et duabus vel tribus carenis expletis introducantur in ecclesiam.  Item oppressores infancium coniugati post vnam expletam, nisi fuerint in lata culpa, introducantur, soluti non nisi post II carenas.</p>
-            </div>
-            <div>
-                <head>explicit</head>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Nota articulos confirmatos in consilio provinciali Arbogensi oppido Anno domini M°CD°XII die exaltacione [1] sancte crucis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) Primo quod procuracio episcopalis agatur secundum statuta sabinensia.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Item quod curati vel sacerdotes possint describere bona sua in extremis secundum suum arbitrium.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) Item omnes clerici tenentur respicere ecclesiam cathedralem in extremis cum testamento.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) Item decime dabuntur de omni acquisitione humana.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) Itera VII domus edificabuntur in fundo presbiterali per parochianos.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>(6) Item omnes decime inferuntur infra festum purificacionis sub pena trium marcarum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>(7) Item nullus rusticorum presumat transferre aliqua mercimonia ad ciuitates diebus festiuis priusquam summa missa finita nisi commensalia sub pena trium marcarum; similiter mercatores opellas suas seu institutores exercentes mercaturas eadem pena puniantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>(8) Item annonie non admittantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>(9) Item familia sacerdotum non exponat tributum dictum mordhgiaeldh.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>(10) Item omnes curati exponant decimas annuales secundum taxam ecclesiarum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>(11) Item curati habentes duas ecclesias celebrent vicissim diebus dominicis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>(12) Item concubinis presbiterorum publice inponitur publica penitencia cum pena pecuniaria.</p>
+                    <p>Clerici vero incarcerantur, ut desistant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>(13) Item prefecti non subleuant regales reatus de colonis ecclesie, sed episcopus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>(14) Item domus edificate in cimiteriis post mortem edificantis cedant ecclesiis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>(15) Item coloni ecclesie non dabunt pelles lupinas vel penam pro illis aut procuracionem pro placitis eorum tenendis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>(16) Item diebus festiuis, dum pixis portatur ad altare, cantabuntur memorie scilicet de cruce, de virgine et pro defunctis, pro quibus memoriis dominus archiepiscopus contulit XL:a dies indulgentiarum, dyocesanus vero totidem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 17</head>
+                    <p>(17) Item fornicatores [2] et fornicatrices inponitur pena pecuniaria Sz III marce.</p>
+                    <p>Et si non desistant eliminantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18</head>
+                    <p>(18) Item prepositi rurales et curati scolares extra tempora debita sine litteris vel contra litterarum tenorem euagantes arrestent, Et res earum viciniori rectori scolarum assignent pauperibus scolaribus erogantes.</p>
+                </div>
+                <div>
+                    <head>Capitulum 19</head>
+                    <p>(19) Item casus papales et episcopales et casus, in quibus excuminicacio [3] per iura et statuta incurritur, per publica descripta in cathedralibus ecclesiis habeantur, quos eciam quilibet curatus habeat, sciens quod nullo casu preterquam in mortis articulo auctoritatem habeat absoluendi.</p>
+                </div>
+                <div>
+                    <head>Capitulum 20</head>
+                    <p>(20) Item consilium dampnauit et reprobauit omnes sortilegos, incantatores, diuinatores et sumpniorum interpretatores et quascunque litteras et scripturas cum characteribus et vocabulorum ignotorum in sacra scriptura non expressorum inscripcionibus, quas supersticiose contra ignem, aquam et gladium Et alia mortis et morborum pericula.</p>
+                    <p>Item omnes scripturas in plumbo oblacionibus et [4] parietibus contra dolorem dencium et febrium et alias quascunque hominum vel jumentorum.</p>
+                    <p>Item omnes modos, quibus vtuntur homines occulta furta quomodo inuestigantur.</p>
+                    <p>Item obseruaciones dierum egypciacarum pro inchoacione operum et alia huiusmodi deliramenta, que plene non possunt explicari que si quis inuentus fuerit agere, scribere, vti vel portare, tamquam pro graui puniatur.</p>
+                    <p>Et si ea tamquam licita defenderet, ab ingressu ecclesie suspensus publica penitencia puniatur cum pena trium marcarum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 21</head>
+                    <p>(21) Item declarauit dictum consilium quod nullum laycorum habere auctoritatem super ecclesiastica iudicandas, ymmo omnia judicia contra ecclesiam in bonorum suorum abjudicacionibus per solos laycos attemptata dicimus, diffinimus iure canonico esse nullam, protestamurque publice in hiis scriptis quod quamuis propter defectum iusticie et raritatem placitorum regalium in hoc regno super bonorum ecclesiasticorum abjudicacionibus per solos laycos attemptatos huc vsque tacuimus.</p>
+                    <p>Nequaquam tamen per huius modi taciturnitatem incidimus huius modi judiciis, In quantum iuri canonico et libertati ecclesie sunt contraria, consentire vel ea quomodolibet approbare Sed oportuno tempore judicibus competentibus inventis occurrere volumus huius modi judiciis sic vt premittetur attemptatis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 22</head>
+                    <p>(22) Item aduene et ignoti non admittantur ad contrahendum matrimonia, nisi constet per testes vel litteras euidenter quod sint soluti.</p>
+                    <p>Sacerdotes qui tales benedixerunt, tribus marcis puniantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 23</head>
+                    <p>(23) Item desponsati ante susceptam benedictionem non condormiant sub pena trium marcarum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 24</head>
+                    <p>(24) Item si infantes sine baptismo moriuntur, duplicem parentibus penitencia, que alias pro oppressione infantis sueuit inponi, et duabus vel tribus carenis expletis introducantur in ecclesiam.  Item oppressores infancium coniugati post vnam expletam, nisi fuerint in lata culpa, introducantur, soluti non nisi post II carenas.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] [!] inserted here</p>
+                    <p>[2] [!] inserted here</p>
+                    <p>[3] [!] inserted here</p>
+                    <p>[4] [?] inserted here</p>
+                </div>
             </div>
         </body>
     </text>

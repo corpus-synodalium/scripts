@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 1974</recordID>
+                <title>Chartres (#1974)</title>
+                <recordID>1974</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate precision="circa">1350</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Chartres</origPlace>
                 <diocese>Chartres</diocese>
                 <province>Sens</province>
-                <country/>
+                <country>France</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Diocesan</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,93 +55,132 @@
     <text>
         <body>
             <div>
-                <head>incipit</head>
+                <head>Metadata</head>
+                <p>RecordID: 1974</p>
+                <p>Year: 1350</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: Yes</p>
+                <p>DatingNotes: copied 1368</p>
+                <p>Place: Chartres</p>
+                <p>Diocese: Chartres</p>
+                <p>Province: Sens</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 48.455847</p>
+                <p>Longitude: 1.484184</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Martene, Vet Script, 7, coll 1367-69</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Data Capture']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: Copy made in 1368 by J. Jacquelin</p>
+                <p>BiblioRefs: None</p>
             </div>
             <div>
-                <head>001</head>
-                <p>(1) PRaecipimus ut antequam verba sacrosancta, quibus virtus sacramenti consistit, scilicet Hoc est corpus meum, completa fuerint et finita, non ita elevetur hostia, ut a populo videatur, ne forte purus panis a populo adoretur.</p>
-            </div>
-            <div>
-                <head>002</head>
-                <p>(2) Ut nulli permittatur clerico altari deservire, nisi in superpelliciis vel cappa clausa.</p>
-            </div>
-            <div>
-                <head>003</head>
-                <p>(3) Ut nullus sacerdos antequam matutinas dixerit canonicas et primam, missam celebrare praesumat.</p>
-            </div>
-            <div>
-                <head>004</head>
-                <p>(4) Ut in altari in quo tabula mota fuerit vel fracta non celebretur, nec super lapidem sine capsa.</p>
-            </div>
-            <div>
-                <head>005</head>
-                <p>(5) Ut dicant tantummodo praefationes in canone expressas, scilicet de Nativitate, Apparitione, jejunio, Resurrectione, Ascensione, Pentecoste, sanctissima et individua Trinitate, S. Cruce, B. apostolis et de B. Virtine MARIA.</p>
-            </div>
-            <div>
-                <head>006</head>
-                <p>(6) Ut matrimonium cum reverentia celebretur, et nonnisi statutis temporibus, et praemissis tribus edictis in tribus festivis diebus, in quibus perquirant presbyteri sub excommunicatione a populo de legitimatione sponsi et sponsae.</p>
-                <p>Et si legitimi inveniantur, conjungantur sine alia licentia vel expectatione, propter pericula quae contingunt multiplicia.</p>
-            </div>
-            <div>
-                <head>007</head>
-                <p>(7) Prohibemus, ne principales personae quae contrahere debent matrimonium, aliquam fidem dent vel juramentum interponant de contrahendo matrimonio sine sacerdote: et sacerdos qui praesents fuerit caveat et prohibeat, ne ibi consensus vel verba super matrimonium interveniant, nisi de futuro, donec bannis factis, veniant ad portam ecclesiae ad matrimonium perficiendum; quod si aliter fecerint, suspendantur.</p>
-                <p>Et recepturi nuptialem benedictionem prius confiteantur peccata sua, tam sponsus quam sponsa, et semper in nuptiis prohibeantur sortilegia fieri.</p>
-            </div>
-            <div>
-                <head>008</head>
-                <p>(8) Ut nullus sacerdos audeat aliquid exigere ante benedictionem nuptiarum, sed celebrata benedictione ferculum recipiat, et exigat post si necesse fuerit.</p>
-            </div>
-            <div>
-                <head>009</head>
-                <p>(9) Ut cum summa reverentia sanctum oleum deferatur ad infirmos, et nihil pro mercede exigatur, sed gratis datum recipi potest.</p>
-            </div>
-            <div>
-                <head>010</head>
-                <p>(10) Ut sacerdos ad sacramentum extremae-unctionis omnes praecipue moneat a XIV. annis et supra, et doceat quod hoc sacramentum iterari potest saepe in omni magna infirmitate, et quod post susceptionem potest rediri ad commercium conjugale, et ad officia saecularia.</p>
-            </div>
-            <div>
-                <head>011</head>
-                <p>(11) Excommunicentur singulis Dominicis diebus qui docent et faciunt sortilegia et usurarii.</p>
-            </div>
-            <div>
-                <head>012</head>
-                <p>(12) Praecipitur publice in ecclesiis, ut omnes conjugati, et alii in competenti aetate constituti jejunii diebus jejunent, alioquin nisi se rationabiliter excusaverint, puniantur.</p>
-            </div>
-            <div>
-                <head>013</head>
-                <p>(13) De confessionibus sacerdotum, curatorum, et aliorum clericum, scilicet in quocumque decanatu, statuantur unus vel duo presbyteri discreti quibus confiteantur, cum non possint omnes episcopo confiteri.</p>
-                <p>Illi tamen non absolvant de casibus episcopo reservatis.</p>
-            </div>
-            <div>
-                <head>014</head>
-                <p>(14) Ut omnes parochiani diebus Dominicis a missa parochiali se non absentent: et si hoc in consuetudine habuerint, et bis vel ter admoniti se non emendaverint, interdicantur.</p>
-            </div>
-            <div>
-                <head>015</head>
-                <p>(15) In tabernis vero diebus Dominicis et festivis ante missam parochialem non admittantur, nisi transeuntes.</p>
-            </div>
-            <div>
-                <head>016</head>
-                <p>(16) Presbyteri quam cito scierint aliquem decessisse intestatum, significent decanis et archidiaconis, et decani episcopo vel archidiacono bis in anno, seu in festivis diebus Pentecostes et in synodo.</p>
-            </div>
-            <div>
-                <head>017</head>
-                <p>(17) Habeatur in qualibet parochiali ecclesia sigillum, in quo hoc solum contineatur: Sigillum presbyteri de tali loco, et nominet locum et nomen presbyteri, et apponat sigillum suum in litteris, quae ex parte episcopi vel archidiaconi mittentur in testimonium et certificationem quod litteras receperit, et mandatum fecerit; alias sigillum non apponat.</p>
-            </div>
-            <div>
-                <head>018</head>
-                <p>(18) Licet sacerdos imminente mortis articulo parochianos suos excommunicatos juxta formam ecclesiae possit absolvere, ut non parvipendatur censura ecclesiastica, quae consuevit a pluribus vilipendi, statuimus ut omnes excommunicati per nos aut officialem nostrum, seu alios ordinarios nostrae dioecesis post mortem, licet, sicut praemittitur, dum vivebant fuerint absoluti, nullatenus tradantur ecclesiasticae sepulturae, absque suorum excommunicantium mandato seu licentia speciali.</p>
-            </div>
-            <div>
-                <head>019</head>
-                <p>(19) Cum plures sint capellae infra fines parochiarum, quae tantum distant a parochialibus ecclesiis, quod tempore hiemis pluviis inundantibus, in Dominicis et aliis diebus non possunt parochiani sine magna difficultate in sua parochia congruo tempore divinis interesse; statuimus quod capellani ibidem deservientes, statuta synodalia habeant, et publicent, quibus continget eos divinum officium celebrare sub poena praedicta, et in capellis existentibus in villis nullatenus publice celebretur diebus Dominicis et festivis, donec parochialis sacerdos praecepta denuntiaverit, ut moris est.</p>
-            </div>
-            <div>
-                <head>020</head>
-                <p>(20) Praecipimus sub poena excommunicationis, quam ferimus, ne saeculares judices in ecclesiis, cimiteriis, aut aliis locis de cetero sua placita teneant, cum frequenter contingat ibidem causas sanguinis agitari, et absurdum sit crudele ibi judicium exerceri, ubi est tutela refugii constituta.</p>
-            </div>
-            <div>
-                <head>explicit</head>
+                <head>Text</head>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) PRaecipimus ut antequam verba sacrosancta, quibus virtus sacramenti consistit, scilicet Hoc est corpus meum, completa fuerint et finita, non ita elevetur hostia, ut a populo videatur, ne forte purus panis a populo adoretur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Ut nulli permittatur clerico altari deservire, nisi in superpelliciis vel cappa clausa.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) Ut nullus sacerdos antequam matutinas dixerit canonicas et primam, missam celebrare praesumat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) Ut in altari in quo tabula mota fuerit vel fracta non celebretur, nec super lapidem sine capsa.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) Ut dicant tantummodo praefationes in canone expressas, scilicet de Nativitate, Apparitione, jejunio, Resurrectione, Ascensione, Pentecoste, sanctissima et individua Trinitate, S. Cruce, B. apostolis et de B. Virtine MARIA.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>(6) Ut matrimonium cum reverentia celebretur, et nonnisi statutis temporibus, et praemissis tribus edictis in tribus festivis diebus, in quibus perquirant presbyteri sub excommunicatione a populo de legitimatione sponsi et sponsae.</p>
+                    <p>Et si legitimi inveniantur, conjungantur sine alia licentia vel expectatione, propter pericula quae contingunt multiplicia.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>(7) Prohibemus, ne principales personae quae contrahere debent matrimonium, aliquam fidem dent vel juramentum interponant de contrahendo matrimonio sine sacerdote: et sacerdos qui praesents fuerit caveat et prohibeat, ne ibi consensus vel verba super matrimonium interveniant, nisi de futuro, donec bannis factis, veniant ad portam ecclesiae ad matrimonium perficiendum; quod si aliter fecerint, suspendantur.</p>
+                    <p>Et recepturi nuptialem benedictionem prius confiteantur peccata sua, tam sponsus quam sponsa, et semper in nuptiis prohibeantur sortilegia fieri.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>(8) Ut nullus sacerdos audeat aliquid exigere ante benedictionem nuptiarum, sed celebrata benedictione ferculum recipiat, et exigat post si necesse fuerit.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>(9) Ut cum summa reverentia sanctum oleum deferatur ad infirmos, et nihil pro mercede exigatur, sed gratis datum recipi potest.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>(10) Ut sacerdos ad sacramentum extremae-unctionis omnes praecipue moneat a XIV. annis et supra, et doceat quod hoc sacramentum iterari potest saepe in omni magna infirmitate, et quod post susceptionem potest rediri ad commercium conjugale, et ad officia saecularia.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>(11) Excommunicentur singulis Dominicis diebus qui docent et faciunt sortilegia et usurarii.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>(12) Praecipitur publice in ecclesiis, ut omnes conjugati, et alii in competenti aetate constituti jejunii diebus jejunent, alioquin nisi se rationabiliter excusaverint, puniantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>(13) De confessionibus sacerdotum, curatorum, et aliorum clericum, scilicet in quocumque decanatu, statuantur unus vel duo presbyteri discreti quibus confiteantur, cum non possint omnes episcopo confiteri.</p>
+                    <p>Illi tamen non absolvant de casibus episcopo reservatis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>(14) Ut omnes parochiani diebus Dominicis a missa parochiali se non absentent: et si hoc in consuetudine habuerint, et bis vel ter admoniti se non emendaverint, interdicantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>(15) In tabernis vero diebus Dominicis et festivis ante missam parochialem non admittantur, nisi transeuntes.</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>(16) Presbyteri quam cito scierint aliquem decessisse intestatum, significent decanis et archidiaconis, et decani episcopo vel archidiacono bis in anno, seu in festivis diebus Pentecostes et in synodo.</p>
+                </div>
+                <div>
+                    <head>Capitulum 17</head>
+                    <p>(17) Habeatur in qualibet parochiali ecclesia sigillum, in quo hoc solum contineatur: Sigillum presbyteri de tali loco, et nominet locum et nomen presbyteri, et apponat sigillum suum in litteris, quae ex parte episcopi vel archidiaconi mittentur in testimonium et certificationem quod litteras receperit, et mandatum fecerit; alias sigillum non apponat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18</head>
+                    <p>(18) Licet sacerdos imminente mortis articulo parochianos suos excommunicatos juxta formam ecclesiae possit absolvere, ut non parvipendatur censura ecclesiastica, quae consuevit a pluribus vilipendi, statuimus ut omnes excommunicati per nos aut officialem nostrum, seu alios ordinarios nostrae dioecesis post mortem, licet, sicut praemittitur, dum vivebant fuerint absoluti, nullatenus tradantur ecclesiasticae sepulturae, absque suorum excommunicantium mandato seu licentia speciali.</p>
+                </div>
+                <div>
+                    <head>Capitulum 19</head>
+                    <p>(19) Cum plures sint capellae infra fines parochiarum, quae tantum distant a parochialibus ecclesiis, quod tempore hiemis pluviis inundantibus, in Dominicis et aliis diebus non possunt parochiani sine magna difficultate in sua parochia congruo tempore divinis interesse; statuimus quod capellani ibidem deservientes, statuta synodalia habeant, et publicent, quibus continget eos divinum officium celebrare sub poena praedicta, et in capellis existentibus in villis nullatenus publice celebretur diebus Dominicis et festivis, donec parochialis sacerdos praecepta denuntiaverit, ut moris est.</p>
+                </div>
+                <div>
+                    <head>Capitulum 20</head>
+                    <p>(20) Praecipimus sub poena excommunicationis, quam ferimus, ne saeculares judices in ecclesiis, cimiteriis, aut aliis locis de cetero sua placita teneant, cum frequenter contingat ibidem causas sanguinis agitari, et absurdum sit crudele ibi judicium exerceri, ubi est tutela refugii constituta.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
             </div>
         </body>
     </text>

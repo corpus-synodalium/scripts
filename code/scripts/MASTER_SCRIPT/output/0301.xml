@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 0301</recordID>
+                <title>Lodi (#0301)</title>
+                <recordID>0301</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate precision="circa">1229-05-21</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Lodi</origPlace>
                 <diocese>Lodi</diocese>
                 <province>Lombardy</province>
-                <country/>
+                <country>Italy</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Legatine</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,128 +55,173 @@
     <text>
         <body>
             <div>
-                <head>incipit</head>
-                <p>VEnerabili in Christo Patri Dei gratia Mediolan.</p>
-                <p>Archiepiscopo Guifredus miseratione divina tituli Sancti Mauritii Presbyter Cardinalis Apostolicae Sedis Legatus salutem in Domino.</p>
-                <p>Destinati a Summo Pontifice ad Provinciam Lombardiae pro animarum salute conservanda, Ecclesiastica libertate, vita et honestate Clericorum reformanda, et exstirpanda haeretica pravitate ad laudem, et honorem nominis Christiani, praesentibus nobis, et venerabilibus Patribus Placentino, Vercellensi, Cremonensi, Pergamensi, Novariensi, Terdonensi, Saonensi, Iporiensi, Laudensi, Taurinensi, et Vigintimiliensi Episcopis, et aliis Ecclesiarum Praelatis apud Laude ad hoc specialiter convocatis.</p>
+                <head>Metadata</head>
+                <p>RecordID: 301</p>
+                <p>Year: 1229</p>
+                <p>Month: 5</p>
+                <p>Day: 21</p>
+                <p>Circa: Yes</p>
+                <p>DatingNotes: 1228x1229; dated 1287 in Mansi</p>
+                <p>Place: Lodi</p>
+                <p>Diocese: Lodi</p>
+                <p>Province: Lombardy</p>
+                <p>CountryModern: Italy</p>
+                <p>Latitude: 45.316667</p>
+                <p>Longitude: 9.5</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Legatine</p>
+                <p>IssuingAuthority: Enrico di Settala</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1213</p>
+                <p>RegnalEnd: 1230</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: councli held by Goffredo di Castiglione, apostolic legate in Lombardy (late Pope Celestine IV); statutes then issued by Enrico di Settala, AB of Milan</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Mansi 24, Col 882-86</p>
+                <p>EditionOther: Muratori, RIS, 8, cols. 1065-1068</p>
+                <p>SourceNotes: Mansi edition taken from Muratori: https://archive.org/stream/RerumItalicarumScriptores8/Rerum_Italicarum_Scriptores_8#page/n585/mode/2up</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Data Capture']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
             </div>
             <div>
-                <head>001</head>
-                <p>(1) De Statutis Civitatum contra Ecclesiasticam libertatem.</p>
-                <p>ORdinamus, ut omnia Statuta praecepta, et banna, quae per Potestates, seu Rectores, Consulesve Laicorum facta sunt, vel fiunt contra Deum, et Ecclesiasticam libertatem, ac personas Ecclesiasticas, atque contra Statutum, et honorem Ecclesiarum, sint irrita ipso jure.</p>
-                <p>Atque statuendo praecipimus, ut dicti Potestates, atque Rectores ea de Capitularibus suis abradant; et ca, vel illis similia non scribant ibi, seu scribi permittant; nec utantur eisdem, aut similibus, quantumcumque adstrinxerint se vinculo juramenti, quia juramenta de illis servandis illicita sunt, et ideo non servanda.</p>
-                <p>Quod si secundum ea aliquid subditis suis praeceperint, subditi nullatenus eis obediant, etiam juramento adstricti.</p>
-                <p>Transgressores autem, sive Rectores, sive subditi fuerint, ipso jure vinculum excommunicationis incurrant secundum tenorem generalis Constitutionis felicis recordationis Honorii Papae, et nec eorum filii, vel nepotes de cetero ad Ecclesiasticum beneficium assumantur.</p>
-                <p>Quod si assumti fuerint, illo careant, et assumtores conferendi potestate priventur.</p>
-            </div>
-            <div>
-                <head>002</head>
-                <p>(2) Quod Statuta contra libertatem Ecclesiae non serventur.</p>
-                <p>Item statuimus, ut quodlibet Commune teneatur ponere in suo Statutario, quod si aliquod Statutum contra praedicta ibi sit, vel ponatur, illud teneatur juramento non servare; et si suspicio sit, ne aliquid contra praedicta in eo contineatur, Librum Statutorum, et Statuta sua ostendant frequenter Episcopo, vel ejus Nuntio, et copiam legendi faciant omni anno, et ad monitionem emendent Episcopi.</p>
-                <p>Quod si non fecerint, postquam per Episcopos admoniti fuerint, poenam excommunicationis incurrant.</p>
-                <p>Item provisiones, quas Civitatum et locorum Rectores recipiunt super eo, quod si pro iniquis Statutis, vel praeceptis, quae faciunt, excommunicati fuerint, vel damna incurrerint, omnino serventur indemnes, penitus irritamus, et cassamus, et eas decernimus irritas et inanes, et qui eas receperint, poenam excommunicationis incurrant.</p>
-            </div>
-            <div>
-                <head>003</head>
-                <p>(3) Quod nullus usurpet bona Ecclesiastica.</p>
-                <p>Item Potestates, locorumque Rectores non extendant manus ad extirpandam Jurisdictionem in locis, vel terris, seu personis, quae ad Episcopos pertinent, vel etiam ad Ecclesias pleno jure.</p>
-                <p>Et qui contra fecerint, nisi admoniti resipuerint intra decem dies, poenam excommunicationis incurrant.</p>
-            </div>
-            <div>
-                <head>004</head>
-                <p>(4) Quod Statuta contra Haereticos observentur.</p>
-                <p>Statuta quaeque edita in Concilio generali Lateranensi, et leges promulgatas a Frederico Imperatore pro libertate Ecclesiae, vel contra haereticam pravitatem, praecipimus inviolabiliter observari.</p>
-            </div>
-            <div>
-                <head>005</head>
-                <p>(5) Quod nullus stet excommunicatus per annum.</p>
-                <p>Item statuimus, quod si aliquis contumaciter Clericus, vel Laicus in excommunicatione perduraverit per annum, quod Potestas ad requisitionem Episcopi ipsum bannire teneatur banno maleficii.</p>
-            </div>
-            <div>
-                <head>006</head>
-                <p>(6) Quod Conventuales communiter vivant.</p>
-                <p>De vita et honestate Clericorum statuimus, ut in omnibus Conventualibus Ecclesiis, nisi magna necessitate coacti ab Episcopo approbata hoc non possint, vivant Clerici in communi.</p>
-                <p>Alioquin tertia pars redituum sequestretur ad minus, dividenda singulis diebus inter eos tantum, qui interfuerint Divinis Officiis, et pro hospitibus recipiendis, et eleemosynis largiendis.</p>
-                <p>Ad hoc per Episcopos censura Ecclesiastica compellantur.</p>
-            </div>
-            <div>
-                <head>007</head>
-                <p>(7) Quod quilibet Hebdomadarius faciat suam septimanam.</p>
-                <p>Suam septimanam Hebdomadarius per se, vel per alium facere teneatur.</p>
-                <p>Alioquin per mensem beneficio sit suspensus, salvis consuetudinibus eorum, qui sunt in personatibus, et illorum, qui sunt Episcoporum, vel Ecclesiae servitio occupati.</p>
-            </div>
-            <div>
-                <head>008</head>
-                <p>(8) De Clericis concubinariis.</p>
-                <p>Clerici concubinarii foeminas suas infra octo dies post admonitionem abjiciant, et eas a cohabitatione abjurent, nec filios secum teneant; et qui contra fecerit, sententiam excommunicationis incurrat; quam si contemserint, ipso jure priventur beneficio.</p>
-            </div>
-            <div>
-                <head>009</head>
-                <p>(9) Quod Statuta de honestate Clericorum observentur.</p>
-                <p>Et praecipimus Episcopis, et aliis Ecclesiarum Praelatis, ut constitutiones editas super vita et honestate Clericorum servent, et faciant in suis Ecclesiis inviolabiliter observari.</p>
-            </div>
-            <div>
-                <head>010</head>
-                <p>(10) Quod Clerici intendant circa ornatum Ecclesiae.</p>
-                <p>Monachi Sancti Benedicti, et Canonici Regulares Regulam Sancti Augustini observent, et suas institutiones per Ecclesiam approbatas.</p>
-                <p>Circa ornamentum Ecclesiae intendant; tam in his, quam circa Altaria exerceantur, quam in aliis.</p>
-            </div>
-            <div>
-                <head>011</head>
-                <p>(11) De custodia et reverentia Corporis Christi.</p>
-                <p>Corpus autem Domini cum omni custodia si reservari contigerit, in purissimo loco reponatur, et in elevatione campanae pulsentur.</p>
-                <p>Et si per Civitatem portetur, vel Villam, portans cum stola ad collum incedat, et portet honeste.</p>
-                <p>Et qui contra fecerit, tribus diebus Veneris in pane et in aqua jejunet.</p>
-            </div>
-            <div>
-                <head>012</head>
-                <p>(12) Quod nullus teneat duo beneficia.</p>
-                <p>Item statuimus et ordinamus, quod nullus de cetero in eadem Civitate, vel Plebe, seu Plebanatu, nisi Cappellae sint tenues in reditibus, vel annexae Plebi, duo beneficia obtineat; et si qui habuerint, eligant quod maluerint infra mensem.</p>
-                <p>Qui si retinere praesumserint, noverint se vinculo excommunicationis adstrictos.</p>
-            </div>
-            <div>
-                <head>013</head>
-                <p>(13) Quod promulgata in Lateranensi Concilio observentur.</p>
-                <p>De Ecclesiis Parochialibus, et dignitatibus Ecclesiasticis districte praecipimus ab Episcopis, et aliis Praelatis, et subditis observari, quae in Lateranensi et generali Concilio statuuntur.</p>
-            </div>
-            <div>
-                <head>014</head>
-                <p>(14) Quod res Ecclesiasticae non possint alienari.</p>
-                <p>Praelati quoque, et Ministri Ecclesiarum juramento adstringantur per Episcopum, vel suum majorem Praelatum, thesaurum Ecclesiae, vel res immobiles, absque licentia Episcopi, vel sui superioris alienare non posse.</p>
-            </div>
-            <div>
-                <head>015</head>
-                <p>(15) Quales debeant eligi in Sacerdotes.</p>
-                <p>Item statuimus, quod non possit eligi aliquis, vel institui in loco, vel beneficio Sacerdotis, nisi sit Sacerdos, vel talis, qui in proximo velit et possit fieri Sacerdos, vel nisi aliquis ex Clericis ipsius Ecclesiae sit, qui velit, et possit fieri Sacerdos.</p>
-                <p>Et si aliter factum fuerit, ex nunc cassamus; et contrafacientes poenam suspensionis incurrant; quam si contemserint, excommunicentur.</p>
-                <p>Si autem Ecclesia ita tenuis sit in facultatibus, quod ibi non possit esse Sacerdos, et hoc sit in provisione Episcopi: ille, qui percepit proventus Ecclesiae ipsius, tantum teneatur dare vicino Sacerdoti, ut congruis temporibus ibi deserviatur.</p>
-                <p>Alioquin privetur beneficio.</p>
-                <p>Praelati Ecclesiarum cogantur ad Sacerdotium, et si inobedientes fuerint suspendantur.</p>
-                <p>Quod si contemserint, excommunicentur.</p>
-            </div>
-            <div>
-                <head>016</head>
-                <p>(16) De Usurariis quomodo sepeliantur.</p>
-                <p>De Usurariis statuimus, quod nisi ad poenitentiam venientes steterint mandatis Ecclesiae de usuris restituendis, in Cimiterio non sepeliantur.</p>
-                <p>Et si forte sepulti fuerint, quousque ibi remanserint, in Ecclesia non celebretur.</p>
-                <p>Et si possent commode inveniri hi, a quibus usuras habuerunt, stipulentur sibi restitutionem fieri.</p>
-                <p>Alioquin Presbyter recipiat cautionem, et poenitentes haeredes damnet de restitutione facienda, et inde teneantur sacramento.</p>
-            </div>
-            <div>
-                <head>017</head>
-                <p>(17) Qui debeat absolvere excommunicatos.</p>
-                <p>Et volumus, nisi ubi specialiter prohibetur, per Episcopos posse absolvi excommunicatos, et interdictos.</p>
-            </div>
-            <div>
-                <head>018</head>
-                <p>(18) Quod nullus recipiat Usurarios ad sepulturam.</p>
-                <p>Interdicimus autem Templariis, et Hospitalariis, et aliis exemptis, ne publicos Usurarios ad Ecclesiasticas sepulturas admittant, nec interdictos, vel excommunicatos ad Divina Officia, vel sepulturas, nec Parochianos alienos ad Sacramenta.</p>
-                <p>Et si admoniti per Episcopum contra praedicta venire praesumpserint, poenam suspensionis incurrant, salvis privilegiis ipsorum, quibus exhibitis legitime se defendant.</p>
-                <p>Ideoque caritati vestrae in virtute obedientiae, qua fungimur auctoritate, districte praecipiendo mandamus, quatenus praedicta omnia solemniter publicantes, eadem et vos ipsi observetis, et faciatis inviolabiliter observari, ita quod in novissimo districti examinis die coram tremendo Judice, qui reddit unicuique secundum opera sua, dignam possitis reddere rationem.</p>
-            </div>
-            <div>
-                <head>explicit</head>
-                <p>Datum Laude XII. Kal. Junii.</p>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>VEnerabili in Christo Patri Dei gratia Mediolan.</p>
+                    <p>Archiepiscopo Guifredus miseratione divina tituli Sancti Mauritii Presbyter Cardinalis Apostolicae Sedis Legatus salutem in Domino.</p>
+                    <p>Destinati a Summo Pontifice ad Provinciam Lombardiae pro animarum salute conservanda, Ecclesiastica libertate, vita et honestate Clericorum reformanda, et exstirpanda haeretica pravitate ad laudem, et honorem nominis Christiani, praesentibus nobis, et venerabilibus Patribus Placentino, Vercellensi, Cremonensi, Pergamensi, Novariensi, Terdonensi, Saonensi, Iporiensi, Laudensi, Taurinensi, et Vigintimiliensi Episcopis, et aliis Ecclesiarum Praelatis apud Laude ad hoc specialiter convocatis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) De Statutis Civitatum contra Ecclesiasticam libertatem.</p>
+                    <p>ORdinamus, ut omnia Statuta praecepta, et banna, quae per Potestates, seu Rectores, Consulesve Laicorum facta sunt, vel fiunt contra Deum, et Ecclesiasticam libertatem, ac personas Ecclesiasticas, atque contra Statutum, et honorem Ecclesiarum, sint irrita ipso jure.</p>
+                    <p>Atque statuendo praecipimus, ut dicti Potestates, atque Rectores ea de Capitularibus suis abradant; et ca, vel illis similia non scribant ibi, seu scribi permittant; nec utantur eisdem, aut similibus, quantumcumque adstrinxerint se vinculo juramenti, quia juramenta de illis servandis illicita sunt, et ideo non servanda.</p>
+                    <p>Quod si secundum ea aliquid subditis suis praeceperint, subditi nullatenus eis obediant, etiam juramento adstricti.</p>
+                    <p>Transgressores autem, sive Rectores, sive subditi fuerint, ipso jure vinculum excommunicationis incurrant secundum tenorem generalis Constitutionis felicis recordationis Honorii Papae, et nec eorum filii, vel nepotes de cetero ad Ecclesiasticum beneficium assumantur.</p>
+                    <p>Quod si assumti fuerint, illo careant, et assumtores conferendi potestate priventur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Quod Statuta contra libertatem Ecclesiae non serventur.</p>
+                    <p>Item statuimus, ut quodlibet Commune teneatur ponere in suo Statutario, quod si aliquod Statutum contra praedicta ibi sit, vel ponatur, illud teneatur juramento non servare; et si suspicio sit, ne aliquid contra praedicta in eo contineatur, Librum Statutorum, et Statuta sua ostendant frequenter Episcopo, vel ejus Nuntio, et copiam legendi faciant omni anno, et ad monitionem emendent Episcopi.</p>
+                    <p>Quod si non fecerint, postquam per Episcopos admoniti fuerint, poenam excommunicationis incurrant.</p>
+                    <p>Item provisiones, quas Civitatum et locorum Rectores recipiunt super eo, quod si pro iniquis Statutis, vel praeceptis, quae faciunt, excommunicati fuerint, vel damna incurrerint, omnino serventur indemnes, penitus irritamus, et cassamus, et eas decernimus irritas et inanes, et qui eas receperint, poenam excommunicationis incurrant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) Quod nullus usurpet bona Ecclesiastica.</p>
+                    <p>Item Potestates, locorumque Rectores non extendant manus ad extirpandam Jurisdictionem in locis, vel terris, seu personis, quae ad Episcopos pertinent, vel etiam ad Ecclesias pleno jure.</p>
+                    <p>Et qui contra fecerint, nisi admoniti resipuerint intra decem dies, poenam excommunicationis incurrant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) Quod Statuta contra Haereticos observentur.</p>
+                    <p>Statuta quaeque edita in Concilio generali Lateranensi, et leges promulgatas a Frederico Imperatore pro libertate Ecclesiae, vel contra haereticam pravitatem, praecipimus inviolabiliter observari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) Quod nullus stet excommunicatus per annum.</p>
+                    <p>Item statuimus, quod si aliquis contumaciter Clericus, vel Laicus in excommunicatione perduraverit per annum, quod Potestas ad requisitionem Episcopi ipsum bannire teneatur banno maleficii.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>(6) Quod Conventuales communiter vivant.</p>
+                    <p>De vita et honestate Clericorum statuimus, ut in omnibus Conventualibus Ecclesiis, nisi magna necessitate coacti ab Episcopo approbata hoc non possint, vivant Clerici in communi.</p>
+                    <p>Alioquin tertia pars redituum sequestretur ad minus, dividenda singulis diebus inter eos tantum, qui interfuerint Divinis Officiis, et pro hospitibus recipiendis, et eleemosynis largiendis.</p>
+                    <p>Ad hoc per Episcopos censura Ecclesiastica compellantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>(7) Quod quilibet Hebdomadarius faciat suam septimanam.</p>
+                    <p>Suam septimanam Hebdomadarius per se, vel per alium facere teneatur.</p>
+                    <p>Alioquin per mensem beneficio sit suspensus, salvis consuetudinibus eorum, qui sunt in personatibus, et illorum, qui sunt Episcoporum, vel Ecclesiae servitio occupati.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>(8) De Clericis concubinariis.</p>
+                    <p>Clerici concubinarii foeminas suas infra octo dies post admonitionem abjiciant, et eas a cohabitatione abjurent, nec filios secum teneant; et qui contra fecerit, sententiam excommunicationis incurrat; quam si contemserint, ipso jure priventur beneficio.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>(9) Quod Statuta de honestate Clericorum observentur.</p>
+                    <p>Et praecipimus Episcopis, et aliis Ecclesiarum Praelatis, ut constitutiones editas super vita et honestate Clericorum servent, et faciant in suis Ecclesiis inviolabiliter observari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>(10) Quod Clerici intendant circa ornatum Ecclesiae.</p>
+                    <p>Monachi Sancti Benedicti, et Canonici Regulares Regulam Sancti Augustini observent, et suas institutiones per Ecclesiam approbatas.</p>
+                    <p>Circa ornamentum Ecclesiae intendant; tam in his, quam circa Altaria exerceantur, quam in aliis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>(11) De custodia et reverentia Corporis Christi.</p>
+                    <p>Corpus autem Domini cum omni custodia si reservari contigerit, in purissimo loco reponatur, et in elevatione campanae pulsentur.</p>
+                    <p>Et si per Civitatem portetur, vel Villam, portans cum stola ad collum incedat, et portet honeste.</p>
+                    <p>Et qui contra fecerit, tribus diebus Veneris in pane et in aqua jejunet.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>(12) Quod nullus teneat duo beneficia.</p>
+                    <p>Item statuimus et ordinamus, quod nullus de cetero in eadem Civitate, vel Plebe, seu Plebanatu, nisi Cappellae sint tenues in reditibus, vel annexae Plebi, duo beneficia obtineat; et si qui habuerint, eligant quod maluerint infra mensem.</p>
+                    <p>Qui si retinere praesumserint, noverint se vinculo excommunicationis adstrictos.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>(13) Quod promulgata in Lateranensi Concilio observentur.</p>
+                    <p>De Ecclesiis Parochialibus, et dignitatibus Ecclesiasticis districte praecipimus ab Episcopis, et aliis Praelatis, et subditis observari, quae in Lateranensi et generali Concilio statuuntur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>(14) Quod res Ecclesiasticae non possint alienari.</p>
+                    <p>Praelati quoque, et Ministri Ecclesiarum juramento adstringantur per Episcopum, vel suum majorem Praelatum, thesaurum Ecclesiae, vel res immobiles, absque licentia Episcopi, vel sui superioris alienare non posse.</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>(15) Quales debeant eligi in Sacerdotes.</p>
+                    <p>Item statuimus, quod non possit eligi aliquis, vel institui in loco, vel beneficio Sacerdotis, nisi sit Sacerdos, vel talis, qui in proximo velit et possit fieri Sacerdos, vel nisi aliquis ex Clericis ipsius Ecclesiae sit, qui velit, et possit fieri Sacerdos.</p>
+                    <p>Et si aliter factum fuerit, ex nunc cassamus; et contrafacientes poenam suspensionis incurrant; quam si contemserint, excommunicentur.</p>
+                    <p>Si autem Ecclesia ita tenuis sit in facultatibus, quod ibi non possit esse Sacerdos, et hoc sit in provisione Episcopi: ille, qui percepit proventus Ecclesiae ipsius, tantum teneatur dare vicino Sacerdoti, ut congruis temporibus ibi deserviatur.</p>
+                    <p>Alioquin privetur beneficio.</p>
+                    <p>Praelati Ecclesiarum cogantur ad Sacerdotium, et si inobedientes fuerint suspendantur.</p>
+                    <p>Quod si contemserint, excommunicentur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>(16) De Usurariis quomodo sepeliantur.</p>
+                    <p>De Usurariis statuimus, quod nisi ad poenitentiam venientes steterint mandatis Ecclesiae de usuris restituendis, in Cimiterio non sepeliantur.</p>
+                    <p>Et si forte sepulti fuerint, quousque ibi remanserint, in Ecclesia non celebretur.</p>
+                    <p>Et si possent commode inveniri hi, a quibus usuras habuerunt, stipulentur sibi restitutionem fieri.</p>
+                    <p>Alioquin Presbyter recipiat cautionem, et poenitentes haeredes damnet de restitutione facienda, et inde teneantur sacramento.</p>
+                </div>
+                <div>
+                    <head>Capitulum 17</head>
+                    <p>(17) Qui debeat absolvere excommunicatos.</p>
+                    <p>Et volumus, nisi ubi specialiter prohibetur, per Episcopos posse absolvi excommunicatos, et interdictos.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18</head>
+                    <p>(18) Quod nullus recipiat Usurarios ad sepulturam.</p>
+                    <p>Interdicimus autem Templariis, et Hospitalariis, et aliis exemptis, ne publicos Usurarios ad Ecclesiasticas sepulturas admittant, nec interdictos, vel excommunicatos ad Divina Officia, vel sepulturas, nec Parochianos alienos ad Sacramenta.</p>
+                    <p>Et si admoniti per Episcopum contra praedicta venire praesumpserint, poenam suspensionis incurrant, salvis privilegiis ipsorum, quibus exhibitis legitime se defendant.</p>
+                    <p>Ideoque caritati vestrae in virtute obedientiae, qua fungimur auctoritate, districte praecipiendo mandamus, quatenus praedicta omnia solemniter publicantes, eadem et vos ipsi observetis, et faciatis inviolabiliter observari, ita quod in novissimo districti examinis die coram tremendo Judice, qui reddit unicuique secundum opera sua, dignam possitis reddere rationem.</p>
+                </div>
+                <div>
+                    <head>Explicit</head>
+                    <p>Datum Laude XII. Kal. Junii.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
             </div>
         </body>
     </text>

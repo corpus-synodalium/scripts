@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 1097</recordID>
+                <title>Nantes (#1097)</title>
+                <recordID>1097</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate>1320</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Nantes</origPlace>
                 <diocese>Nantes</diocese>
                 <province>Tours</province>
-                <country/>
+                <country>France</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Diocesan</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,145 +55,191 @@
     <text>
         <body>
             <div>
-                <head>incipit</head>
+                <head>Metadata</head>
+                <p>RecordID: 1097</p>
+                <p>Year: 1320</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: date given by Nicolas Travers in his autograph copy of Tours councils (see Pontal repertoire, 317, n3)</p>
+                <p>Place: Nantes</p>
+                <p>Diocese: Nantes</p>
+                <p>Province: Tours</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 47.21806</p>
+                <p>Longitude: -1.55278</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Daniel Vigier</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: Nantes, BM 36, fol. 378 (=Travers, Concilia provinciae Turonensis, III)</p>
+                <p>SourceOther: Paris, BnF fr. 22354, fols 25-31</p>
+                <p>Edition: Martene, Thes, IV, col 953-60</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Data Capture']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
             </div>
             <div>
-                <head>001</head>
-                <p>(1) De legendo quaternum synodale quater in anno.</p>
-                <p>CUm propter ignorantiam sacerdotum, maxime curatorum, multa pericula immineant animabus, ipso Salvatore dicente: Si caecus caecum ducat, etc. omnibus et singulis personis, curatis nobis subditis, et eorum capellanis, tam praesentibus, quam futuris, ut quaternum qui dicitur synodalis, in quo continetur instructio simplicium sacerdotum ab antiquis patribus ordinata, saltem quater in anno studeant, et recordentur ejusdem, perlegendo ipsum ab initio usque ad finem intelligibiliter et distincte, in virtute sanctae obedientiae praecipimus et mandamus temporibus infra scriptis: videlicet, una vice inter synodum sancti Lucae, et Nativitatem Domini; secunda vice infra mediam quadragesimam; tertia vice infra Pentecosten; quarta vice infra sequentem synodem annualem, et sic deinceps singulis annis.</p>
-            </div>
-            <div>
-                <head>002</head>
-                <p>(2) Ne ecclesiae affirmentur sine licentia episcopi.</p>
-                <p>Item, prohibemus, secundum statuta dicti synodalis quaternii, ne aliquis rector parrochialis ecclesiae, aliusve curatus, ecclesiam suam aut vices suas ad annualem firmam committat atque tradat sine nostra speciali licentia, quidquid contra factum fuerit irritum reputantes et inane, sub poena amissionis fructuum illius anni, quorum fructuum dimidiam partem fabricae illius ecclesiae decernimus applicandam; aliam vero in pios usus, ad ordinationem nostram, vel episcopi qui erit pro tempore convertendam.</p>
-                <p>Et ne laico ad firmam tradant, sub poena amissionis illius beneficii, quod sic praesumserit affirmare, penitus inhibemus.</p>
-            </div>
-            <div>
-                <head>003</head>
-                <p>(3) De archidiaconis et decanis.</p>
-                <p>Item, inhibemus ne archidiaconi, vel decani nobis subditi jurisdictionem ecclesiasticam committant clericis conjugatis, ne super hoc vituperetur ministerium nostrum.</p>
-                <p>Nam cum tales, claves ecclesiae non habeant, ipsos constat non posse solvere vel ligare.</p>
-            </div>
-            <div>
-                <head>004</head>
-                <p>(4) Ne monachi serviant ecclesiis sine licentia episcopi.</p>
-                <p>Item, juxta provincialis statuta concilii, prohibemus ne aliquis curatus, pro se substituat aliquem monachum ad deserviendum in his quae ad curam pertinent animarum, sine nostra licentia speciali.</p>
-            </div>
-            <div>
-                <head>005</head>
-                <p>(5) Ut possessiones ecclesiarum in bono statu teneantur.</p>
-                <p>Item, omnes et singulas personas ecclesiasticas beneficiatas publice et in generali monemus, ut domos, vineas, aliaque omnia aedificia, seu aedificimenta quaecumque beneficiorum suorum, in bono et competenti statu teneant, et conservent: alioquin a perceptione fructuum beneficiorum ipsorum noverint se privandos, quousque in statum debitum reponantur.</p>
-            </div>
-            <div>
-                <head>006</head>
-                <p>(6) Ne curati ultra octo dies se absentent ab ecclesiis suis.</p>
-                <p>Item, in virtute sactae obedientiae, omnibus et singulis personis curatis nobis subditis districte praecipimus sub debito juramenti ab eis praestiti super residentia facienda; firmiter injungentes, ne a suis parrochianis, nisi pro necessitate, aut utilitate ipsarum ecclesiarum ultra octo dies continue se absentare praesumant absque nostra licentia speciali, vel talis qui super hoc possit licentiam indulgere: quin immo in ipsis ecclesiis, ut tenentur, studeant personaliter residere, nisi ex causa legitima cum eis et ab eo qui de jure possit super hoc fuerit dispensatum; alioquin tamquam perjuros, et inobedientiae reos se noverint puniendos; et si ultra quindecim dies absentes fuerint a suis ecclesiis sine licentia speciali praedicta, ipsos ex tunc suspendimus a divinis, nisi infra triduum, post quindenam hujus veniam ad episcopum vel ejus vicarium super hoc veniant petituri.</p>
-            </div>
-            <div>
-                <head>007</head>
-                <p>(7) De numero compatrum.</p>
-                <p>Item, cum propter multitudinem patrinorum contra sanctiones canonicas attentatem, et specialiter contra Leonis papae decretum, saepe contingat matrimonia impediri, decenter alias et utiliter conjungenda, et quandoque conjuncta turbari; prohibemus ne baptizandis parvulis, plures personae quam tres ad patrinatum, seu compatrinatum hujusmodi admittantur, nisi fuerint adeo conjunctae personae consanguinitate ad invicem, aut alia ratione parentibus baptizandi, quod non possint aut eorum liberi cum aliqua personarum hujusmodi matrimonialiter jungi.</p>
-            </div>
-            <div>
-                <head>008</head>
-                <p>(8) De vestibus innocentiae reddendis.</p>
-                <p>Item, cum in quibusdam parrochiis albae vestes innocentiae baptismalis, sacro chrismate delinitae, non sine periculo sortilegii, aut avaritiae vitio a parvulorum matribus, soleant retineri, quamvis secundum communem consuetudinem semel oblatae, debeant reddi sacerdotibus, per eosdem divinis officiis applicandae; praecipimus injungi publice in parrochialibus ecclesiis, et indici ut in purificationibus reddantur, et per sacerdotes a parvulorum matribus exigantur: prohibentes eas sub poena excommunicationis humanis usibus applicari.</p>
-            </div>
-            <div>
-                <head>009</head>
-                <p>(9) Ne parvuli cum parentibus jaceant.</p>
-                <p>Item, decretum Stephani papae V. devote et humiliter exequi cupientes, cum ex ejus omissione multa pericula experimento didicerimus evenisse; praecipimus prohiberi sub poena excommunicationis parentibus puerulorum, ne tenellos infantes secum in uno lecto collocent, ne forte interveniente negligentia contingat eos opprimi, et ipsos parentes reos homicidii reputari.</p>
-            </div>
-            <div>
-                <head>010</head>
-                <p>(10) Ut fontes et putei claudantur sepibus.</p>
-                <p>Item, cum multos pueros nuper audiverimus in puteis et fossatis et fontibus cecidisse, et in eis miserabiliter submersos fuisse; praecipimus et mandamus, diebus dominicis praecipi populo et indici, ut fontes, puteos et fossata qui sunt juxta domos eorum faciant circumdari vel claudi sepibus, aut lapidibus, sive lignis, tali modo quod parvuli pueri non possint de facili cadere in eosdem.</p>
-            </div>
-            <div>
-                <head>011</head>
-                <p>(11) Ut ecclesiam cathedralem visitent in anno semel parochiani.</p>
-                <p>Item, cum poenitentibus in confessionibus suis, juxta suorum criminum qualitatem, quandoque soleant variae peregrinationes injungi, quas frequenter ex negligentia, vel impotentia non adimplent; et quamplures personae nostrae dioecesis remota quandoque non approbatorum a sede apostolica sanctorum limina visitare propria voluntate decernunt, suae matris ecclesiae Nannetensis indulgentias, et requiescentes in ea sanctorum reliquias, et congingentia forsitan ignorantes inibi saepe meritis sanctorum miracula; praecipimus omnibus et singulis ecclesiarum parochialium capellanis, ut parochianis suis, et subditis suadeant, consulant, et injungant tam in secretis confessionibus, quam in suis publicis praedicationibus, et exhortationibus, ut praedictam suam matricem ecclesiam Nannetensem in sanctorum Petri et Pauli nomine et honore fundatam, studeant saltem semel in anno cum devotione sincera et reverentia debita visitare: injungentes ut festivitates sanctorum Donatiani et Rogatiani martyrum, qui de civitate Nannatensi nati fuerunt, et beati Clari primi episcopi Nannatensis, absque servili opere, sicut diem dominicam reverenter observent, et significetur eisdem quod in festivitatibus sanctorum dictorum, est indulgentia unius anni et unius quadragenae a domino papa concessa vere poenitentibus, et confessis, visitantibus in illis diebus ecclesiam supradictam.</p>
-            </div>
-            <div>
-                <head>012</head>
-                <p>(12) Ut serviatur capellaniis.</p>
-                <p>Item, cum in nostra civitate et dioecesi multae capellaniae sint fundatae, et pro unius hominis vita singulae sufficienter dotatae fuerint ab initio, prout verisimiliter aestimatur; et nonnulli tales capellanias, et alias obtinentes, nec in eis faciunt deserviri, nec se ad earum titulos ordinari; omnes et singulos capellanias hujusmodi obtinentes, primo, secundo, et tertio, publice et in generali monemus sub poena excommunicationis, ut in eis faciant in spiritualibus deserviri, et temporalia earumdem in bono statu teneri, prout ipsorum beneficiorum lege incumbit omnibus: et se saltem ad sacrum subdiaconatus ordinem promoveri curent infra annum a tempore recepti beneficii; alioquin super hoc contra ipsos ad privationem procedetur, actore Domino, prout de jure fuerit procedendum.</p>
-            </div>
-            <div>
-                <head>013</head>
-                <p>(13) Ut presbyteri deferant super tunicalia clausa.</p>
-                <p>Item, prohibemus omnibus et singulis presbyteris nobis subditis, sub poena suspensionis, ne a festo Nativitatis Domini proxime venturo, mane deferant in publico et patenter fixa supertunicalia, sed clausum habeant superius indumentum colore honestum, nimia brevitate aut longitudine non notandum, sine superfluo et nimio apparatu.</p>
-            </div>
-            <div>
-                <head>014</head>
-                <p>(14) De decem diebus indulgentiarum omnibus qui remanent in missa usque ad ejus finem.</p>
-                <p>Item, indulgentiam decem dierum, concessam a bonae memoriae HENRICO praedecessore nostro, vere poenitentibus et confessis, qui in majori ecclesia Nannatensi et aliis ecclesiis dioecesis et civitatis Nannatensis in missarum celebrationibus, a principio usque ad finem permanserint approbantes; ipsam indulgentiam innovamus, dum tamen ab elevatione sanctae Eucharistiae usque ad elevationem calicis cum sanguine Domini nostri JESU-CHRISTI, steterint flexis genibus humiliter et devote.</p>
-                <p>Caveant autem presbyteri donec perfecte dixerint omnia verba illa: Hic est calix, usque in mei memoriam facietis; non praesumant elevare calicem.</p>
-            </div>
-            <div>
-                <head>015</head>
-                <p>(15) De, Asperges, dicendo.</p>
-                <p>Item, sicut praevaricatores legum divinarum, ita contemtores consuetudinum ecclesiasticarum, sunt merito coercendi; hinc est quod antiquam consuetudinem, quam olim constat introductam, quod singulis diebus dominicis, antequam sacra missarum solemnia inchoentur, sacerdos indutus alba et stola debeat saltem ab intus ecclesiam circumire aqua benedicta, populum aspergendo, et canendo antiphonam Asperges me Domine, cum oratione solita subsequenti, quae incipit, Exaudi nos, etc. districte praecipimus observari, et nullatenus praetermitti: contemtoribus ejus graviter puniendis.</p>
-            </div>
-            <div>
-                <head>016</head>
-                <p>(16) Quod clericus in missa habeat superlicium.</p>
-                <p>Item, statuimus quod dum sacra missarum solemnia celebrantur, clericus qui sacerdoti celebranti ministrat, lineum desuper habeat indumentum quod superlicium dicitur.</p>
-            </div>
-            <div>
-                <head>017</head>
-                <p>(17) De officio defunctorum celebrando.</p>
-                <p>Item, cum sancta sit et salubris cogitatio pro defunctis Dominum exorare; statuimus et firmiter observari mandamus, quatenus singulis diebus dominicis hora vesperarum vel circa, ante vel post vesperas dominicales, dicantur solemniter cum cantu vesperae defunctorum, una cum vigiliis eorumdem, praesertim in locis solemnibus, nisi forte ex causa vigiliae ad matutinum crastinum differantur, et tunc post praedictas vigilias missa pro defunctis cum cantu solemniter celebretur, nisi festum solemne fuerit die lunae, et post missam processionaliter, cum aqua, et cruce, et campanarum pulsatione, ad cimeterium procedatur, orando humiliter et devote pro defunctis, ad devotionem populi excitandam, ut orent et oblationes et eleemosynas faciant pro defunctis suis parentibus et amicis; et hoc diebus dominicis in missa populo intimetur.</p>
-            </div>
-            <div>
-                <head>018</head>
-                <p>(18) Item, statuimus quod singulis diebus dominicis et aliis solemnibus festis missarum solemnia cum matutinis et utrisque vesperis, cum cantu in ecclesia celebrentur, maxime in locis solemnibus, et in quibus parochiani vicini ecclesiae commode, ac de facili possint ipsis horis ecclesiam frequantare.</p>
-            </div>
-            <div>
-                <head>019</head>
-                <p>(19) Item, cum a quibusdam praedecessoribus nostris statutum fuisse dicatur quod ecclesiarum rectores et aliae personae ecclesiasticae possessiones et immobilia quae suis ecclesiis aliisque beneficiis de suo acquirerent, acquisita hujusmodi possiderent vita sibi comite, etiam si ad alia beneficia, dimissis prioribus, transferrentur; nos attendentes quod ex hoc magis allicientur ad acquisitiones hujusmodi faciendas, hoc statutum quod cedit ad utilitatem ecclesiasticam, approbamus, et etiam confirmamus.</p>
-            </div>
-            <div>
-                <head>020</head>
-                <p>(20) Item, quia non minor est virtus, quam quaerere, parta tueri, ut res ecclesiasticae, videlicet terrae arabiles, et vineae in bono statu de cetero teneantur; cum multae personae ecclesiasticae praemissa excolere negligant, de metu, quia si decederent jam paratis fructibus ad collectam, nihil omnino haberent ex eis executores ipsorum, et per hoc ecclesias damnificari contingit: nos in nobis est volumus, quod si contingat rectores ecclesiarum, aliasve personas ecclesiasticas mori vel cedere, postquam seminaverint agros ecclesiae, et vineas excoluerint, sive excoli, scilicet putari et fodi fecerint in expensis suis, executores ipsorum, seu heredes habeant et percipiant ex fructibus praemissorum pro ea portione pro qua consueverunt percipere in partibus illis alienorum praediorum cultores.</p>
-                <p>Secus si dictas terras et vineas colonis partiariis traderint excolendas.</p>
-            </div>
-            <div>
-                <head>021</head>
-                <p>(21) Item, cum per negligentiam infirmorum et eorum qui habitant circa illos, frequenter omittentium pro sacerdotibus mittere, usque ad punctum mortis, et multi transeunt ex hac vita sine confessione et Viatico, scilicet Corporis Domini perceptione, ac etiam sine sacramento Unctionis-extremae, de quo graviter est dolendum: non attendentes consilium sancti Jacobi, quo cavetur: Infirmatur aliquis ex vobis [1] inducat presbyteros ecclesiae, et orent super eum, ungentes eum oleo in nomine Domini, et oratio fidei salvabit infirmum, et alleviabit eum Dominus, et si in peccatis sit, dimittentur ei.</p>
-                <p>Nos tantis animarum periculis, quantum possumus occurrere cupientes, in virtute sanctae obedientiae omnibus capellanis curatis nostrarum civitatis et dioecesis, eorumque subcapellanis, praecipimus et mandamus, ut singulis diebus dominicis parochianos suos sollicite moneant et hortentur, ut statim quod in lecto infirmitatis jacuerint, sacramenta ecclesiastica petant humiliter et requirant, et tempestive pro sacerdote transmittant, et vicinos hujusmodi aegrotantium ut eos visitent, et illos ad praemissa excitent et inducant sub poena excommunicationis, si in hoc negligentes fuerint, publice injungatur, adjecto etiam quod nisi hoc fecerint, per episcopale officium ex hoc graviter punientur.</p>
-            </div>
-            <div>
-                <head>022</head>
-                <p>(22) Item, cum presbyteri debeant in misericordiae et caritatis operibus, bonum exemplum aliis exhibere, et visitatio infirmorum inter opera hujusmodi numeretur, Salvatore dicente: Infirmus fui, et visitasti me, praecipimus ecclesiarum curatis et subcapellanis eorum, quod parochianos suos visitent, quamprimum eos noverint infirmari, et eos moneant amicabiliter, et benigne, ut requirant et percipiant sacramenta praedicta, intimantes eis quod ex hoc citius sanabuntur, secundum auctoritatem beati Jacobi supradictam, ne quod absit eis improperari valeat illud quod Dominus reprobis in extremo judicio imputabit, dicens: Infirmus fui, nec visitastis me.</p>
-            </div>
-            <div>
-                <head>023</head>
-                <p>(23) Item, praecipimus etiam ecclesiarum curatis, ut vicinos suos presbyteros et rectores infirmos debeant visitare, et eis consulere, quod de bonis suis ordinent sapienter, et quod ea ponant in secura custodia, quamdiu funguntur usu et officio rationis, quoniam laici quando vident presbyteros in extremis laborare, bona eorum rapiunt et furantur, se Deo in hoc praestare obsequium arbitrantes.</p>
-            </div>
-            <div>
-                <head>024</head>
-                <p>(24) Item, de utensilibus futuris rectoribus a decedentibus seu cedentibus dimittendis aequum esse videtur, quod ecclesiae quae non consueverunt subesse taxationi subsidii decimalis, contentae sint duobus lectis: ecclesiae vero decimales infra taxationem quinquaginta librarum, tribus: aliae vero quae dictam quinquaginta librarum summam excedunt, secundum taxationem antiquam quatuor lectos habeant, videlicet duos bonos, tertium pro subcapellano, quartum pro clerico competenti.</p>
-                <p>Patellarum vero, stannorum, mensarum et aliorum sufficientiam utensilium duorum aut trium proximorum rectorum arbitrio committimus aestimandam, nisi forte fuerint executores defuncti; et tunc ad decanum loci vel archidiaconum, aut ad episcopum, si opus fuerit, habeatur recursus.</p>
-            </div>
-            <div>
-                <head>025</head>
-                <p>(25) De confessis in articulo mortis.</p>
-                <p>Item, ne simplices sacerdotes errare contingat, et ut tam sibi, quam confitentibus eis provideatur in poenitentiis injungendis; praecipimus quod utantur in talibus consilio domini Hostiensis, dicentis in Summa, sacerdos sibi consulit qui peccatori sibi confitenti, confideratis qualitate et numero peccatorum, haec dicat vel consimilia verba: [2] Carissime, vel amice, tu commisisti tot et talia peccata, quod nisi esset misericordia Salvatoris, tota vita tua vix vel numquam sufficeret ad poenitentiam peragendam: ego tamen injungo talem poenitentiam specialem pro omnibus peccatis; et specifice eam.</p>
-                <p>Commendo etiam tibi, quod ubicumque ieris valeant remissiones et indulgentiae praelatorum, ut et omnia alia bona quae feceris, et mala quae pro Deo toleraveris injungo tibi pro poenitentia, et quod prosint tibi in remissionem peccatorum tuorum; et si interim te mori contingat, auctoritate Dei et beatorum apostolorum Petri et Pauli absolvo te ab omnibus his quae confessus es, et ab aliis de quibus non recordaris in quantum possum et debeo: ita quod si aliquid purgandum remanserit, in purgatorio purgetur juxta misericordem Domini voluntatem. [3]</p>
-            </div>
-            <div>
-                <head>026</head>
-                <p>(26) De exhortatione infirmorum.</p>
-                <p>Item, cum humana fragilitas appropinquante mortis articulo vix aut numquam possit habere memoriam de omnibus quae pertinent ad salutem, nisi hoc sibi per alios ad memoriam reducatur: unde frequenter evenit aliquos in excommunicatione decedere quam ignorant: omnibus sacerdotibus nostrarum civitatis et dioecesis, tam praesentibus, quam futuris praecipimus et mandamus in virtute sanctae obedientiae firmiter injungentes, ut omnes infirmos, quos ipsi visitaverint, exhortentur, et moneant diligenter, quod si sciant se esse in aliqua excommunicationis sententia, illud dicant, et petant absolutionis beneficium impartiri.</p>
-            </div>
-            <div>
-                <head>explicit</head>
-                <p>Et si dicant se nec scire, nec credere se aliqua excommunicatione esse ligatos; admoneantur tamen in dubio quod saltem generaliter petant absolvi ab omnibus sententiis excommunicationis et suspensionis ac etiam interdicti, si quam vel si quas incurrerint ab homine vel a jure; et tunc sacerdotes ipsos absolvant juxta modum et formam traditos in concilio Salmuriensi olim celebrato a bonae memoriae REGINALDO tunc archiepiscopo Turonensi, cujus tenor sequitur in haec verba: [4] Cum excommunicatis in mortis articulo constitutis absolutionis beneficium secundum formam canonum non debeat denegari; quia tamen circa eorum absolutionem propter sacerdotum simplicitatem et imperitiam frequenter errare contingit; ut saluti morientium et utilitati superstitum consulatur, formam juri consonam circa talium absolutionem praecipimus observari, scilicet ut si pro judicato vel manifesta offensa, petens absolvi excommunicatus fuerit, si de illis potest satisfacere in praesenti, non aliter relaxetur sententia, nisi prius pro judicato vel offensa fuerit satisfactum.</p>
-                <p>Si vero non possit satisfacere in praesenti, recepta cautione idonea, pignorum scilicet vel fidejussorum de satisfaciendo de judicato, vel offensa; sententia relaxetur.</p>
-                <p>Si vero offensa dubia fuerit; recepta cautione idonea de satisfaciendo, si eam apparuerit esse manifestam: pro simplici vero contumacia, recepta cautione juratoria de parendo juri, sententia relaxetur.</p>
-                <p>Ubi tamen cautionem idoneam exigi supra praecipimus, juratoriam, si alia praestari non possit, in hoc casu sufficere declaramus.</p>
-                <p>Qui vero, forma praescripta non observata, excommunicatum pro judicato vel offensa absolverit; ei pro quo lata erat sententia de suo satisfacere, auctoritate praesentis concilii, teneatur.</p>
+                <head>Text</head>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) De legendo quaternum synodale quater in anno.</p>
+                    <p>CUm propter ignorantiam sacerdotum, maxime curatorum, multa pericula immineant animabus, ipso Salvatore dicente: Si caecus caecum ducat, etc. omnibus et singulis personis, curatis nobis subditis, et eorum capellanis, tam praesentibus, quam futuris, ut quaternum qui dicitur synodalis, in quo continetur instructio simplicium sacerdotum ab antiquis patribus ordinata, saltem quater in anno studeant, et recordentur ejusdem, perlegendo ipsum ab initio usque ad finem intelligibiliter et distincte, in virtute sanctae obedientiae praecipimus et mandamus temporibus infra scriptis: videlicet, una vice inter synodum sancti Lucae, et Nativitatem Domini; secunda vice infra mediam quadragesimam; tertia vice infra Pentecosten; quarta vice infra sequentem synodem annualem, et sic deinceps singulis annis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Ne ecclesiae affirmentur sine licentia episcopi.</p>
+                    <p>Item, prohibemus, secundum statuta dicti synodalis quaternii, ne aliquis rector parrochialis ecclesiae, aliusve curatus, ecclesiam suam aut vices suas ad annualem firmam committat atque tradat sine nostra speciali licentia, quidquid contra factum fuerit irritum reputantes et inane, sub poena amissionis fructuum illius anni, quorum fructuum dimidiam partem fabricae illius ecclesiae decernimus applicandam; aliam vero in pios usus, ad ordinationem nostram, vel episcopi qui erit pro tempore convertendam.</p>
+                    <p>Et ne laico ad firmam tradant, sub poena amissionis illius beneficii, quod sic praesumserit affirmare, penitus inhibemus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) De archidiaconis et decanis.</p>
+                    <p>Item, inhibemus ne archidiaconi, vel decani nobis subditi jurisdictionem ecclesiasticam committant clericis conjugatis, ne super hoc vituperetur ministerium nostrum.</p>
+                    <p>Nam cum tales, claves ecclesiae non habeant, ipsos constat non posse solvere vel ligare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) Ne monachi serviant ecclesiis sine licentia episcopi.</p>
+                    <p>Item, juxta provincialis statuta concilii, prohibemus ne aliquis curatus, pro se substituat aliquem monachum ad deserviendum in his quae ad curam pertinent animarum, sine nostra licentia speciali.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) Ut possessiones ecclesiarum in bono statu teneantur.</p>
+                    <p>Item, omnes et singulas personas ecclesiasticas beneficiatas publice et in generali monemus, ut domos, vineas, aliaque omnia aedificia, seu aedificimenta quaecumque beneficiorum suorum, in bono et competenti statu teneant, et conservent: alioquin a perceptione fructuum beneficiorum ipsorum noverint se privandos, quousque in statum debitum reponantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>(6) Ne curati ultra octo dies se absentent ab ecclesiis suis.</p>
+                    <p>Item, in virtute sactae obedientiae, omnibus et singulis personis curatis nobis subditis districte praecipimus sub debito juramenti ab eis praestiti super residentia facienda; firmiter injungentes, ne a suis parrochianis, nisi pro necessitate, aut utilitate ipsarum ecclesiarum ultra octo dies continue se absentare praesumant absque nostra licentia speciali, vel talis qui super hoc possit licentiam indulgere: quin immo in ipsis ecclesiis, ut tenentur, studeant personaliter residere, nisi ex causa legitima cum eis et ab eo qui de jure possit super hoc fuerit dispensatum; alioquin tamquam perjuros, et inobedientiae reos se noverint puniendos; et si ultra quindecim dies absentes fuerint a suis ecclesiis sine licentia speciali praedicta, ipsos ex tunc suspendimus a divinis, nisi infra triduum, post quindenam hujus veniam ad episcopum vel ejus vicarium super hoc veniant petituri.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>(7) De numero compatrum.</p>
+                    <p>Item, cum propter multitudinem patrinorum contra sanctiones canonicas attentatem, et specialiter contra Leonis papae decretum, saepe contingat matrimonia impediri, decenter alias et utiliter conjungenda, et quandoque conjuncta turbari; prohibemus ne baptizandis parvulis, plures personae quam tres ad patrinatum, seu compatrinatum hujusmodi admittantur, nisi fuerint adeo conjunctae personae consanguinitate ad invicem, aut alia ratione parentibus baptizandi, quod non possint aut eorum liberi cum aliqua personarum hujusmodi matrimonialiter jungi.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>(8) De vestibus innocentiae reddendis.</p>
+                    <p>Item, cum in quibusdam parrochiis albae vestes innocentiae baptismalis, sacro chrismate delinitae, non sine periculo sortilegii, aut avaritiae vitio a parvulorum matribus, soleant retineri, quamvis secundum communem consuetudinem semel oblatae, debeant reddi sacerdotibus, per eosdem divinis officiis applicandae; praecipimus injungi publice in parrochialibus ecclesiis, et indici ut in purificationibus reddantur, et per sacerdotes a parvulorum matribus exigantur: prohibentes eas sub poena excommunicationis humanis usibus applicari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>(9) Ne parvuli cum parentibus jaceant.</p>
+                    <p>Item, decretum Stephani papae V. devote et humiliter exequi cupientes, cum ex ejus omissione multa pericula experimento didicerimus evenisse; praecipimus prohiberi sub poena excommunicationis parentibus puerulorum, ne tenellos infantes secum in uno lecto collocent, ne forte interveniente negligentia contingat eos opprimi, et ipsos parentes reos homicidii reputari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>(10) Ut fontes et putei claudantur sepibus.</p>
+                    <p>Item, cum multos pueros nuper audiverimus in puteis et fossatis et fontibus cecidisse, et in eis miserabiliter submersos fuisse; praecipimus et mandamus, diebus dominicis praecipi populo et indici, ut fontes, puteos et fossata qui sunt juxta domos eorum faciant circumdari vel claudi sepibus, aut lapidibus, sive lignis, tali modo quod parvuli pueri non possint de facili cadere in eosdem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>(11) Ut ecclesiam cathedralem visitent in anno semel parochiani.</p>
+                    <p>Item, cum poenitentibus in confessionibus suis, juxta suorum criminum qualitatem, quandoque soleant variae peregrinationes injungi, quas frequenter ex negligentia, vel impotentia non adimplent; et quamplures personae nostrae dioecesis remota quandoque non approbatorum a sede apostolica sanctorum limina visitare propria voluntate decernunt, suae matris ecclesiae Nannetensis indulgentias, et requiescentes in ea sanctorum reliquias, et congingentia forsitan ignorantes inibi saepe meritis sanctorum miracula; praecipimus omnibus et singulis ecclesiarum parochialium capellanis, ut parochianis suis, et subditis suadeant, consulant, et injungant tam in secretis confessionibus, quam in suis publicis praedicationibus, et exhortationibus, ut praedictam suam matricem ecclesiam Nannetensem in sanctorum Petri et Pauli nomine et honore fundatam, studeant saltem semel in anno cum devotione sincera et reverentia debita visitare: injungentes ut festivitates sanctorum Donatiani et Rogatiani martyrum, qui de civitate Nannatensi nati fuerunt, et beati Clari primi episcopi Nannatensis, absque servili opere, sicut diem dominicam reverenter observent, et significetur eisdem quod in festivitatibus sanctorum dictorum, est indulgentia unius anni et unius quadragenae a domino papa concessa vere poenitentibus, et confessis, visitantibus in illis diebus ecclesiam supradictam.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>(12) Ut serviatur capellaniis.</p>
+                    <p>Item, cum in nostra civitate et dioecesi multae capellaniae sint fundatae, et pro unius hominis vita singulae sufficienter dotatae fuerint ab initio, prout verisimiliter aestimatur; et nonnulli tales capellanias, et alias obtinentes, nec in eis faciunt deserviri, nec se ad earum titulos ordinari; omnes et singulos capellanias hujusmodi obtinentes, primo, secundo, et tertio, publice et in generali monemus sub poena excommunicationis, ut in eis faciant in spiritualibus deserviri, et temporalia earumdem in bono statu teneri, prout ipsorum beneficiorum lege incumbit omnibus: et se saltem ad sacrum subdiaconatus ordinem promoveri curent infra annum a tempore recepti beneficii; alioquin super hoc contra ipsos ad privationem procedetur, actore Domino, prout de jure fuerit procedendum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>(13) Ut presbyteri deferant super tunicalia clausa.</p>
+                    <p>Item, prohibemus omnibus et singulis presbyteris nobis subditis, sub poena suspensionis, ne a festo Nativitatis Domini proxime venturo, mane deferant in publico et patenter fixa supertunicalia, sed clausum habeant superius indumentum colore honestum, nimia brevitate aut longitudine non notandum, sine superfluo et nimio apparatu.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>(14) De decem diebus indulgentiarum omnibus qui remanent in missa usque ad ejus finem.</p>
+                    <p>Item, indulgentiam decem dierum, concessam a bonae memoriae HENRICO praedecessore nostro, vere poenitentibus et confessis, qui in majori ecclesia Nannatensi et aliis ecclesiis dioecesis et civitatis Nannatensis in missarum celebrationibus, a principio usque ad finem permanserint approbantes; ipsam indulgentiam innovamus, dum tamen ab elevatione sanctae Eucharistiae usque ad elevationem calicis cum sanguine Domini nostri JESU-CHRISTI, steterint flexis genibus humiliter et devote.</p>
+                    <p>Caveant autem presbyteri donec perfecte dixerint omnia verba illa: Hic est calix, usque in mei memoriam facietis; non praesumant elevare calicem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>(15) De, Asperges, dicendo.</p>
+                    <p>Item, sicut praevaricatores legum divinarum, ita contemtores consuetudinum ecclesiasticarum, sunt merito coercendi; hinc est quod antiquam consuetudinem, quam olim constat introductam, quod singulis diebus dominicis, antequam sacra missarum solemnia inchoentur, sacerdos indutus alba et stola debeat saltem ab intus ecclesiam circumire aqua benedicta, populum aspergendo, et canendo antiphonam Asperges me Domine, cum oratione solita subsequenti, quae incipit, Exaudi nos, etc. districte praecipimus observari, et nullatenus praetermitti: contemtoribus ejus graviter puniendis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>(16) Quod clericus in missa habeat superlicium.</p>
+                    <p>Item, statuimus quod dum sacra missarum solemnia celebrantur, clericus qui sacerdoti celebranti ministrat, lineum desuper habeat indumentum quod superlicium dicitur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 17</head>
+                    <p>(17) De officio defunctorum celebrando.</p>
+                    <p>Item, cum sancta sit et salubris cogitatio pro defunctis Dominum exorare; statuimus et firmiter observari mandamus, quatenus singulis diebus dominicis hora vesperarum vel circa, ante vel post vesperas dominicales, dicantur solemniter cum cantu vesperae defunctorum, una cum vigiliis eorumdem, praesertim in locis solemnibus, nisi forte ex causa vigiliae ad matutinum crastinum differantur, et tunc post praedictas vigilias missa pro defunctis cum cantu solemniter celebretur, nisi festum solemne fuerit die lunae, et post missam processionaliter, cum aqua, et cruce, et campanarum pulsatione, ad cimeterium procedatur, orando humiliter et devote pro defunctis, ad devotionem populi excitandam, ut orent et oblationes et eleemosynas faciant pro defunctis suis parentibus et amicis; et hoc diebus dominicis in missa populo intimetur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18</head>
+                    <p>(18) Item, statuimus quod singulis diebus dominicis et aliis solemnibus festis missarum solemnia cum matutinis et utrisque vesperis, cum cantu in ecclesia celebrentur, maxime in locis solemnibus, et in quibus parochiani vicini ecclesiae commode, ac de facili possint ipsis horis ecclesiam frequantare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 19</head>
+                    <p>(19) Item, cum a quibusdam praedecessoribus nostris statutum fuisse dicatur quod ecclesiarum rectores et aliae personae ecclesiasticae possessiones et immobilia quae suis ecclesiis aliisque beneficiis de suo acquirerent, acquisita hujusmodi possiderent vita sibi comite, etiam si ad alia beneficia, dimissis prioribus, transferrentur; nos attendentes quod ex hoc magis allicientur ad acquisitiones hujusmodi faciendas, hoc statutum quod cedit ad utilitatem ecclesiasticam, approbamus, et etiam confirmamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 20</head>
+                    <p>(20) Item, quia non minor est virtus, quam quaerere, parta tueri, ut res ecclesiasticae, videlicet terrae arabiles, et vineae in bono statu de cetero teneantur; cum multae personae ecclesiasticae praemissa excolere negligant, de metu, quia si decederent jam paratis fructibus ad collectam, nihil omnino haberent ex eis executores ipsorum, et per hoc ecclesias damnificari contingit: nos in nobis est volumus, quod si contingat rectores ecclesiarum, aliasve personas ecclesiasticas mori vel cedere, postquam seminaverint agros ecclesiae, et vineas excoluerint, sive excoli, scilicet putari et fodi fecerint in expensis suis, executores ipsorum, seu heredes habeant et percipiant ex fructibus praemissorum pro ea portione pro qua consueverunt percipere in partibus illis alienorum praediorum cultores.</p>
+                    <p>Secus si dictas terras et vineas colonis partiariis traderint excolendas.</p>
+                </div>
+                <div>
+                    <head>Capitulum 21</head>
+                    <p>(21) Item, cum per negligentiam infirmorum et eorum qui habitant circa illos, frequenter omittentium pro sacerdotibus mittere, usque ad punctum mortis, et multi transeunt ex hac vita sine confessione et Viatico, scilicet Corporis Domini perceptione, ac etiam sine sacramento Unctionis-extremae, de quo graviter est dolendum: non attendentes consilium sancti Jacobi, quo cavetur: Infirmatur aliquis ex vobis [1] inducat presbyteros ecclesiae, et orent super eum, ungentes eum oleo in nomine Domini, et oratio fidei salvabit infirmum, et alleviabit eum Dominus, et si in peccatis sit, dimittentur ei.</p>
+                    <p>Nos tantis animarum periculis, quantum possumus occurrere cupientes, in virtute sanctae obedientiae omnibus capellanis curatis nostrarum civitatis et dioecesis, eorumque subcapellanis, praecipimus et mandamus, ut singulis diebus dominicis parochianos suos sollicite moneant et hortentur, ut statim quod in lecto infirmitatis jacuerint, sacramenta ecclesiastica petant humiliter et requirant, et tempestive pro sacerdote transmittant, et vicinos hujusmodi aegrotantium ut eos visitent, et illos ad praemissa excitent et inducant sub poena excommunicationis, si in hoc negligentes fuerint, publice injungatur, adjecto etiam quod nisi hoc fecerint, per episcopale officium ex hoc graviter punientur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 22</head>
+                    <p>(22) Item, cum presbyteri debeant in misericordiae et caritatis operibus, bonum exemplum aliis exhibere, et visitatio infirmorum inter opera hujusmodi numeretur, Salvatore dicente: Infirmus fui, et visitasti me, praecipimus ecclesiarum curatis et subcapellanis eorum, quod parochianos suos visitent, quamprimum eos noverint infirmari, et eos moneant amicabiliter, et benigne, ut requirant et percipiant sacramenta praedicta, intimantes eis quod ex hoc citius sanabuntur, secundum auctoritatem beati Jacobi supradictam, ne quod absit eis improperari valeat illud quod Dominus reprobis in extremo judicio imputabit, dicens: Infirmus fui, nec visitastis me.</p>
+                </div>
+                <div>
+                    <head>Capitulum 23</head>
+                    <p>(23) Item, praecipimus etiam ecclesiarum curatis, ut vicinos suos presbyteros et rectores infirmos debeant visitare, et eis consulere, quod de bonis suis ordinent sapienter, et quod ea ponant in secura custodia, quamdiu funguntur usu et officio rationis, quoniam laici quando vident presbyteros in extremis laborare, bona eorum rapiunt et furantur, se Deo in hoc praestare obsequium arbitrantes.</p>
+                </div>
+                <div>
+                    <head>Capitulum 24</head>
+                    <p>(24) Item, de utensilibus futuris rectoribus a decedentibus seu cedentibus dimittendis aequum esse videtur, quod ecclesiae quae non consueverunt subesse taxationi subsidii decimalis, contentae sint duobus lectis: ecclesiae vero decimales infra taxationem quinquaginta librarum, tribus: aliae vero quae dictam quinquaginta librarum summam excedunt, secundum taxationem antiquam quatuor lectos habeant, videlicet duos bonos, tertium pro subcapellano, quartum pro clerico competenti.</p>
+                    <p>Patellarum vero, stannorum, mensarum et aliorum sufficientiam utensilium duorum aut trium proximorum rectorum arbitrio committimus aestimandam, nisi forte fuerint executores defuncti; et tunc ad decanum loci vel archidiaconum, aut ad episcopum, si opus fuerit, habeatur recursus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 25</head>
+                    <p>(25) De confessis in articulo mortis.</p>
+                    <p>Item, ne simplices sacerdotes errare contingat, et ut tam sibi, quam confitentibus eis provideatur in poenitentiis injungendis; praecipimus quod utantur in talibus consilio domini Hostiensis, dicentis in Summa, sacerdos sibi consulit qui peccatori sibi confitenti, confideratis qualitate et numero peccatorum, haec dicat vel consimilia verba: [2] Carissime, vel amice, tu commisisti tot et talia peccata, quod nisi esset misericordia Salvatoris, tota vita tua vix vel numquam sufficeret ad poenitentiam peragendam: ego tamen injungo talem poenitentiam specialem pro omnibus peccatis; et specifice eam.</p>
+                    <p>Commendo etiam tibi, quod ubicumque ieris valeant remissiones et indulgentiae praelatorum, ut et omnia alia bona quae feceris, et mala quae pro Deo toleraveris injungo tibi pro poenitentia, et quod prosint tibi in remissionem peccatorum tuorum; et si interim te mori contingat, auctoritate Dei et beatorum apostolorum Petri et Pauli absolvo te ab omnibus his quae confessus es, et ab aliis de quibus non recordaris in quantum possum et debeo: ita quod si aliquid purgandum remanserit, in purgatorio purgetur juxta misericordem Domini voluntatem. [3]</p>
+                </div>
+                <div>
+                    <head>Capitulum 26</head>
+                    <p>(26) De exhortatione infirmorum.</p>
+                    <p>Item, cum humana fragilitas appropinquante mortis articulo vix aut numquam possit habere memoriam de omnibus quae pertinent ad salutem, nisi hoc sibi per alios ad memoriam reducatur: unde frequenter evenit aliquos in excommunicatione decedere quam ignorant: omnibus sacerdotibus nostrarum civitatis et dioecesis, tam praesentibus, quam futuris praecipimus et mandamus in virtute sanctae obedientiae firmiter injungentes, ut omnes infirmos, quos ipsi visitaverint, exhortentur, et moneant diligenter, quod si sciant se esse in aliqua excommunicationis sententia, illud dicant, et petant absolutionis beneficium impartiri.</p>
+                </div>
+                <div>
+                    <head>Explicit</head>
+                    <p>Et si dicant se nec scire, nec credere se aliqua excommunicatione esse ligatos; admoneantur tamen in dubio quod saltem generaliter petant absolvi ab omnibus sententiis excommunicationis et suspensionis ac etiam interdicti, si quam vel si quas incurrerint ab homine vel a jure; et tunc sacerdotes ipsos absolvant juxta modum et formam traditos in concilio Salmuriensi olim celebrato a bonae memoriae REGINALDO tunc archiepiscopo Turonensi, cujus tenor sequitur in haec verba: [4] Cum excommunicatis in mortis articulo constitutis absolutionis beneficium secundum formam canonum non debeat denegari; quia tamen circa eorum absolutionem propter sacerdotum simplicitatem et imperitiam frequenter errare contingit; ut saluti morientium et utilitati superstitum consulatur, formam juri consonam circa talium absolutionem praecipimus observari, scilicet ut si pro judicato vel manifesta offensa, petens absolvi excommunicatus fuerit, si de illis potest satisfacere in praesenti, non aliter relaxetur sententia, nisi prius pro judicato vel offensa fuerit satisfactum.</p>
+                    <p>Si vero non possit satisfacere in praesenti, recepta cautione idonea, pignorum scilicet vel fidejussorum de satisfaciendo de judicato, vel offensa; sententia relaxetur.</p>
+                    <p>Si vero offensa dubia fuerit; recepta cautione idonea de satisfaciendo, si eam apparuerit esse manifestam: pro simplici vero contumacia, recepta cautione juratoria de parendo juri, sententia relaxetur.</p>
+                    <p>Ubi tamen cautionem idoneam exigi supra praecipimus, juratoriam, si alia praestari non possit, in hoc casu sufficere declaramus.</p>
+                    <p>Qui vero, forma praescripta non observata, excommunicatum pro judicato vel offensa absolverit; ei pro quo lata erat sententia de suo satisfacere, auctoritate praesentis concilii, teneatur.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] &quot;?&quot; printed here</p>
+                    <p>[2] quotation marks in margin start here</p>
+                    <p>[3] quotation marks in margin end here</p>
+                    <p>[4] quotation marks in margin from here to end of text</p>
+                </div>
             </div>
         </body>
     </text>

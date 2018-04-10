@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 1901</recordID>
+                <title>Narbonne (#1901)</title>
+                <recordID>1901</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate precision="circa">1227</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Narbonne</origPlace>
                 <diocese>Narbonne</diocese>
                 <province>Narbonne</province>
-                <country/>
+                <country>France</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Provincial</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,112 +55,153 @@
     <text>
         <body>
             <div>
-                <head>incipit</head>
+                <head>Metadata</head>
+                <p>RecordID: 1901</p>
+                <p>Year: 1227</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: Yes</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Narbonne</p>
+                <p>Diocese: Narbonne</p>
+                <p>Province: Narbonne</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 43.1836</p>
+                <p>Longitude: 3.0042</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Provincial</p>
+                <p>IssuingAuthority: Pierre Amiel</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Mansi 23, cols 20-26</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Data Capture']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
             </div>
             <div>
-                <head>001</head>
-                <p>(1) FElicis recordationis dominus Ludovicus rex Francorum, attendens quanta pertinacia laici provinciae Narbonensis, et quarumdam partium adjacentium, in praejudicium animarum suarum, sententiam excommunicationis contemnerent; contra hujusmodi pertinaciam olim apud Apamiam constitutus, de consilio domini Romani sancti Angeli diaconi cardinalis, tunc apostolicae sedis legati, omnium etiam praelatorum et baronum de Francia, qui praesentes fuerant, pro ecclesiastica libertate, statuit: ut quicumque post trinam admonitionem se excommunicari permiserit, in novem libris et uno denario Turonensi puniatur.</p>
-                <p>Si vero per annum contumaciter in excommunicationis sententia permanserit, bona ejus omnia cadant in commissum.</p>
-                <p>Quam constitutionem, nos Petrus archiepiscopus Narbonensis, de consilio fratrum et suffraganeorum nostrorum, et approbatione totius provincialis concilii, mandamus et statuimus, atque praecipimus de cetero in provincia Narbonensi ab omnibus inviolabiliter observari.</p>
-                <p>Ita videlicet, quod si forte excommunicatus in praedicta summa puniri nequiverit, minori, vel alias secundum providentiam sui dioecesani episcopi puniatur, sicut a praelatis Franciae observatur. [1]</p>
-                <p>Si autem universitas culpa sua fuerit intricata, poena puniatur eadem.</p>
-                <p>Si vero pro culpa domini, ipse dominus poena simili puniatur.</p>
-            </div>
-            <div>
-                <head>002</head>
-                <p>(2) Item quia Judaei usurariis exactionibus plurimum opprimunt Christianos, cum a Domino generaliter prohibeantur usurae: synodali concilio duximus providendum, ne Judaei aliquatenus a Christianis immoderatas aliquatenus usuras accipiant.</p>
-                <p>Quod si fecerint, eas restituere ab ecclesia compellantur: videlicet per excommunicationem in Christianos, qui cum eis in commercio vel aliis participationem habebunt.</p>
-                <p>Nec in domibus suis habeant Christiana mancipia, vel nutrices: nec carnibus publice vescantur, vel vendant eas indiebus, quibus abstinent Christiani.</p>
-                <p>Nec in bajuliis, vel aliquibus officiis, praeesse Christianis permittantur.</p>
-                <p>Carnes etiam, quas ipsi faciunt, privatim tantum in domibus suis vendant, et non in Christianorum macellis.</p>
-            </div>
-            <div>
-                <head>003</head>
-                <p>(3) Ad hoc ut Judaei possint ab aliis discerni, statuimus, et districte praecipimus, ut in medio pectoris deferant signum rotae, cujus circulus sit latitudinis unius digiti, altitudo vero unius dimidii palmi de canna.</p>
-                <p>Nihilominus inhibemus iisdem diebus Dominicis et festivis publice operari.</p>
-                <p>Et ne Christianos scandalizent, vel scandalizentur ab iis, volumus et mandamus, ut in septimana sancta nullatenus, nisi causa necessitatis, exeant domos suas: et praelati faciant eos a Christianorum vexationibus custodiri, maxime in septimana praedicta.</p>
-            </div>
-            <div>
-                <head>004</head>
-                <p>(4) Statuimus insuper, ut Judaei singulis annis in festo Dominicae resurrectionis, sex denarios Melgorensis monetae per singulas familias, pro oblatione ecclesiae parochiali persolvant.</p>
-            </div>
-            <div>
-                <head>005</head>
-                <p>(5) Item, quia ultima voluntas defuncti debet inviolabiliter observari: volumus et praecipimus, ut testamentum, vel ultima voluntas cujusque, in praesentia semper catholicorum virorum, et parochialis sacerdotis, vel alterius ecclesiasticae personae loco ipsius, condatur.</p>
-                <p>Praesertim ut idem sacerdos, vel alia ecclesiastica persona, valeat de ipso testatore laudabile testimonium perhibere, ne de ipso aliqua infidelitatis suspicio possit haberi: et maxime, ut ea, quae in pias causas reliquerit, fideliter et citius sine fraude solvantur.</p>
-                <p>Quod si testator [2] vocare, ut diximus, sacerdotem et viros catholicos contempserit: careat ecclesiastica sepultura, donec de hujus mandati contemptu, ecclesiae satisfactum fuerit competenter.</p>
-                <p>Notariis vero, qui absque solemnitate superius expressa notare vel scribere praesumpserint testamenta vel ultimas voluntates, ecclesiae introitus interdicatur usque ad satisfactionem condignam.</p>
-            </div>
-            <div>
-                <head>006</head>
-                <p>(6) Item, cum religio juramenti peccatis exigentibus fere ab omnibus in istis partibus contemnatur: contra hujusmodi contemptores aliquid securitatis pro salute animarum ipsorum, duxit praesens concilium statuendum.</p>
-                <p>Videlicet ut quicumque in transgressione juramenti de cetero manifeste deprehensus fuerit, in ecclesia publice denuncietur esse perjurus.</p>
-                <p>Quod si admonitus satisfacere noluerit, tunc excommunicetur accensis candelis, et pulsatis campanis, singulis diebus Dominicis et festivis: et denuncietur intestabilis et infamis, et nec ad testimonium vel ad alios actus legitimos admittatur.</p>
-                <p>Et idem de falsis testibus observetur.</p>
-            </div>
-            <div>
-                <head>007</head>
-                <p>(7) Item statuit praesens synodus, quod nomina illorum omnium, qui peccata sua confessi fuerint, scribantur a capellanis, qui confessiones audiverunt eorumdem: ut laudabile testimonium de confessionibus eorum valeant perhibere.</p>
-                <p>Illis vero qui confiteri contempserint saltem semel in anno a decimo quarto anno supra, vivis, introitus ecclesiae usque ad satisfactionem condignam; mortuis vero, interdicatur ecclesiastica sepultura.</p>
-                <p>Illi vero qui confessiones illorum audiverint, in loco patenti audiant, non occulto.</p>
-            </div>
-            <div>
-                <head>008</head>
-                <p>(8) Item, de publicis usurariis, incestuosis, concubinariis, adulteris et raptoribus, fuit in praesenti concilio constitutum, ut singulis diebus Dominicis et festivis publice in ecclesia excommunicentur.</p>
-                <p>Similiter et illi qui testamenta defunctorum publicare et complere post competentes admonitiones renuerint excommunicationi subdantur.</p>
-            </div>
-            <div>
-                <head>009</head>
-                <p>(9) Item cum in concilio Lateranensi et aliis sit frequenter per Romanum pontificem constitutum, quod presbyteris in ecclesiis monachorum et aliarum personatum, ad suam, et ad suorum sustentationem, portio sufficiens assignetur: ne a domno Papa possimus merito reprehendi, vobis abbatibus, prioribus, et aliis regularibus et saecularibus, qui habetis vel teneris ecclesias hujusmodi, praecipimus, ut in vestris ecclesiis, episcopis personas praesentetis idoneas, quibus per episcopos animarum cura commissa usque ad festum Pentecostes proxime venturum, secundum facultates ecclesiarum, arbitrio bonorum virorum, portionem idoneam assignetis: videlicet, qua tam ipsi, quam sui, valeant sustentari honeste, et alia facere, quae continentur in pluribus constitutionibus, quae jamdudum super hoc a sede apostolica emanarunt.</p>
-            </div>
-            <div>
-                <head>010</head>
-                <p>(10) Illud praeterea duximus exponendum, ut in ecclesiis vestris, non pauciores faciant moram quam tres monachi, vel canonici regulares: sicut alia vice per dominum Petrum Beneventanum, tunc apostolicae sedis legatum, fuit in provinciali concilio constitutum, et postmodum observatum.</p>
-            </div>
-            <div>
-                <head>011</head>
-                <p>(11) Adjicimus insuper, ut monachi vel canonici regulares, vel etiam sacerdotes, nisi pro ecclesiis suis et miserabilibus personis, et de praelati sui licentia speciali, in foro saeculari vel ecclesiastico advocare nullatenus praesumant.</p>
-                <p>Quod si forte pars adversa repellere tales neglexerint vel noluerit, a judice repellantur omnino.</p>
-            </div>
-            <div>
-                <head>012</head>
-                <p>(12) Item statuimus: ut clerici, occasione patrimonii sui, vel personae, nullatenus tallientur, et tam consules, quam alii laici, ab his talliis et exactionibus per censuram ecclesiasticam, si necesse fuerit, compescantur.</p>
-            </div>
-            <div>
-                <head>013</head>
-                <p>(13) De novis pedagiis et quidagiis statuit concilium, ut per ecclesiasticum judicem, si necesse fuerit, prohibeantur omnino.</p>
-            </div>
-            <div>
-                <head>014</head>
-                <p>(14) Volumus insuper, et districte mandamus, ut ab episcopis testes synodales in singulis instituantur parochiis, qui de haeresi, et de aliis criminibus manifestis diligenter inquirant, postmodum episcopis quod invenerint relaturi.</p>
-            </div>
-            <div>
-                <head>015</head>
-                <p>(15) Consules nihilominus, castellani, potestates, et barones, abjurare haereticos et fautores, nec non et receptatores eorum, per censuram ecclesiasticam compellantur.</p>
-            </div>
-            <div>
-                <head>016</head>
-                <p>(16) Qui vero quondam haeretici vestiti vel notati fuerint, aut merito suspecti sunt, a bajuliis vel officiis publicis, si qua habent, praecipimus ut amoveantur ex toto, nec de cetero ad hujusmodi assumantur.</p>
-            </div>
-            <div>
-                <head>017</head>
-                <p>(17) Item, statuimus et praecipimus observari districte, ut Raimundus filius Raimundi quondam comitis Tolosani, comes Fuxensis, et Trincavellus, qui dicitur vicecomes Biterrensis, Tolosani haeretici, credentes, fautores, defensores, et receptatores eorum, et praesertim illi de Limoso, et alii qui felicis recordationis domno Ludovico regi Franciae juraverant, et postmodum aversi sunt ab ecclesia: omnes etiam illi, qui arma, equos, victualia, vel alia subsidia vendunt, donant, mittunt, vel praestant eis scienter, candelis accensis et pulsatis campanis denuncientur excommunicati et expositi cuilibet occupanti tam in rebus, quam in personis, per singulas parochias singulis diebus Dominicis et festivis.</p>
-            </div>
-            <div>
-                <head>018</head>
-                <p>(18) Item, quia in multis canonibus et frequenter ordinatum est et statutum, ut archiepresbyteri, praepositi, abbates, et alii qui curam animarum habent, debeant ad sacerdotium promoveri: mandamus et praecipimus, ut tales, et illi qui ecclesias parochiales habent, ad sacerdotii gradum promoveantur, et ibi serviant ut tenentur.</p>
-            </div>
-            <div>
-                <head>019</head>
-                <p>(19) Praecipimus similiter capellanis et aliis ecclesiarum rectoribus, ut quaestores praedicare in ecclesiis non permittant: sed legantur dumtaxat litterae, si quas habent, prout ordinatum fuit in concilio generali.</p>
-            </div>
-            <div>
-                <head>020</head>
-                <p>(20) Item, ad tollendam quorumdam dubietatem de celebrando festo S. Matthiae, et jejuniis quatuor temporum in Septembri: notum fieri universis volumus, et praecipimus observari, ut semper in anno bissextili posteriore die celebretur festum praedictum, et in quarta feria, quae tertia prior in Septembri occurrit, jejunia quatuor temporum celebrentur.</p>
-                <p>Adjicientes, ut singulis annis in Dominica, qua cantatur Laetare Hierusalem, provinciale concilium celebretur.</p>
-            </div>
-            <div>
-                <head>explicit</head>
+                <head>Text</head>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) FElicis recordationis dominus Ludovicus rex Francorum, attendens quanta pertinacia laici provinciae Narbonensis, et quarumdam partium adjacentium, in praejudicium animarum suarum, sententiam excommunicationis contemnerent; contra hujusmodi pertinaciam olim apud Apamiam constitutus, de consilio domini Romani sancti Angeli diaconi cardinalis, tunc apostolicae sedis legati, omnium etiam praelatorum et baronum de Francia, qui praesentes fuerant, pro ecclesiastica libertate, statuit: ut quicumque post trinam admonitionem se excommunicari permiserit, in novem libris et uno denario Turonensi puniatur.</p>
+                    <p>Si vero per annum contumaciter in excommunicationis sententia permanserit, bona ejus omnia cadant in commissum.</p>
+                    <p>Quam constitutionem, nos Petrus archiepiscopus Narbonensis, de consilio fratrum et suffraganeorum nostrorum, et approbatione totius provincialis concilii, mandamus et statuimus, atque praecipimus de cetero in provincia Narbonensi ab omnibus inviolabiliter observari.</p>
+                    <p>Ita videlicet, quod si forte excommunicatus in praedicta summa puniri nequiverit, minori, vel alias secundum providentiam sui dioecesani episcopi puniatur, sicut a praelatis Franciae observatur. [1]</p>
+                    <p>Si autem universitas culpa sua fuerit intricata, poena puniatur eadem.</p>
+                    <p>Si vero pro culpa domini, ipse dominus poena simili puniatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Item quia Judaei usurariis exactionibus plurimum opprimunt Christianos, cum a Domino generaliter prohibeantur usurae: synodali concilio duximus providendum, ne Judaei aliquatenus a Christianis immoderatas aliquatenus usuras accipiant.</p>
+                    <p>Quod si fecerint, eas restituere ab ecclesia compellantur: videlicet per excommunicationem in Christianos, qui cum eis in commercio vel aliis participationem habebunt.</p>
+                    <p>Nec in domibus suis habeant Christiana mancipia, vel nutrices: nec carnibus publice vescantur, vel vendant eas indiebus, quibus abstinent Christiani.</p>
+                    <p>Nec in bajuliis, vel aliquibus officiis, praeesse Christianis permittantur.</p>
+                    <p>Carnes etiam, quas ipsi faciunt, privatim tantum in domibus suis vendant, et non in Christianorum macellis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) Ad hoc ut Judaei possint ab aliis discerni, statuimus, et districte praecipimus, ut in medio pectoris deferant signum rotae, cujus circulus sit latitudinis unius digiti, altitudo vero unius dimidii palmi de canna.</p>
+                    <p>Nihilominus inhibemus iisdem diebus Dominicis et festivis publice operari.</p>
+                    <p>Et ne Christianos scandalizent, vel scandalizentur ab iis, volumus et mandamus, ut in septimana sancta nullatenus, nisi causa necessitatis, exeant domos suas: et praelati faciant eos a Christianorum vexationibus custodiri, maxime in septimana praedicta.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) Statuimus insuper, ut Judaei singulis annis in festo Dominicae resurrectionis, sex denarios Melgorensis monetae per singulas familias, pro oblatione ecclesiae parochiali persolvant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) Item, quia ultima voluntas defuncti debet inviolabiliter observari: volumus et praecipimus, ut testamentum, vel ultima voluntas cujusque, in praesentia semper catholicorum virorum, et parochialis sacerdotis, vel alterius ecclesiasticae personae loco ipsius, condatur.</p>
+                    <p>Praesertim ut idem sacerdos, vel alia ecclesiastica persona, valeat de ipso testatore laudabile testimonium perhibere, ne de ipso aliqua infidelitatis suspicio possit haberi: et maxime, ut ea, quae in pias causas reliquerit, fideliter et citius sine fraude solvantur.</p>
+                    <p>Quod si testator [2] vocare, ut diximus, sacerdotem et viros catholicos contempserit: careat ecclesiastica sepultura, donec de hujus mandati contemptu, ecclesiae satisfactum fuerit competenter.</p>
+                    <p>Notariis vero, qui absque solemnitate superius expressa notare vel scribere praesumpserint testamenta vel ultimas voluntates, ecclesiae introitus interdicatur usque ad satisfactionem condignam.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>(6) Item, cum religio juramenti peccatis exigentibus fere ab omnibus in istis partibus contemnatur: contra hujusmodi contemptores aliquid securitatis pro salute animarum ipsorum, duxit praesens concilium statuendum.</p>
+                    <p>Videlicet ut quicumque in transgressione juramenti de cetero manifeste deprehensus fuerit, in ecclesia publice denuncietur esse perjurus.</p>
+                    <p>Quod si admonitus satisfacere noluerit, tunc excommunicetur accensis candelis, et pulsatis campanis, singulis diebus Dominicis et festivis: et denuncietur intestabilis et infamis, et nec ad testimonium vel ad alios actus legitimos admittatur.</p>
+                    <p>Et idem de falsis testibus observetur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>(7) Item statuit praesens synodus, quod nomina illorum omnium, qui peccata sua confessi fuerint, scribantur a capellanis, qui confessiones audiverunt eorumdem: ut laudabile testimonium de confessionibus eorum valeant perhibere.</p>
+                    <p>Illis vero qui confiteri contempserint saltem semel in anno a decimo quarto anno supra, vivis, introitus ecclesiae usque ad satisfactionem condignam; mortuis vero, interdicatur ecclesiastica sepultura.</p>
+                    <p>Illi vero qui confessiones illorum audiverint, in loco patenti audiant, non occulto.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>(8) Item, de publicis usurariis, incestuosis, concubinariis, adulteris et raptoribus, fuit in praesenti concilio constitutum, ut singulis diebus Dominicis et festivis publice in ecclesia excommunicentur.</p>
+                    <p>Similiter et illi qui testamenta defunctorum publicare et complere post competentes admonitiones renuerint excommunicationi subdantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>(9) Item cum in concilio Lateranensi et aliis sit frequenter per Romanum pontificem constitutum, quod presbyteris in ecclesiis monachorum et aliarum personatum, ad suam, et ad suorum sustentationem, portio sufficiens assignetur: ne a domno Papa possimus merito reprehendi, vobis abbatibus, prioribus, et aliis regularibus et saecularibus, qui habetis vel teneris ecclesias hujusmodi, praecipimus, ut in vestris ecclesiis, episcopis personas praesentetis idoneas, quibus per episcopos animarum cura commissa usque ad festum Pentecostes proxime venturum, secundum facultates ecclesiarum, arbitrio bonorum virorum, portionem idoneam assignetis: videlicet, qua tam ipsi, quam sui, valeant sustentari honeste, et alia facere, quae continentur in pluribus constitutionibus, quae jamdudum super hoc a sede apostolica emanarunt.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>(10) Illud praeterea duximus exponendum, ut in ecclesiis vestris, non pauciores faciant moram quam tres monachi, vel canonici regulares: sicut alia vice per dominum Petrum Beneventanum, tunc apostolicae sedis legatum, fuit in provinciali concilio constitutum, et postmodum observatum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>(11) Adjicimus insuper, ut monachi vel canonici regulares, vel etiam sacerdotes, nisi pro ecclesiis suis et miserabilibus personis, et de praelati sui licentia speciali, in foro saeculari vel ecclesiastico advocare nullatenus praesumant.</p>
+                    <p>Quod si forte pars adversa repellere tales neglexerint vel noluerit, a judice repellantur omnino.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>(12) Item statuimus: ut clerici, occasione patrimonii sui, vel personae, nullatenus tallientur, et tam consules, quam alii laici, ab his talliis et exactionibus per censuram ecclesiasticam, si necesse fuerit, compescantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>(13) De novis pedagiis et quidagiis statuit concilium, ut per ecclesiasticum judicem, si necesse fuerit, prohibeantur omnino.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>(14) Volumus insuper, et districte mandamus, ut ab episcopis testes synodales in singulis instituantur parochiis, qui de haeresi, et de aliis criminibus manifestis diligenter inquirant, postmodum episcopis quod invenerint relaturi.</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>(15) Consules nihilominus, castellani, potestates, et barones, abjurare haereticos et fautores, nec non et receptatores eorum, per censuram ecclesiasticam compellantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>(16) Qui vero quondam haeretici vestiti vel notati fuerint, aut merito suspecti sunt, a bajuliis vel officiis publicis, si qua habent, praecipimus ut amoveantur ex toto, nec de cetero ad hujusmodi assumantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 17</head>
+                    <p>(17) Item, statuimus et praecipimus observari districte, ut Raimundus filius Raimundi quondam comitis Tolosani, comes Fuxensis, et Trincavellus, qui dicitur vicecomes Biterrensis, Tolosani haeretici, credentes, fautores, defensores, et receptatores eorum, et praesertim illi de Limoso, et alii qui felicis recordationis domno Ludovico regi Franciae juraverant, et postmodum aversi sunt ab ecclesia: omnes etiam illi, qui arma, equos, victualia, vel alia subsidia vendunt, donant, mittunt, vel praestant eis scienter, candelis accensis et pulsatis campanis denuncientur excommunicati et expositi cuilibet occupanti tam in rebus, quam in personis, per singulas parochias singulis diebus Dominicis et festivis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18</head>
+                    <p>(18) Item, quia in multis canonibus et frequenter ordinatum est et statutum, ut archiepresbyteri, praepositi, abbates, et alii qui curam animarum habent, debeant ad sacerdotium promoveri: mandamus et praecipimus, ut tales, et illi qui ecclesias parochiales habent, ad sacerdotii gradum promoveantur, et ibi serviant ut tenentur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 19</head>
+                    <p>(19) Praecipimus similiter capellanis et aliis ecclesiarum rectoribus, ut quaestores praedicare in ecclesiis non permittant: sed legantur dumtaxat litterae, si quas habent, prout ordinatum fuit in concilio generali.</p>
+                </div>
+                <div>
+                    <head>Capitulum 20</head>
+                    <p>(20) Item, ad tollendam quorumdam dubietatem de celebrando festo S. Matthiae, et jejuniis quatuor temporum in Septembri: notum fieri universis volumus, et praecipimus observari, ut semper in anno bissextili posteriore die celebretur festum praedictum, et in quarta feria, quae tertia prior in Septembri occurrit, jejunia quatuor temporum celebrentur.</p>
+                    <p>Adjicientes, ut singulis annis in Dominica, qua cantatur Laetare Hierusalem, provinciale concilium celebretur.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] no period visible in scan but appears to be end of sentence.</p>
+                    <p>[2] Printed with end of line hyphen as &quot;te-testator&quot;.</p>
+                </div>
             </div>
         </body>
     </text>

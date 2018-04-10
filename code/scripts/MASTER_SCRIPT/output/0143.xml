@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 0143</recordID>
+                <title>Autun (#0143)</title>
+                <recordID>0143</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate>1315-05-27</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Autun</origPlace>
                 <diocese>Autun</diocese>
                 <province>Lyons</province>
-                <country/>
+                <country>France</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Diocesan</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,33 +55,75 @@
     <text>
         <body>
             <div>
-                <head>incipit</head>
-                <p>ANNo Domini M. CCC. XV. die Martis post quindenam Pentecostes ex parte domini episcopi AEduensis praesentibus archipresbyteris totius AEduensis dioecesis statuta sunt ea quae inferius continentur.</p>
+                <head>Metadata</head>
+                <p>RecordID: 143</p>
+                <p>Year: 1315</p>
+                <p>Month: 5</p>
+                <p>Day: 27</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Autun</p>
+                <p>Diocese: Autun</p>
+                <p>Province: Lyons</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 46.951667</p>
+                <p>Longitude: 4.299444</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Elie Guidonis</p>
+                <p>IssuingAuthorityAlt: Elias Guidonis</p>
+                <p>RegnalStart: 1309</p>
+                <p>RegnalEnd: 1322</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Martene, Thes, IV, coll. 493-94</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Data Capture']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
             </div>
             <div>
-                <head>001</head>
-                <p>(1) Periculis modis omnibus oviandum.</p>
-                <p>Datum est intelligi reverendo patri domino episcopo AEduensi, quod nonnulli maligni portantibus litteras domini episcopi vel sui officialis AEduensis insidiantur, et eos capiunt, verberant, vel litteras destruunt.</p>
-                <p>Idcirco statuimus, ut quotiescumque praedictae litterae ad quemlibet curatum vel vicarium AEduensis dioecesis pervenerint, et deportans coram eis periculum allegaverit, quod ipsum dictum nuncium incontinenti expediant, ut dictum mandatum in dictis litteris contentum faciant sub poena X. librarum, quousque nuncius portans secundum canonum aestimationem possit esse in loco securo, nisi alia causa necessaria emineret.</p>
-            </div>
-            <div>
-                <head>002</head>
-                <p>(2) Item praecipitur, quod quolibet mense manuale legatur.</p>
-            </div>
-            <div>
-                <head>003</head>
-                <p>(3) Item, omnes impedientes et perturbantes jurisdictionem ecclesiasticam, ubi de jure et antiqua consuetudine juridictio ad forum ecclesiasticum dignoscitur pertinere, sive adeundo ad curiam, sive redeundo, vel alias quoquomodo, sint constitutione Bonifaciana excommunicatione innodati, vobis praecipiendo mandamus in virtute sanctae obedientiae, et sub poena excommunicationis injungimus, quod omnes tales excommunicatos publice nuncietis diebus dominicis et festivis, et ab omnibus celebrantibus in archipresbyteratibus nostris hoc in ecclesiis sive capitulis, sive alte, sive basse, sub eadem poena excommunicationis omnes tales turbantes eodem modo nunciari faciatis.</p>
-            </div>
-            <div>
-                <head>004</head>
-                <p>(4) Item, diebus dominicis publici usurarii excommunicentur.</p>
-            </div>
-            <div>
-                <head>005</head>
-                <p>(5) Item, sollicitatores monialium excommunicamus, excommunicati publice nuncientur.</p>
-            </div>
-            <div>
-                <head>explicit</head>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>ANNo Domini M. CCC. XV. die Martis post quindenam Pentecostes ex parte domini episcopi AEduensis praesentibus archipresbyteris totius AEduensis dioecesis statuta sunt ea quae inferius continentur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) Periculis modis omnibus oviandum.</p>
+                    <p>Datum est intelligi reverendo patri domino episcopo AEduensi, quod nonnulli maligni portantibus litteras domini episcopi vel sui officialis AEduensis insidiantur, et eos capiunt, verberant, vel litteras destruunt.</p>
+                    <p>Idcirco statuimus, ut quotiescumque praedictae litterae ad quemlibet curatum vel vicarium AEduensis dioecesis pervenerint, et deportans coram eis periculum allegaverit, quod ipsum dictum nuncium incontinenti expediant, ut dictum mandatum in dictis litteris contentum faciant sub poena X. librarum, quousque nuncius portans secundum canonum aestimationem possit esse in loco securo, nisi alia causa necessaria emineret.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Item praecipitur, quod quolibet mense manuale legatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) Item, omnes impedientes et perturbantes jurisdictionem ecclesiasticam, ubi de jure et antiqua consuetudine juridictio ad forum ecclesiasticum dignoscitur pertinere, sive adeundo ad curiam, sive redeundo, vel alias quoquomodo, sint constitutione Bonifaciana excommunicatione innodati, vobis praecipiendo mandamus in virtute sanctae obedientiae, et sub poena excommunicationis injungimus, quod omnes tales excommunicatos publice nuncietis diebus dominicis et festivis, et ab omnibus celebrantibus in archipresbyteratibus nostris hoc in ecclesiis sive capitulis, sive alte, sive basse, sub eadem poena excommunicationis omnes tales turbantes eodem modo nunciari faciatis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) Item, diebus dominicis publici usurarii excommunicentur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) Item, sollicitatores monialium excommunicamus, excommunicati publice nuncientur.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
             </div>
         </body>
     </text>

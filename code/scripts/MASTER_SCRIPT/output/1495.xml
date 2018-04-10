@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 1495</recordID>
+                <title>York (#1495)</title>
+                <recordID>1495</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate>1238-01-27</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>Pontefract</origPlace>
                 <diocese>York</diocese>
                 <province>York</province>
-                <country/>
+                <country>England</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Diocesan</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,10 +55,58 @@
     <text>
         <body>
             <div>
-                <head>text</head>
-                <p>Ne clerici vel laici intersint contractui matrimoniali ante denuntiationes.</p>
-                <p>Die martis proxima ante festum Purificationis beate Marie apud Pontefractum anno domini millesimo ccmo xxxvii facta fuit hec prohibitio.</p>
-                <p>Prohibemus sacerdotibus et clericis universis sub pena suspensionis per triennium necnon laicis omnibus sub pena suspensionis ac fustigationis ne quis ausu temerario alicui contractui matrimoniali per verba de presenti celebrando interesse presumat nisi precesserint legitime denuntiationes in ecclesiis faciende, pena etiam graviori si culpe qualitas postulaverit transgressoribus imponenda; et hec prohibitio publicetur singulis diebus dominicis in ecclesiis.</p>
+                <head>Metadata</head>
+                <p>RecordID: 1495</p>
+                <p>Year: 1238</p>
+                <p>Month: 1</p>
+                <p>Day: 27</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Pontefract</p>
+                <p>Diocese: York</p>
+                <p>Province: York</p>
+                <p>CountryModern: England</p>
+                <p>Latitude: 53.691</p>
+                <p>Longitude: -1.312</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Walter Gray</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: Either published by bishop in an unrecorded synod at Pontefract or else by archdeacon of York in archidiaconal synod/chapter</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Powicke &amp; Cheney I, 259-60</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: Data Capture</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>All Text</head>
+                    <p>Ne clerici vel laici intersint contractui matrimoniali ante denuntiationes.</p>
+                    <p>Die martis proxima ante festum Purificationis beate Marie apud Pontefractum anno domini millesimo ccmo xxxvii facta fuit hec prohibitio.</p>
+                    <p>Prohibemus sacerdotibus et clericis universis sub pena suspensionis per triennium necnon laicis omnibus sub pena suspensionis ac fustigationis ne quis ausu temerario alicui contractui matrimoniali per verba de presenti celebrando interesse presumat nisi precesserint legitime denuntiationes in ecclesiis faciende, pena etiam graviori si culpe qualitas postulaverit transgressoribus imponenda; et hec prohibitio publicetur singulis diebus dominicis in ecclesiis.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1]</p>
+                    <p>[2]</p>
+                    <p>[]</p>
+                </div>
             </div>
         </body>
     </text>

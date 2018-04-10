@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title/>
-                <recordID>Record ID: 1442</recordID>
+                <title>York (#1442)</title>
+                <recordID>1442</recordID>
                 <transcription/>
                 <respStmt>
                     <resp/>
@@ -27,16 +27,16 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage/>
+            <langUsage>Latin</langUsage>
             <languageNote/>
             <langUsage/>
             <creation>
-                <origDate/>
+                <origDate precision="circa">1470</origDate>
                 <dateNotes/>
-                <origPlaces/>
+                <origPlace>York</origPlace>
                 <diocese>York</diocese>
                 <province>York</province>
-                <country/>
+                <country>England</country>
                 <geo/>
                 <placeNotes/>
                 <orgName/>
@@ -47,7 +47,7 @@
                 <classNotes/>
             </creation>
             <textDesc>
-                <domain/>
+                <domain>Other</domain>
             </textDesc>
             <genNotes/>
         </profileDesc>
@@ -55,164 +55,210 @@
     <text>
         <body>
             <div>
-                <head>incipit</head>
-                <p>Et quia tam rectores, quam vicarii, quam presbyteri parochianos suos ad confitendum passim admittere perpendimus, inter crimina, et crimina quae sint enormia, et quae levia, non distinguentes; cum tamen in nonnullis casibus incurratur irregularitas, in aliis vero licet irregularitas non contrahatur, absolutio tamen sedi apostolicae specialiter reservatur, et nonnunquam nobis permittitur, seu conceditur absolutio in eisdem.</p>
-                <p>Maiora crimina quae nobis et paenitentiario nostro retinemus, faciemus in brevi, Deo dante, dilucide apparere, ut in casibus in quibus absolutio pertinet ad nos, confitentes absolvimus; in aliis vero ad sedem apostolicam transmittimus eosdem, pro absolutione, sicut convenit, obtinenda.</p>
+                <head>Metadata</head>
+                <p>RecordID: 1442</p>
+                <p>Year: 1470</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: Yes</p>
+                <p>DatingNotes: 1465x1476</p>
+                <p>Place: York</p>
+                <p>Diocese: York</p>
+                <p>Province: York</p>
+                <p>CountryModern: England</p>
+                <p>Latitude: 53.958333</p>
+                <p>Longitude: -1.080278</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Other</p>
+                <p>IssuingAuthority: George Neville</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1465</p>
+                <p>RegnalEnd: 1476</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Records of Convocation, vol. 13: York, 477-479</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['Library Scan', 'Hard Copy Scan']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: List of reserved cases, attributed to AB George Neville</p>
+                <p>BiblioRefs: None</p>
             </div>
             <div>
-                <head>001</head>
-                <p>(1) Primus casus est cum eo, qui peccat contra fidem.</p>
-            </div>
-            <div>
-                <head>002</head>
-                <p>(2) Secundus est in eo, qui peccat contra naturam, et maxime cum brutis.</p>
-            </div>
-            <div>
-                <head>003</head>
-                <p>(3) Tertius casus in eo, qui peccat homicidium committendo.</p>
-            </div>
-            <div>
-                <head>004</head>
-                <p>(4) Quartus est in eo qui peccat contra Deum, vel aliquem sanctorum, publice blasphemando.</p>
-            </div>
-            <div>
-                <head>005</head>
-                <p>(5) Quintus est in eo qui peccat contra ecclesiam, violenter frangendo, aut ecclesiasticas immunitates seu libertates violendo.</p>
-            </div>
-            <div>
-                <head>006</head>
-                <p>(6) Sextus est incestum committendo.</p>
-            </div>
-            <div>
-                <head>007</head>
-                <p>(7) Septimus est adulterium notorium committendo.</p>
-            </div>
-            <div>
-                <head>008</head>
-                <p>(8) Octavus est falsum testimonium perhibendo, et sic periurium committendo.</p>
-            </div>
-            <div>
-                <head>009</head>
-                <p>(9) Nonus est in committendo simoniam.</p>
-            </div>
-            <div>
-                <head>010</head>
-                <p>(10) Decimus est in committemndo sortilegium.</p>
-            </div>
-            <div>
-                <head>011</head>
-                <p>(11) Undecimus est in illis, qui faciunt coniurationes et conspirationes contra praelatos suos.</p>
-            </div>
-            <div>
-                <head>012</head>
-                <p>(12) Duodecimus est incendium perpetrando.</p>
-            </div>
-            <div>
-                <head>013</head>
-                <p>(13) Decimus tertius est contra votum licitum et honestum veniendo.</p>
-            </div>
-            <div>
-                <head>014</head>
-                <p>(14) Decimus quartus est in parentibus, qui liberos suos opprimunt.</p>
-            </div>
-            <div>
-                <head>015</head>
-                <p>(15) Decimus quintus est in his qui sanctimoniales corrumpunt.</p>
-            </div>
-            <div>
-                <head>016</head>
-                <p>(16) Decimus sextus est in eo qui in clericum, vel personam religiosam quamcunque manus iniecit violentas, vel cum potest, eos a violenta manuum iniectione non defendit, vel qui clericum inimicum detinet, licet manum non iniiciat, ut forte ponendo eum custodiae, vel infra domum aliquam includens.</p>
-            </div>
-            <div>
-                <head>017</head>
-                <p>(17) Decimus septimus est in eo qui per se vel per alium literas alicuius domini falsaverit, seu, huiusmodi falsarios foverit, seu eos defenderit.</p>
-            </div>
-            <div>
-                <head>018</head>
-                <p>(18) Decimus octavus est in eo qui huiusmodi literas ab alio falsatas habuerit, et scienter talibus usus fuerit.</p>
-            </div>
-            <div>
-                <head>019</head>
-                <p>(19) Decimus nonus est in archidiaconis, decanis, plebanis, praepositis, cantoribus, et aliis clericis personatus habentibus, necnon presbyteris legem vel physicam audientibus, nisi infra duorum mensium spatium destiterint omnino.</p>
-            </div>
-            <div>
-                <head>020</head>
-                <p>(20) Vicesimus est in eo qui participat in crimine propter crimen suum, cum excommunicato.</p>
-            </div>
-            <div>
-                <head>021</head>
-                <p>(21) Vicesimus primus est qui sponte et scienter participat cum excommunicato a domino papa in divinis officiis.</p>
-            </div>
-            <div>
-                <head>022</head>
-                <p>(22) Vicesimus secundus est in illis qui ecclesiis, sacerdotibus et eorum possessionibus exactiones, seu onera indebita imponunt, nisi moniti destiterint.</p>
-            </div>
-            <div>
-                <head>023</head>
-                <p>(23) Vicesimus tertius in usurariis publicis, et in his qui ab eis oblationes recipiunt, vel eos ad ecclesiasticam sepulturam admittunt.</p>
-            </div>
-            <div>
-                <head>024</head>
-                <p>(24) Vicesimus quartus est in illo qui celebrat, vel alias in ordine suo officiat, excommunicatus maiori excommunicatione, vel suspensus aut interdictus ab homine.</p>
-            </div>
-            <div>
-                <head>025</head>
-                <p>(25) Vicesimus quintus in clerico, qui accedit ad iudicium principis saeculare, contempto iudice ecclesiastico.</p>
-            </div>
-            <div>
-                <head>026</head>
-                <p>(26) Vicesimus sextus in clerico qui bigamiam contraxit.</p>
-            </div>
-            <div>
-                <head>027</head>
-                <p>(27) Vicesimus septimus in clerico non ordinato ministrante.</p>
-            </div>
-            <div>
-                <head>028</head>
-                <p>(28) Vicesimus octavus in clerico per saltum ad ordines promoto.</p>
-            </div>
-            <div>
-                <head>029</head>
-                <p>(29)  Vicesimus nonus in eo qui ordinem furtive suscepit.</p>
-            </div>
-            <div>
-                <head>030</head>
-                <p>(30)  Tricesimus est, si se fecerit quis in eodem ordine iterum ordinari.</p>
-            </div>
-            <div>
-                <head>031</head>
-                <p>(31)  Tricesimus primus est in eo qui fecerit iterum baptizari.</p>
-            </div>
-            <div>
-                <head>032</head>
-                <p>(32) Tricesimus secundus, si ad subversionem fidei adhaeserit haereticis, et in contemptum ecclesiae se ab eis fecerit baptizari, vel ordinari.</p>
-            </div>
-            <div>
-                <head>033</head>
-                <p>(33) Tricesimus tertius est in ordinato extra quatuor tempora, vel alias illicite, et ante dispensationem obtentam ministrante.</p>
-            </div>
-            <div>
-                <head>034</head>
-                <p>(34) Tricesimus quartus casus est in illo, qui suspensus est a divinis officiis a canone, et sic suspenso divina celebrante.</p>
-                <p>In casu in quo summus pontifex sibi dispensationem reservat; in casu illius canonis qui incipit [1] De sententia et re iudicata et secundi videlicet libro sexto [2] Cum aeterni.</p>
-                <p>Et in casu canonis qui incipit sic: [3] Cum medicinalis, quorum uterque est concilii Lugdunensis.</p>
-            </div>
-            <div>
-                <head>035</head>
-                <p>(35) Tricesimus quintus est in eo qui in sententia excommunicationis ordines suscepit.</p>
-            </div>
-            <div>
-                <head>036</head>
-                <p>(36) Tricesimus sextus est in illis qui de domibus, maneriis, seu grangiis vel locis aliis archiepiscoporum, episcoporum, vel aliarum personarum ecclesiasticarum, contra ipsarum voluntatem, vel custodem rerum earundem aliquid auferunt, vel consumunt, vel iniuriose contrectant.</p>
-            </div>
-            <div>
-                <head>037</head>
-                <p>(37) Tricesimus septimus est, et ultimus in his, qui publice perpetraverint delicta enormia, unde tota civitas, urbs, villa, vel patria commovetur, pro quibus publica paenitentia fuerit iniungenda.</p>
-                <p>In his igitur excessibus et aliis qui maioribus annumerantur, nobis, vel nostro paenitentiario, praeterquam in mortis articulo mitti volumus delinquentem.</p>
-                <p>Literas autem gratis concedi praecipimus paenitenti, et, ut liqueat, qualis paenitentia fuerit, et pro quo crimine sit iniuncta, paenitens literas a paenitentiario referat ad mittentem, qui paenitentiam a paenitentiario iniunctam non remittat; sed nec in poenam pecuniariam, si forsan corporalis iniuncta fuerit, sed nec alias quoquo modo commutare praesumat sub poena suspensionis ab officio, quam ipso facto incurrat, si secus egerit, donec nostram meruerit gratiam obtinere.</p>
-            </div>
-            <div>
-                <head>explicit</head>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Et quia tam rectores, quam vicarii, quam presbyteri parochianos suos ad confitendum passim admittere perpendimus, inter crimina, et crimina quae sint enormia, et quae levia, non distinguentes; cum tamen in nonnullis casibus incurratur irregularitas, in aliis vero licet irregularitas non contrahatur, absolutio tamen sedi apostolicae specialiter reservatur, et nonnunquam nobis permittitur, seu conceditur absolutio in eisdem.</p>
+                    <p>Maiora crimina quae nobis et paenitentiario nostro retinemus, faciemus in brevi, Deo dante, dilucide apparere, ut in casibus in quibus absolutio pertinet ad nos, confitentes absolvimus; in aliis vero ad sedem apostolicam transmittimus eosdem, pro absolutione, sicut convenit, obtinenda.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) Primus casus est cum eo, qui peccat contra fidem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Secundus est in eo, qui peccat contra naturam, et maxime cum brutis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) Tertius casus in eo, qui peccat homicidium committendo.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) Quartus est in eo qui peccat contra Deum, vel aliquem sanctorum, publice blasphemando.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) Quintus est in eo qui peccat contra ecclesiam, violenter frangendo, aut ecclesiasticas immunitates seu libertates violendo.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>(6) Sextus est incestum committendo.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>(7) Septimus est adulterium notorium committendo.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>(8) Octavus est falsum testimonium perhibendo, et sic periurium committendo.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>(9) Nonus est in committendo simoniam.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>(10) Decimus est in committemndo sortilegium.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>(11) Undecimus est in illis, qui faciunt coniurationes et conspirationes contra praelatos suos.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>(12) Duodecimus est incendium perpetrando.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>(13) Decimus tertius est contra votum licitum et honestum veniendo.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>(14) Decimus quartus est in parentibus, qui liberos suos opprimunt.</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>(15) Decimus quintus est in his qui sanctimoniales corrumpunt.</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>(16) Decimus sextus est in eo qui in clericum, vel personam religiosam quamcunque manus iniecit violentas, vel cum potest, eos a violenta manuum iniectione non defendit, vel qui clericum inimicum detinet, licet manum non iniiciat, ut forte ponendo eum custodiae, vel infra domum aliquam includens.</p>
+                </div>
+                <div>
+                    <head>Capitulum 17</head>
+                    <p>(17) Decimus septimus est in eo qui per se vel per alium literas alicuius domini falsaverit, seu, huiusmodi falsarios foverit, seu eos defenderit.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18</head>
+                    <p>(18) Decimus octavus est in eo qui huiusmodi literas ab alio falsatas habuerit, et scienter talibus usus fuerit.</p>
+                </div>
+                <div>
+                    <head>Capitulum 19</head>
+                    <p>(19) Decimus nonus est in archidiaconis, decanis, plebanis, praepositis, cantoribus, et aliis clericis personatus habentibus, necnon presbyteris legem vel physicam audientibus, nisi infra duorum mensium spatium destiterint omnino.</p>
+                </div>
+                <div>
+                    <head>Capitulum 20</head>
+                    <p>(20) Vicesimus est in eo qui participat in crimine propter crimen suum, cum excommunicato.</p>
+                </div>
+                <div>
+                    <head>Capitulum 21</head>
+                    <p>(21) Vicesimus primus est qui sponte et scienter participat cum excommunicato a domino papa in divinis officiis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 22</head>
+                    <p>(22) Vicesimus secundus est in illis qui ecclesiis, sacerdotibus et eorum possessionibus exactiones, seu onera indebita imponunt, nisi moniti destiterint.</p>
+                </div>
+                <div>
+                    <head>Capitulum 23</head>
+                    <p>(23) Vicesimus tertius in usurariis publicis, et in his qui ab eis oblationes recipiunt, vel eos ad ecclesiasticam sepulturam admittunt.</p>
+                </div>
+                <div>
+                    <head>Capitulum 24</head>
+                    <p>(24) Vicesimus quartus est in illo qui celebrat, vel alias in ordine suo officiat, excommunicatus maiori excommunicatione, vel suspensus aut interdictus ab homine.</p>
+                </div>
+                <div>
+                    <head>Capitulum 25</head>
+                    <p>(25) Vicesimus quintus in clerico, qui accedit ad iudicium principis saeculare, contempto iudice ecclesiastico.</p>
+                </div>
+                <div>
+                    <head>Capitulum 26</head>
+                    <p>(26) Vicesimus sextus in clerico qui bigamiam contraxit.</p>
+                </div>
+                <div>
+                    <head>Capitulum 27</head>
+                    <p>(27) Vicesimus septimus in clerico non ordinato ministrante.</p>
+                </div>
+                <div>
+                    <head>Capitulum 28</head>
+                    <p>(28) Vicesimus octavus in clerico per saltum ad ordines promoto.</p>
+                </div>
+                <div>
+                    <head>Capitulum 29</head>
+                    <p>(29)  Vicesimus nonus in eo qui ordinem furtive suscepit.</p>
+                </div>
+                <div>
+                    <head>Capitulum 30</head>
+                    <p>(30)  Tricesimus est, si se fecerit quis in eodem ordine iterum ordinari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 31</head>
+                    <p>(31)  Tricesimus primus est in eo qui fecerit iterum baptizari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 32</head>
+                    <p>(32) Tricesimus secundus, si ad subversionem fidei adhaeserit haereticis, et in contemptum ecclesiae se ab eis fecerit baptizari, vel ordinari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 33</head>
+                    <p>(33) Tricesimus tertius est in ordinato extra quatuor tempora, vel alias illicite, et ante dispensationem obtentam ministrante.</p>
+                </div>
+                <div>
+                    <head>Capitulum 34</head>
+                    <p>(34) Tricesimus quartus casus est in illo, qui suspensus est a divinis officiis a canone, et sic suspenso divina celebrante.</p>
+                    <p>In casu in quo summus pontifex sibi dispensationem reservat; in casu illius canonis qui incipit [1] De sententia et re iudicata et secundi videlicet libro sexto [2] Cum aeterni.</p>
+                    <p>Et in casu canonis qui incipit sic: [3] Cum medicinalis, quorum uterque est concilii Lugdunensis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 35</head>
+                    <p>(35) Tricesimus quintus est in eo qui in sententia excommunicationis ordines suscepit.</p>
+                </div>
+                <div>
+                    <head>Capitulum 36</head>
+                    <p>(36) Tricesimus sextus est in illis qui de domibus, maneriis, seu grangiis vel locis aliis archiepiscoporum, episcoporum, vel aliarum personarum ecclesiasticarum, contra ipsarum voluntatem, vel custodem rerum earundem aliquid auferunt, vel consumunt, vel iniuriose contrectant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 37</head>
+                    <p>(37) Tricesimus septimus est, et ultimus in his, qui publice perpetraverint delicta enormia, unde tota civitas, urbs, villa, vel patria commovetur, pro quibus publica paenitentia fuerit iniungenda.</p>
+                    <p>In his igitur excessibus et aliis qui maioribus annumerantur, nobis, vel nostro paenitentiario, praeterquam in mortis articulo mitti volumus delinquentem.</p>
+                    <p>Literas autem gratis concedi praecipimus paenitenti, et, ut liqueat, qualis paenitentia fuerit, et pro quo crimine sit iniuncta, paenitens literas a paenitentiario referat ad mittentem, qui paenitentiam a paenitentiario iniunctam non remittat; sed nec in poenam pecuniariam, si forsan corporalis iniuncta fuerit, sed nec alias quoquo modo commutare praesumat sub poena suspensionis ab officio, quam ipso facto incurrat, si secus egerit, donec nostram meruerit gratiam obtinere.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] 'De sen[tentia et re iudicata]' in quotes/brackets</p>
+                    <p>[2] 'Cum aeterni'. in quotes</p>
+                    <p>[3] 'Cum medicinalis' in quotes</p>
+                    <p>[]</p>
+                </div>
             </div>
         </body>
     </text>
