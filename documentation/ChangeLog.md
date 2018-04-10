@@ -43,7 +43,7 @@ History:
 
 ### General Notes:
 
-- :star2: You can choose multiple facets (e.g See results from province "Reims" or "Trier".)
+- :star2: You can choose multiple facet options (e.g See results from province "Reims" or "Trier".)
     - To do so, go to `Show Search Options` > `Province` and type in `Reims OR Trier`
     - It also supports `Reims NOT Trier`
 - :star2: You can filter results by specifying start and end years. 
