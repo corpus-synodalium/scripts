@@ -1,5 +1,9 @@
 # Local Legislation (Change Log)
 
+History:
+
+- [Version 1.0](#v10)
+
 ## v1.0 
 
 > Apr 10, 2018
