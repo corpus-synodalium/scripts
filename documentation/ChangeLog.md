@@ -10,8 +10,9 @@
 - Users can now see all text in one page.
 - Added 'FootNotes' section in text body.
 - Added 'Metadata' section in text body.
-- "Time Series" feature now working.
-- Multiple "sort by" options added.
+- Removed empty 'Incipit' and 'Explicit' sections, excluding those that say "None".
+- :star2: "Time Series" feature now working.
+- :star2: Multiple "sort by" options added.
 - Added and re-ordered facets and search options.
 - Renamed 'head' facet to 'header'
 
