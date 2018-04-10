@@ -43,7 +43,11 @@ History:
 
 ### General Notes:
 
-- You can filter results by specifying start and end years. To do that, go to `Show Search Options` > `Year` > then type in `1250-1300` for example.
+- :star2: You can choose multiple facets (e.g See results from province "Reims" or "Trier".
+    - To do so, go to `Show Search Options` > `Province` and type in `Reims OR Trier`
+    - It also supports `Reims NOT Trier`
+- :star2: You can filter results by specifying start and end years. 
+    - To do that, go to `Show Search Options` > `Year` and type in `1250-1300` for example.
 - Version 1.0 uses 493 source files.
 - Version 1.0 uses a new version of parser (`master parser`) which is more comprehensive and user-friendly.
 
