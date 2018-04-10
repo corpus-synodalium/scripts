@@ -43,6 +43,7 @@ History:
 
 ### General Notes:
 
+- You can filter results by specifying start and end years. To do that, go to `Show Search Options` > `Year` > then type in `1250-1300` for example.
 - Version 1.0 uses 493 source files.
 - Version 1.0 uses a new version of parser (`master parser`) which is more comprehensive and user-friendly.
 
