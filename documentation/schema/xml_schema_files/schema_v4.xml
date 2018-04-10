@@ -1,0 +1,147 @@
+<!-- Sample XML file that is used in v1.0 -->
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cambrai (#0057)</title>
+                <recordID>0057</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1282-10-01</origDate>
+                <dateNotes/>
+                <origPlace>Cambrai</origPlace>
+                <diocese>Cambrai</diocese>
+                <province>Reims</province>
+                <country>Belgium</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 57</p>
+                <p>Year: 1282</p>
+                <p>Month: 10</p>
+                <p>Day: 1</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Cambrai</p>
+                <p>Diocese: Cambrai</p>
+                <p>Province: Reims</p>
+                <p>CountryModern: Belgium</p>
+                <p>Latitude: 50.175579</p>
+                <p>Longitude: 3.2345</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Enguerrand II de Créqui</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1274</p>
+                <p>RegnalEnd: 1286</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Avril, Statuts, IV, 108-109</p>
+                <p>EditionOther: Boeren, Anciens statuts, III, 407-08</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: Hard Copy Scan</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: Additiones</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Additiones reverendi in Christo patris domini Ingerranni Cameracensis episcopi.</p>
+                    <p>Additiones facte per reverendum patrem Ingerrannum Dei gratia Cameracensem episcopum in sancta synodo Cameracensi anno Domini Mo CCo LXXXo IIo in festo beati Remigii in capite octobris.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) Item precipimus districte quod pro presbyteris et capellanis civitatis et diocesis Cameracensis nobis subditis defunctis, pro ipsorum obitu campane pulsentur solemniter, et nos vere penitentibus et confessis qui ipsorum intererunt obsequiis XX dies de injunctis sibi penitentiis misericorditer relaxamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Item precipimus sub pena suspensionis et excommunicationis omnibus conventibus, capitulis, presbyteris parochialibus vel eorum vices gerentibus, quatenus processiones diebus dominicis ac secundis feriis pro defunctis, prout alias statutum est, faciant ut tenentur nisi fuerint excommunicati vel nominatim interdicti.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) Item precipimus sub pena suspensionis et excommunicationis ne aliqua mandata curie Remensis recipiant vel exequantur sine placet officialis nostri Cameracensis vel saltem ea predicto officiali nostro ostendant antequam exequantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) Item precipimus omnibus decanis nostris christianitatum, presbyteris et capellanis sub pena suspensionis et excommunicationis quatenus portitores litterarum nostrarum et curie nostre Cameracensis incontinenti expediant, ita quod per moram ipsorum nullum detrimentum patiantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) Item precipimus presbyteris parochialibus et eorum vices gerentibus ne aliquam faciant citationem de mandato curie nostre Cameracensis contra aliquos, nisi per tres dies ante dies citationum vel prius secundum quod distantia locorum requirit.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>(6) Item precipimus omnibus subditis nostris quatenus si aliquas litteras apostolicas aliquo vitio suspectas receperint, eas retineant, et decano loci vel officiali nostro transmittant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>(7) Item precipimus omnibus presbyteris parochialibus et eorum vices gerentibus sub pena suspensionis et excommunicationis quatenus singulis diebus dominicis et festis excommunicent publice et solemniter omnes nostram et curie nostre jurisdictionem impedientes et perturbantes, prout in aliis statutis continetur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>(8) Item precipimus omnibus presbyteris parochialibus et eorum vices gerentibus, ne aliquos questuarios ipsorum negotia permittant exponere, sed ipsi presbyteri exponant, licet de contrario littere nostre super hoc fecerint mentionem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>(9) Item precipimus omnibus christianitatum decanis, presbyteris parochialibus, capellanis vel eorum vices gerentibus sub pena suspensionis quatenus, missis et horis competentibus in ipsorum ecclesiis celebratis, earum claudantur ostia, nec aperiantur nisi ex inevitabili causa ea oportuerit aperire.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>None</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>
