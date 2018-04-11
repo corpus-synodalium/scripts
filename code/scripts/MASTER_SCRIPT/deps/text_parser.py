@@ -36,6 +36,7 @@ class TextParser:
         for line in lines:
             # Remove \ufeff (a zero-width character that is known to appear at the beginning of some files)
             line = line.replace('\ufeff', '')
+            line = line.strip()
             if line.startswith('('):
                 # Match (X) at the beginning of a string where X is alpha-numeric string
                 try:
