@@ -87,9 +87,9 @@ class XMLUtils:
     # ---------------------------------------------
     
     def getTitleFromFileName(self, filename):
-        record_id = re.findall(r'^(.*?)_', filename)[0]
+        #record_id = re.findall(r'^(.*?)_', filename)[0]
         name = re.findall(r'^(?:.*?)_(.*?)_(?:.*?)\.txt$', filename)[0]
-        title = '{} (#{})'.format(name, record_id)
+        title = '{}'.format(name)
         return title
 
     def getDateText(self, metadata):
