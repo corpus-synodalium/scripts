@@ -1,5 +1,6 @@
 import re
 from collections import defaultdict
+from pprint import pprint
 
 # text_parser.py (v1) Apr 09, 2018
 # --------------------------------
@@ -29,14 +30,14 @@ class TextParser:
     def readIntoDict(self, lines, input_file_name):
         d = defaultdict(list)
         section_found = False
-        last_section_number = None
+        last_section_number = '1'
         section_names = []
         d['Incipit'] = []
         section_names.append('Incipit')
         for line in lines:
-            if not (section_found or line.startswith('(')):
-                d['Incipit'].append(line)
-            elif line.startswith('('):
+            # Remove \ufeff (a zero-width character that is known to appear at the beginning of the file)
+            line = line.replace('\ufeff', '')
+            if line.startswith('('):
                 # Match (X) at the beginning of a string where X is alpha-numeric string
                 try:
                     last_section_number = re.findall(r'^\((.*?)\)', line)[0]
@@ -50,6 +51,10 @@ class TextParser:
                 section_names.append(last_section_number)
             elif section_found:
                 d[last_section_number].append(line)
+            else:
+                d['Incipit'].append(line)
+            
+        pprint(d)      
                 
         # inspect the last section for explicit (conclusion)
         d['Explicit'] = []
