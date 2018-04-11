@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cambrai</title>
+                <recordID>0775</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1360</origDate>
+                <dateNotes/>
+                <origPlace>Cambrai</origPlace>
+                <diocese>Cambrai</diocese>
+                <province>Reims</province>
+                <country>Belgium</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 775</p>
+                <p>Year: 1360</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Cambrai</p>
+                <p>Diocese: Cambrai</p>
+                <p>Province: Reims</p>
+                <p>CountryModern: Belgium</p>
+                <p>Latitude: 50.175579</p>
+                <p>Longitude: 3.2345</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Pierre de Clermont</p>
+                <p>IssuingAuthorityAlt: Petrus de Claromonte</p>
+                <p>RegnalStart: 1349</p>
+                <p>RegnalEnd: 1368</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Reusens, Statuta, 95-96</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Library Scan', 'WebDownload']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Locus LVIIus.</p>
+                    <p>Additiones facte a domino Petro [1], Cameracensi episcopo, Valenchenis anno Domini millesimo CCC LXo.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) Titulo de reuerencia, jurisdictione et libertate ecclesiarum, cymiteriorum et personarum ecclesiasticarum: Ut ecclesie et cymiteria sanguinis et seminis effusione polluta, et si qua pollui contigerit in posterum diabolo jnstigante, sub tanta diu non remaneant feditate, statuimus ut, si ille uel illj, quorum facto seu culpa polluta sint uel fuerint in futurum, infra mensem reconsiliationem ecclesiarum seu cymiteriorum non procurauerint cum effectu, postquam fuerint super hoc a curatis dictarum ecclesiarum uel cymeteriorum legittime requisitj, canonico tamen jmpedimento cessante, excommunicationis vinculo sunt nodali; et excommunicatj publice nominatimque nuncientur.</p>
+                    <p>Verumptamen, si illi uel ille, quorum facto facta est dicta pollucio uel continget fieri, nostre non sint spirituali jurisdictioni subiectj aut propter suam paupertatem dictam procurare non valeant reconsiliationem cum effectu, parrochiani dictarum ecclesiarum uel cymiteriorum teneantur reconsiliationem illam efficaciter procurare infra duos menses, postquam super hoc a suo curato fuerint legittime requisitj.</p>
+                    <p>Quod si negligentes fuerint uel remissi, ex tunc infra dictam parrochiam cessetur a diuinis; et si quos de dictis parrochianis contingat decedere, sine nostra aut officialis nostri licentia non tradantur ecclesiastice sepulture, donec dictam reconsiliationem procurauerint cum effectu.</p>
+                    <p>Curatj vero in quorum parrochijs premissa fieri contigerit super eisdem cito perficiendis et obseruandis, sicut premittitur, sollicite se habeant, ne possint de negligentia reprehendj.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] Originally P[etro].</p>
+                    <p>[2]</p>
+                    <p>[]</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

@@ -1,0 +1,1052 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Alcala</title>
+                <recordID>0655</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1379-05</origDate>
+                <dateNotes/>
+                <origPlace>Alcalá de Henares</origPlace>
+                <diocese>Toledo</diocese>
+                <province>Toledo</province>
+                <country>Spain</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 655</p>
+                <p>Year: 1379</p>
+                <p>Month: 5</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Alcalá de Henares</p>
+                <p>Diocese: Toledo</p>
+                <p>Province: Toledo</p>
+                <p>CountryModern: Spain</p>
+                <p>Latitude: 40.466667</p>
+                <p>Longitude: -3.366667</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Pedro Tenorio</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1377</p>
+                <p>RegnalEnd: 1399</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: c. 32 in Old Spanish</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Synodicon Hispanum, X, 589-628</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['Library Scan', 'Hard Copy Scan']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Prooemium [1].</p>
+                    <p>Petrus, miseratione divina archiepiscopus Toletanus, Hispaniarum primas, regni Castelle maior cancellarius, venerabilibus et discretis viris decano et capitulo nostre ecclesie Toletane et toti clero civitatis et diocesis Toletane, salutem.</p>
+                    <p>Noveritis quod in sinodo per nos apud nostrum locum de Alcala de Fenares celebrata... [2] die mensis Madii, anno a nativitate Domini millesimo trecentesimo septuagesimo nono, sacra sinodo approbante, constitutiones edidimus subsequentes, quas mandamus publicari, et irrefragabiliter volumus et precipimus observari.</p>
+                    <p>Ab arce summi Patris ad huius terrene peregrinationis exilium celestis ille monarcha descendens, ut hominem, quem primi parentis incauta transgressio legibus eterne mortis adscripserat, sue sacre passionis victoria repararet.</p>
+                    <p>Et quos erat sui sanguinis pretio redempturus, salutaris doctrine institutionibus informaret, has a fidelibus suis hereditarias portiones, pacem scilicet et iustitiam, quas caritas, vocis divine vicaria, velut sorores amplectitur, precipue colendas instituit.</p>
+                    <p>Ac cecitatis humane caligo ab universitatis regula, qua cuncta creata naturali instinctu conditoris sui sanctionibus obsequuntur, sola divine imaginis splendoribus insignita, diminuta paulisper ab angelis ac prelata ceteris creaturis, paterne hereditatis compendium aspernata repudians, ad proprie sensualitatis illecebras monstruosa se mentis alienatione convertit.</p>
+                    <p>Et relicta rationis aurora, brutalitate quadam anomala in scelerum omnium barathrum se demergit, non attendens quod illa hominem in bestiam degenerando transmutat, ista hominem in Deum potentialiter transfigurat, quod ista hominem fecit participare cum angelis, illa eumdem cogit debacchari cum brutis, quod ista in exilio docet hominem patriam invenire, illa in patria cogit hominem exulare.</p>
+                    <p>Quapropter eterni consilii opportuna divisio ad refellendos insolentissime cupiditatis adulterinos excessus, quibus fragilitas humana in immensum rapitur si iustitie ponderibus non privatur, voluit presidentium diversos gradus institui, per quos posset scelerum licentia coerceri.</p>
+                    <p>Inter quos, licet inmeriti, in partem solicitudinis evocati, cupientes de visitatione nobis divina dispensatione commissa talem instruere pro creditis cautionem, quod duplicatam possimus Altissimo de traditis nobis talentis reddere rationem, aliqua pro necessitate temporum, ad Dei et Ecclesie sue laudem ac crediti nobis gregis animarum salutem, de novo statuenda, et aliqua a predecessoribus nostris olim solerti provisione statuta providimus utiliter innovanda, quatenus sic benigna provisione audaciam effrenatam possimus medicinali censura comprimere, quod paulatim sinendo graviorem non cogamur offensam in posterum iudicare, quod fit quando feriata pena nascitur metus, et insolens remanet absque pene districtione correctus.</p>
+                    <p>Humanitatis enim est non tam delicta velle punire, quam tollere, ne aut acriter vindicando presidens estimetur nimius, aut leviter agendo putetur improvidus.</p>
+                    <p>In quorum omnium et singulorum testimonium, presentes constitutiones per infra scriptum notarium in publicam formam redigi mandavimus.</p>
+                    <p>Datum apud dictum locum nostrum de Alcala, prefata... [3] die Madii, qua predicta sinodus extitit terminata, presentibus venerabilibus et discretis viris.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) De iudiciis.</p>
+                    <p>Edendarum legum cause ex alienis plerumque excessibus assumuntur, et laudabilia instituta iustitie ex iniquitatis interdum occasione enascuntur, si enim culpa non vociferetur admissa, feriatum quiescit presidentis ingenium quod non aliqua querela fuerit provocatum.</p>
+                    <p>Conquerentium siquidem vocibus frequenter adacti et ipsius experientie interpellatione commoniti, non novi sed inveterati abusus horrendam perniciem, que causam dedit salutaribus institutis, in hiis partibus invaluisse didicimus, quod causidicorum quorumdam, scilicet advocatorum et procuratorum, tanta est inexplebilis et inhumana voracitas, ut ambitione lucri partibus causas non vereantur inferre dispendiis, dum malitiose per eos inanium verborum captionibus et aucupationibus sillabarum litibus prorrogatis, adeo litigantes eviscerant sumptibus et expensis, quod non tantum ex cause etiam victoria auctis patrimoniis sed eversis, nedum probantur non reportare compendium, sed deflere coguntur interdum damna gravia facultatum.</p>
+                    <p>Horum est officium iura confundere, suscitare lites, dilationes querere, supprimere veritatem, fovere mendacium, questum sequi, iustitiam vendere, inhiare exactionibus et versutias perscrutari.</p>
+                    <p>Hii verborum invidiatores tendunt laqueos in capturam pecunie, iura interpretantur ad libitum, bene dicta depravant, et prudenter allegata pervertunt.</p>
+                    <p>Nos igitur, qui pio patris affectu pro quiete et commodis filiorum quotidianas sollicitudinum curas libenter amplectimur, litium coartare dispendia et malignos ausus prefatos comprimere, quantum nobis est possibile, cupientes, hac sacra approbante sinodo, statuimus ut in causis quorumcumque clericorum necnon laicorum nostre iurisdictioni quomodolibet subditorum, ubicumque morantium, que tamen centum morabetinorum quantitatem seu estimationem nequaquam excedent, per vicarios et officiales aut alcades nostros, quovis nomine nuncupentur, in curia nostra seu vicariorum nostrorum ac etiam in villis, iuribus vel aldeolis et locis aliis quibuscumque nostre iurisdictioni subiectis, necnon per archidiaconos et alios quoscumque in nostra diocesi ecclesiasticam iurisdictionem habentes et eorum loca tenentes, simpliciter et de plano ac sine iudicii strepitu et figura et sine scriptis amodo procedatur.</p>
+                    <p>Ita et taliter quod infra quinque dies in ipsis, in aliis autem maioris summe vel estimationis excedentibus quantitatem infra novem a die libelli vel petitionis oblate in iudicio, adversa parte presente, die qua oblata fuerit computata, lis pure e sine conditione contestetur legitime.</p>
+                    <p>Quibus elapsis, reus pro confesso, si eam infra eumdem terminum contestare contempserit, habeatur, etiam si recusationis in iudicem, expoliationis vel excommunicationis in partem aut alterius cuiuslibet dilatorie exceptionis dirigere velit obiectum.</p>
+                    <p>De quibus tamen vel earum quacumque post contestationem ipsam, iuxta traditiones canonicas, prius et ante omnia legitime cognoscatur.</p>
+                    <p>Verum si de re iudicata, transacta vel finita ante litem contestatam excipiat litigator, et ad probandum admissus non probaverit quod obiecit, calumniantem ipsum haberi volumus pro confesso, nisi eumdem a labe calumnie causa manifesta et probabilis excusaret.</p>
+                    <p>Quo casu, pronuntiato a iudice supra illo, infra novem dies immediatos sequentes teneatur, uti prefertur, litem ipsam legitime contestare.</p>
+                    <p>Porro lite ipsa ut premittitur legitime contestata, in causis pretaxatam summam non excedentibus, infra decem, in aliis autem dictam excedentibus quantitatem, infra viginti dies, a dicte contestationis tempore numerandos, omnes exceptiones peremptorias sibi competentes proponere teneantur.</p>
+                    <p>Quibus elapsis, nequaquam ulterius super non propositis audiantur, nisi forte aliqua de novo sibi competens exceptio postea sit exorta, vel de novo ad eius dicat notitiam pervenisse, de quo fidem faciat proposito iuramento.</p>
+                    <p>Plane petitione ipsa vel libello simpliciter et absolute negatis, actor ad probandum eum vel eam illico et ante omnia, omnibus exclusis allegationibus, rationibus et aliis quibuscumque anfractibus, admittatur infra competentis et moderate dilationis terminum ei per iudicem assignandum.</p>
+                    <p>Qua dilatione pendente, si per reum aliqua exceptio peremptoria proponatur, ad eam probandam arbitrio iudicis terminus prefigatur.</p>
+                    <p>Quod si prius quam super eadem exceptione ad ipsius termini assignationem a iudice sit processum, actor contra eam duxerit replicandum, utrique ad probationem earum idem et moderatus terminus assignetur.</p>
+                    <p>At si dicte contestationis tempore reus ipse alicuius peremptorie exceptionis proponat obiectum, ad petita et obiecta probandum idem utrique parti competens et moderatus terminus a iudice statuatur.</p>
+                    <p>Post cuius exceptionis obiectum, etiam si ad eam probandam sit terminus assignatus per iudicem et pendeat probationis dilatio super ea, si actor crediderit replicandum, usque ad decem dies, a die exceptionis proposite numerandos, competere sibi noverit facultatem.</p>
+                    <p>Quibus elapsis, cuiuscumque replicationis diffugium sibi sciat penitus interdictum, nisi de novo replicandi facultas emerserit vel proponens iuramento firmaverit ad eius ipsam de novo notitiam pervenisse.</p>
+                    <p>Quam si iudex viderit admittendam, moderato termino de ipsius veritate cognoscat.</p>
+                    <p>Potiores autem replicationes ultra istas, sive sint triplicationes vel alie ulteriores, quibuscumque nominibus nuncupentur, que implicationes potius sunt censende, et quas ad prorrogandum lites et ad confundendum veritatem advocatorum calliditas sepius adinvenit, iudicantis perita discretio diligenter advertat, ut eas, si urgens casus exegerit, quod raro contingit, admittat vel quod magis expedit, iustitia suadente, repellat, sciturus quod si per malitiam vel negligentiam, ignorantiam aut per gratiam vel per sordes male versatus fuerit in premissis, frustratorias videlicet et superfluas involutiones aut cavilationes indebite admittendo, preter expensas et damna de quibus partem querulam servare sua iactura oportebit indempnem, nostre animadversionis condignam non effugiet ultionem.</p>
+                    <p>Ceterum, si super principali aut exceptionibus vel replicationibus partes ipse vel earum altera positiones vel articulos ad intentiones suas facili compendio comprobandas obtulerint, cogatur pars adversa personaliter et absque adminiculo advocati, singulariter et clare eis, sacramento prius ab utraque parte prestito, respondere.</p>
+                    <p>Si vero articulos vel positiones ipsas hinc et inde duxerint offerendum, respondere cogantur vicissim mutuis positionibus et articulis, uti prefertur, singulariter et clare, sacramento hinc inde prestito per easdem.</p>
+                    <p>Quod si quis a iudice interrogatus et iussus super aliqua positione vel articulo, contumaciter respondere contempserit, ipsum iudex habeat pro confesso super tali exceptione vel articulo, et tamquam contra confessum procedere non obmittat.</p>
+                    <p>Probationibus autem litis receptis et suo tempore publicatis, ceterisque peractis que qualitati cause crediderit convenire, iudex ad renunciandum et concludendum terminum assignet partibus competentem.</p>
+                    <p>Cui etiam si altera partium parere contumaciter, iusto cessante impedimento, distulerit, elapso termino iudex pro renunciato habeat et concluso, eius contumacia non obstante.</p>
+                    <p>Post quam quidem renuntiationem et conclusionem legitime et debito more factam, in causis ducentorum morabetinorum excedentibus quantitatem usque ad viginti renuntiationis et conclusionis modo predicto facte proximis immediati sequentis... [4], in aliis vero citerioris quantitatis et summe infra quindecim dies diffinitivam sententiam proferat, prout iustitie viderit convenire.</p>
+                    <p>Quod si, neglecta hac salubri iussione, non fecerit, preter damna, sumptus et interesse in quibus teneri volumus parti que se propter hoc docuerit esse lessam, centum morabetinorum penam, nostre Toletane ecclesie applicandam, incurrere volumus ipso facto.</p>
+                    <p>In causis autem beneficialibus et matrimonialibus, in quibus maius noscitur versari periculum et maior est cautela et solertia adhibenda, prefatum ordinem nolumus observari, sed in ipsis iuxta sacrorum statuta canonum procedatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) De dilationibus.</p>
+                    <p>Non est reprehensibile iudicandum si, pro diversitate morum, varietur discreta conditio iussionum, neque enim diversi morbi varietas potest unius remedii medicina curari, nec humane petulantie dolosa perversitas unius legis disciplina componi.</p>
+                    <p>Sed quemadmodum illa interdum lenia herbarum fomenta requirit, interdum candentis ferri rigiditatem exposcit, ita hec mulcebri interdum monitione corripitur, aliquando tantum penalis vindicte districtione curatur.</p>
+                    <p>Hinc est quod diu iam ad nos multorum conquestione pervenit quod quidam insolentissimi homines, omnium civilitate despecta, obtinentes quandoque a nobis vel vicariis nostris, aliquando ab inferioribus, quibus ratione dignitatum suarum est jurisdictionis auctoritas attributa, adversarios suos litterali requisitione citari, interdum de satisfactionibus exhibendis sub excommunicationis interminatione moneri.</p>
+                    <p>Qui non tantum intentate cause querunt effectum, quantum adversariis videntur affectare dispendium, per aliquem clericum amicum suum dictas litteras latenter et extraordinariis horis ad ostium habitationis eorum legi procurant, ne possit ad eos earum notitia pervenire, licet iidem in civitate vel loco presentes existant.</p>
+                    <p>Quo plerumque fit ut prius pene executionem incurrant quam presidentis mandatum vel monitionem agnoscant.</p>
+                    <p>Quidam etiam alterius argutie fermento suffulti, ut adversarios vexent et afficiant laboribus et expensis, postquam ad unum actum ad actoris instantiam sunt citati, comparentes in iudicio illa vice, postea calide se absentant ut cogantur adversarii eos ad alios actus cause novarum litterarum beneficio convenire.</p>
+                    <p>Nos igitur, qui omne commentum malitie a veritatis puritate libenter excludimus, ut quietem et pacem subditis procuremus, hac sacra approbante sinodo, statuimus ut de cetero in quibuscumque litteris citatoriis, sive a nobis sive a vicariis nostris, archidiaconis, archiprebyteris vel aliis quibuscumque jurisdictionem habentibus ipse processerint, eius nomine cuius quis instantia convenitur, et totius negotii seu cause super qua citatur series exprimatur.</p>
+                    <p>Ut, habito deliberandi spatio, ad iudicium paratus et instructus accedat, nec eo pretextu alias deliberatorias dilationes obtineat.</p>
+                    <p>Et non tantum ad unum ipsius cause actum, ut fieri solet, sed ad totam causam et ad singulos actus eius, etiam usque ad diffinitivam sententiam inclusive, illa prima citationis instantia citetur.</p>
+                    <p>Cuius quidem citationis littera eidem personaliter publicetur, si poterit inveniri, in loco sui principalis domicilii, alias eumdem ad domum facta citatio non astringat, nisi forte citator persone citande potentia merito perhorrescens, eam sibi intimare non audeat, vel citandus ipse latitat fraudulenter, vel non potest personaliter inveniri.</p>
+                    <p>Quibus casibus coram hospitio habitationis principalis ipsius, si tute fieri potest, nec non in ecclesia, si sit in loco ubi domicilium habet, publice et in presentia evocandorum testium citatio publicetur.</p>
+                    <p>Mandantes ut citato personaliter per ipsum citatorem, si ad domum fuerit facta citatio, alicui de suis in ipsa domo repertis, alias alicui de convicinis, citationis copia coram testibus offeratur, quam eis exhiberi volumus per eumdem expensis petentis, quas taxamus unum morabetinum, eidem citatori offerenti exolvendum.</p>
+                    <p>Ceterum, quia clerici vel sacriste et huiusmodi, quibus consueverunt citationes de more committi, hunc citandi ordinem possent verisimiliter ignorare, mandamus quod notarius vel scriba, qui litteram citationis scripserit, clericum vel sacristam cui committitur, teneatur in fine ipsius citatorie de mente huius constitutionis et citandi modo et ordine supra scripto diligentius informare.</p>
+                    <p>Quod nisi fecerit, preter damna et expensas duplicatas, in quibus ipsum notarium teneri volumus parti, que ex hoc se probaverit esse lessam, indignationis nostre offensam merito poterit formidare.</p>
+                    <p>Volumus etiam et mandamus quod citator ipse diem et testes, et utrum citatus fuerit personaliter vel ad domum, et nomen illius, si quem in domo, vel nomina vicinorum coram quibus litteram publicavit, et si copiam eis dedit aut si forte ipsi recusaverint eam habere, a tergo ipsius littere teneatur per ordinem annotare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) De censibus et exactionibus, et cancellaria, et salario notariorum.</p>
+                    <p>Iuris gentium auctoritate proscriptos et divine legis interminatione damnatos, inimicos nostre salutis errores, tanto cautius debet cultor christiane veritatis abicere, quanto pro gradibus dignitatum virtuosis quisque tenetur actibus respondere.</p>
+                    <p>Sed inter ceteros illius clericalis eminentie veneranda professio, in divine sortis puritatem assumpta, sic fructuosis exemplis cunctos debet illuminare fideles, ut solaris radius stellas noscitur illuminare celestes.</p>
+                    <p>Et sicut contra motum rapidum firmamenti obiectu contradictorio exercitus militat planetarum, sic contra viciorum rapidos et precipites appetitus movere se debet honesta gravitas et modestia clericorum.</p>
+                    <p>At, quod displicenter referimus, tam in habita pridem per nos visitatione, quam in sinodali etiam nuper congregatione, strepentibus querelis luculenter agnovimus tantam invaluisse archidiaconorum et archipresbyterorum quorumdam et eorum loca tenentium ambitionis inordinatam licentiam, quod ultra fas et iustum ac antique consuetudinis institutum cancellariis suis adiecticiis exactionibus cumulatus, in tantum modestie terminos excedebant quod triplum fere eius quod cancellarie nostre quod littera solvebat, ipsi in [5] animarum suarum periculum et contra charitatis vinculum, in multorum iacturam et dispendium, extorquebant.</p>
+                    <p>Nos igitur, qui credite nobis villicationis officium sollicita meditatione pensantes, curis urgemur assiduis ut sic digne debitum possimus implere pastoris, sic sarculum providi servare cultoris quod ex agro dominico evulsis vepribus et virtutibus institutis, felix cultura fructus glorie et honestatis uberi largitate producat, et nullius ariditatis incommoda, Deo propitio, pertimescat universos nostre jurisdictioni subiectos hiis edictis generalibus decrevimus admonendos quatinus inimica iustitie cupiditas conquiescat et fervor splendide charitatis inter omnes divinitus coalescat.</p>
+                    <p>Et quia omnis recte curationis antidotum a capite sumere debet initium, hac sacra sinodo approbante, a nobis credidimus incohandum, ut quod nobis et nostris indicimus, non videatur aliis onerosum.</p>
+                    <p>Statuimus igitur et ordinamus ut taxationes subscriptas, per nos, iuxta predecessorum nostrorum morem et antiquam observantiam, limitatas, nichil augendo, sed de eis interdum aliqua detrahendo, omnes, tam archidiaconi quam archipresbyteri et quicumque alii jurisdictionem habentes, quocumque nomine censeantur, nostre jurisdictioni subiecti, in cancellariis et aliis jurisdictionis sue litteris et scripturis inviolabiliter teneant et observent, nec amplius occasione premissa exigere audeant vel recipere quoquomodo.</p>
+                    <p>Absurdum est enim ut quod iustitia in iudiciis liberum et in beneficiis liberalitas esse voluit gratiosum, ambitiose exactionis immensitas faciat onerosum.</p>
+                    <p>Quod si quis huius saluberrime constitutionis temerarius violator extiterit, ut in eo in quo deliquerit puniatur, quadruplum eius quod impudenter exegerit solventi, absque aliqua remissione, restituat, et centum morabetinorum penam, nostre Toletane ecclesie fabrice applicandam, incunctanter exolvat.</p>
+                    <p>Et ut eo magis in predictis sit fallendi facultas et habilitas interdicta, quo evidentiori testimonio fuerit solutionis quantitas patefacta, mandamus et ordinamus ut in qualibet littera exterius, iuxta sigillum, solutionis recepte quantitas describatur.</p>
+                    <p>Que si, ut premittitur, expressa non fuerit, littera reputetur suspecta, et is a quo processerit violasse statuta merito presumatur.</p>
+                    <p>Ne autem circa premissa ignorantie pretextu quisquam valeat excusari, taxationum ipsarum ordinem post has constitutiones nostras ultimo loco iussimus annotari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) De pena notariorum excedentium in salariis exigendis.</p>
+                    <p>Moderatrix omnium diligenter consideravit antiquitas aliquorum fidem eligere, cui se posset humane memorie labilitas commendare.</p>
+                    <p>Ad hoc tabellionum et scribarum fuit conscientie sinceritas adinventa, ut, velut publice fidei et humanorum actuum splendidissimum templum, ea efficerent litterali designatione recentia, que iam provecti temporis erant vetusta oblivione caduca.</p>
+                    <p>Verum, quod dolenter referimus, quidam, qui non tantum compendia fame quantum augmenta videntur desiderare pecunie, sequentes avaritie improbos appetitus et se probrosa ambitionis ingluvie polluentes, in exigendis scripturarum salariis tanta se reddunt immanitate rapaces ut paulo minus a iurgantibus extorqueant interdum occasione scripture, quam emolumenti eis victoria cause potuisset afferre.</p>
+                    <p>Ex quo plerique ad explendum eorum voraginem sufficere diffidentes, malunt ambigua litis emolumenta non querere, quam certa scribarum detrimenta subire.</p>
+                    <p>Nos igitur, attendentes quam grave sit quemquam ad largiendum iuris beneficia deputari, et promptum alienis lessionibus inveniri.</p>
+                    <p>Quodque licet omnis excessus plectibilis censeatur, ille tamen gravior redditur qui in publice fidei offuscanda integritate gravatur.</p>
+                    <p>Adversus has pestes officii pastoralis vigilantiam excitantes, hac sacra sinodo approbante, statuendo sancimus ut amodo omnes tabelliones et notarii ab huiusmodi extorsionibus et abusibus prudenter abstineant, nec ad potiora exigenda quam debeant cupidas manus extendant.</p>
+                    <p>Et qui viam aperit excedendi, qui non patitur iusta persolvi, ne in eorum exigenda mercede in incerto vacillent, dicta approbante sinodo, omnia scripturarum salaria, sive sint gratie sive sint iustitie, tam nostrorum quam etiam aliorum post taxationem cancellariarum duximus inserenda.</p>
+                    <p>Quam qui amplius exigendo violare presumpserint, quadruplum eius quod ultra receperint solventi, sine remissione, restituant et camere nostre centum morabetinorum penam exolvant.</p>
+                    <p>Et ut in dictis exigendis salariis cuiuslibet fraudis commentum et materia subtrahatur, mandamus quod in qualibet scriptura vel littera, qualiscumque sit, etiam si transumptum fuerit vel transcriptum aut copia scripture vel littere cuiuscumque, manu notarii, sub premisse pene dispendio, recepte solutionis quantitas exprimatur, adicientes nichil omnino.</p>
+                    <p>Et mandamus quod si in aliquibus villis, aldeolis aut locis aliis quibuscumque notarii seu scribe minus quam sit eis nostra ordinatione taxatum consueverint forte recipere, dicte taxationis pretextu, sub pene prefate iactura, amplius more solito recipere non presumant.</p>
+                    <p>Cultus iustitie rite disponitur cum acta iudicii cauta solertia et ordine componuntur, neque enim quidquam videtur ita conspicuum, quod dilapsum ab ordine non reddatur obscurum.</p>
+                    <p>Eapropter illud rude et damnosum repudiantes ingenium quo quidam olim acta iudicii glomeratis et consertis carticulis versabant in rotulum, ex quo errores, fraudes et inconvenientia non modica sequebantur, dum ad conscientiam iudicis informandam de contentis in eo et actitatis in causa, abrreptis ab eo plerumque particulis, ex involuta e intricata confusione scripture, inferebatur iudici difficultas, et ab ipso cartarum involucro pristina distrahebatur integritas.</p>
+                    <p>Hac sancta approbante, sinodo, statuimus quod omnia et singula iudicii acta et processus in libris vel quaternis ordinatis de cetero conscribantur.</p>
+                    <p>Ita tamen quod notarii vel scribe ad hoc statuti omnes originales scripturas productas a partibus usque ad finem litis custodiant et conservent, ut si forte dubium aliquod, ut assolet, interdum emerserit, ipsis ostensis et exhibitis sopiatur.</p>
+                    <p>Quorum salaria et satisfactiones, tam pro dictorum actorum scriptura quam etiam omnibus aliis, tam in iudicio quam extra, per eos quomodolibet conscribendis, esse volumus et mandamus prout per nos in taxationibus nostris constat particulariter limitatum, et precedentis constitutionis penam incurrant transgressores.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) De celebratione missarum.</p>
+                    <p>Quia sunt nonnulli sacerdotalis eminentie gradum honoremque professi, et ipsius officii misterium abhorrentes, apud quos tantum viluit divina vocatio ut offerre Altissimo illam immaculatam hostiam erubescant, et ab omni sacerdotali misterio periculosa et diuturna se dilatione suspendant.</p>
+                    <p>Non attendentes quanta sit illius celestis dignitas sacramenti, que singulariter animas ab eterno interitu salvat, dum unigeniti Filii Dei mortem veridice representat.</p>
+                    <p>In quo ad sacerdotis vocem aperiuntur celi, angeli presentes assistunt, invisibilia visibilibus et eterna celestibus Sancti Spiritus operatione iunguntur.</p>
+                    <p>Nos animarum eorum saluti consulere cupientes, cum scriptum sit quod indignum se Christo facit qui Christi misterium derelinquit, hac sacra approbante sinodo, statuimus ut quicumque illum sacrosanctum et venerabilem sacerdotii gradum fuerit assecutus, frequentius quam poterit et eius divina gratia ministravit, ad illius celestis panis edulium impollutus accedat.</p>
+                    <p>Quod si saltem quater in anno, proprie salutis tepidus zelator, celebrare contempserit, fructuum beneficii eiusdem anni, fabrice ipsius ecclesie applicandorum, amissione multetur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>(6) De reliquiis et veneratione sanctorum.</p>
+                    <p>Flagitat pacis nostre canonica disciplina, quam in hoc sinodali conventu, Domino disponente, tractavimus, ut ad eius magnificentiam deitatis devotionis nostre aciem convertamus.</p>
+                    <p>Quid enim prodesset cuncta fuisse solerti provisione statuta si, deficientibus meritis, remanerent sui effectus executione deserta?</p>
+                    <p>Instandum ergo nobis est ut donum, quod in hac sancta congregatione, Deo largiente, suscepimus, custodiri et augeri nobis, ipsius pie Matris patrocinio, sentiamus.</p>
+                    <p>Quatenus superstitiose rubiginis excussa caligine, mens bene conscia et fidelis, sic per huius maris medium sicco vestigio gradiatur ut terre promissionis introitum, suis precibus, feliciter mereatur.</p>
+                    <p>Quod impetrare posse confidimus si nos ipsos eidem tota mentis integritate tradentes, ad sue laudis gloriam extollendam devotis mentibus concurramus, ipsa enim est humani generis salutare solatium, ipsa estuantis anime singulare presidium, per quam fuit funis ille quo ligabamur abruptus, et torrens, qui nos rapiebat, perpetua ariditate siccatus, per quam iura sua mors perdidit, dum conditio nostra vitam Redemptoris accepit.</p>
+                    <p>Et quia ad eius extollenda preconia mens humana languescit, et ad eius explicandas laudes mortalis lingua non sufficit, estimamus relinquendum esse silentio quod digno nequimus magnificare preconio.</p>
+                    <p>Eapropter, ad omnipotentis Dei et eius prefate intemerate Genitricis honorem, illud celebre festum, illud stupendum et insigne miraculum, quo, converso rerum ordine, natura ipsa sue legis instituta mutavit, dum versa vice consuetudinum in torride estatis bullienti fervore aer ipse, nubium mulcebri dempsatus, ardorem solis divina dispensatione cohibuit, et estuantem populum celestis roris imbre perfudit, solemnitatis videlicet beate Marie de Nivibus, die quinta mensis Augusti cum sex cappis.</p>
+                    <p>Beatissimi etiam Gabrielis archangeli, qui misteriorum conscius divinorum, eius dignus preco et nostre salutis splendidus nunciator illuxit, qui divino semper fragrans aspectu omne noxium et diabolice fraudis figmentum a mentibus humanis intercepit, die... [6] menis Martii cum quatuor cappis.</p>
+                    <p>Necnon illud eximii confessoris Yvonis, cuius vite religiosissime sanctitatem et predicanda miracula universalis veneratur Ecclesia, die... [7] mensis... [8], cum quatuor cappis, hac sacra sinodo approbante, sub duplici officio annua statuimus celebritate solemniter venerari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>(7) De taxationibus obervandis cancellariis ecclesie et diocesis Toletane [9].</p>
+                    <p>Sequitur moderatio, limitatio et taxatio omnium cancellariarum, tam nostre ac officialium nostrorum, quam etiam archidiaconorum, archipresbyterorum et aliorum iurisdictionem habentium, necnon officialium eorumdem nostre ecclesie et diocesis Toletane.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>(8) Taxatio cancellarie nostre.</p>
+                    <p>Pro littera per quam mandatur officialibus de fienda iustitia, pro sigillo et notario: tres morabetinos et duos denarios.</p>
+                    <p>Pro littera commissionis cause, pro sigillo et notario: sex morabetinos et duos denarios.</p>
+                    <p>Pro citatione facta per porterum nostrum: unum morabetinum.</p>
+                    <p>Pro littera simplicis citationis, pro sigillo et scriptura: tres morabetinos et duos denarios.</p>
+                    <p>Pro monitoria et excommunicatione, pro sigillo et scriptura: sex morabetinos et duos denarios.</p>
+                    <p>Pro littera qua quis requiritur ad allegandum causam quare non debeat denunciare excommunicatus, pro sigillo et scriptura: sex morabetinos et duos denarios.</p>
+                    <p>Pro denunciatoria littera, pro sigillo et scriptura: sex morabetinos et duos denarios.</p>
+                    <p>Littera contra participantes, pro sigillo et scriptura: sex morabetinos et duos denarios.</p>
+                    <p>Littera excommunicationis, cum campanis pulsatis et candelis extinctis, pro sigillo et scriptura: sex morabetinos et duos denarios.</p>
+                    <p>Littera solemnis anathematis, ad solum archiepiscopum pertinentis, pro sigillo et scriptura: duodecim morabetinos et duos denarios.</p>
+                    <p>Littera executionis cum brachio seculari, pro sigillo et scriptura: sex morabetinos et duos denarios.</p>
+                    <p>Littera absolutionis, pro sigillo et scriptura: sex morabetinos et duos denarios.</p>
+                    <p>Pro sententia interlocutoria, iudici solo: sex morabetinos.</p>
+                    <p>Pro eadem, notario vel scribe, si pars voluerit habere in scriptis: tres morabetinos.</p>
+                    <p>Et hoc quando cum libelli oblatione causa in scriptis fuit agitata, alias nichil solvatur.</p>
+                    <p>Pro contumacia, quando per archiepiscopum vel eius vicarios pronuntiatur aliquis contumax vel rebellis, etiam si per notarium scripta sit, in actus nichil a pronuntiante vel notario exigatur: nichil.</p>
+                    <p>Littera receptionis testium, pro sigillo et scriptura: sex morabetinos et duos denarios.</p>
+                    <p>Littera inhibitionis, pro sigillo et scriptura: sex morabetinos et duos denarios.</p>
+                    <p>Pro sententia diffinitiva, si causa in scriptis et ordine iudiciario fuerit agitata, iudici: duodecim morabetinos.</p>
+                    <p>Pro eadem, si pars eam habere voluerit in scriptis, notario: sex morabetinos.</p>
+                    <p>Pro eadem, si eam pars in scriptis non petierit, notario: duos morabetinos.</p>
+                    <p>Pro eadem, si lis agitata fuerit sine scriptis vel solvatur nisi quod littera executionis [10] si eam pars petierit et habere voluerit, pro qua solvatur ut sequitur:</p>
+                    <p>Littera executionis diffinitive sententie, pro sigillo et notario: sex morabetinos et duos denarios.</p>
+                    <p>Littera executionis in bonis debitoris vigore instrumenti, pro sigillo et scriptura: sex morabetinos et duos denarios.</p>
+                    <p>Pro publicatione testamenti, pro sigillo et notario: sex morabetinos et duos denarios.</p>
+                    <p>Pro eodem redigendo in publicam formam, pro sigillo et notario, pro eo quod sunt testes recipiendi et diligenter examinandi et eorum dicta in publicam formam redigenda: duodecim morabetinos et duos denarios.</p>
+                    <p>Pro interpositione decreti, pro sigillo et notario: duodecim morabetinos et duos denarios.</p>
+                    <p>Pro littera arrestationis vel liberationis aut alterius cuiuscumque mandati in scriptis, pro sigillo et notario: sex morabetinos et duos denarios.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>(9) Taxatio cancellarie archidiaconorum.</p>
+                    <p>Littera citatoria simplex, pro sigillo et scriptura: duos morabetinos et duos denarios.</p>
+                    <p>Littera monitoria cum excommunicatione, pro sigillo et scriptura: quatuor morabetinos et duos denarios.</p>
+                    <p>Littera denunciatoria excommunicationis cum candelis extinctis, pro sigillo et notario: quatuor morabetinos et duos denarios.</p>
+                    <p>Littera denunciatoria excommunicationis, pro sigillo et scriptura: quatuor morabetinos et duos denarios.</p>
+                    <p>Littera de participantibus, pro sigillo et scriptura: sex morabetinos et duos denarios.</p>
+                    <p>Littera executionis cum brachio seculari, pro sigillo et scriptura: quatuor morabetinos et duos denarios.</p>
+                    <p>Littera absolutionis ab excommunicatione, pro sigillo et scriptura: quatuor morabetinos et duos denarios.</p>
+                    <p>Pro sententia interlocutoria quando causa in scriptis fuerit ventilata cum oblatione libelli: quinque morabetinos.</p>
+                    <p>Si vero causa tractata fuerit sine scriptis, nichil penitus pro interlocutoria exigatur.</p>
+                    <p>Pro pronuntiatione contumacie vel quando aliquis contumax declaratur, nichil per iudicem aut notarium exigatur, etiam si dicta pronuntiatio in actis fuerit per notarium redacta vel scripta.</p>
+                    <p>Littera commissoria receptorie testium, pro sigillo et scriptura: quatuor morabetinos et duos denarios.</p>
+                    <p>Pro sententia diffinitiva, quando lis in scriptis et cum oblatione libelli fuerit agitata, pro iudice et notario: decem morabetinos.</p>
+                    <p>Si vero causa tractata fuerit sine scriptis, nichil pro diffinitiva penitus exigatur.</p>
+                    <p>Pro littera executionis sententie diffinitive, si eam pars petierit et voluerit habere, pro sigillo et notario: quatuor morabetinos.</p>
+                    <p>Pro sigillando processu appellationis, pro iudice solo: quinque morabetinos.</p>
+                    <p>Littera precepti vel mandati, pro sigillo et scriptura: sex morabetinos.</p>
+                    <p>Pro iudiciali interpositione decreti cuiuslibet scripture, pro sigillo et notario: octo morabetinos.</p>
+                    <p>Pro publicatione testium, sigillum et scriptura: sex morabetinos.</p>
+                    <p>Pro eo redigendo in publicam formam, ex eo quod sint testes recipiendi et diligenter examinandi et eorum dicta in publicam formam redigenda: duodecim morabetinos.</p>
+                    <p>Pro littera collationis beneficiorum, pro sigillo et notario: tredecim morabetinos et duos denarios.</p>
+                    <p>Quas quidem beneficiorum collationes per archidiaconos vel eorum vicarios in presentia persone publice fieri volumus et mandamus, et per eumdem notarium ipsius collationis litteram suo nomine et sibi scriptione notarii ad omnis fraudis materiam vacuandam [11], quas dudum in eisdem litteris invenimus eo missas.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>(10) Taxatio cancellarie archipresbyteratus de La Gardia.</p>
+                    <p>Citatio que fit sine scriptis per nuntium, que vulgariter vocatur coto o señal o emplazamiento [12], si fuerit in villa: tres morabetinos.</p>
+                    <p>Si fuerit extra villam: quatuor morabetinos cum dimidio.</p>
+                    <p>Littera citatoria simplex, pro sigillo et notario seu scriptione cum cancellaria: duos marabetinos et duos denarios.</p>
+                    <p>Littera monitoria cum excommunicatione, pro sigillo et scriptura: tres morabetinos et duos denarios.</p>
+                    <p>Littera denunciatoria, pro sigillo et scriptura: tres morabetinos et duos denarios.</p>
+                    <p>Littera de participantibus, pro sigillo et scriptura: sex morabetinos et duos denarios.</p>
+                    <p>Littera de extinguendo candelis, pro sigillo et scriptura: tres morabetinos et duos denarios.</p>
+                    <p>Littera brachii secularis, pro sigillo et scriptura: tres morabetinos et duos denarios.</p>
+                    <p>Littera absolutionis excommunicationis, pro sigillo et scriptura: tres morabetinos et duos denarios.</p>
+                    <p>Sententia interlocutoria in processu quando lis tractata fuerit in scriptis per libelli oblationem: quatuor morabetinos.</p>
+                    <p>Quando lis tractatur sine processu et sine scriptis, nichil levetur pro interlocutoria.</p>
+                    <p>Rebellia seu contumacia, que est quando iudex pronuntiat aliquem contumacem: nichil levetur ex ea nec per iudicem neque per notarium, etiam si ipsam scribat.</p>
+                    <p>Carta de receptoria: quatuor morabetinos et duos denarios.</p>
+                    <p>Sententia diffinitiva quando [13] lis tractata fuerit in scriptis per libelli oblationem: octo morabetinos.</p>
+                    <p>Alias, si sine scriptis tractata fuerit, nichil levetur propter prolationem ipsius sententie diffinitive, scilicet pro littera executionis levari potest, si pars ipsam litteram petierit et habere voluerit.</p>
+                    <p>Littera executionis sententie diffinitive, pro sigillo et scriptura: quatuor morabetinos et duos denarios.</p>
+                    <p>Sigillare processum appellationis, pro ipso iudice: quatuor morabetinos.</p>
+                    <p>Preceptum, quod vulgariter vocatur mandamiento [14], quodcumque sit, in speciali cancellaria: unum morabetinum.</p>
+                    <p>Publicatio testamenti, pro sigillo et littera: quatuor morabetinos.</p>
+                    <p>Redigere testamentum in publicam formam, pro eo quod diligenter testes sint examinandi et eorum atestationes in scriptis redigende: octo morabetinos.</p>
+                    <p>Auctoritas cum interpositione decreti cuiuslibet scripture: sex morabetinos.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>(11) Taxatio cancellarie archipresbyteratus de Ocana.</p>
+                    <p>Citatio que fit sine scriptis per nuntium, que vulgariter vocatur coto o señal o emplazamiento [15], si fuerit in villa: duos morabetinos et quatuor denarios.</p>
+                    <p>Si fuerit extra villam: quatuor morabetinos cum dimidio.</p>
+                    <p>Littera citatoria simplex, pro sigillo et notario seu scriptore: duodecim denarios.</p>
+                    <p>Littera monitoria cum excommunicatione, pro sigillo et scriptura: tres morabetinos et duos denarios.</p>
+                    <p>Littera denunciatoria excommunicationis, pro sigillo et scriptura: tres morabetinos et duos denarios.</p>
+                    <p>Littera de participantibus, pro sigillo et scriptura: sex morabetinos et duos denarios.</p>
+                    <p>Littera cum candelis extinctis, pro sigillo et scriptura: quatuor morabetinos et duos denarios.</p>
+                    <p>Littera brachii secularis, pro sigillo et scriptura: quatuor morabetinos et septem denarios.</p>
+                    <p>Littera absolutionis excommunicationis, pro sigillo et scriptura: tres morabetinos et duos denarios.</p>
+                    <p>Pro sententia interlocutoria, quando lis tractata fuerit in scriptis per libelli oblationem: quatuor morabetinos.</p>
+                    <p>Si vero tractata non fuerit in scriptis, nichil penitus pro interlocutoria levetur.</p>
+                    <p>Pro rebellia seu contumacia, que est quando iudex pronuntiat aliquem contumacem: nichil levetur ex ea neque per iudicem nec per notarium, etiam si ipsam scribat.</p>
+                    <p>Littera receptorie: tres morabetinos et duos denarios.</p>
+                    <p>Pro sententia diffinitiva, quando lis tractata fuerit in scriptis per libelli oblationem: octo morabetinos.</p>
+                    <p>Si vero tractata fuerit sine scriptis, nichil penitus pro interlocutoria levetur.</p>
+                    <p>Littera excommunicationis sententie diffinitive: quatuor morabetinos et duos denarios.</p>
+                    <p>Sigillare processum appellationis, pro ipso iudice: quatuor morabetinos.</p>
+                    <p>Preceptum, quod vulgariter vocatur mandamiento [16], quodcumque sit, in speciali eius cancellaria: unum morabetinum.</p>
+                    <p>Publicatio testium, pro sigillo et littera: quatuor morabetinos.</p>
+                    <p>Pro eo redigendo in publicam formam, pro eo quod sunt testes recipiendi et [17] diligenter examinandi et eorum dicta in publicam formam redigenda: octo morabetinos.</p>
+                    <p>Auctoritas cum interpositione decreti cuiuslibet scripture: sex morabetinos.</p>
+                    <p>Presentatio ipsius testamenti in probationem: unum morabetinum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>(12) Taxatio cancellarie archipresbyteratus de Rodillas.</p>
+                    <p>Citatio que fit sine scriptis per nuntium, que vulgariter vocatur coto o señal o emplazamiento [18], si fuerit in villa: tres morabetinos.</p>
+                    <p>Si fuerit extra villam: quatuor morabetinos.</p>
+                    <p>Littera citatoria simplex, pro sigillo et [19] notario seu scriptione: tres morabetinos, duos denarios.</p>
+                    <p>Littera monitoria cum excommunicatione, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera denunciatoria excommunicationis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera de participantibus, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera cum candelis extinctis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera brachii secularis, pro sigillo et scriptura: quatuor morabetinos, septem denarios.</p>
+                    <p>Littera absolutionis excommunicationis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Pro sententia interlocutoria, quando lis tractatur in scriptis per libelli oblationem: quatuor morabetinos.</p>
+                    <p>Si autem tractata non fuerit in scriptis, nichil penitus pro interlocutoria levetur.</p>
+                    <p>Pro rebellia seu contumacia, que est quando iudex pronuntiat aliquem contumacem: nichil levetur ex ea neque per iudicem neque per notarium, etiam si ipsam scribat.</p>
+                    <p>Littera receptorie: quatuor morabetinos, duos denarios.</p>
+                    <p>Pro sententia diffinitiva, quando lis tractata fuerit in scriptis per libelli oblationem: octo morabetinos.</p>
+                    <p>Si vero sine scriptis tractata fuerit, nichil penitus ex eadem levetur.</p>
+                    <p>Littera executionis sententie diffinitive: quatuor morabetinos, duos denarios.</p>
+                    <p>Sigillare processum appellationis, pro ipso iudice: quatuor morabetinos.</p>
+                    <p>Preceptum, quod vulgariter vocatur mandamiento [20], quodcumque sit, in speciali eius cancellaria: unum morabetinum.</p>
+                    <p>Publicatio testamenti, pro sigillo: quatuor morabetinos.</p>
+                    <p>Pro eo redigendo in publicam formam, por eo quod sunt testes recipiendi et diligenter examinandi et eorum dicta in publicam formam redigenda: octo morabetinos.</p>
+                    <p>Auctoritas cum interpositione decreti cuiulibet scripture: sex morabetinos.</p>
+                    <p>Presentado ipsius testamenti in probationem: unum morabetinum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 30</head>
+                    <p>(30) Taxatio cancellarie archipresbyteratus de Canales.</p>
+                    <p>Citatio que fit sine scriptis per nuntium, que vulgariter vocatur coto o señal o emplazamiento [21], si fuerit in villa: duos morabetinos.</p>
+                    <p>Si extra villam fuerit: quatuor morabetinos.</p>
+                    <p>Littera vocatoria simplex, pro sigillo, notario seu scriptore: tres morabetinos, duos denarios.</p>
+                    <p>Littera monitoria cum excommunicatione, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera denunciatoria excommunicationis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera de participantibus, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera cum candelis extinctis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera brachii secularis, pro sigillo et scriptura: quatuor morabetinos, septem denarios.</p>
+                    <p>Littera absolutionis excommunicationis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Pro sententia interlocutoria, quando lis tractata fuerit nichil pro interlocutoria levetur.</p>
+                    <p>Pro rebellia seu contumacia, que est quando iudex pronuntiat aliquem contumacem: nichil levetur ex ea, neque per iudicem neque per notarium, etiam si ipsam scribat.</p>
+                    <p>Littera receptorie: tres morabetinos, dos denarios.</p>
+                    <p>Pro sententia diffinitiva, quando lis tractata fuerit in scriptis per libelli oblationem: octo morabetinos.</p>
+                    <p>Si vero sine scriptis tractata fuerit, nichil penitus ex eadem levetur.</p>
+                    <p>Littera excommunicationis sententie diffinitive: quatuor morabetinos.</p>
+                    <p>Sigillare processum appellationis, pro ipso iudice: quatuor morabetinos.</p>
+                    <p>Preceptum, quod vulgariter vocatur mandamiento [22], quodcumque sit, in speciali eius cancellaria: unum morabetinum.</p>
+                    <p>Publicatio testamenti, pro sigillo et littera: quatuor morabetinos.</p>
+                    <p>Pro eo redigendo in publicam formam, pro eo quod sunt testes recipiendi et diligenter examinandi et eorum dicta in publicam formam redigenda: octo morabetinos.</p>
+                    <p>Auctoritas cum interpositione decreti cuiuslibet scripture: sex morabetinos.</p>
+                    <p>Presentatio ipsius testamenti in probationem: unum morabetinum.</p>
+                    <p>(30) Taxatio cancellarie archipresbyteratus de Curita.</p>
+                    <p>Citatio que fit sine scriptis, que vulgariter vocatur coto o senal o emplazamiento [64]: nichil, quia numquam ibi fuit.</p>
+                    <p>Littera citatoria simplex, pro sigillo, notario seu scriptore: duos morabetinos, duos denarios.</p>
+                    <p>Littera monitoria cum excommunicatione, pro sigillo e scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera denunciatoria excommunionis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera de participantibus, pro sigillo et scriptura: sex morabetinos, duos denarios.</p>
+                    <p>Littera cum candelis extinctis, pro sigillo et scriptura: quatuor morabetinos, duos denarios.</p>
+                    <p>Littera brachii secularis, pro sigillo et scriptura: quatuor morabetinos, duos denarios.</p>
+                    <p>Littera absolutionis excommunionis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Pro sententia interlocutoria, quando lis tractatur in scriptis per libelli oblationem: tres morabetinos.</p>
+                    <p>Si vero non tractatur in scriptis, nichil pro eadem exigatur.</p>
+                    <p>Pro rebellia seu contumacia, que est quando iudex pronuntiat aliquem contumacem: nichil levetur ex ea neque per iudicem neque per notarium, etiam si ipsam scribat.</p>
+                    <p>Littera receptorie: quatuor morabetinos.</p>
+                    <p>Pro sententia diffinitiva, quando lis tractatur in scriptis per libelli oblationem: sex morabetinos.</p>
+                    <p>Si vero non tractatur in scriptis, nichil pro eadem exigatur.</p>
+                    <p>Littera executionis sententie diffinitive: quatuor morabetinos.</p>
+                    <p>Sigillare processum appellationis, pro ipso iudice: in albis [65].</p>
+                    <p>Preceptum, quod vulgariter vocatur mandamiento [66], quod fit in eius curia: inalbis [67].</p>
+                    <p>Publicatio testamenti, pro sigillo et littera: in albis [68].</p>
+                    <p>Pro redigendo in publicam formam, pro eo quod sunt testes recipiendi et diligenter examinandi et eorum dicta in publicam formam redigenda: octo morabetinos.</p>
+                    <p>Auctoritas cum interpositione decreti cuiuslibet scripture: sex morabetinos.</p>
+                    <p>Arrestare aliquem: unum morabetinum.</p>
+                    <p>Ipsum desarrestare: unum morabetinum.</p>
+                    <p>Presentatio testamenti in probationem: unum morabetinum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>(14) Taxatio cancellarie archipresbyteratus de Iliescas.</p>
+                    <p>Citatio sine scriptis per nuntium, que vulgariter vocatur coto o señal o emplazamiento [23], si fuerit in villa: tres morabetinos.</p>
+                    <p>Si fuerit extra villam: quatuor morabetinos, duos denarios.</p>
+                    <p>Littera citatoria simplex, pro sigillo, notario seu scriptore: tres morabetinos, duos denarios.</p>
+                    <p>Littera monitoria cum excommunicatione, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera denunciatoria excommunicationis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera de participantibus, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera cum candelis extinctis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera brachii secularis, pro sigillo et scriptura: quatuor morabetinos, duos denarios.</p>
+                    <p>Littera absolutionis excommunionis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Pro sententia interlocutoria, quando lis tractata fuerit in scriptis per libelli oblationem: quatuor morabetinos.</p>
+                    <p>Si vero tractata non fuerit in scriptis, nichil penitus pro interlocutoria levetur.</p>
+                    <p>Pro rebellia seu contumacia, que est quando iudex pronuntiat aliquem contumacem: nichil levetur ex ea, neque per iudicem neque per notarium, etiam si ipsam scribat.</p>
+                    <p>Littera receptorie: quatuor morabetinos, duos denarios.</p>
+                    <p>Pro sententia diffinitiva, quando lis tractata fuerit in scriptis per libelli oblationem: sex morabetinos.</p>
+                    <p>Si vero sine scriptis tractata fuerit, nichil penitus ex eadem levetur.</p>
+                    <p>Littera executionis sententie diffinitive: quatuor morabetinos, duos denarios.</p>
+                    <p>Sigillare processum appellationis, pro ipso iudice: quatuor morabetinos.</p>
+                    <p>Preceptum, quod vulgariter vocatur mandamiento [24], quodcumque sit, in speciali cancellaria: unum morabetinum.</p>
+                    <p>Publicatio testamenti, pro sigillo et littera: quatuor morabetinos.</p>
+                    <p>Pro eo redigendo in publicam formam, pro eo quod sunt testes recipiendi et diligenter examinandi et eorum dicta in publicam formam redigenda: octo morabetinos.</p>
+                    <p>Auctoritas cum interpositione decreti cuiuslibet scripture: sex morabetinos.</p>
+                    <p>Presentatio ipsius testamenti in probationem: unum morabetinum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>(15) Taxatio cancellarie archipresbyteratus de Talavera.</p>
+                    <p>Citatio que fit sine scriptis per nuntium, que communiter vocatur coto o señal o emplazamiento [25], si fuerit in villa: duos morabetinos.</p>
+                    <p>Si fuerit extra villam: quatuor morabetinos.</p>
+                    <p>Littera citatoria simplex, pro sigillo, notario seu scriptore: duos morabetinos.</p>
+                    <p>Littera monitoria cum excommunicatione, pro sigillo et scriptura: duos morabetinos.</p>
+                    <p>Littera denunciatoria excommunionis, pro sigillo et scriptura: duos morabetinos.</p>
+                    <p>Littera de participantibus, pro sigillo et scriptura: duos morabetinos.</p>
+                    <p>Littera cum candelis extinctis, pro sigillo et scriptura: duos morabetinos.</p>
+                    <p>Littera brachii secularis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Pro sententia interlocutoria, quando lis tractatur in scriptis per libelli oblationem: duos morabetinos.</p>
+                    <p>Si vero non tractatur in scriptis, nichil pro interlocutoria exigatur.</p>
+                    <p>Pro rebellia seu contumacia, que est quando iudex pronuntiat aliquem contumacem: nichil levetur ex ea, neque per iudicem neque per notarium, etiam si ipsam scribat.</p>
+                    <p>Littera receptorie: sex morabetinos, duos denarios.</p>
+                    <p>Pro sententia diffinitiva, quando lis tractatur in scriptis per libelli oblationem: quatuor morabetinos.</p>
+                    <p>Si vero sine scriptis tractatur, nichil penitus ex eadem levetur.</p>
+                    <p>Littera executionis sententie diffinitive: duos morabetinos.</p>
+                    <p>Sigillare processum appellationis, pro ipso iudice: quatuor morabetinos.</p>
+                    <p>Preceptum, quod vulgariter vocatur mandamiento [26], quod fit in eius curia: unum morabetinum.</p>
+                    <p>Publicatio testamenti, pro sigillo et littera: sex morabetinos.</p>
+                    <p>Pro eo redigendo in publicam formam, pro eo quod sunt testes recipiendi et diligenter examinandi et eorum dicta in publicam formam redigenda: octo morabetinos.</p>
+                    <p>Auctoritas cum interpositione decreti cuiuslibet scripture: sex morabetinos.</p>
+                    <p>Presentatio ipsius testamenti in probationem: unum morabetinum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>(16) Taxatio cancellarie archipresbyteratus de Santa Olallia.</p>
+                    <p>Citatio que fit sine scriptis per nuntium, que vulgariter vocatur coto o señal o emplazamiento [27], si fuerit in villa: tres morabetinos.</p>
+                    <p>Si fuerit extra villam: quatuor morabetinos cum dimidio.</p>
+                    <p>Littera citatoria simplex, pro sigillo, notario seu scriptore: duos morabetinos, duos denarios.</p>
+                    <p>Littera monitoria cum excommunicatione, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera denunciatoria excommunicationis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera de participantibus, pro sigillo et scriptura: sex morabetinos, duos denarios.</p>
+                    <p>Littera brachii secularis, pro sigillo et scriptura: quatuor morabetinos, duos denarios.</p>
+                    <p>Littera absolutionis excommunionis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Pro sententia interlocutoria, quando lis tractatur in scriptis: quatuor morabetinos.</p>
+                    <p>Si vero non tractatur in scriptis, nichil levetur.</p>
+                    <p>Pro rebellia seu contumacia, que est quando iudex pronuntiat aliquem contumacem: nichil levetur ex ea, neque per iudicem neque per notarium, etiam si ipsam scribat.</p>
+                    <p>Littera receptorie: quatuor morabetinos, duos denarios.</p>
+                    <p>Pro sententia diffinitiva, quando lis tractatur in scriptis per libelli oblationem: octo morabetinos.</p>
+                    <p>Si vero sine scriptis tractatur, nichil penitus pro eadem levetur.</p>
+                    <p>Littera executionis sententie diffinitive: quatuor morabetinos, duos denarios.</p>
+                    <p>Sigillare processum appellationis, pro ipso iudice: quatuor morabetinos.</p>
+                    <p>Preceptum, quod vulgariter vocatur mandamiento [28], quod fit in eius curia: unum morabetinum.</p>
+                    <p>Publicatio testamenti, pro sigillo et littera: quatuor morabetinos.</p>
+                    <p>Pro eo redigendo in publicam formam, pro eo quod sunt testes recipiendi et diligenter examinandi et eorum dicta in publicam formam redigenda: octo morabetinos.</p>
+                    <p>Auctoritas cum interpositione decreti cuiuslibet scripture: sex morabetinos.</p>
+                    <p>Presentatio ipsius testamenti in probationem: unum morabetinum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 17</head>
+                    <p>(17) Taxatio cancellarie archipresbyteratus de Maqueda.</p>
+                    <p>Citatio que fit sine scriptis per nuntium, que vulgariter vocatur coto o señal o emplazamiento [29], si fuerit in villa: tres morabetinos.</p>
+                    <p>Si fuerit extra villam: quatuor morabetinos cum dimidio.</p>
+                    <p>Littera citatoria simplex, pro sigillo, notario seu scriptore: duos morabetinos, duos denarios.</p>
+                    <p>Littera monitoria cum excommunicatione, pro sigillo et scriptura: duos morabetinos, duos denarios.</p>
+                    <p>Littera denunciatoria excommunionis, pro sigillo et scriptura: quatuor morabetinos, duos denarios.</p>
+                    <p>Littera de participantibus, pro sigillo et scriptura: sex morabetinos, duos denarios.</p>
+                    <p>Littera cum candelis extinctis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera brachii secularis, pro sigillo et scriptura: duos morabetinos.</p>
+                    <p>Littera absolutionis excommunionis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Pro sententia interlocutoria, quando lis tractatur in scriptis per libelli oblationem: quatuor morabetinos.</p>
+                    <p>Si vero non tractatur in scriptis, nichil pro interlocutoria exigatur.</p>
+                    <p>Pro rebellia seu contumacia, que est quando iudex pronuntiat aliquem contumacem: nichil levetur ex ea neque per iudicem neque per notarium, etiam si ipsam sacribat.</p>
+                    <p>Littera receptorie: quatuor morabetinos, duos denarios.</p>
+                    <p>Pro sententia diffinitiva, quando lis tractatur in scriptis per libelli oblationem: octo morabetinos.</p>
+                    <p>Si vero sine scriptis tractatur, nichil penitus ex eadem levetur.</p>
+                    <p>Littera executionis sententie diffinitive: duos morabetinos.</p>
+                    <p>Sigillare processum appellationis, pro ipso iudice: quatuor morabetinos.</p>
+                    <p>Preceptum, quod vulgariter vocatur [30] mandamiento [31], quod fit in eius curia: unum morabetinum.</p>
+                    <p>Publicatio testamenti, pro sigillo et scriptura: quatuor morabetinos.</p>
+                    <p>Pro eo redigendo in publicam formam, pro eo quod sunt testes recipiendi et diligenter examinandi et eorum dicta in publicam formam redigenda: octo morabetinos.</p>
+                    <p>Auctoritas cum interpositione decreti cuiuslibet scripture: sex morabetinos.</p>
+                    <p>Presentatio ipsius testamenti in probationem: unum morabetinum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18</head>
+                    <p>(18) Taxatio cancellarie archipresbyteratus de Escalona.</p>
+                    <p>Citatio que fit sine scriptura per nuntium, que vulgariter vocatur coto o señal o emplazamiento [32], si fuerit in villa: tres morabetinos.</p>
+                    <p>Si vero extra villam: quatuor morabetinos cum dimidio.</p>
+                    <p>Littera citatoria simplex: duos morabetinos.</p>
+                    <p>Littera monitoria cum excommunicatione, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera denunciatoria excommunicationis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera de participantibus, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera cum candelis extinctis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera brachii secularis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera absolutionis excommunionis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Pro sententia interlocutoria, quando lis tractatur in scriptis per libelli oblationem: quatuor morabetinos.</p>
+                    <p>Si vero non tractatur in scriptis, nichil ex eadem levetur.</p>
+                    <p>Pro rebellia seu contumacia, que est quando iudex pronuntiat aliquem contumacem: nichil levetur ex ea neque iudicem neque per notarium, etiam si ipsam scribat.</p>
+                    <p>Littera receptorie: quatuor morabetinos, duos denarios.</p>
+                    <p>Pro sententia diffinitiva, quando lis tractatur in scriptis per libelli oblationem: octo morabetinos.</p>
+                    <p>Si vero sine scriptis tractatur, nichil penitus ex eadem levetur.</p>
+                    <p>Littera executionis sententie diffinitive: quatuor morabetinos, duos denarios.</p>
+                    <p>Sigillare processum appellationis, pro ipso iudice: quatuor morabetinos.</p>
+                    <p>Preceptum, quod vulgariter vocatur mandamiento [33], quod fit in eius curia: unum morabetinum.</p>
+                    <p>Publicatio testamenti, pro sigillo et scriptura: quatuor morabetinos.</p>
+                    <p>Pro eo redigendo in publicam formam, pro eo quod sunt testes recipiendi et diligenter examinandi et eorum dicta in publicam formam redigenda: octo morabetinos.</p>
+                    <p>Auctoritas cum interpositione decreti cuiuslibet scripture: sex morabetinos.</p>
+                    <p>Presentatio testamenti in probationem: unum morabetinum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 19</head>
+                    <p>(19) Taxatio cancellarie vicarie de la Puebla de Alcozer.</p>
+                    <p>Citatio que fit sine scriptis per nuntium, que communiter vocatur coto o señal o emplazamiento [34], si ibi de consuetudine sit: sex morabetinos.</p>
+                    <p>Littera citatoria simplex, pro sigillo, notario seu scriptore: tres morabetinos, duos denarios.</p>
+                    <p>Littera monitoria cum excommunicatione, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera denunciatoria excommunionis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera de participantibus, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera cum candelis extinctis, pro sigillo et scriptura: quatuor morabetinos, duos denarios.</p>
+                    <p>Littera brachii secularis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera absolutionis excommunionis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Pro sententia interlocutoria, quando lis tractatur in scriptis per libelli oblationem: quatuor morabetinos.</p>
+                    <p>Si vero non tractatur in scriptis, nichil pro eadem exigatur.</p>
+                    <p>Pro rebellia seu contumacia, que est quando iudex pronuntiat aliquem contumacem: nichil levetur ex ea neque per iudicem neque per notarium, etiam si ipsam scribat.</p>
+                    <p>Littera receptorie: tres morabetinos, duos denarios.</p>
+                    <p>Pro sententia diffinitiva, quando lis tractatur in scriptis per libelli oblationem: octo morabetinos.</p>
+                    <p>Si vero sine scriptis tractatur, nichil penitus levetur ex eadem.</p>
+                    <p>Littera executionis sententie diffinitive: quatuor morabetinos.</p>
+                    <p>Sigillare processum appellationis, pro ipso iudice: quatuor morabetinos.</p>
+                    <p>Preceptum, quod vulgariter vocatur mandamiento [35], quod fit in eius curia: unum morabetinum.</p>
+                    <p>Publicatio testamenti, pro sigillo et littera: quatuor morabetinos.</p>
+                    <p>Pro eo redigendo in publicam formam, pro eo quod sunt testes recipiendi et diligenter examinandi et eorum dicta in publicam formam redigenda: octo morabetinos.</p>
+                    <p>Auctoritas cum interpositione decreti cuiuslibet scripture: sex morabetinos.</p>
+                    <p>Presentatio testamenti in probationem: unum morabetinum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 20</head>
+                    <p>(20) Taxatio cancellarie archipresbyteratus de Calatraba.</p>
+                    <p>Citatio que fit sine scriptis per nuntium, que communiter vocatur cota o señal o emplazamiento [36], si fuerit in villa: tres morabetinos.</p>
+                    <p>Si fuerit extra villam: quatuor morabetinos.</p>
+                    <p>Littera citatoria simplex, pro sigillo, notario seu scriptore: duos morabetinos, duos denarios.</p>
+                    <p>Littera monitoria cum excommunicatione, pro sigillo et scriptura: duos morabetinos.</p>
+                    <p>Littera denunciatoria excommunionis, pro sigillo et scriptura: duos morabetinos, duos denarios.</p>
+                    <p>Littera de participantibus, pro sigillo et scriptura: quatuor morabetinos, duos denarios.</p>
+                    <p>Littera cum candelis extinctis pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera brachii secularis, pro sigillo et scriptura: duos morabetinos, duos denarios.</p>
+                    <p>Littera absolutionis excommunionis, pro sigillo et scriptura: duos morabetinos, duos denarios.</p>
+                    <p>Pro sententia interlocutoria quando lis tractatur in scriptis per libelli oblationem: quatuor morabetinos.</p>
+                    <p>Si non tractatur in scriptis, nichil penitus pro eadem exigatur.</p>
+                    <p>Pro rebellia seu contumacia, que est quando iudex pronuntiat aliquem contumacem: nichil levetur ex ea neque per iudicem neque per notarium, etiam si ipsam scribat.</p>
+                    <p>Littera receptorie: tres morabetinos et duos denarios.</p>
+                    <p>Pro sententia diffinitiva, quando lis tractatur in scriptis per libelli oblationem: sex morabetinos.</p>
+                    <p>Si vero sine scriptis tractatur, nichil penitus pro eadem levetur.</p>
+                    <p>Littera executionis sententie diffinitive: duos morabetinos.</p>
+                    <p>Sigillare processum appellationis, pro ipso iudice: quatuor morabetinos.</p>
+                    <p>Preceptum, quod vulgariter vocatur mandamiento [37], quod fit in eius curia: unum morabetinum.</p>
+                    <p>Publicatio testamenti, pro sigillo et littera: quatuor morabetinos.</p>
+                    <p>Pro eo redigendo in publicam formam, pro eo quod sunt testes recipiendi et diligenter examinandi et eorum dicta in publicam formam redigenda in albis [38].</p>
+                    <p>Auctoritas cum interpositione decreti cuiuslibet scripture: sex morabetinos.</p>
+                    <p>Executio instrumenti, que vulgariter vocatur entrega [39]: sex morabetinos.</p>
+                    <p>Presentatio testamenti in probationem: unum morabetinum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 21</head>
+                    <p>(21) Taxatio cancellarie archipresbyteratus de Alcaraz.</p>
+                    <p>Citatio que fit sine scriptis per nuntium, que vulgariter vocatur coto o señal o emplazamiento [40], si de consuetudine habeatur, si in villa: tres morabetinos.</p>
+                    <p>Si extra villam: quatuor morabetinos et medium.</p>
+                    <p>Littera citatoria simplex, pro sigillo, notario seu scriptore: duos morabetinos et duos denarios.</p>
+                    <p>Littera monitoria cum excommunicatione, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera denunciatoria excommunicationis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera de participantibus, pro sigillo et scriptura: sex morabetinos, duos denarios.</p>
+                    <p>Littera cum candelis extinctis, pro sigillo et scriptura: quatuor morabetinos, duos denarios.</p>
+                    <p>Littera brachii secularis, pro sigillo et scriptura: tres morabatinos, duos denarios.</p>
+                    <p>Littera absolutionis excommunionis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Pro sententia interlocutoria, quando lis tractatur in scriptis per libelli oblationem: quatuor morabetinos.</p>
+                    <p>Si vero non tractatur in scriptis, nichil pro eadem exigatur.</p>
+                    <p>Pro rebellia seu contumacia, que est quando iudex pronuntiat aliquem contumacem: nichil levetur ex ea neque per iudicem neque per notarium, etiam si ipsam scribat.</p>
+                    <p>Littera receptorie: quatuor morabetinos, duos denarios.</p>
+                    <p>Pro sententia diffinitiva, quando lis tractatur in scriptis per libelli oblationem: octo morabetinos.</p>
+                    <p>Si vero sine scriptis tractatur, nichil penitus ex eadem levetur.</p>
+                    <p>Littera executionis sententie diffinitive: quatuor morabetinos.</p>
+                    <p>Sigillare processum appellationis, pro ipso iudice: quatuor morabetinos.</p>
+                    <p>Preceptum, quod vulgariter vocatur mandamiento [41], quod fit in eius curia: unum morabetinum.</p>
+                    <p>Publicatio testamenti, pro sigillo et scriptura: quatuor morabetinos.</p>
+                    <p>Pro eo redigendo in publicam formam, pro eo quod sunt testes recipiendi et diligenter examinandi et eorum dicta in publicam formam redigenda in albis [42].</p>
+                    <p>Auctoritas cum interpositione decreti cuiuslibet scripture: sex morabetinos.</p>
+                    <p>Presentatio testamenti in publicam probationem: unum morabetinum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 22</head>
+                    <p>(22) Taxatio cancellarie archipresbyteratus de Madrid.</p>
+                    <p>Littera citatoria simplex, pro sigillo, notario seu scriptore: unum morabetinum, duos denarios.</p>
+                    <p>Littera monitoria cum excommunicatione, pro sigillo et scriptura: duos morabetinos, duos denarios.</p>
+                    <p>Littera denunciatoria excommunionis, pro sigillo et scriptura: duos morabetinos, duos denarios.</p>
+                    <p>Littera de participantibus, pro sigillo et scriptura: quatuor morabetinos, duos denarios.</p>
+                    <p>Littera cum candelis extinctis, pro sigillo et scriptura: quatuor morabetinos, duos denarios.</p>
+                    <p>Littera brachii secularis, pro sigillo et scriptura: quatuor morabetinos, duos denarios.</p>
+                    <p>Pro sententia interlocutoria, quando lis tractatur in scriptis: tres morabetinos.</p>
+                    <p>Si vero non tractatur in scriptis, nichil pro eadem exigatur.</p>
+                    <p>Rebellia seu contumacia, que est quando iudex pronuntiat aliquem contumacem: nichil levetur ex ea neque per iudicem neque per notarium, etiam si ipsam scribat.</p>
+                    <p>Littera receptorie: quatuor morabetinos, duos denarios.</p>
+                    <p>Pro sententia diffinitiva, quando lis tractatur in scriptis [43] per libelli oblationem: sex morabetinos.</p>
+                    <p>Si vero sine scriptis tractatur, nichil pro eadem levetur.</p>
+                    <p>Littera executionis sententie diffinitive: quatuor morabetinos, duos denarios.</p>
+                    <p>Sigillare processum appellationis, pro ipso iudice: quatuor morabetinos.</p>
+                    <p>Preceptum quod vulgariter vocatur mandamiento [44], quod fit in eius curia: unum morabetinum, duos denarios.</p>
+                    <p>Publicatio testamenti, pro sigillo et littera: quatuor morabetinos.</p>
+                    <p>Pro eo [45] redigendo in publicam, pro eo quod sunt testes recipiendi et diligenter examinandi et eorum dicta in publicam formam redigenda: octo morabetinos.</p>
+                    <p>Auctoritas cum interpositione decreti cuiuslibet scripture: sex morabetinos.</p>
+                    <p>Aliquem arrestare: unum morabetinum.</p>
+                    <p>Aliquem desarrestare: unum morabetinum.</p>
+                    <p>Presentatio testamenti in probationem: unum morabetinum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 23</head>
+                    <p>(23) Taxatio cancellarie archipresbyteratus de Talamanca.</p>
+                    <p>Citatio que fit sine scriptis per nuntium, quod vulgariter vocatur coto o señal o emplazamiento [46], si in villa fuerit: tres morabetinos.</p>
+                    <p>Si extra villam: quatuor morabetinos cum dimidio.</p>
+                    <p>Littera citatoria simplex, pro sigillo, notario seu scriptore: duos morabetinos, duos denarios.</p>
+                    <p>Littera monitoria cum excommunicatione, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera denunciatoria excommunionis, pro sigillo et scriptura: tres morabetinos.</p>
+                    <p>Littera de participantibus, pro sigillo et scriptura: sex morabetinos, duos denarios.</p>
+                    <p>Littera cum candelis extinctis [47], pro sigillo et scriptura: quatuor morabetinos, duos denarios.</p>
+                    <p>Littera brachii secularis, pro sigillo et scriptura: quatuor morabetinos, duos denarios.</p>
+                    <p>Littera absolutionis excommunionis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Pro sententia interlocutoria, quando lis tractatur in scriptis per libelli oblationem: tres morabetinos.</p>
+                    <p>Si non tractatur in scriptis, nichil pro eadem exigatur.</p>
+                    <p>Pro rebellia seu contumacia, que est quando iudex pronuntiat aliquem contumacem: nichil levetur ex ea neque per iudicem neque per notarium, etiam si ipsam scribat.</p>
+                    <p>Littera receptorie: quatuor morabetinos, duos denarios.</p>
+                    <p>Pro sententia diffinitiva, quando lis tractatur in scriptis per libelli oblationem: sex morabetinos.</p>
+                    <p>Si vero sine scriptis tractatur, nichil penitus ex eadem levetur.</p>
+                    <p>Littera executionis sententie diffinitive: quatuor morabetinos, duos denarios.</p>
+                    <p>Sigillare processum appellationis, pro iudice solo: quatuor morabetinos.</p>
+                    <p>Preceptum, quod vulgariter vocatur mandamiento [48], quod fit in eius curia: unum morabetinum.</p>
+                    <p>Publicatio testamenti, pro sigillo et littera: quatuor morabetinos.</p>
+                    <p>Pro eo redigendo in publicam formam, pro eo quod sunt testes recipiendi et diligenter examinandi et eorum dicta in publicam formam redigenda: octo morabetinos.</p>
+                    <p>Auctoritas cum interpositione decreti cuiuslibet scripture: sex morabetinos.</p>
+                    <p>Arrestare aliquem: unum morabetinum.</p>
+                    <p>Ipsum desarrestare: unum morabetinum.</p>
+                    <p>Presentatio testamenti in probationem: unum morabetinum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 24</head>
+                    <p>(24) Taxatio cancellarie archipresbyteratus de Uzeda.</p>
+                    <p>Citatio que fit sine scriptis per nuntium, quod vulgariter vocatur coto o señal o emplazamiento [49], quod fuerit in villa: tres morabetinos.</p>
+                    <p>Si vero extra villam: quatuor morabetinos cum dimidio.</p>
+                    <p>Littera citatoria simplex, pro sigillo, littera, notario seu scriptore: duos morabetinos, duos denarios.</p>
+                    <p>Littera monitoria cum excommunicatione, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera denunciatoria excommunionis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera de participantibus, pro sigillo et scriptura: sex morabetinos, duos denarios.</p>
+                    <p>Littera cum candelis extinctis, pro sigillo et scriptura: quatuor morabetinos, duos denarios.</p>
+                    <p>Littera brachii secularis, pro sigillo et scriptura: quatuor morabetinos, duos denarios.</p>
+                    <p>Littera absolutionis excommunionis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Pro sententia interlocutoria, quando lis tractatur in scriptis per libelli oblationem: quatuor morabetinos.</p>
+                    <p>Si vero non tractatur in scriptis, nichil pro eadem exigatur.</p>
+                    <p>Rebellia seu contumacia, que est quando iudex pronuntiat aliquem contumacem: nichil levetur ex ea neque per iudicem neque per notarium, etiam si ipsam scribat.</p>
+                    <p>Littera receptorie: quatuor morabetinos, duos denarios.</p>
+                    <p>Pro sententia diffinitiva, quando lis tractatur in scriptis per libelli oblationem: quatuor morabetinos.</p>
+                    <p>Si vero non tractatur in scriptis, nichil pro eadem exigatur.</p>
+                    <p>Rebellia seu contumacia, que est quando iudex pronuntiat aliquem contumacem: nichil levetur ex ea neque per iudicem neque per notarium.</p>
+                    <p>Littera executionis sententie diffinitive: quatuor morabetinos, duos denarios.</p>
+                    <p>Sigillare processum appellationis, pro ipso iudice: quatuor morabetinos.</p>
+                    <p>Preceptum, quod vulgariter vocatur mandamiento [50], quod fit in eius curia: unum morabetinum.</p>
+                    <p>Publicatio testamenti, pro sigillo et littera: quatuor morabetinos.</p>
+                    <p>Pro eo redigendo in publicam formam, pro eo quod sunt testes recipiendi et diligenter examinandi et eorum dicta in publicam formam redigenda: octo morabetinos.</p>
+                    <p>Auctoritas cum interpositione decreti cuiuslibet scripture: sex morabetinos.</p>
+                    <p>Arrestare aliquem in speciali: unum morabetinum.</p>
+                    <p>Ipsum desarrestare: unum morabetinum.</p>
+                    <p>Presentatio testamenti in probationem: unum morabetinum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 25</head>
+                    <p>(25) Taxatio cancellarie archipresbyteratus de Buytrago.</p>
+                    <p>Citatio que fit sine scriptura per nuntium, que vulgariter vocatur coto o señal o emplazamiento [51], si fuerit in villa: tres morabetinos.</p>
+                    <p>Si extra villam: quatuor morabetinos cum dimidio.</p>
+                    <p>Littera citatoria simplex, pro sigillo et scriptura: quindecim denarios.</p>
+                    <p>Littera monitoria cum excommunicatione, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera denunciatoria excommunionis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera de participantibus, pro sigillo et scriptura: sex morabetinos, duos denarios.</p>
+                    <p>Littera cum candelis extinctis, pro sigillo et scriptura: quatuor morabetinos, duos denarios.</p>
+                    <p>Littera brachii secularis, pro sigillo et scriptura: quatuor morabetinos, duos denarios.</p>
+                    <p>Littera absolutionis excommunionis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Pro sententia interlocutoria, quando lis tractatur in scriptis per libelli oblationem: tres morabetinos.</p>
+                    <p>Si autem non tractatur in scriptis, nichil pro eadem exigatur.</p>
+                    <p>Pro rebellia seu contumacia, que est quando iudex pronuntiat aliquem contumacem: nichil levetur ex ea neque per iudicem neque per notarium, etiam si ipsam scribat.</p>
+                    <p>Littera receptorie: quatuor morabetinos, duos denarios.</p>
+                    <p>Pro sententia diffinitiva, quando lis tractatur in scriptis per libelli oblationem: sex morabetinos.</p>
+                    <p>Si vero sine scriptis tractatur, nichil penitus pro eadem exigatur.</p>
+                    <p>Littera executionis sententie diffinitive: quatuor morabetinos, duos denarios.</p>
+                    <p>Sigillare processum appellationis, pro ipso iudice: quatuor morabetinos.</p>
+                    <p>Preceptum, quod vulgariter vocatur mandamiento [52], quod fit in eius curia: unum morabetinum.</p>
+                    <p>Publicatio testamenti, pro sigillo et littera: quatuor morabetinos.</p>
+                    <p>Pro eo redigendo in publicam formam, pro eo quod sunt testes recipiendi et diligenter examinandi et eorum dicta in publicam formam redigenda: octo morabetinos.</p>
+                    <p>Auctoritas cum interpositione decreti cuiuslibet scripture: sex morabetinos.</p>
+                    <p>Arrestare aliquem in speciali: unum morabetinum.</p>
+                    <p>Ipsum desarrestare: unum morabetinum.</p>
+                    <p>Presentatio testamenti in probationem: unum morabetinum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 26</head>
+                    <p>(26) Taxatio cancellarie archipresbyteratus de Alcala.</p>
+                    <p>Citatio que fit sine scriptis per nuntium, que vulgariter vocatur coto o señal o emplazamiento [53] si fuerit in villa: quatuor morabetinos.</p>
+                    <p>Si extra villam: quatuor morabetinos cum dimidio.</p>
+                    <p>Littera citatoria simplex, pro sigillo, notario seu scriptore: duos morabetinos, duos denarios.</p>
+                    <p>Littera monitoria cum excommunicatione, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera denunciatoria excommunionis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera de participantibus, pro sigillo et scriptura: sex morabetinos, duos denarios.</p>
+                    <p>Littera cum candelis extinctis, pro sigillo et scriptura: quatuor morabetinos, duos denarios.</p>
+                    <p>Littera brachii secularis, pro sigillo et scriptura: quatuor morabetinos, septem denarios.</p>
+                    <p>Littera absolutionis excommunionis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Pro sententia interlocutoria, quando lis tractatur in scriptis per libelli oblationem: quatuor morabetinos.</p>
+                    <p>Si vero sine scriptis tractatur, nichil pro eadem exigatur.</p>
+                    <p>Pro rebellia seu contumacia, que est quando iudex pronuntiat aliquem contumacem: nichil levetur ex ea per iudicem neque per notarium, etiam si ipsam scribat.</p>
+                    <p>Littera receptorie: quatuor morabetinos, duos denarios.</p>
+                    <p>Pro sententia diffinitiva, quando lis tractatur in scriptis per libelli oblationem: octo morabetinos.</p>
+                    <p>Si vero sine scriptis tractatur, nichil penitus pro eadem exigatur.</p>
+                    <p>Littera executionis sententie diffinitive: quatuor morabetinos.</p>
+                    <p>Sigillare processum appellationis, pro ipso iudice: quatuor morabetinos.</p>
+                    <p>Preceptum, quod vulgariter vocatur mandamiento [54], quod fit in eius curia: unum morabetinum.</p>
+                    <p>Publicatio testamenti, pro sigillo et littera: quatuor morabetinos.</p>
+                    <p>Pro eo redigendo in publicam formam, pro eo quod sunt testes recipiendi et diligenter examinandi et eorum dicta in publicam formam redigenda: octo morabetinos.</p>
+                    <p>Auctoritas cum interpositione decreti cuiuslibet scripture: sex morabetinos.</p>
+                    <p>Arrestare aliquem in speciali: unum morabetinum.</p>
+                    <p>Ipsum desarrestare: unum morabetinum.</p>
+                    <p>Publicatio testamenti in probationem: unum morabetinum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 27</head>
+                    <p>(27) Taxatio cancellarie archipresbyteratus de Guadalfaiara.</p>
+                    <p>Citatio que fit sine scriptis per nuntium, quod vulgariter vocatur [55] coto o señal o emplazamiento [56]: tres morabetinos, quatuor denarios.</p>
+                    <p>Littera citatoria simplex, pro sigillo, notario seu scriptore: duos morabetinos, duos denarios.</p>
+                    <p>Littera monitoria cum excommunicatione, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera denunciatoria excommunicationis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera de participantibus, pro sigillo et scriptura: sex morabetinos, duos denarios.</p>
+                    <p>Littera cum candelis extinctis, pro sigillo et scriptura: quatuor morabetinos, duos denarios.</p>
+                    <p>Littera brachii secularis, pro sigillo et scriptura: quatuor morabetinos, septem denarios.</p>
+                    <p>Littera absolutionis excommunionis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Pro sententia interlocutoria, quando lis tractatur in scriptis per libelli oblationem: quatuor morabetinos.</p>
+                    <p>Si vero non tractatur in scriptis, nichil pro eadem exigatur.</p>
+                    <p>Pro rebellia seu contumacia, que est quando iudex pronuntiat aliquem contumacem: nichil levetur ex ea neque per iudicem neque per notarium, etiam si ipsam scribat.</p>
+                    <p>Littera receptorie: quatuor morabetinos, duos denarios.</p>
+                    <p>Pro sententia diffinitiva, quando lis tractatur in scriptis per libelli oblationem: octo morabetinos.</p>
+                    <p>Si vero sine scriptis tractatur, nichil penitus pro eadem exigatur.</p>
+                    <p>Littera executionis sententie: quatuor morabetinos, duos denarios.</p>
+                    <p>Sigillare processum appellationis, pro ipso iudice: quatuor morabetinos.</p>
+                    <p>Preceptum, quod vulgariter vocatur mandamiento [57], quod fit in eius curia: unum morabetinum.</p>
+                    <p>Publicatio testamenti, pro sigillo et littera: quatuor morabetinos.</p>
+                    <p>Pro eo redigendo in publicam formam, pro eo quod sunt testes recipiendi et diligenter examinandi et eorum dicta in publicam formam redigenda: octo morabetinos.</p>
+                    <p>Auctoritas cum interpositione decreti cuiuslibet scripture: sex morabetinos.</p>
+                    <p>Presentatio testamenti in probationem: unum morabetinum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 28</head>
+                    <p>(28) Taxatio cancellarie archipresbyteratus de Fita.</p>
+                    <p>Citatio que fit sine scriptis, que vulgariter vocatur coto o señal o emplazamiento [58]: duos morabetinos.</p>
+                    <p>Littera citatoria simplex, pro sigillo, notario seu scriptore: duos morabetinos.</p>
+                    <p>Littera monitoria cum excommunicatione, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera denunciatoria excommunionis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera de participantibus, pro sigillo et scriptura: sex morabetinos, duos denarios.</p>
+                    <p>Littera cum candelis extinctis, pro sigillo et scriptura: quatuor morabetinos, duos denarios.</p>
+                    <p>Littera brachii secularis, pro sigillo et scriptura: quatuor morabetinos, septem denarios.</p>
+                    <p>Littera absolutionis excommunionis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Pro sententia interlocutoria, quando lis tractatur in scriptis per libelli oblationem: tres morabetinos.</p>
+                    <p>Si vero tractatur sine scriptis, nichil pro ea exigatur.</p>
+                    <p>Pro rebellia seu contumacia, que est quando iudex pronuntiat aliquem contumacem, nichil levetur ex ea neque per iudicem neque per notarium, etiam si ipsam scribat.</p>
+                    <p>Littera receptorie: quatuor morabetinos.</p>
+                    <p>Pro sententia diffinitiva, quando lis tractatur in scriptis per libelli oblationem: sex morabetinos.</p>
+                    <p>Si vero sine scriptis tractatur, nichil pro eadem levetur.</p>
+                    <p>Littera executionis sententie diffinitive: quatuor morabetinos.</p>
+                    <p>Sigillare processum appellatinis, pro ipso iudice: quatuor morabetinos.</p>
+                    <p>Preceptum, quod vulgariter vocatur mandamiento [59], quod fit in eius curia: unum morabetinum.</p>
+                    <p>Publicatio testamenti, pro sigillo et littera: quatuor morabetinos.</p>
+                    <p>Pro eo redigendo in publicam formam, pro eo quod sunt testes recipiendi et diligenter examinandi et eorum dicta in publicam formam redigenda: octo morabetinos.</p>
+                    <p>Auctoritas decreti cuiuslibet scripture: sex morabetinos.</p>
+                    <p>Arrestare aliquem in speciali: unum morabetinum.</p>
+                    <p>Ipsum desarrestare: unum morabetinum.</p>
+                    <p>Presentatio testamenti in probationem: unum morabetinum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 29</head>
+                    <p>(29) Taxatio cancellarie archiprsbyteratus [60] de Brihuega.</p>
+                    <p>Citatio que fit sine scriptis, quod vulgariter vocatur [61] coto o señal o emplazamiento [62], si in villa fuerit: tres morabetinos.</p>
+                    <p>Si extra villam: quatuor morabetinos.</p>
+                    <p>Littera citatoria simplex, pro sigillo, notario seu scriptore: unum morabetinum, duos denarios.</p>
+                    <p>Littera monitoria cum excommunicatione, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera denunciatoria excommunionis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera cum participantibus, pro sigillo et scriptura: sex morabetinos, duos denarios.</p>
+                    <p>Littera cum candelis extinctis, pro sigillo et scriptura: quatuor morabetinos, duos denarios.</p>
+                    <p>Littera brachii secularis, pro sigillo et scriptura: quatuor morabetinos, septem denarios.</p>
+                    <p>Littera absolutionis excommunionis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Pro sententia interlocutoria, quando lis tractatur in scriptis per libelli oblationem: tres morabetinos.</p>
+                    <p>Si vero non tractatur in scriptis, nichil pro eadem exigatur.</p>
+                    <p>Pro rebellia seu contumacia, que est quando iudex pronuntiat aliquem contumacem: nichil levetur ex ea neque per iudicem neque per notarium, etiam si ipsam scribat.</p>
+                    <p>Littera receptorie: quatuor morabetinos, duos denarios.</p>
+                    <p>Pro sententia diffinitiva, quando lis tractatur in scriptis per libelli oblationem: sex morabetinos.</p>
+                    <p>Si vero sine scriptis tractatur, nichil pro eadem levetur.</p>
+                    <p>Littera executionis sententie diffinitive: quatuor morabetinos, duos denarios.</p>
+                    <p>Sigillare processum appellationis, pro ipso iudice: quatuor morabetinos.</p>
+                    <p>Preceptum, quod vulgariter vocatur mandamiento [63], quod fit in eius curia: unum morabetinum.</p>
+                    <p>Publicatio testamenti, pro sigillo et littera: quatuor morabetinos.</p>
+                    <p>Pro eo redigendo in publicam formam, pro eo quod sunt testes recipiendi et diligenter examinandi et eorum dicta in publicam formam redigenda: octo morabetinos.</p>
+                    <p>Auctoritas cum interpositione decreti cuiuslibet scripture: sex morabetinos.</p>
+                    <p>Arrestare aliquem: unum morabetinum.</p>
+                    <p>Desarrestare ipsum: unum morabetinum.</p>
+                    <p>Presentatio testamenti in probationem: unum morabetinum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 30</head>
+                    <p>(30) Taxatio cancellarie archipresbyteratus de Canales.</p>
+                    <p>Citatio que fit sine scriptis per nuntium, que vulgariter vocatur coto o señal o emplazamiento [21], si fuerit in villa: duos morabetinos.</p>
+                    <p>Si extra villam fuerit: quatuor morabetinos.</p>
+                    <p>Littera vocatoria simplex, pro sigillo, notario seu scriptore: tres morabetinos, duos denarios.</p>
+                    <p>Littera monitoria cum excommunicatione, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera denunciatoria excommunicationis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera de participantibus, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera cum candelis extinctis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera brachii secularis, pro sigillo et scriptura: quatuor morabetinos, septem denarios.</p>
+                    <p>Littera absolutionis excommunicationis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Pro sententia interlocutoria, quando lis tractata fuerit nichil pro interlocutoria levetur.</p>
+                    <p>Pro rebellia seu contumacia, que est quando iudex pronuntiat aliquem contumacem: nichil levetur ex ea, neque per iudicem neque per notarium, etiam si ipsam scribat.</p>
+                    <p>Littera receptorie: tres morabetinos, dos denarios.</p>
+                    <p>Pro sententia diffinitiva, quando lis tractata fuerit in scriptis per libelli oblationem: octo morabetinos.</p>
+                    <p>Si vero sine scriptis tractata fuerit, nichil penitus ex eadem levetur.</p>
+                    <p>Littera excommunicationis sententie diffinitive: quatuor morabetinos.</p>
+                    <p>Sigillare processum appellationis, pro ipso iudice: quatuor morabetinos.</p>
+                    <p>Preceptum, quod vulgariter vocatur mandamiento [22], quodcumque sit, in speciali eius cancellaria: unum morabetinum.</p>
+                    <p>Publicatio testamenti, pro sigillo et littera: quatuor morabetinos.</p>
+                    <p>Pro eo redigendo in publicam formam, pro eo quod sunt testes recipiendi et diligenter examinandi et eorum dicta in publicam formam redigenda: octo morabetinos.</p>
+                    <p>Auctoritas cum interpositione decreti cuiuslibet scripture: sex morabetinos.</p>
+                    <p>Presentatio ipsius testamenti in probationem: unum morabetinum.</p>
+                    <p>(30) Taxatio cancellarie archipresbyteratus de Curita.</p>
+                    <p>Citatio que fit sine scriptis, que vulgariter vocatur coto o senal o emplazamiento [64]: nichil, quia numquam ibi fuit.</p>
+                    <p>Littera citatoria simplex, pro sigillo, notario seu scriptore: duos morabetinos, duos denarios.</p>
+                    <p>Littera monitoria cum excommunicatione, pro sigillo e scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera denunciatoria excommunionis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera de participantibus, pro sigillo et scriptura: sex morabetinos, duos denarios.</p>
+                    <p>Littera cum candelis extinctis, pro sigillo et scriptura: quatuor morabetinos, duos denarios.</p>
+                    <p>Littera brachii secularis, pro sigillo et scriptura: quatuor morabetinos, duos denarios.</p>
+                    <p>Littera absolutionis excommunionis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Pro sententia interlocutoria, quando lis tractatur in scriptis per libelli oblationem: tres morabetinos.</p>
+                    <p>Si vero non tractatur in scriptis, nichil pro eadem exigatur.</p>
+                    <p>Pro rebellia seu contumacia, que est quando iudex pronuntiat aliquem contumacem: nichil levetur ex ea neque per iudicem neque per notarium, etiam si ipsam scribat.</p>
+                    <p>Littera receptorie: quatuor morabetinos.</p>
+                    <p>Pro sententia diffinitiva, quando lis tractatur in scriptis per libelli oblationem: sex morabetinos.</p>
+                    <p>Si vero non tractatur in scriptis, nichil pro eadem exigatur.</p>
+                    <p>Littera executionis sententie diffinitive: quatuor morabetinos.</p>
+                    <p>Sigillare processum appellationis, pro ipso iudice: in albis [65].</p>
+                    <p>Preceptum, quod vulgariter vocatur mandamiento [66], quod fit in eius curia: inalbis [67].</p>
+                    <p>Publicatio testamenti, pro sigillo et littera: in albis [68].</p>
+                    <p>Pro redigendo in publicam formam, pro eo quod sunt testes recipiendi et diligenter examinandi et eorum dicta in publicam formam redigenda: octo morabetinos.</p>
+                    <p>Auctoritas cum interpositione decreti cuiuslibet scripture: sex morabetinos.</p>
+                    <p>Arrestare aliquem: unum morabetinum.</p>
+                    <p>Ipsum desarrestare: unum morabetinum.</p>
+                    <p>Presentatio testamenti in probationem: unum morabetinum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 31</head>
+                    <p>(31) Taxatio cancellarie archipresbyteratus de Almoguera.</p>
+                    <p>Citatio que fit sine scriptis per nuntium, que vulgariter vocatur coto o señal o emplazamiento [69], si fuerit in villa: tres morabetinos.</p>
+                    <p>Si extra villam: quatuor morabetinos.</p>
+                    <p>Littera citatoria simplex, pro sigillo, notario seu scriptore: duos morabetinos, duos denarios.</p>
+                    <p>Littera monitoria cum excommunicatione, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera denunciatoria excommunionis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Littera de participantibus, pro sigillo et scriptura: sex morabetinos.</p>
+                    <p>Littera cum candelis extinctis, pro sigillo et scriptura: quatuor morabetinos, duos denarios.</p>
+                    <p>Littera brachii secularis, pro sigillo et scriptura: quatuor morabetinos, septem denarios.</p>
+                    <p>Littera absolutionis excommunionis, pro sigillo et scriptura: tres morabetinos, duos denarios.</p>
+                    <p>Pro sententia interlocutoria, quando lis tractatur in scriptis per libelli oblationem: quatuor morabetinos.</p>
+                    <p>Si autem non tractatur in scriptis, nichil pro eadem exigatur.</p>
+                    <p>Littera receptorie: quatuor morabetinos.</p>
+                    <p>Pro sententia diffinitiva, quando lis tractatur in scriptis per libelli oblationem: sex morabetinos.</p>
+                    <p>Si vero non tractatur in scriptis, nichil pro eadem levetur.</p>
+                    <p>Pro rebellia seu contumacia, que est quando iudex pronuntiat aliquem contumacem: nichil levetur ex ea neque per iudicem neque per notarium, etiam si ipsam scribat.</p>
+                    <p>Littera executionis sententie diffinitive: quatuor morabetinos, duos denarios.</p>
+                    <p>Sigillare processum appellationis, pro ipso iudice: quatuor morabetinos.</p>
+                    <p>Preceptum, quod vulgariter vocatur mandamiento [70], quod fit in eius curia: unum morabetinum.</p>
+                    <p>Publicatio testamenti, pro sigillo et littera: quatuor morabetinos.</p>
+                    <p>Pro eo redigendo in publicam formam, pro eo quod sunt testes recipiendi et diligenter examinandi et eorum dicta in publicam formam redigenda: octo morabetinos.</p>
+                    <p>Auctoritas cum interpositione decreti cuiuslibet scripture: sex morabetinos.</p>
+                    <p>Arrestatio in genere: nichil.</p>
+                    <p>Arrestatio in specie: unum morabetinum.</p>
+                    <p>Desarrestatio: unum morabetinum.</p>
+                    <p>Presentatio testamenti in probationem: unum morabetinum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 32</head>
+                    <p>(32) Taxatio scripturarum notariorum.</p>
+                    <p>Por quanto fallamos cometidos muchos engaños en los processos que andan en rollo et viene mucho daño a las partes por se resgar o perder alguna tira de aquellas de los processos.</p>
+                    <p>Et, otrosi, el juez non lo puede tan bien veer nin examinar, por quanto esta intrincada, que la escriptura que ha de estar yuso esta suso, en tal manera que por cada cosa que en el aya de veer, le ha de desenvolver, et acaesçe que por tales desenvolvimientos se descosen los processos, et despues, quando los cosen, non aciertan en los ordenar por aquella orden en [71] que estavan primero.</p>
+                    <p>Por ende, ordenamos et mandamos que todos los processos se ordenen por libro et se traslade en ellos todo lo que passare en el pleyto.</p>
+                    <p>Pero todavia queremos que los escrivanos o notarios sean tenudos de guardar los escriptos todos que las partes presentaren, que si dubda nasciere sobre el dicho processo en que fueren trasladados, que los puedan mostrar.</p>
+                    <p>Et mandamos que este libro que le sea pagado al notario o escrivano por las partes.</p>
+                    <p>Et aya de cada foya que sea la quarta parte de un pliego, escripta de ambas partes, en que aya quatrocientas partes, seis dineros.</p>
+                    <p>Et de qualquier traslado que de, en que aya un palmo, que es media tira escripta de un cabo, docientas partes, que lieve tres dineros de cada tal traslado.</p>
+                    <p>Otrosi, por quanto fallamos que asi en la nuestra audiencia como en las otras de las villas et logares del nuestro arzobispado de los juezes ecclesiasticos, que lievan los escrivanos et notarios por la presentacion de procuracion et de qualquier otro instrumento o escriptura publica tres maravedis de la persona singular, et seis maravedis del colegio o concejo o qualquier otra comunidad, lo qual nos parescia ser sin razon.</p>
+                    <p>Por ende, ordenamos et mandamos que por presentacion de las dichas escripturas et de qualquier dellas que sea, para poner en processo, que non lieve mas el notario o el escrivano de persona singular de un maravedi, et de qualquier colegio, concejo o comunidad, dos maravedis.</p>
+                    <p>En las sentencias que fueren dadas, asi en lo civil como en lo criminal, por nos o por qualquier de nuestros vicarios o sus juezes, non lieven mas el notario et el escrivano de aquello que esta ordenado en la taxa de la nuestra cancellaria, et en las sentencias de los arcedianos et arciprestes o de sus vicarios, asi como esta taxado por las taxas que nos sobre ellos fezimos, las quales son para los dichos arcedianos et arcipretes et para sus notarios et escrivanos.</p>
+                    <p>Et esta moderacion sobredicha de todas las dichas taxas sea asi goardada por los dichos juezes ecclesiasticos et por los sus escrivanos et notarios en razon de las cosas que yuso se siguen, en la manera et condicion que yuso se sigue.</p>
+                    <p>El tenor de la qual es este que se sigue.</p>
+                    <p>Primeramente, por las cartas que fueren fechas de vendidas et de compras, de la carta de cinquenta maravedis fasta cient maravedis et de cient maravedis, un maravedi.</p>
+                    <p>Et de cient maravedis arriba fasta en mill, un maravedi de cada ciento.</p>
+                    <p>Et de diez mill maravedis et dende arriba, que tomen veinte maravedis et non mas, por grande que sea la quantia.</p>
+                    <p>Et esto que lo tomen tambien de las cartas lanas que fizieren, como de las desaforadas.</p>
+                    <p>Et de las cartas de vendidas que fueren fechas por almonedas por nuestras cartas o por sentencia de alcaide o por tutorias o por testamentos o por entregas de cristianos o de judios, que destas tales que tomen el doblo de las quantias de las otras cartas de las vendidas et de las compras.</p>
+                    <p>Et en [72] todas las otras cartas de debdas et todos los otros contratos que sean de qualquier manera, que tomen aquella quantia que dicha es que deven tomar por las cartas dichas.</p>
+                    <p>Otrosi, por los testamentos que fueren fechos, que lieven por el testamento que fuere de quantia de cient maravedis, dos maravedis, et de mill maravedis, diez maravedis.</p>
+                    <p>Et dende ayuso, de cada ciento un maravedi.</p>
+                    <p>Et de mill maravedis arriba fasta en diez mill maravedis, por cada mill maravedis, non mas de un maravedi.</p>
+                    <p>Et de diez mill maravedis, veinte maravedis.</p>
+                    <p>Et de diez mill maravedis arriba, treinta maravedis et non mas por grande que sea la quantia.</p>
+                    <p>Et por los inventarios, que tomen la meytad desta quantia, segund que lo han de tomar por los testamentos.</p>
+                    <p>Otrosi, por las cartas de los compromissos, que por el compromisso que fizieren, que lieven seis maravedis et non mas.</p>
+                    <p>Otrosi, que lieven por cada procuracion que fizieren, si fuere de concejo, seis maravedis, et si fuere de otras personas qualesquier, tres maravedis.</p>
+                    <p>Por carta de tutoria o de curaderia, quatro maravedis.</p>
+                    <p>Por carta de arrendamiento o de empeñamiento o de goardas o de encomiendas o de otros contratos qualesquier semeiantes de estos, que paguen por ellos segund que dicho es de las cartas de las vendidas et de las compras.</p>
+                    <p>Por los instrumentos de las afruentas et de los testimonios que demandan sobre los alcalles et sobre los colegios et sobre los concejos o en otra causa [73] semeiante, dos maravedis.</p>
+                    <p>Et si oviere carta encorporada, quatro maravedis, et si mas oviere de una carta encorporada, que por cada carta lieve un maravedi.</p>
+                    <p>Por la presentacion de procuracion et de instrumento o de otras escripturas publicas qualesquiera que sean para poner en el processo, un maravedi por cada una.</p>
+                    <p>Et si fuere procuracion de cabillo o de concejo o de universidat, dos maravedis por la presentacion de la procuracion.</p>
+                    <p>De los presentamientos de los testigos, por cada testigo que fuere presentado, dos dineros.</p>
+                    <p>Et si escriviere su dicho, que tome asi como por el processo original al tiempo que se deviere pagar el processo.</p>
+                    <p>Por la sentencia interlocutoria que diere juez seglar, si andudiere el pleyto por processo et por demanda et respuesta en escripto, lieve el notario un maravedi, et si la parte la quisiere et pidiere signada, lieve tres maravedis.</p>
+                    <p>Et si non andudiere el pleyto por escripto, non lieve cosa por la dicha interlocutoria.</p>
+                    <p>Et por dar el juez alguno por contumaz et rebelle, non lieve el juez cosa alguna nin el escrivano, aunque lo escriva.</p>
+                    <p>Et por la sentencia diffinitiva que diere juez seglar, si andudiere el pleyto por processo et por demanda et respuesta en escripto, et si la parte la quisiere et pidiere signada, lieve el notario seys maravedis, et si non la quisiere por escripto, lieve dos maravedis, et si non adudiere el pleyto por escripto, non lieve cosa por la dicha diffinitiva.</p>
+                    <p>Et si fuere sentencia diffinitiva de pleytos criminal, seys maravedis.</p>
+                    <p>Et por los testigos que fueren escriptos en pesquisa, que lieven por cada testigo cinco dineros.</p>
+                    <p>Et si fuere sentencia interlocutoria de pleytos criminal, quatro maravedis.</p>
+                    <p>Et por las escripturas de seguranzas o de treguas o de fiadores de salvo, de cada persona dos dineros.</p>
+                    <p>Et por las escripturas que fizieren que non son nombradas, que lieven por cada una a razon destas quantias que dichas son, segund que fueren las escripturas que fizieren.</p>
+                    <p>Et defendemos et mandamos que ninguno non sea osado de levar mas de las taxas sobredichas.</p>
+                    <p>Et qualsequier que la levare, pague a la parte de quien la levo quatro tanto mas de lo que levo, et, encima, pague a la nuestra camara cient maravedis.</p>
+                    <p>Et por que esto sea mejor goardado et sepan las partes lo que han de pagar de las dichas escripturas, mandamos que el escrivano o notario que escriva en fin de la carta o escripto que escriviere o mandare escrevir, asi original como traslado o otra escriptura qualquier, suso escripto de su mano quanto lieva por aquella carta o traslado que dio a la parte.</p>
+                    <p>Et si non lo escriviere asi, que pague los dichos cient maravedis de pena para la nuestra camara.</p>
+                    <p>Otrosi, mandamos et tenemos por bien que si en algunas villas et logares o aldeas es acostumbrado de levar menos por el notario o escrivano dende de lo contenido en esta nuestra ordinacion, que sea goardada la dicha costumbre et non lieven mas de como lo han acostumbrado.</p>
+                    <p>Et pongan en cada carta lo que levaren, segund dicho es, so la dicha pena.</p>
+                    <p>Et de qualquier escriptura de las sobredichas que passare ante el escrivano o el notario en latin, que lieve el doblo de lo que ha de levar por cada una de las sobredichas.</p>
+                </div>
+                <div>
+                    <head>Explicit</head>
+                    <p>Conclusion del amanuense y noticia de un libro con estas constituciones de Pedro Tenorio y con otras [74].</p>
+                    <p>Las constituciones antecedentes de don Pedro Thenorio estan escritas en un libro en folio de pergamino, que se guarda en el Archivo de la santa iglesia de Toledo, en la alazena VIIa. 4o., el qual tiene al principio las constituciones de el cabildo de el arzobispo don Blas, luego un indice antiguo de los instrumentos de el cabildo, y despues de el entran estas constituciones y algunos otros instrumentos.</p>
+                    <p>Confrontose esta copia con su original.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] In brackets</p>
+                    <p>[2] (...)</p>
+                    <p>[3] (...)</p>
+                    <p>[4] (...)</p>
+                    <p>[5] &lt;in&gt;</p>
+                    <p>[6] (...)</p>
+                    <p>[7] (...)</p>
+                    <p>[8] (...)</p>
+                    <p>[9] Sentence in brackets</p>
+                    <p>[10] Deleted: (sic)</p>
+                    <p>[11] Deleted: (sic)</p>
+                    <p>[12] From coto in quotation marks</p>
+                    <p>[13] &lt;quando&gt;</p>
+                    <p>[14] mandamiento in quotation marks</p>
+                    <p>[15] From coto in quotation marks</p>
+                    <p>[16] mandamiento in quotation marks</p>
+                    <p>[17] &lt;et&gt;</p>
+                    <p>[18] From coto in quotation marks</p>
+                    <p>[19] &lt;et&gt;</p>
+                    <p>[20] mandamiento in quotation marks</p>
+                    <p>[21] From coto in quotation marks</p>
+                    <p>[22] mandamiento in quotation marks</p>
+                    <p>[23] From coto in quotation marks</p>
+                    <p>[24] mandamiento in quotation marks</p>
+                    <p>[25] From coto in quotation marks</p>
+                    <p>[26] mandamiento in quotation marks</p>
+                    <p>[27] From coto in quotation marks</p>
+                    <p>[28] mandamiento in quotation marks</p>
+                    <p>[29] From coto in quotation marks</p>
+                    <p>[30] &lt;vocatur&gt;</p>
+                    <p>[31] mandamiento in quotation marks</p>
+                    <p>[32] From coto in quotation marks</p>
+                    <p>[33] mandamiento in quotation marks</p>
+                    <p>[34] From coto in quotation marks</p>
+                    <p>[35] mandamiento in quotation marks</p>
+                    <p>[36] From cota in quotation marks</p>
+                    <p>[37] mandamiento in quotation marks</p>
+                    <p>[38] In albis in parentheses</p>
+                    <p>[39] Entrega in quotation marks</p>
+                    <p>[40] From coto in quotation marks</p>
+                    <p>[41] mandamiento in quotation marks</p>
+                    <p>[42] In albis in parentheses</p>
+                    <p>[43] &lt;in scriptis&gt;</p>
+                    <p>[44] mandamiento in quotation marks</p>
+                    <p>[45] &lt;eo&gt;</p>
+                    <p>[46] From coto in quotation marks</p>
+                    <p>[47] &lt;extinctis&gt;</p>
+                    <p>[48] mandamiento in quotation marks</p>
+                    <p>[49] From coto in quotation marks</p>
+                    <p>[50] mandamiento in quotation marks</p>
+                    <p>[51] From coto in quotation marks</p>
+                    <p>[52] mandamiento in quotation marks</p>
+                    <p>[53] From coto in quotation marks; o emplazamiento in brackets</p>
+                    <p>[54] mandamiento in quotation marks</p>
+                    <p>[55] &lt;vocatur&gt;</p>
+                    <p>[56] From coto in quotation marks; o emplazamiento in brackets</p>
+                    <p>[57] mandamiento in quotation marks</p>
+                    <p>[58] From coto in quotation marks; o emplazamiento in brackets</p>
+                    <p>[59] mandamiento in quotation marks</p>
+                    <p>[60] sic</p>
+                    <p>[61] &lt;vocatur&gt;</p>
+                    <p>[62] From coto in quotation marks</p>
+                    <p>[63] mandamiento in quotation marks</p>
+                    <p>[64] From coto in quotation marks; o emplazamiento in brackets</p>
+                    <p>[65] In albis in parentheses</p>
+                    <p>[66] mandamiento in quotation marks</p>
+                    <p>[67] Inalbis in parentheses</p>
+                    <p>[68] In albis in parentheses</p>
+                    <p>[69] From coto in quotation marks</p>
+                    <p>[70] mandamiento in quotation marks</p>
+                    <p>[71] &lt;en&gt;</p>
+                    <p>[72] &lt;en&gt;</p>
+                    <p>[73] &lt;causa&gt;</p>
+                    <p>[74] Sentence in brackets</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

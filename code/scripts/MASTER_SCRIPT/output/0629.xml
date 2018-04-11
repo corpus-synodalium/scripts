@@ -1,0 +1,451 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Segovia</title>
+                <recordID>0629</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate precision="circa">1216</origDate>
+                <dateNotes/>
+                <origPlace>Segovia</origPlace>
+                <diocese>Segovia</diocese>
+                <province>Toledo</province>
+                <country>Spain</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 629</p>
+                <p>Year: 1216</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: Yes</p>
+                <p>DatingNotes: dating uncertain</p>
+                <p>Place: Segovia</p>
+                <p>Diocese: Segovia</p>
+                <p>Province: Toledo</p>
+                <p>CountryModern: Spain</p>
+                <p>Latitude: 40.95</p>
+                <p>Longitude: -4.166667</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Giraldo</p>
+                <p>IssuingAuthorityAlt: Gerardo</p>
+                <p>RegnalStart: 1211</p>
+                <p>RegnalEnd: 1224</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Synodicon Hispanum, VI, pp246-259</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['Library Scan', 'Hard Copy Scan']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>In nomine Patris et Filii et Spiritus Sancti.</p>
+                    <p>Amen.</p>
+                    <p>Notum sit omnibus hominibus tam presentibus quam futuris quod anno Domini m.cc. quintodecimo, temporibus domini Innocentii pape iii., quando celebratum fuit generale concilium Lateranense, regnante domino Henrico illustri rege Castelle et Tolleti, mense Decembris, indictione iii., allatis sacrosanctis quatuor euangeliis, nos quatuor arbitri, scilicet Martinus Ferrandi magister Calatrauensis, et Didacus Garsie cancellarius regis Castelle, et magister Martinus de Torogano, et magister Dominicus de Colara, cognoscentes de omnibus generalibus querelis que uertebantur inter dominum Geraldum [1] Segobiensem episcopum et eius ecclesiam cathedralem ex una parte, et clericos ac laicos eiusdem diócesis, scilicet Segobienses, Septempublicenses, Petracenses, Colarenses, Concenses, tam de ciuitate et uillis quam de aldeis ex altera, eas bona fide, sub animarum nostrarum periculo, sic terminauimus.</p>
+                </div>
+                <div>
+                    <head>Capitulum A1</head>
+                    <p>(A1) Quandocunque clericus ecclesie, ubi plures sunt uel saltem duo, moritur, si dominus episcopus uult alium substituere, antequam substituatur, moneat, conuocet superstitem uel superstites ad consentiendum.</p>
+                    <p>Et licet contradictum fuerit, firmiter teneat quod ipse fecerit, nisi aliquid rationabile obiectum et ostensum fuerit in persona substituti.</p>
+                    <p>Et si interdictum uel excommunicationem uoluerit episcopus interponere uel premittere, seruetur statutum pape.</p>
+                </div>
+                <div>
+                    <head>Capitulum A2</head>
+                    <p>(A2) Item, quicumque clericus uel etiam canonicus habet uel habuerit portionem in aliqua parrochiali ecclesia, substitutus uel etiam substituendus tam in parte portionarii quam aliorum equaliter recipiatur et equaliter receptus habeatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum A3</head>
+                    <p>(A3) Item, an teneatur portionarius in persona propria seruire aut perpetuum uicarium dare, seruetur statutum pape.</p>
+                </div>
+                <div>
+                    <head>Capitulum A4</head>
+                    <p>(A4) Item, nulla parrochialis ecclesia fiat cappellania.</p>
+                </div>
+                <div>
+                    <head>Capitulum A5</head>
+                    <p>(A5) Item, ecclesia de aldea Abbatem habeat tertiam, sicut cetere ecclesie Segobiensis episcopatus.</p>
+                    <p>Et episcopus, si uult eam habere, habeat.</p>
+                    <p>Sed honus totum ecclesie sustineat, alioquin eam deserat.</p>
+                </div>
+                <div>
+                    <head>Capitulum A6</head>
+                    <p>(A6) Item, super ecclesia Sancte Trinitatis de Coca episcopus non defendat canonicos Parrachenses, nec se opponat laicis loci super hoc. [2]</p>
+                </div>
+                <div>
+                    <head>Capitulum A7</head>
+                    <p>(A7) Item, contingit quod occasione interdictorum cessatur a diuinis officiis, et clerici grauiter leduntur.</p>
+                    <p>Super hoc generaliter dicimus in omni causa siue ciuili, siue criminali, siue spirituali, excepto sacrilegio, quod nulla penitus ecclesia parrochialis occasione unius uel plurium usque ad tertiam partem parrochianorum debeat interdici, nec occasione alicuius alterius qui non sit parrochianus.</p>
+                </div>
+                <div>
+                    <head>Capitulum A8</head>
+                    <p>(A8) Item, de priuilegio quod dicitur habere ecclesia cathedralis super conuentionem uel reconuentionem aut defensionem, dicimus nichil ad nos spectare.</p>
+                </div>
+                <div>
+                    <head>Capitulum A9</head>
+                    <p>(A9) Item, quilibet locator domus uel possessionum nunquam teneatur respondere pro inquilino siue habitatore uel conductore, nec hac occasione interdicantur ecclesie.</p>
+                </div>
+                <div>
+                    <head>Capitulum A10</head>
+                    <p>(A10) Item, quod interdixit ecclesiam sancti Michaelis de Segobia pro denariis ludi iudei et christiani.</p>
+                    <p>Restituat omne dampnum quodcumque passi sunt clerici eius, et si quid propter interdictum consecutus est iudeus a christiano, restituat ei uel etiam heres eius.</p>
+                </div>
+                <div>
+                    <head>Capitulum A11</head>
+                    <p>(A11) Item, an clerici debeant interesse electioni episcopi, seruetur ius scriptum.</p>
+                </div>
+                <div>
+                    <head>Capitulum A12</head>
+                    <p>(A12) Item, quando quodlibet capitulum, tam ciuitatis quam uillarum, habeat sigillum, si papa concedit, non prohibemus.</p>
+                </div>
+                <div>
+                    <head>Capitulum A13</head>
+                    <p>(A13) Item, post mortem cuiuscumque clerici, episcopus uel archidiaconus uel archipresbiter uel aliquis uice eorum nichil penitus exigat ab heredibus eius.</p>
+                </div>
+                <div>
+                    <head>Capitulum A14</head>
+                    <p>(A14) Item, omnes archipresbiteri fiant presbiteri, et cum se absentauerint, relinquant aliquem honestum presbiterum de loco, qui uices eorum usque ad reditum eorum adimpleat.</p>
+                </div>
+                <div>
+                    <head>Capitulum A15</head>
+                    <p>(A15) Item, mortuo clerico, episcopus non percipiat portionem defuncti, nec petat ab eius heredibus cathedraticum.</p>
+                </div>
+                <div>
+                    <head>Capitulum A16</head>
+                    <p>(A16) Item, nullus monachus uel quicumque alius audeat baptizare uel predicare aut cetera sacerdotalia officia exercere, nisi de auctoritate episcopi, nec audeat decimas aut primitias exigere.</p>
+                </div>
+                <div>
+                    <head>Capitulum A17</head>
+                    <p>(A17) Item, quicumque fuerint promoti in sacris ordinibus, scilicet diaconatu uel presbiteratu, ad titulum alicuius ecclesie, ibi habeant beneficium canonicum.</p>
+                </div>
+                <div>
+                    <head>Capitulum B</head>
+                    <p>(B) Sequitur de querelis domini episcopi:</p>
+                </div>
+                <div>
+                    <head>Capitulum B1</head>
+                    <p>(B1) Primo, petit a concilio Segobiensi Calatalifam cum omnibus terminis suis.</p>
+                    <p>Super hoc et super uillis uel aldeis que repetebantur ab eo, dicimus talia non spectare ad nos terminare, nec unquam de hoc in compromisso cogitasse, nec ipse uel altera pars posset habere probationes paratas, et ideo de hoc nichil terminamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum B2</head>
+                    <p>(B2) Secundo petit procurationem a clericis Ciuitatensibus et maiorum uillarum et aldearum.</p>
+                    <p>Dicimus quod habeat honestam et moderatam, secundum ius scriptum.</p>
+                </div>
+                <div>
+                    <head>Capitulum B3</head>
+                    <p>(B3) Item, archidiaconus habeat procurationes, secundum ius scriptum; archipresbiteris uero non teneantur clerici ad procurationem dandam.</p>
+                </div>
+                <div>
+                    <head>Capitulum B4</head>
+                    <p>(B4) Item, archidiaconis uel archipresbiteris nomine cathedratici uel alio quocumque nomine seu modo non iusto, nichil penitus detur uel exigatur a clericis.</p>
+                    <p>Et hoc fiat per totum episcopatum.</p>
+                </div>
+                <div>
+                    <head>Capitulum B5</head>
+                    <p>(B5) Item, episcopo non detur a singulis ecclesiis nomine cathedratici, nisi tantum duo solidi, secundum ius scriptum.</p>
+                </div>
+                <div>
+                    <head>Capitulum B6</head>
+                    <p>(B6) Item, possessiones ecclesiis relicte uel donate, ecclesiis relinquantur, nec heredibus clericorum transmittantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum B7</head>
+                    <p>(B7) Item, possessiones ecclesiarum quas clerici in dampnum ecclesie alienauerunt, ecclesiis restituant.</p>
+                </div>
+                <div>
+                    <head>Capitulum B8</head>
+                    <p>(B8) Item, non teneantur clerici simul comedere uel dormire.</p>
+                </div>
+                <div>
+                    <head>Capitulum B9</head>
+                    <p>(B9) Item, clerici non habeant confratarias illicitas.</p>
+                </div>
+                <div>
+                    <head>Capitulum B10</head>
+                    <p>(B10) Item, concedimus quod quando uoluerint, conueniant.</p>
+                </div>
+                <div>
+                    <head>Capitulum B11</head>
+                    <p>(B11) Item, tam clerici quam et laici decimas integre dent et de omnibus de quibus debent.</p>
+                </div>
+                <div>
+                    <head>Capitulum B12</head>
+                    <p>(B12) Item, si uoluerint clerici in foro ciuili respondere, hoc non uetamus propter magnum periculum quod sequeretur, non tamen in criminalibus causis uel spiritualibus.</p>
+                </div>
+                <div>
+                    <head>Capitulum B13</head>
+                    <p>(B13) Item, non teneantur clerici uel laici ad restitutionem quarundam procurationum et tertiarum et portionum quarundam ecclesiarum, quibus se et suos canonicos dicit episcopus spoliatum, cum post litis contestationem hanc querelam prosequi noluerit, et licet eam ante proposuerit, nec ante litem contestatam quicquam de ea non prosequenda protestatus fuerit, nec aliquid super hoc probauerit.</p>
+                </div>
+                <div>
+                    <head>Capitulum B14</head>
+                    <p>(B14) Item, subtractum eius cathedraticum, sibi restituatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum B15</head>
+                    <p>(B15) Item, tertiarius quando constituitur, iuret se fidelem fore episcopo uel prestimoniario et concilio suo, et fiat sacramentum presente nuntio episcopi uel prestimoniarii.</p>
+                </div>
+                <div>
+                    <head>Capitulum B16</head>
+                    <p>(B16) Item, de tertia fabrice non reddatur ratio episcopo, propter periculum quod timemus, nisi manifeste appareret quod male consumeretur uel in usus fabrice uel ecclesie non conuertentur, aut in alios usus pauperum.</p>
+                </div>
+                <div>
+                    <head>Capitulum B17</head>
+                    <p>(B17) Item, clerici uel laici non communicent excommunicatis, et si fecerint, seruetur constitutio domini pape Innocentii.</p>
+                </div>
+                <div>
+                    <head>Capitulum B18</head>
+                    <p>(B18) Item, de excommunicatione quam in dominum episcopum et homines suos dicuntur fecisse Colarenses et Septempublicenses, dicimus quod illi contra quos hoc probatum fuerit satisfaciant ei canonice.</p>
+                </div>
+                <div>
+                    <head>Capitulum B19</head>
+                    <p>(B19) Item, de constitutione quam Segobienses clerici dicuntur fecisse in iniuriam episcopi et archidiaconi et archipresbiteri, dicimus quod ipso iure non tenet nec penam in ea adiectam committant, immo canonice puniantur qui probati fuerint hoc fecisse.</p>
+                </div>
+                <div>
+                    <head>Capitulum B20</head>
+                    <p>(B20) Item, dicimus quod clerici a predictis clericis spoliati restituantur integre, expoliatores contra quos probatum fuerit, canonice puniantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum B21</head>
+                    <p>(B21) Item, dicimus quod clerici qui concitauerunt laicos aduersus cathedralem ecclesiam et aduersus eam conspirationes illicitas fecerunt, contra quos uiolenta presumptio fuerit, si negauerint, omnia secunda manu sui ordinis se expurgent.</p>
+                    <p>Si legitime conuicti fuerint aut in purgatione defecerint, canonice satisfaciant ei.</p>
+                </div>
+                <div>
+                    <head>Capitulum C</head>
+                    <p>(C) Sequitur de statutis domini episcopi in sinodo sua factis, que sunt hec.</p>
+                    <p>In nomine sancte et individue Trinitatis.</p>
+                    <p>Que a sanctis patribus scripta sunt innouantes:</p>
+                </div>
+                <div>
+                    <head>Capitulum C1</head>
+                    <p>(C1) Mandamus quod omnes clerici siue maiorum siue minorum ordinum habeant coronam et tonsuram clericalem.</p>
+                    <p>Quod si non habuerint, non defendentur ab Ecclesia.</p>
+                </div>
+                <div>
+                    <head>Capitulum C2</head>
+                    <p>(C2) Secundo, mandamus quod nullus clericus habeat uestes rubeas uel uirgatas uel inferius incisas siue in humero perforatas.</p>
+                </div>
+                <div>
+                    <head>Capitulum C3</head>
+                    <p>(C3) Tertio, mandamus quod nullus clericus legat uel cantet in ecclesia absque capa, pallio uel superpellicio.</p>
+                    <p>Quod si fecerit, suspendatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum C4</head>
+                    <p>(C4) Quarto, statuimus quod nullus clericus portet cultellum acutum.</p>
+                </div>
+                <div>
+                    <head>Capitulum C5</head>
+                    <p>(C5) Quinto, quod nullus clericus ludat ad decios, nec assistat ludearibus.</p>
+                    <p>Quod si fecerit, suspendatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum C6</head>
+                    <p>(C6) Sexto, quod nullus clericus bibat in taberna, nisi causa necessitatis in itinere.</p>
+                </div>
+                <div>
+                    <head>Capitulum C7</head>
+                    <p>(C7) Septimo, quod nullus laicus sit sacrista, neque ministret sacris (?) [3] circa altare, nisi portet coronam.</p>
+                </div>
+                <div>
+                    <head>Capitulum C8</head>
+                    <p>(C8) Octauo, monemus quod nullus clericus emat panem uel uinum ut carius uendat, cum clericis non liceat negotiari.</p>
+                </div>
+                <div>
+                    <head>Capitulum C9</head>
+                    <p>(C9) Nono, mandamus quod nullus clericus mutuet ad usuram uel pignora recipiat, ut ultra sortem aliquid accipiat, cum in Veteri Testamento usura sit prohibita tam laicis quam clericis, et in euangelio Luce contineatur Mutuum dantes, nichil inde sperantes.</p>
+                    <p>Item, si laicus ad usuram mutuauerit, nullus clericus cartam scribat.</p>
+                    <p>Quod si fecerit, suspendatur et excommunicetur.</p>
+                </div>
+                <div>
+                    <head>Capitulum C10</head>
+                    <p>(C10) Decimo, mandamus quod nullus clericus secularis uel religiosus alienum parrochianum ad penitentiam recipiat, nisi in articulo mortis, cum sacerdotem proprium habere non possit.</p>
+                    <p>Sed si sacerdotem proprium habuerit, nullus alius audeat ei penitentiam iniungere, neque audeat uelare alienum parrochianum uel etiam baptizare, nisi in articulo mortis, non habendo copiam proprii sacerdotis.</p>
+                    <p>Quod si fecerit, suspendatur.</p>
+                    <p>Nullus clericus interdictos suos uel alienos in ecclesia sua recipiat.</p>
+                </div>
+                <div>
+                    <head>Capitulum C11</head>
+                    <p>(C11) Undecimo, mandamus quod nullus relicta sua ecclesia recipiatur in aha ecclesia ad sepulturam, nisi in ecclesia cathedrali uel in monasterio, aut causa [4] sequendi sepulturam parentum suorum, uel uxor uiri sui.</p>
+                    <p>Item, nullus sepeliat laicum in ecclesia, cum prohibitum sit in sacris canonibus.</p>
+                </div>
+                <div>
+                    <head>Capitulum C12</head>
+                    <p>(C12) Duodecimo, si aliquis clericus uel laicus fuerit manifeste usurarius, nisi ante finem uite sue restituerit ea que habuit de usura, uel secundum iudicium Ecclesie se emendauerit, non sepeliatur.</p>
+                    <p>Item, nullus pecuniam orphanorum uel alicuius alterius det ad usuram.</p>
+                    <p>Si fecerit, similiter non sepeliatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum C13</head>
+                    <p>(C13) Tertiodecimo, precipimus quod nullus archipresbiter uicarium habeat, nisi in ecclesia cathedrali residentiam fecerit, uel sit cum episcopo, uel infirmus, uel in scolis, uel in peregrinatione.</p>
+                    <p>Et tunc instituatur uicarius ab archidiácono et de consensu episcopi.</p>
+                    <p>Item, quod nullus archidiaconus uel archipresbiter uel aliquis alius petitum faciat de tertiis ecclesiarum ante diuisionem ipsarum tertiarum.</p>
+                    <p>Quod si facerit, ipso iure dignitate qua fungerit priuetur.</p>
+                    <p>Item, nullus archipresbiter per archipresbiteratum uisitando uadat, nisi cum duabus equitaturis et duobus tractariis, et tunc canes uenaticos uel aues non habeat.</p>
+                    <p>Quod si facerit, ipso iure sit archipresbiteratu priuatus.</p>
+                    <p>Item, nullus archipresbiter archipresbiteratum uisitet nisi semel in anno, nisi causa necessitatis uel de mandato episcopi uel archidiaconi.</p>
+                    <p>Item, pro redecimatione archidiaconus non uadat, nisi unus solus eques archidiaconus et unus solus pedes archipresbiteri, et de suo proprio uiuant.</p>
+                    <p>Qui si ad diem partitionis non ueniant, nichilominus fiat partitio, sed clericus uel clerici illius loci accipiant redecimas et reseruent eas fideliter.</p>
+                    <p>Item, si aliquis clericus probatus fuerit aliquid accepisse de tertia latenter ante diuisionem uel post diuisionem, tanquam sacrilegus deponatur, et in quadruplum restituat.</p>
+                    <p>Idem dicimus de sacrista.</p>
+                    <p>Item, quilibet archipresbiter prohibeat parentibus suis ne petitum faciant a clericis archipresbiteratus.</p>
+                    <p>Quod si non fecerit, ipso iure archipresbiteratum ammittat.</p>
+                </div>
+                <div>
+                    <head>Capitulum C14</head>
+                    <p>(C14) Quartodecimo, precipimus quod primitie ad ecclesiam deferantur integre et separatim.</p>
+                    <p>Et episcopus uel prestimoniarius tertiam partem de primitiis percipiat, sicut et de tertia integre.</p>
+                    <p>Item, si sacrista de domo in domum uel de area in aream primitias ad opus sui petierit, nunquam amplius sit sacrista in aliqua ecclesia, et accepta restituat in quadruplum.</p>
+                </div>
+                <div>
+                    <head>Capitulum C15</head>
+                    <p>(C15) Quintodecimo, districte precipimus quod tertiarius et clericus ecclesie, presente homine episcopi uel prestimoniarii, iurent, et hoc super sacrosancta Euangelia, quod fideles erunt episcopo uel prestimoniario et concilio.</p>
+                    <p>Et uterque habeat suam clauem, alteri contrariam: prestimoniarius clericus unam, et tertiarius alteram.</p>
+                    <p>Et dent computationem siue per scriptum siue quolibet alio modo, quis quantum dederit.</p>
+                    <p>Quod si ita non fecerint, clericus deponatur et laicus excommunicetur.</p>
+                    <p>Item, pro claueria uel alia ratione, clerici ecclesiarum de parte episcopi uel prestimoniarii nichil percipiant.</p>
+                    <p>Quod si fecerint, ecclesias perdant; si laicus est, excommunicetur, et accepta in quadruplum restituat.</p>
+                </div>
+                <div>
+                    <head>Capitulum C16</head>
+                    <p>(C16) Sextodecimo, mandamus quod nullus comedat uel bibat de carnibus uel uino iudeorum.</p>
+                    <p>Si quis fecerit, canonice puniatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum C17</head>
+                    <p>(C17) Septimodecimo, mandamus quod nullus clericus teneat uocem coram laico, nisi pro se uel suo homine uel uidua uel orphano uel alio paupere qui non possit locare aduocatum, nec etiam pro hiis uocem teneat in causa ubi timetur mors uel sanguinis effusio.</p>
+                    <p>Quod si fecerit, ammittat ecclesiam.</p>
+                </div>
+                <div>
+                    <head>Capitulum C18</head>
+                    <p>(C18) Octauodecimo, nullus clericus fiat maiordomus laici.</p>
+                    <p>Quod si fecerit et captus fuerit, nos eum indignum clericali priuilegio iudicamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum C19</head>
+                    <p>(C19) Nonodecimo, constituimus quod si quis clericus in bandis laicorum se interposuerit, nisi ad pacem et concordiam inducendum, ammittat ecclesiam et priuilegio careat clericali.</p>
+                </div>
+                <div>
+                    <head>Capitulum C20</head>
+                    <p>(C20) Vicesimo, constituimus quod nullus archipresbiter percipiat clericum innotum, siue habeat litteras siue non, sed mittat eum ad archidiaconum uel ad episcopum.</p>
+                    <p>Neque cognoscat de causa matrimoniali, neque de uiolenta manuum iniectione, sed omnes tales causas, statim cum mote fuerint, mittant eas ad archidiaconum uel ad episcopum uel eum qui uices eius tenuerit, neque dent ecclesias uel commendent.</p>
+                    <p>Quod si fecerint, ipso iure archipresbiteratum ammittant.</p>
+                    <p>Item, si aliquis clericus persuaserit alicui bono uiro uel mulieri quod non eligat sepulturam in ecclesia cathedrali, uel suam helymosinam conferat, excommunicetur et deponatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum C21</head>
+                    <p>(C21) Vicesimoprimo, constituimus quod nullus canonicus de cetero fiat archipresbiter nisi in cathedrali ecclesia.</p>
+                    <p>Item, de parte clerici uel clericorum tantum retineatur quod satisfaciat episcopo de cathedratico suo, et archidiácono et archipresbitero de iure suo, et hoc statim in ipsa partitione.</p>
+                    <p>Item, mandamus quod nullus clericus intersit clandestinis coniugiis.</p>
+                    <p>Quod si fecerit, sine spe restitutionis suspendatur.</p>
+                    <p>Item, precipimus quod nullus archidiaconus uel archipresbiter pro litteris uel sigillo aliquid exigat.</p>
+                    <p>Quod si fecerit, potestatem ammittat.</p>
+                    <p>Item, mandamus quod nullus archipresbiter detineat nuntium prestimoniarii ultra quartum diem.</p>
+                    <p>Quod si fecerit, de cetero in expensis ei prouideat.</p>
+                    <p>Et illum de quo conqueritur nuntius prestimoniarii interdicat, et non absoluat eum donec se representet conspectui episcopi uel archidiaconi.</p>
+                    <p>Item, constituimus quod quilibet clericus faciat sermonem ad populum suum, et moneat quod quando Corpus Christi eleuatur in missa, omnes flectant genua, et ut omnes sciant, pulsetur campana pama a sacrista.</p>
+                    <p>Item, quod nullus ueniat pro erismate, nec deferat, nisi sit clericus.</p>
+                    <p>Item, constituimus quod quando sacerdos defert Corpus Christi ad aliquem infirmum, deferat cum maxima ueneratione, cum superpellicio et stola, et moneat omnes quod flectant genua.</p>
+                </div>
+                <div>
+                    <head>Capitulum D</head>
+                    <p>(D) Arbitrorum correctiones [5].</p>
+                    <p>Primum et secundum dicimus obseruandum et tertium, sed in fine tertii pro suspendatur ponimus corrigatur.</p>
+                    <p>Ad quartum, dicimus seruandum, sed in fine addimus magnum.</p>
+                    <p>De quinto et de sexto papa statuit.</p>
+                    <p>Septimum et octauum dicimus seruandum et nonum, sed in secundo eius articulo addimus scienter ante uerbum scribat.</p>
+                    <p>Decimum et undecimum dicimus obseruandum.</p>
+                    <p>Duodecimum dicimus obseruandum, sed in utroque articulo addimus in sepultura ecclesiastica.</p>
+                    <p>Item: Clericus qui eius exequiis interfuerit, officiando diuina, postquam talis uel talis sepeliendus denuntiatus fuerit usurarius manifestus, per episcopum uel archidiaconum uel archipresbiterum canonice puniatur.</p>
+                    <p>Tertiumdecimum dicimus obseruandum in primo et secundo articulo.</p>
+                    <p>Tertium articulum remouemus quantum ad penam.</p>
+                    <p>Quartum admittimus articulum, sed addimus quod Clerici non cogantur archipresbitero quicquam dare uel eum procurare.</p>
+                    <p>Quintum admittimus articulum.</p>
+                    <p>Sextum articulum sic corrigimus: Item, si aliquis clericus probatus fuerit aliquid accepisse de aliqua trium tertiarum latenter ante diuisionem uel post, suspendatur et in quadruplum restituat.</p>
+                    <p>Idem et de sacrista.</p>
+                    <p>Septimum articulum admittimus, sed addimus ter amonitus ab episcopo uel archidiácono.</p>
+                    <p>Quartumdecimum statutum non recipimus, propter periculum quod timemus.</p>
+                    <p>De sacrista non dicimus quod liceat ei ire de domo in domum, et de area in aream et exigere primitias ad opus sui, et dentur ei ut solent dari.</p>
+                    <p>Quintumdecimum cancellamus.</p>
+                    <p>In sextodecimum addimus scienter.</p>
+                    <p>In septimodecimum addimus uel sociis suis, et in fine corrigimus sic: Quod si fecerit in causa sanguinis, canonice corrigatur.</p>
+                    <p>In causis pecuniariis post trinam ammonitionem officio et beneficio spatio trium mensium suspendatur.</p>
+                    <p>Octauumdecimum admittimus.</p>
+                    <p>In nonodecimum addimus ex usu, et in fine temperamus sic: suspendatur et si perstiterit, excommunicetur.</p>
+                    <p>Vicesimum statutum dicimus seruandum, sed finem secundi capituli temperamus sic: per duos menses ab officio et beneficio suspendatur.</p>
+                    <p>Vicesimumprimum statutum dicimus obseruandum, sed secundum eius capitulum reprobamus.</p>
+                    <p>Tertium pape est.</p>
+                    <p>Quartum et quintum aprobamus, sed in quinto addimus nisi satisfecerit.</p>
+                    <p>Et tres sequentes articulos approbamus.</p>
+                    <p>Item, precipimus quod dominus episcopus apponat sigillum proprium, et faciat apponi sigillum ecclesie sue siue capituli sententie siue arbitrio siue mandato siue dispositioni nostre premisse, et altera pars apponi faciat sigillum regis Castelle uel sua propria si habuerint.</p>
+                    <p>Et supradicta omnia mandamus, decernimus, arbitramus et disponimus, sub pena compromissi, scilicet duorum milium morabetinorum, ab utraque parte firmiter et inuiolabiliter observari, pena uel dispositiones siue in dampno siue in commodo premissis ad uillas uel ad earum aldeas prefato arbitrio non subiectas nullatenus porrigendis.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] Ed. G&lt;eraldum&gt;</p>
+                    <p>[2] &quot;dichas fechas y por su sintonía con varios puntos de la legislación lateranense, sintonía que sí se da en varios sínodos franceses en mayor grado, pero que no se conocía hasta ahora para la Corona de Castilla.&quot;  La inclusión de este texto en el SH se justifica porque el texto enmendado que conocemos es posterior al Concilio.</p>
+                    <p>[3] Question mark in parentheses is included in original text.</p>
+                    <p>[4] Ed. &lt;causa&gt;</p>
+                    <p>[5] Ed. &lt;ARBITRORUM CORRECTIONES&gt;</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

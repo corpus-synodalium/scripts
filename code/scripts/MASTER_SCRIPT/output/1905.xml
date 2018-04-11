@@ -1,0 +1,280 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Beziers</title>
+                <recordID>1905</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1232</origDate>
+                <dateNotes/>
+                <origPlace>Béziers</origPlace>
+                <diocese>Béziers</diocese>
+                <province>Narbonne</province>
+                <country>France</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Legatine</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 1905</p>
+                <p>Year: 1232</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: Dated 1234 in Mansi and Palazzini, but must have been held before 26 April 1232; see Cabie, Date du concile de Béziers, 349-357</p>
+                <p>Place: Béziers</p>
+                <p>Diocese: Béziers</p>
+                <p>Province: Narbonne</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 43.347615</p>
+                <p>Longitude: 3.218991</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Legatine</p>
+                <p>IssuingAuthority: Gautier de Marvis</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: Bp of Tournai and apostolic legate</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Mansi 23, cols 269-78</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Data Capture']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>QUoniam statuta salubria per dominum Romanum apostolicae sedis legatum, et ceteros legatos, super negotio fidei ac pacis, authoritate apostolica diversis temporibus edita sufficere credimus; dum tamen fuerint observata, quae inferius duximus subscribenda ad praesens; non intendimus omnino super his novos canones edere, sed eorum transgressores canonice puniantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) Ut haeretici et eorum fautores singulis Dominicis excommunicentur.</p>
+                    <p>Praecipimus itaque, ut haeretici et eorum credentes, fautores, eorum receptatores et defensores, singulis diebus Dominicis excommunicentur.</p>
+                    <p>Et si quis praedictorum credentium, fautorum, receptatorum, et defensorum personaliter monitus, et excommunicatus nominatim, infra quadraginta dies resipiscere noluerit, sed in eorum defensione perstiterit, vel inquisitionem eorum impedierit, pro haeretico habeatur: cum perseverantia et defensio erroris in talibus hominem faciat haereticum judicari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Ut possit quilibet, et ubilibet capere haereticum.</p>
+                    <p>Praecipimus etiam ut quilibet privatus in terra cujuslibet possit inquirere et capere haereticum, et captum, necesse habeat episcopo ostendere, vel baculo ipsius episcopi praesentare: nec ipsum praesumat aliquis impedire, sed in captione quilibet Christianus praestet ei auxilium et favorem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) Ne fautores haereticorum emant bailivas.</p>
+                    <p>Intelleximus quod quidam credentes et fautores haereticorum, seu defensores eorum, pro majori summa emunt bailivas dominorum, ut sub alis eorum bailivorum haeretici libere valeant egredi, vel ingredi, et impune fidem catholicam violare.</p>
+                    <p>Quare districtius inhibemus, ne talia dominis de cetero attententur.</p>
+                    <p>Quod si attentaverit, et admoniti ab episcopo non emendaverint, cum nota infamiae, quam se noverint incurrisse, excommunicationis gladio feriantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) De haereticis conversis, qui duos cruces prominentes non tulerint.</p>
+                    <p>Item reconciliati de haeresi, qui duas cruces prominentes, ad mandatum episcopi portare noluerint, pro haereticis habeantur, et bona eorum confiscentur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) De suspectis qui diebus festis ad ecclesiam non veniunt.</p>
+                    <p>Item cum singuli parochiani in diebus festis venire ad ecclesiam teneantur sub poena in Tolosano concilio promulgata: necesse est, ut sacerdotes erga omnes suspectos de haeresi, quos per scripturam, et ex nomine cognoscere debent, nisi illi ecclesiam frequentent statutis diebus, sine remedio poenam levent, et in vita et in morte statuta contra hujusmodi promulgata, ut pupillam oculi conservent.</p>
+                    <p>Quod si sacerdos eorum transgressor fuerit deprehensus, ab officio et beneficio suspendatur, privandus eodem, si competenter monitus fuerit negligens et remissus.</p>
+                    <p>Quod si sacerdos se insufficientem cognoverit ad exequendum, quod de haereticis est statutum: episcopo suo denunciet, quicquid inquirere poterit, ut ita se a culpa liberet et a poena.</p>
+                    <p>Dominus autem requiret de manibus episcoporum sanguinem pereuntium, si eis non adhibuerint vigilantiam pastoralem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>(6) Quales admittantur ad sacros ordines.</p>
+                    <p>Quia penitus indigni ad dignitatem sacrorum ordinum, contra canonicas sanctiones in partibus hujus legationis hactenus sunt admissi: praecipimus ut quilibet ordinandus examinetur, de vita et de scientia et moribus diligenter: et sine titulo patrimoniali centum solidorum Turonensium ad minus ecclesiastico beneficio competenti, sicut in jure canonico cautum est, ordinandus de cetero nullatenus admittatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>(7) Quales admittantur ad tonsuram.</p>
+                    <p>Quia etiam ad primam tonsuram non esset admittendus quisquam, nisi sciret distincte legere, et nisi de utero libero, et legitimo matrimonio procederet, juxta illud: De utero novi te: non ingredietur manser, hoc est de scorto natus, in ecclesiam domini Dei: statuimus et firmiter praecipimus et mandamus, ut nullus etiam ad primam tonsuram de cetero admittatur, nisi sciat legere et cantare, et de libero utero et legitimo matrimonio sit procreatus: nisi ex cause visum fuerit episcopo loci super procreatis ex contubernio dispensandum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>(8) Ut episcopi cautionem simoniacam non exigant ab iis quos promovent ad sacros ordines.</p>
+                    <p>Ad abolendam etiam simoniae corruptelam, quae in his partibus inolevit, videlicet quod episcopi clericos ad sacros ordines promovendos nolunt aliquatenus promovere, nisi prius praestito juramento, vel alia cautione, quod ratione tituli patrimonialis, vel alterius minus idonei, ipsos, vel eorum non impediant successores: districtim inhibemus ne talia praesumant de cetero attentare.</p>
+                    <p>Quod si fecerint, a celebratione ordinis noverint se suspensos: quia sanctius est in ordine sacerdotii, paucos quam multos malos habere ministros, sicut est in Lateranensi concilio constitutum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>(9) Ut archidiaconi habeant zelum animarum, et praedicare sciant.</p>
+                    <p>Praecipimus ut tam episcopi, quam alii, praeficiant tales archidiaconos, qui zelum animarum habentes, sufficiant praedicare clero et populo verbum Dei.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>(10) De legendis constitutionibus.</p>
+                    <p>Legantur constitutiones contra injuste excommunicantes, scilicet: Sacro approbante concilio: et: Sub interminatione Divini judicii.</p>
+                    <p>Sicut scribit nobis dominus papa: Ubi non est gubernatio, populus corruet, et ecclesia sine rectore pervia est in temporalibus et spiritualibus detrimentis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>(11) De patronis ecclesiarum.</p>
+                    <p>Unde omnibus religiosis, capitulis, et aliis personis, qui tenent ecclesias parochiales, ad eorum donationes spectantes, auctoritate qua fungimur districte praecipimus, quatenus usque ad festum omnium Sanctorum proxime venturum, suis dioecesanis episcopis rectores, seu perpetuos vicarios, et idoneos vita et scientia, ad easdem ecclesias repraesentent, ut ab eis curam recipiant animarum: congrua tamen prius ipsis quae sibi sufficiat, et in suis adsignata de ipsarum proventibus portione, juxta canonum sanctiones, quam portionem debeat et possit dioecesanus episcopus merito approbare.</p>
+                    <p>Quod si forte infra praescriptum tempus, in auditum nostrum executioni distulerint demandare: dioecesanis episcopis in virtute obedientiae praecipimus, ut sine dilatione vice nostra fideliter exequantur, contradictores et rebelles, etc.</p>
+                    <p>Quod si id episcopi efficere neglexerint, per mensem ab ingressu ecclesiae noverint se suspensos.</p>
+                    <p>Si vero episcopi tales ecclesias habuerint, et infra praescriptum tempus perpetuos vicarios non instituerint: in eisdem donationi nostrae dictas ecclesias reservamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>(12) De beneficiis quae curam habent animarum.</p>
+                    <p>Quicumque habent curam animarum, ad ordinem sacerdotum promoveantur, ubi citius poterunt commode promoveri.</p>
+                    <p>Et qui ordines tempore congruo recipere detrectaverint, ad hoc per subtractionem beneficii compellantur: ut qui honorem refugerint appetere, mittantur ad quaestum.</p>
+                    <p>Quod si ecclesia parochialis praebendae vel dignitati sit annexa: necesse habet [1] quod oportet in majori ecclesia deservire [2] vicarium perpetuum et idoneum in parochiali ecclesia praesentare episcopo, qui congruam habeat de parochiali ecclesia portionem:</p>
+                    <p>Quod si facere neglexerit, elapsis sex mensibus institutione dictae ecclesiae ea vice noverit se privatum.</p>
+                    <p>Volumus igitur et districte praecipimus, ut quaelibet parochialis ecclesia proprium habeat et perpetuum sacerdotem, qui personaliter deserviat in eadem.</p>
+                    <p>Ita quod unica persona una parochiali ecclesia sit contenta: statutum concilii recolens, quo cavetur, ut quicumque receperit beneficium habens curam animarum vel residentiam annexam; si prius tale beneficium obtinebat, eo sit ipso jure privatus: et si forte illud retinere contenderit, etiam alio spolietur.</p>
+                    <p>Quapropter donationes beneficiorum sic vacantium nostrae specialiter donationi reservamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>(13) De vita et honestate clericorum.</p>
+                    <p>Circa clericos vero saeculares praecipimus observari constitutiones de vita et onestate clericorum, editas in concilio generali, quae sic incipiunt: Clerici: Acrapula.</p>
+                    <p>Adjicimus etiam et districtius inhibemus, ne aliqui clerici, qui volunt gaudere privilegio clericali, cultellos acutos, enses vel lanceas deferre praesumant, vel armis impugnativis, quibus vis infertur, non utantur: nisi forte tempore guerrae.</p>
+                    <p>Inhibemus, ne aliqui canonici saeculares stallum in choro, vel vocem habeant in capitulo, nisi fuerint in sacris ordinibus constituti, nisi ex causa cum eis ab episcopo fuerit dispensatum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>(14) De observantia regularium.</p>
+                    <p>Tria sunt de substantia regularis professionis, scilicet, abdicatio proprietatis, continentia carnis, obedientia regularis.</p>
+                    <p>In his tribus et ceteris observantiis, per quae conservatur ordo et disciplina regularis, tam monachi, quam canonici regulares, et moniales, in silentio, et in parcitate cibi, professione facienda, infirmaria, in eleemosynis, hospitalitate, et aliis suam magistram sequantur regulam, secundum quam vivere sunt professi, et sine cujus observatione non sunt in statu vel ordine salvandorum.</p>
+                    <p>Verum quia de proprietate et veste praedictorum est scandalum in clero et populo: breviter tangimus, quae de proprietatibus a domino Innocentio sunt statuta.</p>
+                    <p>Prohibemus itaque in virtute obedientiae sub obtestatione Divini judicii, ne aliquis religiosorum proprium possideat.</p>
+                    <p>Sed si quis aliquid habeat proprium, in contenti resignet.</p>
+                    <p>Si vero posthaec proprietatem aliquam fuerit deprehensus habere, regulari admonitione praemissa, de monasterio expellatur: nec recipiatur ulterius, nisi poeniteat secundum monasticam disciplinam.</p>
+                    <p>Quod si proprietas apud quemquam inventa fuerit in morte ipsa: cum ea in signum praedonis, secundum statuta beati Gregorii, extra monasteria subterretur.</p>
+                    <p>Nec etiam temperet abbas, vel aliquis superior, qui super habenda proprietate possit cum aliquo monacho vel regulari canonico dispensare: quia abdicatio proprietatis, sicut custodia castitatis, adeo est annexa regulae monachali, ut contra eam nec summus pontifex possit indulgentiam indulgere.</p>
+                    <p>Immo tales in praecipuis festivitatibus excommunicationis vinculo innodentur.</p>
+                    <p>Quod si abbas, vel alii superiores, in his corrigendis negligentior extiterit: correctio ad episcopum devolvatur, abbatibus nihilo minus de negligentia puniendis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>(15) De vestibus abbatum et monachorum.</p>
+                    <p>Abbas et monachi secundum regulam B. Benedicti vestes habeant, de quarum cosore aut grossitudine non causentur: sed quales inveniri possunt in provincia in qua habitant, aut quod vilius potest comparari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>(16) De vestibus canonicorum regularium.</p>
+                    <p>Canonicis etiam regularibus prohibemus, ne sit eorum habitus notabilis vel reprehensibilis, nec affectent vestibus placere, sed moribus.</p>
+                    <p>Secundum statuta concilii 1 Avenionensis et 2 Montipessulani, cappis, tunicis, et palliis, caligis de aliqua bruneta, clara, vel nigra, nec etiam stamine forti, vel alio colorato panno, seu sumptuoso, vel aliquo serico de cetero non utantur ne sordes animo contrahat pretiosae vestis nimius appetitus, nec accipiant monachi vel alii clerici regulares a suo majore, vel aliquo alio, aliquam pro vestibus pecuniae quantitatem, quia ex hoc datur eis materia proprium retinendi: sed omnes tam majores, quam inferiores de ecclesiae vestiario vestiantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 17</head>
+                    <p>(17) De custodia claustri.</p>
+                    <p>Claustrum quoque diligenter observetur ut claudatur, ut re et nomine claustrum valeat appellari.</p>
+                    <p>Nec milites vel etiam laici claustrum vel officinas monasterii introeant, nisi causa exequiarum, et in processionibus: et hoc, si fieri consuevit, vel necessitate alia evidenti.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18</head>
+                    <p>(18) Ut fiat lectio ad mensam, et quotidie capitulum teneatur.</p>
+                    <p>Illud etiam expressius duximus exprimendum et statuendum, quod omnes regulares infra monasterium habeant et audiant lectiones ad mensam.</p>
+                    <p>Item praecipimus, quod in claustris regularium, singulis diebus capituium teneatur, ubi supra excessibus fiat proclamatio et correctio regularis: et in conventualibus ecclesiis, et praecipuis festivitatibus, fiat sermo.</p>
+                </div>
+                <div>
+                    <head>Capitulum 19</head>
+                    <p>(19) Ne exeant vel vagentur sine liceantia.</p>
+                    <p>Omnes etiam qui non habent officium speciale, vel necessitatem aliam, ab hora capituli usque ad Tertiam, sedeant in claustro aspicientes quae in regula legenda sunt vel cantanda: nec exeant vel vagentur, sine sui majoris licentia speciali.</p>
+                </div>
+                <div>
+                    <head>Capitulum 20</head>
+                    <p>(20) Ut mandatum fiat pauperibus.</p>
+                    <p>Item consulimus ut mandatum pauperibus, saltem in hebdomada, semel fiat, sicut in monasteriis ordinatis fieri quotidie consuetum est.</p>
+                </div>
+                <div>
+                    <head>Capitulum 21</head>
+                    <p>(21) Ut in monasteriis sint magistri, qui grammaticam doceant minores.</p>
+                    <p>Quia vero caecitas ignorantiae in istis partibus nimium praevaluit, statuimus ut singulis monasteriis conventualibus abbates, priores, et praepositi conventuales, infra septa monasterii teneant magistrum ex suis, vel alium clericum saecularem, qui minores, et alios indoctos in grammatica valeat edocere.</p>
+                </div>
+                <div>
+                    <head>Capitulum 22</head>
+                    <p>(22) De non conferendis beneficiis in laicos.</p>
+                    <p>Quidam etiam, ut intelleximus, se et sua conferunt monasteriis, sub spe ut ipsis postmodum ecclesiastica beneficia conferantur: quod omnino damnabile est propter maculam simoniae: et tales beneficio privandos decernimus, quod pro pecunia sunt adepti.</p>
+                    <p>Taliter vero beneficia conferentes, illa vice donandi potestate priventur, et ad dioecesanum episcopum donatio eorum devolvatur.</p>
+                    <p>Nec ipsi tales recipiant ad curam animarum.</p>
+                    <p>Neque abbas, nec prior, nec monachus alterius monasterii teneat prioratum: nisi per electionem canonicam ad conventualem prioratum, in quo professus non fuit, fuerit advocatus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 23</head>
+                    <p>(23) Ut vina non vendantur, et personae turpes non introducantur infra ambitum monasterii.</p>
+                    <p>De his quae vidimus et audivimus, testimonium perhibemus, scilicet quod quidam monachi, et maxime exempti intra fines legationis nostrae, ecclesiae cujusdam libertatis infra ambitum monasterii faciunt, certis temporibus anni vendi vina sua, et pro medio quaestu et turpi introducunt, vel introduci permittunt, personas turpes et inhonestas, vel histriones, jaculatores, talorum lusores, et etiam publicas meretrices.</p>
+                    <p>Quod de cetero nusquam fiat, ab aliquibus exemptis personis, vel aliis arctius inhibemus.</p>
+                    <p>Quod si hujusmodi personas inhonestas introduxerint, vel lusores talorum, aut potatores nomen Dei blasphemantes introduci permiserint, illi qui monasterii exteriora ministrant officia, ab ingressu ecclesiae noverint se suspensos, maxime cum libertate sua libere uti possint, absque abusu et introductione talium personarum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 24</head>
+                    <p>(24) Ut laici non admittantur ad praebendas.</p>
+                    <p>Districtius quoque mandamus, quod in nulla ecclesia laici recipiantur, in donatos ad praebendam panis et vini.</p>
+                    <p>De quorum turpi conversatione scandalum generetur.</p>
+                    <p>Quod si qui tales recepti inventi fuerint fornicatores, adulteri, et alias criminosi, post monitionem competentem, nisi excessus suos correxerint, perpetuo beneficio careant memorato.</p>
+                </div>
+                <div>
+                    <head>Capitulum 25</head>
+                    <p>(25) Ut nullus monachus sit solus in prioratu.</p>
+                    <p>Quia parum est promulgari statuta, nisi ad observationem eorum arceantur improvidi transgressores, cum sit cautum ut nullus monachus in prioratu solus existat, sed tres vel quatuor insimul commorentur, fraternitati tuae per apostolica scripta mandamus, quatenus in terris tuae legationi commissis facias firmiter observari contradictores, etc.</p>
+                    <p>Hujus igitur auctoritate mandati praecipimus, ut nullus monachus in aliquo prioratu solus existat: sed tres vel quatuor ibidem commorentur.</p>
+                    <p>Nolumus autem quod pravi monachi sint de illis tribus vel quatuor monachis, qui debent in prioratu commorari, sed in claustro mittantur, et disciplinis regularibus instruantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 26</head>
+                    <p>(26) Ut renovetur juramentum de pace servanda.</p>
+                    <p>Item praecipimus et mandamus, ut a decimo quarto anno, et supra, ad pacem servandam et custodiendam compellantur de novo jurare: archiepiscopis et episcopis, et aliis praelatis, injungentes expresse, ut ubi expediens fuerit, violatores et fractores pacis, et raptores et conspiratores, etiam singulis diebus Dominicis et festivis, excommunicari faciant publice in ecclesia.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] Open round brackets here.</p>
+                    <p>[2] Close round brackets here.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

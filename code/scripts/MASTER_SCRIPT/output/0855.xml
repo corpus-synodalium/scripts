@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nicosia</title>
+                <recordID>0855</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate precision="circa">1336</origDate>
+                <dateNotes/>
+                <origPlace>Nicosia</origPlace>
+                <diocese>Nicosia</diocese>
+                <province>Nicosia</province>
+                <country>Cyprus</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 855</p>
+                <p>Year: 1336</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: Yes</p>
+                <p>DatingNotes: part of Synodicum Nicosiense, compiled ca. 1340 with some later additions</p>
+                <p>Place: Nicosia</p>
+                <p>Diocese: Nicosia</p>
+                <p>Province: Nicosia</p>
+                <p>CountryModern: Cyprus</p>
+                <p>Latitude: 35.166667</p>
+                <p>Longitude: 33.366667</p>
+                <p>PlaceNotes: Raised to Archbishopric in 1197</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Élie de Nabinal</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1332</p>
+                <p>RegnalEnd: 1342</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Schabel, Synodicum Nicosiense, 246-47</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: Data Capture</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>All Text</head>
+                    <p>Heliae archiepiscopi Nicosiensis Constitutio.</p>
+                    <p>Qua praedecessorum constitutiones innovat.</p>
+                    <p>Cum laudandae diffinitionis intentio pastoris sit semper studiis adjuvanda, cura est solicitudinis adhibenda ut ea quae pro cultu Divino quieta ecclesiasticae conversationis sunt disposita et ordinata, nec dissimulatio negligere nec quaedam valeat praesumptio perturbare.</p>
+                    <p>Quia nos, frater Helias, Dei et apostolicae sedis gratia Nicosiensis archiepiscopus, multas scimus constitutiones et leges tam a legatis sedis apostolicae quam a nostris praedecessoribus emanasse, ad decus cultus Divini et honestatem ordinis clericalis, quas nostram ecclesiam visitantes invenimus ut plurimum datas in neglectum et sic potius membranas occupasse quam in aliquo fructum salutiferum attulisse, idcirco omnes constitutiones legatorum sedis apostolicae</p>
+                    <p>editas ad cultum Divini nominis et honestatem ordinis clericalis tanquam validas firmas praesentialiter denunciamus, ac constitutiones praedecessorum nostrorum, in quantum non sint primae posterioribus contrariae vel adversae, approbamus, et ratificamus, ac etiam innovamus, mandantes ipsas pro diffinitione nostrae visitationis debere inviolabiliter observari.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1]</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

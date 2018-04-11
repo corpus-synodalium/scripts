@@ -1,0 +1,253 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Salzburg</title>
+                <recordID>0010</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1288-11-11</origDate>
+                <dateNotes/>
+                <origPlace>Salzburg</origPlace>
+                <diocese>Salzburg</diocese>
+                <province>Salzburg</province>
+                <country>Austria</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Provincial</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 10</p>
+                <p>Year: 1288</p>
+                <p>Month: 11</p>
+                <p>Day: 11</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Salzburg</p>
+                <p>Diocese: Salzburg</p>
+                <p>Province: Salzburg</p>
+                <p>CountryModern: Austria</p>
+                <p>Latitude: 47.8025</p>
+                <p>Longitude: 13.045833</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Provincial</p>
+                <p>IssuingAuthority: Rudolf of Hoheneck</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1284</p>
+                <p>RegnalEnd: 1290</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: Vorau, Stiftsbibliothek, Cod 329, fols. 137v-142r; and Zwettl, Stiftsbibliothek, Cod 278, fols. 53v-62v; Johanek's edition based on the former, which dates from late 13th-c</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Johanek, Synodalia III, Anhang II, 107-130; </p>
+                <p>EditionOther: deficient text in Hartzheim III, 737-39</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['Library Scan', 'Other']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Hee sunt constitutiones provincialis concilii a domino Rudolfo venerabili archiepiscopo Salpurgensi edite in ecclesia Salzpurgensi, anno domini Millesimo CCoLXXXVIIIo.</p>
+                    <p>Prooemium [1].</p>
+                    <p>Cum et plantare sacram vineam domini sabaoth et plantatam fovere, quatenus cura illius vigiliis nostris est credita et decreta, modis et remediis omnibus debeamus, numquam hoc melius exequimur, quam si nutrire ea, que recta sunt corrigere, que fructum virtutis inpediunt et profectum commissa nobis auctoritate curemus, ne omnes qui pretergrediuntur viam tam passim tamquam audaciter [2] eam vindemient, quasi in specula non sit custos.</p>
+                    <p>Igitur ad extirpanda vitia, que per nostram provinciam in clero et in popula superseminante inimico homine zizaniam tamquam concessa licentia irrepserunt, et ad manutenendam emunitatem ecclesiastice libertatis, que iam crescente malitia temporis, tam ausu sacrilegio intrepide undique violatur, ut iam pene omnes ecclesie prius libere cogantur statum deplangere ancillarem, nos Rodolfus, dei gratia sancte Salzpurgensis ecclesie archiepiscopus, apostolico sedis legatus, Emycho Frisingensis, Hainricus Ratisponensis, Wernhardus Pataviensis, Hertnidus Gurcensis, Chunradus Chyemensis, Chunradus Lauentinensis et Leupoldus Seccoviensis ecclesiarum episcopi in hoc sacro provinciali concilio congregati, de concilio venerabilem fratrum prelatorum Salzpurgensis provincie nobiscum pariter collectorum, constitutiones infra scriptas ad perpetuam rei memoriam sollempniter edidimus et public promulgatas statuimus per eandem provinciam universaliter et inviolabiliter observari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1i</head>
+                    <p>(1i) Sed ubi maius versatur periculum ibi procul dubio est plenius consulendum.</p>
+                    <p>Unde si reformandis minoribus nostra merito vacat intentio, expedit ut, que maiora et periculosiora sunt, nequaquam absque remedio reformationis necessarie relinquamus.</p>
+                    <p>Idcirco venerabilium patrum domini Guidonis, olim per Salzpurgensis provinciam apostolice sedis legati, et bone memorie domini Friderici predecessoris nostri vestigiis inherentes, hoc sacro approbante concilio edicto perpetuo statuimus, ut si nos archiepiscopum vel episcopum nostre provincie suffraganeum captivari contingat, aut alicuius ecclesie nostre cathedralis bone, iure, iurisdictionis, possesiones violenter et iniuriose, tam publice, tam hostiliter, tamquem atrociter invadi contingat aut occupari, ut de subversione status ipsius ecclesie aut magne partis fortunarum ipsius probabiliter timeatur, quantacumque dignitate, nobilitate ac preminentia status captivator, occupator vel invasor, cum reatus omnem dignitatem excludat, prefulgeat, terre, tentoris et domicilia captoris preter penam excommunicationis, quam ipso facto incurrit, ecclesiastico subiaceat interdicto et per totam provinciam cessetur generaliter a divinis, donec leso et ecclesie de iniuria et dampno dato fuerit emendatio plena facta.</p>
+                    <p>Occupator vero et invasor predicti, si per lesam ecclesiam moniti a tam violenta offensa et iniuria, deum habentes pre oculis, mox non cessaverint, et de dampno iam dato non curaverint satisfacere, infra mensem ipso facto sint iidem sacrilegi anathematis vinculo innodati et terre ac domicilia eorum similiter ecclesiastico subiaceant interdicto et cessetur nichilominus per totam provinciam a divinis et clerus provincie, sola denuntiatione archiepiscopi vel episcopi ordinarii ecclesie lese, servet inviolabiliter interdictum, qui si celebrare presumpserint, durante sententia huiusmodi interdicti preter penam canonis beneficiis, si qua habent, sine spe restitutionis sint ipso facto privati, non habentes vero beneficia ad nulla unquam beneficia in eadem provincia admittatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1ii</head>
+                    <p>(1ii) Et insuper, si iidem infra duos menses ecclesiam tam sacrilego ausu lesam indempnem reddere non curarint, ex tunc ab omni feodo ipso facto cadant, quod habere ab ecclesia offensa tam enormiter dinoscuntur.</p>
+                    <p>Quin imo, cum error cui non resistitur approbetur, statuimus, ut clerici, capellani et notarii maleficii participes ab obsequio sepedictorum offensorum infra mensem a tempore invasionis conputandum se subtrahant et excludant, alioquin eo ipso sententiam excommunicationis incurrant, quam si offensore durante in sua malitia sustinuerint per alium mensem animo indurato, ex tunc omnibus ecclesiasticis beneficiis sint privati, quorum amministrationi, si in contemptum clavium se ingesserint, sic privati ipso facto reddantur inhabiles ad omnia beneficia ecclesiastica de cetero obtinenda.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1iii</head>
+                    <p>(1iii) Si autem prepositum aut canonicum cathedralis ecclesie vel abbatem, prepositum regularem seu secularem aut alium prelatum contigerit captivari, terre, tentoria et domicilia capientis preter penam ecxcommunicationis, quam incurrit, sint ipso facto supposita ecclesiastico interdicto et per totam illam dyocesim cessetur generaliter a divinis; et clerus eiusdem dyocesis ad solam denuntiatione archiepiscopi vel episcopi aut capituli ecclesie lese servabit inviolabiliter interdictum, alioquin preter irregularitatis penam, quam incurrit, penas sustineat, que de clero provincie sunt premisse.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1iv</head>
+                    <p>(1iv) Cum autem spiritalis gladii ad hoc acceperimus potestatem, ut ad reprimendam malitiam perversorum, ne claves ecclesie contemptibiles fiant, in causis oppressarum ecclesiarum nobis invicem succuramus, sententias excommunicationis, suspensionis, interdicti, quas unus ex nobis ex causis predictis vel aliis protulerit, alii, dum ipsis per ordinarium, qui eas tulit, denuntiatum fuerit, in suis ecclesiis inviolabiliter observent et publicatas sollempniter faciant a suis subditis districtius observari.</p>
+                    <p>Alioquin episcopus ad ingressu ecclesie, maiores vero capituli a divinis officiis sint suspensi et ecclesia tamdiu sit interdicta, donec huiusmodi exequantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Sacri approbatione concilii statuimus, ut si ecclesiam vel ecclesiasticam personam rebus spoliari contingat, nisi predo et is, in cuius receptaculum preda deducta fuerit vel portata, moniti infra XV dies ablata restituant, ipsi sententiam excommunicationis incurrant et parrochia, ad quam vel predo se receperit et quam diu ibi fuerit aut preda deducta fuerit, ecclesiastico subiaceat interdicto.</p>
+                    <p>Quas sententias vicini episcopi, dum super hoc per lese ecclesie ordinarium aut eius archidyaconum requisiti fuerint, per suas dyoceses publicatas a suis subditis faciant inviolabiliter observari; qui vero in hoc reddiderint et remissos, per metropolitanum, si necesse fuerit, per censuram inducantur.</p>
+                    <p>Nullus etiam predam talem scienter emere vel tenere presumat, alioquin, nisi monitus ipsem similiter infra XV dies restituat, excommunicationis sententia feriatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) Statutum felicis recordationis domini Friderici predecessoris nostri, quod loca, ad que bona oblata decedentium clericorum et ecclesiarum vacantiam deducta fuerint vel portata, usque ad satisfactionem debitam subiciuntur ecclesiastico interdicto in se, quod defuit, ampliantes statuimus, ut in parrochia, ubi advocatus, iudex, prece [3] vel patronus secularis aut ecclesiasticus, quod experientia in hiis docuit, quam plurimum deliquisse aut etiam quicumque alter predo vel invasor sacrilegus rerum huiusmodi dominicilium habuerit aut ubi alias se receperit, postquam locorum rectoribus et plebanis per ordinarium aut archydiaconum denuntiatum fuerit, usque ad restitutionem plenariam successori et ecclesie faciendam cessetur a divinis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4i</head>
+                    <p>(4i) Induxit olim urgens necessitas et ecclesiarum evidens utilitas, ut presidentes eisdem contra persecutorum audatiam devotorum potentiam invocarent, ecclesias ipsas et bona ipsarum illorum protectioni et custodie committando, sed quia, quod ad illorum provisionem hactenus hominum sincera devotione adinvenit, docet eventus in eorundem perniciem malitia excrescente conversum.</p>
+                    <p>Ideo statuta generalis concilii Lugdunensis et legatorum sedis apostolice contra advocatos edita publicari precipimus et ab omnibus inviolabiliter observari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4ii</head>
+                    <p>(4ii) Patronos etiam sive alios laicos quantacumque dignitate fulgentes, qui temeritate propria res ecclesiasticas occupare dignitates vel beneficia presumpserint aut occupatas privatis usibus retinere, que debentur militantibus in divinis, sub interminatione divini iudicii prohibemus et delinquentes in huiusmodi, nisi infra duos menses beneficis ipsa dimiserint, ipso facto excommunicationis vinculo esse volumus innodatos.</p>
+                    <p>Clerici vero in taliter occupatis ecclesiis asbque auctoritate ordinaria in divinis seu temporalibus ministrantes, cum per eos anime dampnabiliter sint decepte, nisi similiter infra bimestre tempus resipuerint, eandem penam excommunicationis incurrere decrevimus ipso facto preter penas, quas canones et concilia sic delinquentibus ingerunt et infligunt.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5i</head>
+                    <p>(5i) Rediviva constitutione precipiendo mandamus, quod abbates ordinis sancti Benedicti infra anni spatium provinciale capitulum celebrare iuxta formam a canone eis datam nullatenus pretermittant, in quo salvo iure ordinariorum reformationis ordinis et correctionis excessuum, tam provide, tamquam utiliter supervigilent et intendant, ut tam sancta plantatio ad frugem prime et sancte institutionis, a qua per inpunitatem et venis facilitatem ex capitulorum omissione declinavit nimis deformiter, revertatur et ex fructu correctionis et odore bone vite possint merito dici filii benedicti, et ut sancta meditatio, qua circa statum illius ordinis afficimur procedat celerius in effectu.</p>
+                    <p>Statuimus, ut iidem abbates, rectores et visitatores in presenti concilio eligant circumspectos, qui capitulis presidentes secundum constitutiones apostolices et sancti Benedicti regulam et conciliorum provincialium statuta sine delectu et acceptatione personarum corrigant corrigenda, tam in capite quam in membris, specialiter proprietarios, incontinenes, nocturnos et diurnos inobedientes, egressores contra incedentiam habitus et alias graviter delinquentes competens et salutare remedium adhibendo; qui quidem rectores et visitatores si proximum capitulum infra annum, et deinde de triennio in triennium, sine causa rationabili non servarent et ex dissimulatione aliqua penas in culpis maioribus non infligerent, regulares ex tunc, usque quod in hac parte constituimus exequantur, a stallo in choro exclusi, omni septimana feriam quartam et sextam in aqua et pane ieiunent.</p>
+                    <p>Hec eadem canonicos regulares secundum ordinem suum monemus iuxta generale concilium salvo iure ordinariorum observare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5ii</head>
+                    <p>(5ii) Ceterum illum abusum detestabilem, quo abbates in domibus suis tam frequenter, tam indistincte et tam voluptuose sub quesito colore et occasione hospitum carnibus utuntur, cum sit contra decentiam regule et monasteriorum exhauriat facultates, refrenare volentes, statuimus, ut abbates in domibus suis tantum cibis permissis a iure et a regula utantur, salva hospitalitate debita hospitibus in domo hospitum facienda.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6i</head>
+                    <p>(6i) Ad hec coniurationum et conspirationum crimina quam sint gravia, non solum iura, que auctores horum a gradu suo deiciunt, testantur, sed etiam efficax magistra rerum experientia manifestat.</p>
+                    <p>Ideo sacri approbatione concilii statuimus, ut preter penam canonis omnes monachi canonici regulares vel seculares, qui in personam vel in subversionem status superiorum suorum hoc morbo convicti aut confessi fuerint laborare, carcerali custodie mancipentur et quia minor erit has et alias fraudes commitendi facilitas, si patratoribus facultas cauto remedio adunatur iccirco prioris concilii statutis adicimus, ut sigillum capituli sub abbatis vel prepositi et duorum seniorum electorum a capitulo custodia teneatur, nec abbas vel prepositus sine capitulo, nec capitulum sine abbate vel preposit in fraudem vel in dampnum audeant unquam uti, alioquin faciens vel facientes sint excommunicati et contractus sic presumptus ipso facto irritus habeatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6ii</head>
+                    <p>(6ii) Preterea sub pena excommunicationis precipimus abbatissas ordinis sancti Benedicti duas socias seu capellanas vel unam secundum ecclesie facultatem testes conversationis sue de consilio sui conventus continue secum habere, que bone opinionis et morum honestorum existant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>(7) De terris et possessionibus, quas nonnumquam religiosi exempti et non exempti in preiudicium ecclesiarum episcopalium et aliarum, quibus de illis antea decima solvebantur, comparant et tenent sine annuo solutionis onere comparatas, Alexander papa IIII. providit competentibus remediis in hec verba: Ceterum religiosi, tam exempti, quam non exempti, de terris et possesionibus acquisitis hactenus et a modo acquirendis decimas integre persolvant illis ecclesiis quibus eedem possesiones et terre prius fuerant decimales, nisi super hoc speciali iure et privilegio sint muniti.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>(8) Quia secundum apostolum nemo militans deo secularibus negotiis se implicat, statuimus, ut episcopi, abbates, prepositi, sacerdotes et alii clerici in sacris ordinibus constituti functiones publicas, amministrationes seu procurationes, iurisdictiones, vicedominatum secularium principum seu magnatum nomine capitanei, defensoris, iusticiarii vel alio quemcumque nomine seu colore quesito, quibus ecclesiastico neglecto officio fluctibus seculi, ut potestatibus placeant, se inmergunt per se, vel simulate per alios, contra sanctiones canonicas ab isto die in antea non assumant, cum in talibus officiis a viris dicatis divino cultui ea, que deo promissa sunt, nequaquam valeant adimpleri.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>(9) Ad hec dies dominicos et alios dies maiestati altissime dedicatos, qui ex institutione apostolica aut dyocesiana in nostra provincia festivitate celebri ab omni opere servili hactenus sunt servati, rectores ecclesiarum parrochianos suos et subditos per censuram ecclesiasticam coherceant venerabilius observari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>(10) Sacramentum illud prestantissimum, in quo Christus summus sacerdos et sacrificium cottidie pro nobis mistice immolatur, quo cottidie in ecclesis pascimur et potamur, panem vivum, qui vite eterne substantiam amministrat, corpus domini nostri Iesu Christi, sancte recordationis Urbanus papa IIII volens integro celebritatis officio venerari, feriam quintam post octavas pentecostes in memoriam institutionis eiusdem pie statuit a cunctis fidelibus, concesso largo indulgentiarum stipendio, celebrari, ut eodem die et per octavas a fidelibus, qui hoc sacramento utuntur, per totum anni circulum ad salutem in salutaris institutionis eiusdem memoriam honorificientius agatur et celebritas de hoc celebrior habeatur.</p>
+                    <p>Unde, quod ad salutem omnium per eundem Romanum pontificem est salubriter institutum, de consilio huius sacri concilii secundum ordinatum ab eo officium per totam provinciam generaliter precipimus observari, eandem feriam quintam cunctis festivandum et ab omni servili opere celebrem indicentes.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>(11) Cum cause matrimoniales maiores iudices exigant, qui potestatem iudicandi habeant et statuta canonum non ignorent, precipimus, ut plebani aut vicarii sine commissione episcopi causas matrimoniales cognoscere seu diffinire de cetero non presumant, ex quo processus a non suo iudice habiti sunt irriti ipso iure.</p>
+                    <p>Et quia frequens et assidua querela causarum clandestini matrimonii percutit aures nostras, sub pena excommunicationis districtius prohibemus, ne aliquis desponsationi clandestine, unde sepe periuria et alia animarum nascuntur pericula, audeat interesse, alioquin preter penas canonis graviter puniatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>(12) Preterea statuimus, ne illegitimi sine dispensatione et peregrini clerici et ignoti sine litteris dimissoriis seu commendaticiis suorum ordinariorum ad ordines seu beneficia ecclesiastica aliquatenus admittantur, illegitimis sine dispensatione iam institutis penitus removendis.</p>
+                    <p>Examinatores vero, qui tales defectus patientes scienter approbaverint, excommunicationis sententia feriantur, quin imo sub pena excommunicationis praecipimus, ne examinatores quemquam ordinandum ad sacros ordines permittant eligi vel inscribi, nisi recenter et noviter sit confessus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>(13) Usurarios actus divina et humana lege satis novimus improbatos et contra exercentes usuras Lugdunense concilium penas statuit exquisitas, que, ut impresse notitie laycorum amplius timeantur, in singulis ecclesiis maioribus et minoribus in circumcisione et in cena domini et in assumptione beate virginis manifesti usurarii excommunicati publice nuntientur et alie pene in eodem concilio contra eos edite populo exponantur.</p>
+                    <p>Statuta etiam alia conciliorum generalium et provincialium contra capientes et invadentes personas et res ecclesiasticas et contra advocatos et alios offensores edita, ne cuiquam allegandi ignorantiam locus detur, in ascensione domini et aliis anni temporibus oportunis in ambone laycis exponantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>(14) Ceterum rectores ecclesiarum parrochialium, quibus de licentia ordinariorum vel de iuris beneficio absentia est permissa vicarios ydoneos eligant ordinario vel archidiacono pro tempore seu absencie presentandos, quibus pro se et aliis sufficientibus ministris ecclesie secundum facultates ipsius et loci consuetudinem prebendam deputent congruentem, alioquin per ordinarium vel archydiaconum assumptis duobus plebanis melioribus illius vicinie prebanda ydones ordinetur, nec pretii seu arre aut alicuius turpis lucri gratia vicarios sic institutos valeant inmutare.</p>
+                    <p>Et eodem modo vicariis perpetuis pro se et sociis sufficientibus, quibus non est prebenda sufficiens constituta, per ordinarium vel archydiaconum volumus providere.</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>(15) Cum vulnerato capite non sit, qui curandis membris adhibeat medicinam, statuimus, ut omnes et singuli abbates, prepositi, decani, plebani, vicarii aliique sacerdotes et ecclesiarum rectores suis superioribus omnis peccata sua bis vel saltem semel in anno confiteantur aut de illorum licentia alteri confessori, nam integritas presidentium salus est et prosperitas subditorum.</p>
+                    <p>Et quia de rectorum manibus in districto iudicio ultionis sanguis requiritur, quorum vultum debent agnoscere subditorum, firmiter et districte precipimus, quod omnes utriusque sexus fideles, postquam ad annos discretionis pervenerint, omnia sua peccata proprio et parrochiano sacerdoti saltem semel in anno debeant confiteri iuxta statuta concilii generalis, et ne usque ad cenam domini confessionem differentium plebanum vel rectorem, quam ob artitudinem temporis salubriter expedire non sufficiat, obruat multitudo statuimus, ut plebani et rectores ecclesiarum omni anno in dominice Invocavit et sequentibus dominicis quadragesime, presenti constitutione in ambone sollempniter publicata, ad confessionem sine dilatione venire populum adhortentur, transgressores seu contemptores per penam in eodem concilio editam coherendo.</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>(16) Statutum prioris concilii de vagis scolaribus, pena priori revocata, taliter duximus moderandum, quod qui comam nutrientibus aut arma deferentibus vel blasphemis affectu vel occasione inanis glorie in denariis quicquam contulerint seu in vestitu, ab ingressu ecclesie tamdiu sint suspensi, donec duplum pauperibus largiantur.</p>
+                    <p>Nolumus tamen, ut nutrimentum vite postulantibus hac occasione hospitalitatis humanitatis denegatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 17</head>
+                    <p>(17) Item reminiscentes Moysi servi domini qui, hostes populi sui non ferro pugnando, sed prece orando deiecit, statuimus, ut per presentis anni decursum, in instanti adventu domini inchoandum, in singulis kathedralibus conventualibus et parrochialibus ecclesiis psalmum Domine quid multiplicati [4] cum oratione dominica et versu Fiat pax in virtute tua, esto nobis domine turris fortitudinis [5] et collectam Deus, a quo sancta desideria [6] clerus, provolutus in terra genibus et erectis in celum cordibus, in missa post tertium agnus dei semel dicat, quatenus dominus Iesus Christus, rex pacificus, sedatis tribulationibus et ecclesiarum persecutoribus et invasoribus humiliatis, pacem in populo suo multiplicatis intercessoribus largiatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18i</head>
+                    <p>(18i) Item statuimus, quod abbates et prepositi bis vel ter in anno, acceptis clavibus ab omnibus fratribus sui conventus, de consilio duorum vel trium seniorum de capitulo, qui sibi pro testibus aderunt, omnes seras conclavium privatorum aperiant et quicquid proprietatis prohibite invenerint redigant in commune.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18ii</head>
+                    <p>(18ii) Item prohibemus, ne clerici, plebani vel sacerdotes alii pileis sive capuciis, nisi forte in pluvia vel itinere, audeant umquam uti, ut in hoc a laycis discernantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18iii</head>
+                    <p>(18iii) Item inhibemus, ut in ecclesis execrata vel non consecrata sine licentia ordinarii nullus sacerdos audeat celebrare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18iv</head>
+                    <p>(18iv) Item statuimus, ut nullus laycus in ecclesia sepeliatur, nisi princeps vel fundator fuerit talis loci.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18v</head>
+                    <p>(18v) Ad hac statuimus, ut per totam provinciam saltem quoad officium sanctorum, qui requiescunt in provincia corporaliter, in veneratione debita habeantur et kalendariis per omnes parrochias inscribantur.</p>
+                    <p>Sunt autem hii: Sanctus Corbinianus, Sanctus Erhardus, Sanctus Valentinus, Sanctus Ingenuinus, qui Frisinge, Ratispone, Patavie et Brixine requiescunt simul cum patronis ecclesie Salzpurgensis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18vi</head>
+                    <p>(18vi) Item statuimus, quod nullus novam ecclesiam fundet vel faciat, nisi per episcopum primario lapide posito vel alias de sua licentia speciali.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] In brackets</p>
+                    <p>[2] ed. audacter</p>
+                    <p>[3] prece - unclear - typo possibly?</p>
+                    <p>[4] Domine quid multiplicati in quotation marks</p>
+                    <p>[5] From Fiat pax in quotation marks</p>
+                    <p>[6] From Deus, a quo in quotation marks</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

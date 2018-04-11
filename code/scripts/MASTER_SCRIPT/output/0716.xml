@@ -1,0 +1,417 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Padua</title>
+                <recordID>0716</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1360-03-08</origDate>
+                <dateNotes/>
+                <origPlace>Padua</origPlace>
+                <diocese>Padua</diocese>
+                <province>Aquileia</province>
+                <country>Italy</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 716</p>
+                <p>Year: 1360</p>
+                <p>Month: 3</p>
+                <p>Day: 8</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Padua</p>
+                <p>Diocese: Padua</p>
+                <p>Province: Aquileia</p>
+                <p>CountryModern: Italy</p>
+                <p>Latitude: 45.416667</p>
+                <p>Longitude: 11.866667</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Pileo da Prata</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1359</p>
+                <p>RegnalEnd: 1370</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Ceccon, SInodi diocesane, 200-224</p>
+                <p>EditionOther: Sinodo inedito di Pilleo Cardinal Prata...pp124-178</p>
+                <p>SourceNotes: https://books.google.com/books?id=riNhAAAAcAAJ</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'WebDownload']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: copies heavily from 1338 Aquileia synod of Bertrandus  (which was also copied at length in 1339 Padua diocesan synod); **like the 1339 Padua synod,  UsVor and Quamquam not cited, as they are in the Aquileia 1338 constitutions</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) [1] et cum audiverint confessiones monialium non infirmarum, audiant eas ad aliquam fenestram pariete in medio existente, et cum audiunt confessiones infirmarum audiant eas in tali loco quod due saltem moniales ad hoc per abbatissam deputate videant et non audire valeant utrasque personas.</p>
+                    <p>Predicti etiam visitatores ubi expedire viderint seu extiment, clausuram interiorem monasteriorum intrent et cum uno ad minus honesto socio in loco non suspeto moniales examinent ut suum officium debeant exercere, exceptis monasteriis que subsunt immediate dominis archipresbitero et capitulo paduano, sive aliis quibuscumque prelatis nostre civitatis et diocesis paduane.</p>
+                    <p>Inhibemus et sub pena excommunicationis quod mulieres aliquas seculares cuiuscumque condicionis existant, illis exceptis dumtaxat quorum honesto et familiari pro necessitate monasterii et monialium utuntur obsequio, infra clausuram predictorum monasteriorum non admitant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Mandamus etiam quod in solempnitatibus sanctorum, sub quorum nomine ecclesie predictorum monasteriorum sunt dedicate, et in aliis solempnitatibus in dictis monasteriis solitis celebrari et in ipsarum ecclesiarum consecrationibus religiosi, clerici et laici ac mulieres possint intrare ecclesias supradictas, et primo dumtaxat claustrum supradictorum monasteriorum et tunc abbatissa et moniales in loco decenti se trahant, ita quod aspectus ipsarum intrantibus non sit manifestum et ita ut ipsarum honestas illesa servetur.</p>
+                    <p>Mandamus etiam quod si abbatissa seu moniales supradicte pro aliqua honesta causa et specialiter utilitatem monasterii contingente aliquibus religiosis, ecclesiasticis seu laicis loqui voluerint, dummodo predicti eundi ad dicta monasteria a nobis licentiam obtinuerint seu a vicario nostro, posint eis loqui et honesta et utilia negocia tractare cum eis.</p>
+                    <p>Si abbatissa loqui voluerit adhibeat secum duas sed unam ad minus honestas et antiquas moniales, que audient ea que loquntur.</p>
+                    <p>Si vero monialis loqui voluerit, hoc faciat de licencia abbatisse, que si licenciam loquendi concesserit, teneatur et debeat ei dare duas sed unam ad minus honestas socias et antiquas seu ipsamet per se ipsam asistat ut ipsa vel alie similiter audire possint que loquntur.</p>
+                    <p>Huiusmodi autem locutio semper fiat per abbatissas et moniales ad fenestras feratas et aliquo pariete intermedio.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) Mandamus quod sacerdotes regulares et seculares in ecclesiis audientes confessiones mulierum non audiant eas in angulis ecclesiarum nec in locis ocultis, sed in tali parte ecclesie quod utriusque persone possint videri comuniter ab hiis qui fuerint in ecclesiis presentes.</p>
+                    <p>Confessiones mulierum non infirmarum alibi quam in ecclesiis non audiantur, nisi per aliquas mulieres honestas ad domum earum fuerint advocati pro audiendis earum confessionibus et audiendi ad predictas domos a nobis seu vicario nostro obtinuerint licenciam specialem qui vero ad audiendas confessiones mulierum infirmarum in earum domibus accedant et audiant eas in tali loco quod socius sacerdotis, si quem habet, et alique persone in domo mulieris existentes videant sacerdotis et mulieris confitentis personam, et ita remote existant quod confitentis verba audire non possint.</p>
+                    <p>Contrarium vero facientes librarum decem parvorum pene volumus subiacere.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) Mandamus quod sacerdotes, religiosi et alii cuiuscunque status vel conditionis existant cum confessiones audierint inducant quoquo modo possunt confitentes ut de suis possessionibus decimas et quartisium solvant illis quibus de iure vel consuetudine debent solvere antedicta secundum tenorem constitutionis edite super hiis in patriarcali et provinciali concilio, alioquin [2] precepti si negleti vel negligencie filii non teneant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) Cum parochie ecclesiarum propter hoc fuerint limitate ut terminis suis quilibet contentus existat, statuimus ut quilibet sacerdos nostre iurisdicioni subiectus religiosus seu secularis, exceptis religiosis mendicanibus in casibus a iure expressis et forma iuridica concessis, parochiam alterius parochi ad confessionem recipiant vel pro penitentiis dandis aut aliis sacris intret parochiam alterius ad sanum aliquem seu egrum, nisi de nostra licencia aut vicarii nostri hec fecerit vel per sacerdotem eiusdem parochie expresse fuerit invitatus, vel predicta de voluntate eius fecerit et conscensu, non obstante si vocatus fuerit vel vocatum se dixerit ab amiciis vel consanguineis infirmis vel quibuscumque aliis personis sine nostra vel predicti vicarii nostri licencia et consensu.</p>
+                    <p>Hec idem statuimus de predicationibus faciendis.</p>
+                    <p>Qui vero huius constitutionis transgressor extiterit, pro qualibet vice penam librarum quinque parvorum incurat et quiquid oblationis ad hoc perceperit proprio sacerdoti restituat et assignet infra triduum sub pena dupli.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>(6) Item monemus quod soliciti sint sacerdotes visitare infirmos sibi subditos quocumque et maxime cum fuerint requisiti, absque dilationis mora, ac eisdem infirmis penitenciam et alia ecclesiastica sacramenta, cum decens et opus fuerit, administrare.</p>
+                    <p>Si vero per ipsorum sacerdotum incuriam sive negligenciam aliquis infirmus sine penitencia seu aliis sacris ecclesiasticis mortuus fuerit, ipsum sacerdotem propter penam in iure statutam contra tales, ut eius temeritas et negligentia acerrime puniatur, penam librarum viginti quinque parvorum incurrere volumus ipso facto.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>(7) Item monemus omnes sacerdotes parochiales civitatis Padue et suburbiorum curam animarum habentes quod tempore adventus quadragesimali confessiones parochianorum suorum in decenti et honesto habitu audiant, videlicet in capa vel cota.</p>
+                    <p>Alioquin omnes contrarium facientes ad nostrum arbitrium puniemus, prout locus et persona presbiteri dictam indecendam aggravabit.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>(8) Cum infirmitas corporum nonnunquam ex langore proveniat animarum, dicente Domino languido quem sanaverat: Vade et amplius noli peccare [3] ne deterius tibi aliquid contingat prius igitur est anima purganda sordibus peccatorum quam a medicina subsidium procedat, ut anima purgata vitiis et sanata virtutibus sui perfetio corporis sit et vita, monemus omnes et singulos medicos illisque districte sub excomunicacionis pena mandamus ut cum ad curandum infirmos contingat curari deinceps, de quibus maxime mortis periculum timeatur, ad eos ultra quam duabus vicibus acedere non presumat nisi eis primo constiterit quod infirmi huiusmodi ad se vocaverint sacerdotes.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>(9) Ne sanctissima officii misse devotio, de qua fidei Christiane fundamentum constitit, ex cotidiana pluralitate apud christiculas inmitatur, in hac generali sinodo statuimus et inviolabiliter observari precipimus ne aliquis presbiter in civitate vel diocesi nostra bis in die missarum solempnia celebrare presumat, exceptis casibus a iure expressis.</p>
+                    <p>Qui vero contrafecerit, soldos XL parvorum persolvat, cuius pene medietas sit illius qui eum curaverit accusare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>(10) Item statuimus et districte precipimus in predicta civitate et diocesi constitutis ut in ecclesiis suis aliquem capellanum ponere ad curam animarum suarum nullo modo presumant absque nostra licencia speciali.</p>
+                    <p>Qui vero contrafecerit eo ipso penam decem librarum incurat, quas si infra mensem a die commissionis numerandas solvere neglexerit, nostro arbitrio puniemus; eum quoque, qui sic temere recipere et exercere presumpserit curam predictam, nisi infra octo dies receperit et veniam promeruerit, in decem librarum pene sententialiter condempnamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>(11) Item districte precipimus omnibus supradictis prelatis et rectoribus ecclesiarum quod non debeant recipere alterius episcopi sacerdotem in suis ecclesiis nisi prius cum litteris testimonialibus et dimisoriis sui episcopi se presentaverit coram nostra presencia, vel alio modo de ipsorum nobis condicione constet, et a nobis curam receperint animarum et licenciam celebrandi.</p>
+                    <p>Si vero ex predictis suprascriptis tam salubria precepta ac statuta adimplere contenserint, pene decem librarum parvorum volumus subiacere.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>(12) Statuimus quod nullus clericus seu religiosus dignitatem, personatum, officium seu beneficium ecclesiasticum cum cura vel sine cura occupare seu se in illis eorundem a quovis quesito colore presumant, et si quis contrafecerit ipso facto sententiam excomunicationis incurat, nisi occupata dimiserit et preceptos fructus restituerit, absolutionis beneficium nullatenus recepturus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>(13) Item statuendo interdicimus cuiulibet ecclesie rectori et clerico in civitate vel nostra paduana diocesi existenti ne possessiones ipsius ecclesie fratri suo carnali, filio, consanguineo vel alicui alie persone coniuncte pro minori affictu vel alio extraneo possit habere, possit locare vel etiam affictare seu alio quovis modo transfere sine nostra speciali licencia vel decreto; qui vero contrafecerit a beneficio sit suspensus et locacionem et affictacionem seu quomodolibet alium contractum ipso iure irritos iudicamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>(14) Item statuendo decernimus quod nullus presbiter seu clericus in civitate vel nostra diocesi paduana tabernam teneat seu ludum, ne in taberna bibat nisi in casibus a iure expressis dumtaxat exceptis.</p>
+                    <p>Si quis huius nostri statuti transgresor extiterit, qui tabernam tenuerit seu ludum, libras decem persolvat; qui vero biberit soldos viginti similiter et qui ludet ad incarcerandum.</p>
+                    <p>Qui vero bibentem viderit seu tabernam tenentem seu ludum et in octo dies nobis non denunciaverit, iusto impedimento cesante, similiter soldos XX parvorum persolvere teneatur; denunciatori vero vel acusatori medietatem penarum predictarum volumus aplicari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>(15) Item quia nonnulli in suarum periculum animarum decimas et quartisia illicite detinent et iniuste, cum ad iudicium evocantur cavilationibus et subterfugiis intentos adeo quod pendencie aut liti toti seu instancie cedere vel propter importunitatem ius suum reddimere conpeluntur, statuimus, ut parciatur parcium laboribus et expensis quod in causis decimarum et quartisiorum simplici petitione oblata, sumarie, de plano, sine strepitu et figura iudicii procedetur, etiam restringendo solempnitatem a iure indutam in premissis causis, si cognitori visum fuerit expedire.</p>
+                    <p>Ad hec dicimus statuendo quod si quis decimas et quartisia ipsas seu ipsarum alteram recipere debentibus, maxime personis et clericis ecclesiasticis per civitatem et diocesim paduanam constitutis, solvere integraliter neglexerint seu contradixerint, nisi infra quindecim dierum spatium immediate a colationis seu perceptionis fructuum facto tempore numerandos presentaverint et solverint, ut premittitur, ingressum ecclesiis interdicimus ipso facto, et si predicta solvere adhuc integraliter recusaverint animo indurato, per mensem a die ultimo dictarum contradictarum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>(16) Quoniam cum solutio decimarum seu quartisiorum plerumque in domesticorum presencia fit per alios testes non est probatio earumdem, statuimus quod in quarumcumque decimarum et quartisiorum solutione probanda testes domestici, dummodo aliquod impedimentum canonicum non obsistat, amitantur, exceptione domesticitatis ullatenus non obstante.</p>
+                </div>
+                <div>
+                    <head>Capitulum 17</head>
+                    <p>(17) Cum dificultas probacionis rigorem iuris mitiget et presunte et coniecturate probaciones pro veris, legitimis et sufficientibus habeantur, ideoque prout experientia magistra demonstrat, cum decima seu quartisium certi territorii petitur, propter diversitatem terrarum in quibus decima seu quartisia consistant et propter particularitates solucionis diversis temporibus de ipsis decimis et quartisis fieri consuetas ipsarum decime seu quartisii probacio iuris rigore inspecto per testes fieri, quodammodo non potest, quem in atestacionibus naturas loci temporibus seu rerum non esistat, quorum ipse atestaciones predicte de iuris rigore solent instringi, hac generali sinodo sancimus quod, cum decima seu quartisium alicuius certi territori petitur, specificentur species et individua ipsius decime seu quartisii que petuntur in libello seu posta; et tunc si ad ipsorum decime et quartisiorum probationes quoquomodo testes producantur, eorum testium depositio sit valida et legitima, lege pariter in decimis, item quoque in rerum seu bonorum singularium, dum tamen species seu individua decime seu quartisii specificate in libello seu posta, ut premittitur, per ipsos testes singulares sint probate. Alioquin non in omnibus expresse specificatis per petentem, sed solum improbatis per testes singulares, eorum testium depositio valida habeatur.</p>
+                    <p>Predicta tamen locum habere volumus dummodo dictis testibus aliud impedimentum canonicum non obsistat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18</head>
+                    <p>(18) Cum guerre sit conspirationem facere contra quemcumque, et multa mala ex spirationibus oriantur, volentes super hoc maliciis hominum obviare, satuimus quod nullus clericus vel regularis persona hoc facere atemptet.</p>
+                    <p>Si quis contrafecerit, canonice ultioni subiaceat et penam quam duxerimus pro qualitate criminis imponendam.</p>
+                </div>
+                <div>
+                    <head>Capitulum 19</head>
+                    <p>(19) Ad hec de usurariis quantum possumus libenter providere volentes, statuimus et mandamus districte sub excomunicacionis pena quam contrafacientem ex nunc prout ex tunc proferimus in his scriptis et ipso facto, contrarium vero incurrere volumus transgressores, quod nullus postquam fuerit securitas de restituendiis usuriis extortis et beneficio apelacionis renunciatum fuerit in eadem sub aliqua sententia seu interlocutorio vel mandato latam seu facto pro usuris restituendis apelare audeat vel presumat, nullique advocatorum seu procuratorum in causa talis apelationis patrocinari vel agere, procurare seu consilium impendere quoquomodo audeat vel presumat.</p>
+                    <p>Nos enim quoscumque advocatos et procuratores officio in nostra curia usque ad annum a die presentis constitutionis suspendimus et sine omni spe restitutionis suspensos volumus esse ipso facto.</p>
+                </div>
+                <div>
+                    <head>Capitulum 20</head>
+                    <p>(20) Utriusque testamenti pagina usurarum reprobata vorago, ita quorumdam animos ceca cupiditate fuscavit ut que eis iure prohibente interdita miscuntur quantis diversis fraudibus perpetrare conentur, nonnulli siquidem fenebrem pecuniam exercentes, aliam pecuniam vel suam mutuatam alieno nomine ad suam per alios faciunt mutuare, ut sic usurarii minime censeantur.</p>
+                    <p>Hos autem omnes et quemlibet ipsorum ad restitutionem in solidum et principaliter volumus obligari, et etiam in eletione sic actorum, quoniam ipsorum maluere in iudicium convenire.</p>
+                    <p>Itaque per conventionem unius non excludatur, quin possit reliquum convenire, si a primo, quod petierit non fuerit assecutus.</p>
+                    <p>Instrumenta quoque facta in filiis, nepotibus aut usoribus usurariorum manifestorum sive per ipsos, sub nomine depositi vel mutui vel sub alia quacumque forma verborum, presumptione violenta contractus usurarios esse censemus etiam in fraudem usurarum fore confectos; statuentes quod tunc inventa post mortem ipsorum usurariorum cum agentur ad huiusmodi usuris repetendis cognoscatur ac si in personis ipsorum usurariorum contract pent huiusmodi celebrata.</p>
+                    <p>Adicientes quod illud idem observare volentes in instrumentis factis in domesticis et in estraneis, eo casu quo nomine usurarii manifesti reciperentur seu stipularentur contractus antedicti, vel etiam ipsi estranei vel domestici, suo proprio nomine confici facerent, sed tamen cesio quovis modo fiat per eosdem alicui usurario manifesto, ut tunc talles contractus et cessiones censeantur contractus usurarii et pro contractibus usurariis reputentur.</p>
+                    <p>Idem volumus observari et contractus usurarii etiam presumantur in quibus usurarius manifestus fideiussor extitit, solucione facta vera vel ficta per dictum usurarium fideiussorem creditori seu cessione facta eidem usurario fideiussori pro eodem.</p>
+                    <p>Idem usurarii fideiussor agat contra debitorem, pro quo penes creditorem fideiussoris nomine se obligavit.</p>
+                    <p>Idemque si filii seu domestici usurariorum manifestorum fuerint, prout supra diximus fideiussores et agant eo modo et forma superius enaratis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 21</head>
+                    <p>(21) Quia plures usurarii ex eorum usuris, quas extorquent, ut plurimum, non conficiunt instrumenta sed codices rationum, propter quod contingit quod apud illos, qui usura solverint, nulla remaneant documenta quibus probare posint usuras extortas, et sic ipsi remanent in gravi dampno et heredes in periculo animarum, cum sepe dictarum rationum seu librorum copia denegatur, nos volentes tam indempnitati eorum, qui recipere debent, quam saluti decedendum et ipsorum heredum salubriter providere, presenti sinodali constitutione duximus statuendum ut, quamquam supradicti usurarii non expresse mandent satisfieri de usuris, nichilominus ante assignacionem librorum dictarum rationum omni fraude remota parochialis sacerdos talibus deneget ecclesiastica sacramenta; quod si secus fuerit sententiam excommunicacionis incurat, et si ante assignationem dictorum librorum decesserint, non admittantur ad ecclesiasticam sepulturam, nec eis prosit quod dicant se libros dictarum rationum non habere, eciam si protestetur velle iurare proprio sacramento, cum non sit verisimile.</p>
+                    <p>Et si eos non haberent, dolo desierint possidere, nisi forte habito respectu ad personas petendum, et quantitates petendas secundum arbitrium iudicantis securitatem prestet de restituendis usuris, credendo petentium simplici sacramento.</p>
+                </div>
+                <div>
+                    <head>Capitulum 22</head>
+                    <p>(22) Usurariorum manifestorum saluti volentes lacius providere, monemus omnes notarios et eis sub excomunicacionis pena mandamus, quam eorum quemlibet si secus fecerint incurrere volumus ipso facto, quatenus nullus ipsorum securitatem recipiat in civitate ab aliquo usurario manifesto sine nostra vel vicarii nostri licencia speciali, nisi forte tanta instaret necesitas, quod ad nos vel ad nostrum vicarium sine mortis periculo recursus convenienter non possent haberi, semper tamen recipiatur securitas secundum formam constitutionis nuper per nos promulgate, quam sub pena predicta in libro nostre curie per manum publicam ipsorum notariorum expensis heredum infra decem dies a tempore receptionis computandos volumus registrari, ut quilibet ipsius copiam possit habere absque dispendio expensarum.</p>
+                    <p>Et quia in forma securitatis cavetur expresse ut coram nobis aut nostro vicario fiant quietationes usurarum et restitutio earundem, ut omnis fraus et dolus esset, qui in talibus exerceri consueverunt, sicut rerum experientia manifesta demonstrat; idcircho instrumenta restitutionum usurarum huiusmodi alibi et aliter facta quam in securitate cavetur, decernimus non valere.</p>
+                    <p>Et quia humana natura novas semper deproperat edere formas et remedia colorata, quibus legem conatur dolis et fraudibus amplexari, ordinamus et statuimus quod cessiones, donationes seu vendiciones, usuras et actionum usurarum repetendarum quas habet illi, qui usuras solverunt seu contra eorum heredes, sive fiant illis, quibus solverunt, vel eorum heredibus, seu aliis personis et eciam extraneis, cum sine scrupoli fraude huiusmodi cessiones, donaciones seu vendiciones non procedant; volentes in quantum possumus huiusmodi fraudibus obviare, sicut huiusmodi coram nobis vel vicario nostro, cui vicario mandamus quod cedentem, donantem vel vendentem interroget si cessiones, donaciones seu vendiciones faciat amore seu aliqua alia accione, occasione reali vel personali vel alia conditione vel causa, alioquin dicte cessiones aliter facte quam permittitur, nullam obtineant roboris firmitatem sed cassas et irritas nunciamus.</p>
+                    <p>Notariis autem existentibus in diocesi nostra propter locorum distandam indulgemus ut possint huiusmodi securitates recipere absque nostra seu vicarii nostri licencia, presente tamen proprio confessore.</p>
+                    <p>Volumus ut nichilominus infra XV dierum spacium a tempore receptionis securitatis antedicte sub pena predicta securitates antedictas in libris curie nostre registrari debeant, prout superius est expressum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 23</head>
+                    <p>(23) Consuetudinem et stilum episcopalis curie paduane super taxationem usurarum, instrumentorum incisorum in iudicio productorum ad repetendas usuras ab usurario, eredibus, commissariis seu fideiussoribus eorundem, aut ab aliis quibuscumque personis ad constitucionem scriptam redducere cupientes, statuimus quod ratio et taxatio fiat de uno anno ubi de ampliori vel minori tempore per legitimas probationes non apparet de commissione nostra seu vicarii nostri per unum ex notariis dicte curie paduane, si illum seu illum qui contingerit scribere in causa illa usuraria, tunc in ratione denariorum sex, pro quolibet mense, pro singulis viginti soldis descriptis in dictis instrumentis incisis, ut sic in profictum et favorem usurariorum hoc casu non presumatur illud instrumentum esse de duplo; ymo quoad predictam taxationem factam stetur scripture instrumenti, prou sonat.</p>
+                    <p>Predicta observari volumus et trahi ad preterita non pendentia de presenti.</p>
+                </div>
+                <div>
+                    <head>Capitulum 24</head>
+                    <p>(24) Item prout docet experiencia, ut usurariorum actus improbus manifestat, quod mutui, depositi et alios contractus confici faciunt usurarii de duplo, quadam abusiva pessima consuetudine, que pocius dicitur corruptela, et aliud de duplo eodem faciunt obligari, huiusmodi statuti vigore decernimus contractus mutui depositi et alios contractus usurariorum et eorum personas seu liberorum vel domesticorum confectos de duplo esse confectos, [4] precedentis statuti dumtaxat excepto.</p>
+                    <p>Verum quod plerumque usurarii in suis [5] sunt soliti adhibere quandoque de contractu ad alium contratum, statuendo decernimus quod contratus socede, quo plerumque usurarii in fraudem contratus mutui nunc utuntur, in eandem usurariorum, personas liberorum vel domesticorum celebratos, censetur contractus verus mutui et usurarius, inspeta pocius veritate quam scriptura, quod in contractibus emptionum factarum in personam dictorum usurariorum, liberorum seu domesticorum volumus observari, nisi predicti contractus socede et emptionum per nos seu vicarium nostrum, tunc veros legitimos contractus socede seu emptionis prout scriptura instrumenti sonat et dicit, fuerint declarati.</p>
+                    <p>In qua quidem declaratione indagatio tallis fiat: ut, si in contratu socede pationes periculi et aliorum casuum fortuitorum seu quorumdam ex eis seu alia sint posita ultra naturam contractus et comunem modum in talibus veris contratibus socede consuetum, etsi in contractu emptionis res vendita plus quanto valeret et pactum appositum expressum seu tacitum de revendendo seu alie circumstancie vel coniecture adsint, quibus presumi possit contractus usurarius et fraudulosus, ut tunc delatio nullo modo fiat, cum predicti contractus sint tales ut in scriptura sonat, sed pro contractibus usurariis omnino reputentur: quod reputari eciam volumus contractus predictos usurarios fore, si per unum testem, eciam si fuerit proseneta probatum fuerit, aliud actum scilicet ut re vera contractus sit mutui, licet ad cautelam et securitatem creditorum scriptum sit, formas socedarum vel emptionum apparuerit celebratas.</p>
+                    <p>Si vero fama publica usurarius reputetur, aliis circumstandis fraudis non existentibus, tunc recepto iuramento venditoris et emptoris et eorum qui socedam contrascerunt, quod contractus re vera talis sit ut scriptura demonstrat et non in fraudem alterius celebratus, tunc legitimus et verus et talis ut scriptura instrumenti evidenter testatur, per nostrum decretum sic esse declaretur.</p>
+                    <p>Pro monitionibus autem et preceptis et que usurarii, liberi seu eorum domestici suscipere faciunt debitores, a iudicibus de solvendo presumatur in fraudem usurariorum factam fore et ut veri contractus mutui reputentur, nisi ipse ad cuius favorem talles admonitiones seu precepta sunt facta coram nobis comparuerit, et confirmationem predictorum meruerit obtinere.</p>
+                    <p>Predicta locum habere volumus in preteritis et non pendentibus de presenti.</p>
+                </div>
+                <div>
+                    <head>Capitulum 25</head>
+                    <p>(25) Quoniam in exitatione est ex opinionibus nostrorum an usure possint peti ab aliquo contra laicum in foro seculari in eodem examinari debeat et finiri, verum quia causa usuraria ecclesiasticis causis amiscetur et quasi spiritualis a canonibus asseritur, statuendo declaramus talem causam usurariam principaliter ad repetendas usuras, quam quisque clericus seu laicus cuiuscumque status et condicionis existat movere intendit contra clericum seu laicum, coram nobis vel vicario nostro eam inchoet et examinari faciat, ac teneatur fine debito terminare, quod circa preparatoria ipsius cause usurarie seu relaxationem pene iuramenti et alterius cuiuscumque obstaculi, impedimentis causam ipsam moveri, observari volumus et mandamus.</p>
+                    <p>Si vero in modum exceptionis dilatorie, perhemptorie seu anomale coram iudice seculari, per clericum sive laicum contra clericum sive laicum usuraria exceptio proponatur, examinacio, cognitio et difinitio earumdem exceptionum ad nos vel vicarium nostrum decernimus pertinere.</p>
+                    <p>Quam causam exceptionis prefacte terminari vollumus infra viginti dies utiles a die quo causa illius exceptionis a seculari iudice ad nos vel vicarium nostrum fuerit remissa compuandos.</p>
+                    <p>Quam remissionem facere teneatur iudex secularis per alteram parcium, vel ex nostro officio requisitus.</p>
+                    <p>Si vero infra dictum spacium viginti dierum exceptiones probare non poterit legitime quod excepit, ex tunc secularis iudex, sub cuius iudicio principalis causa agitur, non obstante illa exceptione, partes super dicta principali causa audiat et decidat et ne propter opositionem illius exceptionis factam in iudicio seculari que, ut premittitur, debet in foro ecclesiastico agitari, contingat principalem causam nimium protrahere propter appellationes que secundum canones possunt a quocumque gravamine interponi; statuimus quod a sententia seu pronunciatione, que per nos seu vicarium nostrum super ipsa exceptione fiet, nullo modo possit apellari, suplicari, reclamari seu in integrum restitutionem peti huiusmodi sinodi auctoritate et vigore.</p>
+                    <p>Si quis vero transgressor extiterit, si clericus sit et beneficiatus in tercia parte fructuum suorum beneficiorum huiusmodi statuti auctoritate sententialiter condempnamus in ornamentum ecclesie seu ecclesiarum in quibus beneficiaus extiterit per nos convertenta.</p>
+                    <p>Si vero beneficiatus non fuerit, in libris decem condempnamus; si autem laicus sit, ingressum ecclesie denegamus et nichilominus processus non teneant ipso iure.</p>
+                    <p>Predicta locum habere volumus in preteritis non pendentibus de presenti.</p>
+                    <p>Hec sunt interrogationes que fieri debent antequam fiat carta securitatis quam debet prestare usurarius.</p>
+                    <p>Primo namque tabelio antequam faciat cartam securitatis prestande ab usuraio, faciat iurare usurarium quod precepta domini episcopi paduani et eius vicarii observabit et quod dicet veritatem super hiis de quibus interrogabitur, et quod omnia, que in carta securitatis promiserit et ad que se obligaverit, firmiter observabit, poscat.</p>
+                    <p>Sic usurarius interrogetur: primo si fuit publicus et manifestus usurarius; item quantum tempus est quod dedit seu prestitit ad usuram; item quod quot denarios mutuabat in ratione libre; item quantum potest habere de usuris et male ablatis incertis; item si faciebat simulatos seu ficticios contractus; item si vult dare securitatem, hoc est dare pignera seu fideiussiores de restituendis usuriis et male ablatis certis et incertis; item si ante omnia vult dare et assignare tabellioni seu confessori suo recipienti nomine et vice domini episcopi paduani eiusque vicarii et omnium quorum interest omnes libros seu quaternus, rationes et instrumenta in quibus continetur aliquid datum vel receptum, dandum vel recipiendum per usurariam pravitatem; item si vult promittere quod si Deus ipsum pristine restituerit sanitati, ulterius non dabit ad usuram nec per se nec per interpositam personam, nec de predictis debitis vel prestitis aliquid exiget in fraudem usurarum; item si vult promittere quod omnia male ablata certa et incerta ac usuras restituet vel quod restituantur pro salute anime sue secundum modum et formam per dictum dominum episcopum adinventum.</p>
+                    <p>Factis interrogationibus et responsionibus ad easdem, conficiatur instrumentum securitatis hoc modo et legatur per notarium usurario et fideiussoribus:</p>
+                    <p>In Christi nomine amen.</p>
+                    <p>Ibique dominus Andreas iuratus stare mandatis domini episcopi eiusque vicarii et dicere veritatem super hiis de quibus interrogatus est vel fuerit, et quod omnia et singula observavit que in carta securitatis promiserit, et ad que se observanda se obligaverit suo sacramento fuerit confessus se fecisse et extorsise publicum et manifestum usurarium et dedisse pecuniam ad usuram in ratione tot denariorum pro libra-- et quantitas exprimatur-- faciendo contractus simulatos seu ficticios in fraudem usurarum.</p>
+                    <p>Et hoc presens clausula in instrumento cautionis, si sic interrogationibus fuerit confessus ac habuisse et extorsise per usurariam pravitatem et alias illicite tot libras-- et ponatur quantitas-- et eciam habuisse tot libras de male ablatis incertis, et si male ablata incerta dicat se habuisse, et quod tantum habet in bonis, quod detractis debitis, que de iure debentur vel possunt trahi, si sic fuerit confessus predictarum usurarum et male ablatorum incertorum et plurium, si reperiretur, potest fieri restitutio competenter.</p>
+                    <p>Et quia credit propter hoc se Deum graviter offendisse, et penitet sic fecisse, datis et consignatis michi M. notario libris, quaternis, instrumentis et rationibus usurarum, videlicet hoc et hoc et hoc, si dixerit se habere et dederit; si autem dixerit se habere et ad presens dare non posse, quia sunt extra domum, notarius sic dicat: presenti solempni stipulatione promisit mihi notario, infrascriptos tales libros, instrumenta et quaternos presentare domino episcopo vel eius vicario, seu presentari facere, et penes eumdem dominum episcopum vel eius vicarium dimitere infra certum tempus, et tempus exprimatur secundum qualitatem negotii et distantiam locorum.</p>
+                    <p>Aliter si dixerit instrumenta, libros, rationes seu codices non habere, sic dicatur: nullis assignatis libris, quaternis seu instrumentis nec promissione facta de assignando michi M. notario per solempnem stipulationem promissit recipienti et stipulanti nomine meo et reverendi in Christo patris et domini domini P. Dei et apostolice sedis gratia episcopi paduani, eiusque vicarii et omnium quorum interest vel interesse poterit.</p>
+                    <p>Si Deus ipsum pristine restitueret sanitati deinceps usuras aliquas per se vel alium non exercebit, nec pretextu alicuius obligationis, conventionis, pacti, instrumenti seu alicuius cuiuscumque scripture hactenus habitorum, seu factorum a quacumque persona, collegio et universitate remittit: et eciam si qua iuramenta fecisset sibi prestare de solvendis usuris vel solutionibus non repetendis, illa quibuscumque remittit.</p>
+                    <p>Pariter declarat persone mei notarii recipienti nomine cuius interest vel interesse poterit, et predicta omnia et singula attendere et observare promittit, sub pena librarum V parvorum, que pena totius committatur et eciam exigatur cum effectu quociens per se seu heredes suos fuerit contrafactum, presenti instrumento securitatis semper in sua firmitate manente.</p>
+                    <p>Si vero in hac infirmitate decesserit, quod deus advertat, mandat et precipit omnibus heredibus suis sub pena privacionis hereditatis sue et suarum periculo animarum quod debeant omnibus personis, collegio et universitati habere debentibus reddere et restituere predictas usuras et mala ablata incerta, et tanto plus quanto reperiretur per se vel per alium extorsise per usurariam pravitatem aut modo alio illicito habuisse, ita tamen quod si plures heredes fuerint vel fideicommissarii pro indivisso possidentes vel administrantes sufficiat petenti usuras ut totum consequatur quod petit, si unus ex predictis conveniatur aut etiam condempnetur, nisi comunem et legitimum pro omnibus deputaverit responsalem.</p>
+                    <p>Vult eciam et mandat ipsas usuras et male ablata, certa tam per se, si vixerit, quam per heredes suos et commissarios vel alias personas quibus ordinasset, si decesserit, hoc modo et forma restitui, videlicet: quod predicta restitutio fiat de plano sine strepitu et figura iudicii, cum plenis et simplicibus probationibus, secundum quod domino episcopo vel eius vicario pro utilitate et salute anime ipsius A. quod melius videbitur convenire.</p>
+                    <p>Item quod inspecta qualitate persone et quantitate debiti petentis et forma et aliis circumstandis, possit dictus dominus episcopus vel eius vicarius, si sibi videbitur secundum suam bonam conscienciam super usuris unius anni, cuicumque petenti et agenti, et maxime si ostenderit instrumentum incisum, prestare seu deferre corporaliter iuramentum nisi de maiori tempore vellet probare, in quo casu de maiori tempore anni audiantur probationes ipsius; item quod stetur quaternis, rationibus et instrumentis ipsius domini A. in quantum prosunt petenti.</p>
+                    <p>Si vero non invenirentur persone quibus usure predicte restituantur, tam residuum ipsarum usurarum quam etiam male ablata incerta predicta, quandocumque videbitur prefato domino episcopo vel eius vicario, apud ipsos vel ipsorum alterum seu aliam idoneam personam quam deputaverit debeant pervenire, danda vel distribuenda pauperibus Christi vel in alias pias causas, secundum quod prefato domino episcopo vel eius vicario secundum eorum bonam et rectam conscienciam melius et utilius pro salute animi prefati domini A. videbitur convenire.</p>
+                    <p>Pro quibus omnibus et singulis atendendis per se suosque heredes cum refectione dampnorum, interesse et expensarum habitorum per quamcumque personam in iudicio sive extra, michi notario infrascripta stipulanti et recipienti nomine antedicto idem dominus A. obligavit se nomine pignoris omnia bona sua mobilia et inmobilia, presencia et futura; que bona taliter obligata constituit se precario nomine possidere pro predictis domino episcopo, eius vicario omnibusque quorum interest vel interesse poterit donec predicte usure, male ablata certa et incerta illis personis, quibus debentur, et Christi pauperibus fuerint restituta et etiam dispensata iuxta formam superius pretasatam; promittens ipse dominus A. quod non probabit pactum, finem, remissionem, solutionem usurarum et male ablatorum nisi per publicum instrumentum predicti domini episcopi vel eius vicarii auctoritate factum vel per ipsos seu eorum alterum.</p>
+                    <p>Renuncians etiam exceptioni doli mali et in factum actioni, conditioni sine causa vel ex iniusta, simulationi, deceptioni, fraudi, appellationibus, supplicationibus, reclamationibus, restitutionibus in integrum eciam per pactum expresse renuncians; et insuper statutis, reformationibus, concilii communis Padue factis et fiendis, literis impetratis vel impetrandis et generaliter omnibus aliis exceptionibus, tam iuris quam facti, ac omni auxilio legis vel canonis, quibus ipse vel sui heredes contra premissa possint se tueri vel aliquod predictorum, quas omnes exceptiones tam generaliter quam specialiter expressas perinde ac si omnia specificata forent, et pro specificatis vult haberi, eciam si in generalitate predicta maiora expressis comprendatur, per speciale pactum remittit, ita tamen quod in arbitrio domini episcopi vel eius vicarii relinquatur, si qua admittere voluerit vel crediderit admitenda.</p>
+                    <p>Dans et concedens nichilominus predicto domino episcopo eiusque vicario plenam liberam potestatem si in non veniendo et non comparendo in iudicium vel extra vel non attendendo omnia et suprascripta ipse vel sui heredes se reddiderint contumaces, non obstante si predicti heredes dicent se minores vel infantes non habentes tutorem vel curatorem vel procuratorem seu actorem et ideo artari et conveniri vel excomunicari vel ipsorum bona possideri non posse, et bona inventa de predictis bonis et usurariorum non sufficerint ad restitutionem usurarum et male ablatorum omnium faciendam, excommunicandi ipsos et heredes suos et commissarios cuiuscumque conditionis existant, bonam et multam imponendi, tenutam sive possessionem accipiendi et dandi omnium bonorum suorum mobilium et immobilium, presentium et futurorum, si opus fuerit, semel et pluries sine alia citatione et iuris solempnitate et ordine usque ad satisfactionem predictam usurarum et male ablatorum, omnium certorum et incertorum debitam et condignam.</p>
+                    <p>Insuper dominus B., precibus et mandatis supradicti domini A., pro ipso extitit fideiussor, obligans se et suos heredes omnibus pactis, conditionibus, stipulationibus et renunciationibus antedictis sub ipotecha omnium suorum bonorum mobilium et immobilium presentium et futurorum usque ad satisfactionem predictarum usurarum et male ablatorum omnium certorum et incertorum debitam et condignam; expresse renuncians per pactum beneficio constitutionis de fideiussoribus, quod principalis prius debeat conveniri, et bona de executi quam fideiussor; promittens omnia et singula attendere et observare nec ullo modo vel ingenio de iure vel facto contra premissa venire vel aliquo premissorum corporali prestito iuramento.</p>
+                    <p>Si vero fuerint duo fideiussores vel plures, dicatur: insuper N. et M. precibus eciam et mandato dicti domini A. extiterunt fideiussores et obligaverunt se et suos hredes in solidum modiis, pactis, condicionibus et stipulationibus et renunciationibus antedictis, sub ipotecha omnium suorum bonorum mobilium et immobilium presentium et futurorum usque ad satisfactionem predictarum usurarum et male ablatorum certorum et incertorum debitam et condignam, ac expresse renunciaverunt per pactum beneficio epistole divi Adriani et novis constitutionibus de fideiussoribus, et duobus vel pluribus reis debendi; promittens omnia et cetera ut supra.</p>
+                    <p>Si autem fuerit aliqua mulier que fideiubet, dicatur: insuper domina Gualdrata precibus et mandatis et cetera, et ponatur ut supra dictum est de uno fideiussore, hoc adito: quod ipsa renunciet beneficio consulti Velleiani, qui dicit quod fideiussio mulieris pro altero facta non teneat; promittens et cetera ut supra.</p>
+                    <p>Et si illi qui volunt fideiubere sint filii usurari, sic dicatur ut supra de pluribus fideiussoribus, hoc addito: quod si essent minores, quod de voluntate patris extiterint fideiussores et quod expresse renunciant beneficio inventarii et contra premissa non venient ullo modo vel ingenio occasione minoris etatis vel alia quacumque de causa, corporali prestito et iuramento.</p>
+                    <p>Et si dicti minores nolent iurare, non recipiantur pro fideiussoribus nisi sint sufficientes.</p>
+                    <p>Si extranei inveniantur, qui vellent fideiubere, quibus non inventis recipiantur filii sive sint in potestate patris sive non, hoc observato, quod diximus de filiis minoribus ut non recipiantur fideiussores nisi ut supra diximus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 26</head>
+                    <p>(26) Statuimus quod nullus presbiterorum, capellanorum et clericorum sit ausus quovis modo ad alienam ecclesiam, monasterium vel zenobium aut alium locum secularem vel religiosum ire vel accedere ad funus alicuius vel aliud officium funeris sive nocturnas obsequias vel vigilias, nisi fuerit vocatus a presbitero vel rectore illius ecclesie vel parochie loci vel nisi per voluntatem heredum defuncti specialiter invitatus, vel a nobis licentiam obtinuerit specialem.</p>
+                    <p>Qui vero contrafecerit, pro pena qualibet vice soldos viginti persolvat, prout nobis videbitur, in usus pauperum convertendos et quicquid oblationis ob hoc percepit sacerdoti proprio infra triduum asignet sub pena predicta.</p>
+                </div>
+                <div>
+                    <head>Capitulum 27</head>
+                    <p>(27) Statuimus preterea, ne propter iniuriam sacerdotum divina indignatio forcius exardescat, ut a sacerdotibus eucaristia [6] in loco singulari, mundo et clavi signato prope altare seu iuxta semper honorifice conlocata devote ac fideliter conservetur, ne ad illam temeraria manus possit accedere.</p>
+                    <p>Hoc idem dicimus et mandamus de custodia adhibenda de crismate et oleo cathecuminorum et etiam infirmorum.</p>
+                    <p>Adicientes ut, cum sacra hostia ad infirmum portetur, sacerdos inductus sepelicio et cotta honorifice ferat et manifeste, supposito velamine mundo, campanella et lumine, cum sit candor lucis eterne, ut ex hoc apud omnes fideles et devocio augeatur.</p>
+                    <p>Prohibentes insuper ac sub pena excomunicacionis mandantes ne quis ipsum sacrum corpus ad infirmum oculte seu asconse deferat, sicut a quibusdam audivimus imprudenter fieri, portando ipsum sub cappa vel indumento alio.</p>
+                    <p>Si vero in reditu ab infirmo in vase corpus Christi non fuerit, lumen extinguatur et campanella non pulsetur, ne idolatrare aliqui videantur.</p>
+                    <p>Precipimus eciam quod sacerdos deferens ad imfirmos corpus Christi numquam solus incedat sed semper aliquem socium clericum, et si clericum habere non posset socium laicum secum ducat. Et faciens contra premissa vel aliquod premissorum, pro qualibet vice penam decem librarum incurrere volumus, ut circha talem excessum enormem talis temeritas puniatur, in ornamenta seu utilitatem ecclesie in qua beneficiatus est convertendam.</p>
+                </div>
+                <div>
+                    <head>Capitulum 28</head>
+                    <p>(28) Festum beati Danielis martiris patroni nostri singulis annis in nostra paduana ecclesia futuris imperpetuum celebrari temporibus debitis devotione ac reverencia celebrari cupientes, monemus omnes et singulos archipresbiteros et parochiales presbiteros nostre iurisdicioni subietos, ac distripte in virtute sancte obediencie et sub excomunicacionis pena mandamus quatenus festum predicti martiris gloriosi, quod celebratur tercia dominica mensis maii, in suis kalendariis debeant anotare, ac in ipsa die festi cum populo sibi comisso sicut devote poterunt devotissime celebrare, et legitimo impedimento cesante, venerandum corpus sanctissimi patroni nostri visitari procurent nec expectent de cetero per alios invitari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 29</head>
+                    <p>(29) Quia pungit nos acriter aculeo doloris interius quedam verba que de quibusdam parvulis absque salutifero baptismatis sacramento ob parentum et capellanorum suorum negligenciam culpabilem decedentibus gratia divine visionis privatis audivimus, nos tanto periculo animarum et dampno inextimabili providere, Deo propicio, totis desideriis cupientes, ac generali sinodo monemus solempniter semel, secundo et tercio omnes et singulos presbiteros et parochianos nostre civitatis et diocesis tam presentes quam absentes, quibus cura imminet animarum, et eis sub pena excomunicacionis quanto districtius possumus precipimus et mandamus quatenus parochianos et populum sibi comissum utriusque sexus in ecclesiis suis seu alibi, et quando convenit maior populi multitudo, ex parte et auctoritate nostra moneant solempniter et sub pena excomunicacionis districte precipiant quatenus quilibet ex ipsis filios suos infra octo dies postquam nati fuerint ad ecclesiam deferi et per parochiales sacerdotes suos baticari faciant et procurent.</p>
+                    <p>Volumus insuper et mandamus quod presens monitio et mandatum quolibet mense semel in qualibet ecclesia tanquam sacra lectio repetatur.</p>
+                    <p>Sacerdotum vero negligenciam, si per eos steterit quominus dicti parvuli bapticentur, ultra penam iuris pena decem librarum huius statuti multamus, qui vero dictas monitiones facere et huiusmodi constitutionem nostram singulis mensibus publicare distulerint, nostro arbitrio puniemus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 30</head>
+                    <p>(30) Nulle mulieres lactantes pueros infra biennium existentes sub excomunicacionis pena in eodem leto secum tenere presumant, ne ipsos opprimant et perimant dormientes fiantque auctrices funerum quas nutrices esse convenit filiorum.</p>
+                    <p>Mandantesque per parochiales sacerdotes in festivitatibus Nativitatis et Resuretionis dominice ac Penteconstes et Asumptionis Domine nostre hoc statutum populo anunciari infra missarum solempnia teneantur, sub pena soldorum centum quam incurrant si hoc negleserint adimplere.</p>
+                </div>
+                <div>
+                    <head>Capitulum 31</head>
+                    <p>(31) Item statuimus quod prelati et rectores ecclesiarum parochianos suos publice debeant admonere ne usores ducant tempore ab Ecclesia interdicto, videlicet a dominica de Adventu inclusive usque ad Epifaniam, a dominica de septuagesima similiter inclusive usque ad octavam Resuretionis dominice, et a prima die Rogationum usque ad octavam Pentecostes per octo dies, intimando nobis vel vicario nostro si aliqui fuerint contrarium facientes, ut eos nostro arbitrio puniamus.</p>
+                    <p>Sacerdotes vero non nunciantes, ut premittitur, in ecclesiis suis penam XV soldorum incurrere volumus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 32</head>
+                    <p>(32) Quia pastoris est utilitatibus ecclesiarum providere et subietos suos ab amfratibus litigiorum penitus removere, considerantes quod plereque plebes et capelle civitatis et diocesis nostre paduane quartam partem fabrice deputatam non recipiunt nec eciam clerici earumdem, et sic ad restitutionem et thesauricationem ipsarum plebium et capellarum non tenentur, volentes super predictis tam ecclesiis quam sacerdotibus earum et eorum parochianis de oportuno et necessario remedio providere, statuimus et ordinamus quod omnes parochiani plebium et capellarum civitatis et diocesis nostre paduane, quibus quarta pars fabrice deputata est, ad refetionem et reparationem tam ecclesiarum quam domorum presbiterorum et ad sarta et tecta necnon ad thesauricandam ecclesiam suam omnino teneantur, hac tamen modificatione et moderatione adhibita quod parochiani capellarum ecclesias suas, domos sacerdotum, teta et seta reficere et reparare omnino teneantur, et nichilominus si plebe dicte diocesis nostre refictionem indigeant, parochiani capellarum decimum denarium ad contribuendum cum parochianis plebis solvere omnimode teneantur, videlicet quod ubi parochiani plebis in refectione plebis seu domorum conferunt seu solvunt novem soldos, soldum unum parochiani cuiuslibet capelle eius plebis solvere solumodo sint astricti; ubi vero quarta pars fabrice deputata est ecclesiis seu clericis ecclesiarum predictarum, parochiani, eo casu quo ad refectionem seu reparationem dicta quarta pars non suficeret, quartam partem residui quod deficit contribuere censura ecclesiastica compelantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 33</head>
+                    <p>(33) Item monemus omnes sacerdotes parochiales civitatis Padue et suburbiorum quod absque tabarro, capa vel mantello parochiam suam non exeant; alioquin contrarium facientes in X libris parvorum pro qualibet vice qua exierint condempnamus, quod observari volumus si absque bireto per civitatem publice inceserint, cuius pene medietatem nuncianti volumus aplicari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 34</head>
+                    <p>(34) Quoniam simoniacha pravitas inter omnia crimina detestabilior iudicatur adeo quod eius respetu cetera crimina quasi pro nichilo reputantur, ipsam vigilanti studio a nostris subditis intendimus amovere.</p>
+                    <p>Ideoque presenti santione duximus statuendum ut quivis clericus tam subditus quam prelatus cuiuscumque status seu conditionis existat, qui contra Deum et iusticiam et bonum conscientie beneficium, dignitatem seu rectoriam tenet vel in futurum tenebit, quod vel que per se vel alium aquisitum fuerint per simoniacham pravitatem, sine mora illud vel illa in nostris manibus libere resignet penitus et dimitat, et ad refectionem omnium fructuum et proventuum quos quilibet talis receperit ipsi ecclesie in cuius preiudicium recepit integre restituere teneatur.</p>
+                    <p>Et si talem resignationem per duos menses a tempore beneficii sic optenti dampnabiliter computandos seu a tempore scientie, quando per alium simoniace contigerit optinere, facere animo distulerit indurato, ultra penas predictas et alias penas iuris, pena librarum L multamus in utilitatem ecclesie quam depravavit omnino convertenda.</p>
+                </div>
+                <div>
+                    <head>Capitulum 35</head>
+                    <p>(35) Item statuendo inhibemus omnibus clericis beneficiatis vel in sacris ordinibus constitutis, ultra penam iuris, sub pena decem librarum pro qualibet vice comitenda qua fuerit contrafactum, ne tabelionatus officium in civitate et diocesi paduana sine nostra licencia speciali et mandato, exceptis casibus a iure expressis, nullatenus debeant exercere, cuius pene medietatem accusanti seu denuncianti volumus aplicari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 36</head>
+                    <p>(36) Caveant sacerdotes ne pro dandis ecclesiasticis sacramentis aliquid petant vel exigant a quocumque.</p>
+                    <p>Si vero aliquis inventus fuerit qui pro conferendis sacramentis Ecclesie alicui persone aliquid petierit ita ut ea videatur tradidisse venalia, preter penam canonicam ipsum in libris decem parvorum pro qualibet vice condempnamus.</p>
+                    <p>Precipimus eciam presbiteris et clericis universis ut corpus Christi, crisma, oleum sanctum nulli dare presumant vel permittant accipere ab aliquo ad aliquid peragendum quam sit per Ecclesiam ordinatum; alioquin illum qui dederit vel permiserit accipere ultra penam iuris in libris decem parvorum pro qualibet vice condempnamus.</p>
+                    <p>Plebani et parochialium ecclesiarum rectores crisma de manu sacriste ecclesie paduane personaliter sint astricti recipere, nisi aliqua necesitate personaliter venire nequeant, seu causa rationabilis eos valeat excusare.</p>
+                    <p>Et tunc non per laicos sed per sacerdotes ydoneos seu clericos bone fame pro ipso crismate recipiendo destinent, prius eis iuramento delato quod ipsum crisma sacerdoti destinanti fideliter assignabunt, pro quo crismate nichil penitus exigatur sed gratis et liberaliter concedatur.</p>
+                    <p>Si quis vero contra premissa fecerit vel aliquod premissorum, penam quinque librarum se noverit incursurum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 37</head>
+                    <p>(37) Cum clerici caste vivere debeant et honeste, statuimus ne aliquis clericus, qui sacrum ordinem seu beneficium fuerit ecclesiasticum asecutus vel imposterum consequetur in civitate et diocesi paduana, in caminata vel domibus ecclesie sue vel alibi in quacumque domo ipse permanserit seu habitaverit, concubinam tenere audeat publice vel aliquam suspetam de cetero mulierem.</p>
+                    <p>Et qui contrafecerit in libris XXV parvorum pecunialiter condempnamus, penis iuris constitutionum legatorum et patriarcalium nichilominus in suo robore permansuris; quam penam XXV librarum tenentes ad postam suam extra habitationem publice concubinas incurrere volumus ipso facto.</p>
+                    <p>Si vero ex causa aliqua legitima necesse habeant tenere secum aliquam mulierem, tunc licite habere possint in domo sua, quamdiu causa duraverit, matrem, sororem, consanguineam, amitam vel afinem aut aliam mulierem, dummodo tanti temporis talisque conditionis existat ut de ipsa nequeat suspicio aliqua suboriri, prius tamen de talibus in domo tenendis a nobis petita licentia et obtenta.</p>
+                    <p>Alioquin contrafacientes pro qualibet vice qua nobis fuerint accusati penam V librarum se noverint incursuros, quarum medietatem penarum aplicari volumus nuncianti.</p>
+                    <p>Et tunc publice presumantur tenuisse et tenere, si de facto retineant vel clam, cum prolem susceperit excinde mortuam seu vivam, in cuius probatione prolis cum fama testis unus eciam domesticus suficiat ad probandum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 38</head>
+                    <p>(38) Precipimus et statuimus sub pena decem librarum et nichilominus sub pena excomunicacionis mandamus quod nullus ad sortilegos seu sortilegas pro sortibus exercendis audeat habere recursum, pena iuris in suo robore permanente.</p>
+                </div>
+                <div>
+                    <head>Capitulum 39</head>
+                    <p>(39) Item inhibemus atque mandamus quod nullus sacramento eucaristie, oleo sancto seu aqua benedicta abutatur, presertim pro maleficiis exercendis; nullus insuper demones audeat invocare nec ad invocatos habere recursum pro invocatione huiusmodi exercenda; nullus insuper osibus mortuorum seu aliqua parte humani corporis seu hominis mortui vel viventis uti audeat ad maleficia facienda.</p>
+                    <p>Si quis autem contrarium fecerit, sententiam excomunicacionis incurat dapnabiliter ipso facto.</p>
+                </div>
+                <div>
+                    <head>Capitulum 40</head>
+                    <p>(40) Excommunicamus et anatematicamus in hiis scriptis, ex parte Dei omnipotentis et nostra, omnes efratores, violatores, incendiarios ecclesiarum et ocupatores violentos bonorum immobilium ecclesiasticorum necnon eos qui violenter ocupant vel furto subtrahunt calices, cruces, libros, ornamenta seu paramenta quecumque ad ecclesias et maxime ad orantum altaris pertinencia.</p>
+                </div>
+                <div>
+                    <head>Capitulum 41</head>
+                    <p>(41) Quarundam ecclesiarum et personarum secularium abusum, qui ad ea que sibi a iure noverint interdicta ausu temerario manus extendunt, refrenare cohercio one debita cupientes, ac generali constitutione sinodali sancimus monentes pro primo, secundo et tertio termino et perhemptorio ut in ecclesiis que ad nostram ordinationem seu provisionem immediate pertinere noscuntur nullus, postquam aliquam ipsarum vacare contingerit, nostram ordinacionem seu provisionem per se vel per alium quoquo modo impedire presumat quominus nostra provisio seu ordinatio debitum consequatur effectum et provisus possessionem pacificam beneficii per nos collati nanciscatur.</p>
+                    <p>Alioquin quemlibet impedientem nostram provisionem seu ordinationem seu quominus possessio pacifica beneficii habeatur, cuiuscunque status vel conditionis existat, nisi infra quindecim dierum spacium destiterit a premissis, excomunicacionis sentenciam incurere volumus ipso facto.</p>
+                </div>
+                <div>
+                    <head>Capitulum 42</head>
+                    <p>(42) Considerantes et atendentes quod ubi caritas et amor est ibi Deus est, mandamus et ortamur omnes et singulos officiales episcopalis curie paduane et advocatos curie eiusdem cuiuscumque status, ordinis et conditionis existant, tam presentes quam futuros, advocationis officium exercentes sed aliud officium in curia antedicta, quod sint et esse debeant pacifici et modesti, ab iniuriis quibuscumque totaliter abstinentes et ab omni materia questionis.</p>
+                    <p>Et si, quod absit, inter aliquos ex predictis verbo, actu vel facto aliqua fiat iniuria, lis, questio, controversia vel materia discordie oriatur, ad nos vel vicarium nostri debeant iniuriati habere recursum et iniuriantes denunciare nobis vel vicario nostro.</p>
+                    <p>Ad curiam secularem per se vel per alios publice vel oculte predictas iniurias quoquomodo notificare, denunciare vel predictos iniuriantes accusare audeant vel presumant.</p>
+                    <p>Si autem contrarium fecerit, officio advocationis, si advocatus fuerit, et alius officialis officio suo obtento et obtinendo in curia antedicta per annum continuum volumus esse privatus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 43</head>
+                    <p>(43) Cupientes super executiones testamentorum materiam precidere delinquendi, presentis sinodi auctoritate statuimus quod quilibet executor ultime voluntatis cuiuscumque status, ordinis vel conditionis existat, etsi prelationis fungatur officio, sive sub proprio nomine sive sub apelativo executio fuerit deputata quovis nomine vel vocabulo in ultimis voluntatibus nuncupetur suscepte executionis singulis annis, cum fructus seu redditus seu aliquid annuum relicti fuerint eius officio dispensandi, si vero pecuniam seu alie res non annue modo similiter fuerint relicte, infra duos menses a tempore quo executionem facere debuit ex forma ultime voluntatis vel de iure computandos, nobis debitam atque iustam absque fraude et dolo teneantur reddere rationem de dispensatis pariter et receptis, eciamsi testator seu dispositor ultime voluntatis eos executores vel executorem liberaverit sub quavis forma verborum a redende administrationis ratione; quam rationem, ut premittitur, executores si reddere recusaverint vel negleserint quoquomodo in terminis supradictis, si clerici sint, per privationem beneficii posint per nos ad id constringi seu aliis remediis oportunis; si vero laici sint, censura ecclesiastica compelantur vel alio quovis modo prout nobis videbitur expedire.</p>
+                    <p>In omni rationis reditione, variis opinionibus resecatis, in minutis stetur executoris simplici sacramento et aliis vero eorum quaternis et libris seu codicibus rationum, si bone fame et opinionis existat, prius tamen ab eodem recepto sacramento de veritate dicenda et etiam dummodo particulariter, clare et distincte de introitibus, expensis et distributionibus per eos factis cum descriptione nominum quibus facta est distributio antedicta et pro qua causa in eorum libris, codicibus et quaternis appareat evidenter.</p>
+                    <p>Que omnia, sive minuta vel non, inspetis circumstandis et conieturis personarum et rerum, nostro arbitrio, cum redditur ratio antedicta, reservamus tunc temporis declaranda.</p>
+                    <p>Predicta trahi volumus ad preterita et pendentia non decisa.</p>
+                    <p>Quod statutum locum habeat in omnibus executoribus, exceptis eis qui secundum formam testamentorum tenentur dominis archipresbitero et capitulo paduano reddere rationem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 44</head>
+                    <p>(44) Quia sepe in salariis sapientis per nos seu vicarium nostrum super articulo alicuius interlocutorie vel difinitive cause inite vel [7] coram nobis vel vicario nostro asumpti scrupulus in animo parcium et sapientis asumpti plerumque [8], hoc perpetuo statuto provide statuimus quod, si sapiens aliquis super articulo uno seu pluribus simul ante litis contestationem asumatur, pro salario sui consilii habeat ab ambabus partibus denarios decem, videlicet a qualibet parte pro virili, pro qualibet libra principalis questionis, si dicta questio principalis ascendat ex forma petitionis seu libelli usque ad summam quinquaginta librarum vel infra, si vero pluris quinquaginta, tunc abinde supra usque ad libras centum, denarios VIII; si vero pluris centum, tunc abinde supra denarios VI; si vero super articulo uno et pluribus post litem contestatam ante difinitivam assumatur, sapiens pro salario suo habeat denarios XII pro qualibet libra principalis cause, si ex forma petitionis seu libelli ascendat ad L libras vel infra; si vero pluris L ab inde supra usque ad centum, denarios VIII; si vero super diffinitiva sapiens assumatur, pro qualibet libra habeat denarios XIIII, si principalis causa ascendat ad summam librarum C vel infra; si vero pluris ducentarum ab inde supra, denarios VIII pro qualibet libra pro salario sapientis in premissis asumpti vel aliquo premissorum volumus assignari; salva nobis potestate scilicet ex facundia et sapientia sapientis ad consulendum asumpti, amplius salarium propter ipsius scientiam prerogativam nobis videbitur peraugendum.</p>
+                    <p>Verum quia in quibusdam causis litis contestatio non exigitur, ut sic aliquod ante litis contestationem vel post factum veraciter dici non posset, cum nulla contestatio facta fuit, ideoque si contingat in dictis causis ante diffinitivam sententiam aliquem articulum sive articulos committi consilio sapientis, quoad tasationem eiusdem articulorum seu articuli sic commissi facti tali tempore reputentur quali dicerentur si iudicio ordinario ageretur.</p>
+                    <p>Et quia plerumque questiones principaliter mote vel movende extimationem pecuniarum non recipiunt, ideoque in eorum articulis ante litis contestationem vel post seu diffinitivam consilio sapientis commissis, salario eiusdem nostro arbitrio reservamus.</p>
+                    <p>Si vero causa mota in petitione pro vice pecunie non consistat, sed in possidendis aliis rebus vel iuribus extimacionem pecuniariam recipientibus, summarie prius habita informatione aliquali de quantitate reddituum et valoris circumstandum possessionum vel rerum similium per partes et alios, si opus fuerit, quod nostro arbitrio reservamus, per duos notarios curie, quibus comiserimus, fiat extimatio rerum in iudicio principaliter vel accessorie petitarum, ut tali extimacione facta salaria sapientum ad consulendum assumptorum sint liquido manifesta.</p>
+                    <p>Predicta autem habere locum volumus in pendentibus non decisis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 45</head>
+                    <p>(45) Cum de opere et mercede agitur et sumaria cognitio ex consuetudine et stilo curie nostre sit solita adhiberi, provide statuimus quod in causis quibus petitur merces, salarium seu stipendium pro operibus eciam mecanicis actis vel scripturis quibuscumque et specialiter in curia nostra factis in eis simpliciter de plano sine strepitu et figura iudicii procedamur, adeo quod circumductis litigiorum amfratibus solum mera veritas requiratur, ut sic dummodo ex actis in dictis causis factis veritas rei pateat ratione cuiuscunque solempnitatibus omissis, processus ipsi et sententia ex ipsis subsecuta seu preceptum vel monitio nullatenus valeat irritari seu aliqualiter annullari ne ab ipsis sententia, precepta vel monitione possit per partem aliquam apellari, supplicari, reclamari seu in integrum restitutio peti.</p>
+                    <p>Quod in salariis sindicorum, advocatorum et procuratorum eorum officium in nostra curia exercencium volumus observari; et salarium predictorum, licet incertum sit promissum, nichilominus peti possit, dummodo in petitione posita seu libello petatur per partem agentem, per nos vel vicarium nostrum in probatione sententie seu precepti quantitas congrua declaretur.</p>
+                    <p>Et in ipso salario sic incerto petendo, forma observetur ac in ipsius exatione superius enotata; cuius salarii incerti, inspetis circumstandis et conieturis personarum et rerum, ipsarum quantitas congrua declarabitur per nos vel vicarium nostrum, cum preceptum super eodem salario vel sententia proferetur in scripturis, atque per constitutionem nostram sunt taxate, vocata parte personaliter et citata semel vel bis ad domum proclamata ad videndum taxationem declarari, nulla alia solepnitate observata.</p>
+                    <p>Si presens fuerit vel eo absente, si contumax fuerit, cum de scripturis, summarie tamen et sine aliqua solepnitate et declaratione salarii constabit per manum unius ex notariis curie, cui per nos fuerit commissum, partibus non suspetis in fine scripturarum, secundum taxationem constitutionis nostre per nos seu vicarium nostrum fiat admonitio de solvendo.</p>
+                    <p>Si vero de his scripturis pro quibus petitur merce s laboris, nulla taxatio per nostram constitutionem existat, tunc vocatis partibus et citatis personaliter semel tantum vel bis ad domum clamatis, si de scripturis constet veraciter quoquomodo nulla alia solepnitate observata, in eorum presentia vel asencia contumaciter uni ex notariis curie, partibus non suspeto, taxatio comitatur, ut secundum bonam, retam et puram conscienciam taxationem faciant debitam et condignam, quam taxationem sua manu in fine scripturarum scripbat.</p>
+                    <p>Quibus sic peractis fiat admonitio de solvendo.</p>
+                    <p>A qua monitione apellari, supplicari, reclamari seu in integrum restitutio peti non possit vel alio quocumque modo conveniri volumus, et sic mandamus omnino observari.</p>
+                    <p>Quem predictum modum procedendi observare volumus cum de pane et vino in minutum dato agitur coram nobis.</p>
+                    <p>Et predicta trahi volumus ad preterita et pendentia non decisa.</p>
+                </div>
+                <div>
+                    <head>Capitulum 46</head>
+                    <p>(46) Mandamus et precipimus omnibus abbatibus, prioribus, archipresbiteris, prepositis ac omnibus prelatis ecclesias collegiatas habentibus quatenus predictas constitutiones integraliter, sub pena V librarum, usque ad tres menses in suis ecclesiis scriptas habeant et easdem coram subditis studeant publicare.</p>
+                    <p>Lecte, late et publicate fuerunt suprascripte constitutiones sub anno Domini MoCCCoLXo, indicione terciadecima, die dominico octavo mensis marcii per Matheum de Castro Vallismontani filium domini Iohanis de Iustinopoli notarium et officialem episcopalis curie paduane, suprascripta millesimo et die suprascriptis.</p>
+                    <p>Millesimo Illcentesimo LXII, indicione XV, die sabbati XXVIIII mensis ianuarii, Padue in episcopali curia paduana, presentibus Palmerio notario et officiali episcopalis curie paduane et Rubeo de Capitevici testibus et aliis.</p>
+                </div>
+                <div>
+                    <head>Explicit</head>
+                    <p>Dominus Gerardus de Vedoaciis de Bononia presentavit coram domino Nicolao vicario domini Pilei episcopi paduani pro domino archipresbitero de Buvolenta suprascriptas constitutiones reverendi in Christo patris et domini domini Pilei, Dei et apostolice sedis gratia episcopi paduani, et dominus vicarius precepit dicto domino Gerardo procuratori suprascripti domini archipresbiteri de Buvolenta quod dictas constitutiones debeat dictus dominus archipresbiter servare et ipsas constitutiones presentare tociens quociens esset sibi mandatum et facere secundum quod in dictis constitutionibus plenius continetur.</p>
+                    <p>Archipresbiteri de Buvolenta paduane diocesis.</p>
+                    <p>Domini archipresbiteri de Buvolenta, videlicet presbiteri Augustini rectoris eiusdem ecclesie suprascripte de Buvolenta paduane diocesis.</p>
+                    <p>Archipresbiteri de Buvolenta paduane diocesis.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] Ellipses inserted here.</p>
+                    <p>[2] Ellipses inserted here.</p>
+                    <p>[3] &quot;Vade et amplius noli peccare&quot; in quotation marks.</p>
+                    <p>[4] &quot;[casu]&quot; inserted here.</p>
+                    <p>[5] &quot;[contractibus]&quot; inserted here.</p>
+                    <p>[6] &quot;stia&quot; in &quot;eucaristia&quot; in brackets.</p>
+                    <p>[7] &quot;[...]&quot; inserted here.</p>
+                    <p>[8] &quot;[...]&quot; inserted here.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

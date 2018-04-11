@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Angers</title>
+                <recordID>0801</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1261</origDate>
+                <dateNotes/>
+                <origPlace>Angers</origPlace>
+                <diocese>Angers</diocese>
+                <province>Tours</province>
+                <country>France</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 801</p>
+                <p>Year: 1261</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: Saint Luke</p>
+                <p>Place: Angers</p>
+                <p>Diocese: Angers</p>
+                <p>Province: Tours</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 47.473612</p>
+                <p>Longitude: -0.554167</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Nicolas Gellent</p>
+                <p>IssuingAuthorityAlt: Nicholaus Gelant</p>
+                <p>RegnalStart: 1260</p>
+                <p>RegnalEnd: 1291</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Avril, Statuts, III, 72-75</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: Hard Copy Scan</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Nicholaus Gelant in synodo sancti luce anno Domini Mo CCo sexagesimo Io.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) Quod ordinarius habeatur et fiat officium secundum eum.</p>
+                    <p>Statuimus quod in singulis ecclesiis liber, qui dicitur ordinarius, habeatur in quo sacerdotes respiciant singulis diebus ante vesperarum incepcionem, ut ipsas vesperas, matutinas, et officium diei sequentis faciant et exsequantur juxta ordinarii instructionem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Ne missale aut calix obligetur.</p>
+                    <p>Prohibemus ne quis sacerdos, pro quacumque ecclesie sue necessitate, obliget missale vel calicem, vel parrochianis obligare volentibus consentire presumat.</p>
+                    <p>Si contra hoc statutum facit, Extra, De pignoribus, cap. I [1].</p>
+                    <p>Si quis vero contra hoc statutum venerit, sciat quod ipsum ad redimendum et liberandum de suo proprio compellemus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) De monachis vagis et profugis.</p>
+                    <p>Abbates et priores conventuales monachos suos vagos et profugos studeant revocare, et ipsos recipiant, salva ordinis disciplina.</p>
+                    <p>Quos vero monitos redire nolentes invenerint, excommunicent, et id nobis significent, ut eos excommunicatos denunciari faciamus, et procedamus contra ipsos prout de jure fuerit procedendum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) Ne monachi minores XVIII annis mittantur ad locum non conventualem.</p>
+                    <p>Statutum provincialis concilii innovantes, prohibemus sub pena suspensionis, ne quis abbas, vel prior conventualis, aliquem monachum juniorem octodecim annis mittat causa morandi ad locum vel prioratum non conventualem, sed in claustro monasterii vel saltem prioratus conventualis moretur, ut et ibidem a senioribus suis instruatur in officio et servicio ecclesie et regularibus disciplinis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) De monachis jurisdictionem ecclesiarum impedientibus.</p>
+                    <p>Excommunicantur abbates sibi jurisdictionem ecclesiasticam usurpantes.</p>
+                    <p>Item, sunt quidam religiosi, ut intelleximus, abbates et alii, qui jurisdictionem ecclesiasticam impediunt, hominibus suis prohibentes ne ipsi coram ecclesiasticis judicibus litigent de iis que ad forum ecclesiasticum spectant, et, quod gravius est, jurisdictionem ecclesiasticam sibi usurpant, de his que ad forum Ecclesie pertinent, inter homines suos cognoscere et judicare presumentes.</p>
+                    <p>Quos monemus in generali, ne talia vel similia de cetero attemptare presumant, scientes quod, si post monicionem istam hoc facere presumpserint, excommunicati erunt ipso facto a canone in concilio Lateranensi edito, et nos nihilominus contra ipsos procedemus prout de jure fuerit procedendum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>(6) De fructibus immaturis.</p>
+                    <p>Preterea cum avaricie stimulis sit merito resistendum, prohibemus ne prelati qui deportus percipiunt in ecclesiis et capellis, uvas immaturas vel segetes decerpere, vel colligere presumant.</p>
+                    <p>Quod si quis presumpserit, presumptorem ad reddendum quod collegerit duplicatum illi in cujus prejudicium hoc fecerit, presenti statuto condempnamus.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] This sentence originally in parentheses.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

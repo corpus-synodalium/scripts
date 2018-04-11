@@ -1,0 +1,632 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pareja</title>
+                <recordID>0646</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1364-02-11</origDate>
+                <dateNotes/>
+                <origPlace>Pareja</origPlace>
+                <diocese>Cuenca</diocese>
+                <province>Toledo</province>
+                <country>Spain</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 646</p>
+                <p>Year: 1364</p>
+                <p>Month: 2</p>
+                <p>Day: 11</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Pareja</p>
+                <p>Diocese: Cuenca</p>
+                <p>Province: Toledo</p>
+                <p>CountryModern: Spain</p>
+                <p>Latitude: 40.5575</p>
+                <p>Longitude: -2.648333</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Bernal Zafón</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: sections in Old Spanish</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Synodicon Hispanum, X, 15-39</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['Library Scan', 'Hard Copy Scan']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Bernardus, miseratione diuina Conchensis episcopus, uenerabilibus et discretis uiris decano, archidiaconis, dignitatibus, personis, officiis, archipresbiteris, uicariis curatis, abbatibus et aliis clericis, capellanis et religiosis et toti clero ecclesie ciuitatis et diocesis Conchensis salutem in Domino Iesu Christo.</p>
+                    <p>Ad officium pertinet presidentis constitutiones a se uel predecessoribus suis editas, quas obesse conspicit potius quam prodesse, resecare simpliciter uel in melius reformare, et subditos suos certos reddere, quos habet obseruare.</p>
+                    <p>Recognitis igitur diligenter constitutionibus predecessorum nostrorum episcoporum sancte Conchensis ecclesie editis in diuersis synodis, per eos diuersis temporibus celebratis, ac quibusdam ex ipsis tamquam periculosis, quibusdam uero tamquam superfluis resecatis, illas quas utiles seu necessarias inuenimus, simul cum quibusdam quas de nouo edidimus, sacra approbante et consentiente et instante synodo ad hoc specialiter conuocata, in presenti uolumine prouidimus redigendas, decernentes easdem et non alias haberi pro constitutionibus synodorum diocesis Conchensis, et mandantes easdem inuiolabiliter obseruari, constitutionibus, consuetudinibus, compositionibus super kaficiis dandis, leuandis, portandis et super uestiariis et aliis decimandis diuidendis hucusque editis et seruatis et habitis, donec super eis plenius informati fuerimus et aliud super eisdem in synodo ordinandum duxerimus, suo solito robore duraturis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) Sequitur de articulis fidei.</p>
+                    <p>Summa totius discipline christiane, ut ait Augustinus, est in fide et moribus.</p>
+                    <p>Ideoque uolentem salutem eternam adipisci oportet eruditum esse de fide et moribus.</p>
+                    <p>Fides igitur continetur in credulitate articulorum et ecclesiasticorum sacramentorum, mores autem in preceptorum obseruatione, uirtutum adquisitione et uitiorum deuitatione.</p>
+                    <p>Que omnia ut clarius pateant, oportet distincte et sub certo numero explicare.</p>
+                    <p>Sciendum est igitur quod articuli fidei sunt quatuordecim, quorum primi septem pertinent ad diuinitatem, alii uero septem ad Christi humanitatem.</p>
+                    <p>Primus articulus est quod Deus est unus in essentia.</p>
+                    <p>Secundus, quod in hac una diuina essentia Pater est Deus, a nullo genitus aut procedens.</p>
+                    <p>Tertius, quod Filius est Deus [1], a Patre genitus.</p>
+                    <p>Quartus, quod Spiritus Sanctus est Deus, a Patre et Filio non genitus, sed procedens.</p>
+                    <p>Et sic in eadem essentia diuina sunt tres persone inter se distincte, sed in essentia diuinitatis unite.</p>
+                    <p>Quintus, quod ipse Deus, unus in Trinitate existens, est creator omnium rerum uisibilium et inuisibilium.</p>
+                    <p>Sextus, quod ipse iustificat uel remittit peccata, gratiam conferendo.</p>
+                    <p>Septimus, quod ipse remunerat, eternam gloriam tribuendo.</p>
+                    <p>Alii uero septem pertinent ad Christi incarnationem seu humanitatem:</p>
+                    <p>Primus, quod Filius Dei fuit conceptus absque uirili semine per operationem Sancti Spiritus de beata Maria uirgine.</p>
+                    <p>Secundus, quod fuit natus de Maria semper uirgine.</p>
+                    <p>Tertius, quod fuit pro nobis passus, crucifixus, mortuus et sepultus.</p>
+                    <p>Quartus, quod descendit in anima ad inferos, ut liberaret ibi sanctos existentes.</p>
+                    <p>Quintus, quod tertia die resurrexit a mortuis.</p>
+                    <p>Sextus, quod ascendit ad celos post quadraginta dies a resurrectione, et sedet ad dexteram Patris.</p>
+                    <p>Septimus, quod est uenturus iudicare in fine mundi uiuos et mortuos, largiturus malis penam perpetuam, bonis uero gloriam sempiternam.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Sequitur de sacramentis.</p>
+                    <p>Sacramenta Ecclesie sunt septem.</p>
+                    <p>Primum, baptismus, per quem homo efficitur christianus.</p>
+                    <p>Secundum, confirmatio, per quam in fide roboratur, et debet semel suscipi ab omnibus cum opportunitas se offerat eis.</p>
+                    <p>Hec duo non debent iterari.</p>
+                    <p>Tertium, Eucharistia, qua uerum Corpus uerusque Sanguis Domini continetur, et debet sumi saltem semel in anno, scilicet in Pascha.</p>
+                    <p>Quartum, penitentia, que debet recipi a sacerdote proprio saltem semel singulis annis, scilicet ante Pascha.</p>
+                    <p>Quintum, matrimonium, quod debet recipi in facie Ecclesie ab hiis qui in statu coniugali uolunt permanere.</p>
+                    <p>Sextum, ordo, qui debet conferri ab episcopis hiis qui uolunt clericari.</p>
+                    <p>Septimum est extrema unctio, ualens ad uenialium deletionem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) Sequitur de decem preceptis Legis.</p>
+                    <p>Precepta diuina sunt decem, quorum tria prime tabule pertinent ad dilectionem Dei, reliqua uero septem secunde tabule ad proximi dilectionem.</p>
+                    <p>Primum ergo preceptum, quod homo habeat et colat solum unum Deum.</p>
+                    <p>Contra quod faciunt omnes incantatores, diuini, sortilegi, augures et somnia obseruantes.</p>
+                    <p>Secundum uero, non iurabis in uanum.</p>
+                    <p>Contra hoc faciunt falsum uel sine causa iurantes.</p>
+                    <p>Tertium, quod homo colat diem dominicum.</p>
+                    <p>Contra quod faciunt qui dominica die uel alia festiuitate ab Ecclesia sollemniter instituta, sine causa laborant necessaria in artificiis uel agricultura, uel etiam qui forum tenent, et qui non audiunt missam, legitimam non habentes excusationem.</p>
+                    <p>Quartum, quod filii debent honorare parentes suos, tam carnales quam spirituales.</p>
+                    <p>Contra hoc faciunt patri uel matri maledicentes, uel eos uituperantes, aut in necessitate uitualia non ministrantes eisdem.</p>
+                    <p>Quintum, quod non debet homo aliquem occidere facto, consilio uel auxilio.</p>
+                    <p>Contra quod faciunt procurantes aborsum, et contra proximum rancorem tenentes.</p>
+                    <p>Sextum, quod non fiat adulterium.</p>
+                    <p>Contra hoc faciunt quicumque non suam cognoscentes et e conuerso, et quiuis habens quocumque modo illicitum tactum uel inhonestum.</p>
+                    <p>Septimum, quod non fiat furtum.</p>
+                    <p>Contra quod faciunt omnes usurarii et raptores, et omnes fraudulenter aut inique uendentes aut ementes, primicias, decimas et iura ecclesiastica uel aliis debita retinentes.</p>
+                    <p>Octauum, quod non fiat falsum testimonium.</p>
+                    <p>Contra hoc faciunt omnes disfamantes, et ubi testimonium ueritatis debent ferre, non dicentes.</p>
+                    <p>Nonum, quod uxor proximi non debet concupisci.</p>
+                    <p>Contra hoc faciunt omnes uidentes mulierem aliquam ad concupiscendum, et etiam omnes ornantes et ostentantes se ut ab aliis concupiscantur.</p>
+                    <p>Decimum, quod nulla res proximi debet concupisci.</p>
+                    <p>Contra quod faciunt qui cum malis astuciis aut oppressionibus ad uendendum sua uolunt alios uiolentare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) De septem uirtutibus.</p>
+                    <p>Virtutes morales uel cardinales [2].</p>
+                    <p>Virtutes sunt septem, quarum quatuor dicuntur morales uel cardinales, eo quod in eis tota uita hominis debet, tamquam porta in cardine, uersari et circumuolui.</p>
+                    <p>Scilicet: Prudentia, ad quam pertinet recte eligere quid agendum.</p>
+                    <p>Iustitia, ad quam pertinet exhibere seu reddere unicuique quod est ei reddendum.</p>
+                    <p>Temperantia, ad quam pertinet passiones suas concupiscibiles moderari et temperare.</p>
+                    <p>Fortitudo, ad quam pertinet in bono rationis perseueranter et fortiter stare, nec propter ullum timorem diuertere.</p>
+                    <p>Virtutes theologice.</p>
+                    <p>Tres uero sunt uirtutes theologice seu diuine, que sic nominantur quia directe et immediate ordinant hominem ad Deum et in Deum.</p>
+                    <p>Scilicet: Fides, per quam quilibet homo credit in Deum.</p>
+                    <p>Charitas, per quam summe diligit Deum, et etiam proximum suum sicut se ipsum propter Deum.</p>
+                    <p>Spes, per quam intendit in Deum tamquam in bonum suum propter beneficium, quod sperat adipisci.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) Sequitur de septem uitiis.</p>
+                    <p>Vitia seu crimina capitalia sunt septem: Superbia, auaritia, luxuria, ira, gula, inuidia, accidia.</p>
+                    <p>Septem autem uirtutes, que hiis uitiis opposite, sunt: humilitas, largitas, castitas, mititas, sobrietas, beniuolentia, constantia.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>(6) Predicta publicari debent lingua uulgari in quibusdam dominicis Aduentus et Quadragesime [3].</p>
+                    <p>Statuentes quod huiusmodi premisse ordinationes super articulis fidei, preceptis decalogi, sacramentis Ecclesie ac speciebus uirtutum et uitiorum et operibus misericordie, per nos edite, per capellanum maiorem uel ipsius uices gerentem ecclesie Conchensis, et per clericos curatos cuiuslibet alterius ecclesie et parochie ciuitatis et diocesis Conchensis uel alium uice ac nomine eorum, in prima dominica Aduentus et prima dominica Quadragesime et dominica de Passione in eisdem ecclesiis populo ibidem tunc ad missarum sollemnia uenienti in lingua uulgari, ut infra proximo sequitur, alta uoce de cetero publicentur.</p>
+                    <p>Si quis uero de predictis negligens in publicatione huius fuerit, pro qualibet die ex predictis diebus dominicis qua publicationem facere contempserit supra dictam, indictione triginta morabitinis usualis monete, in usus misericordie conuertende, eo ipso se nouerit incurrisse.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>(7) De los articulos.</p>
+                    <p>Conviene a saber que los articulos de la fe son catorze.</p>
+                    <p>E destos catorze articulos, los siete primeros pertenesçen a la divinidad, e los otros siete a la humanidad de Jesuchristo.</p>
+                    <p>El primero es que Dios es uno en essençia e en substançia.</p>
+                    <p>El segundo es que en esta una essençia divinal, el Padre es Dios e non es engendrado nin sale de alguna cosa.</p>
+                    <p>El terçero es que el Fijo es Dios e es engendrado del Padre.</p>
+                    <p>El quarto es que el Spiritu Sancto es Dios, e non es engendrado, mas sale del Padre e del Fijo.</p>
+                    <p>E anssi en esta mesma essençia e substançia de Dios son tres perssonas departidas entre si e ayuntadas en la essençia de la divinidad.</p>
+                    <p>El quinto es que este Dios uno en Trinidad es criador de todas las cosas que se pueden ver e que se non pueden ver.</p>
+                    <p>El sexto es que Dios justifica e dexa a los omes los pecados, dandoles graçia.</p>
+                    <p>El septimo es que Dios da a los omes gualardon e gloria perdurable.</p>
+                    <p>De los articulos de la humanidad.</p>
+                    <p>El primero articulo es que el Fijo de Dios fue conçebido de la bienaventurada virgen sancta Maria por el Spiritu Sancto, sin obra de varon.</p>
+                    <p>El segundo es que nasçio de la virgen sancta Maria, ella fincando virgen despues del parto.</p>
+                    <p>El terçero, que resçibio por nos passion, e fue cruçificado, muerto e soterrado.</p>
+                    <p>El quarto es que el anima de Jesuchristo con la divinidad desçendio a los infiernos para librar los sanctos que hy estavan, fincando el cuerpo en el sepulcro con la divinidad.</p>
+                    <p>El quinto es que en el terçero dia resuçito, ayuntandose el alma con el cuerpo.</p>
+                    <p>El sexto es que subio a los çielos en alma e en cuerpo a los quarenta dias despues de la resurrection, e see a la diestra del Padre.</p>
+                    <p>El septimo es que verna en fin del mundo a juzgar los bivos e los muertos.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>(8) De los sacramentos de la Yglesia, que son siete.</p>
+                    <p>El primero sacramento es baptismo, por el qual se faze el ome christiano.</p>
+                    <p>La materia deste sacramento es agua verdadera e natural, non agua artifiçial, anssi commo es aguardiente o rosada, ca en tal agua non se podria fazer el baptismo.</p>
+                    <p>La forma deste sacramento son estas palabras: Ego te baptizo in nomine Patris et Filii et Spiritus Sancti.</p>
+                    <p>Amen, [4] que quieren dezir: Yo te baptizo en el nonbre del Padre e del Fijo e del Spiritu Sancto [5].</p>
+                    <p>El que puede dar este sacramento e ha de baptizar es el saçerdote e cura propio, a quien pertenesçe baptizar de su offiçio.</p>
+                    <p>Pero si se temiesse peligro de muerte, puede baptizar el diacono o subdiacono o otro clerigo o lego o muger, e aun el judio o moro o hereje, aviendo entinçion de fazer lo que faze la sancta Yglesia, e aun el padre o la madre, non podiendo aver otro que baptizasse; e en este caso non avria entre ellos conpadradgo.</p>
+                    <p>E si fuere dubda de alguno si es baptizado o non, develo baptizar diziendo estas palabras: Si es baptizatus, ego non te baptizo; si non es baptizatus, ego te baptizo in nomine Patris et Filii et Spiritus Sancti.</p>
+                    <p>Amen [6], que quiere dezir: Si eres baptizado, yo non te baptizo; si non eres baptizado, yo te baptizo en el nonbre del Padre e del Fijo e del Spiritu Sancto [7].</p>
+                    <p>E este sacramento non se deve resçebir mas de una vez.</p>
+                    <p>La obra que faze este sacramento e la pro que nos viene del es que se perdona en el todo pecado original, mortal e venial, e toda culpa e pena.</p>
+                    <p>El segundo sacramento es confirmaçion.</p>
+                    <p>E deve ser resçebido una vez e non mas.</p>
+                    <p>La materia deste sacramento es crisma, fecha de olio e de balsamo, bendicho por el arçobispo o obispo.</p>
+                    <p>La forma deste sacramento es esta: Signo te signo crucis, confirmo te chrismate salutis, in nomine Patris et Filii et Spiritus Sancti.</p>
+                    <p>Amen [8].</p>
+                    <p>El que da este sacramento e puede confirmar es el arçobispo o obispo.</p>
+                    <p>La obra deste sacramento es que se da en el la graçia del Spiritu Sancto, por que todo christiano sea esforçado para confessar el nonbre de Jesuchristo e la fe catholica, e la non negar por flaqueza nin por miedo.</p>
+                    <p>El terçero sacramento es el Cuerpo e la Sangre de Jesuchristo.</p>
+                    <p>E todo christiano lo deve resçebir dignamente a lo menos una vez en el año, por la Pascua de Resurrection.</p>
+                    <p>La materia deste sacramento es pan de trigo e vino de vid, con un poco de agua, e non se puede fazer este sacramento de otro pan nin de otro vino.</p>
+                    <p>La forma deste sacramento, en que se torna el pan su Cuerpo de Jesuchristo, son las palabras que el dixo, que son estas: Hoc est enim Corpus meum [9], e aquellas en que se torna el vino en Sangre de Jesuchristo son estas: Hic est enim calix Sanguinis mei, noui et eterni testamenti, mysterium fidei, qui pro uobis et pro multis effundetur in remissionem peccatorum [10].</p>
+                    <p>El que puede consagrar el Cuerpo e la Sangre de Jesuchristo es el clerigo preste, ca otro non lo puede consagrar.</p>
+                    <p>Las obras deste sacramento son dos: la primera es que el pan se torna en Cuerpo verdadero e el vino en Sangre verdadera de Jesuchristo; la segunda obra es que el ome que lo resçibe dignamente que se ayunta con Jesuchristo.</p>
+                    <p>El quarto sacramento es penitençia, e deve ser resçebida del propio saçerdote a lo menos una vez en el año antes de la Pascua de Resurrection.</p>
+                    <p>La materia deste sacramento son las tres partes de la penitençia, que son estas: la primera es contriçion del coraçon, por la qual deve el ome dolerse del pecado que fizo e proponer de non pecar adelante; la segunda es confession de la boca, por la qual deve el ome confessar todos sus pecados a su propio saçerdote enteramente; la terçera es enmienda que deve fazer, segund el mandamiento de su confessor.</p>
+                    <p>La forma es esta: Ego te absoluo a peccatis tuis [11], que quiere dezir: Yo te abssuelvo de tus pecados [12].</p>
+                    <p>El que puede dar este sacramento es el saçerdote propio, a quien es encomendada la cura.</p>
+                    <p>La obra deste sacramento es que libra al ome de las penas del infierno a que era obligado por el pecado que confesso, de que es abssuelto.</p>
+                    <p>El quinto sacramento es matrimonio, e deve ser fecho publicamente en faz de la Yglesia entre el marido e la muger.</p>
+                    <p>La materia deste sacramento es ome e muger que se pueden ayuntar en uno carnalmente.</p>
+                    <p>La forma son las palabras de presente, anssi commo si dize la muger: Yo te tomo por mi marido [13], e el varon: Yo te tomo por mi muger [14] o otras semejables o algunas señales por que se demuestre que consiente el uno en el otro para que sea entre ellos el casamiento.</p>
+                    <p>El que ha de dar este sacramento es el saçerdote propio.</p>
+                    <p>Las obras deste sacramento son tres: la primera es fe que se deve guardar entre el marido e la muger, la segunda es generaçion, la terçera es sacramento, que muestra el ayuntamiento que ha el anima sancta con Dios e el ayuntamiento que ha Jesuchristo con la Yglesia.</p>
+                    <p>El sexto sacramento es orden, que deven dar los arçobispos e obispos a aquellos que quieren ser clerigos.</p>
+                    <p>E son siete ordenes: preste, diacono e subdiacono; e quatro grados, que son: acolito, exorçista, lector e hostiario.</p>
+                    <p>La materia deste sacramento es aquello con que se da la orden, anssi commo el caliçe con que se da la orden de preste.</p>
+                    <p>La forma son las palabras que dize el obispo quando da la orden, anssi commo quando da la orden de preste dize estas palabras: Accipe potestatem offerendi sacrificium in Ecclesia pro uiuis et mortuis [15].</p>
+                    <p>El que puede dar este sacramento es el arçobispo o obispo que lo da.</p>
+                    <p>La obra del es acresçentamiento de graç¡a que da Dios al ome para ser mas ydoneo para rogar a Dios.</p>
+                    <p>E este sacramento non se deve resçebir mas de una vez.</p>
+                    <p>El septimo sacramento es postrema unçion.</p>
+                    <p>La materia deste sacramento es olio bendicho por el arçobispo o obispo.</p>
+                    <p>Este sacramento non se deve dar, salvo al enfermo quando han del mas esperança de muerte que de vida.</p>
+                    <p>E devenlo ungir en los çinco sesos, conviene a saber: en el ver, oyr, tañer, oler e gustar.</p>
+                    <p>La forma deste sacramento son estas palabras: Per istam sanctam unctionem et suam piissimam misericordiam indulgeat tibi Deus quidquid deliquisti per uisum, auditum, odoratum, gustum et tactum [16].</p>
+                    <p>La obra deste sacramento es salud del alma, e, a las vezes, del cuerpo, e perdon de los pecados veniales.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>(9) Siguense los diez mandamientos de la Ley.</p>
+                    <p>Otrossi, devemos saber que los mandamientos de la ley de Dios son diez.</p>
+                    <p>E destos diez, los tres de la primera tabla pertenesçen al amor de Dios e los otros siete pertenesçen al amor que deve aver todo ome a su christiano.</p>
+                    <p>El primer mandamiento es que el ome aya e honre un solo Dios e non munchos.</p>
+                    <p>Contra este mandamiento fazen todos los encantadores e adevinos e sorteros e agoreros e los que paran mientes en los sueños.</p>
+                    <p>El segundo mandamiento es: Non juraras en vano.</p>
+                    <p>Contra esto fazen los que juran falsedad o sin menester.</p>
+                    <p>El terçero mandamiento es que el ome guarde e honre las fiestas e los domingos e las otras fiestas que estan estableçidas solemnemente por la Yglesia para que sean guardadas.</p>
+                    <p>Contra este fazen los que labran e trabajan en las fiestas en sus menesteres o en tierras o en possessiones o fazen mercado, o los que non oyen missa, non aviendo escusaçion legitima, a lo menos el dia del domingo.</p>
+                    <p>El quarto mandamiento es que devemos honrar a nuestros padres e nuestras madres carnales, e a nuestros padres e a nuestras madres spirituales, anssi commo a nuestros padrinos e a nuestras madrinas e aquellos que han cura de las nuestras almas, que son nuestros padres spirituales.</p>
+                    <p>Contra este mandamiento fazen los que los maldizen e denuestan, e non les dan lo que han menester, nin les acorren de lo suyo quando estan menesterosos.</p>
+                    <p>El quinto mandamiento es que non deve ome matar alguno.</p>
+                    <p>Contra este mandamiento fazen los que matan alguno de fecho, o son en consejo o dan ayuda para que lo maten, o que procuran que muevan las mugeres.</p>
+                    <p>El sexto mandamiento es que el ome non faga fornicaçion.</p>
+                    <p>Contra este faze qualquier que ha allegamiento deshonesto a otra muger, sinon a la suya con que es casado, o la muger a otro ome, salvo a su marido.</p>
+                    <p>El septimo mandamiento es: Non furtaras.</p>
+                    <p>Contra este fazen todos los ladrones que furtan, o los usureros e los robadores, e todos los que venden e conpran engañosamente, e los que retienen las primiçias e los diezmos e las debdas que deven, contra la voluntad de sus dueños.</p>
+                    <p>El otavo mandamiento es: Non diras falso testimonio.</p>
+                    <p>Contra este mandamiento fazen todos los que infaman a otros, e non dan testimonio de verdad quando es menester, o dizen la mentira.</p>
+                    <p>El noveno mandamiento es: Non cobdiçiaras la muger agena.</p>
+                    <p>Contra este mandamiento fazen los que catan las mugeres agenas e las cobdiçian, e las que se afeytan e se amuestran por que las cobdiçien los omes.</p>
+                    <p>El dezeno mandamiento es: Non cobdiçiaras las cosas de tu vezino.</p>
+                    <p>Contra este mandamiento fazen los que engañan o trahen a otros con malas artes por que les den o vendan las sus cosas.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>(10) Siguense las siete virtudes, cardinales e tres theologales.</p>
+                    <p>Las virtudes son siete.</p>
+                    <p>Destas siete, quatro son que pertenesçen a buenas costunbres, e dizenlas cardinales a cardine, que quiere dezir quiçial, porque anssi commo la puerta se buelve en el quiçial, anssi la vida del ome bien ordenado se deve bolver en estas quatro virtudes, que son estas:</p>
+                    <p>La primera es prudençia, que quiere dezir sabiduria.</p>
+                    <p>A esta pertenesçe escoger derechamente en los fechos lo que se deve fazer.</p>
+                    <p>La segunda es justiçia, a la qual pertenesçe dar a cada uno lo suyo.</p>
+                    <p>La terçera es fortaleza, a la qual pertenesçe fazer al ome estar firmemente en el bien e en las cosas que son de razon, e perseverar en ellas, e non las dexar por ningund miedo.</p>
+                    <p>La quarta es tenperançia.</p>
+                    <p>A esta pertenesçe atenprar las cobdiçias desordenadas, señaladamente en los movimientos desordenados de la carne e de la garganta.</p>
+                    <p>Las otras tres virtudes son theologicas e divinales, e dizenlas anssi porque derechamente ordenan el ome en Dios, que son estas: La primera es fe, por la qual cree el ome en Dios.</p>
+                    <p>La segunda es esperança, por la qual espera el ome en Dios anssi commo en su bien, por que atiende aver del perdon de todos sus pecados e la gloria de parayso.</p>
+                    <p>La terçera es caridad, por la qual ama el ome a Dios sobre todas cosas, e a su christiano commo a si mesmo por lo de Dios.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>(11) De los siete pecados mortales, e de las virtudes a ellos contrarias.</p>
+                    <p>Otrossi, es a saber que los pecados mortales son siete: El primero es sobervia, el segundo es avariçia, el terçero es luxuria, el quarto es saña, el quinto es garganteria, el sexto es inbidia, el septimo es açidia, que quiere dezir pereza o negligençia de fazer el bien que es tenudo.</p>
+                    <p>E contra estos siete pecados mortales son siete virtudes contrarias: La primera es homildad, que es contra sobervia.</p>
+                    <p>La segunda es largueza, que es contra avariçia.</p>
+                    <p>La terçera es castidad, que es contra la luxuria.</p>
+                    <p>La quarta es mansedunbre, que es contra la saña.</p>
+                    <p>La quinta es mesura e tenperamiento, que es contra la garganteria.</p>
+                    <p>La sexta es benivolençia, que quiere dezir bienquerençia e buena voluntad, que es contra la inbidia.</p>
+                    <p>La septima es diligençia, que es contra la açidia.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>(12) Siguense las catorze obras de misericordia.</p>
+                    <p>Otrossi, devemos saber que las obras de misericordia son catorze.</p>
+                    <p>E destas, las siete son corporales e las siete spirituales.</p>
+                    <p>Las siete corporales son estas:</p>
+                    <p>La primera es dar de comer al fanbriento.</p>
+                    <p>La segunda es dar de bever al sediento.</p>
+                    <p>La terçera es dar hospedad al que ha menester posada.</p>
+                    <p>La quarta es dar de vestir al desnudo.</p>
+                    <p>La quinta es visitar los enfermos.</p>
+                    <p>La sexta es redemir los cativos.</p>
+                    <p>La septima es soterrar los muertos.</p>
+                    <p>Estas siete obras de misericordia se contienen en este verso: Pasco, poto, colligo, tego, uisito, libero, condo [17].</p>
+                    <p>Las otras siete obras spirituales son estas:</p>
+                    <p>La primera es mostrar al que non sabe.</p>
+                    <p>La segunda es consejar al que dubda e ha menester consejo.</p>
+                    <p>La terçera es castigar al que peco e al errado.</p>
+                    <p>La quarta es perdonar al que erro contra el.</p>
+                    <p>La quinta es conortar al triste.</p>
+                    <p>La sexta es sofrir al enojoso e al doliente e al sañudo.</p>
+                    <p>La septima es rogar a Dios por que todos los omes ayan bien e sean acresçentados en ello, e que sean partidos del mal.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>(13) Prima die mensis Madii annis singulis synodus celebretur [18].</p>
+                    <p>Statuimus, sacra synodo approbante, quod in ciuitate Conchensi, prima die mensis Madii annis singulis synodus celebretur, nisi diem predictam et locum mutauerimus.</p>
+                    <p>Ad eamdem synodum celebrandam uolentes quod decanus et capitulum nostre ecclesie Conchensis per suos procuratores, et omnes archipresbiteri et uicarii ciuitatis et diocesis Conchensis, et de quolibet archipresbiteratu et uicaria unus uel duo clerici de statu suorum archipresbiteratuum et uicariarum informati uenire, cum superpelliciis, teneantur, etiam non uocati.</p>
+                    <p>Et quod idem clerici habeant procuratoria sufficientia a clericis suorum archipresbiteratuum et uicariarum ad tractandum, ordinandum et concedendum et ratum habendum omnia et singula que in synodo tractanda et concedenda fuerint, seu etiam ordinanda.</p>
+                    <p>Non uenientes uero clerici ad synodum expensas uenientibus contribuere teneantur.</p>
+                    <p>Et quod omnes archipresbiteri et uicarii nostre diocesis nomina omnium clericorum obtinentium beneficia in suis archipresbiteratibus et uicariis, et si qua uacant et per quos uacauerint et a quo tempore, et qui sunt absentes ab ecclesiis et a quo tempore, nobis seu illi uel illis qui synodum nostro nomine tenuerint, in scriptis deferre ad quamlibet synodum teneantur.</p>
+                    <p>Quod si archipresbiteri et uicarii et clerici supra dicti in premissis uel aliquo premissorum defecerint nec ea impleuerint cum effectu, penam quinquaginta morabitinorum, pauperibus erogandam, ipso facto se nouerint incurrisse.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>(14) Bona beneficii cum decesserit beneficiatus [19].</p>
+                    <p>Quoniam plerumque contingit quod, clerico beneficiato decedente, super fructibus ecclesiastici beneficii inter successorem et alium seu alios ad quos bona defuncti de iure pertinent questonis materia suborta, uariis et diuersis consuetudinibus allegatis inuicem se uexant laboribus et expensis, et successor propter facultatum ipsius ecclesie insufficientia cogitur mendicare.</p>
+                    <p>Statuimus ut quandocumque clericus ipse decesserit, pro rata temporis quo uixerit fructus sui beneficii percipiat, residuum uero futuro successori applicetur, quauis contraria consuetudine non obstante.</p>
+                    <p>Annum quoque in kalendis Ianuarii uolumus inchoari, declarantes quod diuisio fructuum huiusmodi fiat deductis inde uniuersis grauaminibus et exactionibus totius anni de aceruo seu summa fructuum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>(15) Ne clerici alienigeni admittantur ad celebrandum [20].</p>
+                    <p>Experientia nouimus instruente plures clericos alienigenas, alios non promotos, alios criminosos, alios irregulares, alios apostatas, alios excommunicatos, suspensos uel interdictos in nostra diocesi celebrare.</p>
+                    <p>Volentes igitur animarum, ut tenemur, periculis obuiare, statuimus ut quicumque clericum secularem alienigenam, preterquam familiarem alicuius notabilis persone peregrinantis seu transeuntis, absque nostra licentia ad celebrandum publice admiserit uel ei ornamenta ecclesie ministrauerit, centum morabitinorum penam, nobis applicandam, incurrat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>(16) De festiuitatibus obseruandis.</p>
+                    <p>Cum otia fomentum pariant uitiorum, festiuitatum multitudinem duximus temperandam, cum in illis, eo quod homines non laborant, pauperes aggrauantur, et otiosi ac deliciosi ad illicita prouocantur.</p>
+                    <p>Quapropter festiuitates necessario colendas subnotauimus, quas qui contempserit colere, per suum presbiterum compellatur.</p>
+                    <p>Festum scilicet:</p>
+                    <p>Circumcisionis Domini</p>
+                    <p>Epiphanie</p>
+                    <p>Sancti Vincentii</p>
+                    <p>Illephonsi</p>
+                    <p>Purificationis beate Marie</p>
+                    <p>Cathedre sancti Petri</p>
+                    <p>Sancti Mathie apostoli</p>
+                    <p>Annuntiationis beate Marie</p>
+                    <p>Resurrectionis Domini, cum feria secunda et tertia</p>
+                    <p>Sancti Marchi euangeliste</p>
+                    <p>Apostolorum Philipi et Iacobi</p>
+                    <p>Inuentionis sancte Crucis</p>
+                    <p>Ascensionis Domini</p>
+                    <p>Pentecostes, cum duobus	diebus sequentibus</p>
+                    <p>Corporis Domini</p>
+                    <p>Barnabe apostoli</p>
+                    <p>Natiuitatis Johannis Baptiste</p>
+                    <p>Apostolorum Petri et Pauli</p>
+                    <p>Triumphi sancte Crucis</p>
+                    <p>Marie Magdalene</p>
+                    <p>Sancti Iacobi apostoli</p>
+                    <p>Sancti Petri uincula</p>
+                    <p>Transfigurationis Domini</p>
+                    <p>Beati Laurentii</p>
+                    <p>Assumptionis beate Marie</p>
+                    <p>Beati Bartholomei apostoli</p>
+                    <p>Natiuitatis beate Marie uirginis</p>
+                    <p>Sancti Mathei apostoli</p>
+                    <p>Dedicationis beati Michaelis</p>
+                    <p>Sancti Luche euangeliste</p>
+                    <p>Apostolorum Simonis et Iude</p>
+                    <p>Sollemnitatis Omnium Sanctorum</p>
+                    <p>Sancti Martini</p>
+                    <p>Sancti Eugenii</p>
+                    <p>Sancte Catharine</p>
+                    <p>Sancti Andree apostoli</p>
+                    <p>Sancti Nicolai</p>
+                    <p>Sancte Lucie</p>
+                    <p>Sancti Thome apostoli</p>
+                    <p>Expectationis beate Marie</p>
+                    <p>Natalis Domini</p>
+                    <p>Sancti Stephani</p>
+                    <p>Sancti Johannis apostoli et euangeliste</p>
+                    <p>Sanctorum Innocentium</p>
+                    <p>Et omnes dies dominicos.</p>
+                    <p>Et quelibet parochia obseruet sollemniter festum [21] illius sancti in cuius honore ipsius maior ecclesia est constructa.</p>
+                    <p>Officium uero predictarum festiuitatum et aliarum que sunt nouem siue trium lectioum prout hactenus fieri consueuit in ecclesiis a clericis obseruetur, et ad audiendum officia laici nihilominus moneantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 17</head>
+                    <p>(17) Falsi testes et qui ad falsum testimonium perhibendum alios inducunt [22].</p>
+                    <p>Falsos testes et quoscumque alios ad perhibendum falsum testimonium inducentes eosdem uolumus ipsos uiuos ab ingressu ecclesie coerceri, ac eosdem postea mortuos ecclesiastica carere decernimus sepultura, mandantes capellano maiori ecclesie Conchensis uel eius uices gerenti, et clericis curatis dicte ciuitatis et diocesis seu eorum loca tenentibus, quod constitutionem huiusmodi in festiuitatibus Natalis, Resurrectionis Domini, Assumptionis beate Marie ac Omnium Sanctorum in lingua uulgari suis populis publicent in ecclesiis dum ibidem populi conueniunt ad diuina.</p>
+                    <p>Alioquin non seruantes nec publicantes huiusmodi constitutionem, pro qualibet die et uice de predictis penam quinquaginta morabitinorum usualis monete, piis usibus applicandam, eo ipso se nouerint incurrisse.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18</head>
+                    <p>(18) Clerici non nutriant comam nec barbam [23].</p>
+                    <p>Licet generaliter tradatur ne clericus comam nutriat nec barbam, specialiter tamen statuimus ut quisque presbiter quolibet saltem mense, ne sumendo Christi Sanguinem aliquid indecens contingere possit, sub pena decem morabitinis usualis monete, piis usibus applicanda, barbam, comam et tonsuram faciat sibi radi, quodque crines non protendantur notabiliter ultra aures.</p>
+                </div>
+                <div>
+                    <head>Capitulum 19</head>
+                    <p>(19) Ludus alearum clericis interdicitur [24].</p>
+                    <p>Cum alearum ludus, quia inde multa incommoda et peccata proueniunt, sit a iure maxime clericis interdictus, statuimus ut quicumque clericus, cuiuscumque status uel conditionis existat, qui ad taxillos per se uel alium seu alios quomodocumque, nisi recreationis causa semel in die naturali usque ad unum dumtaxat morabitinum luserit, penam centum uiginti morabitinis usualis monete, camere nostre applicandam, incurrat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 20</head>
+                    <p>(20) De clericis qui in excommunicatione indurati manent [25].</p>
+                    <p>Quia frequenter aliqui clerici, qui in obedientie exhibitione et obseruatione mandatorum Dei et Ecclesie sue sancte esse debuerant speculum aliorum, manendo excommunicati longo tempore animo indurato occasionem laicis tribuunt similia faciendi.</p>
+                    <p>Idcirco statuimus quod quicumque clericus excommunicatus ab homine contumaciter manserit in excommunicatione maiori per mensem, pro qualibet die qua post lapsura mensis predicti, usque ad duos menses sequentes, perdurauerit in eadem, decem morabitinos, applicandos operibus pietatis, soluere teneatur.</p>
+                    <p>Quod si ultra dictos duos ultimos menses animo indurato, quod absit, excommunicationem contempserit prelibatam, ex tunc, elapsis tribus mensibus supra dictis, captus a nobis uel ab aliis, quibus hoc specialiter duxerimus committendum, carcerali custodie deputetur, in quo, ne grex dominicus eiusdem participationis contagine inficiatur, tamdiu detineatur ibidem quousque de sua contumacia resipiscens et ad unitatem sancte matris Ecclesie rediens absolutionis beneficium meruerit obtinere.</p>
+                </div>
+                <div>
+                    <head>Capitulum 21</head>
+                    <p>(21) Beneficiati residere tenentur in beneficiis [26].</p>
+                    <p>Quia non licet curatis seu rectoribus et beneficiatis ecclesiarum absque suorum licentia prelatorum ab ipsis ecclesiis et beneficiis curatis et seruitoriis se [27] absentare, ideoque statuimus ut nullus beneficium curatum uel seruitorium in ciuitate uel diocesi Conchensi obtinens, de ecclesiis eisdem seu beneficiis predictis sine licentia diocesani de cetero se absentet, et quod tunc dimittat ibi uicarium, qui de licentia episcopi ibidem seruiat loco eius.</p>
+                    <p>Si quis autem deinceps se duxerit aliter absentandum, pro rata temporis quo sic absens fuerit nihil percipiat de beneficiis ante dictis, sed episcopus tunc deputet ibidem uicarium seu seruitorem qui de ipsius episcopi licentia et auctoritate fructus uel eorum partem, prout prelato uidebitur, percipiat ante dictos.</p>
+                    <p>Hanc autem constitutionem ad beneficia prestimonialia nolumus extendi, cum de consuetudine residentiam non requirant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 22</head>
+                    <p>(22) Nullus celebret missam nuptialem pro alieno parochiano [28].</p>
+                    <p>Quicumque alieno parochiano, absque littera testimoniali proprii sacerdotis uel nostra, missam celebrauerit nuptialem, trecentos morabitinos nobis soluere teneatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 23</head>
+                    <p>(23) Ne decime retineantur [29].</p>
+                    <p>Plerumque contingit quod clericus, qui nulli obesse debet, sed omnibus uelle prodesse, parochianum ad uitam spiritualem suscipiens, ad mortem ducit eternam, inducendo ipsum uel inordinato eius proposito annuendo ut decimam uel eius partem sibi uel alteri retineat, quam soluere integraliter ex precepto tenetur.</p>
+                    <p>Volentes igitur ius nostum et aliorum, ac talium animas presentis saltem pene formidine preseruare, sancimus ut quicumque de cetero talia commisserit beneficio sit priuatus.</p>
+                    <p>Parochianus uero ad eamdem soluendam integraliter excommunicationis sententia percellatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 24</head>
+                    <p>(24) De Horis canonicis deuote recitandis [30].</p>
+                    <p>Constitutus in sacris uel beneficiatus debet studiose, indeclinabiliter et deuote Horas canonicas recitare, alioquin beneficiatus beneficio, non beneficiatus officio, suspendatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 25</head>
+                    <p>(25) De celebratione missarum [31].</p>
+                    <p>Quicumque missam antequam dixerit Matutinum celebrauerit, ipso facto fructus beneficii per mensem perdat, consociis uel, ubi desint, fabrice applicandos.</p>
+                    <p>Quamuis iuris rigor habeat ne ullus presbiterorum, nisi presentibus duobus sibique respondentibus, missarum sollemnia celebrare presumat, scripture tamen equitati adherentes, uolumus ut saltem cum uno ministro, clericali tamen ueste induto et clerico, nisi talis haberi non [32] possit commode, eamdem debeat celebrare, nedum autem dum eadem celebrantur misteria, quinimo et dum alia, clericos, ubi superpelliciorum habetur copia, in eodem ueste assistere ordinamus, mulierem uel filium celebrantis ibidem assistere prohibentes.</p>
+                </div>
+                <div>
+                    <head>Capitulum 26</head>
+                    <p>(26) Ne aliquis absque libro et sine lumine missam celebrare presumat [33].</p>
+                    <p>Cum hominis memoriam labilem experientia manifestet, sancimus ne aliquis absque libro uel carta misse canonem continente et sine lumine celebrare presumat.</p>
+                    <p>Contrarium autem faciens penam triginta morabitinorum, illius altaris luminaribus applicandam, ipso facto incurrat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 27</head>
+                    <p>(27) De Eucharistia infirmis deferenda [34].</p>
+                    <p>Curatus paratam habens semper Eucharistiam pro infirmis, eamque munde, caute ac honorifice custodiens, de octaua sumendo renouet in octauam.</p>
+                    <p>Nulli etiam in peccato mortali publice perseueranti ministret, occulto autem peccatori publice non deneget, ad instar Christi bucellam Iude proditori tradens.</p>
+                    <p>Cum autem ad infirmum illam portauerit, in decenti habito, super posito mundo uelamine, ferat et referat manifeste ac honorifice ante pectus cum omni reuerentia et timore, semper lumine precedente et sono modice campanelle, ut nedum apud uidentes sed etiam apud audientes fides et deuotio augeatur.</p>
+                    <p>Frequenter quoque debet plebem docere ut cum in altari eleuatur uel modo predicto fertur se reuerenter inclinent, humiliter genu flectentes.</p>
+                </div>
+                <div>
+                    <head>Capitulum 28</head>
+                    <p>(28) Qui bis celebrat in die, debet utrobique Corpus et Sanguinem Iesu Christi conficere et sumere [35].</p>
+                    <p>Quicumque bis in die habuerit celebrare, debet utrobique conficere Corpus et Sanguinem Iesu Christi, neque aliter, ut factum nouimus, simulare presumat, cum non soli Deo, cui non ueretur illudere, sed populo, quem decipit, se astringat.</p>
+                    <p>Quamquam autem etiam in prima et in secunda immolatione teneatur communicare, uinum tamen perfusionis prime non sumat, ut ad secundam ieiunus accedat, sed conferre poterit assistenti.</p>
+                </div>
+                <div>
+                    <head>Capitulum 29</head>
+                    <p>(29) Quid agendum si aliquid de Sanguine in terram uel super corporalia distillauerit [36].</p>
+                    <p>Si per negligentiam aliquid de Sanguine in terram distillauerit, lingua lambatur; si in tabula, radatur; si non fuerit tabula, ne locus conculcetur, corradatur et igne comburatur, cinis autem intra altare abscondatur.</p>
+                    <p>Si supra altare stillauerit calix, absorbeat minister stillam; si super corporalia uel linteum altaris, unum uel plura corporalia uel lintea que tetigerit stilla tribus uicibus minister abluat, calice subter posito, et aqua ablutionis sumatur et iuxta altare recondatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 30</head>
+                    <p>(30) De solutione luctuose [37].</p>
+                    <p>Et quia de approbata et antiqua consuetudine et hactenus pacifice obseruata, editis super ea constitutionibus, a [38] quouis archipresbiterorum, uicariorum et aliorum clericorum nostre diocesis obeunte, unam pretiosiorem rem ex hiis que habeat, utpote sarracenum uel sarracenam, equum, rocinum, mulum seu mulam, qui seu que sellam portauerit, uas seu ciphum argenteum, taçeam argenteam, pelues argenteos uel quoduis aliud iocale uel aliam rem, quod siue quam nos duxerimus eligendam pro luctuosa habere debemus, cuius occasione seu pretextu aliqui a nutriendis animalibus et habendis iocalibus huiusmodi retrahuntur.</p>
+                    <p>Ideo, sancta synodo approbante, alias supplicante, instante, uolente, consentiente et expresse approbante, uolentes eos prosequi fauore gratioso, statuimus et ordinamus quod omnes archipresbiteri, uicarii ac omnes clerici dicte ciuitatis et diocesis Conchensis obtinentes beneficia, quilibet sex morabitinos usualis monete uice et loco et in compensatione prefate luctuose, quam ex nunc ob id eis remittimus, nobis et successoribus nostris episcopis Conchensibus exinde in perpetuum in festo sancti Andree mensis Nouembris, sub pena dupli, annis singulis soluere teneantur, tradendos et soluendos maiordomis nostris in singulis arhipresbiteratibus et uicariis per nos specialiter deputatis.</p>
+                    <p>Verum quia nobis apertissimis documentis facta extitit plena fides, adeo quod hominum memoria in contrarium non existit, quod decanus, persone, canonici et ceteri in nostra Conchensi ecclesia instituti luctuosam, quocumque genere sumatur seu nominetur, predecessoribus nostris tacite nec expresse, particulariter nec in communi soluerint, habita deliberatione in hac nostra synodo decernimus, statuimus et ordinamus eos nec eorum successores ad soluendam dictam luctuosam nobis nec successoribus nostris minime teneri, primo declaramus eosdem penitus et in totum inde fore liberos et immunes.</p>
+                </div>
+                <div>
+                    <head>Capitulum 31</head>
+                    <p>(31) Qui missam habet celebrare potest cuicumque presbitero peccata sua confiteri [39].</p>
+                    <p>Vt rectores et curati aliique presbiteri non curati ad immolandum Deo in celebratione missarum deuotius preparentur, presenti constitutione eis, non absque rationabili causa, concedimus ut tunc cum habuerint missarum sollemnia celebrare possint cuicumque alteri presbitero peccata sua casibus nostris dumtaxat exceptis [40] de cetero confiteri, eidemque presbitero sic electo damus in casu premisso eumdem de peccatis suis potestatem et licentiam absoluendi.</p>
+                </div>
+                <div>
+                    <head>Capitulum 32</head>
+                    <p>(32) Qui de periurii crimine indiscrete absoluunt [41].</p>
+                    <p>Ad aures nostras peruenit quod nonnulli presbiteri, tam religiosi quam alii, proprie salutis immemores, non absque graui periculo animarum et lessione proximi et fraudatione iurium ecclesiasticorum, aliquem de facili absoluunt in foro anime de periurii crimine indiscrete.</p>
+                    <p>Ideo in casu huiusmodi nobis reseruato de iure, absolutionem talem, preterquam in mortis articulo et tunc satisfactione iniuncta, sine nostra licentia speciali prestanda deinceps decernimus non ualere.</p>
+                    <p>Et absoluens in tali casu prohibito, preter satisfactionem de qua tenetur leso, penam trecentorum morabitinorum usualis monete, in piis operibus conuertendam, se ipsum ipso facto nouerit incurrisse.</p>
+                </div>
+                <div>
+                    <head>Capitulum 33</head>
+                    <p>(33) Presbiter ob cuius culpam quemquam sine sacramentis mori contigerit [42].</p>
+                    <p>Presbiter ob cuius culpam quemquam sine baptismo, penitentia et communione mori contigerit, beneficio priuetur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 34</head>
+                    <p>(34) Parochiano non confesso Corpus Christi non</p>
+                    <p>ministretur [43].</p>
+                    <p>Parochiano, nisi constet esse confessum, Corpus Christi presbiter non ministret.</p>
+                </div>
+                <div>
+                    <head>Capitulum 35</head>
+                    <p>(35) De decimis soluendis.</p>
+                    <p>Religiosi et alii quicumque decimas uel earum partem non soluentes, absque satisfactione parochiali ecclesie cui debentur facienda, indiscrete absoluunt, ex quo detrimentum ecclesiis, cum sua iura perdant, animabusque periculum, cum absque restitutione non liberentur, prouenire noscuntur, propter quod nobis hunc reseruantes casum decernimus nullum absque nostra auctoritate speciali posse quemquam in casu absoluere supra dicto.</p>
+                </div>
+                <div>
+                    <head>Capitulum 36</head>
+                    <p>(36) Casus episcopo reseruati [44].</p>
+                    <p>Vt ad resistendum peccato eo cautiores subditi nostri reddantur quod illud arctabuntur uerecundius confiteri, casus nobis decreuimus reseruare subscriptos:</p>
+                    <p>Incestum, tam consanguinearum, affinium spiritualium, carnalium quam religiosarum.</p>
+                    <p>Coitum cum paganis uel in ecclesiis, uel uirginis uiolationem.</p>
+                    <p>Adulterium.</p>
+                    <p>Vitium contra naturam quodcumque.</p>
+                    <p>Percusionem parentum.</p>
+                    <p>Procurationem aborsus uel sterilitatis in se seu in alio.</p>
+                    <p>Homicidium uoluntarium facto, uerbo, consilio aut assensu.</p>
+                    <p>Maleficium, sortilegium, diuinationem aut inuocationem demonum pro quacumque re.</p>
+                    <p>Sacrilegium.</p>
+                    <p>Abusum chrismatis, Eucharistie uel alterius rei sacre.</p>
+                    <p>Periurium.</p>
+                    <p>Votum.</p>
+                    <p>Promotionem per saltum uel ab alio, sine licentia nostra factam.</p>
+                    <p>Dispensationem simonie.</p>
+                    <p>Absolutionem canonis, uel nostre aut predecessorum nostrorum constitutionis, nobis permissas.</p>
+                    <p>Decimarum aut primiciarum restitutionem.</p>
+                    <p>Et generaliter ubicumque difficultas uel ambiguitas inciderit propter nouitatem casus uel imperitiam sacerdotis, seu ubi sit sollemnis penitentia iniungenda.</p>
+                    <p>Porro ubi uerbaliter aut litteratorie alicui casus commisserimus memoratos, absolutionem tamen sacrilegii ex quo pecuniaria pena debetur, periurii ex quo aliquis leditur, aut restitutionis decimarum uel primiciarum, cum ex predictis euidens detrimentum nobis, ecclesiis et aliis quos tangit peruenire noscatur, nequaquam alicui committere intendimus, nisi hoc expresserimus nominatim.</p>
+                </div>
+                <div>
+                    <head>Capitulum 37</head>
+                    <p>(37) De sepulturis [45].</p>
+                    <p>Ceterum, uolentes nos consuetudinibus antiquis et constitutionibus predecessorum nostrorum inconcusse seruatis, prout possumus, conformare, statuimus et ordinamus quod clerici, sicut a iure sibi permittitur, in ecclesiis in quibus beneficia obtinent seruitoria sine onere aliquo, nisi ipsi aliquid pro dote ecclesie spontanee uellent dare seu legare, possint libere sepeliri, si uero in choro ecclesie uel coram aliquo altari sepulturam elegerint, sexaginta morabitinos usualis monete uel mediam marcham argenti puri et fini pro ornamentis ipsius ecclesie soluere teneantur.</p>
+                    <p>Preterea, si aliqui laici in ecclesia sepeliri affectauerint et sepulturas patrimoniales inibi habuerint et id publicum seu notorium fuerit, quod si aliquid, quod sue conscientie et clericorum arbitrio relinquitur, obtulerint, sepeliantur ibidem.</p>
+                    <p>Si tamen sepulturas huiusmodi non habuerint, unam marcham argenti uel centum uiginti morabitinos, quorum medietas cancellarie nostre et reliqua pars ecclesie pro ipsius dote applicetur, et ipsi uel eorum heredes id soluere teneantur.</p>
+                    <p>Et quod in locis ubi clerici non percipiunt octo morabitinos pro sepulcro seu tumulo, quod eosdem de dicta parte siue dote ecclesie possint licite retinere.</p>
+                    <p>Si forte isti tales in choro ecclesie uel coram aliquo altari sepulturam elegerint, duas marchas argenti uel ducentos et quadraginta morabitinos, quorum medietas nostre cancellerie et quarta pars pro ornamentis seu dote ecclesie et reliqua quarta pars clericis seruitoribus, exsoluatur.</p>
+                    <p>Et quod omnes sepulture sint plane, adeo quod pauimentum seu solum ecclesie non excedant.</p>
+                    <p>Et quicumque aliter in ecclesiis aliquos sepeliuerint uel sepulturas de nouo aperuerint uel fecerint, quod clerici id consentientes uel interessentes ibidem ipso facto in excommunicationis sententiam incidant et nobis penam sacrilegii quilibet eorum soluere teneantur.</p>
+                    <p>Et si forte laici aliquem uel aliquos contra uoluntatem et assensum clericorum et formam et modum premissos sepelierint, ipsi et dantes auxilium, consilium uel fauorem in dictis penis incidant ipso facto.</p>
+                </div>
+                <div>
+                    <head>Capitulum 38</head>
+                    <p>(38) Publicatio constitutionum synodi.</p>
+                    <p>Testimonium notarii [46].</p>
+                    <p>Que quidem constitutiones per nos, presentibus Martino Fernandi decano, Johanne Lupi archidiacono Alarconensi, Roderico Ferdinandi licentiato in legibus, canonico in ecclesia Conchensi, Matheo Martini de Concha, Petro Fernandi de Alarcon, Petro Martini de Castro, Garsie Munionis, archipresbiteris, et Johanne Sancii de Opta, Petro Sancii de Cañeto, Michaeli Petri de Bellomonte, Johanne Martini de Montealbo, Johanne Martini de Orta, uicariis et procuratoribus totius cleri, edite sacra approbante, consentiente et instante synodo, lecte et sollemniter per notarium publicum infra scriptum publicate fuerunt in choro ecclesie loci nostri de Parelia, undecima die mensis Februarii, anno Domini millesimo ccc.lxiiii.</p>
+                    <p>Quasque per archipresbiteros et uicarios nostre diocesis uel eorum uices gerentes in suis archipresbiteratibus et uicariis sollemniter publicare iubemus.</p>
+                </div>
+                <div>
+                    <head>Explicit</head>
+                    <p>Et ego Guillelmus de Insula, publicus episcopali auctoritate notarius, qui dicte synodo factionique presentium constitutionum et ordinationum, dum sic agerentur et ordinarentur, una cum supra dictis testibus presens fui et ad mandatum et requisitionem memorati reuerendi domini episcopi, sed et omnium in dicta synodo assistentium et predictis assensum prebentium, has constitutiones sollemniter publicaui easque scripsi et in hanc publicam formam redegi.</p>
+                    <p>Anno, die, loco predictis, signoque meo signaui.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] &lt;Deus&gt;</p>
+                    <p>[2] Sentence in brackets</p>
+                    <p>[3] Title in brackets</p>
+                    <p>[4] From Ego te baptizo in quotation marks</p>
+                    <p>[5] From Yo te baptizo in quotation marks</p>
+                    <p>[6] From Si es baptizatus in quotation marks</p>
+                    <p>[7] From Si eres baptizatus in quotation marks</p>
+                    <p>[8] From Signo te in quotation marks</p>
+                    <p>[9] From Hoc est in quotation marks</p>
+                    <p>[10] From Hic est in quotation marks</p>
+                    <p>[11] From Ego te in quotation marks</p>
+                    <p>[12] From Yo te in quotation marks</p>
+                    <p>[13] ÒYo te tomo por mi maridoÓ</p>
+                    <p>[14] ÒYo te tomo por mi mugerÓ</p>
+                    <p>[15] From Accipe in quotation marks</p>
+                    <p>[16] From Per istam in quotation marks</p>
+                    <p>[17] From Pasco in quotation marks</p>
+                    <p>[18] Sentence in brackets</p>
+                    <p>[19] Sentence in brackets</p>
+                    <p>[20] Title in brackets</p>
+                    <p>[21] &lt;festum&gt;</p>
+                    <p>[22] In brackets</p>
+                    <p>[23] In brackets</p>
+                    <p>[24] In brackets</p>
+                    <p>[25] In brackets</p>
+                    <p>[26] In brackets</p>
+                    <p>[27] &lt;se&gt;</p>
+                    <p>[28] In brackets</p>
+                    <p>[29] In brackets</p>
+                    <p>[30] In brackets</p>
+                    <p>[31] In brackets</p>
+                    <p>[32] &lt;non&gt;</p>
+                    <p>[33] In brackets</p>
+                    <p>[34] In brackets</p>
+                    <p>[35] In brackets</p>
+                    <p>[36] In brackets</p>
+                    <p>[37] In brackets</p>
+                    <p>[38] &lt;a&gt;</p>
+                    <p>[39] In brackets</p>
+                    <p>[40] In parentheses: (casibus nostris dumtaxat exceptis)</p>
+                    <p>[41] In brackets</p>
+                    <p>[42] In brackets</p>
+                    <p>[43] In brackets</p>
+                    <p>[44] In brackets</p>
+                    <p>[45] In brackets</p>
+                    <p>[46] In brackets</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

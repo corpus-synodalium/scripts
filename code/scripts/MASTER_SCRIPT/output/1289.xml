@@ -1,0 +1,855 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kromeriz</title>
+                <recordID>1289</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1318</origDate>
+                <dateNotes/>
+                <origPlace>Kromĕříž</origPlace>
+                <diocese>Olomouc</diocese>
+                <province>Prague</province>
+                <country>Czech Republic</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 1289</p>
+                <p>Year: 1318</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Kromĕříž</p>
+                <p>Diocese: Olomouc</p>
+                <p>Province: Prague</p>
+                <p>CountryModern: Czech Republic</p>
+                <p>Latitude: 49.2989</p>
+                <p>Longitude: 17.393</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Conrad I</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Krafl, Synody, 254-76 [A3]</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: Hard Copy Scan</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Statuta synodalia. [1] [2]</p>
+                    <p>In nomine Domini amen.  [3] [4]</p>
+                    <p>Constituciones sive statuta predecessorum nostrorum diligencius requirentes nec in kathedrali nec in aliis ecclesiis requirendo [5] sepius de eisdem ipsa [6] potuimus invenire, vel, si que constituciones ex ipsis particulariter reperte fuissent, non [7] taliter conscripte fuerunt nec reperte sub sigillis autenticis, ut de ipsis possit fides in iudiciis [8] [9] vel extra iudicium adhiberi nec pene infligi transgressoribus eorundem [10].</p>
+                    <p>Nos [11] igitur ea [12] tamquam irracionabilia reprobamus, sed quod ea, quia [13] ipsis statutis et constitucionibus, si que fuissent edite, clerici nostre dyocesis non sunt usi, propter quod volumus et in virtute sancte obediencie precipimus et mandamus, quatenus nostris constitucionibus [14] [15], quas in presenti synodo publicamus [16] [17], utatur [18] clerus nostre dyocesis et non aliis [19] et ipsas diligenter infra duorum mensium spacium a publicacione rescribi [20] faciant [21], et [22] in [23] ipsis contenta [24] servando suoque tempore et loco [25] exequendo [26].</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) De concubinariis [27].</p>
+                    <p>Licet a sanctis patribus in sanctorum [28] canonum edicione contra cohabitatores manifestos plurima emanaverint [29] instituta, [30] in quibus canonibus evidenter perpenditur [31], quod nullus sacerdotis missam audiat, [32] quem [33] indubitanter habere noverit [34] concubinam, nos huiusmodi vicium a sanctis patribus et [35] eorum institucionibus prohibere [36] et [37] detestari, [38] sicut religioni sacerdotum [39] convenit, [40] cupientes, monemus omnes prelatos et clericos nostre dyocesis, ut continenter [41] et caste vivere debeant et quod suspectas [42] feminas secum nullatenus in domo teneant et ad hoc studeant, ut eorum vita Deo et hominibus sit placibilis [43] et in suis [44] actibus irreprehensibiles habeantur.</p>
+                    <p>Statutum enim provincialis [45] concili [46] contra cohabitatores et incontinenciam clericorum promulgatum [47] [48], exequi volumus et exequimur [49] [50] in presenti sic, quod tales cohabitatores [51] ex vigore et auctoritate predicti concilii ex nunc [52] prout ex tunc, [53] sicut in eodem provincialis [54] concilii [55] statuto [56] continetur, suis privati beneficiis et a divinorum officiis sint suspensi.</p>
+                    <p>Propter hoc enim sine qualibet ammonicione in beneficiorum privacione et divinorum suspensione, [57] que [58] per presentes penam concilii infligimus, cum [59] veraciter intelleximus, quod statutum provincialis concilii [60] predicto [61] [62] [63] tempore, quo felicis [64] memorie dominus Petrus episcopus in [65] civitate Cremsir [66] synodum celebravit, [67] fuerit [68] publicatum: [69] Archidiaconi [70] ipsos foventes vel eorum excessus dissimulantes sint ipso facto ab officio [71] [72] suspensi.</p>
+                    <p>De clericis non residentibus [73].</p>
+                    <p>Cum dominica voce sancto Petro dictum fuerit si diligis me, pasce [74] oves meas [75], ex quo intelligimus,  [76] si is, [77] qui valet, omnipotentis Dei rennuit [78] oves pascere, pastorem suum se minime ostendit amare.</p>
+                    <p>Et ne de grege nobis commisso, quorum sanguis de nostris requiritur manibus, depereat aliquid, sed ex pastorum suorum solercia et [79] corporali presencia presumetur, [80] universos plebanos et curatos nostre dyocesis presentibus [81] amonemus, ut [82] infra duorum mensium spacium a publicacione presencium preterite [83] tamen non parcentes [84] negligencie ad suas revertantur ecclesias et in [85] eisdem faciant residenciam personalem; illis dumtaxat exceptis, qui causa studiorum vel alia [86] causa legittima de nostra licenda se possunt [87] a suis ecclesiis absentare.</p>
+                    <p>Quod si infra mensem ad ecclesias suas per [88] presentes ammoniti non redierint, [89] nos ad presentacionem illorum, qui ius patronatus in eisdem ecclesiis [90] obtinent, alios,  [91] qui nobis per ipsos patronos [92] [93] presentati fuerint, [94] ad ipsas ecclesias confirmare nullatenus differemus.</p>
+                    <p>Et nos in scriptis presentibus [95] predictarum ecclesiarum [96] desertores, [97] quos non pastores, sed pavidos mercenarios [98] reputamus, post lapsum duorum mensium a publicacione presencium [99] ipsos [100] privamus [101] beneficiis et denunciamus esse privatos, nullum per hoc patronis preiudicium ex publicacione presencium [102] si [103] post lapsum duorum mensium spacium [104] personas ydoneas ad vacancia beneficia ex constitucione presenti vocaverint [105] et nobis presentaverint inferendo. [106]</p>
+                    <p>Nullus eciam propriam parrochiam [107] obtinens aliam parrochiam [108] [109] conveniat [110] sub spe lucri, sed si [111] [112] ex [113] causa legittima nostra tamen obtenta licencia aliquis pro censu annuo [114] suam ecclesiam wult locare, hic [115] alteri et non beneficiato proventus et fructus beneficii [116] locet. [117]</p>
+                    <p>Nos tamen [118] locatorem [119] fructuum [120] suorum beneficiatis [121] aliis [122] excommunicamus in hiis scriptis, conventorem [123] vero in quinque marcis denariorum [124] [125] nostre camere [126] applicandis; [127] nichilominus ipsum [128] suspendimus ab ingressu ecclesie eb et divinis.</p>
+                    <p>Cui statuto ecclesie nostre Olomucensis canonicos includi volumus, [129] dummodo in altero ipsorum [130] [131] resideant, ut tenentur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) In quivus festis procurantes hortentur [132].</p>
+                    <p>Item statuimus, ut plebani et clerici nostre dyocesis in suis parrochialibus ecclesiis diebus dominicis et festivis plebem sibi commissam diligenter ammoneant [133], quod [134] in festivitatibus solempnibus, videlicet Nativitatis [135] et [136] Resureccionis Domini et in Penthecosten [137], suo vero plebano et non alteri confiteantur sua peccata [138] [139] et ad sacram [140] communionem corporis et sanguinis Domini in eisdem festis properent [141] et accedant, et maxime in festo Pascatis de confitendis [142] peccatis suis et communione [143] corporis et sanguinis Domini [144] summenda [145] plebes suas ammoneant et hortentur.</p>
+                    <p>Et si quos de suis plebizanis [146] invenerint, qui in festo Pascatis sua peccata [147] confessi non fuerint et sacram [148] communionem non [149] sumpserint, viventes arceantur ab ingressu ecclesie [150] [151] et morientes careant ecclesiastica [152] [153] sepultura [154].</p>
+                    <p>Item quod plebani et clerici infirmos visitent et ipsos [155] reconcilient et post ipsorum [156] confessionem [157] et iniunctam [158] penitenciam [159] ipsos oleo sancto [160] ungant et propria manu communicent equidem [161] et corpus Domini ad infirmos ipsos [162] cum vexillo parvo, lumine et nola [163] antecedente deferant reverenter.</p>
+                    <p>[164] Nullus [165] ex plebanis et [166] clericis nostre dyocesis pro baptizandis infantibus, sepeliendis mortuis [167] et reconciliandis infirmis munus aliquod [168] exigat [169] et requirat.</p>
+                    <p>Sacra eciam vasa et vestimenta sacerdotalia negociatoribus aut thabernariis [170] pro pignore [171] non exponant [172].</p>
+                    <p>Et si quis [173] inventus fuerit de predictis [174] aliquid [175] pignorasse, in quantum [176] obligavit predicta, tantum suo episcopo teneantur solvere [177] [178], et nichilominus ipse obligans predicta sit suspensus ab ingressu ecclesie et divinis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) De tabernariis [179].</p>
+                    <p>Volentes, ut clerus [180] nostre dyocesis in suis actibus universis sit Deo [181] placabilis et quod [182] contra ipsos clericos [183] nulla possit haberi suspicio vel scandalum suboriri, universis precipimus et mandamus, ut nullus [184] thabernas intret, [185] nisi sit [186] in itinere constitutus, et tunc in ipsa thaberna causa necessitatis moram faciens, [187] nullatenus ad taxillos vel ad aleas [188] ludat; et si [189] in ipsa thaberna ludum illicitum exercuerit, [190] [191] statim nobis unam marcam [192] teneatur.</p>
+                    <p>Et [193] si qui sacerdotes vel clerici vagabundi in thabernis ipsis [194] inventi fuerint, talia, que prediximus, peregisse, [195] statim ab archidyaconis [196] et [197] decanis [198] locorum capiantur [199] et a nostra dyocesi, ne sint in aliorum scandalum, protinus expellantur [200] [201].</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) De clericis peregrinis [202].</p>
+                    <p>Nullus eciam plebanus vel [203] clericus nostre dyocesis non oriundum [204] de nostra [205] dyocesi in ecclesia sua pro vicario recipiat et [206] peregrinos clericos absque licencia nostra [207] [208] in ipsorum [209] ecclesiis celebrare seu alia sacramenta ecclesiastica [210] [211] ministrare, eciamsi dimissorias vel commendaticias [212] suorum prelatorum habuerit, [213] admittat. [214]</p>
+                    <p>Et si quis plebanus vel clericus nostre dyocesis [215] inventus fuerit talem peregrinum clericum sine [216] nostra licencia [217] aut [218] archidyaconi in divinis vel in [219] aliis ministeriis ecclesiasticis [220] [221] in sua ecclesia admisisse, nobis duas marcas, [222] archidiacono loci unam marcam [223] solvat pro pena.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>(6) Ne sine institucione administrent [224].</p>
+                    <p>[225] Statuimus eciam, quod si quisquam secularis clericus [226] [227] vel religiosus in aliqua ecclesia [228] nostre dyocesis institucione nostra non habita [229] [230] in spiritualibus vel temporalibus administrare presumpserit, ipso iure omne ius, quod ipsis in eisdem ecclesiis competebat, [231] amittant, nec ad aliud [232] beneficium eciamsi media [233] persona intercesserit, de cetero [234] admitattur. [235]</p>
+                    <p>Item quod ecclesiarum [236] plebani subditos suos non excommunicent, nisi servata forma decretalis [237] Cum medicinalis [238] [239] domini [240] Innocencii quarti, [241] et [242] non excommunicent, nisi pro notoriis excessibus et eorum parrochialibus iuribus, si ipsis denegata [243] fuerint, et causam excommunicacionis in scriptis assignent, [244] ut coram nobis eadem causa, si per excommunicatum [245] ad nos de iniusta [246] excommunicacione querela [247] venerit, [248] approbari [249] valeat, vel si causa racionabilis [250] inventa fuerit excommunicacionis inuiste, [251] excommunicato [252] ad interesse condempnetur [253] et alias puniatur. [254]</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>(7) De fumalibus [255].</p>
+                    <p>Statuimus eciam, quod [256] decimales denarii, [257] qui nobis de laneis vel [258] tabernis, molendinis, curticulis et ab aliis, qui nobis [259] ipsos denarios de iure tenentur solvere [260] per nostram dyocesim, per [261] plebanos in singulis parrochiis statim incipiendo [262] in festo sancti Michaelis usque ad festum sancti Martini fideliter et integraliter colligantur et in octava [263] sancti Martini, sicut alias sunt soluti, [264] illis [265] solvantur [266] plenarie, quibus [267] ipsos commiserimus colligendos.</p>
+                    <p>Et per quoscumque plebanos [268] in octava sancti [269] Martini ipsi denarii soluti non fuerint, ipsorum ecclesie [270] termino predicto sint ecclesiastico supposite [271] interdicto.</p>
+                    <p>Nolumus [272] eciam, quod lanei, [273] molendina, thaberne, curticule, [274] que [275] decimales denarios ipsos solverunt, [276] [277] propter hoc, quod [278] domini laneorum, molendinorum, thabernarum et [279] curticularum, [280] pro serviciis seu [281] aliis causis suis dederint [282] famulis, ab ipsorum solucione sint [283] liberi, [284] sed a predictis dicti decimales [285] [286] denarii modis omnibus [287] exigantur.</p>
+                    <p>Et [288] auctoritate nostra tales Menarios ad solvendum [289] [290] per censuram ecclesiasticam compellantur, [291] per huiusmodi enim translacionem iure nostro in predictis denariis, cum tamen res [292] cum suo onere [293] transeat absque causa qualibet, fraudaremur. [294]</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>(8) De incendiariis.</p>
+                    <p>Licet a predecessoribus nostris, sicut audivimus, contra pestiferos et nocivos [295] incendarios, [296] complices vel [297] eorum fautores vel [298] alias [299] ipsis incendariis [300] occulte conscribentes cartulas, [301] per quas eis, [302] quibus per [303] incendium, nisi vexacionem eorum ab ipsis incendariis redimant, dampnum [304] inferre minantur, quedam statuta fuerunt [305] promulgata, non tamen ipsorum perversorum [306] malicia et maxime [307] clericorum secularium et religiosorum, qui ipsis conscribunt cartulas et [308] in legacionibus, responsionibus eorum [309] gerunt vices, [310] sufficienter punita videtur, [311] ymo, quod [312] per ipsos incendarios dampna plurima innocentibus in rebus eorum, que alias, si carerent fautoribus et scriptoribus vel eorum negocia [313] gerentibus nullatenus inferrentur. [314]</p>
+                    <p>Nos tali morbo volentes obviare [315] [316] presenti constitucione [317] sanccimus et [318] invocata sancti spiritus gracia [319] [320] auctoritate beatorum [321] apostolorum [322] Petri et Pauli et nostra in omnes incendarios huiusmodi et in omnes eorum fautores, receptores [323] vel quomodolibet ipsis consilium, auxilium vel favorem prestantes publice vel occulte vel qui [324] cartulas ipsis incendiariis ad mittendum hiis, quibus per incendium nocere conantur, conscribunt, cuiuscunque condicionis aut status existant, excommunicacionis sentenciam in hiis scriptis [325] [326] promulgamus.</p>
+                    <p>Et si clericus secularis repertus fuerit predictorum incendariorum negocia gerere vel cartulas ipsis conscribere vel ipsorum legaciones deferre, si de hoc testibus vel alias presumpcione vehementi convictus fuerit, suo nichilominus beneficio perpetuo spolietur [327]  et si beneficium non habuerit, per annum retrusus in carcerem, perpetue [328] notatus [329] infamia sine aliqua restitucionis gracia a nostra dyocesi expellatur. [330]</p>
+                    <p>Religiosi eciam inventi si [331]  [332] fuerint talia perpetrasse, per suos superiores in carcerem [333] retrudantur. [334]</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>(9) [335]</p>
+                    <p>[336] Patroni, qui [337] plebanos sive [338] clericos extra dotem vel in dote rebus suis vel [339] in toto vel in [340] media parte [341] aliqua re notabili, equo, veste, pecoribus vel pecudibus sive suppellectilibus spoliaverint et moniti infra dies octo taliter [342] ablata non [343] restituerint, in patroni ipsius iniuriam cessetur in ipsa ecclesia a divinis, hanc tamen ammonicionem per episcopum vel archidiaconum [344] loci fieri volumus, [345] prius quam a divinis cessetur, et quod eciam [346] de [347] ipsa spoliacione episcopo vel archidiacono loci [348] fides fiat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>(10) De non institutis occupantibus beneficia [349].</p>
+                    <p>Pastores non [350] intrantes per hostium sed aliunde venientes tanquam fures non instituti per episcopum occupant [351] ecclesias vel alias procurant [352] intrudi per potenciam secularem; instituti vel intrusi omni iure, quod [353] eis competeret [354] in beneficiis taliter occupatis, ex constitucione presenti sunt [355] privati et [356] inhabiles [357] reddantur ad alia beneficia, nisi cum ipsis per sedem apostolicam fuerit dispensatum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>(11) De foro competenti [358].</p>
+                    <p>Licet a [359] sanctis patribus institutum fuerit, ut nullus trahi ad iudicium seculare deberet, [360] pena vero actoribus et reis per canones si [361] inflicta, cui pene prolate aliam penam adicimus [362] statuentes, ut actor, si sit laycus, ipse [363] sentenciam excommunicacionis [364] incurrit, [365] clericus vero suo beneficio, quod obtinet, sit ipso iure privatus. [366] [367]</p>
+                    <p>Clerici [368] eciam, qui contra prelatos suos [369] laicis secularibus [370] spreto [371] suo episcopo, si que [372] fuisset illate [373] iniurie, conqueruntur, [374] ipso facto beneficiis, que [375] obtinent, sunt [376] privati et excommunicati presentis constitucionis auctoritate et [377] a nostra dyocesi [378] expellantur, cum tales episcopalem [379] iurisdiccionem enervent [380] et sint sanctarum clavium contemptores.</p>
+                    <p>Iudices vero seculares, qui clericos iudicare presumpserint, per presentes sint excommunicacionis vinculo [381] [382] innodati.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>(12) De theolonariis [383].</p>
+                    <p>Si clericus transiens cum rebus suis non [384] causa [385] mercimonii locum, ubi theolonium exigatur [386] vel pedagium recipiatur, [387] theolonium ab eo [388] recipiens [389] excommunicacionis sentenciam incurrit [390] nec absolvatur, nisi duplum restituat, [391] quod recepit.</p>
+                    <p>Nullum eciam thelonium de rebus clericorum, quas ex causa predicta non deferunt, sed tantummodo pro ipsorum ducatu [392] requiratur, [393] recipiens supra dictas penas incurrat, [394] sic quod excommunicacioni subiaceat et duplum restituere teneatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>(13) Qui causas matrimoniales iudicant [395].</p>
+                    <p>Item prohibemus sub pena excommunicacionis, ne aliquis causas matrimoniales [396] iudicet, nisi officialis vel archidiaconus per se et non per aliquem [397] constitutum, [398] cum matrimoniales cause sint iudicande [399] per illos, qui statuta canonum non ignorant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>(14) Ut matrimonia in facie ecclesie contrahantur [400].</p>
+                    <p>Prohibemus [401] eciam, quod matrimonia non alibi [402] nisi in facie ecclesie [403] contrahantur, et hoc [404] plebani suis intiment [405] plebizanis singulis diebus dominicis et festivis et quod constitucio, cum sit inhibicio de clamdestina desponsacione, [406] a plebanis circa contractum [407] observetur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>(15) De ordinandis [408].</p>
+                    <p>Inhibemus eciam, ne in celebracione [409] ordinum [410] aliquis per examinatores ad ulteriores recipiatur ordines, [411] [412] nisi [413] de [414] prioribus susceptis [415] legitime per episcoporum autenticas [416] litteras [417] et sigilla [418] fecerit [419] plenam fidem. [420]</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>(16) De baptisandis.</p>
+                    <p>Nullus baptizandus non baptizatus ultra unius mensis [421] spacium reservetur [422]  et pueri non alibi, quam in ecclesia, [423] nisi [424] necessitatis [425] articulus superveniat, [426] exceptis filiis principum, [427] baptizentur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 17</head>
+                    <p>(17) Ut plebanus dotem reedificet. [428]</p>
+                    <p>Nullus plebanus circa ecclesiam suam residens alibi resideat, quam in dote et illam reedificet [429] et reformet. [430]</p>
+                    <p>Si quis vero plebanus aut [431] clericus concubine filiis vel filiabus agros emisse et ipsis donasse vel alias res immobiles notabiles, cum [432] compertus fuerit, [433] et [434] tradidisse, duplum ecclesie, ad cuius utilitatem predicta ista [435] deberent cedere, restituere teneatur. [436]</p>
+                </div>
+                <div>
+                    <head>Capitulum 18</head>
+                    <p>(18) Ne religiosi sine institucione episcopi ius patronatus disponant et usurpent. [437]</p>
+                    <p>Item [438] ex concilio Friczalensi [439] statuimus, [440] quod [441] religiosi, qui per donacionem seu alium [442] titulum legitimum ius [443] patronatus aliquorum beneficiorum ecclesiasticorum [444] [445] obtinent vel acquisierint, in futurum talia beneficia suis usibus non usurpent, [446] sed ipsis vacantibus ad ea sacerdotes seculares et ydoneos presentent dyocesano, [447] alioquin elapso [448] tempore a iure statuto dyocesanus [449] prout ecclesie expediat, ydoneo [450] provideat de [451] pastore.</p>
+                </div>
+                <div>
+                    <head>Capitulum 19</head>
+                    <p>(19) De universalitate personarum ecclesiasticorum [452].</p>
+                    <p>[453] Ex concilio Achsaffenburgensi [454] statuimus, [455] quod [456] omnes, [457] qui clericos in sacris ordinibus constitutos [458] [459] pro clericis [460] se gerentes, [461] maxime prelatos et [462] canonicos ecclesie kathedralis ac alias personas ecclesiasticas captivare, captivos [463] [464] detinere,  [465] mutilare ac [466] letalibus et nimis [467] [468] atrocibus vulnerare vulneribus [469] presumunt, [470] sint ipso facto [471] excommunicati et non solum in terminis illius archidyaconatus [472] in quo prelatus, [473] canonicus, religiosus vel [474] clericus captivatus [475] est, sed eciam [476] in alio archidyaconatu [477] [478] in quo tales detinentur [479] cessetur ipso facto a divinis. [480] [481]</p>
+                    <p>[482] Item de sepultura [483] interfectorum statuimus, quod si [484] ante mortem ipsorum de contricione apparuerit, sepeliantur [485] aput ecclesiam, [486] si vero [487] de ipsorum contricione vel [488] per signa vel per [489] testes vel apud ecclesiam [490] [491] sepeliri debeant, [492] dictum fuerit vel probatum, si tamen statutis [493] a iure temporibus confessi fuerint et eukaristiam receperint nec evidenter appareat, [494] [495] quod in mortali peccato fuerint interempti, possunt apud ipsam ecclesiam sepeliri.</p>
+                    <p>[496] De hiis autem, qui sepeliri non debeant [497] aput ecclesias, intelligi volumus, qui [498] in mortalibus peccatis [499] et nulla preveniente gracia subito perimantur. [500]</p>
+                </div>
+                <div>
+                    <head>Capitulum 20</head>
+                    <p>(20) De ecclesiis parochialibus vacantibus [501].</p>
+                    <p>[502] Nonnulli religiosi nostre dyocesis ius patronatus in ecclesiis parrochialibus [503] obtinentes, [504] cum predicte [505] vacant ecclesie nobisque [506] deberent ad ipsas presentare personas, detractis [507] [508] proventibus ecclesie et sibi apropriatis [509] eisdem personas minus ydoneas presentant ad ipsas, cum de fructibus relictis ecclesie [510] persone, que digne possunt curam animarum regere, non possunt [511] sustentari, nostra eciam iura nunciorumque sedis [512] apostolice et archidyaconorum in causa premissa [513] [514] solvi non possunt per plebanos, qui [515] in talibus ecclesiis instituti. [516]</p>
+                    <p>Propter quod in presenti constitucione sanximus, ut ecclesie, [517] quarum diminuti sunt [518] proventus, in uno mense [519] [520] a publicacione presencium ad statum [521] pristinum reducantur. [522] [523]</p>
+                    <p>Si qui [524] vero religiosi sibi [525] dicunt competere, quod ex [526] privilegio sedis apostolice congrua sustentacione relicta [527] plebanis [528] fructus alios suis possunt incorporare [529] monasteriis, hec nobis privilegia exhibeant [530] infra [531] mensem sic, quod deliberacione cum [532] [533] peritis habita nullum privilegiatis [534] monasteriis vel parrochiis preiudicium [535] [536] generetur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 21</head>
+                    <p>(21) De decimarum [537] conductu [538].</p>
+                    <p>Cum ex eo, quod layci, nobiles, clientes, iudices, advocati et [539] alii temporale dominium obtinentes decimas villarum seu [540] possessionum suo dominio seu [541] iudicio subiectarum [542] pretextu predicte potestatis sue sibi et non aliis vendi vel [543] locari procurant, [544] non permittentes [545] easdem [546] extra villas [547] vel possessiones sui dominii seu iudicii aut potestatis deducere [548] in preiudicium ecclesiastice libertatis contra rectores ecclesiarum, ecclesiasticasve [549] personas, ad quas [550] eedem [551] spectant decime ac [552] emptores seu conductores alias [553] si secus fieret, [554] graves gerentes inimicicias ecclesiis, ecclesiasticisve [555] personis dampnum non modicum ac [556] [557] inter laicos predictos rancores et odia didicimus [558] exoriri huiusmodi vendiciones [559] seu locaciones, [560] emptores seu conductores predictis laycis, iudicibus, clientibus seu dominis [561] ac [562] eciam [563] advocatis vel per ipsos fieri de cetero [564] prohibemus.</p>
+                    <p>Si qui [565] vero vendendo vel locando, emendo vel conducendo secus fecerint et [566] decimas ipsas eos, [567] ad quos [568] pertinent, libere deducere, quocunque maluerint, non permiserint, excommunicacionis sentenciam ipsos incidere volumus [569] [570] ipso facto.</p>
+                    <p>Adicientes nichilominus, ut presens nostra [571] constitucio proxima [572] dominica, postquam ad noticiam cuiuscumque rectoris ecclesiarum [573] pervenerit, [574] ac annis singulis in festo Trinitatis [575] [576] et [577] duabus dominicis proxime sequentibus coram populo in parrochialibus ecclesiis [578] [579] publicetur. [580]</p>
+                    <p>[581] Nos Conradus, Dei gracia Olomucensis episcopus, anno Domini Mo CCCo XVIIIo proxima die dominica post diem beati Mauricii et sociorum [582] eius in civitate nostra Cremsierensi [583] synodum [584] celebrantes prelatis ac [585] canonicis ecclesie nostre ac aliis secularibus et religiosis personis, prelatis necnon [586] [587] toti [588] clero nostre dyocesis presentibus has supradictas [589] constituciones in ipsa synodo nostra publicamus [590] volentes, ut per totam [591] dyocesim ipse constituciones serventur ab omnibus et eis [592] utantur [593] in iudiciis sive [594] extra iudicium et [595] exequantur suo loco et tempore in ipsis contenti. [596]</p>
+                    <p>Nos enim penam infligimus [597] transgressoribus earundem [598] sigillum nostrum presentibus in testimonium appendendo. [599]</p>
+                </div>
+                <div>
+                    <head>Explicit</head>
+                    <p>Actum et datum anno Domini [600] loco [601] et die [602] predictis. [603]</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] Statuta synodalia in brackets.</p>
+                    <p>[2] Footnote a: [Incipiunt statuta synodalia edita per reverendissimum dominum dominum Conradum episcopum Olomucensem] A; [Item alia statuta reverendi in Christo patris ac domini Conradi episcopi] F; [Incipiunt statuta synodalia] I.</p>
+                    <p>[3] In nomine Domini amen between footnote b-b.</p>
+                    <p>[4] Footnote b-b: om. L.</p>
+                    <p>[5] Footnote c: requirenda A, I.</p>
+                    <p>[6] Footnote d: ipsas L.</p>
+                    <p>[7] Footnote e: nec L.</p>
+                    <p>[8] ut de ipsis possit fides in iudiciis between footnote f-f.</p>
+                    <p>[9] Footnote f-f: nec de ipsis posset fides in iudicio C, F; ut ipsis posset in iudiciis fides L.</p>
+                    <p>[10] Footnote g: earundem C, F, L.</p>
+                    <p>[11] Footnote h: Non L.</p>
+                    <p>[12] Footnote i: om. E.</p>
+                    <p>[13] Footnote j: que E, I; qua L.</p>
+                    <p>[14] si que fuissent edite, clerici nostre dyocesis non sunt usi, propter quod volumus et in virtute sancte obediencie precipimus et mandamus, quatenus nostris constitucionibus between footnote k-k.</p>
+                    <p>[15] Footnote k-k: om. C, F.</p>
+                    <p>[16] synodo publicamus between footnote m-m.</p>
+                    <p>[17] Footnote m-m: promulgamos synodo C, L, F.</p>
+                    <p>[18] Footnote n: utetur B, A, E, I.</p>
+                    <p>[19] Footnote o: in aliis C.</p>
+                    <p>[20] Footnote p: scribi A; presencium rescribi C, L.</p>
+                    <p>[21] Footnote q: faciant faciat B.</p>
+                    <p>[22] Footnote r: om. C, F.</p>
+                    <p>[23] Footnote s: om. B, E, A, I.</p>
+                    <p>[24] Footnote t: contenti B, E, A, I.</p>
+                    <p>[25] Footnote u: loco et tempre C, F, E, L.</p>
+                    <p>[26] Footnote v: exequenda C, F, L.</p>
+                    <p>[27] Footnote aa: De cohabitacione clericorum et mulierum F.</p>
+                    <p>[28] Footnote ab: sacrorum C, F.</p>
+                    <p>[29] Footnote ac: emanaverunt A, C, L.</p>
+                    <p>[30] Footnote ad: statuta A, L.</p>
+                    <p>[31] Footnote ae: appenditur E.</p>
+                    <p>[32] Footnote af: audiat missam L.</p>
+                    <p>[33] Footnote ag: quam E.</p>
+                    <p>[34] Footnote ah: noverit habere C, F.</p>
+                    <p>[35] Footnote ai: de L.</p>
+                    <p>[36] Footnote ak: prohibemus L.</p>
+                    <p>[37] Footnote am: om L.</p>
+                    <p>[38] Footnote an: testari C, F.</p>
+                    <p>[39] Footnote ao: sacerdotum religioni I.</p>
+                    <p>[40] Footnote ap: convenire C, F.</p>
+                    <p>[41] Footnote ar: convenienter C, F, L.</p>
+                    <p>[42] Footnote as: suspecta B.</p>
+                    <p>[43] Footnote at: placabilis B, E, A, C, F, I.</p>
+                    <p>[44] Footnote au: in eorum L.</p>
+                    <p>[45] Footnote av: provinciale C, F.</p>
+                    <p>[46] Footnote aw: om. C, F.</p>
+                    <p>[47] et incontinenciam clericorum promulgatum between footnote ax-ax.</p>
+                    <p>[48] Footnote ax-ax: om. C, F.</p>
+                    <p>[49] volumus et exequimur between footnote az-az.</p>
+                    <p>[50] Footnote az-az: om A.</p>
+                    <p>[51] et incontinenciam clericorum promulgatum, exequi volumus et exequimur in presenti sic, quod tales cohabitatores between footnote ax-ax.</p>
+                    <p>[52] Footnote bb: tunc E.</p>
+                    <p>[53] Footnote bc: nunc E.</p>
+                    <p>[54] Footnote bd: om L.</p>
+                    <p>[55] Footnote be: concilio I.</p>
+                    <p>[56] Footnote bf: om L.</p>
+                    <p>[57] Footnote bg: suspensione divinorum L.</p>
+                    <p>[58] Footnote bh: om L.</p>
+                    <p>[59] Footnote bi: tergo (?) L.</p>
+                    <p>[60] Footnote bj: concilii provincialis L.</p>
+                    <p>[61] Footnote bk: predicti L; predicto eo C, F, L.</p>
+                    <p>[62] ex nunc prout ex tunc, sicut in eodem provincialis concilii statuto continetur, suis privati beneficiis et a divinorum officiis sint suspensi. Propter hoc enim sine qualibet ammonicione in beneficiorum privacione et divinorum suspensione, que per presentes penam concilii infligimus, cum veraciter intelleximus, quod statutum provincialis concilii predicto between footnote ba-ba.</p>
+                    <p>[63] Footnote ba-ba: om. C, F.</p>
+                    <p>[64] Footnote bm: feliciter L.</p>
+                    <p>[65] Footnote bn: om C.</p>
+                    <p>[66] Footnote bo: Cremsier A; Chremsir F; Cremisier L.</p>
+                    <p>[67] Footnote bp: celebraverit L.</p>
+                    <p>[68] Footnote bq: fuerat C, F.</p>
+                    <p>[69] Footnote br: celebratum B, E, A, I.</p>
+                    <p>[70] Footnote bs: vero C, F; vos L.</p>
+                    <p>[71] ipso facto ab officio between footnote bt-bt.</p>
+                    <p>[72] Footnote bt-bt: ab officio ipso facto C, F, L.</p>
+                    <p>[73] Footnote ca: De officio pastoralis E; De residencia plebanorum F.</p>
+                    <p>[74] Footnote cb: pasche (sic!) A.</p>
+                    <p>[75] si diligis me, pasce oves meas in quotation marks.</p>
+                    <p>[76] Footnote cc: colligitur C, F, L.</p>
+                    <p>[77] Footnote cd: hiis A, E, L.</p>
+                    <p>[78] Footnote ce: om C, F.</p>
+                    <p>[79] Footnote cf: vel E.</p>
+                    <p>[80] Footnote cg: presentetur L.</p>
+                    <p>[81] Footnote ch: om L.</p>
+                    <p>[82] Footnote ci: om L.</p>
+                    <p>[83] Footnote cj: om A.</p>
+                    <p>[84] Footnote ck: parcantes E.</p>
+                    <p>[85] Footnote cm: om. B, E, A, I.</p>
+                    <p>[86] Footnote cn: alias ex C; alia ex L.</p>
+                    <p>[87] Footnote co: possent L.</p>
+                    <p>[88] Footnote cp: om A.</p>
+                    <p>[89] Footnote cq: ridigerint E.</p>
+                    <p>[90] Footnote cr: om L.</p>
+                    <p>[91] Footnote cs: alias C, E, F.</p>
+                    <p>[92] per ipsos patronos between footnote ct-ct.</p>
+                    <p>[93] Footnote ct-ct: per patronos ipsos E.</p>
+                    <p>[94] Footnote cu: fuerunt C.</p>
+                    <p>[95] Footnote cv: pronuncciamus B, A, I.</p>
+                    <p>[96] Footnote cw: ecclesiarum predictarum E.</p>
+                    <p>[97] Footnote cx: destitores L.</p>
+                    <p>[98] Footnote cy: temerarios C, F; et mercenarios E.</p>
+                    <p>[99] Footnote cz: presenti C.</p>
+                    <p>[100] Footnote da: ipsis L.</p>
+                    <p>[101] Footnote db: privatus C.</p>
+                    <p>[102] Footnote dc: ex publicacione presencium om. C, E, F, L.</p>
+                    <p>[103] Footnote dd: sed A, B, C, E, F, I.</p>
+                    <p>[104] Footnote de: om L.</p>
+                    <p>[105] Footnote df: vacaverint A, B, I, L; veneriunt (?) E.</p>
+                    <p>[106] Footnote dg: inferendas C, F; inferenda E.</p>
+                    <p>[107] Footnote dh: parrochiam propriam L.</p>
+                    <p>[108] aliam parrochiam between footnote di-di.</p>
+                    <p>[109] Footnote di: in fructus sive proventus alterius ecclesie C; et fructus sive proventus alterius ecclesie F; fructus seu proventus alterius parrochie L.</p>
+                    <p>[110] Footnote dj: conveniet A.</p>
+                    <p>[111] sed si between footnote dk-dk.</p>
+                    <p>[112] Footnote dk: sed est E; si est B, A, I.</p>
+                    <p>[113] Footnote dm: om L.</p>
+                    <p>[114] Footnote dn: pro annuo censu L.</p>
+                    <p>[115] Footnote do: hoc C, F, I, E; hanc L.</p>
+                    <p>[116] Footnote dp: beneficii fructus C, F.</p>
+                    <p>[117] Footnote dq: locet sui C, F; sui locet L.</p>
+                    <p>[118] Footnote dr: enim C, F, L.</p>
+                    <p>[119] Footnote ds: locatores L.</p>
+                    <p>[120] Footnote dt: beneficiorum L.</p>
+                    <p>[121] Footnote du: beneficiato A, B, I.</p>
+                    <p>[122] Footnote dv: alias I, A, B, C, E, F.</p>
+                    <p>[123] Footnote dw: conductorem C, F; conductores L.</p>
+                    <p>[124] marcis denariorum between footnote dx-dx.</p>
+                    <p>[125] Footnote dx-dx: marcas condempnamus C; marcis condempnamus F; marcas denariorum condempnamus E; marcis grossorum denariorum condempnamus L.</p>
+                    <p>[126] Footnote dy: camare (sic!) I.</p>
+                    <p>[127] Footnote dz: applicandas C, E, F, L.</p>
+                    <p>[128] Footnote ea: ipsos L.</p>
+                    <p>[129] Footnote ec: nolumus I, B.</p>
+                    <p>[130] eb et divinis. Cui statuto ecclesie nostre Olomucensis canonicos includi volumus, dummodo in altero ipsorum between footnote eb-eb.</p>
+                    <p>[131] Footnote eb-eb: generaliter canonicos includi volumus in altero membro, nisi ipsi L.</p>
+                    <p>[132] Footnote fa: Quod plebani moneant diebus dominicis et festivis plebes suas, ut confiteantur peccata sua A; De confesionibus propiis sacerdotibus faciendis E; De exortacione ad confessionem F.</p>
+                    <p>[133] Footnote fb: admoneant et hortentur C, F.</p>
+                    <p>[134] Footnote fc: ut L.</p>
+                    <p>[135] Footnote fd: Nativitas (sic!) C.</p>
+                    <p>[136] Footnote fe: om E.</p>
+                    <p>[137] Footnote ff: et Pentechostes L.</p>
+                    <p>[138] confiteantur sua peccata between footnote fg-fg.</p>
+                    <p>[139] Footnote fg: sua confiteantur peccata C, F, L; sua peccata confiteantur E.</p>
+                    <p>[140] Footnote fh: sanctam L.</p>
+                    <p>[141] Footnote fi: proparentur C, F.</p>
+                    <p>[142] Footnote fj: et confitendis A; de conswetudine B.</p>
+                    <p>[143] Footnote fk: in communione L.</p>
+                    <p>[144] Footnote fm: om. E.</p>
+                    <p>[145] Footnote fo: sumendas C, F; sumendo L.</p>
+                    <p>[146] Footnote fp: de plebzanis suis I.</p>
+                    <p>[147] Footnote fq: peccata sua L.</p>
+                    <p>[148] Footnote fr: sanctam L.</p>
+                    <p>[149] Footnote fs: susceperiunt vel B.</p>
+                    <p>[150] arceantur ab ingressu ecclesie between footnote ft-ft.</p>
+                    <p>[151] Footnote ft-ft: ab ingressu arcentur ecclesie C; ab ingressu ecclesie arceantur E; ab ingressu arcentur ecclesie F; ab ingressu arceantur ecclesie L.</p>
+                    <p>[152] careant ecclesiastica between footnote fu-fu.</p>
+                    <p>[153] Footnote fu-fu: a christiana careant C; christiana careant E, F, L.</p>
+                    <p>[154] Footnote fv: Rubrica nova Forma visitandi informos E; De visitacione infirmorum F.</p>
+                    <p>[155] Footnote fw: eos E, C, F, L.</p>
+                    <p>[156] Footnote fx: eorum C, F, L.</p>
+                    <p>[157] Footnote fy: peccata C, F.</p>
+                    <p>[158] Footnote fz: iniuncta C, F; iniungant L.</p>
+                    <p>[159] Footnote ga: penitencia et C, F; penitenciam et L.</p>
+                    <p>[160] Footnote gb: sacro oleo C, F, L.</p>
+                    <p>[161] Footnote gc: eosdem C, E, F; eodem L.</p>
+                    <p>[162] Footnote gd: om. C, F, L.</p>
+                    <p>[163] Footnote ge: ipsos C, F, L.</p>
+                    <p>[164] Footnote gf: Rubrica nova Ne pro collacione sacrorum quisquam requiratur E; Nil postulent per sacramenta F.</p>
+                    <p>[165] Footnote gg: Nullus eciam L, C, E, F, I.</p>
+                    <p>[166] Footnote gh: vel L.</p>
+                    <p>[167] Footnote gi: in mortuis L.</p>
+                    <p>[168] Footnote gj: munus aliquod om. A.</p>
+                    <p>[169] Footnote gk: erigat A.</p>
+                    <p>[170] Footnote gm: thbulariis B; tabulariis A, E, I.</p>
+                    <p>[171] Footnote gn: vero L.</p>
+                    <p>[172] Footnote go: exponat E.</p>
+                    <p>[173] Footnote gp: aliquis L.</p>
+                    <p>[174] Footnote gq: ex predictis C, F.</p>
+                    <p>[175] Footnote gr: aliquod C, F; aliquanto E.</p>
+                    <p>[176] Footnote gs: quanto C, F, L.</p>
+                    <p>[177] teneantur solvere between footnote gt-gt.</p>
+                    <p>[178] Footnote gt-gt: tenetur solvere A; solvere teneatur C, E, F, L.</p>
+                    <p>[179] Footnote ha: Ne clerici visitent tabernas E; De prohibicione thaberne F.</p>
+                    <p>[180] Footnote hb: clericus C, F.</p>
+                    <p>[181] Footnote hc: Deo sit I, L.</p>
+                    <p>[182] Footnote hd: eciam C, F, L.</p>
+                    <p>[183] Footnote he: om. C, F.</p>
+                    <p>[184] Footnote hf: nullus C, F.</p>
+                    <p>[185] Footnote hg: intrent C.</p>
+                    <p>[186] Footnote hh: om. L.</p>
+                    <p>[187] Footnote hi: fecerit C, F.</p>
+                    <p>[188] Footnote hj: alias A.</p>
+                    <p>[189] Footnote hk: et si om. B.</p>
+                    <p>[190] ludum illicitum exercuerit between footnote hm-hm.</p>
+                    <p>[191] Footnote hm-hm: ludum taxillorum vel alearum exercuerit C, F; ludum exercuerit illicitum E; illicitum ludum exercuerit I; ludum taxillorum vel aliarum exercuerit L.</p>
+                    <p>[192] Footnote hn: solvere C, F, L.</p>
+                    <p>[193] Footnote ho: Item L.</p>
+                    <p>[194] Footnote hp: ipsi L.</p>
+                    <p>[195] Footnote hq: operari C, F.</p>
+                    <p>[196] Footnote hr: per archidiaconos C, F; per archidyaconum L.</p>
+                    <p>[197] Footnote hs: vel L.</p>
+                    <p>[198] Footnote ht: decanos C, F, L.</p>
+                    <p>[199] Footnote hu: capiant E.</p>
+                    <p>[200] protinus expellantur between footnote hv-hv.</p>
+                    <p>[201] Footnote hv-hv: debeant protinus expelli L.</p>
+                    <p>[202] Footnote ia: Ne advene clerici admittantur celebrare E; Non recipiatur ignoti ad vicariam ad alia dyocesi F.</p>
+                    <p>[203] Footnote ib: et L.</p>
+                    <p>[204] Footnote ic: oriundus B, A, C, E, F, I.</p>
+                    <p>[205] Footnote id: de mea E.</p>
+                    <p>[206] Footnote ie: om. C, F.</p>
+                    <p>[207] licencia nostra between footnote if-if.</p>
+                    <p>[208] Footnote if-if: licencia nostra A, I, L.; licentena nostra B; nostra licencia C, F; licencia mea E.</p>
+                    <p>[209] Footnote ih: eorum E; ipsarum L.</p>
+                    <p>[210] alia sacramenta ecclesiastica in between footnote ii-ii.</p>
+                    <p>[211] Footnote ii-ii: alia ecclesiastica sacramenta C, F; aliqua sacramenta ecclesie L.</p>
+                    <p>[212] Footnote ij: commendaticios B; commendativas C, F; commendacias L.</p>
+                    <p>[213] Footnote ik: habuerint A, E, I, L.</p>
+                    <p>[214] Footnote im: admittantur A, E, I; admittatur C, F; non admittant L.</p>
+                    <p>[215] Footnote in: dyocesis nostre L.</p>
+                    <p>[216] Footnote io: sine nisi L.</p>
+                    <p>[217] Footnote ip: om. L.</p>
+                    <p>[218] Footnote iq: et C, F; vel L.</p>
+                    <p>[219] Footnote ir: om L.</p>
+                    <p>[220] ministeriis ecclesiasticis between footnote is-is.</p>
+                    <p>[221] Footnote is-is: ecclesiasticis ministeriis C, F; ministeriis L; misteriis ecclesiasticis B.</p>
+                    <p>[222] Footnote it: et C, F, L.</p>
+                    <p>[223] Footnote iu: om. C, F, L.</p>
+                    <p>[224] Footnote ja: De administracione A; Ad idem E.</p>
+                    <p>[225] Footnote jb: In copiis C, F, textus capituli n. 7, n. 6 autem sequitur.</p>
+                    <p>[226] secularis clericus between footnote jc-jc.</p>
+                    <p>[227] Footnote jc-jc: clericus scolaris (sic!) C, F, L.</p>
+                    <p>[228] Footnote jd: in aliquam ecclesiam C, F.</p>
+                    <p>[229] non habita between footnote je-je.</p>
+                    <p>[230] Footnote je-je: Bis B; non habita et a habita C.</p>
+                    <p>[231] Footnote jf: propetebatis (sic!) L.</p>
+                    <p>[232] Footnote jg: illud C, F, L.</p>
+                    <p>[233] Footnote jh: medii C, F.</p>
+                    <p>[234] Footnote ji: de cetero om. E, L.</p>
+                    <p>[235] Footnote jj: admittantur A.</p>
+                    <p>[236] Footnote jk: om L.</p>
+                    <p>[237] Footnote jm: decretali C, F.</p>
+                    <p>[238] Cum medicinalis in quotation marks.</p>
+                    <p>[239] Footnote jn: medianalis C, F.</p>
+                    <p>[240] Footnote jo: deum (sic!) L.</p>
+                    <p>[241] Footnote jp: quartus C, F.</p>
+                    <p>[242] Footnote jq: om. C, F.</p>
+                    <p>[243] Footnote jr: denegati A, B, E, I.</p>
+                    <p>[244] Footnote js: assignet C, F.</p>
+                    <p>[245] Footnote jt: per excommunicatum om. L.</p>
+                    <p>[246] Footnote ju: iusta A.</p>
+                    <p>[247] Footnote jv: querele I.</p>
+                    <p>[248] Footnote jw: pervenerit C, F, L, E.</p>
+                    <p>[249] Footnote jx: approbari C, F, L; ac probari A, B, E, I.</p>
+                    <p>[250] Footnote jy: irracionabilis L.</p>
+                    <p>[251] Footnote jz: om A.</p>
+                    <p>[252] Footnote ka: om. A. excommunicata E.</p>
+                    <p>[253] Footnote kb: continetur E; condempnetur iure nostro in predictis C, F.</p>
+                    <p>[254] Footnote kc: punietur L. -Sequitur: [Et sequitur] B.</p>
+                    <p>[255] Footnote ma: De episcopalibus denariis decimalibus r[ubrica] E; Sequitur de fumalibus rubrica I.</p>
+                    <p>[256] Footnote mb: ut C, F, L.</p>
+                    <p>[257] Footnote mc: denarios A, E, I, C, F.</p>
+                    <p>[258] Footnote md: om. L.</p>
+                    <p>[259] Footnote me: om. C, F.</p>
+                    <p>[260] Footnote mf: solvere tenentur L.</p>
+                    <p>[261] Footnote mg: om. C.</p>
+                    <p>[262] Footnote mh: om. C, F.</p>
+                    <p>[263] Footnote mi: in octavis C, F; in octavam E.</p>
+                    <p>[264] Footnote mj: solutis C, F.</p>
+                    <p>[265] Footnote mk: illos A; ipsis L.</p>
+                    <p>[266] Footnote mm: solvant A.</p>
+                    <p>[267] Footnote mn: qui L.</p>
+                    <p>[268] Footnote mo: om. E.</p>
+                    <p>[269] Footnote mp: beati E.</p>
+                    <p>[270] Footnote mq: elapso L.</p>
+                    <p>[271] Footnote mr: supposito L.</p>
+                    <p>[272] Footnote ms: Volumus A, I.</p>
+                    <p>[273] Footnote mt: om. E.</p>
+                    <p>[274] Footnote mu: curticula C, F.</p>
+                    <p>[275] Footnote mv: que prius C, F; qui prius L.</p>
+                    <p>[276] denarios ipsos solverunt between footnote mw-mw.</p>
+                    <p>[277] Footnote mw-mw: ipsos solverunt denarios L.</p>
+                    <p>[278] Footnote mx: om. C, F.</p>
+                    <p>[279] Footnote my: om. C, F, L.</p>
+                    <p>[280] Footnote mz: ea L.</p>
+                    <p>[281] Footnote na: vel E, L.</p>
+                    <p>[282] Footnote nb: dederunt C, E, I, L.</p>
+                    <p>[283] Footnote nc: sui L.</p>
+                    <p>[284] Footnote nd: libera L.</p>
+                    <p>[285] a predictis dicti decimales between footnote ne-ne.</p>
+                    <p>[286] Footnote ne: ab ipsis laneis, molendinis, tabernis et curticulis predicti C, F; ab ipsis laneis, molendinis, tabernis, curticulis predicti L.</p>
+                    <p>[287] Foonote nf: solvantur et L.</p>
+                    <p>[288] Footnote ng: item L.</p>
+                    <p>[289] Menarios ad solvendum between footnote nh-nh.</p>
+                    <p>[290] Footnote nh-nh: ad solvendum predictos denarios C, F, L.</p>
+                    <p>[291] Footnote ni: propellantur L.</p>
+                    <p>[292] Footnote nj: cum tamen rus om. L.</p>
+                    <p>[293] Footnote nk: honore F, C, L.</p>
+                    <p>[294] Footnote nm: fraudarentur A, C.</p>
+                    <p>[295] Footnote oa: nocivos et pestiferos C, F, L.</p>
+                    <p>[296] Footnote ob: incendiarios C, E, F.</p>
+                    <p>[297] Footnote oc: et E, L.</p>
+                    <p>[298] Footnote od: om. L.</p>
+                    <p>[299] Footnote oe: labiis L.</p>
+                    <p>[300] Footnote of: incendiis E.</p>
+                    <p>[301] Footnote og: kartulos E.</p>
+                    <p>[302] Footnote oh: missam A.</p>
+                    <p>[303] Footnote oi: om. C, F.</p>
+                    <p>[304] Footnote oj: om. L.</p>
+                    <p>[305] Footnote ok: fuerint I, L.</p>
+                    <p>[306] Footnote om: perversorum ipsorum C, F.</p>
+                    <p>[307] Footnote on: precipue L.</p>
+                    <p>[308] Footnote op: e (sic!) B.</p>
+                    <p>[309] Footnote oq: om. C.</p>
+                    <p>[310] Footnote or: gerunt negocia C, F; gerunt et exercent negocium L.</p>
+                    <p>[311] Footnote os: videntur A.</p>
+                    <p>[312] Footnote ot: om. I, E cottidie C, F, L.</p>
+                    <p>[313] Footnote ou: negocium L.</p>
+                    <p>[314] Footnote ov: inferrent L.</p>
+                    <p>[315] volentes obviare between footnote ow-ow.</p>
+                    <p>[316] Footnote ow: obviare volentes C, F, L; nolentes obviare I.</p>
+                    <p>[317] Footnote ox: institucione E.</p>
+                    <p>[318] Footnote oy: om. E.</p>
+                    <p>[319] sancti spiritus gracia between footnote oz-oz.</p>
+                    <p>[320] Footnote oz-oz: spiritus sancti gracia C, E, F; gracia sancti spiritus I.</p>
+                    <p>[321] Footnote pa: om. L.</p>
+                    <p>[322] Footnote pb: om. C, F.</p>
+                    <p>[323] Footnote pc: receptatores L.</p>
+                    <p>[324] Footnote pd: om. E.</p>
+                    <p>[325] in hiis scriptis between footnote pe-pe.</p>
+                    <p>[326] Footnote pe-pe: in scriptis presentibus C, F; hiis scriptis presentibus L.</p>
+                    <p>[327] Footnote pf: perpetue spolietur E, I; spolietur perpetuo L.</p>
+                    <p>[328] Footnote pg: perpetua C, F, L.</p>
+                    <p>[329] Footnote ph: notetur C, E, F.</p>
+                    <p>[330] Footnote pi: expellantur I.</p>
+                    <p>[331] eciam inventi si between footnote pj-pj.</p>
+                    <p>[332] Footnote pj: eciamsi inventi I, A, C, E, F, L.</p>
+                    <p>[333] Footnote pk: in carcerem perpetuum C, F, L.</p>
+                    <p>[334] Footnote pm: detrudantur C, L; detrudentur F; detrudantur I.</p>
+                    <p>[335] Footnote qa: De spoliacione dotis A; Ne patroni sibi vendirent rest plebanorum suorum E; De spoliacione ecclesie per patronum F.</p>
+                    <p>[336] Footnote qb: In C, F, L, textus capituli n. 10, n. 9 autem sequitur.</p>
+                    <p>[337] Footnote qc: si L.</p>
+                    <p>[338] Footnote qd: vel L.</p>
+                    <p>[339] Footnote qe: om. L.</p>
+                    <p>[340] Footnote qf: om. C, F.</p>
+                    <p>[341] Footnote qg: vel alias C, F, L.</p>
+                    <p>[342] Footnote qh: totaliter C, F.</p>
+                    <p>[343] Footnote qi: nisi L.</p>
+                    <p>[344] Footnote qj: archidiaconis C.</p>
+                    <p>[345] Footnote qk: nolumus (sic!) A, E, I.</p>
+                    <p>[346] Footnote qm: om. C, F, L.</p>
+                    <p>[347] Footnote qn: in L.</p>
+                    <p>[348] Footnote qo: loci archidiacono C, F.</p>
+                    <p>[349] Footnote ra: De plebanis vi per brachium seculare intrusis E.</p>
+                    <p>[350] Footnote rb: nisi L.</p>
+                    <p>[351] Footnote rc: occupantes L.</p>
+                    <p>[352] Footnote rd: se procurant C, F; se procurantes L.</p>
+                    <p>[353] Footnote re: si quod C, E, F, I, L.</p>
+                    <p>[354] Footnote rf: propeteret L.</p>
+                    <p>[355] Footnote rg: sint E, L.</p>
+                    <p>[356] Footnote rh: vel C, F.</p>
+                    <p>[357] h in inhabiles in brackets.</p>
+                    <p>[358] Footnote sa: De citacione illicita clericorum et presbyterorum mutua E; Nullus clericus trahi debeat ad iudicium seculare F.</p>
+                    <p>[359] Footnote sb: de C, F.</p>
+                    <p>[360] Footnote sc: ut nullus clericus trahi debeat ad iudicium seculare C, F, L.</p>
+                    <p>[361] Footnote sd: sibi C, F.</p>
+                    <p>[362] Footnote se: statuimus, adicimus C, F.</p>
+                    <p>[363] Footnote sf: ipso facto C, F, L.</p>
+                    <p>[364] Footnote sg: excommunicacionis sentenciam C, F.</p>
+                    <p>[365] Footnote sh: incurrat A, I, L, C, F.</p>
+                    <p>[366] clericus vero suo beneficio, quod obtinet, sit ipso iure privatus between footnote si-si.</p>
+                    <p>[367] Footnote si-si: om. C, F.</p>
+                    <p>[368] Foonote sj: clericus A, E, I.</p>
+                    <p>[369] Footnote sk: suos prelatos L.</p>
+                    <p>[370] Footnote sm: secularibus laycis L.</p>
+                    <p>[371] Footnote sn: preposito C, F; scripto L.</p>
+                    <p>[372] Footnote so: que ipsis C, E, F, L.</p>
+                    <p>[373] Footnote sp: illate fuissent C, E, F, L.</p>
+                    <p>[374] Footnote sq: conquerantur F.</p>
+                    <p>[375] Footnote sr: qui L.</p>
+                    <p>[376] Footnote ss: sint L.</p>
+                    <p>[377] Footnote st: om. C, F, L.</p>
+                    <p>[378] Footnote su: protinus C, F.</p>
+                    <p>[379] Footnote sv: om. C, F, L.</p>
+                    <p>[380] Footnote sw: evertant C, F.</p>
+                    <p>[381] sint excommunicacionis vinculo between footnote sx-sx.</p>
+                    <p>[382] Footnote sx-sx: excommunicacionis sint vinculo F; sint vinculo excommunicacionis L.</p>
+                    <p>[383] Footnote ta: De theoloneariis A; De theloneis E; De theloneo a clericis non solvendo F.</p>
+                    <p>[384] Footnote tb: nisi L.</p>
+                    <p>[385] Footnote tc: om E.</p>
+                    <p>[386] Footnote td: exigitur C, F, L.</p>
+                    <p>[387] Footnote te: recipitur C, F; accipiatur L.</p>
+                    <p>[388] Footnote tf: ab ipso A; ab eodem F, C, L.</p>
+                    <p>[389] Footnote tg: accipiens L.</p>
+                    <p>[390] Footnote th: incurrat C, F, I, L.</p>
+                    <p>[391] Footnote ti: eius L.</p>
+                    <p>[392] Footnote tj: ducantur usibus C, F; usibus ducuntur L.</p>
+                    <p>[393] Footnote tk: requiritur E.</p>
+                    <p>[394] Footnote tm: incurrit E.</p>
+                    <p>[395] Footnote ua: Qui casus matrimoniales iudicant A; Quod contractus inviolabiliter per iudicem spiritualem discuciatur E; De matrimonio F.</p>
+                    <p>[396] Footnote ub: matrimonii L.</p>
+                    <p>[397] Footnote uc: alium C, F, L.</p>
+                    <p>[398] Footnote ud: institutum C, F; substitutum E, L.</p>
+                    <p>[399] Footnote ue: iudicando E.</p>
+                    <p>[400] Footnote va: Ut matrimonia in facie ecclesie contrahentur A; Ad idem E; De matrimonio in ecclesia contrahendo F.</p>
+                    <p>[401] Footnote vb: Inhibemus C, F, L.</p>
+                    <p>[402] Footnote vc: non alibi om. L.</p>
+                    <p>[403] Footnote vd: om. E.</p>
+                    <p>[404] Footnote ve: om. C, F.</p>
+                    <p>[405] Footnote vf: intiment suis L.</p>
+                    <p>[406] Footnote vg: dispensacione (sic!) C, F.</p>
+                    <p>[407] Footnote vh: contracti A; contractum matrimonii C, F.</p>
+                    <p>[408] Footnote wa: De ordinibus suscipiendis r[ubrica] E.</p>
+                    <p>[409] Footnote wb: in celibracione L.</p>
+                    <p>[410] Footnote wc: om. L.</p>
+                    <p>[411] recipiatur ordines between footnote wd-wd.</p>
+                    <p>[412] Footnote wd-wd: recipiatur ad ordines C; ordines recipiant L.</p>
+                    <p>[413] Footnote we: ut A.</p>
+                    <p>[414] Footnote wf: om. L.</p>
+                    <p>[415] Footnote wg: receptis L.</p>
+                    <p>[416] Footnote wh: autenticis A, E, I.</p>
+                    <p>[417] Footnote wi: litteris A, E, I.</p>
+                    <p>[418] Footnote wj: sigilli C, F.</p>
+                    <p>[419] Footnote wk: fecerint A, E, I.</p>
+                    <p>[420] Footnote wm: fidem plenam C, F.</p>
+                    <p>[421] Footnote xa: mensem et mensis C.</p>
+                    <p>[422] Footnote xb: servetur C, F.</p>
+                    <p>[423] Footnote xc: intra ecclesiam L.</p>
+                    <p>[424] Footnote xd: ubi A.</p>
+                    <p>[425] Footnote xe: necessitas L.</p>
+                    <p>[426] Footnote xf: supervenerit A, C, F; supervenit E, I.</p>
+                    <p>[427] Footnote xg: qui extra ecclesiam L.</p>
+                    <p>[428] Footnote ya: Ut plebani dotes reedificent A; De residencia personali presbyterorum E; Quvis plebanus circa ecclesiam suam resideat et non alibi, quam in dote et ea reedificet F.</p>
+                    <p>[429] Footnote yb: edificet L.</p>
+                    <p>[430] Footnote yc: informet E, I.</p>
+                    <p>[431] Footnote yd: vel L.</p>
+                    <p>[432] Footnote ye: tanto L.</p>
+                    <p>[433] Footnote yf: fuerit compertus C, F.</p>
+                    <p>[434] Footnote yg: om. C, F, L.</p>
+                    <p>[435] Footnote yh: om. A, C, E, F, I, L.</p>
+                    <p>[436] Footnote yi: tenentur A.</p>
+                    <p>[437] Footnote za: Ne religiosi sine institucione episcopi iura patronatus disponant et usurpent A; Quod patroni non usurpent sibi fructus ecclesie E.</p>
+                    <p>[438] Footnote zb: ne religiosi (sic!) A.</p>
+                    <p>[439] Footnote zc: Friczalis A; Friczal C, F; Friczlalam L.</p>
+                    <p>[440] Footnote zd: statutum C, F.</p>
+                    <p>[441] Footnote ze: ut C, F, L.</p>
+                    <p>[442] Footnote zf: per alium L.</p>
+                    <p>[443] Footnote zg: iura L.</p>
+                    <p>[444] beneficiorum ecclesiasticorum between footnote zh-zh.</p>
+                    <p>[445] Footnote zh: beneficio ecclesiasticorum (sic!) E; beneficio ecclesiastico I.</p>
+                    <p>[446] Footnote zj: usurpant C, F.</p>
+                    <p>[447] Foonote zk: diocesano presentent A, E, F, I, L; dyocesanos presentent C.</p>
+                    <p>[448] Footnote zm: elepso I.</p>
+                    <p>[449] Footnote zn: om. A.</p>
+                    <p>[450] Footnote zo: ydoneos A.</p>
+                    <p>[451] Footnote zp: om. C.</p>
+                    <p>[452] Footnote a: De capcione ecclesiasticarum personarum A; De pena captivancium vel clericos mutilancium E.</p>
+                    <p>[453] Footnote b-b begins here.</p>
+                    <p>[454] Footnote c: Achsaffeburg A; Assafenburgensi C, F; Asschaffenburgensi E; Aschauferburgensi U; Achaufenburgensi V; Aschafenburensi M; Ascafenburgensi L.</p>
+                    <p>[455] Footnote d: statutum C, F.</p>
+                    <p>[456] Footnote e: ut U, V, M.</p>
+                    <p>[457] Footnote f: omnis I.</p>
+                    <p>[458] qui clericos in sacris ordinibus constitutos between footnote g-g.</p>
+                    <p>[459] Footnote g-g: clericos in sacris ordinibus constitutos A; qui clericos in sacris ordinibus predictis L; clericos, qui in sacris constitutos ordinibus B.</p>
+                    <p>[460] Footnote h: pro clericis om. L.</p>
+                    <p>[461] Footnote i: et U, V, M.</p>
+                    <p>[462] Footnote j: sacerdotes et C, F.</p>
+                    <p>[463] ecclesiasticas captivare, captivos between footnote k-k.</p>
+                    <p>[464] Footnote k-k: ecclesiasticas captivos C, F; constitutas captivas U, V; ecclesiasticas captivare, captivas L.</p>
+                    <p>[465] Footnote m: occidere C, F, L, U, V, M.</p>
+                    <p>[466] Footnote n: om. U, V, M.</p>
+                    <p>[467] et nimis between footnote o-o.</p>
+                    <p>[468] Footnote o-o: ac U; nimis ac V, M; ac nimis L.</p>
+                    <p>[469] Footnote p: vulneribus vulnerare U, V, M, C, F, L.</p>
+                    <p>[470] Footnote q: presumpserint U, V, M, C, F, L.</p>
+                    <p>[471] Footnote r: ipso facto sunt U, V, M, L.</p>
+                    <p>[472] Footnote s: archidiaconi (sic!) A.</p>
+                    <p>[473] Footnote u: prefatus U.</p>
+                    <p>[474] Footnote v: om. A.</p>
+                    <p>[475] Footnote w: captivus C, F.</p>
+                    <p>[476] Footnote x: omni V, M.</p>
+                    <p>[477] in quo prelatus, canonicus, religiosus vel clericus captivatus est, sed eciam in alio archidyaconatu between footnote t-t.</p>
+                    <p>[478] Footnote t-t: om. E.</p>
+                    <p>[479] Footnote y: detineri U.</p>
+                    <p>[480] Footnote b-b ends here.</p>
+                    <p>[481]  Footnote b-b: Textus (Ex concilio... ...ipso facto a divinis) in instrumenta publica a. 1387 et a. 1388 transsumitur (siglae U, V, M); cf. ed. B.II et B.III</p>
+                    <p>[482] Footnote z: Rubrica nova De sculptura interfectorum A, E, F. -Sequitur: In (Item de om.) L.</p>
+                    <p>[483] Footnote aa: mortuorum C, F.</p>
+                    <p>[484] Footnote ab: om. F.</p>
+                    <p>[485] Footnote ac: sepeliatur E.</p>
+                    <p>[486] Footnote ad: ecclesias C, F, L.</p>
+                    <p>[487] Footnote ae: non L.</p>
+                    <p>[488] Footnote af: om. A, E, I, C, F, L.</p>
+                    <p>[489] Footnote ag: om. C, F.</p>
+                    <p>[490] vel apud ecclesiam between footnote ah-ah.</p>
+                    <p>[491] Footnote ah-ah: vel aput cuius ecclesiam A, E, I; nichil aput cuius ecclesias C, F; nullus plebano, aput cuius ecclesiam L.</p>
+                    <p>[492] Footnote ai: debent C, F.</p>
+                    <p>[493] Footnote aj: statutum A, L.</p>
+                    <p>[494] receperint nec evidenter appareat between footnote ak-ak.</p>
+                    <p>[495] Footnote ak-ak: reciperint, ne apparentur, appareat L.</p>
+                    <p>[496] Footnote am: Rubrica nova Ad idem E.</p>
+                    <p>[497] Footnote an: debent C, F, I, L.</p>
+                    <p>[498] Footnote ao: quod L.</p>
+                    <p>[499] Footnote ap: in peccatis mortalibus C, F, L.</p>
+                    <p>[500] Footnote aq: perimuntur C, F, I.</p>
+                    <p>[501] Footnote ba: De iure patronatus E.</p>
+                    <p>[502] Footnote bb-bb begins here.</p>
+                    <p>[503] Footnote bc: inparrochialibus ecclesiis L.</p>
+                    <p>[504] Footnote bd: om. B.</p>
+                    <p>[505] Footnote be: om. L.</p>
+                    <p>[506] Footnote bf: vel que E; nobis L.</p>
+                    <p>[507] deberent ad ipsas presentare personas, detractis between footnote bg-bg.</p>
+                    <p>[508] Footnote bg-bg: ad ipsas debeant ydoneas personas presentare detractibus L.</p>
+                    <p>[509] Footnote bh: propriatas E.</p>
+                    <p>[510] Footnote bi: ecclesie relictis L.</p>
+                    <p>[511] Footnote bj: valeant E, L.</p>
+                    <p>[512] Footnote bk: sedibus L.</p>
+                    <p>[513] in causa premissa between footnote bm-bm.</p>
+                    <p>[514] Footnote bm-bm: ut ipsi premissi solverunt L.</p>
+                    <p>[515] Footnote bn: sunt L.</p>
+                    <p>[516] Footnote bo: instituta (sic!) A.</p>
+                    <p>[517] Footnote bp: om. L.</p>
+                    <p>[518] Footnote bq: sunt diminuti A, E, I, L.</p>
+                    <p>[519] in uno mense between footnote br-br.</p>
+                    <p>[520] Footnote br-br: intra unum mensem L.</p>
+                    <p>[521] Footnote bs: ad statutum L.</p>
+                    <p>[522] Footnote bb-bb ends here.</p>
+                    <p>[523] Footnote bb-bb: om. C, F.</p>
+                    <p>[524] Footnote bt: quis A.</p>
+                    <p>[525] Footnote bu: sibi om. C, F.</p>
+                    <p>[526] Footnote bv: in E.</p>
+                    <p>[527] Footnote bw: relicto C, F.</p>
+                    <p>[528] Footnote bx: plebano C, F, A, E, I, L.</p>
+                    <p>[529] Footnote by: impertare C, F.</p>
+                    <p>[530] Footnote bz: exhibebant L.</p>
+                    <p>[531] Footnote ca: ultra E.</p>
+                    <p>[532] deliberacione cum between footnote cb-cb.</p>
+                    <p>[533] Footnote cb-cb: cum declaracione L.</p>
+                    <p>[534] Footnote cc: om L.</p>
+                    <p>[535] monasteriis vel parrochiis preiudicium between footnote cd-cd.</p>
+                    <p>[536] Footnote cd-cd: preiudicium monasteriis vel parochiis L. - preiudicium om. C, E, F.</p>
+                    <p>[537] (?) inserted here.</p>
+                    <p>[538] Footnote da: De locato et conducto A; De locacione decimarum E.</p>
+                    <p>[539] Footnote db: ac C, E, F, L.</p>
+                    <p>[540] Footnote dc: sub C, F; sive L.</p>
+                    <p>[541] Footnote dd: sive L.</p>
+                    <p>[542] Footnote de: subiectorum E.</p>
+                    <p>[543] Footnote df: seu L.</p>
+                    <p>[544] Footnote dg: procurent C, F.</p>
+                    <p>[545] Footnote dh: promittentes L.</p>
+                    <p>[546] Footnote di: eosdem C, F.</p>
+                    <p>[547] Footnote dj: villam I.</p>
+                    <p>[548] Footnote dk: deduci C, E, F, L.</p>
+                    <p>[549] Footnote dm: ecclesiasticas vel A.</p>
+                    <p>[550] Footnote dn: ad quos E.</p>
+                    <p>[551] Footnote do: cedere L.</p>
+                    <p>[552] Footnote dp: aut C, F; et L.</p>
+                    <p>[553] Footnote dq: aliquos L.</p>
+                    <p>[554] Footnote dr: fiat C, F; fiet L.</p>
+                    <p>[555] Footnote ds: ecclesiasticis C, F; ecclesiasticisne E; ecclesiasticis quia L.</p>
+                    <p>[556] non modicum ac between footnote dt-dt.</p>
+                    <p>[557] Footnote dt-dt: nisi monitum aut L.</p>
+                    <p>[558] Footnote du: didicerimus C, F, L.</p>
+                    <p>[559] Footnote dv: venditores C, F, L.</p>
+                    <p>[560] Footnote dw: lacaciones B; locatores C, F, L.</p>
+                    <p>[561] Footnote dx: seu dominis om. A.</p>
+                    <p>[562] Footnote dy: aut L.</p>
+                    <p>[563] Footnote dz: om. A.</p>
+                    <p>[564] Footnote ea: de cetero fieri C, F.</p>
+                    <p>[565] Footnote eb: quos A, I.</p>
+                    <p>[566] Footnote ec: seu C, F, L.</p>
+                    <p>[567] Footnote ed: per eos L.</p>
+                    <p>[568] Footnote ee: quas A, I.</p>
+                    <p>[569] sentenciam ipsos incidere volumus between footnote ef-ef.</p>
+                    <p>[570] Footnote ef-ef: eos sentenciam volumus incidere L.</p>
+                    <p>[571] Footnote eg: om. A.</p>
+                    <p>[572] Footnote eh: die L.</p>
+                    <p>[573] Footnote ei: om. C, F.</p>
+                    <p>[574] Footnote ej: supervenerit C, F.</p>
+                    <p>[575] in festo Trinitatis between footnote ek-ek.</p>
+                    <p>[576] Footnote ek-ek: in sancto Trinitatis festo. C.</p>
+                    <p>[577] Footnote em: in C, F.</p>
+                    <p>[578] in parrochialibus ecclesiis between footnote en-en.</p>
+                    <p>[579] Footnote en-en: in parrochiis et in parrochialibus ecclesiis C; in ecclesiis parrochialibus L.</p>
+                    <p>[580] Footnote eo: publicentur A, B, E, I.</p>
+                    <p>[581] Footnote fa: Rubrica [Statuta provincialia] erronee E.</p>
+                    <p>[582] Footnote fb: sancti Mauricii sociorumque L.</p>
+                    <p>[583] Footnote fc: Cremsirensi A, I; Chremisirensi C, F; Cremysyr L.</p>
+                    <p>[584] Footnote fd: synodum nostram C, F, L.</p>
+                    <p>[585] Footnote fe: et L.</p>
+                    <p>[586] personis, prelatis necnon between footnote ff-ff.</p>
+                    <p>[587] Footnote ff-ff: necnon plebanis et A; prelatis necnon plebanis et C, E, F; personis, prelatis necnon plebanis et I; prelatis necnon preblanis et L.</p>
+                    <p>[588] Footnote fg: toto L.</p>
+                    <p>[589] Footnote fh: om. C, F.</p>
+                    <p>[590] Footnote fi: promulgamus L.</p>
+                    <p>[591] Footnote fj: nostram C, F.</p>
+                    <p>[592] Footnote fk: ab eis C, F.</p>
+                    <p>[593] Footnote fm: ab omnibus et eis utantur om. A.</p>
+                    <p>[594] Footnote fn: et L.</p>
+                    <p>[595] Footnote fo: om. A.</p>
+                    <p>[596] Footnote fp: contenta A, C, F, L.</p>
+                    <p>[597] Footnote fq: infligemus L.</p>
+                    <p>[598] Footnote fr: eorundem A, E.</p>
+                    <p>[599] Footnote fs: apponendo L.</p>
+                    <p>[600] Footnote ft: om. L.</p>
+                    <p>[601] Footnote fu: om. E.</p>
+                    <p>[602] Footnote fv: diebus C, F.</p>
+                    <p>[603] Footnote fw: om. L. -Sequitur: Amen L; [etc. My hey, me srdcze ra[...] I.</p>
+                    <p>[603] Footnote fw: Òom. L. -Sequitur: ÔAmenÓ L; [Ôetc. My hey, me srdcze ra[É] I.Ó</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

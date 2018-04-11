@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cambrai</title>
+                <recordID>0763</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1311-10-01</origDate>
+                <dateNotes/>
+                <origPlace>Cambrai</origPlace>
+                <diocese>Cambrai</diocese>
+                <province>Reims</province>
+                <country>Belgium</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 763</p>
+                <p>Year: 1311</p>
+                <p>Month: 10</p>
+                <p>Day: 1</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Cambrai</p>
+                <p>Diocese: Cambrai</p>
+                <p>Province: Reims</p>
+                <p>CountryModern: Belgium</p>
+                <p>Latitude: 50.175579</p>
+                <p>Longitude: 3.2345</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Pierre de Lévis-Mirepoix</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1309</p>
+                <p>RegnalEnd: 1324</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Reusens, Statuta, 58-60</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Library Scan', 'WebDownload']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Noua statuta per dominum Cameracensem facta anno Domini Mo CCCo XIo, in festo beati Remigij, apud Castellum.</p>
+                    <p>Locus XXXIIIIus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) Cum laicis de rebus ecclesie disponendi nulla sit attributa potestas, statuimus quod, si abbates, priores, conuentus et personas ecclesiasticas contigerit possessiones, redditus perpetuos vel ad vitam, aliquibus personis vendere seu quoquo modo alienare, quod pro huiusmodi alienationibus tenendis et obseruandis coram dominis temporalibus, seu suis officiatis, nullo modo se obligent, seu super hec ad eosdem recurrant, nec ad dona vel ad penam quamcumque super ipsis vel bonis suis capiendam vel leuandam erga predictos dominos se obligent; sed huiusmodi alienationes faciant secundum canonicas sanctiones et cum debita solempnitate, juris decreto et confirmationibus nostris interuenientibus.</p>
+                    <p>Quod si secus attemptare presumpserint, declaramus tales alienationes esse irritas; et omnes contrarium facientes excommunicamus et iam factas irritas nunciamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Item statuimus quod, si in nostra diocesi contingat, quod absit, enormes aliquos et detestabiles excessus committi, scilicet homicidia in ecclesijs, vel incendia ecclesiarum, vel ad emunitatem ecclesie confugientes extrahere violenter, curati, in quorum parrochijs talia acciderint, decano loci infra octo dies a tempore sue noticie, et decanus predictus infra quindecim dies postmodum subsequentes, nomina malefactorum, factum huiusmodi et qualiter super hoc possimus informari, nobis vel officiali nostro referant; quod si non fecerint, grauiter puniemus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) Item statuimus quod, quocienscumque cessari contingat in nostra diocesi a diuinis, causam cessationis, nomina eorum ob quorum causam cessatur et alias circonstancias curati, seu eorum vices gerentes, locorum in quibus cessatur, infra octo dies decanis suis, et decani infra quindecim dies, nobis vel officiali nostro referant vel rescribant; alias penam viginti solidorum turonensium, quocienscumque contrafecerint, nobis soluere teneantur.</p>
+                    <p>De moneta.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) Item, cum tam ex principali nobilitate nostri comitatus Cameracensis quam ex concessione imperatorum nobis in solidum liceat, et nulli alij, monetam infra limites nostri comitatus Cameracensis facere cudi et fabricari, Nosque pro nostro tempore, et predecessores nostri soli et in solidum pro suis temporibus, fuerimus in possessione pacifica, a tempore cuius contrarij memoria non existit, faciendi cudi et fabricari monetam huiusmodi infra limites predictos, monemus omnes et singulos nobis subditos, cuiuscumque sint condicionis aut status, primo, secundo, tercio et peremptorie, ne monetam aliam, sub nomine alio quam, nostro, infra limites predictos quomodolibet fabricent, aut fabricari faciant [1], recipiant seu approbent, aut vtantur eadem qualibet causa eiusdem approbante; alioquin contrafacientes excommunicamus ipso facto in hijs scriptis, et nichilominus penas, quas fabricantes monetam falsam et adulterinam ac vtentes eadem debent incurrere, se nouerint incursuros.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] Originally [faciant].</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

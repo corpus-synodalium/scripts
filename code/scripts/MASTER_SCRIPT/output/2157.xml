@@ -1,0 +1,114 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cambrai</title>
+                <recordID>2157</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate precision="circa">1369</origDate>
+                <dateNotes/>
+                <origPlace>Cambrai</origPlace>
+                <diocese>Cambrai</diocese>
+                <province>Reims</province>
+                <country>Belgium</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 2157</p>
+                <p>Year: 1369</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: Yes</p>
+                <p>DatingNotes: or 1370</p>
+                <p>Place: Cambrai</p>
+                <p>Diocese: Cambrai</p>
+                <p>Province: Reims</p>
+                <p>CountryModern: Belgium</p>
+                <p>Latitude: 50.175579</p>
+                <p>Longitude: 3.2345</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: Yes</p>
+                <p>ClassificationNotes: issued by vicars general</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Reusens, Statuta, 112</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Library Scan', 'WebDownload']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Locus LXXIus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) Nos vicarij generales jn spiritualibus et temporalibus reuerendj in Christo patris ac domini nostri domini Robertj, Dej gratia Cameracensis episcopi, in remotis agentis, virtute specialis commissionis a dicto reuerendo patre nobis facte, sanctam synodum in ecclesia Cameracensi auctoritate dicti reuerendi patris celebrantes, nolentes quod graues et enormes excessus, qui proch dolor de die in diem jn ciuitate et diocesi perpetrantur, maneant impunitj, statuto quod incipit, Cum laycis de rebus ecclesie disponendis nulla sit attributa potestas, etc., in [1]: Item statuimus quod, si in nostra diocesi contingat, quod absit, excessus enormes, etc., post illa verba contrahere uiolenter, addimus verba sequentia videlicet grauem manuum iniectionem in clericos, uel a clericis in laycos notorium crimen jncestus et vsuras committere, uel in eisdem perseuerare, matrimonium illicitum coniungere, suum uel suam absque judicio Ecclesie dimittere, ac adulterare, raptus mulieris, violenter portitores litterarum curie Cameracensis rapere ac capere, verberare, jurisdictionem ecclesiasticam quomodolibet impedire, sacrilegia, heresim seu sodomiam, aut alios graues et publicos excessus committere.</p>
+                    <p>Item statuto quod incipit, Quoniam legitur in canone, etc.: Statuimus ut singulj presbiteri alta voce, etc., jn fine illius, post illud verbum obmiserunt, addimus hec verba scienter, gratia vel fauore, suspensionis sententiam jncurrat ipso facto »; verba sequentia videlicet in quinque solidos parisienses subtrahentes.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] Deleted: ¤</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

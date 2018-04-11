@@ -1,0 +1,141 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Durham</title>
+                <recordID>0782</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1319</origDate>
+                <dateNotes/>
+                <origPlace>Durham</origPlace>
+                <diocese>Durham</diocese>
+                <province>York</province>
+                <country>England</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 782</p>
+                <p>Year: 1319</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Durham</p>
+                <p>Diocese: Durham</p>
+                <p>Province: York</p>
+                <p>CountryModern: England</p>
+                <p>Latitude: 54.7761</p>
+                <p>Longitude: -1.5733</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Lewis de Beaumont</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Wilkins, II, 495-497</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: https://books.google.com/books?id=FRtUAAAAcAAJ</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Data Capture']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>All Text</head>
+                    <p>LUDOVICUS, permissione divina Dunelm. episcopus, ad perpetuam memoriam futurorum.</p>
+                    <p>Cupientes, prout nostro incumbit officio, ut exclusa malitia et negligentia quorumlibet ministrantium, ac postulantium, et procurantium in nostro consistorio, seu curia Dunelm. excitata diligentia eorundem; necnon sublatis fraudibus ac dilationibus supervacuis, et quibuslibet aliis impedimentis emergentibus amputatis, exhibeatur cuique in dicto nostro consistorio sive curia celeris justitiae complementum, infrascripta statuenda duximus, quae praecipimus perpetuis temporibus inviolabiliter observari.</p>
+                    <p>Cum illud, quod frequentius aspicitur, in memoria districtius teneatur; quodque ea, quae noviter inculcata non fuerint, saepius negligantur; statuto bonae memoriae R. quondam Dunelm. episcopi, ultimi praedecessoris nostri, super juramento praestando ab advocatis et procuratoribus nostri consistorii, seu curiae Dunelm. dudum edito, adjiciendo statuimus; quod juramentum sub forma in dicta constitutione plenius comprehensa ab omnibus et singulis advocatis et procuratoribus praefati nostri consistorii, seu curiae, in proxima sessione post festum beati Michaelis archangeli, annis singulis de caetero exigatur pariter et praestetur.</p>
+                    <p>Qui autem juramentum illud non praestiterit, ad postulandum vel procurandum coram nobis officialibusve nostro seu nostris, aut suis commissariis nullatenus admittatur.</p>
+                    <p>Nullus procurator negotium alicujus causae suscipiat, neque libellos, petitiones, exceptiones, aut articulos faciat sine consilio advocati; quod si solus fecerit, tamdiu a procurationis officio suspendatur, donec praesidentis ipsius curiae gratiam consequatur.</p>
+                    <p>Item procuratores advocatos suos de exceptionibus, defensionibus, et aliis, quae in causis, in quibus advocati existunt, ordinanda vel agenda fuerint, praemuniant tempestive, ut in competenti deliberatione omnia fieri valeant, atque scribi, et die litis adveniente, in praeconizatione causae ea proponant continuo bene scripta, ita quod non possit eorum aliqua negligentia deprehendi, alioquin duos aureos fabricae ecclesiae nostrae Dunelm. solvere compellantur.</p>
+                    <p>Adhoc procuratores scribant, vel scribi faciant copiam procuratoriorum suorum generalium, quam habent in aliis procuratoriis; et ipsam copiam per clericum registri, cum suo originali examinatam, die exhibitionis procuratorii penes registrum dimittant: procuratoria vero specialia penes registrum remaneant, prout debent.</p>
+                    <p>Scribant insuper, vel scribi faciant, de bona litera et legibili, libellos, petitiones, articulos, exceptiones, et omnia alia, quae per eos occurrerint conscribenda; et in fine cujuslibet petitionis competens spatium dimittatur, in quo responsiones ad petitiones ipsas faciendae, distinctius scribi possint, sub poena sex denariorum fabricae ecclesiae Dunelm. applicand.</p>
+                    <p>Statuimus insuper, quod duo sint tantum examinatores in curia seu consistorio Dunelm. quorum unus sit officialis Dunelm. commissarius generalis.</p>
+                    <p>Et si commissarium talem officialis non habeat, tunc alius ejus loco, qui sapiens fuerit in constructione jurium, et effectus verborum, testium, et dicta eorum a lingua materna in Latinum discrete transferre dignoscat, et officialem, seu ejus commissarium debite informare, quanta sit fides testium cuilibet adhibenda, quorum dicta multotiens sequi oportet in sententiis proferendis, per officialem, qui pro tempore fuerit, ad examinatoris officium assumatur.</p>
+                    <p>Alter vero sit clericus ad registrum ipsius curiae deputatus, cum quo officialem Dunelm. et ejus commissarium praedictum communicare oportebit consilia, et ipsius causae secreta; quos volumus, sicut nec caeteros ministros dictae curiae se praebere in adeundo difficiles, nec qui sint nimis onerosi exactores sumptuum vel mercedum, sed pro examinatione sua in singulis causis, etiamsi post examinationem testium, aut aperturam attestationum, partes ipsae quavis ex causa a lite decesserint, salarium accipiant moderatum, ad cujus solutionem partes juxta praesidentis arbitrium compellantur.</p>
+                    <p>Caveant insuper advocati et procuratores, ne tumultum faciant in consistorio, dum officialis, vel suus commissarius praesens fuerit in eodem; sed in proponendo et dicendo, et allegando, honorem debitum praesidenti faciant; ac dum unus loquitur, alii taceant, et quilibet alteri deferat, prout decet.</p>
+                    <p>Quodsi quis tumultuosus vero litigator, improbus, vel probrosus per praesidentem monitus non destiterit, eo ipso in contemptus hujus sui poenam ab officio sit suspensus, donec per praesidentem ipsum congrua satisfactione praemissa fuerit restitutus.</p>
+                    <p>Item statuimus, quod advocati et procuratores, horis debitis per praesidentem statutis, ad consistorium conveniant; qui exinde, dum officialis, vel ejus commissarius ibidem praesens fuerit, saepius, vel ex consuetudine non recedant, nisi de praesidentis licentia speciali; quodsi secus fecerint, per unum consistorium a postulationis seu procurationis officio suspendatur, vel alias puniatur, prout visum fuerit praesidenti.</p>
+                    <p>Item nulla dilatoria exceptio contra articulum super exhibitione testamenti alicujus per legatarium petita, nec contra articulum propositum per legatarium, super legato quod in testamento continetur; seu contra libellum vel articulum in causa matrimoniali, seu causis minimis, aut aliis, quae celeritatem desiderant, sive in quibus velo levato fuerit procedendum, praeposita, nisi sit excommunicationis majoris exceptio, vel ipsum libellum seu articulum evidentissime nullum reddat; aliqualiter proponatur.</p>
+                    <p>Quodsi articulum super legato in testamento relicto, per legatarium propositum litem contestari contigerit ab hac forma:</p>
+                    <p>Dico narrata vera esse, sed petita fieri non debere: sic contestanti litem terminus ad proponendum omnes exceptiones et defensiones suas in proximo consistorio assignetur; ultra quem terminum, si nihil effectuale propositum fuerit, nullatenus audiatur, sed statim fiat condemnatio in petitis.</p>
+                    <p>Item supervacuarum dilationum materiam amputare volentes, statuimus, quod libello oblato in causis, in quibus dilatoriarum exceptionum propositio fuerit admittenda, statim unus terminus competens, juxta praesidentis arbitrium, parti reae ad deliberandum, et ad proponendum omnes exceptiones suas dilatorias, assignetur; et uno eorum in assignatione ipsa expresso, alterum intelligi volumus per hoc exprimi in eadem.</p>
+                    <p>Quodsi in termino sic statuto contingat partem ream inter exceptiones dilatorias, quas proponit, aliquam vel aliquas protestari; decrevimus, quod omnes protestatae secundo die, vel tertio immediate sequenti, vel in sessione proxima, prout praesidenti visum fuerit, proponantur cum effectu; ut tunc simul, super omnibus disputetur.</p>
+                    <p>Si vero praesidenti visum fuerit legitime fore, non obstantibus dilatoriis, contestandum, ad contestandam litem pars rea per censuram ecclesiasticam compellatur.</p>
+                    <p>Quodsi procurator partis reae fuerit, qui litem ad jussum praesidentis recusaverit contestari; tamen nihilominus a procuratoris officio suspendatur, donec dimidiam marcam persolverit fabricae nostrae ecclesiae applicandam.</p>
+                    <p>Contestatione insuper litis facta, si personae praesentes fuerint, per quas, juxta electionem partis actricis, quam statim eligere praecipimus, utrum voluerit per principales partes, vel procuratores partium in causa jurari, in causa hujusmodi est jurandum secundum qualitatem et naturam causae, continuo jurent partes, ad quod per praesidentem, juxta juris exigentiam, per poenas canonicas compellantur.</p>
+                    <p>Et si procurator fuerit, qui jussus per praesidentem jurare recusat, feriatur poena superius comprehensa; et si se super hoc non esse instructum allegaverit, cum, antequam litem contestetur in termino ad deliberandum prius dato, tractari debuerat cum domino suo, et plene instrui super causa; juramento vero sic praestito, statuatur parti, quae ponere voluerit, tantum unus terminus ad ponendum.</p>
+                    <p>Quodsi partes, vel earum altera, per quas, vel per quam juxta partis actricis electionem hujusmodi est jurandum, praesto non fuerit; citentur absentes, quod compareant in termino, ad praesidentis arbitrium statuendo, personaliter juraturae, quem terminum ne partes ipsae saepius ad judicium personaliter redeundo inanibus laboribus, et expensis fatigari contingant, ad ponendum parti ea, quae ponere habet; decrevimus intelligi eo ipso terminum peremptorie fore statutum, ut tunc juramento praestito continuo ponat pars, si ponere voluerit, nullum alium terminum, ad ponendum, cum de hac antea sibi sufficienter providere potuerat, habitura; parsque alia, ad posita statim respondeat; et tunc, si plene non responderit, assignetur sibi terminus ad respondendum plene eisdem arbitrio praesidentis, sub poena, quod in dicto termino positiones, ad quas tunc plene responsum non fuerit, pro confessatis totaliter habeantur.</p>
+                    <p>Statuimus insuper, quod pars rea factum contrarium, si quod sibi competat, proponat ante terminum, vel saltem in termino, parti actrici die secundo producendum per judicem assignato; ut probationes concurrant, si possibile fuerit, hinc et inde; post quem terminum eadem pars rea ad proponendum factum contrarium nullatenus admittatur; nec procuratori ejusdem ad deliberandum cum domino suo ulterior dilatio concedatur, cum, antequam litem contestetur, tractare debuerat cum domino suo, et plene instrui super defensionibus causae suae.</p>
+                    <p>Volumus insuper et statuimus, quod illa salubris constitutio Bonifacii;</p>
+                    <p>[1] Quoniam, ut intelleximus, [2] titulo [3] De immunitate ecclesiarum, [4] libro sexto, publice legatur in consistorio bis per annum; viz. in proximo consistorio post festa sancti Michaelis, et Paschae.</p>
+                    <p>Et si quis advocatus, etiam procurator, aut notarius, seu quis minister ipsius curiae Dunelm. contra eandem constitutionem, in jurisdictionis ecclesiasticae praejudicium, clam vel palam fecisse, procurasse consilium, vel auxilium praestitisse deprehensus fuerit, seu convictus, in poenam in dicta constitutione contentam ipsum incidisse publice nuncietur; et nihilominus ab omni officio in dicto consistorio perpetuo sit exclusus.</p>
+                    <p>Haec autem statuta salubria praecipimus et decrevimus in singulis causis, et negotiis, tam inchoatis, quam de caetero inchoandis, et nunc pendentibus, cum ad statum illum deventum fuerit in eisdem, in quo statuta ipsa locum sibi vendicant, inviolabiliter observare; et ea, ac statuta bonae memoriae domini R. quondam Dunelm. episcopi, praedecessoris nostri memorati, circa ministros et personas in consistorio Dunelm. exercentes dudum edita, bis in annis singulis, ut eorum recentior habeatur memoria; viz. in proximo consistorio post festa Paschae, et sancti Michaelis, in consistorio ipso solenniter publicari.</p>
+                    <p>Acta et data Dunelm. primo die Octobris, anno Dom. M.CCC.XIX. et consecrationis nostrae secundo.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] Open quotation marks here.</p>
+                    <p>[2] Close quotation marks here.</p>
+                    <p>[3] Open quotation marks here.</p>
+                    <p>[4] Close quotation marks here.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

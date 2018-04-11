@@ -1,0 +1,664 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Saint-Ruf</title>
+                <recordID>0341</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1326-06-18</origDate>
+                <dateNotes/>
+                <origPlace>Saint-Ruf</origPlace>
+                <diocese>Avignon</diocese>
+                <province>Arles, Aix-en-Provence, Embrun</province>
+                <country>France</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Provincial</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 341</p>
+                <p>Year: 1326</p>
+                <p>Month: 6</p>
+                <p>Day: 18</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Saint-Ruf</p>
+                <p>Diocese: Avignon</p>
+                <p>Province: Arles, Aix-en-Provence, Embrun</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 43.932908</p>
+                <p>Longitude: 4.812217</p>
+                <p>PlaceNotes: see Boisset, Reception, 43</p>
+                <p>Classification: Provincial</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Albanes, Gallia christiana novissima, Arles, cols. 612-633, no. 1520; </p>
+                <p>EditionOther: Mansi 25, col 739-774</p>
+                <p>SourceNotes: https://books.google.com/books?id=qCrLfNPi-fcC</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'WebDownload']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: Joint council for provinces of Arles, Aix-en-Provence, Embrun</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Statuta edita in consilio provinciali per Arelaten., Aquen., Ebredunen. archiepiscopos celebrato.</p>
+                    <p>Sequitur prohemium.</p>
+                    <p>In nomine sancte et individue Trinitatis, Patris et Filii et Spiritus sancti, videlicet anno Domini millesimo CCCo.XXo.VIo, die decima octava mensis junii, indictione nona, pontificatus sanctissimi patris domini nostri domini Johannis, divina providentia pape XXII. anno Xo.</p>
+                    <p>Noverint universi quod reverendi in Christo patres Dei gratia domini Gasbertus Arelatensis, Jacobus Aquensis et Bertrandus Ebredunensis archiepiscopi, de infrascriptorum episcoporum suffraganeorum presentium, vicariorum ac procuratorum suffraganeorum, capitulorum et abbatum, suarum dyosesum et provinciarum, absentium, consilio et consensu; videlicet dictus dominus Gasbertus Arelatensis archiepiscopus, cum venerabilibus in Christo patribus eadem gratia dominis Raymundo Vasionensi, Dragoneto Tricasterno, Othone Carpentoratensi, Gaufrido Cavallicensi, Ademaro Massiliensi, et Petro Tholonensi episcopis, ipsius suffraganeis; et venerabilibus et discretis viris dominis Geraldo de Caupomulo, episcopatus Avinionensis in spiritualibus et temporalibus, ut dicitur, ac religioso Petro Guiraudi, priore Valriacii, Vasionensis diocesis, domini Hugonis Auraycensis episcopi, absentis, vicariis generalibus, et cum Arelatensis, Avinionensis, Tricastrini, Vasionensis, Carpentoratensis, Cavallicensis, Massiliensis, Tholonensis, Auraycensis capitulorum procuratoribus, sufficienter comparentibus.</p>
+                    <p>Et dictus dominus Jacobus Aquensis archiepiscopus, cum Raymundo Sistaricensi, Bartholomeo Forojuliensi, Guillelmo Vapincensi, Raymundo Aptensi episcopis, ipsius suffraganeis, presentibus; et cum venerabili viro dno Raymundo Johannis, preposito Regensi, pro se [1] et procuratorio nomine venerabilis patris domini Roncelini, Regensis episcopi, absentis, etiam cum Aquensis, Sistaricensis, Forojuliensis, Vapincensis, Aptensis, Regensis capitulorum procuratoribus, sufficienter comparentibus.</p>
+                    <p>Et dictus dns Bertrandus, Ebredunensis archiepiscopus, cum venerabili patre fratre Fulcone, Venciensi episcopo, presente, et cum venerabilium in Christo dominorum Gaufridi Gracensis, Rostagni Niciensis, G. Dignensis, B. Senecensis, et A. Glandatensis episcoporum, ipsius suffraganeorum, absentium, procuratoribus, sufficienter comparentibus; necnon et cum Ebredunensis, Venciensis, Niciensis, Dignensis, Senecensis et Glandatensis capitulorum, ac Boscaudonensis et Sancti Poncii de Nicia monasteriorum abbatum procuratoribus, sufficienter comparentibus; in loco seu domo [2] monasterii Sancti Ruffi, prope Avinionem et diosesis Avinionensis, Arelatensis provincie supradicte, provinciale consilium celebrantes; porrogata primo jurisdictione de locis ad locum, per dictos dominos Aquensem et Ebredunensem archiepiscopos [3], et eorum suffraganeos; consenciente dicto dno Arelatensi archiepiscopo, etiam episcopatus Avinionensis in spiritualibus et temporalibus generali vicario, et consencientibus procuratoribus supradictis.</p>
+                    <p>Ad honorem Dei, et gloriose Virginis matris sue, et omnium civium supernorum, ac morum reformationem, delictorum et excessuum correctionem, ac suarum animarum et subditorum suorum utilitatem, et ad statum ecclesiasticum salubrius observandum, statuta infrascripta, hoc sacro approbante consilio, concorditer [4] ediderunt, quorum tenor sequitur hiis verbis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) De missa beate Marie semel in ebdomada solemniter celebranda.</p>
+                    <p>In primis igitur statuimus, et communiter ordinamus, quod missa de beata Maria, additis collectis Ecclesie tue et Deus a quo bona, in die sabbati, si festum IX. lectionum non impediat, alioquin in alia vacante feria ipsius ebdomade, pro pace et tranquillitate, et bono statu ecclesie observando, ne inimicis ejus ad cor et ad penitentiam convertendis, solemniter in singulis ecclesiis celebretur.</p>
+                    <p>Et ut ad veniendum fideles ferventius inducantur, singulis ad missam venientibus, vere penitentibus et confessis, X. dies de injunctis sibi penitentiis misericorditer relaxamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) De indulgentia associantibus Corpus Christi, cum ad infirmos portatur, concessa.</p>
+                    <p>Si propter Christum reverentia sanctis ejus impendi precipitur, dignum est sacrum Corpus ejus coli veneratione precipua, quod utique in illius passionis memoriam consecratur.</p>
+                    <p>Statuimus igitur et jubemus quatenus sic singuli rectores, priores et vicarii ecclesiarum provinciarum nostrarum, civitatum et diocesum, parrochianos suos salutaribus monitis inducere studeant, ut sanctissimum Corpus dominicum, dum presbiter ipsum portans in viaticum ministrandum egroto, reverenter associent, ac etiam luminarium exhibitione decenter honorent; illis qui associabunt de nocte, vel de die, sine luminaribus, decem, qui vero cum luminaribus vel luminaria etiam mittent per alium, de die XXti, de nocte XXXta dierum indulgentiam, ex concessione nostra, dum tamen vere penitentes ac confessi fuerint, habituris.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) De indulgentia concessa devote intercedentibus apud Deum, pro domino papa, et ejus regimine prosperando.</p>
+                    <p>Item, cum secundum sacre Scripture testimonium, multum valeat deprecatio justi assidua, eo quod, oculi Domini super justos, et aures ejus ad preces eorum [6], ut Psalmista testatur; pia deliberatione presentis consilii duximus concedendum, quod quicumque Christianus fidelis, vere penitens et confessus, nostrarum provinciarum, civitatum et diocesum, devotas orationes infundere, et pia vota emittere curaverit, presertim in missarum solemniis, ante divine majestatis conspectum, a quo cuncta bona procedunt, ut per suam ineffabilem [7] misericordiam, sanctissimum patrem et dominum, dominum nostrum papam regere, et in sue pacis gratia conservare et custodire, fidemque catholicam toto orbe terrarum, multiplicare dignetur; videlicet, quilibet nostrum episcoporum, per totam suam civitatem et diocesim, de injunctis sibi penitentiis, XL. dies misericorditer relaxamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) De indulgentia concessa fidelibus, qui audito nomine Jesu, devotius se inclinant.</p>
+                    <p>Cum felicis recordationis dns Gregorius papa X, per sacrum constitutionis oraculum, quoslibet Christiani nominis caractere insignitos invitaverit, ut nomen istud quod est super omne nomen, a quo non est subcelo aliud datum hominibus [8], nomen videlicet Jesu Christi, exhibitione reverentie specialis attollerent, et precipue, dum aguntur sacra misteria, illud quandocunque recolitur, veneratione dignum, devota capitis inclinatione, monstrarent.</p>
+                    <p>Nos, de nostrorum subditorum salute solliciti, volumus ut singuli rectores ecclesiarum, et vicarii, nostrarum provinciarum et diocesum, ad hoc ipsum faciendum, plebes sibi subjectas moneant efficaciter et inducant.</p>
+                    <p>Et ut illud libentius faciant quo uberioris retributionis premium exinde senserint proventurum, nos singulis in illius gloriosi nominis memoria se inclinantibus reverenter, utique vere penitentibus et confessis, decem dierum concedimus indulgentiam, quoties [10], ut prefertur, id fecerint valituram.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) De claudendis fontibus baptismatibus, ne quid in eis sordidum immittatur.</p>
+                    <p>Sacri fontes, in quibus originale aboletur culpe contagium, per baptismatis aque visibile sacramentum, coli debent digno venerationis honore, ut nec indevotis contrectationibus pateant, nec extrinsecus advenientium inquinamento sordescant.</p>
+                    <p>Statuimus igitur ut singuli parrochialium ecclesiarum rectores, nostrarum civitatum et diocesum, in quibus sunt fundati fontes hujusmodi, eos infra instans festum Nativitatis dominice, sic claudi cum clavibus faciant et aptari, quod nullus sordidus ad illos ingressus immineat, poscior quia reverentia illius quod inibi traditur sacramenti successit; V. solidorum pena quibuslibet feriendis, qui hoc contempserint agere, in opus ecclesie, vel pios usus alios ad nostrum arbitrium, cedendorum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>(6) De sententia excommunicationis ab ordinario lata, exigente excommunicati inobedientia, per prelatos vel alios publicanda.</p>
+                    <p>Item statuimus quod, ex quo, per propriam civitatem et diocesim, lata per prelatum aliquem excommunicationis, suspensionis vel interdicti sententia competenti tempore fuerit divulgata, et ibidem, exigente rebellium et inobedientium duritia, per X. dies extiterit solemniter aggravata, ex tunc, requisito tamen proprio metropolitano publice aggravatam publicante, seu publicari faciente dictam sententiam, licitum sit eidem prelato, hujusmodi auctoritate consilii, ceteros episcopos et prelatos requirere, ut ipsius sententias, quarum tenorem et causam declaret in scriptis, in suis districtibus servent, et faciant observari, publicent et faciant diebus ad hoc congruentibus publicari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>(7) Qualiter contra illos qui excommunicationis sententiam contemnentes, exemplo pernicioso peragunt, procedatur.</p>
+                    <p>Ceterum, abominabilis, proh dolor! sicut ad nostrum, tam de longinquo quam e vicinio, pervenit auditum, in quibusdam partibus inolere cepit abusio.</p>
+                    <p>Nam aliqui filii Belial, qui nec Deum timent, nec homines reverentur, iniquitatem bibunt ut aquam; qui dum sententias vilipendunt, dum medicinum, que fuerat ad salutem, rejiciunt, mortis incurrunt periculum, et ad interitum sue perversitatis exemplo nonnunquam inducunt alios et seducunt.</p>
+                    <p>Isti quidem, in Dei obprobrium, in contemptum promulgatoris, et sententie promulgate neglectum, non minus viliter quam damnabiliter procedere, ymo verius execrabiliter excedere non formidant, utpote dum adulterinum presbiteri vel prelati consurgentes officium, et interdictum sibi usurpantes ministerium, excommunicationem, ymo verius execrationem, versa sed perversa vice, in excomniunicatores, seu denunciatores suos, simulare presumunt, accensos palearum fasciculos, aut candelas de cepo, seu carbones, aut titiones ardentes, in patellis, conchiis, aut sarthaginibus, vel similibus, vituperabiliter extinguendo.</p>
+                    <p>Cum igitur talia, et hiis similia, in Dei vergant obprobrium, et ecclesiastice discipline redundent contemptum; statuimus, et sub pena excommunicationis districtius inhibemus, ne quis clericus, vel laycus, cujuscumque ordinis, dignitatis, conditionis, vel status existat, rem tante perniciei de cetero, per se vel alium, aut pro se vel alio, attentare presumat.</p>
+                    <p>Qui vero hujusmodi saluberrimi statuti transgressor extiterit, et infra triduum exinde emendum competentem non exhibuerit, ex tunc se sentiat excommunicationis vinculo innodatum.</p>
+                    <p>Locus nutem ubi hec, vel similia, domino loci sciente, seu mandante, vel ratum habente, vel postquam requisitus fuerit, vel ejus locum tenens, infra decem dies corrigere negligente, presumpta fuerint, ecclesiastico tamdiu sit et remaneat suppositus interdicto, donec ad [11] mandatum ecclesie quam delinquens offendit, et prelato quem irreverenter despexit, sufficiens et idonea satisfactio, et realis emenda, prestita fuerint; quam, cum in talibus non sit relaxanda vindicta, offensus prelatus minime remittere valeat ullo casu.</p>
+                    <p>Eisdem penis subjacere volumus illos et illas, qui vel que talia fieri mandaverunt, vel aliter opem, vel operam, aut consilium prebuerunt; si rem tamen tam detestabilem prodire contingerit detestabiliter et in effectum.</p>
+                    <p>Addito quod eorum posteri, usque ad secundam generationem, in clericorum collegium nullatenus admittantur, nisi prius per metropolitanum cum uno suffraganeo misericorditer cum ipsis fuerit super hoc [12] dispensatum.</p>
+                    <p>Si vero clericus beneficiatus, vel in [13] dignitate, vel personatu, vel officio constitutus, taliter excesserit, ultra penam layco inflictam, beneficio, si quod in nostris provinciis obtinet, sit ipso facto presentis auctoritate consilii, privatus.</p>
+                    <p>Non beneficiatus autem ad obtinendum beneficium sit ex tunc inhabilis et indignus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>(8) Ne ecclesiastice persone titulum jurisdictionis quam pacifice possederunt, secularibus ostendere teneantur.</p>
+                    <p>Item, quod seculares domini, cujuscumque conditionis existant, vel bajuli, seu baylivi, seu officiales eorum, qui prelatos seu ecclesiarum rectores aggravant, cogentes [14] ostendere quare merum vel mixtum imperium, aut justicias altas, medias, vel minores, tenent, licet tenuerint multis annis, et si coram eis hec non probent, usurpare, accipere, et sibi applicare, sine alia cause cognitione, motu proprio non verentur; si a talibus excessibus desistere moniti neglexerint, et ad usurpandum, sine aliqua rationabili causa processerint, tam ipsi, quam illi qui eis in hac parte obedient, excommunicationis incurrant sententiam ipso facto.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>(9) Ut persona ecclesiastica per nullum judicem temporalem in [15] criminalibus aut personalibus distringatur.</p>
+                    <p>Item, ut nullus dominus temporalis, vel judex, seu delegatus ejusdem, cujuscumque conditionis, dignitatis, vel status existat, clericum, vel personam ecclesiasticam, vel religiosam, coram se, super criminalibus, vel personalibus, citet vel citari faciat, seu quoquo modo distringat.</p>
+                    <p>Quod si fecerit, et in hoc perstiterit, et infra octo dies non se correxerit, et quod incaute presumpserit, non relaxaverit, ex tunc sententiam excommunicationis incurrat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>(10) Nec clericus contra clericum ad judicem secularem, vel ad alium laycum, pro facienda justitia, vel inferenda violentia, non recurrat.</p>
+                    <p>Item, prohibemus statuendo et statuimus prohibendo, ut nulla persona ecclesiastica, de clerico, vel ecclesiastica persona qualicumque conquerens, super spiritualibus, vel ecclesiasticis, aut criminalibus, vel personalibus quibuscumque, recurrat ad curiam, vel principem, aut dominum alium secularem, vel laycum quantumcumque, super justitia facienda, vel violentia clerico, in persona vel rebus ad eum pertinentibus, inferenda; nec cum ipso, vel ipsis, super eisdem, sine conscientia prelati, vel officialis sui, pactum quoquo modo inire presumat, nec factum observet.</p>
+                    <p>Alioquin, querelam exponens, vel denunciationem faciens, et in eis persistens, vel patiens et pactum observans, a jure suo, eo ipso, cadat, nulla alia super hoc expectata sententia.</p>
+                    <p>Et donec super eo, ad arbitrium prelati satisfecerit, omni beneficio ecclesiastico, quod obtinet, noverit se suspensum, et ad obtinendum indignum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>(11) Provisio contra illos qui bona ecclesiarum et jura, et ecclesiasticarum personarum, subtrahunt, diminuunt, dissipant et invadunt.</p>
+                    <p>Cum aliqui suis finibus non contenti, passim aliena diripiunt, et ecclesiasticas libertates infringere non verentur; approbante presenti consilio, statuimus, quod quelibet persona secularis, aut ecclesiastica, nobilis aut alia, cujuscumque preeminentie, dignitatis, officii, conditionis aut status fuerit, que ecclesias vel capellas, seu earum cimiteria, hospitalia, reclusoria [16], domos, possessiones, loca, villas, castra, census, tascas [17], trezena, laudimia, vintena, lendas, pedagia, molendina, piscarias, sive reclausas, jurisdictionem, seu alia quecumque jura, seu etiam eorum homines, seu familias, animalia, aut bona alia quecumque, quelibet, mobilia seu immobilia, quo quidem mobilia valorem X. solidorum monete currentis excedant, sive domos religiosas, aut hospitalia, vel reclusoria [18], seu leprosias, quomodolibet invadere, capere, occupare, detinere, pignorare, seu gajare, per se vel alium, vel inquietare quomodolibet, seu turbare; necnon et qui contra ecclesias, sive capellas, aut clericos, sive personas ecclesiasticas, sive eorum homines, loca, villas vel castra, seu mansiones; aut contra libertates ecclesiasticas, vel domos religiosas, aut hospitalia, sive reclusoria [19], vel leprosias, quomodolibet ledere, vel facere quevis statuta, vel banna, seu preconizationes, aut novitatem quamcumque; sive cuilibet ex predictis, directe vel indirecte, violentias aut molestias irrogare, seu eis super bonis quibuslibet, ecclesiasticis seu patrimonialibus, questas, aut tallias, angarias sive perangarias, aut necessitates quaslibet, aliqualiter imponere vel inferre; sive domos ecclesiarum, vel clericorum, sive personarum ecclesiasticarum, occasione quacumque ferrare sive plancare, seu eorum bona quecumque bannire, seu etiam vias aliquas ubilibet adinvenire vel [20] facere, per quas ecclesie, vel earum ville, castra, vel loca, in pedagiis sive leudis, aut in quibuslibet aliis juribus, possint in aliquibus diminui, vel etiam pejorari; sive itinera, aut vias, vel stratas publicas aut privatas, infra limites, sive territoria, vel districtus, locorum, vel villarum, sive castrorum ecclesiastice jurisdictionis auferre, vel sibi quomodolibet appropriare, attribuere, seu etiam applicare, vel terminos eorum artare presumpserit, seu attentaverit, per suam potentiam aut violentiam, sive malitiam, nisi infra sex dies super hiis, a die captionis, sive invasionis, attentationis, turbationis, seu inquietationis, sive presumptionis hujusmodi, per emendam, seu per revocationem debitam, seu alias, ut res exegerit, plene satisfecerit, excommunicationis subjaceat ipso facto.</p>
+                    <p>Quam siquidem excommunicationis sententiam, cum de premissis, seu eorum aliquibus, cuilibet ordinario, vel ejus officiali, summarie constiterit et de plano, ex mero officio, et sine strepitu judicii et figura, volumus, et statuendo mandamus, executioni debite per ipsum quemlibet ordinarium, seu officialem ipsius certificatum, de plano mandari per universas ecclesias nostrarum provinciarum, civitatum, et dyocesum, sicut viderit plenius expedire.</p>
+                    <p>Super quo, tam in genere quam etiam contra quascumque personas singulariter nominandas, plenam habeat facultatem, et insuper etiam ad gravandam hujusmodi sententiam, prout ei videbitur expedire.</p>
+                    <p>Et si dominus, vel rector, civitatis, castri, ville vel loci alicujus, aut officialis ejus, in predictis vel aliquo predictorum culpabilis fuerit, et per sex dies [21] in excommunicatione perstiterit, civitas, castrum, vel locus, vel villa hujusmodi, ecclesiastico subjaceat interdicto.</p>
+                    <p>Si vero universitas delinquerit in predictis, illi qui universitatem, vel singulares personas ad id induxerint, commoverint, vel defenderint, et singuli qui in aliquo premissorum culpabiles fuerint, post sex dies, ipso facto excommunicationem incurrant; universitas vero, nisi infra X. dies emendam fecerit competentem, ecclesiastico subjaceat interdicto.</p>
+                    <p>Si vero predicta injuria per alium quemlibet illata fuerit, et dominus, vel rector, aut officialis, infra cujus jurisdictionem injuria predicta fuerit irrogata, requisitus per ordinarium, seu vicarium, vel officialem ejusdem, vel locumtenentem, vel vicegerentem, aut etiam delegatum, infra X. dies, satisfactionem vel emendam fieri non fecerit competentem, excommunicationem se noverit incurrisse; quam, si per X. dies sustinuerit, terra cui prefuerit, ecclesiastico subjaceat interdicto.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>(12) Provisio contra illos qui bona ecclesiastica invaserunt, vel quomodolibet occuparunt.</p>
+                    <p>Item, statuimus, et etiam ordinamus, quod quecumque persona, cujuscumque gradus, dignitatis, status vel conditionis existat, que bona quecumque, sive jura, ad ecclesias, vel ecclesiasticas personas, quomodolibet pertinentia, detinet occupata, vel que in prejudicium ecclesiarum, vel ecclesiasticarum personarum, et jurium earumdem, aliquas fecerit indebitas novitates, plene restituat, et cum effectu revocet, et satisfactionem faciat infra mensem, postquam fuerit requisita [22]; quod nisi fecerit, excommunicationis sententie se noverit subjacere.</p>
+                    <p>Et si universitas, vel dominus, seu rector, aut officialis, in predictis culpabiles fuerint [23], universitas ipsa, et locus hujusmodi, ubi predicta, vel aliquod predictorum, commissa fuerint, si sub ejus dominio fuerit, alioquin locus suus, ubi habuerit suum domicilium principale, ecclesiastico subjaceat interdicto.</p>
+                    <p>Universitatem autem sufficienter requisitam, quoad presens propositum, reputamus, cum dominus, vel officialis, qui ibi prefuerit, nominatim expressa injuria, ut eam revocari faciat, fuerit requisitus; vel cum per III. dies dominicos publice, dum celebrantur divina misteria, per sacerdotem parochialem, vel ejus locumtenentem, de mandato ordinarii, vel officialis ejusdem, significatum fuerit quod de injuria, novitate, et damnis nominatim exprimendis satisfaciat competenter.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>(13) Ne quis in loco suo retineat bona ecclesiarum alibi indebite ablata.</p>
+                    <p>Item, loca ad que bona ecclesiarum, vel ecclesiasticarum personarum, per violentiam manifestam, seu notoriam injuriam, sine causa [24] probabili, ablata, occupata, seu arrestata, devenerint, post X. dies ex quo significatum fuerit locorum domino, vel rectori, interdicta permaneant, quamdiu bona hujusmodi ibi fuerint, et competens non exhibeatur emenda.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>(14) Ut secularis potestas clericum per ipsum captum cito restituat, nichil exigens ab eodem.</p>
+                    <p>Item, quia privilegium meretur amittere qui permissa abutitur potestate; attendentes quod nonnulli temporales domini, vicarii, et alii secularium curiarum oliiciales, obtentu, seu occasione aliquarum licentiarum, ex causa eis, ad certum tempus, vel simpliciter, vel ad certas personas, ab archiepiscopis vel episcopis concessarum, hac occasione, prout comperimus, manus temerarias ad capiendos clericos passim et [25] indifferenter, aliasque personas ecclesiasticas, incurialiter, et eo modo quo possunt turpius, ad majorem confusionem ecclesie atque cleri, extendere non verentur; quin ymo ipsos suis mancipant carceribus, ac ibidem eos nonnunquam radi faciunt totaliter, ut palliare possint excessus suos, et illos confingere clericos non fuisse, vel non esse in possessionem clericatus, seu quasi, in suarum periculum animarum, et enervationem ecclesiastice libertatis.</p>
+                    <p>Prohibemus ne a quocumque talia, vel similia, de cetero attententur; revocantes ex nunc licentias sub quacumque forma verborum, super hujusmodi captionibus vel detentionibus, generaliter vel specialiter, per litteras, vel oraculo vive vocis, vel alias quomodolibet faciendis concessas.</p>
+                    <p>Alioquin contrarium facientes [26], cujuscumque status, conditionis vel dignitatis existant, sive sint layci, sive ecclesiastice persone, regulares vel etiam seculares, hanc nostram excommunicationis sententiam, quam in hiis scriptis presentibus ferimus, incurrere volumus ipso facto.</p>
+                    <p>Nisi forte in eo dumtaxat casu, cum scilicet eos adhuc flagrante crimine, capi contingerit, antequam ad alios extraneos actus divertant, recta via eos ad curiam ecclesiasticam duxerint, et ei restituerint sine fraude.</p>
+                    <p>Si vero de nocte tales ceperint, debeant ultro in crastinum, sine retentione bonorum suorum, et lesione personarum, sine requisitione alia, reddere eos ecclesie supradicte.</p>
+                    <p>Nec eis licent aliquod [27] a captis hujusmodi, dono vel gratia, sub colore aliquo extorquere, vel recipere gratis data.</p>
+                    <p>Quod si in castris, vel villis, captio hujusmodi contingat, adducant ipsos ad ecclesiasticam curiam; vel transmittantur quam citius, sub fida custodia, in expensis ipsius curie moderatis.</p>
+                    <p>Quod si secus egerint, vel in fraudem super hoc attentaverint aliquid, eadem sententia involvantur.</p>
+                    <p>Et si clericum de loco ad locum mutaverint, omnia illa loca tamdiu remaneant interdicta, donec clericum captum, cum armis, et aliis omnibus rebus suis, dyocesano restituerint, et de injuria irrogata, ad arbitrium dyocesani, satisfecerint, et ipsa sententia per ipsum fuerit relaxata.</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>(15) Porrogatio jurisdictionum in invasores, et occupatores bonorum ecclesiarum, et jurium earumdem.</p>
+                    <p>Item, cuilibet ordinario infra cujus jurisdictionem fuerit injuria, vel violentia, ecclesiis sive ecclesiasticis personis, aut rebus, vel earum juribus irrogata, seu earum possessio, vel quasi, turbata, vel indebite occupata; contra ipsos injuriantes, vel perturbantes, seu in premissis, vel eorum aliquo, quomodolibet declinantes, ac in prestantes consilium, auxilium, vel favorem, cujuscumque status, dignitatis, seu gradus existant, procedendi summarie, simpliciter et de plano, ac sine strepitu judicii et figura, citandi, informationes recipiendi, inquisitiones faciendi, diffiniendi, declarandi et [28] omnem jurisdictionem ecclesiasticam exercendi, infra nostras provincias, civitates et dioceses, plenam et expressam, auctoritate presentis consilii, nos omnes archiepiscopi, et episcopi, et procuratores episcoporum absentium, habentes ad hoc mandata sufficientia, concedimus potestatem.</p>
+                    <p>Nec objici valeat contra tales processus, quod extra jus dixerit sic procedens; quia quoad premissa et quodlibet premissorum, jurisdictionem nostram, et nostrum cujuslibet, vicissim inter nos porrogamus, vices nostras nobis ad invicem, ac dictarum provinciarum, civitatum, et dyocesum singulis officialibus, et locatenentibus, presentibus et futuris, in solidum committentes; universis nostris subditis injungentes ut, in premissis, ordinario, et ejus officiali, seu locumtenenti, sic procedenti, pareant et intendant; quod nisi fecerint, possit procedens, per censuram ecclesiasticam, animadvertere in eosdem.</p>
+                    <p>Et nichilominus, si nos archiepiscopi, vel episcopi, per sic procedentem requisiti, pretermiserimus suas in hac parte requisitiones aliquatenus exaudire, aut id super quo requisiti fuerimus, non curaverimus perducere ad effectum; sic non exaudiens, nec ad effectum perducens, eo ipso facto, per unum mensem, auctoritate presentis consilii, a pontificalibus sit suspensus: presenti statuto post decennium minime valituro.</p>
+                    <p>Ita tamen quod per hoc, si procedenti in aliena civitate, vel dyocesi, nullum jus aut jurisdictio in posterum, ex longinquitate temporis, vel alias, post decennium, acquiratur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>(16) Ut excommunicati ad nullum publicum officium admittantur.</p>
+                    <p>Item, statuimus quod excommunicati in judices, consules vel rectores, baylivos, potestates, assensores, vel notarios [29], vel ad alia quevis publica officia, nullatenus assumantur, nec etiam admittantur; et si [30] de facto admissi fuerint, sententia per eos, vel eorum auctoritate, lata, aut quicumque processus per eos, vel eorum [31] auctoritate, in judicio vel extra, habiti, et juramenta coram eis facta, nulla et nulli sint ipso jure.</p>
+                    <p>Et nichilominus quicumque, cujuscumque dignitatis, status aut conditionis existant, si tales excommunicatos ad aliquod predictorum officiorum scienter assumpserint [32], vel assumptos per alios approbaverint, vel confirmaverint, excommunicationis incurrant sententiam.</p>
+                    <p>Et si requisiti per ordinarium, vel alium ejus nomine, hujusmodi excommunicatos, infra decem dies a tempore requisitionis, a predictis officiis sic assumptos non amoverint cum effectu, loca illa in quibus ad aliquod officiorum predictorum assumpti fuerint, sint et remaneant tamdiu ecclesiastico subposita interdicto, donec sic excommunicati a susceptis officiis totaliter, et sine fraude, et sine aliqua restitutionis spe, quamdiu in excommunicatione perstiterint, sint amoti.</p>
+                    <p>Universitas autem civitatis, castri vel ville, que excommunicatos, et in ecclesia publice nunciatos, ad aliquod predictorum officiorum assumpserit, vel elegerit, nisi eis hoc liceret, ecclesiastico etiam sit subposita interdicto.</p>
+                </div>
+                <div>
+                    <head>Capitulum 17</head>
+                    <p>(17) Ut nullus, sine superioris licentia, alicui quodlibet ministret toxicum, vel alia venenosa.</p>
+                    <p>Item, statuimus, et sub pena excommunicationis districtius inhibemus, ne quis ypothecariorum, vel quis alius, cujuscumque conditionis, vel sexus existat, toxicum vendat, nec donet, nec alio modo ministret alicui, vel alia venenosa, nisi prius significet curie ordinarii, ut sciri possit suis temporibus, si casus toxicationis contingeret, quis fuerit emptor ille, vel alius qualiscumque; idque ypothecarius quilibet, ad hoc servandum, juramento coram suo superiori corporaliter prestito, pro se et sua familia, specialiter astringatur.</p>
+                    <p>Aliter autem dantes et vendentes, et ad [33] homicidium perpetrandum recipientes quomodolibet vel ementes, et ad hoc, consilium vel consensum, tacite vel expresse, prestantes, excommunicationi subjaceant, ad sedem apostolicam, pro absolutionis beneficio, remittendi; et alias, sicut justum videbitur, puniendi.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18</head>
+                    <p>(18) De penis toxicum vel herbas mortiferas, in mortem alterius ministrantibus, inferendis.</p>
+                    <p>Item, quod quicumque alium toxicare, aut opem ad hoc vel consilium dare, vel in [34] necem alterius toxicum aptare, vel vendere, aut aliter ministrare presumpserit, vel herbas mortiferus, in mortem vel abortivum cujuscumque, dederit, eo ipso excommunicationem incurrat, a qua non nisi per sedem apostolicam absolvatur.</p>
+                    <p>Et si clericus beneficiatus sit, illo sit privatus beneficio, ipso facto, et ab ordine quem susceperat degradetur, tradendus curie seculari.</p>
+                    <p>Sed et tali, vel simili suspicione probabili, infamatus, et ex similibus presumptionibus, et perspicuis indiciis, apud bonos et graves notatus, ad honorem vel dignitatem aliquam nullatenus admittatur.</p>
+                    <p>Et nichilominus ad detentionem persone honestam, prout requiret persone status, et sceleris immanitas suadebit, ad eruendam veritatis certitudinem, sicut superioris discretioni visum fuerit, procedatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 19</head>
+                    <p>(19) Qualiter contra [35] exemptos et privilegiatos in diuersis abutentes suis privilegiis, procedatur.</p>
+                    <p>Item, dolentes referimus, quod nonnulli religiosi, scilicet Hospitalarii, Sistarcienses, et alii tam privilegiati quam exempti, de privilegiorum sibi forte, aut ordini suo, indultorum prerogativa temere confidentes, excommunicationis, suspensionis, vel interdicti sententias, ab ordinariis vel officialibus ipsorum, rationabiliter promulgatas, observare non curant; quin ymo, in contemptum clavium, excommunicatos, suspensos et interdictos hujusmodi ad divina recipiunt, aut interdum in donatos et confratres, contra mentem consilii Lateranensis, admittunt, receptatorum in hac parte genus pessimum imitantes, sine quibus delinquentes, in hiis et similibus, diu forsitan non laterent.</p>
+                    <p>Sed nec hiis contenti, domos conventuales alterius ordinis quam sui, eisdem ordinibus lege dyocesana subjectas, et a sui fundatione, jurisdictioni prelatorum [36], salva regula, seu ordinis sui disciplina, subpositas, tam prenominati quam ceteri religiosi, etiam non exempti nec privilegiati, vendicare sibi, et prelatis quasifurtim, succedere postmodum violentia, subtrahere moliuntur; sicque de suis indulgentiis, seu privilegiis, confidentes, alios fidentius in jure suo molestant; ita quod auctoritate, ymo temeritate propria, nunc in vestimentis ovium venientes, nunc seculari fulti potentia, violentiam per se vel alium inferentes, possessiones, et quasi, domorum hujusmodi, ac rerum et jurium ad eas spectantium, occupare, cum armis aliquotiens, invadere non verentur, et occupata tenere contendunt, in prelatorum prejudicium, plurimorum scandalum, et enormem nichilominus illius ordinis cujus erant et beneficio, et cui ab antiquo subesse consueverant, lesionem.</p>
+                    <p>Cum igitur tales, et tam enormiter excedentes, et notorie delinquentes, receptatoribus non [37] impares ac improbis raptoribus nequiores, providemus ut alios jura censeant puniendos; nos, tutius ut possumus, et a jure nobis permittitur, et maxime si de privilegiis suis non velint copiam facere requisiti; volentes ubi sibi indulta privilegia non defendunt, correctionis et reformationis officium exercere, ac effrenatam ambientium cupidinem reprimere cupientes; statuimus et concorditer ordinamus, ut tales et similes, in premissis et similiter, tam enormiter delinquentes, et tam notoria excedentes, nisi destiterint; et saniori ducti consilio, congruenter, infra dies VIII. ex quo fuerint requisiti, revocare, seu emendare distulerint, una cum illis qui ad eos sic ligati reduxerint, et eis qui [38] per translationem hujusmodi, attentaverint ex inde monasteria, vel domos conventuales, res et jura hujusmodi, occupare, seu invadere, cum armis vel sine armis, presumpserint, nec non et omnes qui eis ad hoc opem vel operam prestiterint, aut, ut sic occupata detineant, consilium vel juvamen prebuerint, excommunicationi subjaceant ipso facto.</p>
+                    <p>Sed etiam cum ipsis prelatis non deferant, sed potius vilipendant [39] eosdem, prelati e contra, quamdiu sic steterint, et ausu [40] temerario eis, vel officialibus eorum, in premissis restiterint, in privilegiis [41], vel aliis juribus suis, tueri eos, vel defendere, minime teneantur.</p>
+                    <p>Dignum enim est, ut qua mensura mensi fuerint, eadem rementinturet eis [42]; ut ignorantes ignorari, et contemnentes sentiant se contemni.</p>
+                    <p>Qua enim fronte prelatorum invocabunt auxilium, qui committere non formidant in ipsos?</p>
+                    <p>Statuimus insuper, et precipimus, et communiter ordinamus, ut singulares persone, tam suimet quam ipsius conventus, mixtam translationem talem fieri procurantes, ab illius domus seu conventus consortio, penitus et in perpetuum excludantur, vitam suam alibi, sub arcta penitentia, sui superioris arbitrio, finiture.</p>
+                    <p>Circa translationem autem singularium personarum, ad majorem forte regulam se [44] transferre cupientium, nil super hoc intendimus, extra formam a jure traditam, immutare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 20</head>
+                    <p>(20) Ut presbiteri testamentis parochianorum intersint, et per ipsos distribuantur restitutiones incerte.</p>
+                    <p>Item, ne relicte in testamentis, vel aliis ultimis voluntatibus, emende, ad pias causas elemosine, vel restitutiones, certe vel incerte, forsitan occultentur, statuimus, ut presbiteri parrochiales interesse rogentur ordinationi testantis, si haberi poterit, aut quod notarius infra VIII. dies a die obitus numerandos, prelato, vel officiali, vel presbitero parrochiali, copiam illius articuli, ubi quevis elemosina que piis est usibus deputata, vel emenda, vel restitutio facienda, sub pena excommunicationis, quam ipso facto, si negaret, incurrat, facere fideliter teneatur.</p>
+                    <p>Et ille, vel illi, sic cum heredibus, vel [45] executoribus testatoris, ordinare festinent quod emende non occultentur, et elemosine sic relicte, vel restitutiones hujusmodi, non pereant, ad tempus magnum vel modicum, aut forte perpetuo faciende.</p>
+                    <p>Adicientes quod incerte restitutiones nulli per aliquem executorum testamenti, vel alium, nisi per dyocesani licentiam prebeantur; nec aliquis distribuere presumat alibi quam nec prelatus duxerit ordinandum, etiamsi a testatore dictum esset.</p>
+                    <p>Ad hoc adicimus quod presbiteri in sinodos venientes, prelato suo, vel officiali ejus, in scriptis, testatorum et executorum nomina, et quantitatem hujusmodi, presentare, in virtute obedientie, teneantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 21</head>
+                    <p>(21) Quod episcopi in distributionibus legatorum vocentur, prout ad eos pertinet, et de consuetudine vel de jure.</p>
+                    <p>Cum in eo cujus rationabiliter interesse tangitur, ejus vocatio debita requiratur, volumus et inhibemus quod in distributionibus legatorum, quorum divisioni, seu executioni, habent interesse episcopi, de consuetudine vel de jure, vocari debeant episcopi, seu locatenentes ipsorum; quibus equidem non vocatis, nulla presumatur fieri distributio de legatis; et si facta fuerit, heredi, vel successori, vel illi a quo relictum est, nulla ex tali distributione, liberatio acquiratur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 22</head>
+                    <p>(22) Ut nullus confessor, sine diocesani licentia, quemquam presumat absolvere in casibus infrascriptis.</p>
+                    <p>Item, quod nullus, cujuscumque ordinis, vel religionis, seu conditionis, existat, confitentes, in cujuscumque civitate, vel diocesi, preter specialem vel generalem licentiam ipsius diocesani, de facto quaequam absolvere, vel ligare presumat in casibus diocesani, a jure, consuetudine, vel statuto provinciali, vel sinodali, reservatis.</p>
+                    <p>Casus autem sunt hii:</p>
+                    <p>In excommunicato a canone.</p>
+                    <p>In incendiario.</p>
+                    <p>In blasphemio famoso.</p>
+                    <p>In votis relaxandis vel commutandis.</p>
+                    <p>In hiis que consueta sunt in diocesi episcopo reservari, utpote in oppressione puerorum.</p>
+                    <p>In homicidiis.</p>
+                    <p>In sacrilegiis, ultra decem solidos.</p>
+                    <p>In violatoribus ecclesiarum.</p>
+                    <p>In violatoribus ecclesiastice libertatis et immunitatis.</p>
+                    <p>In incestu cum consanguineis et affinibus, in ascendentibus et descendentibus, in infinitum, et in collateralibus, usque ad secundum gradum inclusive.</p>
+                    <p>In carnali cognitione sanctimonialis, aut defloratione virginis violenta.</p>
+                    <p>In illis qui in ecclesia luxuriam commiserint per carnalem copulam consummatam.</p>
+                    <p>In restitutionibus incertis, ultra XX. solidos, in una persona.</p>
+                    <p>In clandestine contrahentibus.</p>
+                    <p>In eo qui consuetus est pravitatem usurarium exercere.</p>
+                    <p>In falso teste.</p>
+                    <p>in falsario litterarum vel instrumentorum, vel subtrahente aliena instrumenta, seu delente.</p>
+                    <p>In falsario monete.</p>
+                    <p>In impediente legatum sedis apostolice.</p>
+                    <p>In proditore domini, vel patrie.</p>
+                    <p>In heresis sectatore.</p>
+                    <p>In supponente partum, vel necante, vel abortivum, sibi vel alii, procurante.</p>
+                    <p>In muliere quo ab alio quam a marito suo concepit infantem, quem maritus suus extimat esse suum, propter quem legitimi defraudantur hereditate paterna.</p>
+                    <p>In intoxicatore, vel aliud mortiferum procurante, vel ministrante, vel opem aut consilium adhibente.</p>
+                    <p>In coehunte cum Judea, vel Sarracena, vel bruto, vel e contra.</p>
+                    <p>In sortilegiis ad quos communiter recurritur pro sortilegiis faciendis.</p>
+                    <p>In hiis qui Corpore Christi, vel Oleo sancto, vel Chrismate abutuntur.</p>
+                    <p>In depopulatoribus agrorum, vinearum, vel arborum.</p>
+                    <p>In excommunicatis qui scienter se ingerunt divinis, et commoniti nolunt ecclesiam exire, divinum officium perturbantes.</p>
+                    <p>In hiis qui scienter excommunicatorum corpora recipiunt ad ecclesiasticam sepulturam, vel ea sepeliunt contra parrochialis presbiteri voluntatem.</p>
+                    <p>In illis qui scienter celebrant in ecclesia interdicta, quibus a jure non est vel privilegio concessum; cum ex hoc reconcilianda sit ecclesia [46] supradicta.</p>
+                </div>
+                <div>
+                    <head>Capitulum 23</head>
+                    <p>(23) Ut nullus, occasione cessionis sibi facte, coram extraordinario judice quemquam audeat convenire.</p>
+                    <p>Item, quod nulla persona, clericus vel ecclesiastica, ex causa, vel occasione, vel ratione donationis, vel cessionis sibi facte, vel de cetero faciende, quemquam coram extraordinario judice audeat convenire.</p>
+                    <p>Si secus fecerit, excommunicationis sententiam [47] incurrat, ipso facto.</p>
+                </div>
+                <div>
+                    <head>Capitulum 24</head>
+                    <p>(24) Ut nullus bona ecclesiarum vacantium occupet, nisi sibi, per privilegium vel consuetudinem, hoc liceret.</p>
+                    <p>Item, quod nullus [48] omnino prelatus, abbas, prior, vel patronus, clericus vel laycus, cujuscumque conditionis, status vel dignitatis, ordinis vel religionis, existat, bona ecclesiarum vacantium, metropolitane vel suffraganee, et prioratus vel abbatie, vel alterius ordinis cujuscumque monasterii, vel ecclesie, per promotionem, aut mortem, vel resignationem, aut mutationem, vel absolutionem, aut alio quocumque modo vacantis, capere, per se vel per alium, aut occupare, vel usurpare presumpserit, nisi sibi per privilegium, vel consuetudinem, hoc liceret.</p>
+                    <p>Quod si fecerit, tam ipse quam gratis obedientes ei aliqualiter in hac parte [49], excommunicationis incurrat sententiam, ipso facto.</p>
+                </div>
+                <div>
+                    <head>Capitulum 25</head>
+                    <p>(25) Ut nulla persona ecclesiastica cum potestatibus secularibus, posse habentibus, det consilium vel juvamen, contra ecclesiasticas libertates.</p>
+                    <p>Item, quod quelibet persone ecclesiastice, secularium forte principium curias et consilia frequentantes, majores, vel minores, vel medie, cujuscumque dignitatis, ordinis, conditionis, vel status, existant, si scienter, contra Deum et justitium, et ecclesiasticam libertatem, in prejudicium alicujus ecclesie vel prelati, seu rectoris ecclesiastici, consilium, vel favorem, aut juvamen aliquod ecclesiastice libertati contra jus dederint, vel procuraverint, excommunicationis incurrant sententiam, ipso facto; a qua, non nisi emendato damno, seu alio dispendio, citra sedem apostolicam absolvantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 26</head>
+                    <p>(26) Ut nullus in sacris constitutus, vel curam animarum ha, in judiciis secularium curiarum, gerat officiam publicum, vel privatum.</p>
+                    <p>Item, quod nullus clericus, habens curam animarum, vel in sacris ordinibus constitutus, possit esse de cetero in judicio, sive causis, in curia secularium, procurator, sindicus, vel actor, vel judex etiam, aut baylivus, in exercenda jurisdictione domini temporalis, pro aliquo layco.</p>
+                    <p>Quod si monitus, infra mensem non destiterit, ex tunc talis, si beneficiatus fuerit, beneficiis suis hujusmodi, auctoritate presentis consilii, suspendatur; non beneficiatus vero a liminibus ecclesie arceatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 27</head>
+                    <p>(27) De [50] modo probandi electionem sepulture illorum qui apud religiosos elegisse dicuntur.</p>
+                    <p>Item, statuimus ne quis illorum funera defunctorum, quos fratres Predicatorum et Minorum apud se sepulturam elegisse probaverint, deferri ad domos et ad ecclesias eorum impediat; salvo tamen jure portandi funus ad matricem ecclesiam ex consuetudine laudabili hactenus observata.</p>
+                    <p>Nec circa predicta, injuriam fratribus aut funeri [51], omittendo solitam pulsationem campanarum, vel aliter, inferre presumat.</p>
+                    <p>Super hac autem probatione, volumus summarie et de plano, sine sumptibus et scriptura quacumque, per exhibitionem ordinationis testantis, aut productione testium coram parrochiali ecclesie rectoris, si tamen potuerit et voluerit interesse.</p>
+                    <p>Quo absente utique, vel nolente, coram officiali, vel locumtenente ipsius, si funus in civitate fuerit, hoc probari sufficiat, vel coram personis publicis et honestis, si hoc extra fortasse contingat.</p>
+                    <p>Aliter equidem, ubi erunt funera, ea de domo extrahi prohibemus; incursuris excommunicationis sententiam, ipso facto, quibuscumque contra tenorem hujusmodi constitutionis extrahendi de domo funera, aut facientibus, procurantibus, seu permittentibus extrahi, et presumentibus in hoc consilium, favorem, aut auxilium impartiri.</p>
+                    <p>Que autem circa fratres predictos, quoad probationem, et extractionis funeris inhibitionem, statuimus, ad alios religiosos apud quos sepultura electa fuerit, extendi jubemus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 28</head>
+                    <p>(28) Ut sine novi census impositione, vel veleris augmentatione, beneficia conferantur.</p>
+                    <p>Item, quod prioratus, sive beneficii alterius ecclesiastici, facta [52] cum novi census impositione, vel pensionis antique augmentatione, collatio non valeat ipso jure; et per proximum superiorem, illa vice persone idonee [53], sine dicti oneris [54] vitio conferatur, ac si ad eum propter negligentiam fuisset [55] alias collatio dicti beneficii devoluta.</p>
+                </div>
+                <div>
+                    <head>Capitulum 29</head>
+                    <p>(29) Ut monachi in ecclesiis suis [56], infra certum tempus, perpetuos vicarios ordinariis representent.</p>
+                    <p>Item, statuimus quod in singulis ecclesiis per monachos solitis gubernari, infra sex menses, priores earum suis diocesanis, ad curam animarum, perpetuos presbiteros presentent.</p>
+                    <p>Quod nisi fecerint, ex tunc, hac vice, episcopi instituant perpetuos presbiteros in cura predicta, et ipsos priores compellant ad providendum eisdem presbiteris, prout idem instituens duxerit ordinandum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 30</head>
+                    <p>(30) Ut nullus beneficium conferat in quo [57] tantum obtinet patronatus [58].</p>
+                    <p>Item, statuimus quod nullus in aliquo beneficio ecclesiastico solum jus obtinens patronatus, cum ipsum [59] vacare contigerit, ad ipsum conferendum [60] procedat.</p>
+                    <p>Quod si secus egerit, in illa vacatione, jus presentandi ipso facto amittat; et superior ad quem institutio [61] pertinet, plenam ejus dispositionem habeat, illa vice.</p>
+                </div>
+                <div>
+                    <head>Capitulum 31</head>
+                    <p>(31) Ut presentatus patrono non juret, sine diocesani licentia, nec ab [62] alio se institui patiatur, nec beneficium obtentum dimittat.</p>
+                    <p>Item, sub pena excommunicationis precipimus, ne quis a patrono, clerico vel layco presentatus, aut etiam presentandus, prestet aliquod juramentum in manibus patroni, vel alterius cujuscumque, sine speciali ipsius ordinarii licentia et consensu.</p>
+                    <p>Quodque presentatus, vel presentandus hujusmodi, ab alio quam ordinario, cui de jure competit, in ecclesia parrochiali se institui nullatenus patiatur; nec, ex quo per ordinarium institutus fuerit, vel admissus, beneficium dimittat hujusmodi, non petita ipsius ordinarii licentia, vel consensu, vel nisi alia sufficiens causa subsit, legitima, probabilis, et honesta.</p>
+                </div>
+                <div>
+                    <head>Capitulum 32</head>
+                    <p>(32) Ut ecclesie et ecclesiastice persone a talliis et exactionibus secularium per ordinarium defendantur.</p>
+                    <p>Item, quod clerici, et hospitalia, et ecclesie, a talliis et exactionibus quas domini temporales faciunt, etiam ratione possessionum temporalium, necnon et in patrimonialibus, secundum leges et canones, defendantur per ordinarios, nimis super hoc hactenus [63] negligentes; ne paulatim totum usurpent temporales domini, in prejudicium et enervationem ecclesiastice libertatis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 33</head>
+                    <p>(33) Ne queste vel alie [64] exactiones per seculares hospitalibus imponantur.</p>
+                    <p>Item, quod domini seculares, cujuscumque gradus, dignitatis, seu conditionis existant, hospitalia usibus pauperum deputata, occasione cavalcatarum, talliarum, seu questarum, vel aliarum illicitarum exactionum, quocumque nomine appellentur, nec onerare nec molestare presumant.</p>
+                    <p>Alioquin, si requisiti, desistere, et emendam prestare noluerint, vel si de cetero contra fecerint, ipso facto, excommunicationis sententiam incurrant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 34</head>
+                    <p>(34) Ne layci, pretextu alicujus statuti, prohibeant clericos extrahere blada de terris ipsorum.</p>
+                    <p>Item, cum statuta secularium ecclesias, seu ecclesiasticas personas, non astringant; statuimus, ut seculares, cujuscumque dignitatis, conditionis, aut status existunt, vel fuerint, qui pretextu statuti ne bladum extrahatur de terra, vel de castro, vel villa, vel quod certo pretio vendatur, invitos clericos, aut ecclesiasticas personas, astringere [65], maxime cum ipsi non habeant aliunde unde vivant, aut super angariis, vel perangariis, aut aliis quibuscumque, cum nec in eis, nec in eorum bonis, aliquam habeant potestatem, coharctare presumpserint, excommunicationi subjaceant ipso facto.</p>
+                    <p>Et locus ubi hoc per domiminum loci, vel universitatem ejus, aut eorum conniventia, aut permissu, attentatum fuerit, ecclesiastico subjaceat interdicto; nisi, moniti, infra mensem emendaverint, et de perpetratis satisfactionem exhibere studeant competentem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 35</head>
+                    <p>(35) Ut domini temporales non impediant, vel prohibeant, quominus ecclesiarum rectoribus decime persolvantur.</p>
+                    <p>Item, quod domini temporales, baylivi, seu officiales ipsorum, clericos, et ecclesiarum rectores non impediant quominus decirne ipsis [66], prout ad eos pertinent, per parochianos suos reddantur fideliter et solvantur; nec eisdem [67] parrochianis inhibeant quod non solvant.</p>
+                    <p>Alioquin, si contra fecerint, excommunicationis sententiam ipso facto incurrant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 36</head>
+                    <p>(36) Ne statuta et ordinationes super decimis, funeralibus, oblationibus, et aliis, contra laudabiles consuetudines, et [68] Ecclesie libertates fringantur.</p>
+                    <p>Item, quod layci, cujuscumque gradus, dignitatis, vel conditionis existant, vel universitas, statuentes et ordinantes in se, vel inter se preconizari facientes, vel subditis suis mandantes, quod non prestent decimas ecclesiis, vel non offerant, vel in ultimis voluntatibus quidquam relinquant eis, vel rectoribus earumdem; vel quod laudabiles consuetudines ecclesie, in funeralibus, vel aliis, infringant, vel alias non servent, vel aliud equipollens, directe vel indirecte, tacite vel expresse, vel alio quomodolibet injungentes; ipso facto, excommunicationem incurrant; a qua, antequam emenda competens prestita [69] fuerit, minime absolvantur.</p>
+                    <p>Universitas autem ecelesiastico subjaceat interdicto.</p>
+                </div>
+                <div>
+                    <head>Capitulum 37</head>
+                    <p>(37) De societatibus colligationum, et conjurationibus quas confratrias appellant, radicitus extirpandis.</p>
+                    <p>Item, quia in [70] quibusdam nostrarum provinciarum partibus, nobiles plerumque, et interdum alii, colligationes, societates et conjurationes faciunt, tam canonibus quam humanis legibus interdictas, semel in anno, sub confratrie nomine, et se in loco aliquo congregantes, conventiculas et colligationes faciunt, et pacta juramento vallata ineunt quod se adversus quoscumque, preterquam dominos, ad invicem adjuvent, et in omni casu unus alteri det auxilium et favorem; et interdum se [71] omnes veste consimili, cum aliquibus signis exquisitis, vel [72] caracteribus induentes, unum majorem inter se eligunt, cui jurant inter se obedire; quibus justitia offenditur, et mortes et damnationes secuntur, pax et securitas exulant, innocentes et inopes opprimuntur, ot ecclesie et ecclesiastice persone, quibus tales oppido sunt infesti, in personis, rebus, juribus, et jurisdictionibus, inimicitie diverse, et damna plurima oriuntur.</p>
+                    <p>Nos volentes istis ausibus pestiferis providere, et a peccato subditos nostros, prout pastorali incumbit officio, prohibere, auctoritate presentis consilii, omnes conventiculas, colligationes, et societates, et conjurationes, quas fraternitates et confratrias appellant, ab olim factas per clericos, vel laycos, cujuscumque gradus, status vel dignitatis, aut conditionis existant; necnon pacta, conventiones, ordinationes, inter eos habitas, et habita, irritamus, dissolvimus et cassamus, et cassas et irritas, cassa et irrita, nunciamus.</p>
+                    <p>Decernentes omnia juramenta super observandis predictis prestata, aut illicita et temeraria, et nullum teneri volumus ad observantium eorumdem; a quibus juramentis eos absolvimus ad cautelam, ut tamen, proincauto sacramento, a suis confessoribus penitentiam recipiant salutarem.</p>
+                    <p>Auctoritate predicta prohibentes eisdem, sub excommunicationis pena, quam venientes in contrarium, postquam presens [73] statutum in ecclesiis quarum parrochiani existunt, per duos dies dominicos publicatum fuerit, incurrere volumus ipso facto, quod occasione dictarum colligationum, societatum, conventionum, et juramentorum, ab inde in antea simul non conveniant, hujusmodi confratrias non faciant, alter alteri non obediat, nec prestet adjutorium, nec favorem; nec vestes, nec signa rei tam denunciante deferant; nec se fratres, priores, vel abbates predicte societatis appellent.</p>
+                    <p>Quin ymo, infra decem dies a tempore publicationis, unusquisque alius, quantum est in eo, a [74] predictis juramentis absolvat, et se nolle esse de predicta societate ulterius, publice protestetur.</p>
+                    <p>Prohibemus etiam quod amodo, tales conjurationes, conspirationes, conventicule, etiam sub nomine confratrie non fiant; alioquin, et de facto attentatas cassamus et irritamus, et facientes, et attentantes, excommunicationi, a qua non nisi per consilium provinciale, preterquam in articulo mortis, nullatenus absolvantur, volumus subjacere.</p>
+                    <p>Per hoc autem confratrias in honorem Dei, et beate Marie, et aliorum sanctorum, et pro subsidiis pauperum introductas, in quibus conjurationes et juramenta non intervenerint hujusmodi, non intendimus reprobare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 38</head>
+                    <p>(38) Ut clerici ecclesias, sine dyocesani licentia, non muniant, nec ibi armatos tenere presumant.</p>
+                    <p>Item, prohibemus, sub pena excommunicationis, quam ipso facto contra facientes ferimus, ne regulares, aut etiam clerici seculares, ad muniendas ecclesias, vel ipsarum jura indebite occupanda, preter diocesani cui subsunt dicte ecclesie, vel ejus locumtenentis, licentiam, vel mandatum, arma portare, vel armatos adducere, vel tenere, vel receptare, de propria diocesi, vel aliena, presumant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 39</head>
+                    <p>(39) De clericis arma portantibus, qualiter puniantur.</p>
+                    <p>Item, statuimus, ut nullus clericus arma deferre presumat, absque illius cui competit licentia speciali.</p>
+                    <p>Qui vero contra fecerit, preter id quod armorum amissione mulctetur, si de nocte portaverit, X. librarum, si de die, centum solidorum pena, monete currentis, irremissibiliter feriatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 40</head>
+                    <p>(40) Ut prelati remissiones delinquentium ad invicem factant, requisiti.</p>
+                    <p>Item, statuimus, quod singuli episcopi, et eorum officiales, vicarii, loca tenentes, et vicegerentes, debite faciant remissiones, cum fuerint requisiti; et si hii qui deliquisse dicuntur, de duodecim non fuerint a quo remissio fieri postulatur, sufficiant sole littere requirentis; si vero de diocesi fuerint, semiplena [75] probatio sufficiat in hac parte.</p>
+                </div>
+                <div>
+                    <head>Capitulum 41</head>
+                    <p>(41) De excommunicatis compellendis redire ad gremium ecclesie per judicem secularem, et appositione pene.</p>
+                    <p>Item, cum nonnulli clavos sancto matris ecclesie contemnentes, excommunicationis sententias, non sine animarum suarum periculo, frequenter diu sustineant animo indurato; statuimus, ut quicumque hujusmodi sententias per nos, vel [76] nostras curias, promulgatas, per duos menses, postquam noverint in se prolatas, eas duxerint pertinaci spiritu sustinendas, non curantes modo debito absolutionis beneficium postulare ab eisdem, vel ab eo per quem fuerint excommunicationis vinculo innodati; requiratur per eamdem curiam dominus temporalis, aut ipsius bajulus, vel judex loci ubi talis excommunicatus noscitur commorari, et moneatur attente, ut infra competens terminum, ab ipsa curia prefigendum, suum subditum, sic excommunicatum, compellat omnino satisfacere super eo, pro quo in eum excommunicationis sententia fuerit promulgata, et absolutionis beneficium postulare.</p>
+                    <p>Si vero dominus, bajulus, sive judex, hoc non curaverit efficaciter adimplere, in ipsum per eamdem curiam excommunicationis sententia proferatur.</p>
+                    <p>Et deinde, si adhuc dictum subditum cogere contempserit, locus ille, donec ipsum compulerit, interdicto ecclesiastico supponatur.</p>
+                    <p>Ceterum ut iidem excommunicati, qui divino alias non inclinantur amore, ut ad gremium Ecclesie revertantur, temporalis metu pene ad id propensius inclinentur.</p>
+                    <p>Statuimus, ut laici V. solidos, clerici vero X, et presbiteri XV. sol. Viennensium, pro quolibet mense quo in excommunicatione predicta permanserint, antequam beneficium absolutionis impendatur eisdem, solvere teneantur; nisi propter paupertatem, vel aliam causam rationabilem, memorata curia misericorditer agere voluerit [77] cum eisdem; predictis penis in usus pios ad dyocesani arbitrium impendendis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 42</head>
+                    <p>(42) Ne prohibeantur prelati jurisdictionem suam libere exercere.</p>
+                    <p>Item, cum in jure cautum existat archiepiscopos et episcopos in totis suis diocesibus jurisdictionem ordinariam obtinere, et [78] in quolibet loco suarum diocesum, non exempto, per se vel per alium, pro tribunali sedere, causas audire ad forum spectantes ecclesiasticum, et personas ecclesiasticas, cum excessus exegerit, capere, et carceribus mancipare, aliaque, omnia et singula, ad sua spectantia officia, libere exercere; et nonnulli domini temporales, judices, et rectores, ac officiales eorum, Deum, et libertatem ecclesiasticam, sacrorumque statuta canonum, in suarum animarum grande periculum, non verentes, personas ecclesiasticas, quas in diversis locis nostrarum civitatum, et dyocesum, ac provinciarum, suis excessibus et delictis exigentibus, capi et carceri mancipari contingit, interdum de carceribus extrahunt violenter, impediendo quominus de [79] eorum delictis et excessibus, per judices ecclesiasticos, ad quos pertinent, exhiberi libere valeat [80] justitie complementum.</p>
+                    <p>Nos talium obviari damnandis ausibus, jusque servari super hiis, in eisdem civitatibus, diocesibus et [81] provinciis, cupientes, hoc presente [82] approbante consilio, statuimus, quod omnes et singuli temporales domini [83], judices et rectores, vel officiales eorum, qui talia de cetero in eisdem civitatibus, diocesibus, aut provinciis, presumpserint attentare, ipso facto, sententiam excommunicationis incurrant; eorumque terre, et loca, infra X. dies [84] postquam fuerint super hoc requisiti, ex tunc ecclesiastico subjaceant interdicto, donec spoliatis carceribus plenario et libere restitutis, ei cujus jurisdictionem sic leserant, emendam prestiterint condecentem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 43</head>
+                    <p>(43) Ne prohibeantur clerici, directe vel indirecte, coram suo judice litigare.</p>
+                    <p>Item, cum nonnulli dominium obtinentes temporale, secularis justitie potestatis gerentes officium, jurisdictionem sacrosancte matris Ecclesie subvertere, vel minuere, exquisitis astutiis inclinantur; nos eorum [85] malitias ultione canonica reprimere cupientes, approbante presenti consilio, statuimus, inhibentes, nequis in foro ecclesiastico litigantes, seu litigare volentes, super [86] causis mere ecclesiasticis, sive que ad forum Ecclesie, de antiqua et approbata consuetudine, hactenus pacifice observata, pertinere noscuntur, ad desistendum compellat, per ipsorum, vel parentum, vel consanguineorum, seu rerum eorum, aut personarum hujusmodi, captionem, modisve aliis quibuscumque.</p>
+                    <p>Si vero contra presumpserit, excommunicationis sententie, presentis auctoritate consilii, se noverit subjacere.</p>
+                </div>
+                <div>
+                    <head>Capitulum 44</head>
+                    <p>(44) Ut in domibus prelatorum [87], vel ipsorum, aut officialium suorum presentia, injuria nulli fiat.</p>
+                    <p>Item, cum illos, quos Dei timor a malo non revocat, saltem coercere debeat severitas discipline, presenti consilio duximus statuendum, quod si persona, cujuscumque conditionis, status, seu ordinis existat, infra domos archiepiscopales, vel episcopales, nostrarum civitatum, diocesum, ac provinciarum, vel alibi, ubicumque nos, vel suffraganei, seu nostri vel eorum officiales, causas audient, aliquem graviter vituperaverit, seu injuriam irrogaverit, incurrat excommunicationis sententiam, ipso facto, et alias puniatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 45</head>
+                    <p>(45) De bannis solvendis a clericis, et per quos, et qualiter exigantur.</p>
+                    <p>Item, statuimus, sub pena excommunicationis, quod nullus dominus temporalis audeat compellere ecclesias, vel ecclesiasticas personas, vel eorum familias, servientes, seu nuncios, solvere bannum, seu banna, pro animalibus suis quibuscumque, vel personis predictis.</p>
+                    <p>Et ne persone ecciesiastice, vel eorum familie, materiam propter hoc habeant delinquendi, statuimus, ut banna que a [88] laycis committuntur, pro fructibus alienis subreptis, vel eorum animalibus in vincis, pratis, aut possessionibus, vel defensis, inventis, eadem ab ipsis clericis, et personis ecclesiasticis, ipsorumque familiis, et eorumdem animalibus, applicanda curie singulorum dyocesanorum, de cetero committantur.</p>
+                    <p>Volentes et precipientes, ut a presbiteris singularum ecclesiarum nostrarum diocesum, curam habentibus animarum, banna ipsa, quociens in locis ipsarum ea committi contingerit, auctoritate cujuslibet diocesani, exigantur fideliter, et leventur, eidem curie postmodum per eos, in singulis sinodis et integre, assignanda.</p>
+                    <p>Si qui vero banna sic commissa solvere recusaverint, per ipsos presbiteros requisiti, ex tunc ad duplicanda banna eadem teneantur, et ad ea sic duplicanda solvenda, per eamdem curiam compellantur.</p>
+                    <p>Presbiteri vero predicti dicte curie banna hujusmodi recusantes solvere, manifestare procurent; alioquin si super hoc reperti fuerint negligentes, juxta ipsius curie arbitrium, exinde puniantur.</p>
+                    <p>In civitatibus vero, vel castris, alicui nostrum, seu nostrorum dyocesanorum, temporali jurisdictioni subjectis, per mandatarios nostros, seu ipsorum dyocesanorum, banna predicta exigi volumus et levari, et cuilibet nostrum, et diocesanorum nostrorum, prout vel quemlibet nostrum pertinuerint, restitui per eosdem.</p>
+                    <p>Ceterum super denuntiatione predictorum bannorum, cum ab aliquo, seu aliquibus, committentur, custodibus, sive gardis juratis, fidem decernimus adhibendam.</p>
+                    <p>Porro per solutionem dictorum bannorum, ab emendandis talis, sive damnis, prout justum fuerit, nullum volumus excusari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 46</head>
+                    <p>(46) Qualiter prelati possint benedicere in diocesi aliena.</p>
+                    <p>Item, statuimus, quod quilibet nostrorum episcoporum predictorum, et singuli episcopi provinciarum nostrarum, dum equitabant per dictas provincias, possint etiam benedicere, in diocesi alia dictarum provinciarum, populum, ut ex hoc populi devotio augeatur; et etiam in diocesibus Arelatensi, Aquensi et Ebredunensi, civitatibus dumtaxat exceptis; exceptis [89] semper aliis locis in quibus alter ex nostris dictis archiepiscopis, vel diocesanis, presens esset.</p>
+                    <p>Item sententiam excommunicationis, vel interdicti, latam ab uno, alii denuntiari faciant et observari, cum a proferente fuerint super hoc requisiti.</p>
+                    <p>Attendentes quod predicte sententie excommunicationis et interdicti, nonnisi ex justis causis, cum maturitate et solemnitate debita, proferantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 47</head>
+                    <p>(47) De contrahentibus matrimonia clandestina in diocesi aliena.</p>
+                    <p>Item, statuimus, quod quecumque persona [90], pro matrimonio clandestine celebrando, diocesim suam exiverit, et ibi matrimonium ipsum contraxerit, sine licentia proprii sacerdotis, ipso facto excommunicationis sententiam incurrat, et ut [91] excommunicatus vitetur, et publicetur, donec ad arbitrium diocesani, ecclesie parrochiali satisfecerit, in cujus injuriam hoc presumpsit, et absolutionis beneficium meruerit obtinere.</p>
+                </div>
+                <div>
+                    <head>Capitulum 48</head>
+                    <p>(48) De abusoribus litterarum domini pape, et legatorum ejusdem, et qualiter puniantur.</p>
+                    <p>Item, quia sunt nonnulli, clerici et [92] laici, qui litteris domini pape, et legatorum ejus, nequiter abutuntur; igitur auctoritate presentis consilii, excommunicamus omnes illos qui litteras obtentas [93] aliis ejusdem nominis tradunt, ad abutendum, et eos qui eas recipiunt tali modo.</p>
+                    <p>Item, qui ad loca equivoca aliquem citari faciunt, ut fraudulenter et malitiose vexent, et [94] decipiant sic citatum, laboribus et expensis.</p>
+                    <p>Item, omnes illos, qui per litteras domini pape, et legatorum ejus, personas non comprehensas in rescriptis, per excogitatam malitiam, litem ubi non est simulantes, citari faciunt aut procurant, ad ferendum testimonium veritati.</p>
+                    <p>Item, et omnes illos, qui litteras apostolicas, vel legatorum ejusdem sedis, ad futuras trahunt controversias, que nondum fuerant, tempore impetrationis, exorte.</p>
+                    <p>Item, et omnes illos qui per litteram, ea que de bonis pro suo prioratu, vel sua ecclesia, impetratam, ad instantiam aliquorum, aliquos citari faciunt, cum quibus, ratione prioratus; seu ecclesie, quorum nomine est [95] littera impetrata, non habent aliquid questionis.</p>
+                    <p>Item, de littera post iter arreptum, et ea predicto modo abutentibus, idem per omnia statuentes; necnon et de omnibus illis qui quascumque litteras apostolicas, aliquos citari faciunt, contra quos non habent aliquid questionis; vel contra constitutiones felicis [96] recordationis domini Bonifacii pape VIII, adversarios ad [97] remota loca notorie faciunt evocari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 49</head>
+                    <p>(49) De his qui litteras pretextu dotis ecclesie impetrant, vel crucesignatos se falso asserunt, et alios fatigant. [98]</p>
+                    <p>Item, si quis vero super rebus ad dotem spectantibus litteram apostolicam impetraverit, et illius auctoritate aliquem, vel aliquos, cum quibus, ratione dotis, non habet aliquid questionis, fecerit fatigari, auctoritate presentis consilii, eadem excommunicationis [99] sententia, que superius nominatur, noverit se ligatum.</p>
+                    <p>Item, de illis qui falso se crucesignatos asserunt, qui non sunt, et sic tanquam crucesignati, litteras apostolicas impetrant, per quas aliquos fatigant laboribus et expensis; item, de illis [100] qui privilegium crucesignatorum impetrant, sub illa forma, postquam iter arripuerint transmarinum, et ante iter arreptum, per illud privilegium, aliquos faciunt fatigari; talium abusorum absolutione, postquam parti lese plene satisfecerint, suo ordinario reservata, aliis penis a jure statutis eis nichilominus, per suos ordinarios, vel illius quem indebite vexaverint, si reperti fuerint, infligendis.</p>
+                    <p>Hec autem contra abusores litterarum domini pape, et legatorum ipsius, auctoritate presentis consilii, duximus statuenda, ejusdem sedis apostolice, et legatorum ejus, auctoritate [101] in omnibus semper salva.</p>
+                </div>
+                <div>
+                    <head>Capitulum 50</head>
+                    <p>(50) Ut beneficiati, sine diocesani licentia, non componant.</p>
+                    <p>Item, sub interminatione anathematis prohibemus, ne aliquis prodictarum provinciarum Arelatensis, Aquonsis et Ebredunensis, super decimis, et aliis juribus debitis ecclesiis parrochialibus, cum aliquibus religiosis componere audeat, sine auctoritate diocesani, vel jus uni ecclesie debitum alteri audeat [102] assignare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 51</head>
+                    <p>(51) Ne beneficiati res ecclesiasticas, absque diocesani licentia, preterquam in certis casibus, alienent.</p>
+                    <p>Item, statuimus, prohibentes ne aliquis, cujuscumque status, vel dignitatis existat, possessiones ecclesiasticas, vel quecumque alia jura immobilia, alienet, quocumque titulo, in quascumque personas, cujuscumque status, religionis, aut dignitatis existant, sine sui diocesani licentia et assensu.</p>
+                    <p>Qui vero contrarium fecerit, proventus sui beneficii unius anni [103] ipso facio amittat, in perpetuam utilitatem ipsius beneficii, ad diocesani arbitrium, convertendos.</p>
+                    <p>Excipimus autem a prohibitione predicta, quando possessiones erunt minus utiles; quo casu, pro utilitate beneficii, in emphitheosim perpetuam dari possint.</p>
+                    <p>Sed pro acapito, seu introitu, nichil ultra recipere audeat, quam valeat census, vel canon, vel pars fructuum unius anni, que vel qui, ratione dominii retinentur.</p>
+                    <p>Salvis etiam consuetudinibus rationabilibus hactenus observatis, quas non intendimus immutare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 52</head>
+                    <p>(52) In quo statu beneficia debent dimitti, et per successorem teneri.</p>
+                    <p>Item, statuimus, quod si contingat aliquem aliquam suam ecclesiam dimittere, sine morte, juxta extimam legitimam, ac ejusdem ecclesie facultates relinquat ibidem in bonis mobilibus, quod persone necessarie ipsi ecclesie, et domui [104] ejusdem, inde possint vivere usque ad novos fructus, et commode sustentari, et omnia onera interim incumbentia ecclesie supportare.</p>
+                    <p>Quodque successor quilibet omnia ornamenta ecclesiastica, et universam domus supellectilem, in pannis et aliis, in illo statu conservet, ac in meliori, si poterit, ac reddere teneatur, in quo recipiet ecclesiam supradictam.</p>
+                </div>
+                <div>
+                    <head>Capitulum 53</head>
+                    <p>(53) De inventario bonorum ecclesiasticorum infra certa tempora faciendo.</p>
+                    <p>Item, statuimus, quod priores ecclesiarum, et hospitalium pauperum, et omnes alii beneficia ecclesiastica obtinentes, faciant inventarium cum publico instrumento, de omnibus mobilibus et immobilibus bonis suis, instrumentis, privilegiis, vasis ereis, et ferreis, atque vinariis, in principio sui regiminis, infra sex menses.</p>
+                    <p>Et si predicta non fecerint, in decima fructuum puniantur, operi, vel ornamentis, aut in [106] utilitatem ecclesie perpetuam, per ordinarium applicanda.</p>
+                </div>
+                <div>
+                    <head>Capitulum 54</head>
+                    <p>(54) De testamentis per beneficiatos, secundum consuetudines laudabiles, faciendis.</p>
+                    <p>Item, statuta olim per predecessores nostros edita super testamentis, et aliis ultimis [107] voluntatibus, per prelatos, vel beneficiatos alios, faciendis, aut consuetudines rationabiles hactenus in singulis provinciis observatas, auctoritate presentis consilii approbamus, et in suo robore volumus permanere.</p>
+                </div>
+                <div>
+                    <head>Capitulum 55</head>
+                    <p>(55) De bannis, statutis et preconizationibus contra consuetudines Ecclesie editis, prohibendis.</p>
+                    <p>Item, statuimus, quod quicumque contra consuetudines ecclesiasticas, antiquas, rationabiles, approbatas, et hactenus pacifice observatas, statuta, banna, prohibitiones, vel preconisationes, aut precepta, scienter fecerint, aut fieri procuraverint aut servari, seu facientibus vel servantibus, in hoc, consilium vel opem, directe vel indirecte, prestiterint, per diocesanos locorum, aut officiales, vel procuratores eorum, presentis auctoritate [108] consilii moneantur, ut infra unum mensem a tempore monitionis hujusmodi numerandum, statuta, banna, prohibitiones, preconisationes, et precepta hujusmodi, cum effectu debeant revocare, ad consimilia nunquam ulterius processuri.</p>
+                    <p>Alioquin, excommunicationis sententia, quam in his scriptis in ipsos ferimus, sint ligati.</p>
+                </div>
+                <div>
+                    <head>Capitulum 56</head>
+                    <p>(56) De contributione expensarum necessariarum inter omnes beneficiatos diocesis facienda.</p>
+                    <p>Item, statuimus, quod si archiepiscopus, vel episcopus, vel aliquis rector alicujus ecclesie, civitatis vel diocesis, seu provincie, expensas necessarias fecerit in legatis et nunciis sedis apostolice, expense ille solvantur de communi distributione ecclesiarum, civitatum, et diocesum, infra quas dicte expense fuerint facte.</p>
+                    <p>Et iste expense, semel in anno, in sinodo, colligantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 57</head>
+                    <p>(57) Ut Judei utriusque [109] secus signa deferant, per que ab aliis discernuntur.</p>
+                    <p>Item, statuimus, quod Judei masculi, a XIIII. annis et supra, deferant, extra domos, in superiore veste, in pectore, signum rote, cujus rotunditas in quantitate sit trium vel quatuor digitorum, nisi sint in viagio constituti.</p>
+                    <p>Mulieres autem Judee, a XII. annis et [110] supra, cornalia deferant, extra domos.</p>
+                    <p>Si vero Judei, quocumque pretextu, contrafecerint, Christianorum eis participium denegetur.</p>
+                    <p>Et eadem pena Judeos decernimus compellendos ad satisfaciendum ecclesiis de decimis et oblationibus, de domibus et possessionibus quas noscuntur in ipsarum parrochiis possidere.</p>
+                </div>
+                <div>
+                    <head>Capitulum 58</head>
+                    <p>(58) Cum absolutio, vel dispensatio, in casibus presentis consilii, superiori non reservatur, per ordinarium, vel per illum ad quem ordinarius committet, expediri poterit vel debebit.</p>
+                    <p>Item, adhicimus, quod in casibus ubi dispensatio, vel absolutio, non reperietur in ordinatione [111] presentis consilii, sedi apostolice specialiter, vel aliter reservata, episcopi, pro sue discretionis arbitrio, juxta negotii qualitatem, et personarum conditionem, provideant et dispensent; aut [112] pro reconsiliationis, vel absolutionis, seu dispensationis remedio, remittant culpabilem [113] ad suum, vel aliquem alium de predictis metropolitanis, de quo sibi magis expedire videbitur; et [114] sicut illius saluti, de cujus agetur excessu, pensatis tam negotii quam persone circumstantiis, magis crediderint opportunum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 59</head>
+                    <p>(59) Tunc sententia interdicti servetur, cum ab ordinario datum fuerit in mandatis.</p>
+                </div>
+                <div>
+                    <head>Explicit</head>
+                    <p>In singulis autem casibus supradictis, in quibus est lata sententia interdicti, tunc demum eam servari volumus et mandamus, cum ab ordinario, vel ejus officiali, seu locumtenenti, aut delegato, datum fuerit in mandatis.</p>
+                    <p>Expliciunt statuta edita in concilio provinciali apud Sanctum Ruffum, Avinionensis dyocesis, celebrato.</p>
+                    <p>Acta fuerunt hec in claustro monasterii de Sancto Ruffo, die, mense, indictione et pontificatu predictis; presentibus reverendis in Christo patribus dnis archiepiscopis et episcopis supradictis, ac venerabilibus et discretis viris dnis Bernardo de Montevalrano, archidiacono trans Ligerim in ecclesia Turonensi, Guillelmo de Concontre, canonico Aquensi, Ganselino de Condensaco, S. Sepulchri de Clausano, Arelatensis diocesis, et Bernardo de Ancima, presb., ac Petro Vasconis, notario infrascripto, et pluribus aliis, ad premissa vocatis testibus et rogatis.</p>
+                    <p>Et ego Petrus de Rocano, clericus Lemovicensis diocesis, publicus apostolica auctoritate notarius, supradictorum statutorum, cum in supradicto provinciali concilio condebantur, ordinabantur, et legebantur, una cum supranominatis archiepiscopis, episcopis, vicariis, procuratoribus, et testibus, presens fui, et ad requisitionem dictorum arrhiepiscoporum, ea in hanc publicam redegi formam, signumque meum hic apposui, et super in quatuor conglutinationibus supra factis.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] Ed. [pro se].</p>
+                    <p>[2] Ed. [domo].</p>
+                    <p>[3] Ed. [archiepiscopos].</p>
+                    <p>[4] Ed. [concorditer].</p>
+                    <p>[6] &quot;multum...valeat and oculi...eorum in quotation marks in ed.</p>
+                    <p>[7] Ed. [in]effabilem.</p>
+                    <p>[8] non est...hominibus in quotation marks in ed.</p>
+                    <p>[10] Ed. [quoties].</p>
+                    <p>[11] Ed. [ad].</p>
+                    <p>[12] Ed. [hoc].</p>
+                    <p>[13] Ed. [in].</p>
+                    <p>[14] Ed. [cogentes].</p>
+                    <p>[15] Ed. [in].</p>
+                    <p>[16] Ed. reclus[or]ia.</p>
+                    <p>[17] Word unclear.</p>
+                    <p>[18] Ed. reclus[ori]a.</p>
+                    <p>[19] Ed. reclus[ori]a.</p>
+                    <p>[20] Ed. [vel].</p>
+                    <p>[21] Ed. [dies].</p>
+                    <p>[22] Ed. [requisita].</p>
+                    <p>[23] Ed. [fuerint].</p>
+                    <p>[24] Ed. [causa].</p>
+                    <p>[25] Ed. [et].</p>
+                    <p>[26] concessas...facientes in brackets in ed.</p>
+                    <p>[27] Ed. [aliquod].</p>
+                    <p>[28] Ed. [et].</p>
+                    <p>[29] Ed. nota[rios].</p>
+                    <p>[30] Ed. [si].</p>
+                    <p>[31] Ed. [vel eorum].</p>
+                    <p>[32] Ed. assumpseri[n]t.</p>
+                    <p>[33] Ed. [ad].</p>
+                    <p>[34] Ed. [in].</p>
+                    <p>[35] Ed. [contra].</p>
+                    <p>[36] Ed. [prelatorum].</p>
+                    <p>[37] Ed. [non].</p>
+                    <p>[38] Ed. [qui].</p>
+                    <p>[39] Ed. [vilipendant].</p>
+                    <p>[40] Ed. [ausu].</p>
+                    <p>[41] Ed. [privilegiis].</p>
+                    <p>[42] ut...eis ed. in quotation marks.</p>
+                    <p>[44] Ed. [se].</p>
+                    <p>[45] Ed. [vel].</p>
+                    <p>[46] Ed. [ecclesia].</p>
+                    <p>[47] Ed. [sententiam].</p>
+                    <p>[48] Ed. [nullus].</p>
+                    <p>[49] Ed. [parte].</p>
+                    <p>[50] Ed. [De].</p>
+                    <p>[51] Ed. [funeri].</p>
+                    <p>[52] Ed. [facta].</p>
+                    <p>[53] Ed. [illa vice persone idonee].</p>
+                    <p>[54] Ed. [oneris].</p>
+                    <p>[55] Ed. [fuisset].</p>
+                    <p>[56] Ed. [suis].</p>
+                    <p>[57] Ed. [quo].</p>
+                    <p>[58] Ed. patron[atus].</p>
+                    <p>[59] Ed. [ipsum].</p>
+                    <p>[60] Ed. [con]ferendum.</p>
+                    <p>[61] Ed. [in]stitutio.</p>
+                    <p>[62] Ed. [ab].</p>
+                    <p>[63] Ed. [hactenus].</p>
+                    <p>[64] Ed. [alie].</p>
+                    <p>[65] Ed. [aut ecclesiasticas personas, astringere].</p>
+                    <p>[66] Ed. [ipsis].</p>
+                    <p>[67] Ed. eis[dem].</p>
+                    <p>[68] Ed. [et].</p>
+                    <p>[69] Ed. [prestita].</p>
+                    <p>[70] Ed. [in].</p>
+                    <p>[71] Ed. [se].</p>
+                    <p>[72] Ed. [vel].</p>
+                    <p>[73] Ed. [presens].</p>
+                    <p>[74] Ed. [a].</p>
+                    <p>[75] requirentis...semiplena in brackets in ed.</p>
+                    <p>[76] Ed. [nos, vel].</p>
+                    <p>[77] Ed. [voluerit].</p>
+                    <p>[78] Ed. [et].</p>
+                    <p>[79] Ed. [de].</p>
+                    <p>[80] Ed. [valeat].</p>
+                    <p>[81] Ed. [et].</p>
+                    <p>[82] Ed. [presente].</p>
+                    <p>[83] Ed. [domini].</p>
+                    <p>[84] Ed. [dies].</p>
+                    <p>[85] Ed. [eorum].</p>
+                    <p>[86] Ed. [super].</p>
+                    <p>[87] Ed. [prelatorum].</p>
+                    <p>[88] Ed. [a].</p>
+                    <p>[89] Ed. [exceptis].</p>
+                    <p>[90] Ed. [persona].</p>
+                    <p>[91] Ed. [et ut].</p>
+                    <p>[92] Ed. [et].</p>
+                    <p>[93] Ed. [obtentas].</p>
+                    <p>[94] Ed. [et].</p>
+                    <p>[95] Ed. [est].</p>
+                    <p>[96] Ed. [felicis].</p>
+                    <p>[97] Ed. [ad].</p>
+                    <p>[98] De his...fatigant in brackets in ed.</p>
+                    <p>[99] Ed. [excommunicationis].</p>
+                    <p>[100] Ed. [item, de illis].</p>
+                    <p>[101] Ed. [auctoritate].</p>
+                    <p>[102] Ed. [alteri audeat].</p>
+                    <p>[103] Ed. [anni].</p>
+                    <p>[104] in bonis...domui ed. in brackets.</p>
+                    <p>[106] Ed. [in].</p>
+                    <p>[107] Ed. [ultimis].</p>
+                    <p>[108] Ed. [auctoritate].</p>
+                    <p>[109] Ed. [utriusque].</p>
+                    <p>[110] Ed. [et].</p>
+                    <p>[111] Ed. [in ordinatione].</p>
+                    <p>[112] Ed. [aut].</p>
+                    <p>[113] Ed. [culpabilem].</p>
+                    <p>[114] Ed. [et].</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

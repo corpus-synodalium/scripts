@@ -1,0 +1,175 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Melfi</title>
+                <recordID>0297</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1284-03-28</origDate>
+                <dateNotes/>
+                <origPlace>Melfi</origPlace>
+                <diocese>Melfi</diocese>
+                <province>[Holy See]</province>
+                <country>Italy</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Legatine</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 297</p>
+                <p>Year: 1284</p>
+                <p>Month: 3</p>
+                <p>Day: 28</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Melfi</p>
+                <p>Diocese: Melfi</p>
+                <p>Province: [Holy See]</p>
+                <p>CountryModern: Italy</p>
+                <p>Latitude: 41</p>
+                <p>Longitude: 15.65</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Legatine</p>
+                <p>IssuingAuthority: Gerardo Bianchi da Parma</p>
+                <p>IssuingAuthorityAlt: Gerardus Blancus</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: issued by Cardinal-Legate</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Herde, Legation...Gerhard v. Sabina, 46-53</p>
+                <p>EditionOther: Mansi 24, col 569-576</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['Library Scan', 'Hard Copy Scan']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Universis presentes litteras inspecturis Gerardus miseratione divina Sabinen. episcopus, apostolice sedis legatus, salutem in domino sempiternam.</p>
+                    <p>Noveritis nos apud Melfiam in generali vocatione prelatorum regni Sicilie citra Farum constitutiones annotatas inferius edidisse in eodem regno imposterum observandas.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) Sponsa Christi, fidelium mater omnium et magistra, sacrosancta videlicet Romana ecclesia, orthodoxorum patrum atque doctorum firmissimis vallata sententiis spiritum sanctum a patre et filio ab eterno procedere publice tenet, docet et predicat et etiam profitetur.</p>
+                    <p>Cum itaque unumquemque fidelium, qui salvus esse voluerit et eterne dampnationis non subire iudicium, cum ea sentire tenere oporteat et etiam profiteri, nos, ut inter eos, quos catholice fidei finire debet integritas, nullius varietatis involutum vendicet sibi locum, salubriter constitutione presenti duximus statuendum, ut omnes Greci clerici in regno Sicilie existentes, ut discrepare nequaquam videantur a capite sed in premissis salubrius sentire cum ipso, in illa parte symboli, ubi dicitur: [1] Et in spiritum sanctum dominum et vivificantem, qui ex patre, ad hoc salubriter adiciant, cantent, profiteantur firmiter et observent: [2] filioque procedit, et illud in suis libris, in quibus symbolum scriptum habent, infra duos menses a tempore publicationis constitutionis huiusmodi ad perpetuam et in futuram memoriam faciant annotari, ad quod, si in animarum suarum periculum super hoc fuerint contemptores, volumus eos per locorum ordinarios et prelatos per subtractionem et privationem beneficiorum suorum compelli.</p>
+                    <p>Si vero locorum ordinarii vel prelati infra unum mensem predictos duos immediate sequentem super compulsione et correctione huiusmodi fuerint negligentes, tamdiu a pontificalibus, si episcopi vel superiores fuerint, quod si minores, qui immediate preesse noscuntur, ab officio ipso facto auctoritate constitutionis huiusmodi noverint se suspensos, donec per illationem debite castigationis innoxios negligentiam suam in melius reformarint; et ad hoc, ut huiusmodi salubre nostre constitutionis edictum effectum efficacius debitum sortiatur, volumus, quod per episcopos sive prelatos eosdem sub pena predicta contra predictos Grecos singulis annis super hoc diligentius inquiratur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Cum felicis recordationis dominus Gregorius papa X olim in concilio Lugdunen. omnes illos, qui clericos vel quaslibet personas ecclesiasticas, ad quos in aliquibus ecclesiis, monasteriis vel aliis piis locis spectat electio, pro eo, quod rogati seu alias inducti eum, pro quo rogabantur seu inducebantur, eligere noluerint, vel consanguineos eorum aut ipsas ecclesias, monasteria seu loca cetera beneficiis sive aliis bonis suis per se vel per alios spoliando seu alias iniuste prosequendo gravare presumpserint, ipso facto excommunicationis sententia esse voluerit [3] innodatos, nos eidem constitutioni, ut in regno Sicilie servetur imposterum, salubriter duximus adiungendum, quod, quicumque clericos vel personas easdem, ad quos electio ipsa in locis predictis noscitur pertinere, vel ipsorum consanguineos in personis seu rebus vel bonis eorum vel alias quomodocumque per se vel per alium vel alios directe vel indirecte, ut aliquem vel aliquos eligere debeant, opprimere seu etiam gravare presumpserint, sive ex huiusmodi iniuriis vel gravaminibus vel pressuris secuta electio fuerit vel etiam non secuta, ipso facto, ut superius est expressum, excommunicationis volumus sententie subiacere.</p>
+                    <p>Quam quidem constitutionem nostram volumus etiam ad provisiones extendi, ut idem in eis, quod in electionibus superius exprimitur, observetur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) Sicut nuper ad nostrum pervenit auditum, nonnulli, qui nati sunt ex Latinis parentibus, dum in minoribus sunt ordinibus constituti, matrimonium contrahunt et postmodum ritus volentes observare Grecorum, quos iidem Greci sumpserunt ab ecclesia primitiva, durantibus matrimoniis huiusmodi se faciunt ad sacros ordines promoveri.</p>
+                    <p>Nos itaque insolentiis huiusmodi obviare volentes prelatis omnibus districtius inhibemus, ne aliquem clericum coniugatum uxore non emittente castitatis votum ad sacros ordines promovere presumant, nisi evidenter eis constiterit, quod iidem promovendi de Grecis parentibus sint producti.</p>
+                    <p>Volumus autem, quod prelati, qui scienter tales duxerint ordinandos, per annum a collatione ordinum, quos contulerint, suspensi sint et ordinati ab officio et beneficio perpetuo sint privati.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) Licet felicis recordationis dominus Innocentius papa III districte statuendo preceperit, quod, quotiens intra eandem civitatem atque diocesim permixti sunt populi diversarum linguarum habentes sub una fide varios ritus et mores, locorum pontifices viros idoneos debeant ordinare, qui secundum diversitatem rituum et linguarum divina officia illis celebrent et ecclesiastica sacramenta ministrent instruendo verbo pariter et exemplo, nonnulli tamen abbates et persone ecclesiastice, qui sub se habent ecclesias et populum Latinorum, avaritie dediti, que idolorum est servitus, non considerantes premissa quodque in diversitate huiusmodi, si Grecus Latinis divina officia celebret, ignorans Latinus populus et Greci sermonis ignarus nesciet, ut est moris, in ecclesia sacerdoti [4] Amen etc. respondere, minime advertentes sacerdotes Grecos Latinis ipsis preficiunt, qui eisdem celebrant et ministrant ecclesiastica sacramenta, pro eo, quod eos pro minori pretio possunt obtinere conductos.</p>
+                    <p>Nos itaque volentes insolentias huiusmodi protinus amovere, hoc fieri sub pena suspensionis, quam ipsos abbates et alios ipso facto incurrere volumus, si contra fecerint, districtius inhibemus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) Licet felicis recordationis dominus Alexander papa III duxerit statuendum, quod clerici, qui focarias habere noscuntur, per prelatos, ut eas a se removere debeant, moneantur eas minime de cetero admissuri, ita quod, si acquiescere contempserint, eos a beneficiis ecclesiasticis usque ad satisfactionem condignam suspendere debent et, si eas suspensi detinere presumpserint, debent ipsos ab eisdem beneficiis perpetuo removere: quia tamen ex constitutione huiusmodi nulla vel modica utilitas evenit propter negligentiam prelatorum, nos huic constitutioni, quam in regno Sicilie observari volumus, duximus adiungendum, ut, si clerici, qui nunc habent publice concubinas, infra duos menses a tempore publicationis presentis constitutionis huiusmodi computandos concubinas ipsas a se totaliter non amoverint ipsas vel alias in domo propria vel aliena ulterius minime admissuri, ipso facto ab officio et beneficio sint suspensi, et si sic suspensi eas retinuerint usque ad mensem alium, a beneficiis suis per locorum ordinarios perpetuo amoveantur; quam penam extendi volumus ad eos, qui publice concubinas recipient in futurum.</p>
+                    <p>Quod si archiepiscopi, episcopi et alii inferiores exempti et non exempti, ad quos spectat correctio clericorum, ad procedendum per constitutionem huiusmodi contra tales clericos observandam fuerint negligentes, tamdiu ab ingressu ecclesie noverint se suspensos, donec constitutionem ipsam contra clericos ipsos debite executioni mandabunt.</p>
+                    <p>Ut autem mulieres sive concubine huiusmodi, que in eodem crimine scienter participant criminose, penam non possint effugere, si infra tempus prefixum concubinarii, quod superius est expressum, ab eis non recesserint numquam ad eos postmodum rediture, vel alie fuerint, que de novo sibi concubinarios fecerint, extunc ipso facto excommunicationis sententie eas volumus subiacere.</p>
+                    <p>Ceterum ne prelatus aliquis ad pecuniarium questum vel lucrum constitutionem huiusmodi presumat convertere, districtius inhibemus, ne quis pecuniam vel emolumentum aliquod in utilitatem propriam convertendum recipiat ex hac causa.</p>
+                    <p>Quod si contra fuerit perpetratum, si archiepiscopus vel episcopus aut abbas vel alius prelatus exemptus extiterit, qui deliquerit in receptione huiusmodi, donec duplum eius, quod receperit, in pios usus convertat, archiepiscopus vel episcopus a pontificali officio, abbas vero vel alius prelatus exemptus ab officio sit suspensus; alii vero abbates minores et inferioris gradus persone sententie excommunicationis subiaceant ipso facto, a qua absolvi non possint, nisi prius duplum eius, quod receperint, in opus pietatis duxerint convertendum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>(6) Volumus etiam, quod uxorati vivente uxore amasias tenere non debeant vel in domibus propriis vel alienis, qui, quod si monitione premissa bis vel ter predictas expellere non curaverint minime de cetero admissuri, se excommunicationis sententia noverint innodatos, et hii sic excommunicati tamdiu absolvi non possint, quamdiu in eorum malitia suas tenendo amasias perdurant, de quibus archiepiscopi, episcopi, abbates et alii inferioris gradus exempti et non exempti eos monendi, castigandi, fustigandi, si necesse fuerit, cum eorum corda habeant indurata, a nobis habeant plenariam potestatem.</p>
+                    <p>Ceterum si archiepiscopi, episcopi, abbates et alii inferioris gradus exempti et non exempti hoc, ut observent, fuerint negligentes, archiepiscopi et [5] episcopi a pontificalibus sint suspensi, abbates vero et alios inferioris gradus excommunicationis sententie volumus subiacere; quam quidem constitutionem nostram volumus ad illos extendi, qui de cetero admittent amasias, ut modo simili habeantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>(7) Cupientes ecclesiarum et locorum ecclesiasticorum vacantium indempnitati salubriter providere, hoc edicto in perpetuum valituro duximus statuendum, ut mortuo archiepiscopo, episcopo vel abbate seu quovis alio prelato canonici, monachi vel clerici ecclesie, monasterii seu loci, cui preerat prelatus huiusmodi sic defunctus, illico inventarium faciant de bonis ecclesie mobilibus seu loci vel monasterii predictorum procuratoresque constituant, qui custodiant bona ipsa ac fructus, redditus et proventus provenientes de bonis ecclesie, monasterii seu loci huiusmodi recipiant, exigant et conservent et de illis reddant capitulo annis singulis rationem.</p>
+                    <p>Nullus autem canonicus, monachus, conversus, clericus vel laicus de bonis ecclesiarum et locorum huiusmodi appropriare sibi, diripere, distrahere vel in alios quomodolibet illicite transferre presumat, sed omnia futuro pontifici seu prelato deductis legitimis et necessariis expensis tam pro recollectione fructuum quam aliis oneribus, que incumbunt, integre reserventur.</p>
+                    <p>Procuratoribus vero pro labore ipsorum consideratis ecclesiarum et locorum facultatibus et qualitatibus personarum competens salarium statuatur.</p>
+                    <p>Si quis autem aliquid appropriare sibi contra presentis constitutionis tenorem presumpserit, duplum eidem ecclesie infra mensem restituere teneatur.</p>
+                    <p>Canonici vero et clerici ecclesiarum et locorum ipsorum, qui procuratores et inventarium facere ac ablata reddere et rationem, ut superius est expressum, ponere vel recipere contempserint, a beneficiis, que ab eadem ecclesia tenent, per triennium sint suspensi, si fuerint seculares, et si infra tempus predictum se ipsis ingesserint, ipsis perpetuo sint privati; si autem monachi fuerint seu canonici regulares, ineligibiles ad quamlibet dignitatem seu officium vel beneficium perpetuo habeantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>(8) Quia nonnulli prelati ecclesiarum et ecclesiastici viri cupiditatis vitio laborantes terras, domos et alia bona ecclesiastica immobilia ad longum tempus locare presumunt in ipsius contractus initio recipientes aliquam pecunie quantitatem et postmodum annis singulis longe minorem, quam ipsorum bonorum seu possessionum fructus valere noscuntur, et alii ad locationes huiusmodi faciendas inducuntur minis et terroribus laicorum, statuimus et hoc edicto perpetuo inhibemus, ne aliquis prelatus vel clericus secularis seu etiam regularis domos, terras, possessiones vel quevis alia bona ecclesiastica immobilia aliquibus ultra quinquennium, nisi evidens et manifesta necessitas vel utilitas ecclesie prolixius locationis tempus exposcat, locare audeat vel presumat, ex qua quinquennali locatione vel prolixiori pecuniam nullam recipiat, nisi sicut tangit annos singulos nomine pensionis, et locatio eadem semper licitationibus exponatur.</p>
+                    <p>Inhibemus insuper venditiones, permutationes, emphytheosim et quoslibet contractus alios de rebus ecclesiasticis fieri, nisi in casibus a iure permissis, ita tamen, quod in eis debita semper sollempnitas observetur.</p>
+                    <p>Nos enim omnes contractus superius nominatos, si aliter eos fieri contigerit, irritos decernimus et inanes, locantes vero et clericos etiam consensum prebentes eisdem, sive seculares fuerint sive etiam regulares, nec non directe vel indirecte, ut predicitur, compellentes eosdem excommunicationis sententia innodamus, a qua absolvi non possint, quousque de facto revocetur contractus et ecclesia reddatur indempnis.</p>
+                    <p>Possessiones vero et quelibet bona immobilia ultra tempus predictum aliis iam locata ab eisdem prelatis protinus revocentur, et cum ad ecclesias redierint, non alienentur vel locentur aliter, nisi sicut superius est expressum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>(9) Cultum divinum nonnulli ecclesiarum prelati et persone ecclesiastice diminuere et enervare penitus non verentes parrochiales ecclesias et capellas sibi subiectas, in quibus monachus vel clericus secularis institui consuevit ad vitam vel ad tempus non modicum, cupiditatis vitio seu carnalitatis affectu aliquibus laicis sub annuo censu concedunt, alii vero ad concessionem huiusmodi minis et terroribus inducuntur, nonnulli etiam non timentes facere fraudem legi bona ecclesiarum et capellarum ipsarum modo predicto locare presumunt, ex quo ecclesie et capelle huiusmodi remanent bonis omnibus spoliate, ita quod in illis nullatenus vel minus debite in divinis officiis deservitur.</p>
+                    <p>Nos igitur locationes huiusmodi a iure dampnatas penitus reprobantes expressius inhibemus, ne aliquis prelatus seu persona ecclesiastica secularis vel etiam regularis locationem huiusmodi faciat seu facienti consentiat vel subscribat, nam in locantes, consentientes et etiam subscribentes nec non et laicos recipientes ecclesias seu terras modo predicto excommunicationis sententiam promulgamus, a qua nequaquam absolvi possint, quousque contractus sic de facto habitus revocetur totaliter et ecclesia ipsa etiam indempnis conservetur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>(10) Quia constitutionum editio, que ut plurimum pro reformatione status hominum producuntur, obtinere debet roboris firmitatem, universis archiepiscopis, episcopis et aliis ecclesiarum prelatis per regnum Sicilie constitutis tenore presentium districte precipiendo mandamus, ut constitutiones, quas in generali vocatione prelatorum regni Sicilie apud Melfiam in presenti edidimus, observent et a subditis suis faciant inviolabiliter observari, et ad hoc, ut efficacius ad notitiam perveniat singulorum, volumus, quod constitutiones ipse per prelatos locorum singulis annis in eorum synodis publice recitentur.</p>
+                    <p>Dat.</p>
+                    <p>Melfie V kal. aprilis, pontificatus domini Martini pape IIII anno quarto.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] Originally &lt;&lt;Et in spiritum...ex patre&gt;&gt;</p>
+                    <p>[2] Originally &lt;&lt;filioque procedit&gt;&gt;</p>
+                    <p>[3] Originally &lt;voluerit&gt;</p>
+                    <p>[4] Originally &lt;&lt;Amen&gt;&gt;</p>
+                    <p>[5] Originally &lt;et&gt;</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

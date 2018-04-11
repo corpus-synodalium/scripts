@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Toledo</title>
+                <recordID>0661</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1345-04-11</origDate>
+                <dateNotes/>
+                <origPlace>Toledo</origPlace>
+                <diocese>Toledo</diocese>
+                <province>Toledo</province>
+                <country>Spain</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 661</p>
+                <p>Year: 1345</p>
+                <p>Month: 4</p>
+                <p>Day: 11</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Toledo</p>
+                <p>Diocese: Toledo</p>
+                <p>Province: Toledo</p>
+                <p>CountryModern: Spain</p>
+                <p>Latitude: 39.856667</p>
+                <p>Longitude: -4.024444</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Gil Álvarez de Albornoz</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1338</p>
+                <p>RegnalEnd: 1350</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Synodicon Hispanum, X, 559-61</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['Library Scan', 'Hard Copy Scan']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) De censibus.</p>
+                    <p>De luctuosa [1].</p>
+                    <p>Quorumdam mentes sic pater mendacii dicitur excecasse quod, licet nos Egidius, miseratione diuina archiepiscopus Toletanus, Hispaniarum primas et regni Castelle cancellarius, et predecessores nostri archiepiscopi Toletani qui fuerunt pro tempore, de antiqua et approbata et hactenus pacifice obseruata consuetudine, quouis archipresbyterorum, uicariorum, rectorum et aliorum mee diocesis obeunte, unam pretiosiorem rem ex hiis que habeat, utpote sarracenum uel sarracenam, equum, roncinum, mulum uel [2] mulam, qui seu que sellam portauerit, uas seu cifum argenteum, taceam argenteam aut quoduis aliud iocale, quod siue quam rem nos duxerimus eligendum, habere debeamus.</p>
+                    <p>Ipsi tamen, proprie salutis obliti, non absque multa temeritate, cum eos infirmare contingerit, nitentes iure nostro nos fraudare, simulatis uenditionibus et aliis exquisitis fraudibus res predictas uel aliquam ex eis alienant.</p>
+                    <p>Nos igitur iustitiam nostram et ecclesie nostre nolentes negligere, uolentes eorumdem perniciosis ausibus obuiare, synodo apud Alcalam, Toletane diocesis, congregata, uolente et expresse approbante, statuimus quod nemini predictorum, postquam egrotauerit, aut heredi siue executori liceat rem aliquam de predictis alienare, nec in alium quouis modo transferre, immo unusquisque predictorum in sua ultima uoluntate de bonis suis, prout de iure sibi competere dignoscatur, disponens, de supra dicta re nobis aut procuratori nostro infra sex dies, statim post obitum suum, libere tradendam expressam faciat mentionem.</p>
+                    <p>Alioquin, quod de bonis suis ordinandum duxerit, eo ipso omni careat firmitate.</p>
+                    <p>Quod si ipsius clerici defuncti quisquam heres fuerit, et priusquam de re supra dicta maiordomo nostro in ipso archiepiscopatu deputato satisfecerit, hereditatem decedentis clerici adierit, eo ipso, iure, quod sic ei [3] ex testamento defuncti competebat, sit priuatus.</p>
+                    <p>Exsecutores uero qui, iocali predicto prius non soluto, exsecutioni ultime uoluntatis clerici defuncti se ingesserint, ipso facto sexcentorum morabetinorum usualis monete penam soluere teneantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) De solutione cathedratici [4].</p>
+                    <p>Quia plerumque nonulli iura Toletane ecclesie, in animarum suarum salutis dispendium, occultare et subtrahere non formidant, nos archiepiscopus predictus eorum malitiis obuiare et indempnitati ecclesie nostre precauere uolentes, predicta synodo expresse assensum prestante, statuimus ut quilibet clericus ciuitatis et diocesis Toletane singulis annis usque ad festum sancti Martini mensis Nouembris, nulla monitione seu requisitione premissa, suo archipresbytero seu uicario solitum cathedraticum nobis assignandum soluere teneatur.</p>
+                    <p>Quod si in hoc defecerit, ad duplum irremissibiliter soluendum eo ipso remaneat obligatus.</p>
+                    <p>Insuper, cuiuslibet parrochie curatus clericorum et capellanorum ac tonsuratorum parrochie sue nomina in scriptis, propria manu roboratis, eidem archipresbytero siue uicario annuatim in festo predicto tradere non omittat, alioquin cathedraticum pro quolibet, quem sic subscripturam non exhibuerit seu occultauerit, soluere compellatur.</p>
+                    <p>Capellani uero et tonsurati, qui ad soluendum huiusmodi cathedraticum de consuetudine sunt astricti, nisi de ipso cathedratico usque ad predictam diem ipsi archipresbytero uel uicario integre satisfecerint, quilibet eorum, preter cathedraticum ad quod tenetur, ut temporali saltem coherceatur seueritate, uiginti morabetinorum usualis monete penam se nouerit incurrisse.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) Conclusio synodi [5].</p>
+                    <p>In quorum omnium testimonium, presentes constitutiones sigilli mei appensione fecimus roborare.</p>
+                </div>
+                <div>
+                    <head>Explicit</head>
+                    <p>Datum apud Alcalam, Toletane diocesis, die undecima mensis Aprilis, anno Domini millesimo trecentesimo quadragesimo quinto, qua die predicta synodus exstitit terminata, presentibus prouidis Gundisaluo Roderici de Mayorito et Velasco Alphonsi de Alcaratio, archidiaconis, et Johanne Roderici de Cisneros, Sancte Leocadie abbate in ecclesia Toletana, testibus ad premissa uocatis specialiter et rogatis.</p>
+                    <p>Martinus Munocii.</p>
+                    <p>Decretum archiepiscopi, 13 Maii 1345, quo explicat constitutionem synodalem de censibus [6].</p>
+                    <p>Egidius, miseratione diuina archiepiscopus Toletanus, Hispaniarum primas et regni Castelle cancellarius, salutem in Domino sempiternam.</p>
+                    <p>Etsi pridem ad quorumdam dolosam astutiam reprimendam, in synodo apud Alcalam Toletane diocesis congregata quamdam edidimus constitutionem que incipit Quorumdam mentes, etc. [7], tamen ut ecclesiam nostram Toletanam fauore beniuolo prosequamur, per constitutionem ipsam institutis in eadem ecclesia, qui in suo obitu ad iocale nobis assignandum teneri non consueuerunt, nolumus nec intendimus preiudicium generari, nec per eam amplius astringantur, set omnia intelligantur in eodem esse statu quo erant ante constitutionem supra nominatam.</p>
+                    <p>Datum apud predictum locum de Alcala, tertio idus Maii, anno Domini millesimo trecentesimo quadragesimo quinto, sub sigilli nostri impensione in testimonium premissorum.</p>
+                    <p>Martinus Munocii.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] Title in brackets: &lt;De censibus. De luctuosa&gt;</p>
+                    <p>[2] &lt;uel&gt;</p>
+                    <p>[3] &lt;ei&gt;</p>
+                    <p>[4] Sentence in brackets</p>
+                    <p>[5] In brackets</p>
+                    <p>[6] Sentence in brackets</p>
+                    <p>[7] From Quorumdam in quotation marks</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

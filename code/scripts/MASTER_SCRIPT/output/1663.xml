@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>London</title>
+                <recordID>1663</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1349</origDate>
+                <dateNotes/>
+                <origPlace>London</origPlace>
+                <diocese>Canterbury</diocese>
+                <province>Canterbury</province>
+                <country>England</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Other</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 1663</p>
+                <p>Year: 1349</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: London</p>
+                <p>Diocese: Canterbury</p>
+                <p>Province: Canterbury</p>
+                <p>CountryModern: England</p>
+                <p>Latitude: 51.507222</p>
+                <p>Longitude: -0.1275</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Other</p>
+                <p>IssuingAuthority: Simon Islip</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1349</p>
+                <p>RegnalEnd: 1366</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: Archiepiscopal mandate</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Wilkins, II, 752</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Data Capture']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: Concerning processions &quot;pro liberatione a pestilentia&quot;</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>All Text</head>
+                    <p>SIMON, permissione divina Cantuar. ecclesiae electus, consecratus, venerabili fratri nostro Radulpho, Dei gratia London. episcopo, salutem, et fraternam in Domino charitatem.</p>
+                    <p>Dum ad memoriam reducimus admirandam pestilentiam, quae nuper partes istas subito sic invasit, ut nobis multo meliores et digniores subtraxerat; nos, qui residui sumus, quamvis immeritos, sua dispositione piissima misericorditer reservando, ad laudes et devotas gratiarum prorumpere cogimur actiones; sed jam dono munificentiae suae gratuite praeventi specialius, dum quosdam adversarios magnifici regis nostri, qui dolosa consilia conspirantes, quae, divina protegente gratia, nequiverant stabilire, villam suam Calesiam, treugis non obstantibus, inter eos juramento vallatis, ad manus suas attrahere proditionibus satagebant, jam incidentes in laqueum, quem nescientes sibi ipsis paraverunt, divinae voluntati finaliter serviendo suo subegit mirabiliter imperio, nonnullis aliis in multitudine valde magna suis bellicosis artibus in fugam positis et devictis, fortius satis astringimur in suis jucundis prodigiis Dominum viriliter collaudare.</p>
+                    <p>Fraternitatem igitur vestram charissimam in Domino requirimus et hortamur, vobis nihilominus firmiter injungentes, ut quod tam ad salutem vestram publicam, quam ad laetitiam processerit generalem, a cunctis cum reverentia debita veneretur, praedictam regis victoriam cum recordatione pestilentiae suprascriptae deduci faciatis ad vestrorum notitiam subditorum, eis propterea demandantes, ut bina vice singulis hebdomadibus septem psalmos poenitentiales cum litania, in ecclesiis parochialibus pro pace regni, et dicto domino rege, gratoque obsequio singulorum specialiter edicant, et processiones circa ecclesias et coemeteria eisdem diebus adjiciant consuetas, in quibus tam praeterita, quam praesentia dona Dei sinceriter meditantes, sibi serventius servire valeant et placere; et sic pro statu terrae, dicto domino rege, nobis, et vobis, qui sic ad tempus relinquimur, voces psalere puriores, ut Deus ipse justorum precibus miseratus, vindictam retrahat irae suae, et nos cum sic rogantibus suis praestet obsequiis devotius inservire.</p>
+                    <p>Vosque in Domino hortamur, ut de thesauro ecclesiae vobis credito indulgentias aliquas sic rogantibus concedatis; vobis insuper mandamus, quatenus dictum mandatum nostrum singulis fratribus nostris per nostram provinciam constitutis, quam citius poteritis, intimetis, ut ipsi pro suis dioec. idem faciant, quoad suos subditos, sicut superius est expressum.</p>
+                    <p>De die vero receptionis praesentium, modo, et forma executionis vestrae nos citra primam dominicam Quadragesimae certificetis per literas vestras patentes, harum seriem continentes; dictisque fratribus nostris specialiter injungatis, ut et ipsi singulariter modo consimili de facto suo curent reddere certiores Dat. London. sub sigillo, quod ad manus habemus, 5. idus Januar. anno Domini M.CCC.XLIX.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

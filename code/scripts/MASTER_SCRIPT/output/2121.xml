@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Meaux</title>
+                <recordID>2121</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1246</origDate>
+                <dateNotes/>
+                <origPlace>Meaux</origPlace>
+                <diocese>Meaux</diocese>
+                <province>Sens</province>
+                <country>France</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Legatine</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 2121</p>
+                <p>Year: 1246</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Meaux</p>
+                <p>Diocese: Meaux</p>
+                <p>Province: Sens</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 48.960278</p>
+                <p>Longitude: 2.888333</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Legatine</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Du Plessis, Histoire de l'Eglise de Meaux (1731), II, 477-78</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: https://books.google.com/books?id=Gl9S_qgEcKgC</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Data Capture']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>VENERABILI in Christo Patri Dei gratia episcopo et dilectis in Christo decanis et capitulo Meldensi Odo miseratione divina Tusculanus episcopus apostolicae sedis legatus salutem et sinceram in Domino caritatem.</p>
+                    <p>Cum ad excolendam Vineam Domini Sabaoth inter alios operarios licet immeritos, is qui est super omnes operarios constitutus, nos decreverit ordinandos, dignum est ut culturae ejus, prout scimus et possumus, diligentius intendamus.</p>
+                    <p>Hinc est quod ad ecclesiam Meldensem vestram visitationis gratia descendentes, quaedam licet pauca eradicare et alia plantare decrevimus, ut in omnibus decor ecclesiasticus reformetur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) In primis igitur quia hactenus in dubium vertebatur quis Clericorum chori curam haberet, eorum scilicet qui nec proprios habebant dominos, nec ecclesiastica beneficia possidebant, praesenti ordinatione sancimus, ut tam Canonicorum quam aliorum Clericorum qui chorum frequentare noscuntur, illis dumtaxat exceptis, qui extra ecclesiam Cathedralem beneficium ecclesiasticum obtinent, Decanus curam habeat animarum: ita quod omnes ei confiteri annis singulis teneantur, vel illi cui super hoc licentiam dederit specialem, salva tamen jurisdictione Cantoris, et eorum qui in dictos Clericos jurisdictionem habere noscuntur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Quia vero super loquela in choro ordinationem per Capitulum novimus esse factam, ut beneficium horae perderet, qui ita vocem in loquendo extolleret, ut de quarta sede posset audiri et intelligi, nisi forte de his quae ad divinum servitium pertinere noscuntur: quamvis per aliquorum incuriam postea fuerit revocata, nos eamdem ordinationem idoneam reputantes, legationis qua fungimur auctoritate decrevimus eam in perpetuum observandam, sub interminatione divini judicii obsecrantes, ne beneficium horae percipere audeat quicumque in hoc se manifeste cognoverit deliquisse.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) Insuper quod de septem Canonicis Diaconis in Ecclesia ordinandis statutum fuit, et de tabula scribenda in diebus festivis, prout antiquitus fuerat observatum, volumus et praecipimus in posterum observari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) Ut autem omnis occasio scandali et ridiculi ab Ecclesia abscindatur, volumus et mandamus, ut festum Innocentium secundum modum et cultum aliarum festivitatum quae per anni circulum celebrantur, per omnia reducatur: ita quod nec pueri in choro serta portare audeant, nec stalla in choro superiora tenere, aut alia hujusmodi agere quae non decent ecclesiasticam honestatem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) Injungimus insuper, ut omnia mercimonia ab Ecclesia segregentur, nec aliquorum strepitus aut alius tumultus exerceatur in ea, seu aliud per quod divinum officium valeat impediri.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>(6) Quia vero nonnulli quamvis divinis horis non plene interfuerint, stipendia tamen horae debita percipere non formidant, intrantes et egredientes, in animarum suarum periculum Dominum irridentes, districtius inhibemus, ne aliquis de choro praesumat egredi officio non completo, nisi necessitas urgeat aut aliqua utilitas id exposcat.</p>
+                    <p>Qui vero mandati hujus transgressor fuerit, sciat se ex nostra constitutione beneficio illius horae privatum.</p>
+                    <p>Quod si scienter in contemtum hujus nostrae constitutionis idem beneficium praesumserit usurpare, ipso facto si per magistrum Petrum de Bollanciaco Meldensem Canonicum Presbyterum, vel ejus successorem in Praebenda, cum idem P. Canonicus esse desierit, neglexerit emendare, sententiam suspensionis incurrat.</p>
+                    <p>De qua tamen transgressione et contemtu, si postmodum resipuerit, per manum supradicti Petri vel ejus successoris injuncta sibi salutari poenitentia absolvatur.</p>
+                    <p>Haec autem in Ecclesia vestra ad praesens ordinavimus, ad aliorum ordinationem cum vacare poterimus processuri si necesse fuerit et viderimus expedire.</p>
+                </div>
+                <div>
+                    <head>Explicit</head>
+                    <p>Datum Meldis quarto decimo Kal. Martii anno Domini MCCXLV.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

@@ -1,0 +1,456 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Piacenza</title>
+                <recordID>0540</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate precision="circa">1337</origDate>
+                <dateNotes/>
+                <origPlace>Piacenza</origPlace>
+                <diocese>Piacenza</diocese>
+                <province>Ravenna</province>
+                <country>Italy</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 540</p>
+                <p>Year: 1337</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: Yes</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Piacenza</p>
+                <p>Diocese: Piacenza</p>
+                <p>Province: Ravenna</p>
+                <p>CountryModern: Italy</p>
+                <p>Latitude: 45.05</p>
+                <p>Longitude: 9.7</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Bernardo Cario</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1323</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Statuta varia civitatis Placentiae, pp535-55</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: https://books.google.com/books?id=u5dNAAAAcAAJ</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'WebDownload']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1)  Nos Bernardus Dei et Apostolice Sedis gratia Episcopus Placentinus et Comes ad honorem Dei et Beate Virginis Marie et Venerande Martiris Beate Iustine.</p>
+                    <p>Licet hactenus multis et variis occupationibus impediti non potuerimus ad hanc solicitudinem oculos elevare: considerantes demum utilitatem et reformationem Clericorum et Ecclesiarum Civitatis et Diocesis Placentie quasdam constitutiones de consilio fratrum nostrorum duximus promulgandas, ne possint ulli de cetero per ignorantiam excusari, et transgressores penas effugere in eisdem constitutionibus ordinatas: cassantes et irritantes omnes constitutiones et omnia Statuta predecessorum nostrorum, et decernentes ipsas et ipsa nullius fore momenti.</p>
+                    <p>Quod Clerici intersint divinis officiis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) In primis statuimus quod omnes Clerici Civitatis et Diocesis Placentie residentes in Ecclesiis suis, et qui beneficium Ecclesiasticum obtinent, intersint et perseverent et decenter horis canonicis, scilicet matutinis, prime, Misse, tertie, sexte, none, vesperis et completorio, nisi</p>
+                    <p>pro manifesta et racionabili causa seu licentia Prelati sui poterint excusari.</p>
+                    <p>In quibus divinum Officium compleant sine strepitu, turpi motu, confabulatione, et risu.</p>
+                    <p>Quod Clerici ministrent Sacerdotibus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) Item statuimus quod omnes Clerici Civitatis et Diocesis Placentie in minoribus ordinibus infra Sacerdotium constituti, Sacerdotibus suis ministrent honeste in Choro necessaria circa Altare.</p>
+                    <p>Qui vero ea que in hoc capitulo continentur adimplere neglexerint, nihil de proventibus ipsius Ecclesie pro victualibus ipsa die percipiant, sed veniant in comuni.</p>
+                    <p>Si vero non veniant in comuni liceat ministro de parte illius qui hoc non impleverit, quotiens contravenerit vel fecerit, retinere tantum quod bene valeat duos denarios.</p>
+                    <p>Et hoc in Ecclesiis Conventualibus: in capellis vero denarium unum, qui in utilitatem Fractrum Ecclesie convertantur.</p>
+                    <p>Prelatis vero talium iniungimus sub pena excomunicationis ut dictam quantitatem retineant sive ab eis exigant, et si dare noluerint ad nos referant.</p>
+                    <p>Quod Ecclesie servent ordinem matricis Ecclesie.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) Item statuimus quod Ecclesie civitatis et Diocesis Placentie ordinem nostre matris Ecclesie in divinis officiis observent secundum facultates earum et personarum possibilitatem commorantium in eisdem, nisi sit Monasterium vel Canonica Regularis.</p>
+                    <p>De habitu Clericorum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) Item statuimus quod omnes Clerici Civitatis et Diocesis Placentie tonsuram cum corona habeant competente iuxta suum ordinem et statum, secundum formam et debitum ordinis Clericalis, et vestibus utantur compositis et honestis absque deformi varietate, et calzamentis atque manicis non consutitiis.</p>
+                    <p>Alioquin eos suspendimus a perceptione beneficii, donec resipiscuerint et coronam cum tonsura habuerint competentem iniungentes nihilominus sub pena excomunicationis Prelatis talium quod partem eorum in utilitatem Ecclesie et fratrum convertant.</p>
+                    <p>Quod Clerici non intrent domos suspectas.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>(6) Item statuimus sub peua excomunicationis quod Clerici et Ecclesiastice persone civitatis et Diocesis Placentie, non intrent domos suspectas, neque tabernas nisi necessitate cogente.</p>
+                    <p>Quod Clerici non exerceant usuras.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>(7) Item statuimus quod nullus Clericus vel Ecclesiastica persona exerceat usuras.</p>
+                    <p>De habitu Clericorum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>(8) Item statuimus quod Archipresbiteri et alii Ecclesiarum prelati curam habentes, per civitatem incendant cum capa clausa vel pellibus honestis, nisi prohibuerit Ecclesiarum suarum paupertas.</p>
+                    <p>Quod habentes curam sint promoti ad Sacerdotium.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>(9) Item statuimus quod Archipresbiteri et alii clerici Civitatis et diocesis Placentie curam animarum habentes, a publicatione Statuti usque ad unum annum ad Sacerdotium sint promoti, nisi aliquem ipsorum rationabilis et necessaria causa excusaverit.</p>
+                    <p>Alioquin noscant se suspensos a perceptione fructuum beneficiorum que habent ratione dictorum personatuum quousque promoti fuerint ad ordinem supradictum.</p>
+                    <p>De habitu deferentis Eucaristiam.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>(10) Item statuimus quod quilibet Sacerdos civitatis et Diocesis in decenti habitu et in capa clausa vel cota portet Eucaristiam ad infirmum, semper posito mundo velamine, precedente lumine et tintinnabulo, quod pulsetur cum omni reverentia et timore.</p>
+                    <p>Qui vero contrafecerit puniatur in soldis XL.</p>
+                    <p>Quod Clerici abiiciant focarias et filios.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>(11) Item statuimus quod Clerici concubinarii Civitatis et Diocesis Placentie usque ad octo dies post publicationem huius Statuti focarias suas abiciant, et eas penitus a cohabitatione sua removeant, nec filios secum teneant.</p>
+                    <p>Et qui contrafecerit cadat in pena XXV. librarum, quam penam nisi solverit infra mensem, incurrat ipso facto in sententiam excomunicationis.</p>
+                    <p>Quandoquidem si per mensem substinuerit animo indurato, ipso facto beneficio sit privatus.</p>
+                    <p>Quod Clerici non teneant mulieres in domo.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>(12) Item statuimus quod Clerici non habeant, nec teneant in domibus suis sive in eis quas tenent ad pensionem aliquas mulieres, nisi tales sint de quibus humana fragilitas nihil sinistri suspicari permittat.</p>
+                    <p>Et qui contrafecerit cadat in penam decem librarum.</p>
+                    <p>Quod Clerici non prestent patrocinium in Foro Seculari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>(13) Item statuimus quod Clerici in Sacris Ordinibus constituti de cetero non advocent, nec suum patrocinium prestent in Foro seculari.</p>
+                    <p>Quod si fecerint, et non cessaverint infra mensem a publicatione huius Statuti, noscant se suspensos a perceptione beneficii per duos menses, nisi pro Ecclesiis suis vel necessariis et miserabilibus personis suum patrocinium prestiterint.</p>
+                    <p>Quod Clericus non teneat duo beneficia.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>(14) Item statuimus quod nullus Clericus in eadem civitate seu plebatu duo beneficia obtineat, nisi sint capelle tenues in redditibus vel annexe plebi: et si qui habuerint infra mensem eligant quod maluerint.</p>
+                    <p>Quod si tenere presumpserint, noverint se ex tunc suspensos a perceptione beneficii utriusque, donec alterum illorum ellegerint, nisi cum eisdem per Sedem Apostolicam vel Legatos eiusdem vel per nos fuerit dispensatum.</p>
+                    <p>Quod Prelati faciant massarium.</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>(15) Item statuimus quod omnes Prelati Ecclesiarum Conventualium quolibet anno unum vel duos de fratribus suis faciant massarium seu massarios, qui suis prelatis de capitulo teneantur et debeant de proventibus et expensis quolibet mense et in fine anni reddere rationem.</p>
+                    <p>Et hoc faciant de consilio capituli sui: nec aliquem seu aliquos faciant qui non faciant residentiam, neq ipse prelatus massarius esse possit nec debeat.</p>
+                    <p>Quod nullus Clericus se immisceat secularibus negotiis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>(16) Item statuimus quod nullus Clericus se immisceat secularibus negotiis, nec recipiat consulatum iusticie, potestariam seu tutelam, vel curam, nec aliquod officium quod a layco laycis conferatur.</p>
+                    <p>Et qui contrafecerit ex nunc a protectione nostra sit exemptus.</p>
+                    <p>Quod Clerici sequantur in pulsatione horarum matricem Ecclesiam.</p>
+                </div>
+                <div>
+                    <head>Capitulum 17</head>
+                    <p>(17) Item sub pena excomunicationis precipimus quod omnes Ecclesie civitatis Placentie, monasteria, predicatoribus et Minoribus Heremitanis et Carmeletis exceptis, matricem Ecclesiam in horarum pulsatione sequantur.</p>
+                    <p>Quod Clerici habentes locum et beneficium sint promoti ad Sacerdotium.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18</head>
+                    <p>(18) Item statuimus quod omnes Clerici Civitatis et Diocesis Placentie qui habent locum et beneficium Sacerdotale, usque ad unum annum sint ad Sacerdotium promoti.</p>
+                    <p>Alioquin noscant se a perceptione beneficii suspensos.</p>
+                    <p>Quod Clericus non audeat portare infulam.</p>
+                </div>
+                <div>
+                    <head>Capitulum 19</head>
+                    <p>(19) Item statuimus quod nullus Clericus Civitatis et Diocesis Placentie portare debeat infulam, sub pena viginti soldorum pro qualibet vice qua inventus fuerit eam portare.</p>
+                    <p>Quod Presbiteri non recipiant ad sepolturam usurarios sine licentia Episcopi.</p>
+                </div>
+                <div>
+                    <head>Capitulum 20</head>
+                    <p>(20) Item prohibemus ne presbiteri usurarios manifestos, si in tali crimine decesserint, ad sepolturam recipiant.</p>
+                    <p>Quod Sacerdos non recipiat ad penitentiam usurarios sine licentia Episcopi.</p>
+                </div>
+                <div>
+                    <head>Capitulum 21</head>
+                    <p>(21) Item prohibemus ne Presbiteri usurarios manifestos in egritudine constitutos, recipiant ad penitentiam, nec absolvant eos absque nostra seu Vicarii nostri licentia speciali.</p>
+                    <p>Et qui contrafecerit condempnetur in decem libris placentie.</p>
+                    <p>Quod Sacerdos non recipiat ad Divina Officia non parochianum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 22</head>
+                    <p>(22) Item prohibemus ne Sacerdotes alienos parochianos in diebus Dominicis et aliis solemnibus contenta sua Ecclesia scienter recipiant ad divina officia, neque falcem in messem mittant alienam.</p>
+                    <p>Et hoc sub pena nostro arbitrio inferenda.</p>
+                    <p>De presenlandis Ordinandis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 23</head>
+                    <p>(23) Item statuimus circa ordinationem Clericorum ut Archipresbiteri, et aliarum Ecclesiarum ministri, temporibus ordinationum in propriis personis ordinandos quarta feria representent, nisi manifesto impedimento excusentur: et tunc mittant Sacerdotem bonum et idoneum qui de ordinandorum iuribus et moribus et etate testimonium reddat: vel hoc faciant Prelati cum litteris suis sigillis sigillatis, ne irregularem et non idoneum contingat ad ordinem promoveri.</p>
+                    <p>De presentatione ad Sacros Ordines fienda.</p>
+                </div>
+                <div>
+                    <head>Capitulum 24</head>
+                    <p>(24) Item prohibemus ne aliquis sine sufficienti titulo ad Sacros Ordines representetur.</p>
+                    <p>Et si quis contrafecerit compellatur secundum Canones in necessaria provideri, donec sufficiens beneficium habuerit.</p>
+                    <p>De Presbitero extraneo non admittendo ad Missam.</p>
+                </div>
+                <div>
+                    <head>Capitulum 25</head>
+                    <p>(25) Item precipimus quod nullus Presbiter extraneus admittatur ad celebrationem Misse populo celebrande, nisi habeat litteras testimoniales a suo Episcopo, etiam a nobis.</p>
+                    <p>Quod Clerici non faciant comatres.</p>
+                </div>
+                <div>
+                    <head>Capitulum 26</head>
+                    <p>(26) Item sub pena excomunicationis precipimus quod nullus Clericus comatres sibi faciat, ut incauta conversatio mulierum a Clericis amoveatur.</p>
+                    <p>Et hoc sub pena nostro arbitrio inferenda.</p>
+                    <p>De falsariis et maleficiis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 27</head>
+                    <p>(27) Item omnes illos et illas qui vel que falsum testimonium tulerint vel procuraverint vel consenserint ut feratur, sive scienter in dicendo falsum, sive scienter occultando veritatem.</p>
+                    <p>Item illos qui falsa fecerint instrumenta, inserta, vel fieri fecerint vel procuraverint vel consenserint fieri.</p>
+                    <p>Item omnes illos qui domos vel Ecclesias sive quecunque alia bona Ecclesiastica scienter et iniuriose combusserint vel procuraverint vel consenserint comburi.</p>
+                    <p>Item omnes illos vel illas qui vel que aliqua maleficia sive facturas aut incantationes procurent, vel procurari faciunt vel consenserint fieri: omnes suprascriptas personas excomunicamus, et a gremio Sancte Matris Ecclesie separamus.</p>
+                    <p>Et si in hoc peccato decesserint, Ecclesiastica careant sepoltura.</p>
+                    <p>Hoc vero Statutum volumus et mandamus ad terrorem et correptionem malefactorum sepius per Ecclesias singulas coram populo publicari.</p>
+                    <p>Unde hoc scriptum habeant singuli Sacerdotes.</p>
+                    <p>De Missis celebrandis per Prelatos.</p>
+                </div>
+                <div>
+                    <head>Capitulum 28</head>
+                    <p>(28) Item statuimus quod Prepositi, Archipresbiteri, et aliarum Ecclesiarum Prelati qui nunc sunt Presbiteri vel fuerint in futurum diebus Dominicis et solempnilatibus debeant Missarum Solempnia celebrare, nisi evidenti necessitate fuerint excusati, cum et hoc ex officio suo facere teneantur.</p>
+                    <p>Et hoc sub pena suspensionis beneficii, et ulterius ad nostre arbitrium voluntatis.</p>
+                    <p>De residentia fienda per Curatos.</p>
+                </div>
+                <div>
+                    <head>Capitulum 29</head>
+                    <p>(29) Item statuimus quod Clerici curam animarum habentes in suis Ecclesiis residentiam continuam facere debeant personalem, et eam incipiant facere infra mensem a die publicationis huius constitutionis.</p>
+                    <p>Alioquin sententiam excomunicationis incurrant, nisi evidens vel manifesta necessitas aliquem vel aliquos excusaret.</p>
+                    <p>Et tunc predicti remaneant de nostra speciali licentia.</p>
+                    <p>Et tunc illi qui taliter remanserint Ecclesiis suis per idoneos Vicarios faciant deserviri.</p>
+                    <p>Alioquin in excomunicationis sententiam cadant ipso iure.</p>
+                    <p>De Clericis portantibus arma.</p>
+                </div>
+                <div>
+                    <head>Capitulum 30</head>
+                    <p>(30) Item statuimus quod nullus Clericus seu Ecclesiastica persona cuiuscumque conditionis et status existat, debeat portare aliqua arma per civitatem Placentie.</p>
+                    <p>Et si quis de cetero aliqua arma portaverit, et inventus fuerit de nocte, condempnetur in centum soldis Placentie.</p>
+                    <p>Si autem de die inventus fuerit, condempnetur in sexaginta soldis Placentie pro qualibet armatura, et perdat arma.</p>
+                    <p>Quod Clericus non se obliget coram aliquo Iudice.</p>
+                </div>
+                <div>
+                    <head>Capitulum 31</head>
+                    <p>(31) Item statuimus quod nullus Clericus civitatis et Diocesis Placentie cuiuscunque conditionis existat obliget se sub aliquo Iudice seculari, Consulibus merchandie, vel aliquo alio rectore seu Potestate, terminos accipiendo, vel fideiussiones faciendo, seu aliquo alio modo se obligando.</p>
+                    <p>Et si contrafecerit per nos non defendatur, ut ubi delinquerit ibi puniatur.</p>
+                    <p>Et nihilominus in tribus libris Plac. vice qualibet puniatur et condempnetur.</p>
+                    <p>Quod nullus Clericus vadat ad mercata.</p>
+                </div>
+                <div>
+                    <head>Capitulum 32</head>
+                    <p>(32) Item statuimus quod nullus Clericus civitatis et Diocesis Plac. vadat ad mercata causa emendi porcos vel alia victualia, vel eos vel ea ducat extra districtum Placenlie.</p>
+                    <p>Et qui contrafecerit in decem soldis Plac. qualibet vice condempnetur.</p>
+                    <p>Quod Clericus debeat portare tonsuram.</p>
+                </div>
+                <div>
+                    <head>Capitulum 33</head>
+                    <p>(33) Item statuimus quod quilibet Clericus civitatis et Diocesis Placeutie debeat defferre et portare tonsuram et vestes competentes.</p>
+                    <p>Et si contrafecerit, et inventus fuerit iu aliquo delicto, condemnetur in XL. soldis.</p>
+                    <p>Et nihilominus de delicto ipso puniatur secundum qualitatem et quantitatem ipsius excessus.</p>
+                    <p>Quod nullus Clericus seu Prelatus conferat tonsuram alicui.</p>
+                </div>
+                <div>
+                    <head>Capitulum 34</head>
+                    <p>(34) Item statuimus quod nullus Abbas seu Archipresbiter sive Prelatus nostre Diocesis subditus, alicui Ecclesiasticam conferat tonsuram, nisi monasteriorum suorum conversis.</p>
+                    <p>Et qui contrafecerit, sit a beneficio suspensus, et taliter titulatus seu tonsuratus pro Clerico non habeatur, nec per nos a laycali potestate defendatur.</p>
+                    <p>Quod nullus admittatur post matutinum in Ecclesia vel cimiterio.</p>
+                </div>
+                <div>
+                    <head>Capitulum 35</head>
+                    <p>(35) Item statuimus quod nullus Prelatus seu Presbiter civitatis vel diocesis Placentie debeat dimittere aliquem hominem vel aliquam mulierem in vigiliis Solempnitatum Ecclesiarum suarum post matutinum in ipsa Ecclesia ubi fuerit dicta Solempnitas: nec ulli homines seu mulieres ipsis rectoribus Ecclesiarum permittentibus stare debeant in ipsa Ecclesia nec in cimiteriis seu plateis Ecclesiarum.</p>
+                    <p>Et expleto matutino predicto ipsi rectores debeant hostia Ecclesie claudere, et ipsa clausa tenere usque ad diem claram.</p>
+                    <p>Et hoc sub pena excomunicationis ipsis Ecclesiarum rectoribus, et omnibus laicis in dicta Ecclesia remanentibus, et ulterius puniendi rectores predictos ad nostre arbitrium voluntatis.</p>
+                    <p>Quod nil geratur in Ecclesia.</p>
+                </div>
+                <div>
+                    <head>Capitulum 36</head>
+                    <p>(36) Item cum Ecclesia sicut in Evangelio dicitur sit domus orationis, statuimus ne in Ecclesia aliqua civitatis et diocesis Placentie aliquid geratur vel condatur quam quod Divinis conveniat ministeriis.</p>
+                    <p>Et hoc sub excomunicationis pena.</p>
+                    <p>Quod Iudex secularis non trahat coram se Clericum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 37</head>
+                    <p>(37) Item quia nonnulli seculares Potestatis gerentes oflicium libertates et immunitatem Ecclesiasticam ledere ac diminuere molientes, tanquam invidi honoris et privilegii Ecclesiastici, coram se personas litigare compellunt contra Canonicas sanctiones, statuimus quod venientes Clerici coram eis, quos fore Clericos habitus et tonsura clericalis demonstrat, et allegato privilegio coram eis, si iudiliarii vel seculares iudices compulsioni nihilominus insislerint, et moniti per nos vel vicarium nostrum non desistant ipso facto, sententiam excomunicationis incurrant, a qua nullatenus absolvantur nisi ab huiusmodi compulsione desisterit.</p>
+                    <p>Et de damno, expensis, et interesse que et quas ab hoc sustinuerint per ipsos iudiciarios seu iudices seculares fuerit satisfactum, eorum sententiis et processibus habitis in huiusmodi questionibus et prolatis nil omnino roboris habituris.</p>
+                    <p>Quod nulla persona Ecclesiastica alienet aliquid.</p>
+                </div>
+                <div>
+                    <head>Capitulum 38</head>
+                    <p>(38) Item presenti constitutione statuimus, quod nulla persona Ecclesiastica nostre civitatis et Diocesis possessiones vel res immobiles ac iura Monasteriorum, Ecclesiarum, et Hospitalium, et aliorum locorum venerabilium, seu thesaurarii libros vel paramenta quocunque titulo distrahat, seu pignori obliget.</p>
+                    <p>Quod si contrafaclum fuerit, huiusmodi distrationes seu obligationes nulle sint ipso iure, nec per eos emptoribus vel creditoribus ullum ius acquiratur.</p>
+                    <p>Et contrafacientes nihilominus cadant in penam nostro arbitrio auferendam.</p>
+                    <p>Quod nulla persona retineat aliquid Ecclesie.</p>
+                </div>
+                <div>
+                    <head>Capitulum 39</head>
+                    <p>(39) Item statuimus quod quicunque habet vel detinet modo illicito Cruces, Calices, paramenta, libros seu alia quecunque bona Divino cultui deputata, Ecclesie vel illi cuius sunt infra duos menses a tempore publicationis huiusmodi restituere debeat et consignare.</p>
+                    <p>Et si ignorat cuius Ecclesie sint vel fuerint, aut illam personam cuius fuerint, nobis vel capitulo nostro si Ecclesia vacaret consignet.</p>
+                    <p>De inventario conficiendo per Presbiterum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 40</head>
+                    <p>(40) Item statuimus quod omnes Rectores civitatis et diocesis Placentie a tempore institutionis et possessionis adeptus pacifice, infra mensem teneatur et debeat facere inventarium coram duobus vel tribus de parochia de bonis mobilibus ipsius Ecclesie, et ipsum infra unum mensem tradere uni de notariis nostris, qui illud in actis nostre curie infra decem dies redigere teneatur.</p>
+                    <p>De immobilibus autem faciant cum cicius comode poterint.</p>
+                    <p>Quod Clerici non ludant aut assistant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 41</head>
+                    <p>(41) Item statuimus ne Clerici aut Ecclesiastice persone aleis seu ludis taxillorum ludant, vel ludentibus assistant, vel ludentibus ad azarum mutuent.</p>
+                    <p>Qui vero ludere inventus fuerit, in tribus libris Imperialium pro qualibet vice condempnetur.</p>
+                    <p>Qui vero ludentibus assistere seu mutuare inventus fuerit in viginti soldos Placentie vice qualibet condempnetur.</p>
+                    <p>De Monialibus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 42</head>
+                    <p>(42) Quamquam in personis Ecclesiasticis Divino cultui mancipatis expediat mores et actus corrigi et in melius reformari, ut Deo gratum famulatum reddere valeant, et a secularibus notam infamie non incurrant, tanto in monialibus dedicatis convenit observari, quanto periculosius et detestabilius si delinquatur offenditur Iesus Christus, cui suam integritatem voluntate spontanea devoverunt.</p>
+                    <p>Nos itaque statui Monialium nostre civitatis et Diocesis succurrere salubriter cupientes, presenti constitutione de Fratrum nostrorum Canonicorum Ecclesie Plac. consilio statuimus et ordinavimus universas et singulas moniales, et Deo dedicatas cuiuscunque religionis et ordinis sub perpetua in suis monasteriis debere de celero permanere clausura.</p>
+                    <p>Ita quod nulli earum Religionem tacite vel expresse professe sit vel esse valeat quacunque ratione vel causa, nisi forte tanto et tali morbo evidenter earum aliquam laborare constaret, quod non posset cum aliis absque gravi periculo vel scandalo commorari, ipsa deinceps egrediendi facultas.</p>
+                    <p>Nullique aliquatenus inhoneste persone, nec etiam honeste nisi rationabilis et manifesta existat, ac de nostra seu de vicarii nostri speciali licentia ingressus vel accessus pateat ad easdem, ut sic a publicis et mundanis conspectibus separate, servire Deo liberius omnino valeant, et lassiuiendi opportunitate sublata eisdem corda sua et corpora in omni sanctimonia custodire.</p>
+                    <p>Si qua autem Monaca vel Deo dedicata seu persona alia nostre iurisdictionis contra hanc constitutionem venire presumpserit, sententiam excomunicationis ipso iure incurrat, cui absolutionem nobis seu vicario nostro specialiter reservamus.</p>
+                    <p>Quod Presbiteri non dicant nisi unam missam in die.</p>
+                </div>
+                <div>
+                    <head>Capitulum 43</head>
+                    <p>(43) Quum iusta canonicas sanctiones felix plurimum dici possit qui Missam unam meretur die quolibet celebrare, propter ipsius maximum Sacramentum, presenti constitutione in perpetuum valitura iubemus ne quis in Sacerdotio constitutus cuiuscunque status et conditionis existat, nostre iurisdictioni subiectus, de cetero audeat vel presumat in die ultra Missam unicam celebrare, et precipue pro pecuniis et adulationibus secularium personarum.</p>
+                    <p>Exceptis casibus in quibus iura plures in die missas permittunt celebrari, videlicet in Solempnitate Sancte Nativitatis Domini, et quandocunque causa necessitatis vel utilitatis honeste duas Missas in die suaserit celebrari.</p>
+                    <p>Si quis autem contra hanc nostram constitutionem aliter celebrare presumpserit, in libris quatuor imperialium condempnetur.</p>
+                    <p>De usurariis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 44</head>
+                    <p>(44) Usurarum voraginem utriusque Testamenti pagina reprobatam in nostra civitate et Diocesi reprimere cupientes, denuntiamus seu declaramus, hac Sacra Synodo approbante, omnes usurarios manifestos donec de usuris prout patiuntur facultates eorum plenarie satisfecerint, vel de satisfacendo pro suarum viribus facultatum ydoneam prestiterint cauplionem, fore Comunione altaris et Ecclesiastica sepultura privatos, eorum oblationes recipi non debere nec ipsos absolvi posse, testamenta quoque ipsorum non valere, sed esse irrita ipso iure.</p>
+                    <p>Omnes qui etiam huiusmodi usurariis, Communionem altaris ac Corpus Christi tradiderint, aut eos ad Ecclesiasticam admiserint sepulturam donec ad arbitrium nostrum seu vicarii nostri licentiam habuerint, ab officii sui executione decernimus seu declaramus esse suspensos, adiicentes ut pene huiusmodi subiaceant omnes qui tales usurarios absolverint, aut ad communionem altaris admisserint, sive testamentis aut sepulture interfuerint eorundem.</p>
+                    <p>Ceterum in recipienda ab usurariis penitenlibus de usuris restituendis cautione predicta, hanc haberi volumus et observari cautelam: ut ante omnia per confessionem usurarii, vel librum seu libros rationum, aut per testes sive instrumenta, vel aliquo alio modo fiat certa et manifesta si poterit receptarum quantitas usurarum, non earum tantum que ab incertis, verum etiam que a certis sunt universitatibus et personis extorte.</p>
+                    <p>Si vero id non sit possibile, arbitretur et moderetur quantitas huius hiis qui ex vigore presentis constitutionis recepturi fuerint cauptionem secundum rectam conscientiam, ex fama seu vicinorum testimoniis, aut ex coniecturis aliis similibus informandam.</p>
+                    <p>Ubi vero per postas libri usurarii non apparuerit pro petente usuras sibi restitui de usuris solutis, si petens habuerit instrumenta originalia vel extracta de ipsis originalibus, et instrumentum solutionis seu liberationis vel confessionis solutio usurarum, presumatur et iudicetur ex ipso mutuo vel obligatione usque ad diem confecti instrumenti solutionis ab illo extorsisse usuras tot denarios pro libra mensibus singulis, quot declarare voluerimus si ipse uxurarius in dicta cauptione non declaraverit et dixerit quot denarios pro libra mensibus singulis.</p>
+                    <p>Quando autem solutionis instrumentum aut scriptura non apparuerit, tunc iudicet usuras per sex menses usurarium extorsisse ab illo ex illo mutuo seu obligatione secundum rationem et taxationem predictam pro mense quolibet, dummodo appareat per postas libri vel alio modo legiptimo mutuum vel obligationem fuisse contractam: quo facto promittat solemniter et iuret usurarius ei qui ut premittitur hanc receperit cauptionem curie nostre et omnium quibus intererit nomine, quod ipse si potuerit per se ipsum, vel per alium seu per alios et in presentia Vicarii nostri vel notarii nostri, vel alterius de curia nostra sine dificultate quibuslibet de usuris a se receptis, et a patre suo ceterisque personis quorum hereditas ad ipsum pervenerit, et de aliis male ablatis et illicite aquisilis per usurariam pravitatem usque in quantitatem extimatam et etiam maiorem si de maiori constiterit, satisfaciat eis a quibus eas ipse vel illi receperunt, aut eorum heredibus si potuerunt reperiri.</p>
+                    <p>Et residuum de quo illi cui restitui debeat non constabit, nobis vel vicario nostro libere assignabit pauperibus arogandum iuxta nostrum arbitrium, sine strepitu iuditii et figura, et quod nihil dicet vel allegabit vel faciet per se sive per alium propter quod ipsius curie processus, sententie vel precepta impediantur, aut quomodolibet retardentur expense ipsarum usurarum, et illicite acquisitorum, modo predicto restitutionis speciali pacto se et suos heredes et bona obligans ad predicta.</p>
+                    <p>Et renuntians expresse specialiter et generaliter omnibus iuribus et defensionibus secundum libitum et expressionem recipientis huiusmodi cauptionem.</p>
+                    <p>Et pro his attendendis, et restitutione et assignatione ut premittitur facienda, obliget omnia bona sua, illa se constituens precario nomine nostre curie possidere, omnimodam licentiam concedens et liberam potestatem nostre curie, et recipiendi cauptionem predictam pro ea apprehendendi distrahendi et alienandi de ipsius bonis libere et impune auctoritate propria et contraditione non obstante cuiuscunque, quidquid quantum et ubi voluerimus usque ad integram restitutionem et satisfactionem predictorum, et eorum occasione renuntiet etiam usuris et sibi promissas remittat ac iuramenta sibi pro eis solvendis vel non recipiendis seu repetendis, preslila relaxet, reddat, aut saltem reddere promittat et iuret quod libros et quaternos rationum suarum, instrumenta usuraria que habebit vel habere poterit absque dolo vel fraude, diminutione seu subtractione nobis vel vicario nostro, seu certo nuntio dabit vel consignabit per se vel alios pro eodem assignet, et pecuniam quam habet vel faciat depositum si potuerit ad arbitrium nostrum seu vicarii, quod quidam in cautione ipsa venire censemus, denuntiet etiam heredes suos futuros sub pena hereditatis amittende et eadem faciendi.</p>
+                    <p>Et ipsi heredes si presentes fuerint eadem se facturos sub pena et sub obligatione promittant et iurent.</p>
+                    <p>Detur preterea si poterit pignora vel saltem fideiussores idoneos qui ad predicta eodem modo sub eisdem tenoribus et penis obligent principaliter se et bona sua: constituentes se principales debitores in predictis, et renunciantes Epistole Divi Adriani, beneficio novarum constitutionum et fideiussionum, et omni alie deffensioni et iuri ad arbitrium recipientis cauptionem eandem ex pacto speciali prestantes simile iuramentum.</p>
+                    <p>Hec autem fieri precepimus coram parochiali Sacerdote et testibus fide dignis, ac notario publico Curie nostre, de nostro vel Vicarii nostri mandato qui recipiat dictas promissionem et obligationem, renunciationem et cauptionem et celera predicta, de iis conficiens instrumentum.</p>
+                    <p>Denique per cauptionem ipsam per nostram civitatem et Diocesim quando non possemus adesse, vel Vicarius noster adesse non posset, recipiat, Rector Parochialis Ecclesie in qua usurarius habitat cum notario Curie nostre, vel ipse notarius in Sacerdotis defectu, qui infra mensem teneatur hec denuntiare nobis vel Vicario nostro.</p>
+                    <p>In civitate vero nullus omnino absque nostra vel Vicarii nostri licentia speciali, nisi forte Parochialis Sacerdos ubi non poterit ad hoc requiri Curia, supervenienti subito mortis casu, de illa recipienda intromittere se presumat.</p>
+                    <p>Alioquin penam librarum decem incurrat absque satisfactione debita minime relaxanda: illos namque quo ad predicta declaramus usurarios manifestos, de quibus per parochiam quam inhabitaverint vel ubi morentur, fama fuerit extorsisse usuras, vel ipsorum confessione, aut per ydonca argumenta, seu alio modo legiptime aparebit.</p>
+                    <p>Constitutionem quoque presentem omnes Parochialium Ecclesiarum rectores etiam si colegiate fuerint habeant, legant, et intelligantur, usurariorum penas predictas frequentibus in suis Ecclesiis publicantes, et suas cautius trulantes si Divinam et nostram effugere capiunt ultionem.</p>
+                    <p>De occupantibus bona Ecclesie et prestantibus auxilium.</p>
+                </div>
+                <div>
+                    <head>Capitulum 45</head>
+                    <p>(45) Item statuimus quod nulla persona Ecclesiastica, Secularis ac cuiuscunque ordinis status et conditionis aut dignitatis existat, Ecclesias Ecclesiarumque possessiones, iurisdiciones, vassallos, earum feudum sive bona et iura quecunque ad illas spectantia invadere, occupare, usurpare, aut capere seu detinere, vel occupantibus invasoribus detentoribus et usurpatoribus et capientibus auxilium consilium vel favorem publicum vel occultum per se vel alium prestare presumat scienter.</p>
+                    <p>Et si quas Ecclesiarum possessiones, domos, iurisditiones aut vassallos eorum, feudum seu bona et iura quecunque ad illas spectantia invaserit, occupaverit, seu invasit vel detinet occupatas, seu invasas aut capere seu detinere presumpserit Ecclesias et ipsarum iura, possessiones et bona superius nominata infra duos menses a publicatione presentis constitutionis in civitate Placentie seu Diocesi libere et absolute dimittat, reddat, restituat, rellaxet, ut ipsis Ecclesiis per illos ad quos de iure in eisdem electio vel collatio aut presentatio seu provisio pertinet de personis idoneis valeat provideri.</p>
+                    <p>Qui vero contra nostre huiusmodi constitutionis tenorem facere vel venire presumpserit, si fuerit Ecclesiastica persona que Ecclesiam talem occupaverit vel detinuerit, non solum Ecclesia taliter occupata vel detenta, verum et omnibus beneficiis Ecclesiasticis que infra nostram Civitatem vel Diocesim obtinet huius presentis constitutionis auctoritate privamus.</p>
+                    <p>Si vero eadem persona Ecclesiastica non Ecclesiam sed iura premissa vel aliquid premissorum detinet occupata, infra tempus premissum libere et absolute non dimiserit aut de cetero occupaverit, excomunicationis vinculo sit abstricta, quam si spatio duorum mensium substinere animo indurato presumpserit, omnibus beneficiis que infra nostram civitatem vel Diocesim obtinet sit privata.</p>
+                    <p>Laycus autem feudum si quod ab Ecclesia tenet, perdat, et excomunicationis vinculo sit adstrictus, a qua nisi satisfecerit competenter non valeat absolvi nec beneficium obtinere.</p>
+                    <p>Quam si per tres menses sub animo indurato presumpserit per iniuriam passam requisitus inter eundem terminum libere et absolute non restituerit.</p>
+                    <p>Vel si demum detentorem requirere non audebit post denuntiationem factam per ipsum in loco publico quo ad eum invasorem possit dicta denuntiatio pervenire.</p>
+                    <p>Ecclesiarum bona occupata vel invasa qui non restituerit, quamvis in mortis articulo, non sit ei si penituerit absolutio vel communio deneganda: tamen Ecclesiastica careat sepultura, donec Ecclesia occupata vel detenta per eum, aut iura et bona premissa absolute et libere dimittat, ac de fructibus eiusdem ad mandatum nostrum vel vicarii nostri fuerit satisfactum.</p>
+                    <p>Omnesque relligiossos et Ecclesiasticos tales scienter ad Ecclesiasticam sepulturam recipientes ab officio et beneficio per annum decernimus fore suspensos.</p>
+                    <p>Quod Medicus debeat notificare infirmo de Confessione.</p>
+                </div>
+                <div>
+                    <head>Capitulum 46</head>
+                    <p>(46) Cum infirmitas corporalis nonnunquam ex peccato proveniat, dicente Domino languido quem sanaverat, vade et noli amplius peccare ne deterius aliquid tibi contingat, presenti edito sub excomunicationis pena mandamus omnibus medicis civitatis et Diocesis Placentie, quod cum ipsos ad infirmos vocari contigerit, ipsos ante omnia admoneant ut medicos advocent animarum, de quibus de peccatis per eos commissis confiteantur, ut postquam fuerit ipsi infirmo de spirituali remedio provissum, ad corporeum medicine remedium salubrius procedatur.</p>
+                    <p>Iniungentes eisdem medicis corporis, ne quid infirmo suadeant quod in periculum anime convertatur.</p>
+                    <p>Volumus autem et precipimus omnibus et singulis Rectoribus Ecclesiarum civitatis et Diocesis Placentie, ut predictam nostram constitutionem et preceptum singulis annis et bis in anno videlicet in Festo Nativitatis Domini et Resurrectionis in Missarum solempniis cum maior populi adsliterit multitudo, publicent et in vulgari declarent.</p>
+                    <p>Et hoc sub pena quadraginta soldorum.</p>
+                    <p>De casibus reservatis Episcopo.</p>
+                </div>
+                <div>
+                    <head>Capitulum 47</head>
+                    <p>(47) Cum a iure sit permissum Episcopis casus sibi certos posse reservare, a quibus nequeat inferior sine eorum licentia absolvere.</p>
+                    <p>Nos casus quos nobis et penitentiariis nostris per hanc nostram constitutionem reservamus, ut omnibus pateat duximus declarandos, videlicet.</p>
+                    <p>Cum quis petit absolvi ab excomunicatione maiori lata vel inducta ab homine vel a iure.</p>
+                    <p>Item incendio et crimine publico sicut in blasfemando Deum et Sanctos.</p>
+                    <p>Item in voto qualitercuoque omisso.</p>
+                    <p>Et in iis qui opresserunt filios ex proposito vel ex casu.</p>
+                    <p>Et quibuslibet homicidiis, sacrilegiis, falsariis, violatoribus Ecclesiarum et Ecclesiastice libertatis, sortilegiis.</p>
+                    <p>Et cum hiis qui cum brutis libidine polluuntur.</p>
+                    <p>Item incesluosis.</p>
+                    <p>Item cum corruptoribus Monialium et sororum Deo dedicatarum.</p>
+                    <p>Item in occupatione, usurpatione, et detentione rei aliene, ubi sciri non poterit quibus de illis male ablatis sit restitutio fienda.</p>
+                    <p>Item cum periuriis et clandestine contrahentibus matrimonium, de quo possit dubitatio suboriri. Inhibentes ne quis aliquos de aliquo casu predictorum quos nobis reservamus presumat absolvere, sed illos nobis seu Penilentiario nostro remittat.</p>
+                    <p>Si quis vero contrarium fecerit, et eius absolutionem velit animo suo iudice factam, nullam esse decernimus, et taliter absolventes si est Presbiter secularis per mensem suspendimus a Divinis, si vero Religiosus existat penam quam constitutio Clementina et in Consilio Viennensi edicta inclusos in carcere eos declaramus.</p>
+                    <p>Ut autem hec constitutio universis plenius inculcetur precepimus quod omnes Prelati et Rectores Ecclesiarum Placentie eam sibi conscribi faciant infra mensem: Diocesis vero infra spatium trium mensium.</p>
+                    <p>Si quis autem inventus fuerit eam non habere in sexaginta solid. condempnetur.</p>
+                    <p>Quod habens Beneficium teneatur celebrare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 48</head>
+                    <p>(48) Item statuimus quod quilibet habens Beneficium aliquod cum cura sive per titulum sive in comenda vel aliter, teneatur omni die celebrare seu celebrari facere in Ecclesia in qua obtinuit tale beneficium, si talis Ecclesia habet parochianos seu vicinos, et si careat vicinis seu parochianis teneatur omni die solempni et bis in qualibet ebdomada ad minus celebrare seu celebrari facere in illa Ecclesia ubi tale obtinet beneficium ad honorem Dei pro remedio illorum qui talem beneficium constituerunt sub pena privationis ipsorum beneficiorum.</p>
+                    <p>Quod habens beneficium teneatur expendere in Ecclesia medietatem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 49</head>
+                    <p>(49) Item statuimus quod quilibet habens beneficium in acomanda vel aliter sine titulo teneatur expendere seu convertere in utilitatem ipsius beneficii medietatem fructuum quos exigerit ex dicto tali beneficio in refectione illius Ecclesie ubi tale beneficium obtinet seu libris, calicibus, paramentis vel aliis necessariis ipsi beneficio seu Ecclesie, deductis expensis quas fecerit in faciendo deserviri ipsi tali beneficio sub pena predicta.</p>
+                    <p>Quod Abbatissa non permittat aliquem in monasterio de nocte.</p>
+                </div>
+                <div>
+                    <head>Capitulum 50</head>
+                    <p>(50) Item statuimus quod nulla Abbatissa vel Monialis alicuius monasterii civitatis Placentie nostre iurisditioni subdite a pulsatione Ave Marie de sero usque ad pulsationem alterius Ave Marie de mane inclusive permittat aliquem vel aliquos homines seu personas intrare, pernotare, stare, vel vigilias facere in eorum monasteriis sine licentia nostri sub pena excomunicationis et trium librarum denariorum placentie.</p>
+                    <p>Quod sciens aliquem contravenire suprascriptis debeat notificare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 51</head>
+                    <p>(51) Item statuimus quod quelibet persona utriusque sexus sciens aliquem vel aliquos non paruisse seu contrafecisse suprascriptis constitutionibus vel alicui ipsarum, teneatur et debeat a noticia habita per notarium infra decem dies proxime subsequentes nobis seu vicario nostro notificare sub pena excomunicationis et soldorum quadraginta denariorum placentie applicanda camere Domini Domini nostri si fuerit secularis persona.</p>
+                    <p>Et si fuerit persona Ecclesiastica applicandorum camere nostre.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

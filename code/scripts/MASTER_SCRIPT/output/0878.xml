@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Valencia</title>
+                <recordID>0878</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1262-10-24</origDate>
+                <dateNotes/>
+                <origPlace>Valencia</origPlace>
+                <diocese>Valencia</diocese>
+                <province>Tarragona</province>
+                <country>Spain</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 878</p>
+                <p>Year: 1262</p>
+                <p>Month: 10</p>
+                <p>Day: 24</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Valencia</p>
+                <p>Diocese: Valencia</p>
+                <p>Province: Tarragona</p>
+                <p>CountryModern: Spain</p>
+                <p>Latitude: 39.470239</p>
+                <p>Longitude: -0.376805</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Andrés de Albalat</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1248</p>
+                <p>RegnalEnd: 1276</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Synodicon Hispanum, XII, 712-15</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['Library Scan', 'Hard Copy Scan']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) Ne aliquis sepeliatur intra principales parietes ecclesie.</p>
+                    <p>Anno Domini millesimo ducentesimo sexagesimo secundo, tertia feria post festum sancti Luce, scilicet nono kalendas nouembris, nos frater Andreas, diuina miseratione Valentinus episcopus, prout moris est et a sanctis patribus statutum, sanctam synodum in Valentina ecclesia celebrantes, statuimus in primis quod si quis rector sepelierit infra principales parietes ecclesie aliquam personam, nisi de illis de quibus canonice est licitum sepelire [1], sine mandato episcopi, ipso iure sit priuatus beneficio dicte ecclesie.</p>
+                    <p>Et si alii clerici, qui in despectum huius constitutionis, hanc constitutionem scientes et memorie habentes, dicte sepultare prohibite interfuerint, ipso facto ab introitu ecclesie sint suspensi.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Ne aliquis clericus interponat laicum in sui promotione.</p>
+                    <p>Item, statuimus quod si quis clericus in promotione suorum ordinum, per se uel per alium interposuerit laicum pro sua promotione obtinenda ordinum predictorum, uel aliquis clericus alius pro predicta promotione facit rogare laicos, uolentes per importunitatem ad sacros ordines promoueri, tam ipse quam ipsi clerici scientes hanc presentem constitutionem et memorie habentes eamdem ipso iure sint excommunicati.</p>
+                    <p>Set hec constitutio non duret nisi per triennium, nec pena eius.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) De uino Iudeorum non bibendo.</p>
+                    <p>Item, statuimus quod si quis clericus bibit uinum Iudeorum in domibus ipsorum, quod omnino fieri prohibemus, ipso facto sit excommunicatus, si hanc presentem constitutionem sciuerit uel recoluerit.</p>
+                    <p>Item, qui eorum uinum scienter emerit, nisi tempore necessitatis, nostre subiaceat ultioni.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) De testamentis et manumissoribus.</p>
+                    <p>Nos frater Andreas, diuina miseratione Valentinus episcopus, circa commissum nobis gregem debitum officii pastoralis inuigilantes et, quantum nostre fragilitatis possibilitas sustinet, debitam sollicitudinem adhibentes, cum zelus animarum ipsorum consideratione assidua nos commendat et constringat.</p>
+                    <p>Quia ex frequenti multorum clamore ad nostram peruenit notitiam quod quedam turpis impietas et peccatum horribile in ciuitate et diocesi nostra adeo inoleuerit quod quasi in consuetudinem sit redacta: manumissores enim et exsecutores testamentorum, quorum ab ipsis testatoribus fides eligitur, et suorum testamentorum seu cuiuslibet ultime uoluntatis committitur exsecutio [2], suarum animarum salutis immemores, abiecta etiam presentis status honestate et omni uerecundia ac rubore postpositis, propriis commodis inhiantes, que uerius incommoda dici possunt [3], illud modicum, quod ipsi defuncti pro suis restituendis iniuriis uel ob modum et remedium animarum suarum ad pias causas relinquent, aliquando subticent et occultant et in proprias bursas conuertunt; aliquando etiam nouos modos et occasiones querunt quomodo possint diutius ipsas pecunias ad usus proprios retinere, supponendo frequenter aliquos querelantes et, ipsorum occasione, assumptis et habitis aduocatis, in quos etiam ipsas consumunt pecunias, eisdem de alieno gratificari uolentes, ut cum proprias causas habuerint, gratis et sine salario eis patrocinium prestent [4], et sic diu propter ipsorum aduocatorum facundiam seu malitiam causa protrahitur et testamentorum exsecutio retardatur, et penes ipsos manumissores pecunia retinetur, et occasione huius in ultimum expensarum legata diminuunt et defalcant.</p>
+                    <p>Plures etiam fraudes et malitias, prout certe didiscimus, adhibent et excogitant circa ista.</p>
+                </div>
+                <div>
+                    <head>Explicit</head>
+                    <p>Considerantes igitur quod nichil magis debetur hominibus quam ut supreme uoluntatis liber sit stilus et licitum quod iterum non reditur ad arbitrium; cum ad nostrum spectet officium curam gerere circa complendas et exsequendas uoluntates deficientium, uolentes circa predicta salubrem adhibere medelam et predictis malitiis obuiare, conuocato religiosorum uirorum et aliorum sapiendorum consilio, adhibita deliberatione prouida, monemus generaliter et in scriptis uniuersos ciuitatis et diocesis Valentine manumissores et exsecutores testamentorum et ultime uoluntatis cuiuslibet, tam clericos quam laicos, cuiuscumque dignitatis et condicionis exsistant, qui predicta non soluerint legata, quod illi quorum a morte testatoris annus est elapsus, quod infra festum Purificationis beate Mane proximum, alii uero, quorum annus nondum est elapsus, infra ipsius anni spatium, mandatum testamentorum, quantum ad restituendas iniurias et predicta legata ad pias causas soluenda, studeant adimplere, uel si forte ex causa necessaria ad tempus fuerint retinenda, saltim ipsas pecunias aut res mobiles uel se mouentes, que essent tempore periture, sine omni fraude uendi precipimus.</p>
+                    <p>Quas quidem pecunias et alias que ad manus deuenerunt ipsorum manumissorum in ede sacra deponant, ut omnem occasionem et causam retinendi seu indebite consumendi ipsas pecunias siue res et suspicionis materiam a se prorsus abiciant et excludant, ut, cum ipsi uel aliqui amici, consanguinei uel familiares ipsorum nullum sentient commodum de ipsis pecuniis siue rebus, ad implendum defunctorum uoluntates promptiores exsistant.</p>
+                    <p>Alioquin, cum iam premissa non possimus sub dissimulatione et conniuentibus oculis pertransire, ne ipsorum peccata nostra facere uideamur, nisi infra predictum tempus alterum de predictis implere curauerint, ex nunc ut ex tunc in personas ipsorum excommunictationis sententiam promulgamus, ad alias penas canonicas, si ipsorum contumacia et rebellio hoc exegerit, nichilominus processuri.</p>
+                    <p>Eadem sententia inuolui uolumus omnes illos, qui fraudem uel malitiam adhibuerint quominus ipse pecunie siue res ad ipsos perueniant et a manibus eripiantur heredum, sub attestatione diuini iudicii precipientes eisdem heredibus [5] et in suorum peccatorum remissionem iniungentes quod circa eas pecunias siue res [6] exigendas et habendas sollicitudinem et diligentiam, quam poterint et debuerint, adhibere procurent.</p>
+                    <p>Nos enim ipsis circa premissa nostrum consilium siue auxilium sine difficultate qualibet dare promittimus, ut debemus, quomodocumque ab ipsis fuerimus requisiti.</p>
+                    <p>Futuri autem manumissores seu exsecutores, nisi infra annum a morte testatoris, iuxta uoluntatem ipsius, iniurias restituerint et legata ad pias causas persoluerint uel saltem, ut prediximus, in eadem sacra ede posuerint, statim post annum eadem sententia sint ligati, ut sic remoto obstaculo quod impedit uel suspendit ipsam solutionem fieri legatorum, uoluntas defuncti citius et liberius impleatur.</p>
+                    <p>Quia frequenter, ut prediximus, predicti manumissores occasione aduocatorum predicta legata diminuunt et consumunt, quos dicunt esse exsecutores testamentorum et defensores, cum deberent dici potius destructores, eo quod uoluntatem defuncti scienter et malitiose impediunt et retardant [7], nos, qui uoluntarios labores debemus appetere ut quietem aliis preparemus, eligimus certum et specialem dare patronum et aduocatum omnibus testamentis, certum salarium de mensa nostra constituendo eidem, qui circa predicta ipsa testamenta et ultimas uoluntates in iure defendat.</p>
+                    <p>Et uolentes circa premissa omnem fraudem, malitiam et suspicionis materiam amputare, iuramentum ab ipso recepimus quod excussis manibus ab omni munere et qualibet illicita pactione, sine omni malitia et diffugio, nichil tamen de contigentibus quantum ad iuris substantiam omittendo, ipsis manumissoribus patrocinium prestet, quandocumque ab ipsis fuerit requisitus.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] From nisi de illis in parentheses</p>
+                    <p>[2] From quorum ab ipsis in parentheses</p>
+                    <p>[3] From que uerius in parentheses</p>
+                    <p>[4] From in quos etiam in parentheses</p>
+                    <p>[5] &lt;heredibus&gt;</p>
+                    <p>[6] &lt;pecunias siue res&gt;</p>
+                    <p>[7] From cum deberent in parentheses</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

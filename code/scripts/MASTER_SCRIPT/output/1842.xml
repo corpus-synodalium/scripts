@@ -1,0 +1,207 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Padua</title>
+                <recordID>1842</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1290</origDate>
+                <dateNotes/>
+                <origPlace>Padua</origPlace>
+                <diocese>Padua</diocese>
+                <province>Aquileia</province>
+                <country>Italy</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 1842</p>
+                <p>Year: 1290</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: between August and October (year not certain, but likely)</p>
+                <p>Place: Padua</p>
+                <p>Diocese: Padua</p>
+                <p>Province: Aquileia</p>
+                <p>CountryModern: Italy</p>
+                <p>Latitude: 45.416667</p>
+                <p>Longitude: 11.866667</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Bernardo di Agde</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1287</p>
+                <p>RegnalEnd: 1295</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Ceccon, SInodi diocesane, 181-186</p>
+                <p>EditionOther: Gaffuri, Tentativo di riforma, 467-72</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'WebDownload']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) Preterea, ut clerici qui in se debent esse regula et aliis exemplum et speculum honestatis, clericaliter et non laycaliter vivant, cum scriptum sit maledictus homo qui duabus viis terram ingreditur [1], hac generali synodo monemus sollempniter semel, secundo et tercio omnes et singulos nostre iurisdicioni subiectos, tam hic presentes quam absentes, qui haberi pro clericis et gaudere intendunt privilegio clericali, ut de cetero clericaliter vivant, honeste incedant, coronam in capite et tonsuram in capillis congruentem patentibus auribus more clericorum, vestes et habitum clericalem continue deferentes, et alia faciant et observent que in veris clericis requiruntur.</p>
+                    <p>Artes mecanicas seu mercaciones non exerceant, officia et stipendia secularia non recipiant, sed ab hiis et aliis quibus clericalis deformetur honestas prorsus abstineant.</p>
+                    <p>Quicumque vero predictis vel eorum alicui contraire vel facere deprehensus fuerit vel inventus, eum nec habebimus pro clerico nec etiam defendemus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Ad hec quia qui non intrat per hostium in ovile sed aliunde conscendit aut fur aut latro est [2], evangelica scriptura testante, volentes oves nostras cognoscere et ut cognoscant nos [3], nostra presenti constitucione sanccimus ne aliquis qui sub nostra iurisdicione ascribi militie clericali seu alios quoscumque ordines ecclesiasticos recipere desiderat vel tenetur, ab alio quam a nobis vel de nostra speciali licentia, ita quod licentia viccarii nostri in hac parte non valeat nobis in diocesi nostra existentibus, predictam primam tonsuram vel ordines recipere audeat vel attemptet; monentes publice et sollempniter semel, secundo et tercio peremptorio omnes abbates et prelatos nostre iurisdicioni subiectos ac eis districte sub excommunicationis pena, quam ex nunc quam ex tunc, tam in ordinatorem quam ordinatum, in hiis scriptis proferimus eosque incurrere volumus ipso facto, districte precipimus et mandamus, ut de cetero nemini primam clericalem tonsuram vel ordinem ecclesiasticum conferre presumant, nisi in casibus a iure concessis, absque nostra, ut prediximus, licentia speciali.</p>
+                    <p>Quicumque vero fuerit aliter ordinatus non habebitur pro ordinato nec ordinationem huiusmodi acceptamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) Quam sit detestabile, quam orrendum nephandum vicium symonie ex sacrarum scripturarum documentis evidenter ostenditur, et ideo volentes libenter hanc pestem mortiferam quantum possumus prohibere, hoc perpetuo edicto statuimus ac etiam tam sub excommunicationis pena quam maledicionis eterne districtius inhibemus ne aliqua ecclesiastica secularisve persona audeat vel attemptet pro aliqua ecclesia vel quocumque beneficio ecclesiastico pro se seu aliis, antequam sit ipsius pacificam possessionem adepus, obtinendo, seu quacumque re alia spirituali pro se [4] iniustitia aut pro iniustitia pro aliis consequenda, pecuniam aliquam vel rem aliam dare vel promittere seu apud quemcumque deponere quoquomodo.</p>
+                    <p>Quod si forte quis, maligno ductus spiritu, contra huiusmodi nostram [5] constitucionem facere vel attemptare presumserit, preter maledicionem omnipotentis Dei, tam dantem et promittentem quam recipientem, tam deponentem quam depositarium, ex nunc quam ex tunc, in hiis scriptis excommunicacionis vinculo innodamus et eum tamdiu volumus excommunicaciones sententie subiacere donec suum nobis confiteatur reatum et beneficio ac omnibus sic obtentis expresse renunciet et duplum eius quod dederit, promiserit seu deposuerit, restituat et persolvat illi ecclesie in qua et cuius ignominiam hoc fiebat seu alias in usus pauperum prout nobis iustum videbitur convertendum et demum absolucionis beneficium meruerit obtinere.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) Item excommunicamus personas religiosas proprietarias seu proprium habentes, nisi restituerint infra mensem in manibus sui prelati.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) Ne ab illis videatur pecandi causa, invitatio, materia et exemplum procedere a quibus peccatorum est venia postulanda, idcirco providemus, statuimus et irrefragabiliter diffinimus quod nullus presbyterorum, capellanorum vel clericorum Padue sit ausus egredi vel exire parochiam propriam et aliam ingredi ad audiendum confessiones, dandam eucarestiam, conferendum baptisma vel aliquod aliud ecclesiasticum [6] sacramentum aut sponsam alterius parrochie in suam ecclesiam recipere absque iuxt[7] ilius [8] vel illorum verbo et licentia sacerdotis vel sacerdotum cuius quocumque est verbum [9] et licen[10]tia impetranda. [11]</p>
+                    <p>Qui vero contra predicta vel aliquid predictorm venire vel facere presumpserit [12] ipso facto excommunicationis vinculo innodatus [13]ratus fuerit, ob hoc restituat et pro pena decem soldos [14] parvorum, distribuendos prout nobis placuerit ordinare [15], persolvat antequam a dicta excomminicatione absolvatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>(6) Item statuimus quod nullus presbyterorum predictorum, capellanorum et clericorum sit ausus quovis modo ad alienam ecclesiam, monasterium vel cenobium aut alium locum secularem vel religiosum ire vel accedere ad funus alicuius vel ad aliquod officium funeris sive nocturnas exequias vel vigilias, nisi fuerit vocatus a presbytero vel rectore illius ecclesie vel parrochie, loci vel monasterii seu pro voluntate heredum defuncti specialiter invitatus.</p>
+                    <p>Qui vero contrafecerit, excommunicatus ut supra, ab illa excommunicacione non possit absolvi nisi prestet restitucionem lucri et pro pena solverit decem soldos parvorum, prout nobis videbitur convertendum.</p>
+                    <p>Qui vero aliter invitaverit ad exequias, quam superius est expressum, penam predictam venientis presbyteri vel clerici non invitati ipso facto incurrat.</p>
+                    <p>Si vero sacerdos vel clericus forensis fuerit similiter ad predicta, nec veniat nec accedat nisi fuerit invitatus ut superius est premissum; et si contrafecerit nullus presbyterorum, capellanorum seu clericorum Padue ulterius eum recipiat in ecclesia sua modo aliquo vel ingenio ad aliquod officium celebrandum.</p>
+                    <p>Si quis vero, postquam hoc sibi innotuerit, contrafecerit, sit excommunicatus ut supra donec dictus clericus vel sacerdos forensis solverit dietam penam vel ipse huius precepti transgressor pro eo.</p>
+                    <p>Invitatorum vero canonicorum seu capituli maioris ecclesie paduane familiares, sicut nunc ipsi canonici, non subiacent dictis penis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>(7) Providimus etiam ordinamus quod nullus clericorum vel sacerdotum, monachorum vel conversorum propter potum vel ludum seu causam aliam inhonestam intret tabernam quamcumque aut ob causas predictas more aliorum obvenientium vel accedentium in porticu seu loeu alio se recipiat circa eam.</p>
+                    <p>Qui vero contrafecerit, in viginti soldos parvorum pro qualibet vice condempnatus sit ipso facto.</p>
+                    <p>Et quilibet clericus vel sacerdos teneatur quemcumque viderit vel alias scierit clericum vel sacerdotem transgressorem istius precepti accusare infra terciam diem, cui cum iuramento credatur.</p>
+                    <p>Medietas vero banni sit accusantis et alia medietas distribuatur prout nobis videbitur ordinandum, aliqui minime remittenda.</p>
+                    <p>Condempnatus vero infra decem dierum spatium, ab accusacionis tempore numerandum, dietam condepnacionem persolvat et si solvere pretermiserit excommunicatus ut supra, nullatenus absolvatur nisi prius solverit cum quinque soldis penam predictam.</p>
+                    <p>Qui autem ut supra accusare pretermiserit transgressorem et transgressores huiusmodi, ipso facto excommunicatus auctoritate prefata, numquam absolvatur nisi prius culpam suam recognoverit et penam viginti soldorum solverit et ipsum vel ipsos accusaverit quos accusare pretermiserat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>(8) Item ad honorem Dei et gloriose virginis Marie matris eius statuimus et ordinamus atque precipimus et mandamus quod quilibet Prelatorum et capellanorum civitatis subiectorum [16] ac diocesis Paduane teneantur et debeant pulsare vel pulsari facere campanam sue ecclesie ora complectorii post sonum campane maioris ecclesie, ad excitandum hominum corda ad salutacionem predicte virginis gloriose; nec audeat aliquis, in diebus in quibus fit sollempne baptisma, pulsare campanas nec officium incipere antequam campane maioris ecclesie pulsentur.</p>
+                    <p>Quicumque vero ad huiusmodi mandati observacionem se reddiderit negligentem, ab execucione officii sui ipso facto noverit se suspensum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>(9) Preterea, quia perniciosum est eciam et orrendum quo aliquis sacerdos vel clericus cum inquinatis manibus tactu illicito mulierum sumere et tractare debeat sacraissimum corpus et sanguinem domini nostri Iesu Christi, hac generali synodo sollempniter monemus omnes et singulos prelatos et clericos tam religiosus quam seculares, cuiuscumque ordinis et status existant, tam assentes quam presentes, quod nullus ad hodierna die in antea audeat vel  presumat concubinam vel focariam sive mulieram aliam quamcumque suspectam teneri in domo vel aliter publice nec aliquatenus cohabitare eidem.</p>
+                    <p>Quod si ammonicionis nostre et mandati huiusmodi aliqui se contemptores reddiderint [17] aut r[18]ebelles, officio et beneficio noverint se suspensos et preter penam aliam in constitucionibus domini [19] Latini e[20]piscopi ostiensis et velletrensis, apostolice seds legati, contentam et per eum editam contra tales.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>(10) [21] omnes et singulos clericos supradictos ac districte sub excommunicacionis pena mandamus quod nullus [22] vel secularium claustra monasterii monialium intrare nec monasteria ipsa frequenta[23]re pr[24]esumant absque nostra licentia speciali.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>(11) Quia clericorum arma debent esse oraciones et lacrime et non ferrum, statuimus et ordinamus ac inviolabiliter precipimus observari quod nullus clericorum civitatis Padue et diocesis audeat vel presumat alicuius generis arma portare per civitatem vel per villas etiam diocesis Paduane.</p>
+                    <p>Quicumque vero contrafecerit et inventus fuerit cum armis, nomine pene solvat et solvere teneatur illa banna et pecuniarum quantitates que in statutis communis Padue continentur, ex nunc pro ex tunc scriptis presentibus condempnamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>(12) Quia non decet clericos, ecclesie Dei ministros, ludis vanis et turpibus, qui etiam laycorum famam denigrant, intendere, sed libris et scripturis sacris vacare, hac synodo generali statuimus quod nullus clericorum Padue in civitate vel villis diocesis nostre ludere audeat in publico ad ludum aliquem cum taxillis vel alias inhonestum ubi denarii ammittantur, sub pena soldorum viginti.</p>
+                    <p>Et quilibet sit accusator et teneatur accusare quoscumque viderit sic ludentes et habeat medietatem banni.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>(13) Item, quia amictus corporis et incessus hominis de illo indicant, Salomone testante, mandamus inviolabiler observari quod nullus sacerdotum sine cappa, tabardo vel alio supervestimento honesto incedat per civitatem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>(14) Item, quia mater et advocata omnium est ab hominibus honoranda, ordinamus et de cetero precipimus inviolabiliter observari quod omni die beate Marie officium dicatur in qualibet ecclesia cum tribus leccionibus diebus feriatis, in quibus diebus sabati missa de sancta Maria sollempniter celebretur, nisi festum aliud sollempne in die sabati occurrerit.</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>(15) Item, cum beati Franciscus et Dominicus ecclesiam Dei illuminaverint gloriosis meritis et exemplis et ideo digni sint omni reverentia et honore, districte mandamus diem festivitatis eorum in civitate et diocesi Paduana devotissime celebrari.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] &quot;maledictus homo qui duabus viis terram ingreditur&quot; in quotation marks.</p>
+                    <p>[2] &quot;&quot;qui non intrat per hostium in ovile sed aliunde conscendit aut fur aut latro est&quot; in quotation marks.</p>
+                    <p>[3] &quot;volentes oves nostras cognoscere et ut cognoscant nos&quot; in quotation marks.</p>
+                    <p>[4] &quot;[....]&quot; inserted here.</p>
+                    <p>[5] &quot;stram&quot; from &quot;nostram&quot; in brackets.</p>
+                    <p>[6] &quot;ecclesia&quot; from &quot;ecclesiasticum&quot; in brackets.</p>
+                    <p>[7] &quot;[...]&quot; inserted here.</p>
+                    <p>[8] &quot;il&quot; from &quot;ilius&quot; in brackets.</p>
+                    <p>[9] &quot;bum&quot; from &quot;verbum&quot; in brackets.</p>
+                    <p>[10] Bracket begins here.</p>
+                    <p>[11] Bracket ends here.</p>
+                    <p>[12] &quot;[...]&quot; inserted here.</p>
+                    <p>[13] &quot;[...]&quot; inserted here.</p>
+                    <p>[14] &quot;sol&quot; from &quot;soldos&quot; in brackets.</p>
+                    <p>[15] &quot;ordinar&quot; from &quot;ordinate&quot; in brackets.</p>
+                    <p>[16] &quot;iec&quot; from &quot;subiectorum&quot; in brackets.</p>
+                    <p>[17] Bracket begins here.</p>
+                    <p>[18] Bracket ends here.</p>
+                    <p>[19] Bracket begins here.</p>
+                    <p>[20] Bracket ends here.</p>
+                    <p>[21] &quot;[...]&quot; inserted here.</p>
+                    <p>[22] &quot;[...]&quot; inserted here.</p>
+                    <p>[23] Bracket begins here.</p>
+                    <p>[24] Bracket ends here.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

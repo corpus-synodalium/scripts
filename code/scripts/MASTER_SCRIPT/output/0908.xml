@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Angers</title>
+                <recordID>0908</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1327</origDate>
+                <dateNotes/>
+                <origPlace>Angers</origPlace>
+                <diocese>Angers</diocese>
+                <province>Tours</province>
+                <country>France</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 908</p>
+                <p>Year: 1327</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: Saint Luke</p>
+                <p>Place: Angers</p>
+                <p>Diocese: Angers</p>
+                <p>Province: Tours</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 47.473612</p>
+                <p>Longitude: -0.554167</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Foulque de Mathefelon</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1324</p>
+                <p>RegnalEnd: 1355</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: Paris, BnF fr 22354, p74</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Arnauld, Statuts du diocese d'Angers (1680), 126-27</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: https://books.google.com/books?id=OcQPXFeqPScC (this is the 2nd edition; the first was published the same year, in Angers)</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Data Capture']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>All Text</head>
+                    <p>MOnemus vos omnes, et singulos Archidiaconos, Archipresbyteros, et Decanos, Ecclesiarumque Rectores, et Capellanos Curatos quoscumque nostrae Dioecesis hic praesentes, et vestrum singulos, vobisque et vestrum singulis nihilominus inhibemus in virtute sanctae Ecclesiae, et obedientiae, et sub poena suspensionis, et quinquaginta librarum monetae currentis nobis applicandarum, et in pios usus convertendarum, ne aliquis vestrum recedat ista die, nec sequenti de villa Andegavensi, nisi petita licentia, et obtenta a nobis, vel Magistris Petro Vicario Archidiacono Andegavensi, Mauritio de Sizugat, et Roberto Helie Commissariis nostris in hac parte, quos in Palatio nostro Andegavensi poterit quilibet invenire, cum simus locuturi vobiscum super aliquibus tangentibus necessitatem Ecclesiae nostrae, quae per nos vel Commissarios nostros praedictos vobis poterunt diebus praedictis latius apparere.</p>
+                    <p>Item vobis omnibus et singulis Rectoribus, et Capellanis, et Curatis praedictis, in quorum Parochiis sunt Eleemosynariae, seu domus Dei ad receptionem seu Hospitalitatem pauperum et infirmorum specialiter deputatae, injungimus sub poenis superius declaratis, quatenus unusquisque vestrum infra festum Nativitatis Domini proximum venturum nobis, vel Officiali nostro Andegavensi referat fideliter, et sub dicto juramento nomen et statum domorum et rerum pertinentum ad easdem, et Priorum seu Administratorum earum, ut auditis vestris relationibus in praemissis sic ordinemus super hoc et faciamus quod justitia suaedebit.</p>
+                    <p>Item injungimus sub poenis praedictis vobis omnibus et singulis Rectoribus et Capellanis Curatis praedictis, quatenus singulis diebus Dominicis, festisque novem lectionem cum Clero, et Populo congregato ad divina, ex parte nostra publice in vestris Ecclesiis indicatis, quod si sunt aliqui, cujuscumque status seu conditionis existant, qui juste conqueri voluerint de quacumque persona nobis subdita, et potissime de procuratoribus servientibus, et aliis, qui tam nostras, quam subditorum nostrorum Curias frequentant, seu frequentaverint tempore retroacto, apud sanctum Elemandum in crastino festi sancti Andreae proximo, cum diebus sequentibus accedant.</p>
+                    <p>Et ibidem fiet per nos, vel Commissarios nostros, quos faciemus ibidem propter hoc specialiter interesse, etiam summarie, et de plano cuilibet juste conquerenti, faciente Domino, justitiae complementum; et ipsa die faciemus extra Synodum injungi Rectoribus, qui non apportaverunt Statuta Synodalium et Provincialium Conciliorum, et quaternum Synodalem, quod ipsi in virtute obedientiae ad aliam proximam Synodum afferant, et exhibeant, alioquin ipsos sine spe veniae puniemus.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

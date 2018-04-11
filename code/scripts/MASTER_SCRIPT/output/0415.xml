@@ -1,0 +1,143 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Valencia</title>
+                <recordID>0415</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1278-10-26</origDate>
+                <dateNotes/>
+                <origPlace>Valencia</origPlace>
+                <diocese>Valencia</diocese>
+                <province>Tarragona</province>
+                <country>Spain</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 415</p>
+                <p>Year: 1278</p>
+                <p>Month: 10</p>
+                <p>Day: 26</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Valencia</p>
+                <p>Diocese: Valencia</p>
+                <p>Province: Tarragona</p>
+                <p>CountryModern: Spain</p>
+                <p>Latitude: 39.470239</p>
+                <p>Longitude: -0.376805</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Jazperto de Botonach </p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1276</p>
+                <p>RegnalEnd: 1288</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Synodicon Hispanum, XII, 724-27</p>
+                <p>EditionOther: Perez de Heredia, Sinodos, 603-608</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['Library Scan', 'Hard Copy Scan']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: -Puchades, Als ulls, 93, notes that none of the general councils of the Tarraconense celebrated between 1274 and 1330 contain constitutions against usury, which makes the inclusion of 3 canons against usury in the Valencia 1296 synod all the more striking (especially since nothing on usury was in 1278 and 1280 Valencia synods).</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Incipiunt constitutiones domini Iazperti, episcopi Valentini.</p>
+                    <p>Anno Domini millesimo ducentesimo septuagesimo octauo, septimo kalendas nouembris, nos Iazpertus, diuina miseratione Valentinus episcopus, fecimus sequentem constitutionem, per nos factam in synodo publicari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) De residentia in ecclesiis facienda [1].</p>
+                    <p>Sapienter est a iure prouisum ut rectores ecclesiarum et hii etiam qui personatus in ecclesiis habere noscuntur personalem residentiam faciant in eisdem, ut per diligentiam et sollicitudinem eorumdem ecclesiarum status non sentiat lesionem, et ut lupi rapacis astutia gregem dominicum inuadere non presumat, [2] quomodo enim potest esse peruigil pastor absens?</p>
+                    <p>Nos igitur Iazpertus, miseratione diuina Valentinus episcopus, prout moris est et a sanctis patribus constitutum, sanctam synodum in Valentina ecclesia celebrantes, cum multa meditatione pensantes quam grauis et periculosa, quamque sit ineffabilibus onusta dispendiis prelatorum et rectorum ecclesiarum absentia diuturna.</p>
+                    <p>Considerantes attente quod predicta iuris prouisio aliquibus prodiit in abusum, eo quod non sit ualidius penali sanctione uallata, ut sic iam sit in pluribus palpabiliter inuenire quod lex uerbis est imposita et non rebus.</p>
+                    <p>Animaduertentes etiam diligenter quod etsi generaliter seu communiter ualde utile ualdeque necessarium fore dinoscitur ut per orbem terrarum, ubi uidelicet irradiat cultura fidei orthodoxe [3] presidentes ecclesiis resideant in eisdem, longe tamen commodius longeque probabilius est ut in nostra diocesi Valentina, in qua nouiter fides pullulat christiana, spiritualium patrum affectata presentia specialius requiratur, per quorum scientiam, industriam et doctrinam incrementum salutis subditi capiant et uerbi uite pabulo fulciantur.</p>
+                    <p>Prouide preterea meditantes multa alia in premissis, que subtacemus ad presens, de nostri capituli consilio et assensu, hac salubri constitutione sancimus, immo, quod est uerius, iam sancitum modico speciali super addito publicamus, quod tam personatus seu dignitates habentes, quam etiam rectorias in ciuitate uel diocesi Valentina, in suis ecclesiis residentiam faciant personalem.</p>
+                    <p>Et si quis huius nostre laudabilis constitutionis se contumaciter constituerit transgressorem et ab hac diocesi per continuum spatium trium mensium post hanc se duxerit absentandum, ipso facto sententiam excommunicationis incurrat.</p>
+                    <p>Quod si pertinaciter induratus ab hac diocesi absentauerit se per annum, eo ipso predictarum constitutionum beneficio uel beneficiis, que in nostra diocesi uel ciuitate fuerit quoquomodo assecutus, se penitus sentiat esse priuatum.</p>
+                    <p>Hec igitur robur obtineant firmitatis, nisi quis studiorum uel peregrinationis causa uel etiam uisitationis Romane curie a predicta Valentina diocesi se absentet, uel nisi etiam in seruitio nostro fuerit uel ecclesie Valentine, uel nisi a nobis uel a capitulo Valentino, dum ecclesiam nostram uacare contigerit uel extra Tarraconensem prouinciam nos abesse, licentiam obtinuerit specialem, quam aliquis probare non ualeat nisi per nostras patentes litteras uel publicum instrumentum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) De publicatione publicorum adulterorum.</p>
+                    <p>Item, olim excommunicationis sententiam per bone memorie Andream, predecessorem nostrum, contra publicos adulteros ciuitatis et diocesis Valentine editam et etiam publicatam, per nos postmodum tam in synodis quam in nostris predicationibus publicatam et hactenus obseruatam [4], ad memoriam reducentes, quia inuenimus quod aliqui ad sua pallianda peccata, eam conabantur et conantur suis mendaciis in dubium reuocare, eamdem iterum approbantes et etiam innouantes nichilominus ad eternam rei memoriam in iam dictos excommunicationis sententiam promulgamus, mandantes clericis parochialibus quod, si quos in suis parochiis sciuerint predicto crimine adulterii publice laborantes, nullo super hoc exspectato mandato, eosdem excommunicatos denuntient diebus dominicis et festiuis auctoritate nostra et constitutionis presentis, quam uolumus inuiolabiliter obseruari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) Quod clerici portent coronam patentem.</p>
+                    <p>Item, recolentes olim nos publice monuisse in ecclesia Sancte Marie sedis Valentine quod omnes illi ciuitatis et diocesis Valentine, qui asserebant se a nobis uel ab aliquibus episcopis ordines recepisse, et coronas uel clericalem habitum non portabant, infra certum tempus coronas congruentes sibi fieri facerent et eas publice apportarent, et comam etiam dimitterent, ac uestes clericales portarent, et in libro curie nostre facerent se scribi; quem terminum peremptorium eis recolimus assignasse [5].</p>
+                    <p>Quod nisi facerent, nos in causis criminalibus uel ciuilibus ex tunc eos nullatenus tamquam clericos defendere curaremus.</p>
+                    <p>Et hoc fecimus propter multa scandala et frequentes querelas que ex ista causa coram nobis multotiens peruenerunt.</p>
+                </div>
+                <div>
+                    <head>Explicit</head>
+                    <p>Et quia, sicut intelleximus, multi circa hoc inobedientes et negligentes seu etiam incorrigibiles exstiterint, ad eorum malitiam superandam, adhuc indemnitati eorum prouidere uolentes, nichilominus eos, ultra peremptorium, commonimus quod hinc ad festum natiuitatis Domini proximo uenturum mandatum predictum sub forma predicta adimplere procurent.</p>
+                    <p>Pro certo scientes quod ex tunc, si qui circa mandatum nostrum predictum uel monitionem negligentes uel inobedientes inuenti fuerint, Ecclesia eos tamquam clericos non defendet, nec in ciuitate uel diocesi Valentina clericali gaudebunt priuilegio, nec forum ecclesiasticum sortientur.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] In brackets</p>
+                    <p>[2] ¿</p>
+                    <p>[3] From ubi uidelicet in parentheses</p>
+                    <p>[4] From per nos postmodum in parentheses</p>
+                    <p>[5] Ed. asssignasse</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

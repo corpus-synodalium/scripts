@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Limoges</title>
+                <recordID>0212</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate precision="circa">1360</origDate>
+                <dateNotes/>
+                <origPlace>Limoges</origPlace>
+                <diocese>Limoges</diocese>
+                <province>Bourges</province>
+                <country>France</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 212</p>
+                <p>Year: 1360</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: Yes</p>
+                <p>DatingNotes: 1348x1371</p>
+                <p>Place: Limoges</p>
+                <p>Diocese: Limoges</p>
+                <p>Province: Bourges</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 45.85</p>
+                <p>Longitude: 1.25</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Jean de Cros</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1348</p>
+                <p>RegnalEnd: 1371</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Lecler, “Anciens statuts du diocèse de Limoges,&quot; 152-53</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: https://books.google.com/books?vid=HARVARD:32044100885706</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'WebDownload']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>All Text</head>
+                    <p>Hec sunt constitutiones et statuta edita per dominos vicarios Domini episcopi Lemovicensis: ex decimo kalendas junii anno Domini millesimo...</p>
+                    <p>Ad divini nominis gloriam et decorem universalis ecclesie militantis et populi christiani devotionem augendam mandamus omnibus ecclesiarum rectoribus et curatis ut deinceps cum corpus Domini portabitur per loca sue parochie ad infirmos quod curent reverenter prout tanto sacramento convenit campanam parvam coram se sacerdotes facere portari pulsando, nec non et lumen seu lumina accensa in laterna, si torticum vel torticia habere non possent, ante se semper portari procurent et continue donec ad ecclesiam suam redierint opere consummato, et hoc sub pena arbitraria deinceps precipimus observari.</p>
+                    <p>Item saizimus ex nunc omnia bona mobilia et pendencia quarumcumque personnarum ecclesiarum curam vel non curam habentium animarum quo contra constitutiones synodales et provinciales et canones ultra tempus in dictis constitutionibus comprehensum excommunicationis sententiam sustinent; mandamus omnibus archipresbiteris Lemovicensis diocesis ut vice et autoritate nostra bona predictorum excommunicatorum tanquam per nos et ex nunc saisita recipiant et explectent et nobis rationem celeriter reddere procurent et de nominibus dictorum excommunicatorum nos curent reddere certiores eosdem citando ad certas dies personaliter coram nobis ad finem juxta tenorem statutorum predictorum, ad privationem beneficiorum suorum, et ad satisfactionem creditorum suorum, et ad alias graves penas arbitrarias contra ipsos procedere valeamus.</p>
+                    <p>Injungimus omnibus archipresbiteris seu locatenentibus eorumdem ut omnia nomina prelatorum et rectorum archipresbiteratus sui qui presentes ad hanc veniunt synodum nobis tradant in scriptis ut contra contumaces inobedientes ad penas tales procedamus quod deinceps eis et aliis transeant in exemplum.</p>
+                    <p>Et hoc deinceps in synodis per archipresbiteros statuimus observari.</p>
+                    <p>Mandamus insuper omnibus rectoribus ecclesiarum sub pena excommunicationis ut cessent penitus a divinis officiis in ecclesiis eorumdem quociens et quocumque per secularem potestatem personam ecclesiasticam sciverint detineri, donec a nobis vel officiali nostro contrarium receperunt in mandatis.</p>
+                    <p>Insuper inhibimus et mandamus per omnes ecclesiarum prelatos, rectores et alias personnas ecclesiasticas, constitutiones provinciales et synodales olim factas, et sepe et publice insinuatas, inviolabiliter observari, et si qui fuerint contemptores, violatores seu aliter non observantes, mandamus omnibus archipresbiteris ut nobis celeriter revelare procurent ut ultra penas in dictis constitutionibus apprehensis, ad alias penas graves arbitrarias pro ut arbitrio nostro conveniet procedere valeamus.</p>
+                    <p>Item mandamus omnibus rectoribus et prelatis ut copiam recipiant de premissis ne se valeant pretextu alicujus ignorancie excusare, que una cum aliis constitutionibus secum teneant, et ad sequentes sinodos apportent, si penam inobediencie cupiant evitare, etc.</p>
+                    <p>Benedictus Jesus.</p>
+                    <p>Amen.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

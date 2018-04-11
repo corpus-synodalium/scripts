@@ -1,0 +1,143 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cambrai</title>
+                <recordID>0022</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1323-10-18</origDate>
+                <dateNotes/>
+                <origPlace>Cambrai</origPlace>
+                <diocese>Cambrai</diocese>
+                <province>Reims</province>
+                <country>Belgium</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 22</p>
+                <p>Year: 1323</p>
+                <p>Month: 10</p>
+                <p>Day: 18</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: dated 1324 in Hartzheim</p>
+                <p>Place: Cambrai</p>
+                <p>Diocese: Cambrai</p>
+                <p>Province: Reims</p>
+                <p>CountryModern: Belgium</p>
+                <p>Latitude: 50.175579</p>
+                <p>Longitude: 3.2345</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Pierre de Lévis-Mirepoix</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1309</p>
+                <p>RegnalEnd: 1324</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: BnF lat 1592, fol. 27v-28v</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Reusens, Statuta, 83-86</p>
+                <p>EditionOther: Hartzheim IV, 286-88; Gousset, APER II, 515-518</p>
+                <p>SourceNotes: https://books.google.com/books?id=L9U-AAAAcAAJ</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Library Scan', 'WebDownload', 'Digital MS']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: MS (and Reusens ed.) has additional passage at end not given in Gousset edition</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Locus xlixus.</p>
+                    <p>Statutum factum per dominum Cameracensem episcopum, jn die sancti Luce euangeliste anno Domini millesimo tricentesimo xxiijo.</p>
+                </div>
+                <div>
+                    <head>Capitulum A1</head>
+                    <p>(A1) Licet vsurarum crimen vtriusque testamenti pagina detestetur, ac in concilio Lateranensi fuerit contra manifestos vsurarios salubriter constitutum, ut huiusmodi vsurarij manifesti nec ad communionem admittantur altaris, nec christianam, si in hac prauilate decesser int, accipiant sepulturam, nec absolutiones eorum quisquam accipiat, sintque contra vsurarios manifestos jn eorum odium constitutiones et canones multiplices promulgate, nonnulli tamen nostrarum ciuitatis et diocesis Cameracensis, prout ad nostrum fide digna relatio perduxit auditum, tantis sunt insolencie et auaritie reatibus excecati, quod non solum vsurarum crimen exercere, ymmo in suis malicijs et jnsolencijs gloriantes, pro manifestis vsurarijs cupientes haberi, signa tenent et habent ante domos seu eorum fenestras, per que, quod sint vsurarij, diuulgantur et eciam cognoscuntur, ad jnstar qui ante tabernam pro signo taberne circulum dolij tenere solet appensum [1], aliqui mensem fenebrem publice exercent.</p>
+                    <p>Nos igitur cupientes per aggrauationem penarum tales aut similes jnsolencias et presumptiones perniciosas exemplo de ciuitate et diocesi Cameracensi penitus extirpare, et vsurarios ipsos ab vsurarum voragine cohibere, presentj synodalj statuto decernimus et declaramus omnes tales vsurarios huiusmodi signa tenentes aut mensam fenebrem exercentes, manifestos vsurarios judicandos, et fore contra ipsos tanquam contra manifestos vsurarios procedendum; ipsosque et omnes vsurarios alios manifestos in ciuitate et diocesi Cameracensi manentes excommunicamus et excommunicatos publice precipimus nunciarj, et tanquam excommunicatos ab omnibus euitarj, jniungentes omnibus presbiteris et capellanis subditis nostris sub pena suspensionis et excommunicationis, ut ipsos vsurarios auctoritate sinodalis presentis statutj publice denuncient jn officijs eorum excommunicatos; et contra ipsos penas predictas concilij Lateranensis diligenter</p>
+                    <p>obseruent.</p>
+                </div>
+                <div>
+                    <head>Capitulum A2</head>
+                    <p>(A2) Item, quia sunt quidam alij vsurarij, qui, licet non sint omnino manifesti, vsuras tamen licet occulte et vsurarios contractus jndifferenter exercent, quos publice fama vsurarios esse demonstrat, eos ad ecclesiasticam sepulturam precipimus non admittj.</p>
+                    <p>Locus 1us.</p>
+                    <p>De testamentis.</p>
+                    <p>Item ad occurrendum negligencijs, fraudibus et malicijs, que circa exequendas pias decedentium voluntates sepius committuntur, hoc synodale statutum prouida deliberatione duximus ordinandum, ut omnes et singulj nostrarum ciuitatis et diocesis Cameracensis vltimarum voluntatum executores, qui a testatoribus electi onus executionis duxerint assumendum, de bonis ad executionem eis commissam pertinentibus infra mensem a die obitus defunctj numerandum jnuentarium sub manu publica, uel per curatum loci, uel saltem sub fide dignorum testimonio fideliter facere teneantur.</p>
+                    <p>In quo omnia, et singula bona predicta nominatim scribantur, et eorum labores et precia juxta extimationem per extimatores locorum super hoc juratos plenarie declarentur.</p>
+                    <p>Et quia, si huiusmodi bona ad centum librarum turonensium valorem ascendant, per se uel alium</p>
+                    <p>cum testamento seu vltima voluntate testator is uel eciam testatricis coram officiali nostro Cameracensi uel eius locumtenente, se infra mensem alium representent, ac de huiusmodi testamento et jnuentario copiam faciant, per quam penes curiam informetur officialis predictus super fidelitate et diligentia ipsorum executorum circa executionem predictam, ut negligencias et defectus eorum melius corrigere valeat et supplere, ac ipsos executores jnstruere qualiter se habere debeant jn executione predicta.</p>
+                    <p>Quod si minoris valoris existant, decani nostri christianitatum premissa facere et complere teneantur.</p>
+                    <p>Volumus eciam et statuendo precipimus, vt executores ipsi jnfra annum a die mortis testatoris numerandum executionem ipsam adimpleantnjuxta voluntatem et ordinationem defuncti, ac officialj nostro predicto, aut illj, uel illis, quibus duxer it committendum, de bonis dicte executionis receptis et solutis ac erogatis per ipsos, ac de gestis et administratis per eos reddant fideliter rationem.</p>
+                    <p>Et ut presens statutum firmiter obseruetur, eidem duximus subiungendum ut omnes et singulj curatj presbiteri locorum, vbi testatores decedunt, uel eorum locatenentes, executores huiusmodi super dicto jnuentario, ut premittitur, faciendo et ad nostram curiam cum testamento deferendo, auctoritate nostra sub pena excommunicationis moneant diligenter, ac dicto officiali per eorum litteras patentes insinuent ipsorum testatoris et executoris nomina, vtrum ipsos executores monuerint, et vtrum monitioni paruerint de ipso jnuentario faciendo,</p>
+                </div>
+                <div>
+                    <head>Capitulum B1</head>
+                    <p>(B1). Hoc igitur synodale statutum, quo prouidendum est pijs decedentium votis et animarum salutj et eorum creditoribus, legatarijs, pijs locis et pauperibus, ac eorum heredibus, et omnibus, qui ex dispositione defuncti sunt emolumentum aliquod precepturj, salubriter et, prout ad nos pertinet de jure, duximus faciendum; et precipimus subditis nostris sub pena suspensionis et excommunicationis firmiter et jnuiolabiliter obseruandum.</p>
+                </div>
+                <div>
+                    <head>Capitulum B2</head>
+                    <p>(B2). Ceterum quia ex quorumdam fide dignorum miserabili relatione didicimus quod nonnulli nostrarum ciuitatis et diocesis Cameracensis, tam curatj quam eciam capellani, domos ecclesiarum, et eciam capellaniarum suarum, adeo male retinent et sustentant, quod alique ipsarum penitus corruerunt, alie proximam minantur ruinam, alie uero non modicum jndigent jn pluribus suis partibus reparatione festina, jdcirco Cameracensis diocesis ecclesiarum jncommoditatibus occurrere cupientes, statuimus ut omnes decani christianitatum jnfra annum ipsas domos, que minantur ruinam, repararj faciant; jllas uero, que penitus corruerunt, reedificar i modo vtiliori quo poterunt, si et prout vltra salarium deseruientium eisdem ecclesijs ecclesiarum capellaniarumque ipsarum suppetant facultates.</p>
+                    <p>Quod nisi fecerint pro viribus, et jn premissis negligentes fuerint uel remissi, contra ipsos juxta modum negligencie sue sive culpe acriter procedemus.</p>
+                </div>
+                <div>
+                    <head>Capitulum B3</head>
+                    <p>(B3). Item litteras, gratias et commissiones a nobis quibusuis personis sub quacumque forma uel conceptione verborum concessas, exceptis perpetuis et jllis in quibus de presentj reuocatione fit mencio, reuocamus.</p>
+                    <p>Jtem omnes concessiones et mandata concessa a Nobis quibusuis per sonis, laycis, aut dominis temporalibus, super captione presbiterorum et clericorum, etiamsi sint perpetue et licet de presenti reuocalione mencionem faciant, reuocamus etannullamus penitus et ex causa.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] &quot;qui ante tabernam pro signo taberne circulum dolij tenere solet appensum&quot; in parentheses.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

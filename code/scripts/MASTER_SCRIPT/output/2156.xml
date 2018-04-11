@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cambrai</title>
+                <recordID>2156</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1356-05-24</origDate>
+                <dateNotes/>
+                <origPlace>Cambrai</origPlace>
+                <diocese>Cambrai</diocese>
+                <province>Reims</province>
+                <country>Belgium</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Other</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 2156</p>
+                <p>Year: 1356</p>
+                <p>Month: 5</p>
+                <p>Day: 24</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: Month uncertain</p>
+                <p>Place: Cambrai</p>
+                <p>Diocese: Cambrai</p>
+                <p>Province: Reims</p>
+                <p>CountryModern: Belgium</p>
+                <p>Latitude: 50.175579</p>
+                <p>Longitude: 3.2345</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Other</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: Episcopal mandate</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Reusens, Statuta, 108-9</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Library Scan', 'WebDownload']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Locus LXIXus.</p>
+                    <p>Ordinatio et statutum domini Petri, Cameracensis episcopi, de vigilia beati Johannis Baptiste si in die sacratissimi Sacramenti euenerit.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) Petrus Dei, gratia Cameracensis episcopus, decano christianitatis de Hal. Salutem in Domino.</p>
+                    <p>Cum secundum canonicas sanxiones jndicta jeiunia propter solemnitatem dierum in eis occurrentium nedum transferantur, ut cum Natiuitatem Domini vel Assumptionem beate Marie uel festum alicuius apostolorum in feria secunda contingat euenire, non in dominica ob ipsius reuerentiam, sed in die sabbati precedente eorum jeiunia seu jeiunium obseruatur; ymmo quandoque pretermittantur omnino, ut si Natiuitatem Domini in VIam feriam euenire contingat, et etiam vigilie beati Johannis euuangeliste, quia infra Natiuitatem Domini et apostolorum Philippi et Jacobj, quia infra solemnitatem paschalem celebrantur, penitus omittantur, et per aliquas etiam mundj partes in aliquibus ecclesijs vigilie, que in die sanctj earum specialis, ut sancti Quintinj in vigilia Omnium Sanctorum, et beatj Saturninj in vigilia beati Andree occurrentium, ipsas vigilias ad dies transferantur precedentes, jdcirco hac consideratione jnductj vigiliam beati Johannis Baptiste et ipsius vigilie jeiunium, si quandoque, ut in anno presentj, eam in festo mirificj Sacramenti Corporis et Sanguinis Christi euenire contingat, ob reuerentiam Saluatoris, cui etiam beatus Johannes in presentj existens seculo ex profunda mentis humilitate sic deferre voluit ut, cum Christus credi potuisset, confessus est quia non sum ego Christus; quin ymmo nec se dignum corrigiam calceamentorum eius soluere reputauit, frequentj ac diligentj deliberatione prehabita cum peritis, ad feriam quartam predictam, sancti Sacramentj festiuitatem precedentem, jn nostris ciuitate et diocesi transferimus, duximus et statuimus transferendam, nisi quo ad illos, qui ex voto aut regulari obseruantia sunt astricti; mandantes vobis quatenus omnibus presbiteris curatis alijsque personis ecclesiasticis in vestro decanatu constitutis huiusmodi translationem, sic per nos factam, jntimetis et insinuetis, ipsis nichilominus jniungentes ut eam die dominico uel solemnj in eorum ecclesijs suis parrochianis et subditis solemniter publicent et publicare procurent.</p>
+                </div>
+                <div>
+                    <head>Explicit</head>
+                    <p>Datum Cameraci, sub sigillo nostro, die XXIIII mensis mensis [1] anno Domini Mo CCCo LVIo.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] Ed. (sic) [maii?].</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

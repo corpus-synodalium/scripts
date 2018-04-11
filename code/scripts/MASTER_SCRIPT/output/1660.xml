@@ -1,0 +1,436 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Laneham</title>
+                <recordID>1660</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1311-07-18</origDate>
+                <dateNotes/>
+                <origPlace>Laneham</origPlace>
+                <diocese>York</diocese>
+                <province>York</province>
+                <country>England</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Provincial</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 1660</p>
+                <p>Year: 1311</p>
+                <p>Month: 7</p>
+                <p>Day: 18</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Laneham</p>
+                <p>Diocese: York</p>
+                <p>Province: York</p>
+                <p>CountryModern: England</p>
+                <p>Latitude: 53.28</p>
+                <p>Longitude: -0.78</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Provincial</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Wilkins II, 409-15</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: https://books.google.com/books?id=FRtUAAAAcAAJ</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Data Capture']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>WILLIELMUS, permissione divina archiepiscopus Eborum, Angliae primas, ad perpetuam rei memoriam futurorum.</p>
+                    <p>Inter alia, quae nostris incumbunt humeris, ex injuncta nobis officio regiminis pastoralis, illud debet cordi nostro non mediocriter insidere, ut in curia nostra Eborum, ad quam undique confluunt subditi nostrarum civitatis, dioecesis, et provinciae, pro justitia in suis causis et negotiis fiducialiter obtinenda, exclusis fraudibus, et cautelis, dilationibus supervacuis, et aliis quibuslibet impedimentis, quae in personis ministrorum, causis, negotiis, et processibus dictae curiae contigerunt hactenus, vel contingere poterunt, intendentes pro viribus amputare; quaedam, ad omnipotentis Dei laudem, celerioris justitiae exhibitionem, et subditorum nostrorum alleviationem in laboribus et expensis, communicato peritorum consilio, provide duximus statuenda; quae per officiales nostros, et successorum nostrorum, necnon ministros quoslibet curiae nostrae praedictae futuros, perpetuis temporibus ordinamus, statuimus, ac injungimus inviolabiliter observari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) De juramento officialis, commissarii, et praesidentium.</p>
+                    <p>Inprimis autem a personis, tanquam a dignioribus, inchoantes, statuimus, ut tam officialis, quam suus commissarius generalis, qui pro tempore fuerint, in initio suscepti regiminis, vel officii, corporale praestent ad sancta Dei evangelia juramentum, quod absque omni personarum delectu, vel acceptatione, odii, favoris, et quaestus cujuslibet intentione depulsa, in omnibus et singulis articulis officium suum contingentibus, Deo inspectore adhibito, diligenter et fideliter pro viribus se habebunt; quodque jura, et laudabiles consuetudines dictae curiae, una cum statutis nostris praesentibus, quantum ad eos pertinet, observabunt, et ab aliis ministris ejusdem curiae diligenter ac fideliter facient observari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) De examinatoribus, registrariis, et clericis registrariorum, ac numero et officio eorundem.</p>
+                    <p>De examinatoribus dictae curiae sive consistorii statuimus, quod duo sint tantummodo, quorum unus sit ipsius officialis commissarius generalis; et unus duntaxat clericus, ad registrum curiae conservandum.</p>
+                    <p>Hii autem cum caeteris clericis, ad faciendum copias, ac etiam ad scribendum responsiones partium, et dicta testium deputatis, quantum ad eos pertinet, juramento simili sint astricti, quod fideliter facient, ut praemittitur, quae ipsorum incumbunt officio, statuta et consuetudines observabunt, et, quatenus in ipsis erit, eadem facient observari; nec se praebebunt in adeundo difficiles, nec erunt onerosi mercedum, vel sumptuum exactores.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) De salario examinatorum, et in causis communibus.</p>
+                    <p>Statuimus siquidem, quod examinatores praedicti, in causis communibus, pro singulis testibus, 12d. tantum exigant; et si multi fuerint articuli, secundum numerum linearum, quaelibet linea decem pollices in longitudine continebit; ita quod pro duodecim lineis hujusmodi originalium attestationum, unus tantum denarius exigatur; pro copiis autem earundem, vel etiam processuum recipiatur tantum unus denarius, pro 24. lineis longitudinis antedictae, et omnia in aperta et legibili litera, cum congruo interlineari spatio conscribantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) De salario eorundem in causis majoribus.</p>
+                    <p>In melioribus vero causis recipiant examinatores praedicti, pro arbitrio praesidentis.</p>
+                    <p>Clericus autem, pro membrana, quam inveniet, et scriptura, habeat tertiam partem salarii eorundem; et si contingat, quod partes, de jure suo dissidentes, vel adinvicem transigentes, ante aperturam attestationum, a lite discedant, ad satisfaciendum eisdem examinatoribus nihilominus compellantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) De salario eorundem in causis pauperum.</p>
+                    <p>In causis vero pauperum et miserabilium personarum, examinet intuitu charitatis, dum tamen partes, quae ad satisfaciendum impotentes existunt, fidem faciant proprio juramento.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>(6) De salario pro copiis attestationum.</p>
+                    <p>Item clericus consistorii se non reddat difficilem in copiis faciendis; sed in causis communibus, pro singulis testibus, recipiat sex denarios; et in aliis, ubi major scriptura requiritur, pro arbitrio praesidentis.</p>
+                    <p>In causis vero pauperum et miserabilium personarum copiam faciat intuitu charitatis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>(7) De numero advocatorum et procuratorum.</p>
+                    <p>Item statuimus, quod in consistorio nostro sint tantummodo 12. advocati, qui curiae consuetudines per annum videant, et addiscant, priusquam ad postulationis officium, secundum discretionem praesidentis, prout possibilitas assumendi occurrerit, admittantur.</p>
+                    <p>In eodem autem consistorio octo procuratores, et sex notarios duntaxat esse volumus, juxta praesidentis arbitrium assumendos.</p>
+                    <p>Advocati vero de novo admittendi et admissi, singulis annis, in proximo consistorio post festum S. Michaelis, coram praesidente tactis sacrosanctis evangeliis, corporale praestent juramentum, formam continens subsequentem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>(8) De juramento advocatorum.</p>
+                    <p>Forma juramenti.</p>
+                    <p>[1] Ego N. juro ad haec sancta Dei evangelia, quod in omnibus causis, quarum patronus sum et ero in hoc consistorio, vel coram domino archiepiscopo, vel ipsius spiritualibus commissariis, fidele patrocinium praestabo; quodque omni opere ac diligentia id, quod justum et verum aestimavero, meis clientibus in suis causis et negotiis procurabo, et circa hoc, quatenus est mihi possibile, fideliter laborabo; nec aliquid dicam, proponam, vel faciam, seu per alium dici, proponi, vel fieri, quantum in me est, scienter et malitiose permittam, ad partis alterius justitiam auferendam, vel etiam indebite differendam; nec etiam contra Eborum ecclesiae jurisdictionem, aut Eborum curiae consuetudines, vel statuta; ita quod si in quacunque parte judicii mihi innotuerit clientulos meos malam, seu injustam causam fovere, seu defendere, quae mihi visa fuerit desperata, amplius non patrocinabor eidem, nec in eadem praestabo consilium, vel auxilium clam vel palam: Sic me Deus adjuvet, et haec sancta Dei evangelia. [2]</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>(9) De salario advocatorum et procuratorum.</p>
+                    <p>Item salarium advocati in una causa, per annum, ad quinquaginta solidos; salarium vero procuratoris ad decem solidos tantummodo se extendant.</p>
+                    <p>Et si advocati, vel procuratores se reddunt difficiles, et plus a partibus extorqueant, vel in fraudem conveniant per dies singulos, ut sic majus salarium extorqueant; super hoc convicti, illud, quod illis amplius extorquere contigerit, suis clientulis restituere compellantur; et nihilominus a postulationis, seu procurationis officio suspendantur, donec gratiam obtineant praesidentis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>(10) De praesentia et mora eorundem, et punitione absentium.</p>
+                    <p>Item advocati, et procuratores horis debitis, per praesidentem statutis, ad consistorium conveniant, quibus praesentibus, officialis, vel ejus commissarius non recedat, nisi de ipsius praesidentis licentia speciali; quod se secus fecerint, per unum consistorium a postulationis et procurationis officio suspendantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>(11) De poena tumultuantium.</p>
+                    <p>Item caveant advocati et procuratores, ne tumultum faciant in consistorio, dum officialis, vel ejus commissarius praesentes fuerint in eodem.</p>
+                    <p>Si vero aliquis tumultuosus, vel litigator, improbus vel probus, per praesidentem monitus, non destiterit, sibi audientia denegetur, et tamdiu maneat sic suspensus, donec per nos, vel successores nostros congrua satisfactione praemissa fuerit restitutus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>(12) De poena attemptantium contra jurisdictionem ecclesiae Eborum.</p>
+                    <p>Item si quis advocatus, vel procurator contra jurisdictionem ecclesiae nostrae, clam vel palam, quicquam in suo officio attemptasse deprehensus fuerit, vel convictus, eo ipso, a postulationis et procurationis officio, cum nota infamiae, per totam nostram dioecesin, perpetuo sit suspensus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>(13) De poenaimpedientium causarum devolutionem.</p>
+                    <p>Item advocati vel procuratores in causis seu negotiis, per viam appellationis vel querelae, ad Eborum curiam devolvendis, contra ipsas devolutiones nullatenus cavillentur, aut injuste vel frivole se opponant; quod si fecerint, a postulationis et procurationis officio sint suspensi, quousque nostram et successorum nostrorum gratiam consequantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>(14) De postulatione et procuratione contra officium prohibitis.</p>
+                    <p>Item statuimus, quod nec advocati, nec procuratores in redditione computorum, vel correctionibus excessuum subditorum nostrorum, seu aliis articulis, vel negotiis, nostrum merum officium contingentibus, permittantur in nostro scaccario interesse, nec tumultum faciant, seu impedimentum aliquod proponant, quominus ministeriales nostri praemissa, cum occurrerint, libere valeant expedire; quodsi secus fecerint, a suis officiis sint suspensi, quousque nostram et successorum nostrorum gratiam meruerint obtinere.</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>(15) De regimine causarum, conceptione libellorum et positionum.</p>
+                    <p>Item nullus procurator regimen alicujus causae suscipiat, nec libellos, positiones, seu exceptiones faciat, absque consilio advocati; quod si fecerit, et de hoc convictus fuerit, per annum a procuratoris officio sit suspensus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>(16) De exhibitione procuratoriorum generalium et specialium.</p>
+                    <p>Item procuratores suorum procuratoriorum generalium, judicialiter exhibitorum, copiam suis sumptibus scribant, vel scribi faciant, quam per clericum consistorii cum originali examinatam, ipso die exhibitionis, penes registrum dimittant, sub poena sex denariorum, fabricae nostrae Eborum ecclesiae solvendorum.</p>
+                    <p>Procuratoria vero specialia penes curiam remaneant, sicut debent.</p>
+                </div>
+                <div>
+                    <head>Capitulum 17</head>
+                    <p>(17) De modo scribendi positiones et exceptiones.</p>
+                    <p>Item procuratores de bona litera et legibili scribant, vel scribi faciant positiones, et exceptiones, et alia instrumenta, et in fine positionis cujuslibet sufficiens spatium relinquatur, in quo responsiones faciendae scribi valeant distinctius et aperte; quod si non fecerint, eos puniri volumus ad arbitrium praesidentis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18</head>
+                    <p>(18) De modo et tempore puniendi dilatorias exceptiones.</p>
+                    <p>Item, si termino ad deliberandum super libellis, et articulis assignato, contingat partem ream inter dilatorias exceptiones, quas proponit aliquem vel aliquos protestari, ut dilationes frustratoriae amputentur, omnes protestatae secundo die vel tertio immediate sequentibus, prout visum fuerit praesidenti, proponantur cum effectu, et super omnibus disputetur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 19</head>
+                    <p>(19) De poena recusantis litis contestationem.</p>
+                    <p>Si vero cassatis dilatoriis, et eis non obstantibus, officialis, vel ejus commissarius litem forte decreverit contestandum, ac procurator quicunque ad jussum praesidentis litem recusaverit contestari, a procuratoris officio suspendatur, quousque dimidiam marcam solverit, fabricae nostrae Eborum ecclesiae applicandam.</p>
+                </div>
+                <div>
+                    <head>Capitulum 20</head>
+                    <p>(20) De tempore et modo proponendi factum contrarium.</p>
+                    <p>Item pars rea factum contrarium, si quod sibi competit, secundo die post traditionem articulorum, per partem actricem, in prima productione testium proponat, ut probationes concurrere valeant hinc et inde, nec procuratori ad deliberandum cum domino suo ulterior dilatio concedatur, cum, priusquam litem contestetur, cum eo tractare debeat, et plene instrui super defensionibus causae.</p>
+                </div>
+                <div>
+                    <head>Capitulum 21</head>
+                    <p>(21) Ut procuratores tempestive praemuniant advocatos.</p>
+                    <p>Item statuimus, quod procuratores, qui dies receperint ad proponendum exceptiones aliquas, vel quaecunque alia, quae scribi debeant per eosdem, advocatos suos praemuniant tempestive, ut ea cum deliberatione conficere valeant, ita quod, die adveniente, in praeconizatione causae, ipsa proponant continue bene scripta.</p>
+                    <p>Procuratores autem negligentes in hujusmodi, donec dimidiam marcam ad fabricam ecclesiae nostrae persolverint, sint suspensi.</p>
+                </div>
+                <div>
+                    <head>Capitulum 22</head>
+                    <p>(22) In quibus causis non licet dilatoria proponere.</p>
+                    <p>Item nulla dilatoria exceptio contra articulum porrectum, super exhibitione testamenti alicujus, per legatarium petita, proponatur, nisi sit exceptio excommunicationis; nec contra articulum propositum per legatarium super legato, quod in testamento continetur; sed statim fiat contestatio ad eundem.</p>
+                    <p>Et, si fiat contestatio sub hac forma:</p>
+                    <p>[4] Dico narrata, prout narrantur, vera esse, sed petita fieri non debere: [5] ad proponendum omnes exceptiones et defensiones, in proximo consistorio terminus assignetur, ultra quem nullatenus audiatur, sed statim fiat condemnatio in petitis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 23</head>
+                    <p>(23) Per quem fiet praeconizatio citationum.</p>
+                    <p>Item statuimus, quod nullus, nisi clericus registri, literas citatorias faciat proclamari, nec per alium contra contumaces literae signentur; et si secus factum fuerit, tales contumaciae nullatenus puniantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 24</head>
+                    <p>(24) De assignatione consilii.</p>
+                    <p>Item per officiales provideatur solicite, quod, propter unius partis coram eo litigantis potentiam, vel favorem, seu per quamcunque excogitatam malitiam, pars altera non sit consilio destituta.</p>
+                </div>
+                <div>
+                    <head>Capitulum 25</head>
+                    <p>(25) Ne advocati vel procuratores admittantur in testes.</p>
+                    <p>Item advocati, vel procuratores in causis quibuscunque testimonium non perhibeant in eisdem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 26</head>
+                    <p>(26) Ut constitutio [6] Quoniam, ut intelleximus, etc. [7] publicetur.</p>
+                    <p>Item statuimus, quod salubris constitutio felicis recordationis Bonifacii octavi, [8] Quoniam, ut intelleximus, [9] et [10] De immunitate ecclesiarum, [11] libro 6. publice legatur in consistorio bis in anno; viz. in primo consistorio post festum S. Michaelis, et in primo consistorio post Pascha.</p>
+                    <p>Et si quis advocatus, vel procurator, aut alius minister ipsius consistorii contra eandem constitutionem, in jurisdictionis ecclesiasticae praejudicium, clam vel palam fecisse, procurasse, consilium, vel auxilium praestitisse deprehensus fuerit, seu convictus, in poenam dictae constitutionis damnabiliter incidisse publice nuncietur; et nihilominus ab officio in dicto consistorio exercendo perpetuo sit exclusus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 27</head>
+                    <p>(27) De modo producendi in tuitoriis.</p>
+                    <p>Item in tuitoriis negotiis processus, qui sequitur, observetur.</p>
+                    <p>Inprimis pars appellans exhibeat literam certificatoriam suae suggestionis, et statim primo die negotium introducat, et testes suos producat, sive pars appellata sit praesens, sive per contumaciam absens.</p>
+                    <p>Si vero pars appellans sit absens, et certificatorium appareat, praesente parte appellata, non fiat dimissio citra diem tertium a tempore, quo lecta fuit suggestio in judicio.</p>
+                    <p>Si certificatorium non appareat, porrectione literae curiae nostrae, facta illi, cui dirigitur, et requisitione de certificando summarie probata, vocetur certificans super contemptu personaliter, et fiat iterato citatio, secundum formam suggestionis; et mittatur illi, cui prius, vel alteri, pro voluntate praesidentis.</p>
+                    <p>Nec potest negotium tuitorium introduci, donec constiterit partes habere diem ex forma certificatorii, nisi pars appellata se citatam fateatur, juxta formam suggestionis.</p>
+                    <p>Pars autem appellata, si praesens sit in introductione negotii, recepto articulo, habeat triduum, si velit, ad proponendum factum contrarium, si quod habeat; ita quod in triduo illud proponat, die introductionis negotii in triduo computato, et subducantur dies feriati, si in triduo incidant.</p>
+                    <p>Et si contingat partem appellantem, loco probationis, instrumenta exhibere, et testes non producere, remaneant penes judicem, tanquam clausa, donec triduum labatur, nulla facta copia parti appellatae, qui contra suggesta habet proponere factum contrarium.</p>
+                    <p>Pars autem appellans, sive utatur testibus loco probationis, sive instrumentis, usque ad pronunciationem, instrumenta plura, si habeat, poterit exhibere.</p>
+                    <p>Et si pars appellata, primo die ipsius tridui, vel secundo factum contrarium proponat, et testes suos producat, per se plures testes producere poterit pars appellans.</p>
+                </div>
+                <div>
+                    <head>Capitulum 28</head>
+                    <p>(28) Qui possunt esse testes in tuitoriis.</p>
+                    <p>Pars appellans in tuitorio non sit testis; nec etiam procurator, qui in tuitoriis occupat; omnes alii bene possunt; nec repellantur testes criminosi, nec excommunicati, nisi incontinenti appareat, absque exceptione aliqua, in scriptis proponenda, per publica, vel auctentica instrumenta ipsos fuisse excommunicatos, et publice nunciatos; nec repellantur procuratores vel advocati, qui fuerint in causa principali, vel appellationis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 29</head>
+                    <p>(29) Ut testes non refraenentur nec compellantur.</p>
+                    <p>Item in tuitorio numerus testium nullatenus refraenetur.</p>
+                    <p>Item in tuitoriis nulli testes compellantur, nisi pars appellans fidem faciat juramento, quod per partem appellatam testes partis appellantis sint subtracti, duximus ordinandum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 30</head>
+                    <p>(30) Quod non detur dilatio nec appelletur.</p>
+                    <p>Item nullae dandae sunt dilationes, sed velo levato, cum continuatione et prorogatione dierum sequentium procedatur, nisi de consensu partium, negotium sub spe pacis pendeat reformandae.</p>
+                    <p>Item in tuitorio non appelletur, et si appelletur, appellatio non recipiatur, et ad eam nullatenus rescribatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 31</head>
+                    <p>(31) Quod licet factum contrarium proponere.</p>
+                    <p>Item in tuitorio nullae exceptiones proponantur, nisi duntaxat factum contrarium, super quo nullatenus disputetur, quousque attestationes fuerint publicae, ne per hoc contingat tuitorium negotium, quod celeritatem requirit, plus debito protelari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 32</head>
+                    <p>(32) Quando est tuitio concedenda vel neganda.</p>
+                    <p>Item, probata voce appellationis, et ejus causa, quae si esset probata, debet legitima reputari; non tamen ipsius causae veritate per duos testes, vel per unum sufficientem depositae, una cum juramento procuratoris partis appellantis, vel per instrumenta concedatur tuitio, nisi per factum contrarium per duos testes, vel per plures bene probatum excludatur; et tunc, si tale factum probatum omnibus gravaminibus et appellationibus suggestis obviet, et ea excludat, tuitio denegetur.</p>
+                    <p>Si vero aliquibus gravaminibus tale factum obviet, et aliquibus non tunc concessa tuitione, revocabuntur attemptata, nisi quatenus istud contrarium obviat, et sic exclusa per factum contrarium non revocabuntur, virtute tuitionis concessae.</p>
+                </div>
+                <div>
+                    <head>Capitulum 33</head>
+                    <p>(33) De revocatione attemptatorum.</p>
+                    <p>Item, si aliqua sint attemptata post suggestionem impetratam, inseri possunt in articulo, in tuitorio porrecto, et tanquam attemptata specialiter revocari.</p>
+                    <p>Item in tuitorio non est locus petitioni absolutionis, sicut in causis directarum appellationum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 34</head>
+                    <p>(34) De revocatione gravaminum.</p>
+                    <p>Item, concessa tuitione, gravamina attemptata, post provocationem et appellationem in genere, et quatenus probata sunt, in specie revocabuntur.</p>
+                    <p>Sed gravamina, propter quae fuerit appellatum, non nisi in casibus subsequentibus; viz. quando praecessit provocatio, gravamen, seu appellatio probata, ut supra cavetur, et quando consensum est de procedendo in principali per partes, vel saltem per partem appellantem, parte appellata consentire recusante; et si pars appellata consentiat de procedendo, in principali parte appellante, non denegetur tuitio parti appellanti.</p>
+                </div>
+                <div>
+                    <head>Capitulum 35</head>
+                    <p>(35) De effectu tuitionis.</p>
+                    <p>Effectus vero tuitionis concessae talis erit, ut, durante tempore ad prosequendum appellationes appellantibus indulto, tueatur praesidens appellantem in eo statu, in quo fuerit tempore appellationis et provocationis interpositae; adeo quod circa personas, ac res, circa quas versatur appellatio, pendente tuitione, nihil penitus attemptetur.</p>
+                    <p>Quodsi fiat minister tuitionis, facta fide summaria de eisdem, attemptante etiam non vocato, cum per hoc sibi non fiat finale praejudicium, penitus revocentur.</p>
+                    <p>Et sicut non currit tempus vacationis Romanae sedis, quoad prosecutiones appellationum, nec appellantibus aliter legitime impeditis; sic nec currat effectus tuitionis temporibus antedictis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 36</head>
+                    <p>(36) De non-appellatione infra tempora.</p>
+                    <p>Item, lapso tempore appellationis prosequendae de jure, parte appellante appellationem suam directam in Romana curia non prosequente, nec infra tempus legitimum impetrante, pars apposita, seu judex, a quo fuit appellatum, non procedet contra appellantem, tanquam appellationem suam minime prosequentem, nisi prius citatio a curia nostra Eborum impetretur, ad citandum ipsam partem appellantem, quod veniat in curiam nostram propositura, quare dimitti non debeat pars appellata.</p>
+                    <p>Et si judex, vel pars, non obtenta dimissione, contra partem appellantem procedat, pro contemptu graviter puniatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 37</head>
+                    <p>(37) Quod statuta serventur et publicentur.</p>
+                    <p>Haec igitur statuta salubria, ad Dei honorem, justitiae conservationem, et subditorum nostrorum utilitatem, per officialem nostrum, qui pro tempore fuerit, ac per omnes et singulos officiales successorum nostrorum, quos Eborum curiae praesidere contigerit in futurum; necnon per quoscunque alios ipsius consistorii ministros, seu gerentes aliquod officium in eodem, volumus et praecipimus perpetuis futuris temporibus inviolabiliter observari, ac per ipsum officialem, qui pro tempore fuerit, omni anno, in proximo consistorio post festum S. Michaelis, seriatim et distincte legi, et solenniter publicari.</p>
+                    <p>Ea siquidem diligenter et fideliter observantes, omnipotentis Dei, et nostram benedictionem, una cum gratia, et ulteriori cumulo meritorum futuris temporibus consequantur, et fiant participes omnium suffragiorum et beneficiorum, quae in nostra Eborum ecclesia, et aliis piis locis nostrae jurisdictionis, ex donatione fidelium, contigerit exhiberi; praestante Domino nostro Jesu Christo, cui est honor et gloria, in secula seculorum, Amen.</p>
+                </div>
+                <div>
+                    <head>Explicit</head>
+                    <p>Actum et datum apud Lanum 18. die Julii, anno Domini M.CCC.XI. et pontificatus nostri sexto.</p>
+                    <p>Willielmus, permissione divina Eborum archiepiscopus, Angliae primas, dilecto filio officiali Eborum nostro, salutem, gratiam, et benedictionem.</p>
+                    <p>Cupientes in nostro consistorio quibuslibet causas tractandas, vel expedienda negotia habentibus in eodem, juxta juris exigentiam, celerem justitiam exhiberi, nostros subditos a laboribus et excessivis sumptibus relevari; quaedam statuta salubria, circa personas ministrorum dicti consistorii, necnon causas et negotia in eodem tractanda, de clericorum nostrorum et aliorum peritorum consilio, duximus ordinanda; mandantes vobis, et in virtute obedientiae firmiter injungentes, quatenus eadem statuta, quae sub sigillo nostro vobis inclusa transmisimus, in proximo consistorio, quod post receptionem praesentium contigerit vos tenere, faciatis solenniter publicari, et inposterum observari inviolabiliter et publicari.</p>
+                    <p>Vale.</p>
+                    <p>Datum apud Lanum 16. die Julii, pontificatus nostri anno sexto. [12]</p>
+                    <p>Auctoritate Dei Patris omnipotentis, et Filii, et Spiritus Sancti, et beatissimae virginis Mariae, matris Dei, et omnium sanctorum Dei, denuncio excommunicatos omnes illos, qui ecclesias quascunque jure suo malitiose privare praesumunt, atque per malitiam libertates earundem infringere vel perturbare conantur.</p>
+                    <p>In quo articulo excommunicati intelliguntur omnes auferentes ab ecclesiis jura sua, et infringentes libertates non solum generales toti ecclesiae pertinentes, sed etiam particulares; et sic excommunicati sunt omnes, qui impetrant literas a quacunque curia laicali,ad impediendum processum judicis ecclesiastici in causis, quae secundum canones per judicem ecclesiasticum debent et solent tractari, et nullatenus per seculare judicium terminari; ac etiam omnes illi, qui falso, et malitiose archiepiscopalem aut episcopalem processum impediunt, vel subterfugiunt disciplinam.</p>
+                    <p>Item excommunicati sunt omnes, qui pacem et tranquillitatem domini regis et regni auctoritate, opere, vel consilio perturbant, et in mortem ejus, vel seditionem aliquam machinantur, et qui jura domini regis injuste detinere contendunt; ex quo intelliguntur excommunicati guerrarum suscitantes horrorem, verum etiam publici latrones omnes pariter et praedones, et quicunque jus, sive justitiam regni impugnantes.</p>
+                    <p>Item omnes illi, qui scienter falsum perhibent testimonium, vel perhiberi procurant, et qui tales testes scienter producunt, ad impediendum matrimonium, vel ad exhaeredationem alicujus procurandam.</p>
+                    <p>Item advocati, qui in causis matrimonialibus opponunt exceptiones malitiose, vel opponi procurant in quibuscunque causis, contra justitiam, ut processus causae diutius suspendatur.</p>
+                    <p>Item omnes illi, qui gratia lucri, odii, vel favoris, vel alia quacunque causa crimen alicui malitiose imponunt, cum infamatus non sit apud bonos et graves; ut sic saltem ei purgatio indicatur, vel alio modo gravetur.</p>
+                    <p>Item illi, qui vacante ecclesia malitiose opponunt vel opponi procurant quaestionem de jure patronatus, ut sic verum patronum a collatione illius ecclesiae saltem impediant illa vice.</p>
+                    <p>Item omnes illi, qui malitiose contemnunt exequi mandata domini regis de excommunicatis capiendis, vel eorum impediunt captionem, seu procurant injustam talium deliberationem, contra decretum ecclesiasticae disciplinae.</p>
+                    <p>Item excommunicati sunt in concilio domini Ortoboni legati omnes, qui pro impedimento pacis, seu pro compositione litigantium aliquid recipiunt, donec sic receptum restituant donatori, et tantundem exsolvunt pauperibus erogandum.</p>
+                    <p>Hic casus notetur de judicibus et aliis, qui partes litigantes, et concordare volentes, occasione lucri, eos concordiam hujusmodi facere non sinunt, seu, quantum in eis, satagunt impedire.</p>
+                    <p>Item excommunicantur per eundem quicunque de domibus, maneriis, vel grangiis, seu aliis locis archiepiscoporum, episcoporum, vel aliarum personarum ecclesiasticarum, contra earum voluntatem, vel custodum rerum earundem, aliquid auferunt, vel consumunt, aut injuriose constrectant; nec possunt tales absolvi, donec de injuriis satisfecerint competenter.</p>
+                    <p>Item excommunicantur ab eodem quicunque abstraxerint aliquem violenter, ad ecclesiam, vel coemeterium, vel claustrum fugientem; vel quicunque tali confugae victum necessarium prohibuerint exhiberi; vel qui res alienas hujusmodi depositas violenter asportaverint, vel asportari fecerint, seu asportationem talem nomine suo factam, vel a familiaribus suis ratam habuerint; vel qui ad hoc publice vel occulte dederint auxilium, consilium, vel favorem.</p>
+                    <p>Item excommunicantur omnes illi, qui scienter veniunt, vel faciunt contra magnam chartam, vel aliquem articulum in ea contentum; et sunt articuli 35. aut contra chartam de foresta, vel aliquem ejus articulum, et habet articulos 15. de quibus plene habetur in dicto tractatu, qui Pupilla [14] dicitur.</p>
+                    <p>Et haec sententia lata est per omnes episcopos Angliae, et per sedem apostolicam perpluries confirmata.</p>
+                    <p>Item excommunicantur omnes illi, qui in clericos, vel religiosos, aut conversos, et nondum professos, manus temere injecerint violentas, vel injectionem hujusmodi suo nomine factam ratam habuerint, aut fieri praecipiunt sive mandant.</p>
+                    <p>17. q. 4. [15] Si quis suadente, et Extra. de sen. ex. Non dubium: [16] et multis aliis locis similiter in illum, qui ingressus fuerit religionem, sed nec in ea professus est tacite vel expresse.</p>
+                    <p>[17] Extra. de sen. Ex religioso. [18] libro VI.</p>
+                    <p>Item excommunicantur omnes illi, qui scienter in gradibus consanguinitatis vel affinitatis a canone interdictis, vel cum monialibus de facto matrimonium contrahunt; necnon religiosi, seu moniales, vel clerici in sacris ordinibus constituti, matrimonium contrahentes; et praelati ecclesiarum taliter contrahentes debent denunciare, vel a subditis suis facere denunciari, publice excommunicatos, donec humiliter suum recognoscant errorem, et abinvicem separentur, et absolutionis beneficium meruerint obtinere.</p>
+                    <p>[19] Extra de con. et aff. Eos qui in Clement. [20]</p>
+                    <p>Item excommunicantur falsarii literarum domini papae cum fautoribus suis; et similiter quicunque hujusmodi literas impetraverint, vel etiam uti praesumpserint impetratis.</p>
+                    <p>[21] Extra. de cri. fal. ad falsariorum, etc. dura. [22]</p>
+                    <p>Item excommunicantur omnes violatores, raptores violenti, et incendiarii ecclesiarum, sive locorum religiosorum, et omnes eis consentientes.</p>
+                    <p>11. q. 3. Canonica, [23] et aliis locis plurimis.</p>
+                    <p>Item omnes, qui faciunt statuta, edicta, vel constitutiones contra ecclesiasticam libertatem, et scriptores eorundem, et stationarii vendentes, scil. copias eorum, vel alii facientes ea, vel eorum aliquid observari, nisi ea revocaverint infra mensem, vel secundum ea judicare praesumpserint, vel in publicam formam scribere taliter judicata.</p>
+                    <p>[24] Extra. De sententia ex noverit. [25]</p>
+                    <p>Item, quicunque spoliant ecclesias bonis suis per se vel alios; aut injuste persequuntur electores, seu consanguineos eorum gravant, pro eo, quod ipsi electores noluerunt eligere illum in praelatum, pro quo rogabantur, sive inducebantur.</p>
+                    <p>[26] Extra. de elect. Sciant cuncti. libro VI. [27]</p>
+                    <p>Item omnes illi, qui per vim, vel metum extorquent absolutionem a sententia excommunicationis, seu revocationem sententiae excommunicationis, suspensionis, vel interdicti.</p>
+                    <p>[28] Extra de iis, quae vi metus ve. ca. fi. absolutionis, libro VI. [29]</p>
+                    <p>Item excommunicantur, quicunque scienter ecclesiasticae tradiderint sepulturae haereticos, seu credentes erroribus eorum, defensores ac fautores eorundem.</p>
+                    <p>[30] Extra. de haereticis c. quicunque, libro VI. [31]</p>
+                    <p>Item excommunicantur omnes illi, qui habentes temporale dominium, subditis suis interdicunt, ne praelatis aut clericis ecclesiasticis personis quicquam vendant aut emant ab eisdem, seu quod nec bladum eorum molant, nec panem coquant, aut alia obsequia exhibere praesumant.</p>
+                    <p>[32] Extra. de eo, qui mittitur in possessionem. c. Eum qui, libro VI. [33]</p>
+                    <p>Item excommunicantur illi, quicunque ab homine, seu a canone excommunicati, qui propter mortis periculum, vel aliud impedimentum legitimum, absolutus ab eo, qui alias eum a jure non potest absolvere; si postea, cessante impedimento, vel periculo, contempserit, quamcito commode poterit, se praesentare illi, a quo de jure debet absolvi, ipsius mandatum subiturus et satisfacturus, prout justitia suadebit.</p>
+                    <p>Similiter qui a sede apostolica, vel ejus legato absolutus fuit, et injunctum est sibi, ut poenitentiam recipiat a suo ordinario, et passis injuriam satisfaciat.</p>
+                    <p>Si hoc ad primum, quo commode poterit, non curaverit adimplere tales.</p>
+                    <p>[34] Extra. de sententia de eo, qui libro VI. de poenis capitulo.</p>
+                    <p>Si quis in Cle. [35]</p>
+                    <p>Item excommunicatus est quicunque, cujuscunque status, conditionis, seu dignitatis fuerit, etiamsi pontificali praefulgeat dignitate, qui fecit corpus alicujus defuncti exenterari, seu membratim dividi in quadam constitutione:</p>
+                    <p>[36] Extrava. Honestis viii. capitulo Detestandae. [37]</p>
+                    <p>Item, quicunque tempore interdicti in casibus non concessis a jure, in ecclesiis, vel coemeteriis, corpora defunctorum publice excommunicatorum, aut nominatim interdictorum, seu usurariorum manifestorum sepelierint.</p>
+                    <p>[38] Extra. de sepultura eos in Clement. [39]</p>
+                    <p>Item excommunicantur quicunque fecerint statuta, scripserint, vel dictaverint, quod solvantur usurae, vel quod usurae solutae non repetantur, aut non restituantur; et qui hujusmodi statuta edicta de libris, in quibus scripta fuerint, si potestatem super hiis habuerint, infra tres menses non deleverint.</p>
+                    <p>[40] Extra. de usura ex gravi in Clement. [41]</p>
+                    <p>Item excommunicati sunt religiosi, qui clericis vel laicis ministrant sacramentum eucharistiae, unctionis extremae, vel matrimonium inter aliquos solennizant, non habita super hiis parochiani presbyteri licentia speciali; vel qui excommunicatum a canone, vel per sententiam in statutis provincialibus aut synodalibus promulgatam, aliquem absolverint, praeterquam casibus a jure praemissis, vel privilegio a sede apostolica concesso eisdem, seu a poena et a culpa de facto absolvunt.</p>
+                    <p>[42] Extra. de privilegio religiosi in Clement. [43]</p>
+                    <p>Item excommunicati sunt omnes illi, qui capiunt viros ecclesiasticos, et captos detinent, donec sua beneficia resignent; aut contra citatos ab homine vel a jure ad sedem apostolicam, quominus possint adire sedem illam, procurant hujusmodi captionem.</p>
+                    <p>[44] Extra. de poenis cap. Multorum, in Clement. [45]</p>
+                    <p>Item excommunicati sunt, quicunque in loco supposito interdicto quemquam cogerint divina officia celebrare; aut qui tempore interdicti, per campanarum pulsationem populos publice excommunicatos vel interdictos evocant ad audiendum missas, seu fecerint evocari; aut qui suis subjectis, publice excommunicatis, seu interdictis praecipit, ne exeant ab ecclesiis, dum in ipsis missarum solennia celebrantur, licet a celebrantibus moniti fuerint, ut exeant: necnon excommunicati publice, et publice interdicti, qui in ipsis ecclesiis, a celebrantibus nominatim moniti, ut exeant, remanere praesumpserint; nec possunt absolvi, nisi per sedem apostolicam.</p>
+                    <p>[46] Extra. de sententia ex. gravis in Clement. [47]</p>
+                    <p>Item excommunicantur clerici arma portantes, et se furibus, praedonibus, aut aliis malefactoribus sociantes, et etiam rapinas et furta praecipientes; nec possunt absolvi, nisi prius ad arbitrium dioecesani satisfecerint de praemissis.</p>
+                    <p>In constitutione Ottoboni, Quoniam in armis. [48]</p>
+                    <p>Item excommunicantur, qui impediunt, seu impedire procurant ultimas voluntates defunctorum, praesertim in hiis, quae de jure vel consuetudine legari possunt; et etiam quicunque impediunt aut perturbant, seu impediri, vel turbari faciunt alicujus mulieris, solutae vel conjugatae, propriae uxoris, vel alterius justam, seu consuetam testamenti liberam satisfactionem.</p>
+                    <p>In constitutione Bonifacii Cantuariensis, capitulo, Contingit. [49]</p>
+                    <p>Item excommunicati sunt, quicunque receperint plura beneficia curata, et ea simul retinuerint, absque dispensatione sedis apostolicae, vel qui plura beneficia assecutus fuerit per modum institutionis, vel commendationis, seu custodiae, praeter illum modum, quae constitutio Gregoriana, edita in concilio Lugdunensi, permittit in constitutione Radyng, capitulo primo.</p>
+                    <p>Multi sunt alii casus, in quibus quis incurrit sententiam excommunicationis ipso jure, qui Pupilla [50] parte quinta, capitulis 1. 9. 30. 21. quos transcurrendo videat discretus curatus; et quos magis viderit expediens suis subditis, secundum eorum qualitatem, pronunciari excerpat, et pronunciet temporibus opportunis, cum casibus hic praemissis, vel aliquibus praemissorum.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] Open quotation marks here.</p>
+                    <p>[2] Close quotation marks here.</p>
+                    <p>[4] Open quotation marks here.</p>
+                    <p>[5] Close quotation marks here.</p>
+                    <p>[6] Open quotation marks here.</p>
+                    <p>[7] Close quotation marks here.</p>
+                    <p>[8] Open quotation marks here.</p>
+                    <p>[9] Close quotation marks here.</p>
+                    <p>[10] Open quotation marks here.</p>
+                    <p>[11] Close quotation marks here.</p>
+                    <p>[12] Inserted in text in square brackets: &quot;Hucusque codex Tannerianus.&quot;</p>
+                    <p>[14] &quot;Pupilla&quot; printed in quotation marks.</p>
+                    <p>[15] Open quotation marks here.</p>
+                    <p>[16] Close quotation marks here.</p>
+                    <p>[17] Open quotation marks here.</p>
+                    <p>[18] Close quotation marks here.</p>
+                    <p>[19] Open quotation marks here.</p>
+                    <p>[20] Close quotation marks here.</p>
+                    <p>[21] Open quotation marks here.</p>
+                    <p>[22] Close quotation marks here.</p>
+                    <p>[23] &quot;Canonica, &quot; printed in quotation marks.</p>
+                    <p>[24] Open quotation marks here.</p>
+                    <p>[25] Close quotation marks here.</p>
+                    <p>[26] Open quotation marks here.</p>
+                    <p>[27] Close quotation marks here.</p>
+                    <p>[28] Open quotation marks here.</p>
+                    <p>[29] Close quotation marks here.</p>
+                    <p>[30] Open quotation marks here.</p>
+                    <p>[31] Close quotation marks here.</p>
+                    <p>[32] Open quotation marks here.</p>
+                    <p>[33] Close quotation marks here.</p>
+                    <p>[34] Open quotation marks here.</p>
+                    <p>[35] Close quotation marks here.</p>
+                    <p>[36] Open quotation marks here.</p>
+                    <p>[37] Close quotation marks here.</p>
+                    <p>[38] Open quotation marks here.</p>
+                    <p>[39] Close quotation marks here.</p>
+                    <p>[40] Open quotation marks here.</p>
+                    <p>[41] Close quotation marks here.</p>
+                    <p>[42] Open quotation marks here.</p>
+                    <p>[43] Close quotation marks here.</p>
+                    <p>[44] Open quotation marks here.</p>
+                    <p>[45] Close quotation marks here.</p>
+                    <p>[46] Open quotation marks here.</p>
+                    <p>[47] Close quotation marks here.</p>
+                    <p>[48] &quot;Quoniam in armis.&quot; printed in quotation marks.</p>
+                    <p>[49] &quot;Contingit&quot; printed in quotation marks.</p>
+                    <p>[50] &quot;Pupilla&quot; printed in quotation marks.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

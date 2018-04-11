@@ -1,0 +1,138 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ivrea</title>
+                <recordID>1829</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1320-04-05</origDate>
+                <dateNotes/>
+                <origPlace>Ivrea</origPlace>
+                <diocese>Ivrea</diocese>
+                <province>Milan</province>
+                <country>Italy</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Compilation (Diocesan)</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 1829</p>
+                <p>Year: 1320</p>
+                <p>Month: 4</p>
+                <p>Day: 5</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Ivrea</p>
+                <p>Diocese: Ivrea</p>
+                <p>Province: Milan</p>
+                <p>CountryModern: Italy</p>
+                <p>Latitude: 45.466667</p>
+                <p>Longitude: 7.883333</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Compilation (Diocesan)</p>
+                <p>IssuingAuthority: Alberto Gonzaga</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1288</p>
+                <p>RegnalEnd: 1321</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: ASDI, x/6, HM. 3140000</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Alfonsi, Ricerche sulle costituzioni sinodali, pp. 120-23</p>
+                <p>EditionOther: Vignono, Visite pastorali, xxix (partial)</p>
+                <p>SourceNotes: Previously Arch. Capit. mazzo V, n. 287;  otarized act dated 14 October 1325</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['Library Scan', 'Other']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: ['Reworks the 1311 Bergamo constitutions regarding usury, as well as some other provincial canons; see Andenna, Cura delle anime, 415-16', 'Inc. In nomine Domini amen. Anno eiusdem nativitatis Millio. CCCXX.; expl. libere et persolbant.']</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>In nomine Domini Amen.</p>
+                    <p>Anno eiusdem nativitatis Millesimo [1] .CCCXX. indictione .III. die .V. mensis aprilis ordinatum est per nos fratrem Albertum, miseratione divina episcopum iporiensem et comitem, quod per clerum civitatis et diocesis iporiensis teneatur et debeat officium corporis Christi, quinta feria preter octavam Pentecostem celebrari et celebrari facere suo populo duplex officium, cum ea solemnitate quod in talibus fieri consuetu et eis exponere indulgentias datas per dominum Papam.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) Item ordinatum est quod qualiscumque persona esset, status seu eminentie fuerit, facentes iniuriam alicui persone ecclesiastice, que gaudere debeat privilegio clericali, in persona vel rebus ipsarum occupando possessiones earundem ecclesiarum, monitione premissa per dominum episcopum seu eius vicarium si infra .VI. dies peremptorie non satisfecerint de iniuria et offensa taliter perpetrata satisfacere recusaverit, in terra in qua predicta iniuria irrogata fuerit vel ubicunque dicta persona moram traxit, teneatur et debeat prelatus seu sacerdos ipsius terre cessare a divino officio, nec ibidem per aliquam aliam personam celebretur donec tam passo iniurie quam ipsius ecclesie congrue fuerit satisfactum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Item statuimus ut si aliquod de bonis Ecclesie nostre vel hominum nostrorum aut alicuius domus religiose vel alicuius alterius Ecclesie nostre diocesis autem persone ecclesiastice ab aliquo raptum vel aliquo modo captum per violentiam fuerit, capellanus vicinus perrochia raptor cum rapina redierit, dum raptor aut rapina in cuius perrochia fuerit, cum de hoc supra constiterit, nullo alio mandato episcopi vel sui officiali expectato, super hoc cesset penitus a divinis preter penitentias morientium et baptisma parvulorum et ipsi raptores et fautores eorum excommunicationis sententia procettantur.</p>
+                    <p>Ita ut si per .X. dies sostinuerit cessari, tunc excommunicationis sententiam incurrant ipso facto et excommunicati per ecclesias nuntiantur pulsantis campanis, candelis accensis pariter et extinctis singulis diebus dominicis et festivis; et nichilominus semper cessetur a divinis in perrochiis ubi predo vel preda fuerit quam diu voluerit spoliatus.</p>
+                    <p>Et si ipsi raptores et fautores eorum restituant ipsis ecclesiis in quibus cessabitur dampnum quod propter cessationem huiusmodi incurrent; de quo dampno reddatur curatis vel rectoribus dampnum passis eorum iuramento.</p>
+                    <p>Et hoc precipimus in penam interdicti predictam autem statuimus animo constitutiones facendi et sententiam promulgandi.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) Item ordinatum est quod quelibet persona saltem de domo una teneatur et debeat sequi suum prelatum seu sacerdotes, qui vadit ad salpuum seu rogationes sub pena excomunicacionis et non debeat laborare seu laborari facere donec prelatus seu sacerdos reversus fuerit cum crucibus ad ecclesiam suam; ita quod quecunque fuerit illa persona que sequetur crucem et iverit ad aliquam ecclesiam seu crucem, pro qualibet ecclesia seu cruce ubi celebrebitur officium rogationum, habeat .XL. dies de indulgentia auctoritate domini episcopi supradicti.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) Item monemus et precipimus peremptorie et sub excommunicationis pena et alia nostro arbitrio auferenda, omnibus et singulis ecclesiarum rectoribus et ministris tam civitatis quam diocesis nostre, quatenus infra mensem a publicatione presentium nobis seu nostro vicario portare debeant instrumenta seu cautiones receptas ab usurariis et etiam incerta relicta per aliquam personam presentare infra terminum supradictum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) Item districte precipimus quod omnes abbates, priores, prepositi plebani et alii ecclesiarum recotres civitatis et diocesis nostre, non habentes constitutiones nostras, infra mensem a pubblicatione presentium, de manu notarii nostri habeant, recipiant ipsasque legant sepe et exponant sibique legi [2] faciant et exponi, ne earum transgressores pretextu ignorantie se valeant excusare sub pena excommunicationis et alia nostro arbitrio auferenda.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>(6) Item monemus pubblice pro primo secundo et tertio termino et peremptorie sub pena solidorum .V. imperralium, omnes et singulos ecclesiarum civitatis et diocesis iporiensis ut cathedraticum nobis debitum in die sinodi camerario nostro dent libere et persolbant.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] ed. Millio</p>
+                    <p>[2] missing text - add. 'legi'</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

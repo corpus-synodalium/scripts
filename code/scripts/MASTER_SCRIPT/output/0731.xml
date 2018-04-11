@@ -1,0 +1,158 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Trier</title>
+                <recordID>0731</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1290</origDate>
+                <dateNotes/>
+                <origPlace>Trier</origPlace>
+                <diocese>Trier</diocese>
+                <province>Trier</province>
+                <country>Germany</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 731</p>
+                <p>Year: 1290</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Trier</p>
+                <p>Diocese: Trier</p>
+                <p>Province: Trier</p>
+                <p>CountryModern: Germany</p>
+                <p>Latitude: 49.7596</p>
+                <p>Longitude: 6.6439</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Bohemond I von Warnesberg </p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1286</p>
+                <p>RegnalEnd: 1299</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Blattau, Statuta synodalia, I, 58-60</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: https://books.google.com/books?id=dow-AAAAcAAJ</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'WebDownload']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Item postea in sequenti Synodo Trevirensi sic est ordinatum:</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) Idem de Abbatibus, Abbatissis, Prioribus, Magistrantibus nostrae civitatis et dioecesis, cuiuscunque ordinis existant, nec non eorum monachis et conventibus statuimus et praecipimus observari, omnes quoque promissiones et ordinationes super vacaturis praebendis monachorum et monialium facias et faciendas praesentibus revocamus et decernimus non tenere, inhibentes sub poena excommunicationis et suspensionis omnibus Abbatibus, Abbatissis, Prioribus et Magistrantibus praedictis et eorum conventibus universis et singulis, quam in contrarium facientes ferimus in his scriptis, ne occasione alicuius ordinationis, receptionis vel promissionis aliquem in monachum vel aliquam in monialem recipiant, vel alicui praebendam assignent in futurum de prioribus statutis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Item praecipimus, ut omnes et singuli Praelati et clerici, cuiuscunque conditionis vel status existant, plures dignitates vel ecclesias, quibus cura animarum imminet, obtinentes, seu personatum et dignitatem cum aliquo beneficio, cui similis cura est annexa, dispensationes, vi quarum huiusmodi personatus aut dignitates canonice tenere se asserunt, infra festum Epiphaniae Domini nobis exhibeant vel ostendant; qui non fecerunt, ex tunc arrestamus et sequestramus omnes reditus et proventus praedictorum beneficiorum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) Item tam auctoritate sedis aposlolicae quam nostra praecipimus omnibus rectoribus seu pastoribus ecclesiarum cuiuscunque conditionis aut status existant, ut in ecclesiis, quarum curam habent, residentiam faciant personalem, nisi per sedem apostolicam seu nos super residentia dispensatum, et nisi dictam residentiam infra festum Purificationis B. Mariae Virginis fecerint, ex tunc fructus et proventus dictarum ecclesiarum arrestamus et sequestramus per praesentes.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) Item tam auctoritate sedis apostolicae quam nostra praecipimus universis tam Decanis, quam rectoribus ecclesiarum ac aliis clericis, cuiuscunque conditionis vel status existant, quorum onus beneficiorum sacerdotale officium requirit, ut infra festum Paschae proximum venturum in Sacerdotes promoveantur; quod si non fecerint, ex tunc reditus et proventus eorum arrestamus et sequestramus, inhibentes ac monentes omnes et singulos Decanos, rectores et pastores praedictos, in Sacerdotes non promotos et residentiam non facientes, ne quis dictas sequestrationes rumpat vel infringat, seu manus ad fructus seu proventus dictorum beneficiorum apponat sine nostra licentia speciali; contrarium facientes in his scriptis excommunicamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) Cum in assignandis officiis Abbates et Conventus inventi sint hactenus negligentes, praecipimus omnibus Abbatibus et Conventibus civitatis et dioecesis Trevirensis, ne alicui monacho plura officia vel administrationes assignent in futurum et assignata revocent infra mensem; alioquin ex tunc dictas concessiones seu assignationes praesentibus revocamus et quicquid inposterum super praemissis contigerit attentari sine nostra licentia speciali.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>(6) Item praecipimus, ut quilibet clericus beneficiatus vel in sacris existens etiam non beneficiatus cucufatus cucufam deponat in missa, ubicunque audiat missam, propter reverentiam sacramenti, contrarium ex praeposito et contemptu praesentis praecepti facientes ab ingressu ecclesiae suspendimus per mensem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>(7) Item cum plures illegitime nati ad ordines promoti et beneficia adepti sint minus iuste sine dispensatione, praecipimus universis et singulis illegitimis, ut suas dispensationes nobis vel Officiali nostro infra festum Epiphaniae Domini ostendant vel alias fidem de hoc faciant, alioquin ex tunc ab officio et beneficio suspendimus eosdem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>(8) Item falsificantes sigillum nostrum et curiae nostrae et Archidiaconorum ac aliorum Praelatorum et falsam monetam cudentes ac ea scienter utentes in his scriptis excommunicamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>(9) Praecipimus sub excommunicationis poena omnibus tam clericis quam laicis, cuiuscunque conditionis existant, quatenus privilegia, instrumenta, registra sive cartas iuris archiepiscopatus Trevirensis, si quae habeant, restituant, et si quid de hoc scierint, revelent nobis vel Officiali nostro infra mensem; alioquin ipsos omnes et singulos in his scriptis ex tunc excommunicamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>(10) Item statuimus, quod clericus clericum capiens vel manus temere violentas in ipsum mittens aut interficiens suspensus sit ipso facto ab beneficio seu beneficiis omnibus, si quae habet, et omnes reditus et proventus suos sequestramus et arrestamus per praesentes, ita quod proximus superior Archidiaconus vel Capitulum suum ipsos reditus recipiat et percipiat et in usus suos convertat, nec ad restitutionem tenebitur eidem tam diu, donec laeso fuerit satisfactum et ipse captor sacrilegus aut interficiens suam absolutionem legitime obtinuerit.</p>
+                    <p>Quod si captor violentus aut interficiens praedicti huiusmodi sequestrum violaverit vel infregerit, ipso facto omnibus suis beneficiis ecclesiasticis sit privatus.</p>
+                    <p>Si autem Capitulum vel Archidiaconi fuerint negligentes in praemissis, memoratos reditus Archiepiscopus Trevirensis seu eius Officialis, qui pro tempore fuerit, percipiet et tenebit durante suspensione praedicta, et super huiusmodi maleficiis credetur iuramento laesi vel capti, si sit honesta persona.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>(11) Item cum nihil hominibus magis debeat, quam ut supremae voluntatis liber sit status et liberum quoque iterum non redit arbitrium, sub interminatione divini iudicii praecipimus, quod nullus exsecutor ultimae voluntatis praesertim ad pias causas constitutus a conditionibus vel a legatoriis testatoris audeat exigere sive recipere pecuniam pro debito seu legato eis solvendo seu pro exsecutione perficienda; quod si fecerit, censura ecclesiastica restituere compellatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>(12) Item cum quam plures exsecutores testamentorum defunctorum praesertim ad pias causas deputati iam diu exsequi ultimas voluntates in suae salutis dispendium et dictorum decedentium detrimentum neglexerint, monemus omnes et singulos primo et secundo et praecipimus eisdem, ut infra festum Paschae proximum dicta testamenta exsequantur; alioquin ad exsecutiones eorum ex tunc procedemus in quantum de iure possumus et debemus.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

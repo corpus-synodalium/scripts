@@ -1,0 +1,168 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dax</title>
+                <recordID>0205</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1328-03-04</origDate>
+                <dateNotes/>
+                <origPlace>Dax</origPlace>
+                <diocese>Dax</diocese>
+                <province>Auch</province>
+                <country>France</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 205</p>
+                <p>Year: 1328</p>
+                <p>Month: 3</p>
+                <p>Day: 4</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Dax</p>
+                <p>Diocese: Dax</p>
+                <p>Province: Auch</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 43.7072</p>
+                <p>Longitude: -1.0553</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Bernard de Liposse</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Degert, “Constitutions synodales,” Bulletin, 23, no. 2: 86-87; no. 3: 125-29</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: https://books.google.com/books?id=en0UAAAAYAAJ</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'WebDownload']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Anno Domini Mil CCCXXVIIIo, in synodo die veneris post festum beati Matthei apostoli Aquis in ecclesie majori aquensi celebrate fuerunt constitutiones infrascripte facte et publicate per venerabiles viros dominos Amaneum de Leone canonicum aquensem et Johannem de Anguelu canonicum Compostellanum ac vicarios Reverendi patris in Christo Domini Bernardi [1] Dei et sedis apostolice gracia episcopi aquensis ipso in remotis agente.</p>
+                    <p>Quarum constitutionum tenor sequitur in hunc modum.</p>
+                </div>
+                <div>
+                    <head>Capitulum A1</head>
+                    <p>(A1) De sacramento eucharistie.</p>
+                    <p>Quia presidentis officium non solum sacerdotum sed etiam secularium utilitatibus debet esse sollicitum ut eorum saluti plenius consulatur et actus et mores eorum in melius reformentur, idcirco nos Amaneus de Leone canonicus aquensis et Johannes de Anguelu compostellanus canonicus vicarii reverendi patris et domini domini Bernardi [2] Dei et apostolice sedis gratia episcopi aquensis in remotis agentis, provida deliberatione volentes salutibus subjectorum episcopatus predicti providere quedam prospeximus statuenda et in primis statuimus et ordinamus, ut quicumque presbyter ante ingressum misse provideat ut hostia sit firma et non flectibilis et quod in aliqua sui parte non sit fracta et quod in elevatione corporis Domini non astringatur, sed curialiter accipiatur ne infrangatur seu flectatur propter scandala que possent exinde generari vel oriri.</p>
+                    <p>Item ordinamus et etiam prohibemus universis rectoribus et procuratoribus eorundem ne de cetero in arrendamentis fructuum ecclesiarum suarum factis laycis oblationes altaris que vulgariter manualia nuncupantur, includant, etiam si a nobis ex quacumque causa obtinuerint licentiam suos redditus arrendandi.</p>
+                    <p>Perniciosum enim videtur exemplo quod per laycos arrendatores reddituum, ymo, quod deterius est, per uxores eorumdem altaria denudentur et ad usus familie sue oblationes asportentur, quas volumus ex nunc manere, sicut justum est, apud ministros ecclesie et per ejus serviciales expendi.</p>
+                    <p>Nos autem tam in rectores seu procuratores eorum quam etiam in assensatores qui contrarium attemptaverint excommunicationis sententiam ferimus in hiis scriptis.</p>
+                </div>
+                <div>
+                    <head>Capitulum B1</head>
+                    <p>(B1) Item volumus et ordinamus, et etiam sub pena excommunicationis mandamus quam in quemlibet ferimus in hiis scriptis non parendo, ut omnes rectores in suis ecclesiis singulos rotulos habeant, in quibus omnia nomina excommunicatorum conscribant et cujus auctoritate sunt excommunicati et ad cujus instantiam.</p>
+                    <p>Et ad finem ut melius erubescant et citius sibi procurent absolutionis beneficium, volumus et mandamus ut denuncientur omnibus diebus dominicis per rectorem vel ejus locum tenentem publice in ecclesia, ne quis in evitando ipsos via aliqua se valeat excusare nec aliam ignorantiam pretendere.</p>
+                    <p>Item denunciamus excommunicatos pedagia a clericis ratione personarum seu rerum ad usus proprios delatarum recipientes.</p>
+                    <p>Item denunciamus excommunicatos et excommunicamus in hiis scriptis omnes comites, vicecomites seu senescallos, prepositos, bajulos et omnes alios et singulos jurisdictionem temporalem obtinentes qui inhibitiones fecerunt suis subditis seu facient publice vel occulte ne super personalibus actionibus recursum habeant ad nos seu officialem Aquensem, nisi eas immediate revocent palam publice et manifeste.</p>
+                    <p>Item mandamus omnibus et singulis prioribus et ecclesiarum rectoribus et sub pena excommunicationis eis injungimus ut dictam constitutionem in suis ecclesiis publicent per unam diem dominicam mensis cujuslibet, vel publicari faciant cum major aderit populi multitudo.</p>
+                    <p>Item denunciamus excommunicatos et excommunicamus in hiis scriptis omnes interdictionem ecclesiasticam quoquomodo impedientes.</p>
+                    <p>Item denunciamus excommunicatos omnes impedientes solvere decimas clericis debitas vel ecclesiis vel ecclesiasticis personis.</p>
+                    <p>Item denunciamus et excommunicamus omnes verberatores illorum qui portant litteras domini episcopi vel ejus vicariorum vel curie ipsius seu ejus officialis vel qui eas rumpunt vel auferunt vel rumpi vel auferri mandant et illis qui hoc faciunt prestant opem, consilium vel favorem.</p>
+                    <p>Item injungimus rectoribus et capellanis quibus littere curie domini episcopi vel vicariorum ejus seu officialis ejus diriguntur sub pena quinquaginta solidorum bonorum morlanorum quam sine misericordia exigemus si contrarium faciant et quam incurrant ipso facto.</p>
+                    <p>Quando litteras ipsas, si sit periculum, nori revelent illis contra quos diriguntur, nec eas exequantur quousque lator earum potuerit sua parochia exivisse, saltim per mediam leucam ne latores earum dammificari possint et ultra hoc volumus ut contrarium facientes excommunicationis sententiam incurrant ipso facto.</p>
+                    <p>Item excommunicamus omnes illos qui litigantes in foro ecclesiastico de rebus ad forum ecclesiasticum pertinentibus per captionem bonorum suorum vel parentum suorum vel alias quoquomodo desistere compellent.</p>
+                </div>
+                <div>
+                    <head>Capitulum B2</head>
+                    <p>(B2) De Questoribus.</p>
+                    <p>Rubrica.</p>
+                    <p>Item juxta constitutionem domini Clementis pape quinti inhibemus prioribus ac rectoribus, ne aliquos questores habentes litteras supradictas populo predicare permittant, nec miracula sive quevis alia exponere nisi dumtaxat indulgentias explicare et alia solum que in suis litteris continentur.</p>
+                    <p>Item quod capellani mercenarii non recipiantur per rectores ultra quatuor menses ad curas animarum, nisi ostendant litteras eis concessas per dominum nostrum predictum episcopum vel vicarios suos et concessas hactenus per quoscunque alios revocamus, contrarium facientes ad summam centum solidorum morlanorum condemnantes.</p>
+                    <p>Item quod rectores moneant dominos temporales, judices, bajulos et alios justiciarios quod condemnatis ad suspendium vel alias quoquo modo ad mortem dent facultatem et spacium peccata sua confitendi sacerdoti et quod ipsi iidem ipsos condemnatos ad hoc inducant nobisque denuncient, si invenerint contrarium facientes.</p>
+                    <p>Item omnes constitutiones predecessorum domini nostri episcopi et eorum vicariorum approbamus, laudamus atque pariter conlirmamus et etiam renovamus ne quis per non usum vel abusum credat ipsas vel earum aliquas non tenere.</p>
+                </div>
+                <div>
+                    <head>Capitulum B3</head>
+                    <p>(B3) De synodo.</p>
+                    <p>Item excommunicamus in hiis scriptis omnes et singulos abbates, priores, rectores, et alios clericos beneficiatos qui non comparuerint in nostra synodo sufficienter, nisi a nobis sint licentiati.</p>
+                    <p>Excusatores illorum qui non audent seu non possunt venire ad citationem factam, habeant litteram excusatoriam a capellano suo sigillo sigillatam, si non possunt habere tabellionem et sint ibi testes et inimicitie expresse, vel impossibilitas et sit qui habeat potestatem jurandi.</p>
+                </div>
+                <div>
+                    <head>Capitulum B4</head>
+                    <p>(B4) De executionibus litterarum et salariis.</p>
+                    <p>Super motis et datis dubiis declaramus, primo quod pro executionibus litterarum seu mandatorum faciendis, sicut concessum est, executorhabeat et recipiat a quolibet curato presbytero sui archipresbyteratus sex denarios monete currentis, portitori autem littere si voluerint dare ad comedendum, de gratia hoc faciant; alias ex debito eos decernimus non teneri, preterquam in archipresbyteratibus de Mixia et ad Ostebares, de Marensino, Rippe Ligeris [3] et Canalium et Landarum, in quibus propter diffusam eorum latitudinem VIII denarii dicte monete cursibilis recipi et solvi volumus et de comestione ut supra immediate cavetur.</p>
+                </div>
+                <div>
+                    <head>Capitulum B5</head>
+                    <p>(B5) Item in eodem.</p>
+                    <p>Item declaramus quod si infra X dies a data litterarum computandos littere monitionum, excommunicationum seu aggravationum cuique ex presbyteris vel cuilibet de clero exsequende presententur, id executor efficere teneatur; post lapsum autem decemdii ad idipsum decernimus non teneri.</p>
+                    <p>Si vero post terminum in dictis litteris monitoriis comprehensum vel a data aliarum predictarum litterarum effluxerint XX dies et medio tempore earum denunciato non sit facta, ulterius post lapsum dictorum XX dierum ad id exequendum nullatenus teneantur, licet excommunicatus ligatus maneat sicut primo.</p>
+                    <p>Item declaramus quod quelibet citatio litteratoria adminus contineat in se spacium seu intervallum trium dierum a die presentationis computandorum; alias rector non teneatur ad executionem ejusdem, nisi more periculum quod in eadem littera exprimatur aliud suaserit faciendum.</p>
+                </div>
+                <div>
+                    <head>Capitulum B6</head>
+                    <p>(B6) Idem in eodem.</p>
+                    <p>Item ordinamus, quod ubi parochie sunt ample et diffuse et habent fieri citationes ad domum ipsius citati habeat et exigat a parte citatorium impetrante unum burdegalensem nonete currentis pro quolibet citato, nisi in eadem domo plures essent vel in domibus convicinis contiguis, quia tunc pro omnibus illis unum burdegalensem tantum solvi volumus ut prefertur.</p>
+                    <p>Et idem observari volumus, si extra propriam parochiam fieri dicta mandata seu executiones contingat.</p>
+                    <p>Si autem in ecclesiis dicta mandata fiant, vel in burgo prope ipsam ecclesiam nichil volumus exigi aut levari.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] Originally B[ernardi].</p>
+                    <p>[2] Originally B[ernardi].</p>
+                    <p>[3] Rippe-Ligeris.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

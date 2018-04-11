@@ -1,0 +1,460 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Poitiers</title>
+                <recordID>0077</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1304</origDate>
+                <dateNotes/>
+                <origPlace>Poitiers</origPlace>
+                <diocese>Poitiers</diocese>
+                <province>Bordeaux</province>
+                <country>France</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Other</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 77</p>
+                <p>Year: 1304</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Poitiers</p>
+                <p>Diocese: Poitiers</p>
+                <p>Province: Bordeaux</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 46.581945</p>
+                <p>Longitude: 0.336112</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Other</p>
+                <p>IssuingAuthority: Gautier de Bruges</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1279</p>
+                <p>RegnalEnd: 1305</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Avril, Statuts, V, 122-31</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: Hard Copy Scan</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: Instructions to archpriests and deans</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Frater Galterius divina permissione Pictavensis episcopus, decanis et archipresbiteris dyocesis Pictavensis et eorum vicariis, salutem in Domino.</p>
+                    <p>Ne in laqueis excommunicationis vos et vestros subditos incidatis sub umbra ignorantie juris que regulariter non excusat, et potissime in delictis, constitutiones de Sexto libro Decretalium, de statutis provincialibus et synodalibus excommunicationis penam ipso facto inferentes, sub compendiosa brevitate extractas vobis mittimus ut eas faciatis in audienciis etiam illas in quibus subditi frequentius incidunt in ecclesiis parochialibus publicari, et volentibus detis copiam de eisdem ad scribendum.</p>
+                    <p>Excommunicatio autem tanquam mors est timenda et a nullo contempnenda; non enim est homo qui ligat sed Christus, qui hanc potestatem dedit et dignos fecit homines tanti honoris.</p>
+                    <p>Qui autem excommunicatur, Sathane traditur.</p>
+                    <p>Item major excommunicatio eterna est mortis damnatio, ut hac in decretis expresse cavetur.</p>
+                    <p>Quare vobis districte mandamus ut hujus Sexti constitutiones frequenter in audientiis publicetis, et publicari in locis quibus expedit faciatis.</p>
+                </div>
+                <div>
+                    <head>Capitulum A0</head>
+                    <p>(A0) Sequuntur constitutiones VI libri Decretalium excommunicationem inferentes ipso facto.</p>
+                </div>
+                <div>
+                    <head>Capitulum A1</head>
+                    <p>(A1) Excommunicati sunt ipso facto omnes, qui clericos vel personas ecclesiasticas ad quos in aliquibus ecclesiis, monasteriis et aliis piis locis spectat electio seu presentatio vel eorum amicos, gravare presumunt, spoliando bonis vel aliis injuste prosequendo pro eo quod illum pro quo preces fiebant vel inductio eligere nolebant.</p>
+                    <p>Extra De electione, Sciant cuncti [1].</p>
+                </div>
+                <div>
+                    <head>Capitulum A2</head>
+                    <p>(A2) Excommunicati sunt ipso facto in ecclesiis, monasteriis et aliis piis locis jus patronatus seu custodiam advocationis seu deffensionis titulum, seu aliqua jura similia de novo usurpantes, bona ipsorum locorum vacantium usurpare presumunt, eadem sententia sunt legati premissa fieri prohibentes.</p>
+                    <p>Extra De electione, Generali [2].</p>
+                </div>
+                <div>
+                    <head>Capitulum A3</head>
+                    <p>(A3) Suspensi sunt ab officio et beneficio ipso facto omnes qui bona ecclesiarum cathedralium, regularium et collegiatarum vacancium a prelatis dimissa vel vacacionis tempore obveniencia occupant, inter se dividunt, dissipant et consumunt.</p>
+                    <p>Extra De electione, Quia sepe [3].</p>
+                </div>
+                <div>
+                    <head>Capitulum A4</head>
+                    <p>(A4) Item vocati ad dirigendum moniales in electionibus suis, ab hiis prorsus se abstineant, per que super ipsis electionibus oriri possit discordia, vel exorta nutriri, alioquin excommunicati sunt ipso facto.</p>
+                    <p>Extra De electione, Indempnitatibus [4].</p>
+                </div>
+                <div>
+                    <head>Capitulum A5</head>
+                    <p>(A5) Item suspensi sunt per annum ab officio ipso facto conservatores, si de aliis quam manifestis injuriis et violenciis se scienter intromittant, et qui ad ea que ad judicialem indaginem exigunt suam extendunt potestatem, et pars que hoc fieri procurat, ipso facto sententiam excommunicationis incurrit.</p>
+                    <p>Extra De officio delegati, Hac constitutione [5].</p>
+                </div>
+                <div>
+                    <head>Capitulum A6</head>
+                    <p>(A6) Item suspensi sunt ab officio et beneficio ipso facto prelati et persone ecclesiastice, qui in beneficiis ecclesiasticis sibi subjectis, seu ad collationem, presentationem, seu custodiam eorum pertinentibus bona morientibus eorum rectoribus vel ministris inventa, sine vacationis tempore obvenienda, occupare aut in usus suos convertere presumunt, nisi hec habeant de consuetudine, vel privilegio speciali, et tunc intelligitur de bonis, que solutis debitis et reservatis necessariis pro servitoribus et ministris, et pro incumbentibus honeribus usque ad novos redditus, reperta fuerint superesse.</p>
+                    <p>Extra De officio ordinarii, Presenti [6].</p>
+                </div>
+                <div>
+                    <head>Capitulum A7</head>
+                    <p>(A7) Excommunicati sunt ipso facto qui absolucionem a sententia excommunicationis, suspensionis vel interdicti in eos lata, vel revocationem ejusdem vi vel metu extorquent, et nichilominus absolutio vel revocatio hujusmodi nulla esse ipso jure.</p>
+                    <p>Extra Quod metusve causa, Absolutionis [7].</p>
+                </div>
+                <div>
+                    <head>Capitulum A8</head>
+                    <p>(A8) Item mulier proferendo testimonium personaliter ad judicium trahi invita non debet, sed si ejus testimonium sit in causa necessarium, judex ad eam in expensis producentis mittat, nisi sit talis casus, ut pote in causa criminali, quod examinatio alii committi non possit, et tunc judex personaliter accedat.</p>
+                    <p>Si autem producens fingit casum vel fraudem adhibeat ut ad eam judex vadat, sententiam excommunicationis ipso facto incurrit.</p>
+                    <p>Extra De judiciis, Mulieres [8].</p>
+                </div>
+                <div>
+                    <head>Capitulum A9</head>
+                    <p>(A9) Item suspensi sunt ab officio et administratione ipso facto qui ecclesias sibi commissas, bona immobilia seu jura ecclesiarum laycis submittere, subjicere, seu supponere sua temeritate presumunt, recognoscendo seu pro ferendo ea a laycis tanquam a superioribus se tenere, vel a laycis advoando, vel laycos patronos vel advocatos ecclesiarum et bonorum ecclesiasticorum statuendo.</p>
+                    <p>Illi autem qui personas ecclesiasticas ad talia facienda compulerint excommunicati sunt ipso facto.</p>
+                    <p>Extra De rebus alienationibus, Hoc consultissimo [9].</p>
+                </div>
+                <div>
+                    <head>Capitulum A10</head>
+                    <p>(A10) Excommunicati sunt ipso facto illi qui de ordine mandicantium in concilio generali revocatorum, qui post revocationem hujusmodi alios ad eorum professionem admittunt, vel domos vel loca acquirunt.</p>
+                    <p>Extra De religiosis domibus, Religionum [10].</p>
+                </div>
+                <div>
+                    <head>Capitulum A11</head>
+                    <p>(A11) Episcopis et eorum superioribus est ingressus ecclesie interdictus et alii inferiores prelati ab officio et beneficio sunt ipso facto suspensi, qui ob procurationem sibi ratione visitationis debitam, exigunt pecuniam a volentibus vel invitis, et qui recipiunt a volentibus etiam munera contra constitutionem</p>
+                    <p>generalem, et qui visitationis officio nondum impenso, procurationes a volentibus sive in victualibus, sive in pecunia, sive in aliis recipiunt, aut aliquid aliud recipere occasione procurationis presumunt, nisi dupplum ejus quod receperint, restituerint infra mensem, nulla remissione dantium profutura.</p>
+                    <p>Extra De censibus, Exigit [11].</p>
+                </div>
+                <div>
+                    <head>Capitulum A12</head>
+                    <p>(A12) Item excommunicati sunt ipso facto quacumque constitutione non obstante, qui ab ecclesiis vel personis ecclesiasticis pedagia vel guidagia exigunt, vel extorquent pro personis suis, aut ad solvendum talia pro rebus suis quas non causa negociandi deferunt, vel deferri faciunt vel transmittunt nomine suo vel alieno compellunt.</p>
+                    <p>Si autem collegium vel universitas civitatis, castri, vel alterius loci hoc fecerit, civitas, castrum, vel locus ille est ipso facto suppositus ecclesiastico interdicto.</p>
+                    <p>Extra De censibus, cap. Quamquam [12].</p>
+                </div>
+                <div>
+                    <head>Capitulum A13</head>
+                    <p>(A13) Excommunicati sunt ipso facto layci qui ecclesiis vel personis ecclesiasticis talleyas vel honera aut collectas imponunt, vel impositas, seu quamdam portionem bonorum suorum ab eis exigunt et extorquent, et qui bona ad ecclesias deportata, seu bona ecclesiarum, vel ecclesiasticarum personarum, ubilibet fuerint arrestare, sazire, vel occupare, vel premissa fieri mandare presumunt.</p>
+                    <p>Et qui taliter occupata, sazita, seu arrestata recipiunt, et qui in premissis dant consilium, auxilium et favorem, publice vel occulte, universitates quoque in premissis culpabiles sunt eo ipso ecclesiastico supposite interdicto.</p>
+                    <p>Prelati autem et persone ecclesiastice qui hujusmodi collectas, tallyas, seu quo tam bonorum partem solverint, vel solvere promiserint, vel talibus abusibus absque licentia Sedis apostolice acquieverunt sunt simili excommunicationis sententia innodati, a quibus excommunicationis et interdicti sententiis preterquam in mortis articulo absque Sedis apostolice auctoritate et licentia speciali quis absolvere non potest.</p>
+                    <p>Extra De immunitate ecclesiarum, Clericis.</p>
+                    <p>Illa decretalis est revocata eodem titulo, cap. unico, in Clementinas [13].</p>
+                </div>
+                <div>
+                    <head>Capitulum A14</head>
+                    <p>(A14) Excommunicati sunt ipso facto qui impetratores litterarum apostolicarum, val alios ad forum ecclesiasticum recurrentes super causis ad forum ecclesiasticum de jure vel aliqua consuetudine pertinentibus ad desistendum per se vel per alium, vel ad litigrandum de questionibus hujusmodi in foro seculari compellunt per captionem judicis, propinquorum, seu rerum ipsorum, modis et aliis quibuscumque, et qui ad premissa compelli faciunt vel procurant.</p>
+                    <p>Item excommunicati sunt ipso facto omnes et singuli qui per se vel par alios impediunt quominus coram judicibus ecclesiasticis querentes de causis ad forum ecclesiasticum de jure vel de consuetudine pertinentibus possint libere justitiam obtinere, et omnes qui ad predicta dant consilium, auxilium vel favorem.</p>
+                    <p>Extra De immunitate Ecclesiarum, Quoniam [14].</p>
+                </div>
+                <div>
+                    <head>Capitulum A15</head>
+                    <p>(A15) Excommunicati sunt ipso facto domini temporales, qui suis subditis interdicunt ne prelatis aut clericis seu personis ecclesiasticis aliquid vendant vel emant ab eisdem, vel ne ipsi bladum molant, panem coquant vel alia obsequia audeant adhibere.</p>
+                    <p>Extra De immunitate ecclesiarum, Eos qui [15].</p>
+                </div>
+                <div>
+                    <head>Capitulum A16</head>
+                    <p>(A16) Excommunicati sunt ipso facto religiosi tacite vel expresse professi qui scolis vel alibi temere habitum sue religionis dimittunt, et qui accedunt ad studia, nisi de licentia sui prelati, cum consilio sui conventus, vel majoris partis ejusdem.</p>
+                    <p>Simili modo sunt excommunicati doctores et magistri qui hujusmodi religiosos, habitu, habitu dimisso, leges vel phisicum audientes, scienter docere aut in scolis suis retinere presumunt.</p>
+                    <p>Extra De clericis vel monachis, Ut periculosa [16].</p>
+                </div>
+                <div>
+                    <head>Capitulum A17</head>
+                    <p>(A17) Excommunicati sunt ipso facto qui hereticos, credentes, receptatores, deffensores, vel fautores eorum scienter presumunt ecclesiastice tradere sepulture, et layci qui publice vel privatim de fide catholica disputare presumunt.</p>
+                    <p>Extra De hereticis, Quicumque [17].</p>
+                </div>
+                <div>
+                    <head>Capitulum A18</head>
+                    <p>(A18) Excommunicati sunt ipso facto potestates et domini seculares qui per se vel par alium seu alios, se de crimine heresis intromittunt, cognoscendo, captos per heresim a carcere liberando, seu officium ordinariorum vel inquisitorum impediendo, et qui diocesanis vel inquisitoribus non parent, vel intendunt in investigatione, captione et custodia, vel ad carcerem ductione hereticorum, credentium, receptatorum, deffensorum seu fautorum eorumdem.</p>
+                    <p>Et qui hujusmodi excommunicationem per annum sustinuerint sunt ut heretici condempnandi.</p>
+                    <p>Extra De hereticis, Ut inquisitionis [18].</p>
+                </div>
+                <div>
+                    <head>Capitulum A19</head>
+                    <p>(A19) Excommunicati sunt ipso facto quicumque tam ecclesiastici quam seculares qui Christianum faciunt vel mandant per assizinos interfici, et qui assizinos receptant, deffendant vel occultant.</p>
+                    <p>Extra De homicidio, Pro humani [19].</p>
+                </div>
+                <div>
+                    <head>Capitulum A20</head>
+                    <p>(A20) Nulli alienigenas usuram publice exercentes domos conducere vel conductas habere in terris suis permittant, ymo eos de terris suis expellunt, nullus eis locet hospitium alio titulo vel concedat, alioquin episcopi et superiores suspensionis, inferiores excommunicationis, collegium seu universitas interdicti sententiam ipso facto incurrunt.</p>
+                    <p>Extra De usuris, Usurarum [20].</p>
+                </div>
+                <div>
+                    <head>Capitulum A21</head>
+                    <p>(A21) Excommunicati sunt ipso facto qui pignoraciones que secundum vulgare italicorum dicuntur repressaglie per quas alius pro alio pignoratur adversus personas ecclesiasticas, vel bona sua concedunt vel concessas extendunt, nisi hoc revocant infra mensem.</p>
+                    <p>Extra De injuriis, Etsipignorationes [21].</p>
+                </div>
+                <div>
+                    <head>Capitulum A22</head>
+                    <p>(A22) Excommunicati sunt ipso facto cardinalium insecutores, socii, receptatores et deffensores eorum mandantes, ratum habentes et ad hoc dantes concilium vel favorem.</p>
+                    <p>Extra De penis, Felicis [22].</p>
+                </div>
+                <div>
+                    <head>Capitulum A23</head>
+                    <p>(A23) Excommunicati sunt ipso facto omnes qui occasione excommunicationis, suspensionis, seu interdicti in aliquem promulgate dant licentiam occidendi, verberandi, seu capiendi illum, qui sententiam hujusmodi promulgant, vel illum pro quo seu ratione cujus fuit sententia promulgata, seu illum qui hujusmodi sententiam observat, et qui cum excommunicatis communicare recusat, aut alios ipsos in personis aut bonis suis, vel suorum, gravandi, nisi hujusmodi licentiam reintegra revocaverint, vel si ad captionem fuerit processum, nisi capta fuerint restituta, infra octo dies, vel satisfactio pro eis impensa.</p>
+                    <p>Eadem autem sententia sunt legati, qui licentia sic data utuntur, et qui suo motu sine licentia alterius premissa committunt.</p>
+                    <p>Qui si permanserint duobus mensibus sic ligati non possunt, nisi per Sedem apostolicam absolutionis beneficium obtinere.</p>
+                    <p>Extra De sententia excommunicationis, Quicumque [23].</p>
+                </div>
+                <div>
+                    <head>Capitulum A24</head>
+                    <p>(A24) Excommunicati sunt ipso facto glosantes et intellectum constitutionis declarative regule beati Francisci depravantes necnon facientes commentum, scripturas seu libellos et ex certa scientia determinantes in scolis seu predicantes contra declarationem regule antedicte, quorum absolutionem Sedem apostolicam sibi specialiter reservavit.</p>
+                    <p>Extra De verborum significatione, Exiit [24].</p>
+                </div>
+                <div>
+                    <head>Capitulum B0</head>
+                    <p>(B0) Sequuntur constitutiones provinciales.</p>
+                </div>
+                <div>
+                    <head>Capitulum B1</head>
+                    <p>(B1) Excommunicati sunt ipso facto qui falsis litteris vel manibus scienter utuntur.</p>
+                    <p>Excommunicati sunt ipso facto, qui ad diversa loca, vel coram diversis judicibus simul super actionibus personalibus trahunt aliquem vel aliquos vel qui trahi etiam procurabunt.</p>
+                    <p>Item qui cedunt actiones clericis vel aliis, et qui recipiunt cessiones, nisi in casibus a jure concessis, et qui advocando seu procurando scienter actiones hujusmodi prosequentur.</p>
+                </div>
+                <div>
+                    <head>Capitulum B2</head>
+                    <p>(B2) Excommunicati sunt ipso facto qui contra ecclesias vel ecclesiasticas personas conspirationes seu conjurationes faciunt et statuta.</p>
+                    <p>Item qui dicentes se judices datos delegatos a superiori citant vel citari faciunt aliquem, nisi prius inspecto authentico, vel authentica scriptura commissionis sibi facte.</p>
+                    <p>Item illi qui super novis injuriis et actionibus ex novis causis incipientibus competere post litteras impetratas litteris ante illatas injurias impetratis excommunicari precipiuntur et penis supra positis subjacere.</p>
+                </div>
+                <div>
+                    <head>Capitulum B3</head>
+                    <p>(B3) De non hospitando per vim in locis religiosorum.</p>
+                    <p>Excommunicati sunt seculares qui in ecclesiis vel hospitalibus vel aliis locis religiosis domibus vel personis exactiones facere violentas presumunt, vel qui non invitati invitis rectoribus iidem hospitati fuerint presumptive.</p>
+                </div>
+                <div>
+                    <head>Capitulum B4</head>
+                    <p>(B4) Item de eodem.</p>
+                    <p>Item si laycus qui possessionem auctoritate clerici vel Ecclesie possidet et excolit, vel aliquid aliud agit, tractus in causam coram judice seculari et de stando juri datis fideijussoribus, clericum vel personam ecclesiasticam auctorem in seculari judicio nominaverit, postquam persona ecclesiastica se presentaverit coram judice seculari, forum Ecclesie allegando, fideijussores quos dederat ab instanda secularis judicis per secularem judicem absolvatur, alioquin judex et ejus consiliarii in hac parte excommunicati publice nuntientur.</p>
+                </div>
+                <div>
+                    <head>Capitulum B5</head>
+                    <p>(B5) De pertubatoribus seu impedientibus ecclesiasticam jurisdictionem.</p>
+                    <p>Excommunicati sunt ipso facto qui impediunt quoquomodo, vel qui impediri procurant ne cause que ad forum ecclesiasticum de jure vel consuetudine pertinere noscuntur in foro ecclesiastico ventilantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum B6</head>
+                    <p>(B6) De eodem.</p>
+                    <p>Excommunicati sunt ipso facto archydiaconi et archipresbyteri qui vacarios constituunt, nisi de suorum licentia prelatorum, et similiter vicarii sine licentia prelatorum constituti.</p>
+                </div>
+                <div>
+                    <head>Capitulum B7</head>
+                    <p>(B7) Excommunicati sunt ipso facto qui edita, conjurationes, conspirationes, colligationes, machinationes faciunt, ne layci in foro ecclesiastico litigent, super certis articulis, quos exprimunt, valde paucis, et qui inhibent etiam ne ab uxoribus vel familiis suis fiant oblationes in illis casibus in quibus fidelium pia devotio offerre consuevit.</p>
+                </div>
+                <div>
+                    <head>Capitulum B8</head>
+                    <p>(B8) Item de eodem.</p>
+                    <p>Item excommunicate sunt omnes persone que prophana hujusmodi facere presumunt, vel jam facta servare, seu opem misericordie vel justicie in quantum tangunt Ecclesie libertatem occasione hujusmodi restringere vel coartare presumunt.</p>
+                </div>
+                <div>
+                    <head>Capitulum B9</head>
+                    <p>(B9) Excommunicati sunt ipso facto qui ecclesias infringunt, et ecclesiarum violant salvitatem, capientes bona contenta ibidem, seu homines in ecclesiis et salvatibus capiendo, vulnerando aut, quod pejus est, occidendo.</p>
+                </div>
+                <div>
+                    <head>Capitulum B10</head>
+                    <p>(B10) Excommunicati sunt ipso facto domini et justiciarii seculares, qui ecclesias, prioratus, domos, possessiones et res alias in quarum possessione pacifica sunt vel erunt ecclesie, aut prelati, abbates, priores, rectores, aut alii ecclesiarum administratores saziunt vel occupant, aut occupari faciunt aut saziri.</p>
+                </div>
+                <div>
+                    <head>Capitulum B11</head>
+                    <p>(B11) Excommunicati sunt omnes persone ecclesiastice ipso facto que agunt, respondent vel se appliagient in foro seculari de hiis que ad ecclesiasticum non ad forum pertinent seculare, nisi hoc fecerint de suorum licentia prelatorum, vel vices gerentium eorumdem.</p>
+                    <p>Illi autem qui personas ecclesiasticas ad predicta compulerint, vel compellere noluerint, eadem sententia sunt legati.</p>
+                </div>
+                <div>
+                    <head>Capitulum B12</head>
+                    <p>(B12) Item de eodem.</p>
+                    <p>Excommunicati sunt ipso facto religiosi et clerici beneficiati qui advocationis exercere officium in foro seculari, nisi pro se vel ecclesia sua, vel personis miserabilibus vel conjunctis.</p>
+                    <p>Eadem sententia sunt legati religiosi et clerici qui assessores vel consiliatores esse presumpserunt contra Ecclesie libertatem.</p>
+                </div>
+                <div>
+                    <head>Capitulum B13</head>
+                    <p>(B13) Item de eodem.</p>
+                    <p>Excommunicati sunt ipso facto justiciarii layci qui personas ecclesiasticas coram eis comparentes et fori sui privilegium allegantes super actionibus mere personalibus coram se litigare compellunt vel compulsioni insistunt.</p>
+                </div>
+                <div>
+                    <head>Capitulum B14</head>
+                    <p>(B14) Excommunicati sunt ipso facto qui confugientes ad ecclesiarum tutelam vulnerant, mutilant, interficiunt vel incendiunt, aut inde extrahunt violenter, aut excommunicatos vulnerare seu mutilare presumunt, aut eis ultimum supplicium inferunt, aut ipsa fieri precipiunt, vel procurant, seu consilium vel opem adhibent, in tantis celeribus perpetrandis.</p>
+                </div>
+                <div>
+                    <head>Capitulum B15</head>
+                    <p>(B15) Item de eodem.</p>
+                    <p>Excommunicati sunt ipso facto qui in foro ecclesiastico litigantes volentes super causis mere ecclesiasticis, sive que ad forum Ecclesie de antiqua et approbata consuetudine et hactenus pacifice observata pertinere noscuntur ad desistandum compellunt per eorum vel parentum hujusmodi captionem modo vel alius quibuscumque.</p>
+                </div>
+                <div>
+                    <head>Capitulum B16</head>
+                    <p>(B16) Item de eodem.</p>
+                    <p>Excommunicati sunt ipso facto qui nuncios aut executores ecclesiasticorum judicum aut alios acta judiciaria deferentes hac occasione verberare, capere, detinere, occultare, carceri mancipere, mutilare aut interficere, litteras vel acta predicta personis memoratis auferre, seu ea rumpere, cancellare, aut aliter destruere, vel sic ablata celare, aut ista fiant procurare, vel facientibus consilium vel opem adhibere presumunt.</p>
+                </div>
+                <div>
+                    <head>Capitulum C0</head>
+                    <p>(C0) Sequitur sententia domini Galonis.</p>
+                    <p>Excommunicati sunt ipso facto sacerdotes et clerici qui post legitimam admonitionem focarias vel aliquas mulieres, unde populus vel ecclesia scandalizetur, de quibus mala possit oriri suspicio in domibus propriis vel alibi duxerint retinendas.</p>
+                </div>
+                <div>
+                    <head>Capitulum D0</head>
+                    <p>(D0) Sequuntur constitutiones synodales que sunt late sententie ipso facto.</p>
+                </div>
+                <div>
+                    <head>Capitulum D1</head>
+                    <p>(D1) In primis sciendum est quod excommunicati sunt ipso facto qui in clericos vel quoscumque religiosos manus injecerint violentas, et qui litteras domini pape falsant, et qui ad hoc adminiculum prestant vel eis scienter utuntur, et tales a domino papa vel ejus mandato sunt absolvendi.</p>
+                </div>
+                <div>
+                    <head>Capitulum D2</head>
+                    <p>(D2) Item excommunicati sunt per episcopum sortilegia de sacramentis Ecclesie facientes, et qui malitiose procurant fieri abortivum, et qui ad conjungendum vel disjungendum matrimonium scienter deponunt testimonium falsitatis, et tales sunt per episcopum absolvendi.</p>
+                </div>
+                <div>
+                    <head>Capitulum D3</head>
+                    <p>(D3) De eodem.</p>
+                    <p>Excommunicamus incendiarios et violatores ecclesiarum et hujusmodi excommunicatos ad nos remitti volumus absolvendos.</p>
+                </div>
+                <div>
+                    <head>Capitulum D4</head>
+                    <p>(D4) Capellani qui scienter religiosos viros ultra octo dies loco subcapelanorum ad celebrandum susceperint ipso facto sunt suspensi.</p>
+                </div>
+                <div>
+                    <head>Capitulum D5</head>
+                    <p>(D5) Item priores et omnes alios religiosos cujuscumque ordinis administrationes habentes nobis subditos qui de cetero concedent alicui mutuo sine sui superioris licentia innodamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum D6</head>
+                    <p>(D6) In eodem.</p>
+                    <p>Excommunicamus priores in dyocesi Pictavensi commemorantes in qua eorum monasteria consistunt, qui extra sua monasteria aliquid deponunt, nisi depositum ad se vel sua monasteria infra mensem procuraverint revocare.</p>
+                </div>
+                <div>
+                    <head>Capitulum D7</head>
+                    <p>(D7) Item nullus religiosus sit advocatus in aliqua causa, nisi in sua vel ecclesie sue, etsi hujusmodi trangressor fuerit, excommunicatus sit ipso facto.</p>
+                </div>
+                <div>
+                    <head>Capitulum D8</head>
+                    <p>(D8) Excommunicamus decanos rurales et archipresbyteros civitatis et dyocesis Pictavensis, qui ponunt et constituunt vicarios, nisi sit casus in quo sibi de jure liceat per vicarios desservire, vel nisi a nobis habeat licentiam specialem, vel nisi super hoc secum per Sedem apostolicam dispensatum.</p>
+                </div>
+                <div>
+                    <head>Capitulum D9</head>
+                    <p>(D9) Item statuimus et firmiter inhibemus ut archidiaconi, decani, archipresbyteri rurales, et alii civitatis Pictavensis quibus procurationes visitationis ratione debentur, procurationes ipsas ne recipiant, et ne subditi sui ea solvant in pecunia numerata.</p>
+                    <p>Qui vero scienter contrarium fecerint, ipso facto sententiam excommunicationis incurrant, et etiam qui procurationis nomine mutato ipsas gratia vel quocumque alio nomine in pecunia numerata recipiunt vel persolvunt.</p>
+                </div>
+                <div>
+                    <head>Capitulum D10</head>
+                    <p>(D10) Item volumus et statuimus ut abbates et priores qui abbates non habent in prioratibus vacantibus, omnia que administrationem ecclesiarum et locorum faciunt ibidem cum omni integritate dimittant, sed etiam de mobilibus quantum ad substantacionem priorum locorum ipsorum et familie sue et hospitum sufficere valeat usque ad sequentem collectam secundum exigentiam tantum facultatum ibidem delinquant. Abbates autem et priores, qui abbates non habent, qui scienter contrarium fecerint, ipso facto sententiam excommunicationis incurrant.</p>
+                    <p>Istud autem statutum volumus ad abbates et priores Sancti Augustini extendi, et super hoc fecimus speciale statutum.</p>
+                </div>
+                <div>
+                    <head>Capitulum E0</head>
+                    <p>(E0) Sequuntur constitutiones Galterii episcopi, et de cedulis vacuis.</p>
+                </div>
+                <div>
+                    <head>Capitulum E1</head>
+                    <p>(E1) Nullus fungens judiciaria potestate in civitate et dyocesi Pictavensi vacuas sedulas sigillare presumat vel sigillum suum alii tradere ut vacue sedule apponatur.</p>
+                    <p>Si quis autem contra premissa fecerit, vel illis prebuerit consilium aut consensum ipsum excommunicationis sententie volumus subjacere.</p>
+                </div>
+                <div>
+                    <head>Capitulum E2</head>
+                    <p>(E2) In eodem.</p>
+                    <p>Item prohibemus ne dyaconi confessiones audiant, et ne in foro penitentiali absolvant.</p>
+                    <p>Contrarium vero facientes excommunicationis sententia innodamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum E3</head>
+                    <p>(E3) Item judiciarios seculares monemus quod si clericos ceperint forte ne fuge remedio se committant captos statim si de die.</p>
+                    <p>Si vero de nocte, postquam dies illuxerit quam citius commode poterint, adducant vel remittant, restituant et dimittant judici ecclesiastico competenti, ipsius judicis requisitione minime expectata.</p>
+                    <p>Contrarium vero facientes vel hiis opem, consilium vel auctoritatem prebentes, volumus, declaramus et decernimus ipso facto excommunicationis sententie subjacere.</p>
+                </div>
+                <div>
+                    <head>Capitulum E4</head>
+                    <p>(E4) Item prohibemus ne aliquis a non suo sacerdote ecclesiastica sacramenta recipere presumat causa necessitatis excepto, et si a proprio sacerdote recipere possit, nisi de Sedis apostolice vel nostra vel proprio sacerdoti licentia speciali.</p>
+                    <p>In contrarium autem facientes, volumus incurrere excommunicationis sententiam ipso facto.</p>
+                </div>
+                <div>
+                    <head>Capitulum E5</head>
+                    <p>(E5) Item excommunicamus omnes et singulos nobis subditos qui ad mandatum archiepiscopi Burdigalensis, vicariorum officialium vel vices gerentium seu commissariorum suorum vel alterius eorumdem citant, seu citationes vel sententias vel quecumque mandata exequunt absque mandato nostro vel officialis nostri seu, sede Pictavensi vacante, capituli nostri Pictavensis, et qui coram eis vel altero eorumdem in casibus in quibus eis non competit jurisdictio de jure communi litigando respondere presumunt, nostra vel predictorum licentia non obtenta.</p>
+                </div>
+                <div>
+                    <head>Capitulum E6</head>
+                    <p>(E6) Item excommunicamus clericos et laycos qui ab archidiaconis, decanis, archipresbiteris civitatis et dyocesis Pictavensis, vel aliis a quibus ad nos episcopum vel officialem nostrum est appellandum ad sedem Burdigalensem, omisso medio, appellare presumat, et qui a decanis vel archipresbyteris ad capitulum nostrum, seu ad auditorem nostri episcopi et capituli decani Pictavensis appellant, et qui taliter appellantibus seu appellare volentibus prestant scienter opem, consilium vel favorem.</p>
+                </div>
+                <div>
+                    <head>Capitulum E7</head>
+                    <p>(E7) Item excommunicamus omnes et singulos qui a quovis archiepiscopo, episcopo vel aliquo, qui tantum super hoc non habeat ex privilegio Sedis apostolice potestatem, sine nostra vel successorum nostrorum, vel nobis agentibus in remotis vicariorum nostrorum, vel sede vacante nostri capituli petita licentia et obtenta, coronam seu tonsuram clericalem assumunt.</p>
+                </div>
+                <div>
+                    <head>Capitulum E8</head>
+                    <p>(E8) Item excommunicamus omnes et singulos qui beneficia ecclesiastica in civitate et dyocesi Pictavensi violenter occupent vel invadant.</p>
+                </div>
+                <div>
+                    <head>Capitulum E9</head>
+                    <p>(E9) Item et illos qui in beneficiis ecclesiasticis de quibus per nos vel per Sedem apostolicam canonice instituti sunt vel erunt amoti vel de facto privati se intrudunt vel intrudi seu possi se faciunt vel permittunt, et qui sic jam occupata vel habita per se vel per alium detinere, et qui super occupatione, intrusione, vel detentione hujusmodi opem, consilium, vel favorem prestare presumunt.</p>
+                    <p>Nos frater Galterius episcopus Pictavensis in premissis nihil de novo facimus, nichil novum statuimus, sed constitutiones hujusmodi penales, canonicas, provinciales et predecessorum nostrorum et nostras synodales sub compendio recitamus.</p>
+                </div>
+                <div>
+                    <head>Explicit</head>
+                    <p>Actum die martis in vigilia beati Hylarii anno Domini MoCCCo quarto.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] Citation provided: (VI, 1, 6, 12 = Lyon II, can. 11)</p>
+                    <p>[2] (VI, 1, 6, 13 = Lyon II, can. 12)</p>
+                    <p>[3] (VI, 1, 6, 40)</p>
+                    <p>[4] (VI, 1, 6, 43, 61)</p>
+                    <p>[5] (VI, 1, 14, 15)</p>
+                    <p>[6] (VI, 1, 16, 9)</p>
+                    <p>[7] (VI, 1, 20 = Lyon II, can. 20)</p>
+                    <p>[8] (VI, 2, 1, 2)</p>
+                    <p>[9] (VI, 3, 9, 2 = Lyon II, can. 22)</p>
+                    <p>[10] (VI, 3, 17 = Lyon II, can. 13)</p>
+                    <p>[11] (VI, 3, 20, 2 = Lyon II, can. 24)</p>
+                    <p>[12] (VI, 3, 20, 4)</p>
+                    <p>[13] (Clem. 3, 13, 3, can. 4, 17)</p>
+                    <p>[14] (VI, 3, 23, 4)</p>
+                    <p>[15] (VI, 3, 23, 5)</p>
+                    <p>[16] (VI, 3, 24, 2)</p>
+                    <p>[17] (VI, 3, 22)</p>
+                    <p>[18] (VI, 5, 2, 18)</p>
+                    <p>[19] (VI, 5, 4, 1)</p>
+                    <p>[20] (VI, 5, 51)</p>
+                    <p>[21] (VI, 5, 8 = Lyon II, can. 18)</p>
+                    <p>[22] (VI, 5, 9, 5)</p>
+                    <p>[23] (VI, 5, 11, 11 = Lyon II, can. 11)</p>
+                    <p>[24] (VI, 5, 12, 3)</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

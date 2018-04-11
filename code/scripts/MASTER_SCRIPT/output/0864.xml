@@ -1,0 +1,143 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tortosa</title>
+                <recordID>0864</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1311-11-18</origDate>
+                <dateNotes/>
+                <origPlace>Tortosa</origPlace>
+                <diocese>Tortosa</diocese>
+                <province>Tarragona</province>
+                <country>Spain</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 864</p>
+                <p>Year: 1311</p>
+                <p>Month: 11</p>
+                <p>Day: 18</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: 11-18 November</p>
+                <p>Place: Tortosa</p>
+                <p>Diocese: Tortosa</p>
+                <p>Province: Tarragona</p>
+                <p>CountryModern: Spain</p>
+                <p>Latitude: 40.812778</p>
+                <p>Longitude: 0.523333</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Francesc de Paulhac</p>
+                <p>IssuingAuthorityAlt: Francisco de Paholach</p>
+                <p>RegnalStart: 1310</p>
+                <p>RegnalEnd: 1316</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Synodicon Hispanum, XII, 627-30</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['Library Scan', 'Hard Copy Scan']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Inscriptio [1].</p>
+                    <p>Prima synodus celebrata a domino Francisco de Paholaco, episcopo Dertusensi.</p>
+                    <p>Anno Domini millesimo trecentesimo undecimo, die iovis, quae fuit tertio idus novembris, reverendus pater et dominus dominus Franciscus, divina miseratione Dertusensis episcopus, primam synodum celebravit in sede Dertusensi, et ordinavit constitutiones sequentes.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) Confirmatio omnium constitutionum per praedecessores domini Francisci editarum.</p>
+                    <p>Nos Franciscus, miseratione divina Dertusensis episcopus, in civitate personaliter constitutus, praesentibus et assistentibus nobis venerabilibus Bernardo de Jardino, priore, et toto capitulo ecclesiae memoratae, ad honorem sanctae et individuae Trinitatis, Patris et Filii et Spiritus Sancti, sanctam synodum celebrantes, de assensu praedictorum prioris et capituli, laudamus ac concedimus et approbamus et per omnia confirmamus omnes constitutiones factas per praedecessores nostros ad utilitatem, libertatem et defesionem ecclesiarum, clericorum et religiosorum, monasteriorum et rerum omnium praedictarum, ac etiam omnes alias, ad correctionem et reformationem subditorum nostrorum per praedecessores nostros editas, confirmamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) De institutione festivitatum hic contentarum.</p>
+                    <p>Item, ad divini nominis honorem et gloriam, et exaltationem catholicae fidei et salutem, statuimus et ordinamus, de consilio et assensu venerabilis Bernardi de Jardino, prioris, et capituli Dertusensis, festum passionis Imaginis Christi, idus novembris; et festum sancti Blasii, episcopi et martyris, tertio nonas februarii; et festum sancti Iuliani, martyris, septimo idus ianuarii; et festum beati Antonii, abbatis et confessoris, decimosexto kalendas februarii, in sede et ecclesiis civitatis et dioecesis Dertusensis annis singulis perpetuis et futuris temporibus a clericis sub officio novem lectionum devotione debita celebrari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) Quod carnes non fiant per carnifices in diebus ieiuniorum, nisi in casibus hic contentis.</p>
+                    <p>Item, ad extirpandam et refrenandam quorumdam audatiam perversorum civitatis et dioecesis Dertusensis, qui mandatum Ecclesiae elata cervice frangere non formidant, statuimus et ordinamus quod aliquis carnifex vel quivis alius, nisi pro necessitate infirmorum et parturientium mulierum tantum [2], audeat de cetero in dicta civitate vel dioecesi vendere publice carnes in diebus veneris, nec in vigiliis apostolorum vel aliorum sanctorum quorum vigilias sancta mater Ecclesia praecipit ieiunare, in vigiliis Natalis, Resurrectionis et Pentecostes dumtaxat exceptis, ob reverentiam festivitatis seu festivitatum earumdem etiam et honorem.</p>
+                    <p>Si quis autem praesentis constitutionis temerarius violator exstiterit, excommunicationis sententiam se noverit incursurum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) Dominus Franciscus fecit constitutionem sequentem anno Domini millesimo trecentesimo undecimo, decimoquarto kalendas decembris.</p>
+                    <p>Quod rectores possint facere testamentum.</p>
+                    <p>Item, quamvis dominus Petrus, bonae memoriae praedecessor noster, celebrando synodum in sede Dertusensi, in favorem rectorum statuisset et ordinasset quamdam constitutionem, quae incipit Item, statuimus et ordinamus quod rectores ecclesiarum parochialium nostrae dioecesis, qui nunc sunt vel pro tempore fuerint, aere alieno deducto, etc. [3], nos, volentes uberiorem facere gratiam, de consilio et assensu venerabilis Bernadi de Jardino, prioris, et totius capituli Dertusensis, statuimus et ordinamus quod omnes rectores nostrae dioecesis, qui nunc sunt vel pro tempore fuerint, deducto aere alieno et exceptis vasis vinariis et aliis apparamentis et utensilibus necessariis domibus seu abbatiis ecclesiarum suarum, secundum qualitatem eorum [4], possint condere testamentum seu aliam ultimam voluntatem de bonis mobilibus seu se moventibus per ecclesiam adquisitis, et etiam immobilibus per easdem ecclesias adquisitis, legando ecclesiae Dertusensi vel ecclesiae propriae vel ad capellanias vel ad anniversaria infra nostram dioecesim, vel pro remuneratione servitorum vel familae suae, vel aliis piis locis, vel amore Dei, vel quibuscumque locis et personis capacibus.</p>
+                    <p>Retinemus tamen nobis et successoribus nostris in signum universalis dominii tricesimam partem bonorum quae fuerint adquisita praetextu ecclesiarum per successores rectorum qui nunc vivunt, decimam retentam in dicto statuto, per predecessorem nostrum facto, ex certa scientia revocantes et, ut dictum est, ad istam tricesimam ex speciali gratia reducentes.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) Quod clerici non coquant victualia in furnis Iudaeorum vel Sarracenorum.</p>
+                    <p>Item, statuimus et ordinamus, de consilio et assensu venerabilis Bernardi de Jardino, prioris, et totius capituli Dertusensis, quod nullus clericus civitatis et termini Dertusensis, cuiuscumque conditionis, dignitatis et status exsistat, seu aliquis nomine eorumdem vel ad eorum servitium, audeat decoquere vel facere decoqui panem, carnes seu alia victualia, vel quae sub aliquo genere victualium comprehendi possunt, in furno vel in furnis Iudaeorum vel Sarracenorum diebus festivis vel aliis, vel etiam diebus festivis in furnis christianorum.</p>
+                    <p>Et quicumque praedictorum contrarium fecerit, solvat pro poena decem solidos regalium Valentiae, aerario nostro applicandos.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] In brackets</p>
+                    <p>[2] From nisi in parentheses</p>
+                    <p>[3] From Item, statuimus in quotation marks. From aere alieno in parentheses.</p>
+                    <p>[4] From deducto aere in parentheses</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

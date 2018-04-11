@@ -1,0 +1,118 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Valencia</title>
+                <recordID>0881</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1269-10-23</origDate>
+                <dateNotes/>
+                <origPlace>Valencia</origPlace>
+                <diocese>Valencia</diocese>
+                <province>Tarragona</province>
+                <country>Spain</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 881</p>
+                <p>Year: 1269</p>
+                <p>Month: 10</p>
+                <p>Day: 23</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Valencia</p>
+                <p>Diocese: Valencia</p>
+                <p>Province: Tarragona</p>
+                <p>CountryModern: Spain</p>
+                <p>Latitude: 39.470239</p>
+                <p>Longitude: -0.376805</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Andrés de Albalat</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1248</p>
+                <p>RegnalEnd: 1276</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Synodicon Hispanum, XII, 720-21</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['Library Scan', 'Hard Copy Scan']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) De armis prohibitis clericis.</p>
+                    <p>Anno Domini millesimo ducentesimo sexagesimo nono, decimo kalendas nouembris, nos frater Andreas, diuina miseratione episcopus Valentinus, prout moris est et a sanctis patribus constitutum, sanctam synodum in Valentina ecclesia celebrantes, sacra approbante synodo statuimus quod constitutiones super uestibus rotundis et super ludo taxillorum, iam edite, ab uniuersis obseruentur.</p>
+                    <p>Item, quia per frequentes clamores, tam clericorum quam laicorum ad nostras aures peruenit quod clerici, sue honestatis et ecclesiastice simplicitatis obliti, arma portant diuersorum generum, et signanter costalarios et gladios maiores quam laici, propter quod tam in clero quam in populo magnum scandalum generatur, sacra approbante synodo statuimus quod de cetero non portent de die nec de nocte costalarios neque cultellos ultra midam in foro constitutam, nec etiam alia arma.</p>
+                    <p>Permittimus tamen quod in itinere constituti portent ensem penatum uel Segouianum publice, que tamen, cum in quacumque fuerint uilla constituti, immediate cum fuerint in hospitio deponant.</p>
+                    <p>Quod si secus fuerit attemptatum, et arma perdant et penam quindecim solidorum de die, et uiginti de nocte, ipso facto incurrant, super hoc nullam misericordiam habituri.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) De armis non portandis Saracenis, et de monitione facienda manumissoribus non complentibus testamenta.</p>
+                    <p>Item, precipimus uniuersis clericis ciuitatis et aliis prope mare constitutis ut diebus dominicis et festiuis denuntient excommunicatos omnes illos, qui portant arma, ferrum et lignamina et alias res prohibitas Saracenis.</p>
+                    <p>Et etiam manumissores testamentorum qui non soluerunt iniurias et relicta ad pias causas, iuxta ordinationem per nos factam et in synodo promulgatam.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

@@ -1,0 +1,134 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Alcala</title>
+                <recordID>0649</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1325-11-11</origDate>
+                <dateNotes/>
+                <origPlace>Alcalá de Henares</origPlace>
+                <diocese>Toledo</diocese>
+                <province>Toledo</province>
+                <country>Spain</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 649</p>
+                <p>Year: 1325</p>
+                <p>Month: 11</p>
+                <p>Day: 11</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Alcalá de Henares</p>
+                <p>Diocese: Toledo</p>
+                <p>Province: Toledo</p>
+                <p>CountryModern: Spain</p>
+                <p>Latitude: 40.466667</p>
+                <p>Longitude: -3.366667</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Juan de Aragón</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Synodicon Hispanum, X, 545-547</p>
+                <p>EditionOther: Sanchez Herrero, Concilios y sinodos Toledanos,189-90</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['Library Scan', 'Hard Copy Scan']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Prooemium [1].</p>
+                    <p>Reuerendus in Christo pater et dominus dominus Johannes, Dei gratia Toletanus archiepiscopus, iii. idus decembris, anno Domini millesimo ccc.xx. quinto, apud Alcalam, sue diocesis, in plena synodo ad hec specialiter conuocata, constitutiones edidit subsequentes.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) De uita et honestate clericorum [2].</p>
+                    <p>Cum statuta humana possint irreprehensibiliter ex causa seu temporis uarietate declarari seu in melius reformari, constitutionem quam in prima synodo edidimus, que incipit Si in sortem Dei electus [3], in qua decreuimus nullum promouendum de cetero haberi pro clerico nisi sui litteram promotoris haberet, sane intelligi uolumus ut tali alie legitime probationes non aufferantur quin sui clericatus titulum probare possit per testes uel alia legitima documenta.</p>
+                    <p>Quodque si in possessione clericalis tonsure repertus fuerit, in eadem, ut iuris est, debeat omnino tueri.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) De clericis coniugatis.</p>
+                    <p>Sane quia statuimus in eadem synodo ut nullus clericus coniugatus barbam seu comam nutriret, deauratos aut intalliatos sotulares, tunicam cordatam, capam aut alias uestes uirigatas uel partitas portaret, aut carnificum seu macellariorum officio publice uti presumeret, alioquin aliorum immunitate minime gauderet.</p>
+                    <p>Hoc presenti declaramus statuto, ut macellariorum seu carnificum utentes officio, antequam priuilegio clericali seu alia immunitate a speciali iure inducta careant, primo legitime moneantur, quam monitionem per archipresbyteros in suis archipresbyteratibus fieri uolumus et mandamus.</p>
+                    <p>Set quia alia constitutione decreuimus ut si coniugatus tonsuram propria auctoritate dimittens et [4] sine speciali licentia nostra resumeret, immunitate careret, de immunitate intelligi uolumus a priuilegio dumtaxat uel alio speciali iure inducta.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) De prebendis.</p>
+                    <p>Porro quia constitutio que incipit Cupientes [5] diuisiones beneficiorum, iuxta Turonense concilium, fieri prohibebat, in qua statuimus in fine quod si diuisa, etiam si prestimonialia forent, uacare contingeret, priora integrari deberent.</p>
+                    <p>Hanc integrationem intelligi uolumus de hiis que indebite fuere diuisa, quod prima facie presumitur, nisi aliter ostendatur, secus si a prima fundatione nominata sint media uel sub nomine alterius partis, uel alias auctoritate ordinarii de iure receperint sectionem, quia huiusmodi beneficia uim integrorum censentur habere.</p>
+                    <p>Quo ad prestimonialia uero, que dicuntur libera, nec ex hoc ulla utilitas ecclesiis afferretur, dictam integrationem similiter decernimus non extendi.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] In brackets</p>
+                    <p>[2] This and all other section titles in brackets</p>
+                    <p>[3] From Si in quotation marks</p>
+                    <p>[4] &lt;et&gt;</p>
+                    <p>[5] Cupientes in quotation marks</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

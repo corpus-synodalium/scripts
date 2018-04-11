@@ -1,0 +1,170 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ivrea</title>
+                <recordID>1827</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1328-04-19</origDate>
+                <dateNotes/>
+                <origPlace>Ivrea</origPlace>
+                <diocese>Ivrea</diocese>
+                <province>Milan</province>
+                <country>Italy</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 1827</p>
+                <p>Year: 1328</p>
+                <p>Month: 4</p>
+                <p>Day: 19</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Ivrea</p>
+                <p>Diocese: Ivrea</p>
+                <p>Province: Milan</p>
+                <p>CountryModern: Italy</p>
+                <p>Latitude: 45.466667</p>
+                <p>Longitude: 7.883333</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Palaino Avogadro di Casanova</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1326</p>
+                <p>RegnalEnd: 1346</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: ASDI, x/6, HM. 3240302</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Alfonsi, RIcerche sulle costituzioni sinodali del vescovado di Ivrea (secoli XI-XV), tesi di laurea, Universita' di Torino, Facolta' di Giurisprudenza, 1982. (Item 3, pp. 144-151)</p>
+                <p>EditionOther: Vignono, Visite pastorali, xxix-xxx (partial)</p>
+                <p>SourceNotes: parchment badly damaged and eaten by mice; copied by notary Guale da Flore sometime before 1337</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['Library Scan', 'Other']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: ['12 decrees, of which 10 were new', 'Inc. &quot;In nomine Domini Amen. Anno nativitatis...&quot;; Expl. &quot;nostro arbitrio auferenda.&quot;']</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>﻿Anno nativitatis eiusdem Millesimo [1] tricentessimo .XXVIII., interdictione .XI. die martis decima nona mensis aprilis.</p>
+                    <p>Presidentes curie regis ecclesiarum apostolicum excitat in... certia et doctrina per hoc inducentes et concitentes episcopalibus gubernaculis intendentes ut circa suorum subditorum curam et refformationem diligenter et solerter iniungimus... cordibus adunati et ut ruvine cadentium apponatur obstaculum ut prolapsi resipiscant abitus ad virtutes.</p>
+                    <p>Ea propter nos Paladinus Dei et apostolice sedis gratia, iporiensis episcopus... bres comodi subdictorum in hac presenti sinodo duximus promulgandas.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) In primis statuimus et ordinamus ac presenti decreto, sub excommunicationis pena precipimus et mandamus medicis... mitate laborantes vocari contigerit seu aliter accedere ipse seu ipsa prima dice ante omnia moneant et inducat, ut medicos adducet proprios animarum cum quibus de animarum salute ordinent... missum ad corporali medicine remedium salubrius procedatur.</p>
+                    <p>Si vero dicti infirmi moniti ut predicitur, hec facere recusaverint, seu in hoc negligentes extiterint vel remissi prefati medici... atus vel presumat nec eis per se vel per alium aliquod concilium publicum vel occultum impendant vel impendi faciant, et quod nullus alius ad sic obstinatum infirmum accedat post monitione primi medici donec per... quis autem medicorum huius nostre constitutionis, postquam per rectores ecclesiarum fuerint publicata, transgressor extiterit, ipsum decernimus ipso facto excommunicationis sententie subiacere.</p>
+                    <p>Quam publicationem precipimus... receptionem sub excommunicationis pena quam inhobedientes incurrere volumus eo ipso.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) Item statuimus et irrefragabiliter ordinamus quod illo tempore ab Ecclesia interdicti nuptias contraendi solempnitates nuptiales... nes cum solempnitates prohibitas in illis qui ante se carnali copula conioverunt attemptare presumat.</p>
+                    <p>Tempus autem illius interdicti ut magis ellucescat duximus declaramus: ab Adventu... usque ad octavam dominice resurretionis incluxive et a secunda feria rogationum incluxive usque ad octavam Pentecostes excluxive predicta fieri penitus inhibemus.</p>
+                    <p>Ipsos autem iugales et illos dumtaxat... tis excommunicationis vinculo innodamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) Item presenti decreto firmiter inhibemus ne aliquis tempore quadragesimali utatur cibo ne nise quadragesimali tempore consueto, non sumens carnes adipem vel pinguedinem vel omnia que habent originem ab istis descendentia; tempore vero ieiuniorum ab Ecclesia indictorum ut puta in vigiliis Apostolorum, exceptis dumtaxat Iohannis Evangeliste, Philippi et Iacobi, cum illius festivitas... celebretur; aliis autem ieuniis .IIII. temporum et in vigilia nativitatis Domini, beati Iohannis Baptiste, asuntionis gloriose Virginis, beati Laurentii, omnium Sanctorum, carnes vel lardum aut pinguia ab aliquo sumi suscepta di... contra hoc venire presumpserit comedendo, dando vel sumendo, ubicumque sit vel venerit, se noverint ex nunc prout ex tunc presentis auctoritate constitutionis anathematis mucrone percussum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>(4) Item statuimus quod quilibet vocatus personaliter accedere teneatur ad sinodum, et hanc constitutiones aliquo presentare nunc ad hoc per nos vel vicarium nostrum deputato integre teneatur sub pena nostro arbitrio auferenda.</p>
+                    <p>Prohibemus etiam quod nullus ad sinodum veniat nisi per nostrum vocatum; quamvis tamen non venerit, tempore Paschali cathedraticum solvatur pleniter sub excommunicationis pena.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) Item hac presente constitutione statuimus et irrefragabiliter ordinamus quod nemo habens beneficium quod residentiam exigat de iure, consuetudine vel statuto ultra unius mensis spatio ab ipso suo beneficio se absentare presumat sine nostra licentia speciali... fuerit, ipso facto excommunicationis vinculo sit astrictus.</p>
+                    <p>Et cum constet ecclesiam cathedralem esse matrem omnium ecclesiarum que in diocesi existere dignoscuntur et idcirco convenit maiori prerogativa gaudere, presenti constitutioni adiungandum duximus... fuerint residentes in aliis ecclesiis, suis omnibus residere et servire pro residentibus censeantur, dummodo illis ecclesiis faciant per idoneos servitores quos quidem servitore et ministros si se absentaverint vel...</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>(6) Item statuimus et presenti decreto inviolabiliter ordinamus quod quilibet prelatus, rector et sacerdos curatus, in sua ecclesia cuius curam gerit et coram populo publice in precipuis festivitatibus alta voce missam debeat celebrare... ligatur excommunicationis sit vinculo innodatus nisi per nos sit cum eo misericorditer dispensatum.</p>
+                    <p>Ab hac auctoritate constitutione nostra cassus necessitatis duximus excludendo.</p>
+                    <p>Et si istos cassus ultra una vel duas... quidem constitutione residentes et servientes in ecclesia cathedrali dummodo in aliis suis ecclesiis per ministros idoneos faciant congrue deserviri duximus excludendo et quoslibet beneficiatos ibidem pariter... inducto caputio vel aliquo velamento laicali utatur; si quis contra hoc fecerit, secundum nostrum arbitrium puniatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>(7) Item constitutionem concilii generalis omnis utriusque sexus de penitentiis et remissionibus servari monitionis omnibus statuimus ut quicumque ad usum discretionis pervenerit, omnia sua peccata et solus semel in anno confiteri teneatur suo proprio sacerdoti; si quis autem alicui alteri sacerdoti confessiones audire volenti de iure, statuto vel privilegio speciali sua peccata... dubitatio oriatur possit veritas declarari, suum proprium sacerdotes parrochialem teneatur super hoc reddere certiorem.</p>
+                    <p>Constitutionis autem nostre predicte temerarios violatores excommunicationis vinculo innodamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>(8) Item statuimus et salubriter ordinamus ut in festa inclitorum et gloriosorum Martirum Savini, Bessi, et Teguli, [2] patronorum nostrorum, in civitate et diocesis nostris fiat duplex festum et quibuslibet qui interfuerit officio .XL. dies de iniunctis seu penitenciis si vere penitentes fuerint et confessi in Domino misericorditer relaxamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>(9) ...dente prout ratio postulat moderari et transgressoribus ac contentoribus clavium ecclesie debitam inflingere ultionem ut quis Dei timor a malo non revocat, temporalis salutem pene choerceat severitas... excommunicationis sententiam per unius mensis spatium substinuerit animo indurato, si clericus fuerit XX primo, mensibus sequentibus autem X; si vero laicus, primo mense X, singulis autem sequentibus mensibus V solum imperralium pro contumacia sua... dicere volentes prout nobis competit obviare statuimus et presenti constitutione sancimus, quod nullus sacerdos duas missas in dia audeat celebrare nisi dumtaxat in casibus a iure expressis quos, propter ignorantiam et imperitiam... celebrare missas propter misticam rationem in aliis diebus in comunibus sequentibus: quilibet sacerdos duas missas et non ultra poterit celebrare pro funere tempore necessitatis quo casu unam de die et aliam pro funere ibi presente et nundum sepulto... rinorum etiam rompetarum pro infirmis ac sacramento eis eucharistie ministrando.</p>
+                    <p>Si quis autem in dampnationem anime sue contra hoc venire presumpserit, ipso facto excommunicationis vinculo se noverit subiacere.</p>
+                    <p>Caveat autem sacerdos cum ser... missam profusis inpediretur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>(10) Precipimus in virtute sancte obedientie, [3] universis curatis, sacerdotibus, prepositis et plebanis ut has nostras constitutiones novas populo solempniter ad minus quattuor in anno debeant publicare... precludatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>(11) In dominica enim quinquagesime, in die Cinerum has duas dumtaxat, de essu carnium et de primo populo, in missis suis debeant solempniter publicare.</p>
+                    <p>Item districte precipimus quod omnes abbates, priores, prepositi plebani et rectores [4], nostre civitatis et diocesis has nostras constitutiones infra duorum mensium spatium suscipiant de manu et sub signo Gnale de Flore nostri notarii, sub pena excommunicationis et alia nostro arbitrio auferenda.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] ed. Millio</p>
+                    <p>[2] From salubriter ordinamus in parentheses</p>
+                    <p>[3] Ed. obendientie</p>
+                    <p>[4] (priores, prepositi plebani et rectores)</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

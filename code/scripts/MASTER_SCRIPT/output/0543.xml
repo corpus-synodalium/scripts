@@ -1,0 +1,400 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pavia</title>
+                <recordID>0543</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1338</origDate>
+                <dateNotes/>
+                <origPlace>Pavia</origPlace>
+                <diocese>Pavia</diocese>
+                <province>Milan</province>
+                <country>Italy</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 543</p>
+                <p>Year: 1338</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Pavia</p>
+                <p>Diocese: Pavia</p>
+                <p>Province: Milan</p>
+                <p>CountryModern: Italy</p>
+                <p>Latitude: 45.183333</p>
+                <p>Longitude: 9.15</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Giovanni IV Fulgosi</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1328</p>
+                <p>RegnalEnd: 1342</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Concilia Papiensia, pp176-197</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: WebDownload</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>In Christi nomine amen.</p>
+                    <p>Nos Joannes Dei et apostolicae sedis gratia episcopus papiensis ad doctrinam sacerdotum et animarum salutem infrascriptas constitutiones facimus de consensu nostri capituli papiensis reservantes nobis et successoribus nostris potestatem, tam praesentibus constitutionibus, quam aliis editis per bonam memoriam domini Guidonis episcopi papiensis et aliorum praedecessorum nostrorum addendi, ipsas constitutiones mutandi, et corrigendi et super ipsis et ipsarum qualibet dispensandi, sedis apostolicae honore et reverentia semper salvis: ex infrascriptas vero constitutionibus nostris et praedecessorum nostrorum subditos nostros, ubi poena certa non ponitur, obligari volumus non ad poenam sed ad culpam.</p>
+                    <p>Quarum constitutionum tenor sequitur in haec verba videlicet:</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>(1) De scientia sacerdotum.</p>
+                    <p>Fratres carissimi et sacerdotes Domini, cooperatores officii nostri estis, nos quidem licet indigni cum caeteris episcopis locnm Aaron tenemus, vos et alii sacerdotes Eleazar et Ithamar; nos et episcopi omnes vice duodecim apostolorum fungimur, vos ad formam seu loco septuaginta discipulorum estis; nos pastores vestri sumus, vos commissae vobis plebis; nos summo pastori nostro domino Jesu Christo de vobis rationem reddituri sumus, vos vero de plebibus vobis commissis nobis.</p>
+                    <p>Vestram itaque fraternitatem hortamur in domino, sedulo monemus atque obsecramus ut, quae in his scriptis vobis pro vestra et populi salute suggerimus, fideliter memoriae commendare atque adimplere summopere studeatis.</p>
+                    <p>Ad officii igitur vobis commissi onus rite atque legitime peragendum, duo principaliter unicuique vestrum necessaria esse noscuntur.</p>
+                    <p>Prima est vita et conversatio irreprehensibilis.</p>
+                    <p>Secunda est scientia commendabilis, illa praecipue quae in quatuor consistit; primo in sacramentorum ecclesiasticorum administratione, secundo in sacramentorum cauta custodia et contrectatione, tertio in divinorum officiorum celebratione, quarto in ecclesiarum atque animarum regimine atque dispositione.</p>
+                    <p>Primo namque vobis conversatio vitae irreprehensibilis quoad vos et quoad alios necessaria est, quoniam nobis necessaria est vita vestra et aliis fama nostra; unde Dominus dicit in evangelio, luceat lux vestra coram hominibus, ut videant opera vestra bona et glorificent patrem vestrum qui in coelis est; alioquin secundum prophetam, si sacerdos qui unctus est peccaverit, quis orabit pro eo? [1] quasi dicat, nullus.</p>
+                    <p>Sacerdotes quidem bene loquendo et male agendo, Deum instruunt qualiter eos debeat condemnare, tot enim mortibus digni sunt, quot ad subditos perditionis exempla transmittunt.</p>
+                    <p>Ut igitur vita et conversatio vestra irreprehensibilis appareat et Caeteris luceat per exemplum, expedit ut sit intra et juxta ecclesiam habitatio vestra; nullus enim vestrum arma ad feriendum ferat, nisi vera et probabili causa mortis; nullus comam nutriat neque barbam, sed unusquisque coronam et tonsuram habeat congruentes, quas etiam conjugati clerici non bigami privilegio clericali gaudere volentes, publice portent; nullus canum vel avium jocis inserviat; nullus ebrietatibus, crapulis, ludis saecularibus, percussionibus et blasphemiis vacet; nullus spectaculis aliquibus, quae in nuptiis aut locis publicis fient, intersit, sed pompam populi et convivia publica fugiat, privata vero non tantum pudica sed sobria colat; unusquisque vestrum dolos et conjurations caveat, odium et aemulationes atque invidiam et altercationes fugiat; non vagis oculis, non effraeni lingua, aut petulanti fervidoque gestu incedat, sed pudorem et verecundiam mentis simplici habitu et incessu ostendat, se praebens senem moribus, operibus, et verbis; senioribus praebeat debitam reverentiam et obedientiam, neque ullo jactantiae studio se ipsum attollat; bonis operibus studeat et ab omnibus illicitis cor et linguam ac corpus, Domino ajuvante, conservet, omnis enim jactantia atque inordinatio ab omnibus est bonis moribus aliena; nullus in tabernam intret, nisi forte causa necessitatis in itinere constitutus; curam pauperum et aliarum miserabilium personarum habeat; viduis, orphanis et pupillis auxilium et consilium impendite et tam in his quam in aliis totius boni exempla praebete; ultimo scitote sacerdotis esse officium omnibus prodesse et nulli nocere.</p>
+                    <p>Secundo quoque vos convenit esse ornatos scientia ne illam vereamur audire propheticam sententiam: tu scientiam repulisti et ego te repellam ne sacerdotio fungaris mihi; [2] vilissimus quippe computandus est nisi praecellat scientia qui desiderat praeesse honore et secundum prophetam: labia sacerdotis custodient scientiam et legem ejus requirent, [3] scilicet subditi, de ore ejus; [4] ignorantia siquidem scripturarum in ministris ecclesiae ignorantia Christi est, unde scriptum est, ignorans ignorabitur et si caecus a caeco ducitur, ambo in foveam cadunt.</p>
+                    <p>Vobis enim datum est nosse mysterium Dei, caeteris in parabolis, [5] nec tunc debetis discere cum ex officio alios docere habeatis, imo petenti debetis de fide reddere rationem.</p>
+                    <p>Cum enim vos sitis lux mundi, si lumen quod in vobis est tenebrae fiant, tenebrae quantae erunt? [6]</p>
+                    <p>Praeterea cum sitis sal terrae, [7] idest sapientia mundi, si sal evanuerit in quo salietur? [8]</p>
+                    <p>Si quidem infatuatum fuerit ad nihilum valet ultra, nisi ut mittatur foras et conculcetur ab hominibus. [9]</p>
+                    <p>Sacerdotis enim manifesta cognitio veritas est circa quadruplicem scientiam; primo circa illam quae in sacramentorum ecclesiasticorum administratione consistit, quae sunt septem videlicet, baptismus, confirmatio, poenitentia, eucharistia, extrema unctio, ordo et matrimonium, de quibus aliqua sub compendio dicamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>(2) De baptismo.</p>
+                    <p>Baptismus est primum sacramentum, janua et fundamentum omnium sacramentorum, quo non recepto, nullum aliud sacramentum proficit ad salutem, per illum enim est ingressus ad Christum et ad alia sacramenta et ubi Christus non est ibi nullum boni operis superest aedificium et ubi sana fides non est justitia esse non potest, quoniam justus ex fide vivit. [10]</p>
+                    <p>Pro baptizandis infantibus praemium aut pretium accipere nolite vel etiam pro chrismate et ne propter vestri negligentiam, infans aliquis sine baptismo decedat, omnino cavete: unaquaeque basilica baptismalis fontes habeat lapideos, si potest habere, alioquin vas ligneum, ad hoc speciale: patrinos, ut filios suos spirituales symbolum et orationem dominicam doceant vel doceri faciant, bonisque moribus informent, admonete: plebes quoque vestras crebro docete, ut si infantuli nati propter mortis periculum imminentis presbytero ad baptizandum nequeant praesentari, a masculis astantibus vel illis deficientibus a foeminis baptizentur vel a patre vel a matre, ubi non possent per alium baptizari, in hoc enim casu parentes non peccant sed merentur: si vero pater malitiose proprium vel uxoris ex alio viro filium vel e converso baptizaverit, vel in catechismo tenuerit, seu in confirmatione, graviter peccat, secus si casu vel ignorantia hoc contingat.</p>
+                    <p>Baptismus etiam in mortis articulo ab haeretico vel schismatico secundum ecclesiae formam collatus valet ad salutem et frequenter plebibus vestris formam baptizandi, ut cum necessitatis articulus fuerit observent, insinuate, scilicet baptizans infantem, imposito prius nomine, producto crucis signo super aquam, ter in modum crucis immergat illum in aquam calidam vel frigidam dicens sic: A. vel B. ego te baptizo in nomiue Patris et Filii et Spiritus Sancti amen; et si litteras nescit baptizans vulgariter haec dicat; verumtamen, licet tantum semel immerserit et infanti nomen impositum non fuerit vel etiam, ego non dixerit, nihilominus infans erit baptizatus, dum tamen praemissa verba in mergendo dicantur; ubi vero tanta aquae copia vel vas aptum ad haec haberi non potest ut totaliter in aqua mergi non possit, cum scutella vel alio vase aliqua aquae quantitas super caput et corpus infantis dicendo praemissa verba fundatur.</p>
+                    <p>Porro ubi in articulo mortis vel necessitatis infans baptizatus a laico supervixerit, quamcitius fieri poterit, praesbytero praesentetur, qui si diligenti inquisitione, praemissam formam non esse servatam invenerit, illum juxta formam ecclesiae baptizet, si vero dubium sit, quod forte baptizans quibus verbis usus est baptizando non recordatur ad plenum, vel forte qui praesentes fuerunt ambo invicem discordent, tunc illum baptizet in nomine.</p>
+                    <p>Patris et Filii et Spiritus Sancti, his verbis, si baptizatus es non te rebaptizo, si baptizatus non es ego te baptizo in nomine Patris et Filii et Spiritus Sancti amen.</p>
+                    <p>Idemque observandum est ubicumque utrum aliquis baptizatus fuerit, dubitetur, quo casu unius testimonio credi potest, si vero sacerdoti constiterit infantem a laico fuisse juxta formam ecclesiae baptizatum, non rebaptizet, nec catechizet eum sed eum solum inungat in pectore et inter scapulas oleo benedicto, et in vertice chrismate, sine aliqua interrogatione dicendo omnia quae in tali unctione post baptismum dici solent.</p>
+                    <p>Duos vel tres tantum patrinos ad baptismum admittite; nullum religiosum vel excommunicatum aut qui non sit baptizatus admittite, ullum vero quantumcumque criminosum in patrinum evitare nolite.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>(3) De confirmatione.</p>
+                    <p>Confirmatio est secundum ecclesiasticum sacramentum a Christo institutum per quod apostolos confirmavit et per eos et eorum successores populos suos confirmandos esse instituit, et decrevit.</p>
+                    <p>In hoc sacramento, sicut in baptismo, compaternitas contrahitur impediens matrimonium contrahendum et dirimens jam contractum.</p>
+                    <p>Nullus potest bis confirmari, sicut nec bis baptizari.</p>
+                    <p>Nullus nisi ipse sit confirmatus alium ad confirmandum praesentet; nullus proprium filium vel filius patrem in confirmatione teneat; nullus plures teneat confirmandos nec plures unum solum teneant, ne oblivione temporis vel personarum multitudine peccandi occasio praebeatur.</p>
+                    <p>Nullus hoc sacramentum recipiat, nisi fuerit baptizatus et si adultus fuerit sua peccata prius confiteatur.</p>
+                    <p>In confirmatione nomina possint mutari: nemo sine hoc sacramento debet vitam finire, ideoque saepe dicatur laicis, ut dum episcopi tempore debito habebunt praesentiam, se faciant confirmari: hoc sacramentum etiam a non jejuniis potest recipi.</p>
+                    <p>Sane laico confirmato frons illius binda alba linea circumligetur, ne receus defluat chrisma aut deleatur, quae binda saltem tota illa die deportetur et tunc deposita ac (4) De poenitentia.</p>
+                    <p>Poenitentia est tertium sacramentum ecclesiasticum.</p>
+                    <p>Est autem poenitentia secundum Ambrosium praeterita mala plangere et plangendo iterum non committere.</p>
+                    <p>Debent autem esse tria in omni vera poenitentia: videlicet cordis contritio, oris confessio, et operis satisfactio, juxta posse, et etiam quartum, scilicet firmum propositum iterum non peecandi.</p>
+                    <p>Ne propter vestri desidiam quisque sine poenitentia decedat, diligenter cavete, quoniam secundum Julium Papam sacerdos poenitentiam negans, reus est animarum: caute itaque et discrete in poenitentiis imponendis vos habete, ne alios incaute solventes, vos ipsos periculose ligetis.</p>
+                    <p>Porro, juxta concilium generale, in confessionibus audiendis et poenitentiis imponendis, discretum esse oportet sacerdotem et cautum, ut more periti medici vinum et oleum infundat vulneribus sauciati, diligenter inquirens et peccatoris circumstantias et peccati, quibus prudenter intelligat quale eis debeat praebere consilium et cujusmodi remedium adhibere, diversis experimentis utendo ad sanandum aegrotum.</p>
+                    <p>Caveat autem omnino sacerdos, ne verbo aut signo, aut alio quovis modo pandat peccatorem aliquatenus et si prudentiori consilio indigerit, illud absque ulla expressione personae requirat caute, quoniam qui peccatum in poenitentiali judicio sibi detectum praesumpserit revelare, non solum a sacerdotali officio deponendus est, verum etiam ad agendum perpetuam poenitentiam in arctum monasterium detrudendus.</p>
+                    <p>Saue in absolutione poenitentis haec forma servetur, ut videlicet sacerdos imposita poenitentia confitenti et facta per eum confessione generali, dicendo Confiteor Deo etc. dicat sic: injungo tibi talem poenitentiam seu satisfactionem pro peccatis quae modo confessus es et concedo ut alia bona omnia quae feceris ad illorum peccatorum remissionem proficiant; deinde ponens manum snper caput ejus, sicut moris est, dicat sic: Indulgentiam et remissionem et absolutionem omnium peccatorum tuorum tribuat tibi omnipotens et misericors Deus: ego autem auctoritate Domini Nostri Jesu Christi et Ecclesiae suae sanctae ac beatorum Petri et Pauli Apostolorum ejus et officii mihi concessi, absolvo te ab his peccatis quae confessus es et ab aliis oblitis; demum praecipiat ei, si postmodum recordatus fuerit alicujus peccati quod non fuerit confessus, ut redeat ad eum et confiteatur illud.</p>
+                    <p>Nullus alieno sacerdoti sua peccata confiteatur, nec religiosis ordinum mendicantium, nisi in casibus in quibus de jure comuni est eis concessum absolvere, nisi prius a suo superiori petita licentia et obtenta, quam nullus requisitus dolose vel malitiose denegare praesumat.</p>
+                    <p>In quibusdam tamen casibus libere potest quis alieno sacerdoti confiteri, a suo superiori non petita licentia: primo si episcopus hoc specialiter delegaverit, secundo si peccans in alia parochia vult de peccato illo sacerdoti illius parochiae confiteri, tertio si suum domicilium ad aliam transtulerit parochiam, quarto quando quis est vagabundus, quinto si periculum mortis sibi immineret, nec habere posset proprium sacerdotem, quo casu alieno sacerdoti confiteri potest, laico et etiam mulieri.</p>
+                    <p>Confessiones mulierum sacerdos audiat non in loco occulto sed in loco patenti, quem quis videat, nec earum facies aspiciat, sed capucium ante oculos teneat, vel alio faciem avertat, et si forte quis in confessione hominis vel mulieris horribile peccatum audierit, non spuet, nec faciem torqueat aut signum aliquod faciat, per quod peccatorem deterreat vel rubore seu verecondia confundat, ita ut reliqua peccata timeat sibi revelare nominatim.</p>
+                    <p>Excommunicatum vel usurarium. manifestum nullus, nisi in mortis casu et articulo, ad poenitentiam admittat.</p>
+                    <p>Illud postremo adjicimus quod sacerdotes plebes sibi commissas frequenter ad confessionem et poenitentiam moneant et hortentur.</p>
+                    <p>Sacerdotes male ablata, a sibi confitentibus assignata, poenitentiario nostro assignare non differant ac etiam exhibere et nullatenus remittere praesumant; caveat insuper quilibet sacerdos qui confessionem audiet ne ab aliis qui sibi confitebuntur in infirmitate constitutis, donationes bonorum suorum, nisi forte ab iis, qui sibi aliqua consanguinitatis linea sunt conjuncti, vel nisi nomine ecclesiarum suarum, donationes hujusmodi recipiat, sed sacerdos injungens confitenti, quod aliquas missas faciat celebrari, non offerat se ad celebrandum eas, ne propter quaestum illas injungere videatur, cum sacerdos debeat esse benevolus et paratus peccatorem erigere et onus secum ferre, sed nec tacite vel expresse sacerdos aliquid exigat pro poenitentia quam injungit; si tamen confitens proprio motu sacerdoti aliquid offerre voluerit, sibi recipere minime prohibemus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>(5) De sacramento eucharistiae.</p>
+                    <p>Eucharistia est quartum ecclesiasticum sacramentum.</p>
+                    <p>Eucharistia autem graece, latine dator gratiae, vel bona gratia.</p>
+                    <p>Fratres utique charissimi corpus et sanguinem Domini nostri Jesu Christi cum reverentia et timore sumite, fideles cum manu propria communicate; laico et foeminae ad deferendum infirmis traddere nolite; in defectum tamen vestrum, si necessitas immineat, et etiam vobis impeditis legitime, de vestri licentia diaconis hoc liceat agere; semper in ecclesia eucharistiam paratam habete, quam saepe renovare studete; requisiti ad infirmos sine mora eucharistiam, ne sine comunione decedant, in decenti vase ferte et vel cum super pellatio albo vel habitu alio honesto, cum stola, lumine praecedente et cum campanella et cum velamine per vos ipsos, ut praemissum est, ferte et referte caule et manifeste ante pectus cum omni reverentia et honore, ut ex hoc fidelium devotio augeatur, dicendo septem salmos poenitentiales et quando corpus Domini fertur ad infirmum vel refertur, ut omnes fideles devote flexis genibus adorent, sedulo instruite.</p>
+                    <p>Nos autem omnibus vere poenitentibus et confessis illud eundo et redeundo reverenter et devote ac humiliter intra civitatem vel terras dioecesis papiensis associantibus, viginti dies, cum vero de nocte illud fieri contingat, omnibus tunc illud cum lumine associautibus XL. dies et si sine lumine solum XX. de injunctis sibi poenitentiis misericorditer in Domino relaxamus.</p>
+                    <p>Quoties vero fideles communicari contiuget, parochianos vestros diligenter monere studete, ne aliquis in mortali peccato existens communicare praesumat, alioquin judicium sibi manducat et bibit, [11] et si forte aliquis occultus peccator ad communionem publice accedere praesumpserit, eum seorsum et secrete diligenter admonete, ne communicare praesumat, donec vere contritus fuerit et confessus, qui si abstinere noluerit publice sibi communionem non denegetis; scriptum est enim, non prohibeat dispensator, id est sacerdos, pingues terrae idest peccatores mensam Domini manducare, idest communicare; sed exactorem moneat, timere et abstinere; si vero secrete communionem a vobis petierit eum omnino repellite, si autem peccatum ejus de quo uon est vere confessus, manifestum sit, debet sibi publice communio denegari, et etiam osculum crucis in Parasceve cum ab omnibus fidelibus generaliter adoratur.</p>
+                    <p>Hostiae de alio quam de puro et mundo grano frumenti non fiant nec aliquid misceatur in eis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>(6) De extrema unctione.</p>
+                    <p>Extrema unctio est quintum sacrameutum, de quo beatus Jacobus apostolus ait: Infirmatur quis in nobis? Inducat presbyteros Ecclesiae et orent ungentes eum oleo in nomine Domini etc. [12]</p>
+                    <p>Infirmos ergo visitate, et oleo infirmorum inungite: fideles, ubi generale interdictum non obsit, ad recipiendam unctionem extremam, per quam divina gratia augmentatur, et venialia peccata delentur, a quatuordecim annis supra diligenter admonete, quoties necesse fuerit aliquem in infirmitate jacentem extrema unctioue peruugi, recepta sanitate, ad opera quae primo agebat, libere redire valebit et ad reddendum debitum conjugale.</p>
+                    <p>Semel inunctus non est ulterius inungendus, uisi de hoc dubitaret: haec unctio per solum simplicem sacerdotem fieri potest; manus sacerdotis aegroti exterius inungatis, quia iu sui ordinatione interius per episcopum inunctae fuerunt; cum autem ab infirmo vocamini, celeriter ad ungendum aegrotum pergite, ne propter vestram pigritiam absque unctione decedat: infirmo inuncto convalescente loca inuncta laventur et aqua lotionis in ignem mittatur, secus autem si decedat aegrotus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>(7) De ordine.</p>
+                    <p>Ordo est sextum sacramentum.</p>
+                    <p>Est autem ordo quoddam signaculum sacrum quo ad ordinatum spiritualis potestas traditur, idest officium et character.</p>
+                    <p>Septem enim sunt ordines propter septiformem gratiam Sancti Spiritus, cujus ergo qui non sunt participes ad ecclesiasticos ordines indigne accedunt: illi in quibus diffusa est septiformis gratia Sancti Spiritus ad ecclesiasticos ordines accedant: in ipsis ordinibus promotos ampliorem gratiam recipere dubiam non existit.</p>
+                    <p>Ordines sunt isti, ordo ostiarii, lectoris, exorcistae, acolyti, subdiaconi, diaconi, et sacerdotis, quorum hic officia non duximus exprimenda.</p>
+                    <p>Omnes tamen clerici vocantur, inde et in sortem domini sunt assumpti et omnes spirituales dicuntur, per excellentiam tamen tres ultimi dicuntur sacri, ob sanctimoniam idest castitatis continentiam quam inducunt.</p>
+                    <p>Tales autem ad ministerium spirituale eligendi sunt clerici, qui digne possint dominica sacramenta tractare.</p>
+                    <p>Tales decet esse ministros Christi qui Spiritus Sancti gratia sint decori et quorum doctrina et conversationis forma eadem gratia in alios transfundatur, ne coelestes margaritae spiritualium verborum et officiorum divinorum sordidae vitae pedibus conculcentur; non est enim de hoc sacramento sicut de aliis.</p>
+                    <p>Caetera enim ad culpas lavandas dantur et licet ob culpam aliquando negentur, tamen non in perpetuum; hoc vero pro gravi culpa et pro infamia interdicitur; prae caeteris ordinibus sacerdotalis ordo magis digne dandus et accipiendus est.</p>
+                    <p>Caeteri ejus ordines dantur solum ratione accipientis et iste datur et propter recipientem et propter alios qui sacerdotis officio sunt participes; sacerdotes enim mediatores sunt inter Deum et hominem, dum praecepta Dei populo deferunt praedicando et vota populi Deo porrigunt supplicando.</p>
+                    <p>Et ideo tales debent existere ut Deo grati et hominibus sint accepti, mediator discors ab iis quos concordare tenetur, concordare non poterit.</p>
+                    <p>Posuerunt autem quidam novem ordines clericorum sicut novem sunt ordines angelorum, quorum primus est clericatus et ultimus episcopatus, communiter tamen dicuntur septem, ut praediximus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>(8) De matrimonio.</p>
+                    <p>Matrimonium est septimum sacramentum, circa quod scire debetis quod aliud sunt sponsalia et aliud matrimonium; sponsalia sunt futuri matrimonii repromissio, ut si aliquis dicat, promitto tibi quod contraham tecum matrimonium vel aequipollentia verba.</p>
+                    <p>Et si post hujusmodi sponsalia carnalis copula subsequatur est matrimonium, juris interpretatione, inter tales: matrimonium vero est maris et foeminae legitima conjunctio, quod per verba contrahitur consensum exprimentia de praesenti, ut si quis dicat: accipio te in meum, et ego accipio te in meam, vel aequipollentia verba.</p>
+                    <p>Aetas autem legitima ad matrimonium contrahendum in masculo quatuordecim annorum est, in foemina vero duodecim, anno completo.</p>
+                    <p>Matrimonia igitur clandestina fieri prohibete et ipsa ante minorem aetatem in ecclesia solemnizare nolite: solemnitatem et benedictionem certis anni temporibus facere nolite, scilicet inclusive a prima dominica adventus usque octavam epiphaniae et a septuagesima usque ad octavam paschae et a dominica ante rogationes usque ad proximam dominicam post pentecostem, in qua dominica potest licite fieri et etiam post usque ad adventum.</p>
+                    <p>Nullus sponsam fratris aut consanguinei in uxorem accipiat.</p>
+                    <p>Nullus aliquam de consanguinitate prioris sponsae et e converso, sibi matrimonialiter conjungat.</p>
+                    <p>Nullus usque ad quartum gradum inclusive consanguinitatis vel affinitatis matrimonium de facto contrahat vel se cum aliquibus in dictis gradibus conjunctis carnaliter commisceat ex parte Dei omnipotentis et suae ecclesiae sanctae; eos qui religionem intrare vel castitatem servare voluerint, matrimonium contrahere prohibete: nullum matrimonium contrahere cum illa quam pater ejus baptizavit aut in baptismo vel confirmatione tenuit, permittite: tamen omnes filii et filiae duorum compatrum vel commatrum sive ante compaternitatem sive post geniti fuerint possint matrimonialiter copulari, illa tamen persona excepta, per quam compaternitas est contracta, quoniam illi alicui filiorum sui compatris vel commatris matrimonialiter copulari non possunt.</p>
+                    <p>Nullum cum commatre vel filia spirituali matrimonium contrahere sinite, nam et matrimonium tale coutractum dirimitur: in baptismo vel confirmatione filium uxoris suae vel proprium filium suum vel e converso quis non teneat, nam ex hoc peccat mortaliter, et propter hoc matrimonium non separatur; mulier absente viro vel vir uxore absente, nisi certi sint quod alter eorum mortui sunt, matrimonium non contrahant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>(9) De sacramentorum custodia.</p>
+                    <p>Secundo quoque vos convenit illa scientia ornari, quae in sacrarum rerum cauta custodia et contrectatione consistit.</p>
+                    <p>Nullam ergo foeminam ad altare accedere permittite vel res sacras aliqualiter tangere; altare mundis tobaleis cooperite, quae cum vestibus sacerdotalibus saltem bis in anno laventur; super altare nihil, nisi cassas cum reliquiis Sanctorum, cruces et evangelia, candelabra et pyxidem cum corpore Domini tenere nolite; libros ecclesiasticos sufficientes habete; vasa sacra propriis manibus abluite et abstergite; in unaquaque ecclesia sit locus juxta altare paratus ubi aqua fundatur quando sacra vasa abluuntur, vel manus post sacram communionem lavantur; ecclesiae sint bene coopertae et mundae et earum atria undique bene ordiuata et decenter custodita: vasa et ministeria altaris, utpote corporalia et vestimenta et ornamenta ecclesiae, quoties expedierit, laventur ac munda serventur, indecens est enim sordes in sacris negligere, quae dedecent in prophanis.</p>
+                    <p>Corporalia a sacerdotibus vel diaconis tantum laventur; calices, corporalia, planetas, stolas, et amictos, et hujusmodi benedici oportet per episcopum et etiam consecrari, et illa quae consecrata sunt non debent per laicos contrectari, et si corporalia essent usu consumpta, tunc comburantur et cineres projiciantur in sacrario.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>(10) De divinorum officiorum celebratione.</p>
+                    <p>Tertio illa scientia ornatos vos esse convenit, quae in divinorum officiorum celebratione consistit.</p>
+                    <p>Omni ergo nocte ad matutinum surgite, horas canonicas horis competentibus devote dicite, missarum celebrationes cum timore et reverentia peragite, undecim praefationes in ipsis missis, prout ipsis conveniet, dicite.</p>
+                    <p>Prima est de sancta Trinitate; secunda de Christi nativitate; tertia est de Epiphania; quarta de jejuniis Quadragesimae; quinta de Cruce; sexta de Resurrectione; septima de Ascensione; octava de Pentecoste, seu de Spiritu Sancto; nona de Apostolis, decima de Beata Virgine Maria, undecima Communis.</p>
+                    <p>Sciant diaconi et subdiaconi ad dicendas canonicas horas se teneri; nullus qui non communicet missam dicat, nullus plures missas sub uno canone, vel cum uno sacrificio, vel unam reiterato canone vel sacrificio celebrare praesumat, quamvis sub uno canone possint plures hostiae consecrari.</p>
+                    <p>Nullus plures missas in uno die celebret, nisi in festo nativitatis Domini et in aliis casibus a jure concessis, et tunc nonnisi in ultima vinum et aquam perfusionis sumat, nam post talem sumptionem jejunus non est.</p>
+                    <p>Nullus in magnis et populosis locis, missas, quae non sint de die illa, populo dicat, dimissa propria missa illius diei.</p>
+                    <p>Nullus sacerdos solus missam dicat, sed unusquisque clericum habeat, qui sibi in missa respondeat, et omni die dominica aquam henedicite, altaria et plebes vestras ipsa aspergite, ad quod solum agendum speciale vas decens habete; orationes missarum, praefationes et canonem bene intelligite vel saltem distincte et memoriter scire proferre studete, plebibus vobis commissis de evangelio, vel epistola vel alia scriptura sancta dominicis diebus et festivis praedicare, vel praedicari facere curate.</p>
+                    <p>Evangelium vel epistolam bene legere et populo saltem ad litteram exponere, scire studete.</p>
+                    <p>Symbolum Athanasii, cujus initium est Quicumque vult, et Credo in Deum Patrem, septem psalmos poenitenliales mentetenus scire studete; ordinem benedicendi aquam, baptizandi, communicandi, infirmos ungendi, exequias mortuorum agendi diligenter scitote.</p>
+                    <p>Nullus clericus, nisi sacerdos fuerit vel diaconus, baptizet aut aquam benedicat, vel mortuorum exequias faciat.</p>
+                    <p>Nullus prius, nisi auditis vel dictis matutino et prima, missam dicat, nec ante auroram; nullus post sumptum cibum, vel potura quantumcumque minimum, missam audeat celebrare; nullus nisi in nocte dormierit, et digestione celebrata, missam mane celebrare praesumat, quoniam non intelligitur esse jejunus; nemo in peccato mortali constitutus celebrare missam praesumat, sed prius confiteatur, si invenerit sacerdotem et si invenire non posset, non celebret, nisi forte urgens necessitas immineat, quae sine gravi scandalo nequeat praeteriri et adsit contritio et propositum celeriter confitendi.</p>
+                    <p>Quia vero missa est officium, quod inter caetera divina officia excellentius est, merito devotionis et cautelae studio convenit celebrari, circa quod tam in agendis quam in dicendis a multis erratur incaute: idcirco studeant sacerdotes missam secundum ritum debitum et solitum romanae ecclesiae morem per omnia celebrare, quos si reperti fuerint contra illud incaute et minus provide agere, graviter puniemus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>(11) De animarum atque ecclesiarum regimine.</p>
+                    <p>Quartum est: illa scientia ornatos vos esse oportet, quae in animarum atque ecclesiarum regimine atque dispositione consistit.</p>
+                    <p>Nullus itaque, propria ecclesia dimissa, ad aliam quaestus gratia migret, nullus per potentiam saecularem ecclesiam teneat.</p>
+                    <p>Adulteros manifestos et concubinarios, ut se emendent, admonete, quod si contempserint, nobis vel vicario nostro eos denunciare curate.</p>
+                    <p>Praetextu cujuscumque consuetudinis sacrum chrisma vendere vel pro baptizandis infantibus vel pro reconciliandis peccatoribus vel infirmis vel pro testimonio poenitentiae ferendo aut pro mortuis sepeliendis aut benedictionibus nubentium seu pro quibuscumque aliis ecclesiasticis sacramentis pretium aut praemium vel promissionem exigere vel usurpare nolite, sed gratis et liberaliter hujusmodi sacramenta praebete, attendentes quod scriptum est, gratis accepistis, gratis date: [13] post factum tamen cum gratiarum actione potestis accipere quod sponte a fidelibus offeretur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>(12) De sepulturis.</p>
+                    <p>Licet unusquisque qui certam non eligit sepulturam cum suis parentibus sit sepeliendus de jure, liberum tamen est cuilibet ubicumque voluerit, discretione praevia, eligere sepulturam, ita dumtaxat quod de iis quae legaverit illi ecclesiae in qua elegerit sepulturam, et de aliis, quae occasione sepulturae illius ad illam pervenerint, habeat parochialis ecclesia canonicam portionem.</p>
+                    <p>Nullus autem religiosus vel clericus saecularis pactum faciat cum laico in sanitate vel infirmitate constituto, neque aliquem vel aliquos ad vovendum, jurandum, vel fide interposita vel blanditiis aut precibus allioiat vel inducat, ut apud suam ecclesiam aut in suo coemeterio eligat sepulturam vel jam electam ulterius non mutet, scituri quod si secus actum fuerit, non tantum electio hujusmodi sepulturae, imo et corpus et quidquid occasione sepulturae ipsius perceptum fuerit, integre ecclesiae parochiali restitui et reddi debeat de jure.</p>
+                    <p>Nullus ergo parochianum alterius, in suo coemeterio sepeliat, nisi ibi elegerit sepulturam, nisi forte peregrinus de remotis partibus fuerit, qui ubicumque decesserit, sepeliatur, nisi sibi elegerit sepulturam.</p>
+                    <p>Porro defuncti sepultura apud ecclesiam alienam electa, eligentis corpus non sumatur de parochia sua, donec sacerdoti suo vel ejus superiori fuerit de electione hujusmodi facta fides et ipsa ecclesia in cujus paroehia est, canonica portione non fraudetur, prius cautione habita de solvendo.</p>
+                    <p>Declaramus autem patrem filie minori quatuordecim annis eligere non posse extra ecclesiam suam parochialem sepulturam.</p>
+                    <p>Sane si mulier, constante matrimonio vel soluto, sine electione sepulturae obierit, in coemeterio ecclesiae parochialis et in sepulchro viri praemortui, si sepultus ibi fuerit, tumuletur: potest tamen ubi voluerit eligere sepulturam.</p>
+                    <p>Laicos intra ecclesiam sepeliri absque nostra licentia prohibemus.</p>
+                    <p>Debent autem denegari ecclesiastica sacramenta haereticis, paganis, judaeis, gentilibus et omnibus extra fidem catholicam constitutis, nec non excommunicatis majori excommunicatione et interdictis, atque illis qui in torniamentis moriuntur, et insuper usurariis, praedonibus, raptoribus manifestis, nisi poenituerint, vel usuras seu rapinas restituerint vel de restituendis securitatem praestiterint, secundum formam juris.</p>
+                    <p>Si vero praedicti non habuerint in facultatibus mortis suae tempore unde restituere possint, non debent quidem usurarii praedicta poena mulctari.</p>
+                    <p>Raptoribus ideo qui in sanitate non poenituerint vel emendaverint et in morte securitatem praestare nequiverint, coemeterium non negetur: nullus tamen clericorum illius sepulturae intersit: item illis qui se suspenderint vel praecipitaverint vel gladio peremerint, nisi in morte signa poenitentiae in eis apparuerint manifesta: item illis qui saltem semel in anno omnia sua peccata proprio sacerdoti non fuerint confessi, vel alii de proprii sacerdotis licentia: item blasphemo Dei et Sanctorum ejus renuenti recipere et agere poenitentiam a canone promulgatam et generaliter omnibus quos constat in manifesto peccato mortali decessisse.</p>
+                    <p>Ad probandum aliquem poenitentiam accepisse unius testimonium sufficit.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>(13) De decimis.</p>
+                    <p>Cum juxta concilium viennense audientes confessiones teneantur sibi condientibus de decimis solvendis ecclesiis, quibus debentor, facere conscientiam et ipsos inducere ad decimas solvendas; praecipimus omnibus confessoribus, ut nullum absolvant, nisi eis dictam conscientiam fecerint, ut tenentur, vel de illis se concordent cum illis quibus decimae sunt solvendae.</p>
+                    <p>Insuper auctoritate apostolica praedicare debentibus sub interminatione maledictionis aeternae injungimus, ut saltem infrascriptis diebus in suis praedicationibus et sermonibus debeant populo ibidem congregato publice praedicare et dicere omnes teneri ad decimas solvendas praediales, videlicet illi ecclesiae baptismali vel parochiali, secundum consuetudinem in cujus territorio praedia sunt sita, si ipsa ecclesia curam habeat animarum, et personales illi ecclesiae, a qua ecclesiastica recipiunt sacramenta.</p>
+                    <p>Dies autem praedicti sunt hi; dominica prima, quarta et ultima quadragesimae, in festis Ascensionis Domini, Pentecostes, nativitatis beati Joannis Baptistae, Assumptionis et Nativitatis Beatissimae Virginis Mariae Matris Domini Nostri Jesu Christi. Amen.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>(14) De censuris ecclesiasticis.</p>
+                    <p>Circa censuram ecclesiasticam est sciendum, quod excommunicatio nomen generale est continens sub se suspensionem, et interdictum; excommunicatio autem est duplex scilicet major et minor, major excommunicatio est cum praelatus dicit: excommunico te vel te noveris esse excommunicatum: haec sententia separat excommunicatum a communione fidelium et partecipatione sacramentorum et ab ingressu ecclesiae, sed nec juxta ecclesiam stare debet excommunicatus cum divina officia celebrantur.</p>
+                    <p>Minor vero excommunicatio contrahitur, cum quis scienter excommunicato excommunicatione majori participat, et haec removet a perceptione et administratione sacramentorum, imo sic ligatus caute agit, si non dicit officium cum aliis clericis in ecclesia, donec fuerit absolutus; presbyter tamen sic ligatas celebrans nullam irregularitatem incurrit, licet peccet mortaliter; sacramenta ab eo collata obtinent suum robur: clericus sciens se esse excommunicatum, suspensum vel interdictum ante absolutionem divina officia celebrans in ecclesia sicut prius in suo officio dicendo vel aliqualiter immiscendo alicui ordini vel officio deputato irregularitatem incurrit, super qua secum dispensare non potest nisi summus Pontifex.</p>
+                    <p>Item sciendum est, quod si aliquis clericus aliquem interdictum vel excommunicatum admittit ad divinum officium, quod clerico admittenti est interdictus ingressus ecclesiae, quo interdicto durante si celebrat in ecclesia sicut prius, irregularis efficitur, cum quo etiam summus Pontifex dispensabit: clericus tamen excommunicatus et etiam depositus tenetur extra ecclesiam submissa voce ad dicendum boras canonicas.</p>
+                    <p>Interdictum est cum praelatus dicit alicui: interdico te vel suppono te ecclesiastico interdicto; aliquando interdicitur certa persona, et tunc persona interdicta tenetur ad omnia quae tenetur excommunicatus, sed non est.evitanda nisi in collegio et in divinis officiis: aliquando interdicitur locus singularis, ut est una ecclesia, et tunc in ipsa ecclesia vel coemeterio non debent dici divina officia nec publice nec occulte nec fidelium eorpora ibidem sunt sepelienda, et ibi celebrans irregularis efficitur; aliquando interdicitur locus universalis, ut est regnum, provincia, civitas, castrum, vel villa, et tunc laici omnes nominatim intelligantur interdicti, sed clerici non, nisi in sententia interdicti sint expressi.</p>
+                    <p>Celebrans publice in loco interdicto vel admittens laicos ad divina, irregularitatem incurrit.</p>
+                    <p>Interdicto generali durante, in ecclesia sicut prius, januis clausis, campanis non pulsatis, excommunicatis et interdictis exclusis, divina officia celebrentur: in nativitate Domini, in sancto Pascha, Pentecoste et in Assumptione Virginis Gloriosae, excommunicatis exclusis, interdictis admissis, januis apertis, campanis pulsatis, divina possunt officia celebrari competentia illi diei et non alia.</p>
+                    <p>Tempore interdicti, aliqua ecclesiastica sacramenta debent ministrari, videlicet baptismus, confirmatio in fronte, quae fit in baptismo per simplicem sacerdotem, poenitentia, viaticum tempore mortis, extrema unctio: interdictis denegatur ecclesiastica sepultura.</p>
+                    <p>Sententia suspensionis est quando praelatus dicit, suspendo te ab officio vel te noveris esse suspensum: iste potest celebrare in ecclesia, excepta missa, omnia divina officia, conferre ecclesiastica sacramenta, ordinibus solum exceptis.</p>
+                    <p>Praedictae sententiae tolli debent per illum, qui illas tulit, et cum aliquis erit absolvendus ab excommunicatione majori, jurabit ante omnia de parendo mandatis ecclesiae et excommunicatoris et genibus flexis ante excommunicatorem vel illum cui excommunicator commiserit absolvendum, absolvens teneat virgam in manu cum quo dicendo unum de psalmis poenitentialibus cum Gloria Patri percutiat absolvendum; postea dicat [14] Kyrie eleison, Pater noster, Salvum fac servum tuum, Deus meus sperantem in te, Nihil proficiat inimicus in eo; Et filius iniquitatis non apponat nocere ei; Esto ei Domine turris fortitudinis, A facie inimici, Domine exaudi orationem meam, Et clamor meus ad te veniat; Dominus vobiscum, Et cum spiritu tuo.</p>
+                    <p>Oremus, Deus cui proprium est misereri semper et parcere, suscipe deprecationem nostram et hunc famulum tuum, quem excommunicationis catena constringit, miseratio tuae pietatis absolvat; per Christum Dominum nostrum, Amen.</p>
+                    <p>Postea absolvat eum dicens: auctoritate Dei omnipotentis, beatorum Petri et Pauli apostolorum ejus et ecclesiae suae sanctae, et auctoritate qua fungor, absolvo te a vinculo excommunicationis qua ex tali causa ligatus eras et restituo te communioni fidelium et ecclesiasticis sacramentis.</p>
+                    <p>In nomine Patris et Filii et Spiritus Sancti. Amen.</p>
+                    <p>Absolvens vero a minori excommunicatione, dicat simpliciter: absolvo te a participatione excommunicatorum.</p>
+                    <p>In nomine Patris et Filii et Spiritus Sancti. Amen. [15]</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>(15) De synodo celebranda.</p>
+                    <p>Statuimus etiam et ordinamus quod, feria quarta post festum beati Lucae evangelistae, omnes clerici saeculares et regulares civitatis et dioecesis papiensis de quatriennio in quatriennium conveniant in nostra ecclesia papiensi pro synodo celebranda, nulla alia citatione praemissa; si quivero contempserint, legitimo impedimento cessante, ipsos in decem libras papienses condemnamus applicandas camerae fabricae nostrae ecclesiae, quas nisi solverint infra octo dies post dictam quartam feriam, ipsos in his scriptis excommunicationis vinculo innodamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>(16) De monitione facienda per praesbyteros de ecclesiasticis sacramentis recipiendis a propriis sacerdotibus.</p>
+                    <p>Animarum periculis occurrere cupientes, ipsorumque saluti in quantum possumus providere, statuimus et firmamus quod ecclesiarum praelati et rectores circa principium quadragesimae et ter aliis temporibus anni, coram multitudine populi generaliter ex parte Dei omnipotentis et nostra, moneant et indncant parochianos suos ut saltem diebus dominicis visitent parochiales ecclesias et quod propriis sacerdotibus semel in anno confiteantur, denunciantes eisdem, quod nisi confitebuntur semel in anno, morientes carere debent ecclesiastica sepultura.</p>
+                    <p>Notificent etiam parochianis suis, quod a religiosis ecclesiastica sacramenta, excepta poenitentia, ubi eis a jure potestas conceditur absolvendi, non recipiant, cum ipsi religiosi dicta sacramenta administrantes juxta concilium viennense sint excommunicati et recipientes gravissime peccent.</p>
+                </div>
+                <div>
+                    <head>Capitulum 17</head>
+                    <p>(17) De casibus poenitentialibus.</p>
+                    <p>Quia, per constitutionem bonae memoriae domini fratris Latini ostiensis et ve- litrensis episcopi olim apostolicae sedis legati, praelati pontificali dignitate praediti casus graviores, pro quibus poenitentes tenentur ad ipsos remitti, debent in suis synodis facere declarari, ut omnes inferiores praelati et presbyteri non ignorent; idcirco ipsos duximus adnotandos.</p>
+                    <p>Imprimis excommunicati quacumque excommunicatione majori lata ab homine vel a jure.</p>
+                    <p>Confessi se credidisse haereticam pravitatem vel haereticis adhaesisse, aut cum eis participasse.</p>
+                    <p>Scienter reordinati.</p>
+                    <p>Coeuntes cum brutis.</p>
+                    <p>Incestuosi in tertio vel proximiori gradu consanguinitatis vel affinitatis.</p>
+                    <p>Coeuntes cum moniali virgine, vel non virgine.</p>
+                    <p>Cognoscentes consanguineas uxoris suae, et mulieres cognitae a consanguineis viri.</p>
+                    <p>Contrahentes matrimonium de facto cum alia, uxore propria vivente.</p>
+                    <p>Intrantes religionem vel sacrum ordinem suscipientes, invita uxore, post carnalem copulam subsecutam.</p>
+                    <p>Conjuges qui in morte alterius ipsorum sunt effectualiter machinati.</p>
+                    <p>Mulieres concipientes filios er aliis quam maritis suis, quos mariti suos esse credentes pro filiis habent et nutriunt.</p>
+                    <p>Item baptizantes filios proprios vel etiam uxoris ex alio viro, et e converso, praeter quam in necessitatis articulo: et similiter hujusmodi filios in catechismo, vel confirmatione tenentes.</p>
+                    <p>Defloratores virginum vi oppressarum vel raptarum.</p>
+                    <p>Opprimentes seu perimentes prolem propriam studiose vel negligenter, ante partum vel post.</p>
+                    <p>Procurantes in se vel aliis sterilitatem quamlibet vel abortum.</p>
+                    <p>Homicidia facto, praecepto, consilio, consensu, exhortatione, vel quovis alio modo committentes.</p>
+                    <p>Votorum quorumcumque permutationem vel dispensationejn postulantes.</p>
+                    <p>Ii quibus per quodcumque crimen sit solemnis poenitentia injungenda.</p>
+                    <p>Simoniaci quocumque genere simoniae, praeterquam mentali.</p>
+                    <p>Decimas et ecclesiastica beneficia modocumque illicite detinentes.</p>
+                    <p>Usurarum subtractarum et aliorum male oblatorum, seu illicite acquisitorum restitutioni obnoxii.</p>
+                    <p>Incendiprii et notorii depopulatores agrorum aut famosi latrones, qui in itineribus publice insidiantur et spoliant.</p>
+                    <p>Polluentes ecclesiam manifeste consecratam sanguinis vel seminis effusione, et in ea sacrilegium vel rapinam committentes, et omnes ecclesiae vel coemeterii, et immunitatis vel libertatis ecclesiasticae violatores.</p>
+                    <p>Item excommunicati a canone, et irregulares in eo casu, in quo episcopi absolvere et dispensare possunt.</p>
+                    <p>Tonsurati vel ordinati per alium quam per proprium episcopum absque licentia.</p>
+                    <p>Item promoti, aliquo ordine praetermisso, etiam furtive.</p>
+                    <p>Item excommunicati, suspensi, vel interdicti, missam scienter celebrantes, vel officium suum sicut prius agentes.</p>
+                    <p>Excommunicati vel interdicti, qui ordinem vel beneficium susceperunt.</p>
+                    <p>Sacerdotes peccatum in poenitentiali judicio sibi detectum revelantes.</p>
+                    <p>Celebrantes scienter in parochia seu in ecclesia interdicta vel in altari non consecrato, vel sine sacris indumentis, aut non ordinati in presbyterum missam celebrantes, et non ordinati in diaconum solemniter et publice in ecclesia evangelium legentes, et non ordinati in subdiaconum solemniter cum indumentis subdiaconi epistolam in missarum solemniis legentes.</p>
+                    <p>Sacerdotes vel ministri quorum facto aliquid inhonestum circa sacramenta altaris evenerit.</p>
+                    <p>Sacerdotes et clerici notorii fornicatores et publici concubinarii.</p>
+                    <p>Clerici in sacris ordinibus constituti, jurantes tactis sacrosanctis scripturis, pejerantes.</p>
+                    <p>Item clerici et laici scienter corpus excommunicati in ecclesia vel coemeterio sepelientes.</p>
+                    <p>Abutentes quomodolibet hostia, chrismate, vel alia re sacra.</p>
+                    <p>Sacrilegi, divini, malefici, incantatores, augures, aruspices, et daemones invocantes.</p>
+                    <p>Sortilegia et caetera hujusmodi diabolica exercentes.</p>
+                    <p>Item falsi testes, item fabricantes et fabricari facientes falsas litteras, vel instrumenta, item eis utentes in judicio sive extra scienter.</p>
+                    <p>Blasphemi publici in Deum et Sanctos ejus.</p>
+                    <p>Item filii et filiae patri vel matri enormes injurias irrogantes.</p>
+                    <p>Item falsantes vel falsari facientes aliquam monetam et ipsam scienter expendentes, et transgressores constitutionum nostrarum.</p>
+                    <p>Hi omnes remittantur ad nos, vel ad archipresbyterum nostrae majoris ecclesiae poenitentiarium nostrum.</p>
+                    <p>Insuper nobis vel poenitentiario nostro reservamus absolutionem omnium monialium et religiosarum mulierum, et etiam omnium ecclesiarum praelatorum, et rectorum nobis immediate subjectorum.</p>
+                    <p>Sacerdotes vero et confessores in praedictis casibus absolventes, si religiosi fuerint, ab audientia confessionum sint eo ipso suspensi, si saeculares sacerdotes fuerint, in centum solidos papienses condemnamus.</p>
+                    <p>Sacerdotes vel confessores mutandi vel mitigandi seu interpretandi injunctas a nobis vel poenitentiario nostro poeniteutias facultatem sibi noverint interdictam; vicarium vero nostrum praesenti constitutione volumus non arctari.</p>
+                    <p>Ceterum si committens aliquod de praedictis criminibus a confessore suo monitus et inductus ad nos vel ad poenitentiarium nostrum venire noluerit, si peccatum suum fuerit occultum, confessor praedictus a nobis vel vicario nostro seu poenitentiario nostro dicti casus exposcat consilium, quamprimum nostri vel praedictorum commode poterit adire praesentiam; si vero delictum fuerit manifestum ad nos vel poenitentiarium nostrum perocius venire cogatur, nisi in mortis articulo fuerit constitutus vel forte adeo senex vel alias morbo perpetuo impeditus, quo casu, confessor inquirat nostrum consilium seu vicarii nostri, aut poenitentiarii generalis.</p>
+                    <p>Omuem vero potestatem, licentiam et auctoritatem per nos vel praedecessores nostros, vel vicarios nostros concessas hactenus quibuscumque clericis saecularibus vel religiosis super absolutione in casibus poenitentialibus nobis reservatis, totaliter revocamus.</p>
+                    <p>Item quia praecipit Bonifaciana Constitutio publicata et approbata per dominum Clementem quintum in concilio viennensi, debere praesentari dioecesano aliquos fratres ordinum mendicantium, per ipsorum praelatos, dictis praelatis praecipimus auctoritate constitutionis praedictae, quod nobis vel vicario nostro suos fratres, quos eligunt ad confessiones audiendas, praesentare procurent usque ad octo dies immediate sequentes, qualibet alia praesentatione, si facta per eos diceretur, in aliquo non obstante; quibus religiosis absolvendi et confessiones audiendi potestatem ante dictam praesentationem sibi noverint interdictam et audientes se ipsos decipiunt et confitentium animas, quas solvere nequeunt vel ligare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18</head>
+                    <p>(18) De executoribus et fideicommissariis ultimarum voluntatum.</p>
+                    <p>Cum nihil sit, quod magis hominibus debeatur quam ut ipsorum supremae voluntates effectui demandentur, praesenti constitutione monemus, requirimus et hortamur haeredes quorumcumque defunctorum, fideicommissarios, et executores ultimarum voluntatum, praecipientes eisdem et cuilibet eorum sub interminatione maledictionis aeternae, ut defunctorum voluntates exequi debeant et complere infra annum continuum a morte testatoris incipientem; quod si praedicti haeredes, fideicommissarii, vel executores praedicta neglexerint adimplere, fideicommissarios et executores praedictos privamus omni potestate, auctoritate, et balia competentibus eis quoquomodo pro executione et fideicommissaria praedictis.</p>
+                    <p>Insuper quia, juxta formam concilii viennensis, tenemur a quibuscumque fideicommissariis, et deputatis ad executionem cujuslibet ultimae voluntatis, et etiam religiosis, quocumque exemptionis privilegio non obstante, nobis reddi facere rationem de gestis et administratis per eos in executione ultimae voluntatis, praedictos executores, et fideicommissarios auctoritate dicti concilii monemus, requirimus et citamus sub excommunicationis poena eis et cuilibet eorum etiam injungentes, quod nobis vel vicario nostro, infra annum a morte testatoris incipientem, de administratione et gestis per eos super executione et fideicommissaria cujuslibet ultimae voluntatis, teneantur fideliter reddere rationem: alioquin, si clericus fuerit, ingressum ecclesiae sibi noverit interdictum; si laicus, excommunicationis vinculo innodamus.</p>
+                    <p>Nihilominus ipsos privamus omni administratione et executione ultimae voluntatis, nobis, ut praemittitur, reservantes easdem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 19</head>
+                    <p>(19) De praedicatoribus indulgentiarum et eleemosynarum quaestoribus.</p>
+                    <p>Abusionibus, quas nonnulli in suis proponunt praedicationibus, ut simplices decipiant et pecuniam et res alias subtili et fallaci ingenio extorqueant ab eisdem, cum in animarum cedant pericula et scandalum plurimorum, viam, ut est nobis possibile, praecludere cupientes, juxta statutum concilii generalis duximus ostendendum de indulgentiis, quae possunt licite annunciari fidelibus.</p>
+                    <p>Sciendum est igitur quod Sedes Apostolica de plenitudine potestatis omnium peccatorum potest remissionem libere indulgere omnibus vere poenitentibus et confessis, quam indulgentiam facere non cousuevit nisi in transitu generali ultramarino, et Romae in anno centesimo Jubilaeo, in aliis locis aliquando annos centum, sed rarissime, aliquando septem annos, et ista concessio per dictam sedem fit magis communiter, et aliquando centum dies.</p>
+                    <p>Legatus a latere sedis apostolicae unum annum et XL dies solitus est concedere, et non plures.</p>
+                    <p>Episcopi ultra XL dies concedere non possunt, praeterquam in die dedicationis ecclesiae, in quo unum annum possunt concedere, posito quod ibi essent mille episcopi; in anniversario dedicationis ecclesiae solummodo XL.</p>
+                    <p>Si quis vero majores indulgentias proposuerit, vel esse in ecclesiis suis dixerit, nisi sedis apostolicae licentia speciali, de qua, antequam publicetur, fidem legitime faciat cujuscumque status praeeminentiae et conditionis existat, ipsum in his scriptis auctoritate apostolica et nostra, excommunicationis sententia innodamus.</p>
+                    <p>Et quia quidam eleemosynarum quaestores multa falsa proponunt, universis ecclesiarum praelatis, ministris et clericis in virtute Sancti Spiritus et obedientiae praecipimus, ut nullos quaestores ad praedicandum in suis ecclesiis vel ad petendum eleemosynas in suis parochiis, et viciniis admittant vel admitti patiantur, nisi dicti quaestores nostras litteras habuerint pro petendis eleemosynis, et subsidiis charitatis.</p>
+                    <p>Et si quos quaestores reperierint nostris litteris non munitos, vel proponentes populo indulgentias motu proprio, vel qui se dicant habere potestatem dispensandi super votis, perjuriis, homicidiis, et absolvendi ab aliquibus peccatis seu remittendi male ablata incerta, data sibi aliqua quantitate, vel qui dicant se posse remittere et relaxare de injunctis poenitentiis tertiam vel quartam partem, seu si dicant, quod illorum parentum vel amicorum, quorum recipiunt eleemosynas, unam animam vel plures educere possunt de purgatorio et ad paradisi gaudia perducere, vel qui dicant benefactores suos a poena et a culpa absolvere, etiam si super haec litteras apostolicas ostenderent, ipsos capiant et teneant sub fida custodia, invocato ad haec, si opus fuerit, auctoritate nostra, auxilio brachii saecularis, ipsosque quaestores detentos sub fida custodia, nobis vel vicario nostro faciant per se vel per alios praesentari, scientes quod medietatem ofnnium bonorum, quae dicti quaestores apud se habebunt, dabimus illis, qui ipsos in fortiam nostram duxerint, et etiam praesentabunt.</p>
+                    <p>Deo gratias. Amen.</p>
+                    <p>Saligia.</p>
+                    <p>In hac dictione sunt septem litterae, quae significant septem peccata mortalia scilicet, superbia, avaritia, luxuria, ira, gula, invidia, accidia, contra quae peccata dautur septem dona Spiritus Saucti gradatim, primum R. primo, timor Domini, consilium, sapientia, scientia, intellectus, pietas et fortitudo.</p>
+                    <p>Septem sacramenta ecclesiae.</p>
+                    <p>Baptismus, confirmatio, poenitentia, eucharistia, ordo, matrimonium et extrema unctio.</p>
+                    <p>Decem praecepta legis, primum est.</p>
+                    <p>Diliges Dominum Deum tuum ex toto corde tuo et ex tota anima tua, et ex tota mente tua, et proximum tuum sicut te ipsum.</p>
+                    <p>Non assumes nomen Dei in vanum.</p>
+                    <p>Memento ut diem dominicum sanctifices.</p>
+                    <p>Honora patrem tuum, et matrem tuam.</p>
+                    <p>Non occides.</p>
+                    <p>Non moechaberis.</p>
+                    <p>Non furtum facies.</p>
+                    <p>Non falsum testimonium dices.</p>
+                    <p>Non concupisces uxorem proximi tui, nec desiderabis rem ejus; nam ut infra legitur versifice: idola sperne, Dei nomen non sit inane; non sis occisor, fur, moechus, testis iniquus, non alii nuptam, nec rem cupias alienam, sabbata sanctifices, tibi sint in honore parentes.</p>
+                    <p>Has autem constitutiones facimus, quas per subditos nostros praecipimus observari, non derogantes aliquibus constitutionibus per praedecessores nostros editis, imo ipsas constitutiones approbamus, ratificamus et confirmamus, ipsarum constitutionum reservantes nobis potestatem addendi, mutandi et corrigendi, interpretandi et super ipsis et ipsarum qualibet, prout nobis videbitur, dispensandi.</p>
+                    <p>Praesentes constitutiones accipi volumus in scriptis per quoscumque curam animarum habentes usque ad duos menses proxime venturos sub poena solidorum centum, et reliquas vero constitutiones praedecessorum nostrorum sub poena posita in ultima constitutione domini Guidonis olim episcopi papiensis accipi volumus per praelatos ecclesiarum regularium et saecularium usque ad tempus in dicta constitutione contentum, amen.</p>
+                    <p>Deo gratias. Amen.</p>
+                    <p>Et sic expletae sunt constitutiones synodales.</p>
+                    <p>Ordo procedendi contra clericos debitores.</p>
+                    <p>Nos Franciscus de Yarano clericus parmensis ac minister Domus Dei Cremonensis, generalis vicarius reverendi in Christo patris et domini domini Joannis Dei et apostolicae sedis gratia episcopi papiensis.</p>
+                </div>
+                <div>
+                    <head>Explicit</head>
+                    <p>Quia quaecumque occurrentia juribus non sunt specialiter comprehensa et novis excogitatis remediis de novo emergentibus oportet provideri juxta temporum qualitatem, cum reprehensibile non existat ut secundum varietatem temporum statuta varientur humana, licet sane retroactis temporibus juribus sint adinventa multa remedia contra debitores clericos creditoribus solvere negligentes, propter quod litigia saepissime oriuntur et scandala et damna subsequuntur; volentes itaque de consilio et consensu capituli ecclesiae papiensis et approbante synodo cleri papiensis in praemissis adhibere remedium et omnem amputare materiam, ut clericis de laicis debitoribus suis conquerentibus in foro saeculari exhibeatur justitiae complementum et ne in foro saeculari litigantes clerici graventur laboribus et expensis, quod hactenus factum esse dignoscitur; statuimus et ordinamus quod quibuslibet in foro ecclesiastico de clericis conquerentibus occasione debiti per clericos promissi in publico instrumento in quo sint tres testes bouae famae et subscriptio notarii publici fiat jus summarium, videlicet quod debitor citetur et, si comparuerit infra terminum ei assignatum, detur ei copia instrumeuti in quo esse dicitur obligatus, si de ipso instrumento copiam habere voluerit; si autem citatus non comparuerit pro convicto et confesso habeatur, cui assignetur terminus, si comparuit, opponendi et contradicendi instrumento praedicto, ut cogatur ad satisfaciendum de obligatione in instrumento contenta; et si nihil opposuerit vel exceptiones non legitimas seu frivolas opposuerit, tunc ipsis rejectis et suprascriptis, praecipiatur eidem quod, infra terminum quem jura reddenti videbitur assignandum, creditori integraliter satisfacere teneatur, non obstante quod a jure cavetur quod quatuor menses ei dentur ad solvendum, sub excommunicationis poena, quam poenam auctoritate praesentis constitutionis monitus, ut praemittitur, de dicta solutione facienda tribus monitionibus vel una pro tribus, ipso facto incurrat, quam senteutiam excommunicationis si per XV dies sustinuerit animo indurato, tunc propter contumaciam et pertinaciam suam recludatur in carcerem, ut quos divinus tiirior a malo non revocat, temporalis poena coerceat a peccato.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] &quot;luceat lux vestra coram hominibus, ut videant opera vestra bona et glorificent patrem vestrum qui in coelis est; alioquin secundum prophetam, si sacerdos qui unctus est peccaverit, quis orabit pro eo?&quot; in italics.</p>
+                    <p>[2] &quot;tu scientiam repulisti et ego te repellam ne sacerdotio fungaris mihi;&quot; in italics.</p>
+                    <p>[3] &quot;labia sacerdotis custodient scientiam et legem ejus requirent,&quot; in italics.</p>
+                    <p>[4] &quot;de ore ejus;&quot; in italics.</p>
+                    <p>[5] &quot;ignorans ignorabitur et si caecus a caeco ducitur, ambo in foveam cadunt. Vobis enim datum est nosse mysterium Dei, caeteris in parabolis,&quot; in italics.</p>
+                    <p>[6] &quot;vos sitis lux mundi, si lumen quod in vobis est tenebrae fiant, tenebrae quantae erunt?&quot; in italics.</p>
+                    <p>[7] &quot;sal terrae,&quot; in italics.</p>
+                    <p>[8] &quot;si sal evanuerit in quo salietur?&quot; in italics.</p>
+                    <p>[9] &quot;ad nihilum valet ultra, nisi ut mittatur foras et conculcetur ab hominibus&quot; in italics.</p>
+                    <p>[10] &quot;justus ex fide vivit&quot; in italics.</p>
+                    <p>[11] &quot;judicium sibi manducat et bibit,&quot; in italics.</p>
+                    <p>[12] &quot;Infirmatur quis in nobis? Inducat presbyteros Ecclesiae et orent ungentes eum oleo in nomine Domini etc.&quot; in italics.</p>
+                    <p>[13] &quot;gratis accepistis, gratis date:&quot; in italics.</p>
+                    <p>[14] Text in italics begins here.</p>
+                    <p>[15] Text in italics ends here.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>
