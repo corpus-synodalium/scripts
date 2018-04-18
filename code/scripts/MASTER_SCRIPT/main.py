@@ -31,7 +31,7 @@ from pprint import pprint
 class MasterParser():
 
     def __init__(self):
-        self.text_input_dir = './input/text/'
+        self.text_input_dir = './input/text_test/'
         self.notes_input_dir = './input/notes/'
         self.csv_file_name = './input/metadata/metadata.csv'
         self.xml_output_dir = './output/'
