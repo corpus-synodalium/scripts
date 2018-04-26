@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lucca</title>
+                <recordID>1624</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1374-11-13</origDate>
+                <dateNotes/>
+                <origPlace>Lucca</origPlace>
+                <diocese>Lucca</diocese>
+                <province>[Holy See]</province>
+                <country>Italy</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 1624</p>
+                <p>Year: 1374</p>
+                <p>Month: 11</p>
+                <p>Day: 13</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Lucca</p>
+                <p>Diocese: Lucca</p>
+                <p>Province: [Holy See]</p>
+                <p>CountryModern: Italy</p>
+                <p>Latitude: 43.85</p>
+                <p>Longitude: 10.5</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Dinelli, Sinodi, 121-23</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: https://books.google.com/books?id=5lVfAAAAcAAJ</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'WebDownload']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>All Text</head>
+                    <p>In nomine Domini amen.</p>
+                    <p>Infrascripta est constitucio addita et facta per reuerendum in Christo Patrem, et Dominum Dominum Paulum Dei et apostolice sedis gracia lucanum episcopum constitucionibus synodalibus suprascriptas ipsius domini episcopi in publica et generali clericorum ciuitatis et diocesis lucane congregacione, et synodo per ipsum dominum episcopum congregata, et celebrata Luce in maiori ecclesia lucana anno Natiuitatis Domini millesimo trecentesimo septuagesimo quarto indiccione terciadecima die tercia decima mensis Nouembris Pontificatus santissimi in Christo Patris et domini domini Gregorii diuina prouidencia Pape undecimi anno quarto.</p>
+                    <p>Nos Paulus Dei et Apostolice sedis gracia lucanus episcopus infrascriptam addicionem nostris constitucionibus facimus, uidelicet.</p>
+                    <p>Quoniam in dubiis probabilibus consilium iuris est periciores consulere, ut in curia, et iurisdiccione lucani episcopi immaculata iusticia cuilibet iuridice tribuatur: statuimus et ordinamus in presenti synodo, quod in dicta curia deinceps cuilibet petenti, tam in iudicialibus, quam in extraiudicialibus negotiis tribuatur, et detur petenti per iudicem consilium sapientis modo infrascripto, uidelicet.</p>
+                    <p>Quia in iudiciis in difinitiuis sententiis, que adscendunt ad ualorem uiginti florenorum et ... detur consilium sapientis, et eciam in hiis, que in adscendentibus ad dictam summam habent vim diffinitiue.</p>
+                    <p>Et si questio uertitur inter partes, tunc primo obliget se pars petens consilium ad penam per iudicem declarandam de stando consilio iam petito sub idonea caucione, postmodum utraque pars det suos suspectos, et confidatos per iuramentum, et demum ambe paries deponant salarium pro equali porcione, et iudex ipse secretum teneat consultorem, et locum, ubi committitur de concordia partium.</p>
+                    <p>Si uero de quantitate salarii, uel consultore partes infra certum terminum a iudice moderandum non concordauerint, tunc iudex consultorem non suspectum secreto eligat, et salarium prouide moderetur secundum qualitatem cause, facundiam consultoris, et dubiorum grauitatem.</p>
+                    <p>Si uero causa criminalis fuerit ad correccionem criminum, ubi regulariter appellare non licet, intentata, tunc sicut regulariter in ea non appellatur, ita regulariter consilio non committatur propter difugii suspicionem, nisi sic, et prout iudici uisum fuerit, et conscientie sue secundum Deum, et iusticiam uidebitur expedire.</p>
+                    <p>In iterlocutoriis autem, et intermediis iudiciorum detur consilium, si petatur, super iurisdiccione declinanda, et admissione, uel repulsione libelli seu articulorum, et omnibus reddentibus iudicium retro nullum, in ciuilibus uidelicet dumtaxat, ut supra dictum est, nisi iudici apparuerit, quod ex manifesta difugii, uel calumnie causa petatur.</p>
+                    <p>Et tunc omnia supradicta seruentur.</p>
+                    <p>In omnibus autem aliis actibus iudicialibus in arbitrio iudicis sit denegare, uel dare consilium antedictum.</p>
+                    <p>In extraiudicialibus autem, uel iudicialibus, que inter curiam lucani episcopatus, et aliam quamcumque personam euenirent, in quibus de comodo, uel damno episcopalis curie predicte, seu episcopi tractaretur, tunc per omnia supradictus ordo seruetur, sicut si inter alias partes esset, hoc excepto, quod consultoris nomen debeat parti notificare recepto ab ea iuramento, quod ultra salarium constitutum nihil consultori dabit, uel promittet, et eciam recepta, si iudici uidebitur, idonea caucione, et sub simili iuramento, et caucione possit adstringi, quod coram dicto consultore nil aliud producet ultra illud, quod per iudicem sub suo sigillo in missione consilii inclusum fuerit.</p>
+                    <p>Consilium autem mittatur sub sigillo curie, et clausum reportetur sub sigillo consultoris per nuntium per partes concorditer eligendum, uel casu discordie, per iudicem supradictum.</p>
+                    <p>Si quis autem contra hanc constitucionem in consiliis de cetero committendis uenerit, uel fraudem commiserit, si consilium pro parte sua datum fuerit non ualeat, et habeatur pro non dato, et ipse arbitrio iudicis puniatur, et parti adhuc ad interesse teneatur.</p>
+                    <p>Quod autem de extraiudicialibus negotiis supra dictum est, intelligatur, si adscendent ad summam in iudicialibus pretaxatam, et ipsorum negociorum natura de ipsis suadeat racionabiliter dubitari.</p>
+                    <p>Commissiones autem consiliorum cursum causarum, uel negociorum non retardent, sed semper procedi possit in eis, sed consilio reddito postmodum, et aperto, que post peticionem et concessionem consilii acta, seu actitata sunt de hiis, que dubia consilio commissa respiciunt, pro ualidis, uel inualidis habeantur, secandum quod in consilio fuerit declaratum, uel ex eo racionabiliter a iudice colligetur, processus autem premissis non seruatis facti semper intelligantur iniusti.</p>
+                    <p>Datum et actum Luce in maiori ecclesia lucana in generali synodo an. Domini MCCCLXXIV die Nouembris; et ego Anthonius quondam Iohannis de Ancona publicus Imperiali auctoritate notarius, et nunc notarius et scriba curie episcopalis lucane predicta omnia de mandato dicti domini episcopi scripsi, et publicaui.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

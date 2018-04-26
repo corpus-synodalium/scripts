@@ -1,0 +1,253 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferrara</title>
+                <recordID>0389</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1278</origDate>
+                <dateNotes/>
+                <origPlace>Ferrara</origPlace>
+                <diocese>Ferrara</diocese>
+                <province>Ravenna</province>
+                <country>Italy</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 389</p>
+                <p>Year: 1278</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Ferrara</p>
+                <p>Diocese: Ferrara</p>
+                <p>Province: Ravenna</p>
+                <p>CountryModern: Italy</p>
+                <p>Latitude: 44.833333</p>
+                <p>Longitude: 11.616667</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Muratori, Antiquitates, VI, col 433-438</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: https://books.google.it/books?id=Mqg-AAAAcAAJ</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Data Capture', 'WebDownload']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Constituciones facte a Parochis Ciuitatis Ferrariensis pro sue Congregacionis regimine, anno 1278.</p>
+                    <p>In honorem perpetuum et gloriam sempiternam sanctissime atque indiuidue Trinitatis, Patris et Filii et Spiritus Sancti, beate et gloriose Uirginis Dei Genitricis Marie, Patronumque nostrorum Sanctorum Martyrum Georgii et Maurelii, atque omnium simul Sanctorum et Sanctarum, Dei Apostolorum, Martyrum, Confessorum, ac Uirginum, quorum, quarumque suffragia in felici prosecucione huius nostri operis inchoati suppliciter imploramus, et ipsorum intercessionibus gloriosis secundum Sacerdotalis, qua licet indigni fungimur, dignitatem, pie in hoc Seculo uiuere, ceterisque recte uiuendi prebere meremur exemplum : et ad honorem et reuerenciam uenerabilis Patris, Domini, ac Pastoris nostri Domini Guillielmi miseracione diuina Episcopi Ferrariensis, infrascriptis Constitucionibus nostris paternum exhibentis assensum, ac eius eciam Successorum: et ad salutem animarum, et corporum honestatem.</p>
+                    <p>Cleri Conuentus Ciuitatis Ferrarie, nos Petrus Capellanus Ecclesie Sancti Stephani Ferrariensis, Archipresbyter Capellanorum omnium Ciuitatis Ferrarie, et Presbyter Iohannes Capellanus Ecclesie Sancti Blaxii; Presbyter Bonauentura Ecclesie Sancte Marie Noue; Presbyter Nicolaus Ecclesie Sancte Crucis; Presbyter Bonifacius Ecclesie Omnium Sanctorum; Presbyter Nicolaus Ecclesie Sancti Iuliani; Dompnus Bonapax Prior Hospitalis Sancti Leonardi; Presbyter Righetus Capellanus Ecclesie Maioris Ciuitatis Ferrarie; Presbyter Andreas Ecclesie Sancti Iacobi; Dompnus Guido Prior Ecclesie Sancte Agnetis; Dompnus Zunta Presbyter Ecclesie Sancti Clementis; Presbyter Bonalbergus Ecclesie Sancte Marie de Bucho; Presbyter Bonus Ecclesie Sancti Gregorii; Presbyter Petrus Ecclesie Sancti Petri; Presbyter Cixius Ecclesie Sancti Saluatoris; Presbyter Iohannes Ecclesie Sancti Nicolai de Curtili; Presbyter Gerardus Ecclesie Sancti Alexii; Presbyter Rangerius Ecclesie Sanctorum Simonis et Iude; Presbyter Albertus Ecclesie Sancti Martini; Presbyter Martinus Ecclesie Sancti Apollenaris; Presbyter Ugucio Ecclesie Sancti Uitalis; Presbyter Bonauentura Ecclesie Sancti Thomasii; et Dompnus Ruffinus Ecclesie Sancti Laurentii; et Presbyter Guirardus Ecclesie Sancti Iohannis de Burgo inferiori: conuenientes in unum ad infrascriptas Constituciones edendas unanimiter et concorditer statuentes, constituimus et ordinamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>In primis, quod omnes Sacerdotes et Clerici supradicti Conuentus nostri diebus Kalendarum cuiuslibet Mensis cum Archipresbytero, qui nunc est, uel qui pro tempore fuerit in ipso Conuentu, conuenire simul de cetero teneantur et debeant ad defunctorum officia celebranda, et qui contrafecerit, sex Uenetos paruos componere teneatur in manibus Camerarii pretaxati Conuentus, per ipsum Camerarium assensu dicti Archipresbyteri in usus pauperum erogangos, nisi iusta causa fuerit excusatus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>Item statuimus, quod licitum sit Archipresbytero et Conuentui nominato, quandocumque in unum conuenerint in qualibet Ecclesia Ciuitatis Ferrarie uel suburbium, quam duxerint eligendam, Missas Conuentuales et Officia solennia celebrare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>Item statuimus et uolumus, quod si aliquem ex Sacerdotibus dicti Conuentus contigerit infirmari, Archipresbyter et Fratres illum, qui infirmabitur, teneantur et debeant egritudinis tempore uisitare.</p>
+                    <p>Et si Sacerdos egrotans adeo indigens fuerit, quod in ipsa egritudine sibi non possit necessaria ministrare, teneatur Archipresbyter per Camerarium pretaxati Conuentus dicto Sacerdoti egrotanti de bonis dicti Conuentus, secundum facultates ipsius Conuentus in eadem egritudine subuenire.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>Item statuimus, quod si aliquis ex Sacerdotis dicti Conuentus, uiam carnis ingressus fuerit uniuerse, omnes de dicto Conuentu Presbyteri in Ecclesie, ubi defunctus Sacerdos debuerit sepeliri, debeant conuenire, et pro anima Sacerdotis defuncti, Missas alta uoce solemniter celebrare et ipsius Sacerdotis defuncti corpus cum incenso et aqua benedicta, prout moris est, tradere sepulture, et oblaciones speciales offerre per Camerarium dicti Conuentus pro anima Sacerdotis defuncti, Christi Pauperibus consilio predicti Archipresbyteri erogandis.</p>
+                    <p>Sed si defunctus Sacerdos sepeliretur apud aliquod Hospitale, prefato oblaciones tantum ad pauperes Hospitalis predicti debeant peruenire.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>Item statuimus, quod si alicui Fratrum, uel Sororum nostri Conuentus placuerit, unum ex indumentis suis legare Conuentui supradicto, illud distribui uolumus pro mercede Nuntii Conuentus ipsius, et pro anima Fratris et Sororis predictorum eciam defuncturum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>Item statuimus, quod singulis septem dierum proxime subsequentium a die obitus Sacerdotis Conuentualis, duo de Presbyteris Conuentus, quibus per Camerarium iniunctum fuerit supradictum in Ecclesia, penes quam defunctus Sacerdos sepultus fuerit, Missarum mortuorum solennia debeant celebrare, sepulturum ipsius cum incenso et aqua benedicta, et Miserere mei Deus, quolibet ipsorum septem dierum nihilominus uisitando.</p>
+                    <p>Et qui contrafecerit, nisi iuste fuerit excusatus, quatuor Imperiales exsoluat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>Item statuimus, quod quilibet Sacerdos dicti Conuentus a die mortis Sacerdotis defuncti usque XXX dies tunc proxime subsequentes, pro ipsius defuncti sanima Septem Missas decantet; quibus elapsis postea usque ad unum annum triginta Missas pro anima ipsius defuncti, Sacerdos quilibet debeat celebrare.</p>
+                    <p>Et quum ab aliquo Sacerdote Conuentus per totum primum annum ipsius defuncti Missa cantabitur mortuorum, pro anima ipsius Sacerdotis defuncti Oracio per ipsum dici debeat specialis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>Item statuimus, quod quilibet Sacerdos huius sacri Conuentus omni anno unum Psalterium pro animabus omnium fidelium defunctorum legere teneatur.</p>
+                    <p>Quod si non fecerit, oneri ipsius anime imputetur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>Item statuimus, quod si aliquis uir uel mulier huius sacri Conuentus, necessitatem patietur, de bonis dicti Conuentus, secundum facultatem Conuentus eiusdem ipsorum necessitati debeat prouideri.  Item statuimus, quoties Archipresbyter dicti Conuentus cum Sacerdotibus Conuentus predicti conuentum apud Ecclesiam aliquam ad Missarum solennia celebranda pro animabus fidelium defunctorum…..ipsius Ecclesie Capellanus campanas….. solemniter pulsare.  Item statuimus, quod si aliquis Sacerdos requisitus per Nuntium Camerarii non uenerit ad conuentum, si oust causa non fuerit excusatus, soldat duos Imperiales, per manus Camerarii de consilio Archipresbyteri in pauperum necessitatibus erogandos.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>Item statuimus, quod quum preceptum fuerit per Nuntius Camerarii, quod Sacerdotes Conuentus debeant certo die apud Ecclesiam aliquam interesse pro diuinis Officiis celebrandis, ipsius Ecclesie Capellanus in mane ad Missam debeat suo Populo nunciare; in qua Missa omnes Sacerdotes summissa uoce bene et integre infrascriptos Psalmos scilicet Uerba mea: Domine, ne in furore: Credidi: et De profundis, dicere teneantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>Item statuimus, quod si aliquis Sacerdotum uel Clericorum nostri Sacri Conuentus ...ctu in Ciuitate obierit, custodiatur a quatuor Sacerdotibus dicti Conuentus, quibus iniunctum fuerit per Camerarium Conuentus eiusdem, seu Archipresbyterum, tota nocte predicta.</p>
+                    <p>Qui Sacerdotes Psalterium legere, et alias oraciones facere teneantur pro anima memorati defuncti.</p>
+                    <p>Et si de bonis eiusdem labori dictorum Sacerdotum nequiuerit prouideri, quod per Camerarium dicti Conuentus de facultatibus Conuentus ipsius competenter prouideatur eisdem.</p>
+                    <p>Et quicumque Sacerdos preceptum de hoc sibi factum neglexerit adimplere, nisi iuste fuerit excusatus, quinque Solidos Ferrarie de suis bonis Camerario dicti Conuentus soluere teneatur, per eum consilio Archipresbyteri in utilitatem pauperum erogandos.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>Item statuimus, quod omnes et singuli reditus et prouentus terrarum, uinearum, et possessionum dicti Conuentus peruenire debeant penes Camerarium dicti Conuentus, qui nunc est uel qui pro tempore fuerit.</p>
+                    <p>Qui fructus et prouentus uendi debeant, et expendi per ipsum Camerarium in augmentacionem dicti Conuentus, scilicet in emendis terris et possessionibus, qua semper penes dictum Conuentum debeant permanare.</p>
+                    <p>Et hoc fait de consensu et uoluntate Archipresbyteri et maiors partis dicti Conuentus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>Item statuimus, quod mutetur Camerarius omni anno, cuius eleccio fieri debeat hoc modo, uidelicet quod Archipresbyter Conuentus debeat eligere tres ex fratribus de Conuentu, qui Camerarium eligant.</p>
+                    <p>Et ille, qui electus fuerit Camerarius ab ipsis uel a duobus eorum de consensu et consilio Archipresbyteri ipsius, eo anno pro Camerario ab omnibus habeatur.</p>
+                    <p>Qui Camerarius XX. Solidos Ferrarie pro suo beneficio annuo et salario consequatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>Item statuimus, quod quum Archipresbyter dicti Conuentus apud aliquam Ecclesiam fuerit, in qua pro anima alicuius Presbyteri fratris nostri defuncti diuina sint officia celebranda, ille, cui dictus Archipresbyter mandauerit, Missas cantare, et diuina celebrare officie teneatur; nisi ibidem fuerit Dominus Episcopus, uel Capitulum maioris Ecclesie Ferrariensis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>Item statuimus, quod quum Archipresbyter dicti Conuentus uiam carnis ingressus fuerit uniuerse, Capellani dicti Conuentus infra quindecim dies proximos futuros Archipresbyteri eleccionem facere teneantur, ipsam eleccionem confirmandam aut infirmandam nostro Domino Ferrariensi Episcopo presentantes: alioquin prefata eleccio ad ipsum Dominum Episcopum deuoluat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>Item statuimus, quod si aliquis Capellanus ad officia fratrum Capellanorum non accesserit... uel causa iusta fuerit excusatus, octo Uenetos paruos exsoluat, per Camerarium consilio Archipresbyteri in usibus pauperum erogandos.</p>
+                </div>
+                <div>
+                    <head>Capitulum 17</head>
+                    <p>Item statuimus, quod Camerarius omni anno circa festum Sancti Iohannis Baptiste racionem...</p>
+                    <p>Archipresbytero et aliis Capellanis Conuentus, quos ipse Archipresbyter ad hoc duxerit eligendum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18</head>
+                    <p>Item statuimus, quod quum ab Episcopum superius aliquod festum fuerit principale, omnes Capellani manentes ab Episcopatu superius in Uigilia festi ad Uesperas, et in die festi interesse ad Missam et Uesperas teneantur.</p>
+                    <p>Et si festum fuerit ab Episcopatu inferius usque ad Ecclesiam Sancti Apollenaris, omnes Capellani infra dicta confinia commorantes, illud idem facere teneantur.</p>
+                    <p>Et si festum ab Ecclesia Sanci Apollenaris inferius fuerit, usque ad ultimum Ciuitatis, Capellani omnes manentes infra dicta confinia illud idem facere teneantur.</p>
+                    <p>Et qui contrafecerit, nisi iusta causa fuerit excusatus, in duobus Imperialibus condemnetur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 19</head>
+                    <p>Item statuimus, quod si Archipresbyter, aut aliquis de Conuentu, aliquid uoluerit dicere uel ordinare, diligentissime ab omnibus audiantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 20</head>
+                    <p>Item statuimus, quod dum celebratur Missa, unusquisque Fratrum in silencio debeat permanere.</p>
+                </div>
+                <div>
+                    <head>Capitulum 21</head>
+                    <p>Item statuimus, quod nullus Clericus de Conuentu ad nouum emat triticum aut uinum, uel tabernam in domo, in qua habitauerit, teneat, aut teneri faciat, uel permittat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 22</head>
+                    <p>Item statuimus, quod Constituciones Collegii legantur fratribus semel in Mense, et specialiter in Calendis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 23</head>
+                    <p>Item statuimus, quod nullus Clericus nostro Conuentui debeat interesse, nisi in Ciuitate Ferrarie beneficum obtineat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 24</head>
+                    <p>Item statuimus, quod quando Sacerdotes... de Ecclesia, pro mortuorum officiis celebrandis, bini, quum interuenerint, incedere debeant, Miserere mei Deus summissa uoce dicentes.</p>
+                </div>
+                <div>
+                    <head>Capitulum 25</head>
+                    <p>Item statuimus, quod nullus Clericus, postquam fuerit inchoatum officium, Ecclesiam exeat, nisi sibi necessitas immineret.</p>
+                </div>
+                <div>
+                    <head>Capitulum 26</head>
+                    <p>Item statuimus, quod quando Capellani Conuentus debuerint apud aliquam Ecclesiam ad officium celebrandum... Camerarius ordinet, qui Missam tunc debeat celebrare.</p>
+                    <p>In Calendis tamen Archipresbyter, si sibi placuerit, celebrabit, aioquin ille de Fratribus celebrare teneatur, cui Archipresbyter duxerit iniugendum.</p>
+                    <p>Et qui recusauerit, nisi iuste fuerit excusatus, duos Imperiales exsoluat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 27</head>
+                    <p>Item statuimus, quod quum aliquis de Conuentu nostro decesserit, Sacerdos quilibet in sua Ecclesia Parochianis, quum Missas celebrauerit, debeat nunciare nomen defuncti Fratris uel Sororis, ipsosque hortari, ut Pater Noster, et Aue Maria pro defuncti uel defuncte anima dicant, septem in quibuslibet Calendis, et duodecim Pater noster et duodecim Aue Maria, quando cognoscunt fratrem defunctum esse.</p>
+                </div>
+                <div>
+                    <head>Capitulum 28</head>
+                    <p>Item statuimus, quod si aliquis Clericus de Conuentu infirmabitur, egrotans per Nuntium suum mittere debeat Camerario, ut aliquem Clericum de Conuentu ad ipsius infirmi Ecclesiam debeat destinare pro Missis et aliis Officiis celebrandis, si fuerit opportunum.</p>
+                    <p>t tunc Camerarius per Nuntium suum precipi faciat cuicumque ex Capellanis uoluerit, ut ad egroti predicti accedat Ecclesiam, ad prescripta officia celebranda.</p>
+                    <p>Et qui recusauerit, nisi iusta causa fuerit impeditus, quatuor Imperiales exsoluat, in necessitatibus pauperum expendos.</p>
+                </div>
+                <div>
+                    <head>Capitulum 29</head>
+                    <p>Item statuimus, quod si aliquis ex Fratribus uel Sororibus nostri Conuentus tempore mortis Conuentui nostro aliquo dimiserit indumenta, Sacerdos Contrate defuncti uel defuncte, Camerario teneatur indumenta eadem presentare; uendenda per Camerarium suprascriptum.</p>
+                    <p>Et qui contra fecerit, quatuor Imperiales exsoluat, pauperum necessitatibus tribuendos.</p>
+                    <p>Nos Guillielmus miseracione diuina Episcopus Ferrariensis, Constituciones prescriptas omnes et singulas de...tas speciali consensu, Episcopali auctoritate, qua fungimur, ratas habentes et gratas, confirmamus: ac districte precipimus, ipsas, et earum quamlibet a sepedicti Conuentus Clericis inuiolabiliter obseruari.</p>
+                    <p>Et quod predicti Clerici ipsorum Archipresbytero, immo nobis potius in eodem in ipsis Constitucionibus debeant obedire.  Et qui rebellis fuerit in predictis, post terciam admonicionem a dicto Archipresbytero, si facta, ex nunc ab ingressu Ecclesie usque ad satisfaccionem condignam duximus suspendendum.</p>
+                    <p>Omnes et singulos Fratres dicti Conuentus in Domino nihilominus exhortantes, ut diuine reuerencia pietatis memoratas Constituciones diligenter obseruare procurent, ut proinde diuine Maiestatis graciam, nostramque consequi beneuolenciam mereantur, uelut obedientie filii speciales.</p>
+                    <p>Et ad maiorem rei huiusmodi firmitatem prescriptas Contituciones manu infrascripti Curie nostre Notarii, ac Sigilli nostri munimine iussimus roborari.</p>
+                    <p>Ego Bonauentura de Brinis, Curie Episcopalis Ferrariensis Notarius, predictas Constituciones omnes et singulas de speciali mandato uenerabilis Patris Domini Episcopi memorati, scripsi et publicaui ad perpetuam memoriam earundem.</p>
+                    <p>Currente Anno Domini Millesimo Ducentesimo Septuagesimo Octauo, Indiccione VI.  Die IX. intrante Decembri.  Sigillum cereum Episcopale.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

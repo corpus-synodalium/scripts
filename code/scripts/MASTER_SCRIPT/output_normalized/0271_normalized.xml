@@ -1,0 +1,225 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Venice</title>
+                <recordID>0271</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1288-10-16</origDate>
+                <dateNotes/>
+                <origPlace>Venice</origPlace>
+                <diocese>Venice (Castello)</diocese>
+                <province>Grado</province>
+                <country>Italy</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 271</p>
+                <p>Year: 1288</p>
+                <p>Month: 10</p>
+                <p>Day: 16</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: or 16 January</p>
+                <p>Place: Venice</p>
+                <p>Diocese: Venice (Castello)</p>
+                <p>Province: Grado</p>
+                <p>CountryModern: Italy</p>
+                <p>Latitude: 45.4375</p>
+                <p>Longitude: 12.335833</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Bartolomeo Querini</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1274</p>
+                <p>RegnalEnd: 1292</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Sambin, Piu antichi sinodi, 71-74</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['Library Scan', 'Hard Copy Scan']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: parts reissued (and considerably reworked) by Trevisan in 16th-c compilation</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>In Christi nomine amen.</p>
+                    <p>Anno eiusdem natiuitatis millesimo ducentesimo octuagesimo octauo die sabbati sextodecimo intrante mense... S. Iustine diocesis castellane, presentibus dominis fratre Iohanne priore dicti loci S. Iustine, fratre..., Iohanne capellano infrascripti domini episcopi et aliis mulcis et coram uniuersitate tocius clericatus ciuitatis... congregatis atque uocatis.</p>
+                    <p>Ibique uenerabilis pater dominus Bartholomeus Dei et apostolica gracia episcopus castellanus... nitus publicauit in hunc modum mandantes exinde fieri publicum instrumentum.</p>
+                    <p>Nos Bartholomeus Dei et apostolica gracia episcopus castellanus [1]... secuntur generalia duximus ex nobis de consensu capituli nostri consuetudinibus tam matricis nostre castellane ecclesie quam... et diocesis castellane nobis et eidem ecclesie subiectarum adicienda et ea mandamus districte perpetuo in eisdem ecclesiis... uel alia nostro et successorum nostrorum arbitrio moderanda et imponenda.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>Inprimis siquidem uolumus et mandamus quod concilium gradense celebratum per uenerabilem patrem dominum fratrem Angelum de... et eius suffraganeos cum interpretacionibus et declaracionibus suis integraliter obseruetur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>Item quod ordinarium ecclesie castellane, quod pertinet ad diuinum officium, per omnia obseruetur cum infrascriptis adicionibus [2].</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>Item uolumus et mandamus quod a prima dominica post Pentecosten usque ad uigiliam Natiuitatis Domini et ab octaua Epiphanie usque ad quartam feriam maioris hebdomade, que [3] est ante Resureccionem, officium mortuorum siue pro mortuis comuniter in ecclesiis in choro celebretur uoce submissa omnibus diebus, in quibus nouem lecciones non leguntur [4].</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>Item uolumus et districte precipimus quod non solum in quadragesima set eciam omni tempore complectorium tam ferie quam S. Marie dicatur [5]... consuetudine cuiuscumque nostre ecclesie, que in hac parte dicenda erat uerius coruptela, et dicatur cantatis uesperis uel facto officio [6]... uesperi longe ante oram debitam sicut fieri consueuit in maioribus festiuitatibus uel quando dicuntur seu celebrantur uesperi in... Marie dicimus intelligimus eo tempore quo celebratur officium S. Marie.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>Item quod quando occurerit festum trium leccionum dicatur in matutino totum noturnum illius diei cum suis antiphonis et fiant lecciones, responsoria et laudes, prima [7] et tercia de sancto illius diei, nisi festum ipsum uenerit inter duo Pasca, quo tempore dicuntur tantum tres psalmi secundum consuetudinem nostre ecclesie castellane modum [8].</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>Item quod sacerdos et alii clerici legant lecciones et plebanus, si presens fuerit, uel qui erit maior in ecclesia, absente plebano corrigat lectores et ad correccionem [9] factam se emendent lectores, qui finem non faciant nisi ad mandatum plebani uel maioris, ut supra dicitur, absente plebano [10].</p>
+                    <p>Quando cantatur introitus [11] Kirieleison, graduale, alleluia, tractus, offerenda, sanctus, agnus Dei, communio, responsoria et uersus et quicquid aliud cantatur tam in diurno officio quam nocturno debeant [12] omnes clerici cantare stantes et non sedentes et quando incipiunt antiphonas, responsoria uel aliquam oram diuinam deponant... num officium reuerenter, sicut in concilio continetur tam ante altare quam in choro, deponendo cum ante altare cantant eciam cipel...</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>Item quod semper sit candela accensa in altari quando diuinum officium celebratur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>Item uolumus et districte mandamus quod semper semel in septimana ad minus septimanarius conficiant Corpus Christi pro infirmis et... mada et sint studuosi conficere de ostiis recentibus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>Item dicimus quod, cum soli plebani habeant curam animarum anexam in suis parochiis, ipsi soli possunt dare licenciam p... sacerdoti cum uiderint expedire et si plebanus fuerit extra terram recurant ad episcopum qui uoluerint alieno sacerdoti confiteri [13]...</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>Item uolumus quod sacerdotes qui fuerint requisiti uel alii non requisiti de mandato plebani debeant missam celebrare sponsas ante missam maiorem si tunc fuerit petita [14] et si in illa die fuerit missa comunis, et ista sit comunis.</p>
+                    <p>Candele quoque, que ueniunt ad ipsam missam sint... omnium missarum comunium sint plebani.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>Item uolumus et mandamus quod sacerdos qui fuerit requisitus ad sepeliendum paruulos uadat et si indefinite fuerit requisitus... unum de sacerdotibus uel clericis sicut ei uidebitur conuenire et, si plebanus abesset, fiat hoc ad iussum maioris dei col... hiis que date fuerint ante partem et si una sola data fuerit habeat eam, cetera diuidantur inter plebanum et presbiteros et eum qui...</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>Item uolumus et ordinamus quod omnes denarii, qui dantur tam a parochianis quam extraneis pro missis specificatis, si fuerint denarii vi [15]... torio illius misse speicficate [16], que dici debeat illa die, si secundum cursum ecclesie dici poterit, alias dicatur quam cicius dic... illis misse quando dicetur; et si dati fuerint indifferenter pro missis,</p>
+                    <p>scilicet ab uno grosso inferius sint omnium sacerdotum celebrantium... si autem dati fuerint post missam sint omnium celebrancium die sequenti; si uero denarii fuerint ab uno grosso et dat... diuidantur inter sacerdotes et plebanum, si plebanus fuerit sacerdos et presens in terra... et si dati fuerint ab extraneis... eos esse tantum ipsorum dummodo a recipiente fraus aliqua non procuretur uel fiat et in hoc eorum consiencias ho... cum sociis si fraudem habuerint recipientes; si autem dati fuerint denarii tam a parochianis quam extraneis sine specificacione [17]... uelint tantum eos esse illius cui dantur et a recipiente in hoc fraus aliqua non fiat et in hoc eodem more consiencias h... sint proprii confessoris cui dantur.</p>
+                    <p>Ea uero que reliquuntur a parochianis indiferenter sacerdotibus alicuius ecclesie pro celebra... siue exprimatur certus numerus sacerdotum in testamento siue non, diuidantur inter plebanum, sacerdotes et clericos sine dec... et aliquid per se aliis clericis; in quo casu stetur ordinacioni testatoris.</p>
+                    <p>Si uero relinquatur tam a parochianis quam ab extraneis [18]... cui relinquuntur et cum tunc presumatur intuitu persone esse relicta, dummodo in hoc fraus aliqua non procuretur.</p>
+                    <p>Hec [19]... statuimus et ordinamus esse seruanda.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>Item uolumus et mandamus quod si aliquis sacerdos dixerit duas missas in die teneatur diuidere maius offertorium unius illarum missarum...</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>Item uolumus et mandamus quod cerei qui accenduntur et ueniunt in uesperis in die omnium sanctorum conicentur omnibus et si accendantur m [20]... et ueniunt ad omnes missas in ipsa die mortuorum et qui ueniunt ad manus presbiterorum et clericorum illis duobus diebus scilicet in uesperis...</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>Item dicimus quod in festis translatis uel ordinarie uel auctoritate cuiuscumque superioris nouem leccionum uel trium si fuerit inter duo p... medietatem offertorii uel duas partes secundum consuetudinem ecclesiarum; in octauis uero nouem leccionum habeat tantum partem [21]... presbiteros diaconos et custodes secundum consuetudinem ecclesiarum, offertorium quoque quod percipitur in missis quadragesimalibus que cantantur... presbiteros diaconos et custodes, sicut fit in aliis missis comunibus ferialibus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>Item quod quicquid percipitur pro benediccionibus domorum, puteorum, nauium, barcharum et quorumcumque lignorum uel fundamentorum et quicquid percipitur ab in... passionem Domini uel quascumque oraciones sit comune plebano, presbiteris, diaconis et custodibus sicut diuiditur offertorium misse comunis ferialis... domibus defunctorum die mortis ipsorum sit illius qui uadit.</p>
+                    <p>Illud autem quod datur in tribus diebus pascalibus et Pentecosten et Natiuitatis Domini sacerdotibus [22]... ponatur in offertorio misse maioris illius diei et si aliquis sacerdos requisitus ire et non ierit, admittat partem tocius illius diei.</p>
+                </div>
+                <div>
+                    <head>Capitulum 17</head>
+                    <p>Item quod quicquid offertur a nouiciis et sociantibus eas siue missa, fuerit specialis nouiciarum siue missa diei siue missa priuata siue qua... nitum diuidatur secundum morem ecclesiarum, platine uero et alia que mituntur a sponsis diuidantur hoc modo: prima detur plebano... de inde reuertatur ad plebanum si plebanus fuerit sacerdos.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18</head>
+                    <p>Item cum teneamur sanctis deuote reuereri in terris, quorum suffragia continuo flagitamus, ordinantes statuimus ut natalicia sanctorum uocabulis quorum ecclesie nostre [23] ciuitatis et diocesis nominantur sollempniter cum nouem leccionibus celebrentur, maxime cum hoc mandatum siue ordinatom a nobis modo non sumat exordium, sed iam [24] dudum predecessori nostro domino P. Pino apostolica auctoritate meminimus fore delatum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 19</head>
+                    <p>Item statuimus quod homines ingnoti siue forinseci non prius admittatur ad nucias celebrandas et ad anullos benedicendos nisi prius in missa... et popullo octo diebus ante ipse nucie publicentur, ut sciri</p>
+                    <p>possit si quid impedimentum ad contrahendum contrahentes impediat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 20</head>
+                    <p>Item quod omnes denarii qui perueniunt in administracionibus exequiarum mortuorum sacerdos si fuerit plebanus siue fuerit simplex sacerdos cum sociis suis... subdiaconis siue clericus cum aliis sociis suis diuidant comuniter.</p>
+                    <p>[25] Ego Bonifacius filius Felicis Inuiciato ciuis Clugie imperiali auctoritate notarius publicus omnibus supradictis presens interfui et ea omnia rogatus atque de mandato dicti domini episcopi scripsi et in publicam formam redegi.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] gracia episcopus castellanus in brackets</p>
+                    <p>[2] adici&lt;onibus&gt;</p>
+                    <p>[3] From ad quartam in brackets</p>
+                    <p>[4] From diebus in brackets</p>
+                    <p>[5] dic&lt;atur&gt;</p>
+                    <p>[6] offic&lt;io&gt;</p>
+                    <p>[7] From lecciones in brackets</p>
+                    <p>[8] From nostre ecclesie in brackets</p>
+                    <p>[9] c&lt;orrigat...correccionem&gt; in brackets</p>
+                    <p>[10] ple&lt;bano&gt;</p>
+                    <p>[11] From Quando in brackets</p>
+                    <p>[12] di&lt;urno...debeant&gt; in brackets</p>
+                    <p>[13] confit&lt;eri&gt;</p>
+                    <p>[14] spon&lt;sante... pe&gt;tita in brackets</p>
+                    <p>[15] vi(?)</p>
+                    <p>[16] sic</p>
+                    <p>[17] specifi&lt;cacione&gt;</p>
+                    <p>[18] ex&lt;traneis&gt;</p>
+                    <p>[19] H&lt;ec&gt;</p>
+                    <p>[20] m(?)</p>
+                    <p>[21] par&lt;tem&gt;</p>
+                    <p>[22] sacerdo&lt;tibus&gt;</p>
+                    <p>[23] From uocabulis in brackets</p>
+                    <p>[24] From modo in brackets</p>
+                    <p>[25] Deleted: (S. t.)</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

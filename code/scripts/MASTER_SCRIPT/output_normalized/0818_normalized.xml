@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Angers</title>
+                <recordID>0818</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1276</origDate>
+                <dateNotes/>
+                <origPlace>Angers</origPlace>
+                <diocese>Angers</diocese>
+                <province>Tours</province>
+                <country>France</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 818</p>
+                <p>Year: 1276</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: Saint Luke</p>
+                <p>Place: Angers</p>
+                <p>Diocese: Angers</p>
+                <p>Province: Tours</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 47.473612</p>
+                <p>Longitude: -0.554167</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Nicolas Gellent</p>
+                <p>IssuingAuthorityAlt: Nicholaus Gelant</p>
+                <p>RegnalStart: 1260</p>
+                <p>RegnalEnd: 1291</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Avril, Statuts, III, 130-133</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: Hard Copy Scan</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Idem Nicholaus in synodo sancti Luce anno Domini Mo CCo LXXVIo.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>De conuocacione sacerdotum.</p>
+                    <p>Cum affectantes sacerdotum et subditorum instruccionem alias constituerimus quod archipresbiteri et decani singulis annis certis diebus, infra octauam Purificacionis beate Marie Uirginis sacerdotes sibi subditos certis locis confinibus, que non mutarentur, conuocarent, ut dicti sacerdotes eosdem consulerent super hiis de quibus dubitarent ad synodalem quaternum uel statuta synodalia pertinentibus et, ut per predictos anni synodalia, in Penthecostes et sancti Luce synodis facta, dictis sacerdotibus recitarentur.</p>
+                    <p>Et nos per predictos decanos et archipresbiteros intelleximus quod sacerdotes sibi subditi ad dies et loca, propter hoc ab ipsis deputata, uenire negligebant et contempnebant, et propter hoc uoluerimus et statuerimus quod illi, qui ad predictos dies et loca non uenirent, quinque solidos nomine pene suo decano uel archipresbitero soluere teneantur, nisi canonicum haberent impedimentum, quod firmare coram ipsos tenerentur proprio iuramento.</p>
+                    <p>Et nonnullis perpendimus pericula imminere dicto tempore locis in plerisque, maxime inundacione aquarum emergente, precipimus quod, die iouis post Quasimodo, sacerdotes inibi ubi est consuetum conuocentur a predictis et non infra octauam Purificacionis antedicte, penam repetentes supra scriptam, adiicientes ut archipres biteri et decani predictam penam remittere nequeant, sed dictos presbiteros non uenientes ad diem officiali insinuent, et per ipsum predicte pene non uenientibus exigantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>Testes debent esse presentes in exsecucione litterarum facienda.</p>
+                    <p>De iuramento prestando a capellanis seu clericis rectoribus quod fideliter exsequantur alia mandata quam illa que requirunt cause cognicionem.</p>
+                </div>
+                <div>
+                    <head>Explicit</head>
+                    <p>Quoniam ubi maius periculum uertitur, ibi caucius est agendum, et ubi persone industria eligitur per se non per alium debet exsequi quod mandatur, presenti statuto iniungimus, sub pena suspensionis et excommunicacionis quibuslibet subditis nostris ut cum alicui a nobis uel a iudicibus ordinariis nostre diocesis aliquod mandatum fuerit destinatum ubi clausula hec sit inserta: si uobis constiterit, uel si ita est, uel si contra fecerit uel nisi obtemperauerit, uel finaliter cause cognicionem desiderans, illud mandatum, non per alios quam per ipsos exsecucioni demandent, testes aliquos in exsecucionibus predictis, ut iura uolunt, aduocantes.</p>
+                    <p>Item, rectoribus ecclesiarum sub penis precipimus ante factis ut capellanos et clericos iurare faciant quod fideliter alia mandata exsequantur, inhibentes, penis predictis repetitis, ne illi quibus aliquid fuerit mandatum factum per alium faciant illud exsequi ad eius instanciam cui demandatur, uel per litteras deferentem aut eciam presentantem.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

@@ -1,0 +1,222 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Montelimar</title>
+                <recordID>1912</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1248-12-05</origDate>
+                <dateNotes/>
+                <origPlace>Montelimar</origPlace>
+                <diocese>Valence</diocese>
+                <province>Vienne</province>
+                <country>France</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Provincial</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 1912</p>
+                <p>Year: 1248</p>
+                <p>Month: 12</p>
+                <p>Day: 5</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Montelimar</p>
+                <p>Diocese: Valence</p>
+                <p>Province: Vienne</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 44.5581</p>
+                <p>Longitude: 4.7508</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Provincial</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Mansi 23, cols. 769-78</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Data Capture']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>UNiuersis Christi fidelibus ad quos presens pagina peruenerit, miseracione diuina P. Albanensis episcopus, et H tituli S. Sabine presbyter cardinalis, eternam in Domino salutem Noueritis quod cum dominus Papa archiepiscopos, episcopos, et alios prelatos quamplures Narbonensis, Uiennensis, Arelatensis, Aquensis, prouinciarum, ac eciam quosdam episcopos et prelatos quarumdam circumuicinarum diocesanum ad concilium celebrandum apud Montilium Ualentine diocesis, pro fide, pace, et libertate ecclesie, conuocasset, et nos pro eodem cum prelatis ad partes illas duxerit destinandos, qui ad dictum locum uocati uenerant apud Ualenciam de mandato nostro ad celebrandum dictum concilium, ex causa necessaria congregatis, de dictis tractauimus cum eisdem.</p>
+                    <p>Quoniam igitur multorum conciliorum statuta salubria, non sunt, sicut debuit et decuit, hactenus obseruata, ex quo in contemptum et in obliuionem quasi totaliter deuenerunt: ideo necessarium fore prouidimus predictorum conciliorum statuta renouare, et quasdam penas ad ipsorum obseruanciam, ac quedam alia statuere, quibus uita delinquentibus arceatur.</p>
+                    <p>CAPITULA.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>AUctoritate igitur presentis concilii ordinamus et statuimus, quod antiqua concilia per legatos apostolice sedis edita, ac eciam presentis concilii statuta inuiolabiliter obseruentur, et a prelatis omnibus habeantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>Item statuimus quod statuta pacis omnino seruentur, et iuretur pax de triennio in triennium, et renouetur, prout in statutis conciliorum continetur; et addatur nunc in sacramento, quod Friderico schismatico, qui est auctor discordiarum et turbator pacis, non dabunt auxilium, uel fauorem, nec ipsum ad prouincias istas forsitan uenientem, uel nuncium suum, suam potestatem exercentes uel exercere uolentes, recipient, nec obedient eis, cum ipsi nihil intendant aliud, nisi ut unitatem ecclesie diuidant, et catholicorum pacem perturbent.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>Item statuimus, ut nulli clerici in sacris ordinibus constituti, seu canonici cathedralium ecclesiarum, seu beneficiati, iudicatum, consulatum, assisoriam, uel alia officia publica in curia seculari, electi a populo uel a seculari persona, recipiant; et si receperint, nisi infra mensem postquam publicata fuerit in suis diocesibus hec statuta, dimiserint, ab officio et beneficio suspendantur.</p>
+                    <p>Et si per annum in contumacia perstiterint, uel cum simile officium receperint, iterum suis beneficiis per episcopos suos sine spe restitucionis priuentur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>Item de canonicis ecclesiarum secularium et regulariam, et aliis beneficiatis clericis renuentibus ordines subdiaconatus, diaconatus recipere, uel ordinem sacerdotii, quando necessitas hoc requirit, et a suis episcopis requiruntur, constituciones et concilia super hoc edita mandamus inuiolabiliter obseruari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>Item de Iudeis eciam concilia et constituciones seruentur: et si domini seculares admoniti non compellunt eos signum portare, prelati procedant contra ipsos Iudeos, interdicendo commercia Christianorum cum eis, et alias puniendo, sicut in concilio et constitucionibus continetur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>Item de puniendis periuris qui aperte peierant, et iuramenti religionem contemnunt, statuta conciliorum et constitucionum iura obseruari precipimus: statuentes quod cum salutaria statuta super iis edita propter prelatorum negligenciam contemnantur, unde a periuriorum frequencia non cessatur, prelati de cetero predicta statuta inuiolabiliter obseruent, et in synodis suis ea publicantes, precipiant subditis inuiolabiliter obseruari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>Presertim de illis periuris, qui iurauerunt pro pace, pro fide, pro defensione ecclesie, seu eciam libertate.</p>
+                    <p>Et si uniuersitas aliqua in hoc culpabilis sit reperta, supponatur ecclesiastico interdicto, et persone culpabiles penis subiaceant editis in conciliis memoratis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>Statuta uero conciliorum super his edita per episcopos in synodos, ut supradictum est, et in ecclesiis seu aliis solennibus locis, publicentur frequenter, et periuros huiusmodi prelati uicinis episcopis et archiepiscopis, suis eciam subditis denuncient, qui ad dimtacionem sibi factam, in ecclesiis suis denunciare tenentur eosdem Dominicis diebus et festiuis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>Item de non exequentibus sentenciam inquisitorum, statuimus, quod moneantur per inquisitores uel loci diocesanum: et si moniti, infra terminum competentem eis prefixum non paruerint, censura ecclesiastica compellantur.</p>
+                    <p>Et si nec sic se emendauerint, tam diocesanus, quam inquisitores, contra eos clero ad hoc congregato et populo sentencialiter procedant, quasi contra defensores et fautores hereticorum.</p>
+                    <p>Et sentencia, postquam lata fuerit contra eos, per ipsum qui eam tulit, uel per inquisitores qui eam tulerunt, uicinis episcopis publicetur, ut eam denuncient et obseruent.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>Si quis uero episcoporum eam denunciare uel obseruare noluerit, donec faciat quod sit denunciatum, ut sit ei ecclesie ingressus interdictus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>Item ne inquisicionis negotium per aduocatorum strepitum retardetur, prouidendo statuimus, quod ab inquisitoribus non admittantur in processibus aduocati.</p>
+                    <p>Circa uero aduocatos hereticorum, fautores, et defensores, constitucionem de hereticis precipimus obseruari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>Item de sacrilegis et sortariis, quocumque nomine censeantur, et specialiter de his qui magistri sunt uel doctores in opere tam damnoso, statuimus quod si inuenti fuerint, reddantur suo episcopo: et, si moniti non resipuerint, immurentur, uel ab arbitrium episcopi puniantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>Item de illis qui propria temeritate crucem deponunt sibi impositam propter hereticorum prauitatem, statuimus, quod sine spe misericordie crucem resumere compellantur.</p>
+                    <p>Ita quod inquisitores uel illi qui presunt negocio, eis ultra non possint facere graciam super crucem.</p>
+                    <p>Et si moniti crucem resumere noluerint, tanquam heretici iudicentur.</p>
+                    <p>Idem de illis statuimus, qui de carceribus aufugiunt, nec moniti reuertuntur.</p>
+                    <p>Item de contemptoribus excommunicacionum, quantum ad eos qui sunt in regno Francie, obseruetur illa constitucio, Cupientes, et concilium Apamiarum.</p>
+                    <p>Quantum ad alios qui non sunt in regno, statuimus quod si perstiterint per sex menses in excommunicacione contumaciter, et moniti noluerint resipiscere, denuncientur infames et excommunicati in locis ubi morantur, et in locis uicinis: qua infamia non nisi per sedem apostolicam absoluantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>Item excommunicati, in consules, potestates, rectores, assessores, bailiuos, uel ad alia officia publica nullatenus eligantur, et qui tales scienter elegerint, excommunicentur, et nulla sentencia lata per ipsos, siue eorum auctoritate, ualeat seu processus habiti per eosdem, siue auctoritate ipsorum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>Quia uero intelleximus quod excommunicati quidam statuta quedam faciunt, precepta seu banna contra excommunicatores uel denunciatores excommunicacionum latarum, quod est quasi hereticum, et a disciplina ecclesiastica alienum, dum directe fiat hoc in contemptum clauium et elusionem ipsarum, quas ipsi nituntur infringere malicia obstinata, licet excommunicati intelligantur per constitucionem domini Honorii.</p>
+                    <p>Quia tamen constitucionem illam contemnunt, statuimus, quod quicumque statutum, preceptum, bannum, interdictum, furni, molendini, ignis, aque seu aliorum commerciorum, seu mandatum, fecerint contra excommunicatores uel denunciatores, apertum, tacitum uel occultum, denuncientur eciam propter hoc excommunicati.</p>
+                    <p>Et si moniti, infra decem dies non reuocauerint, et denuncientur excommunicati per totam prouinciam, et eciam in uicinis prouinciis, si uidebitur expedire: et cessetur a Diuinis in omnibus locis, ad que uenerint taliter excommunicati, quandiu moram fecerint in eisdem: nec absoluantur, donec satisfecerint competenter de damnis et iniuriis illatis propter hoc ecclesie et personis ecclesiasticis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>Precipimus autem quod prelati omnes cum a diocesano, qui excommunicacionem tulit, ipsis fuerit denunciatum, predictos denuncient, et illos uitent: et hoc medicinale statutum inuiolabiliter obseruent.</p>
+                    <p>Quod si non fecerint, ingressum ecclesie per mensem unum sibi nouerint interdictum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 17</head>
+                    <p>Item excommunicati publice se officiis ecclesiasticis pertinaciter ingerentes, nec uolentes inde recedere ad sacerdotis seu prelati mandatum, propter hoc excommunicentur, et a suo prelato excommunicati publice nuncietur, et non nisi per sedem apostolicam ab hac excommunicacionis sentencia absoluantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18</head>
+                    <p>Item illi qui frequenter et quasi ex consuetudine scienter excommunicatis communicant in officiis uel mensa, tanquam communicantes in crimine, per superiores ab ingressu ecclesie arceantur.</p>
+                    <p>Et si forte prelatus fuerit, per superiorem suum iuxta morem canonum puniatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 19</head>
+                    <p>Item de clericorum interfectoribus, benorum ecclesiasticorum raptoribus, ecclesiastice libertatis uiolatoribus, et initis contra statuta conciliorum societatibus, ac reformandis clericorum secularium uel religiosorum honestatibus, statuta conciliorum super his edita, et sacrorum canonum instituta precipimus inuiolabiliter obseruari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 20</head>
+                    <p>Quia uero colligaciones, societates, confratrie seu coniuraciones, quocumque nomine censeantur, improbate sunt a canonibus et constitucionibus conciliorum factorum per legatos Apostolice sedis in partibus et prouinciis istis, et omnino interdicte et cassate, et excommunicacio lata in factores: ideo de approbacione et consilio prelatorum omnium, predictas coniuraciones, obligaciones, societates, confratrias ciuitatum, castrorum, baronum, civium, et aliorum existentium in ciuitatibus, castris, uillis, contra statuta canonum et conciliorum factas relaxantes, dissoluimus et cassamus: decernentes sacramenta prestita ad predicta obseruanda, illicita, a quibus eos qui huiusmodi sacramenta prestiterunt, et pro iuramento prestito illicito a confessoribus suis penitenciam recipiant salutarem.</p>
+                    <p>Et nisi infra duos menses post publicacionem istorum statutorum se adinuicem absoluerint, denuncientur, auctores, factores, tractatores, et defensores, et fideiussores, pro his obseruandis, excommunicati.</p>
+                    <p>Et frequenter hec dissolucio et excommunicacio per prelatos in suis diocesibus et in suis synodis, diebus solennibus et festiuis publicentur, et faciant per subiectos sibi prelatos uel presbyteros publicari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 21</head>
+                    <p>Item precipimus excommunicari, et excommunicatos denunciari per predictos prelatos, omnes illos qui noluerint pacem iurare, cum fuerint requisiti, secundum statuta pacis, et conciliorum edita per Apostolice sedis legatos.</p>
+                </div>
+                <div>
+                    <head>Capitulum 22</head>
+                    <p>Item in presenti concilio tulimus excommunicacionem contra Fridericum, quondam imperatorem, hoc modo:</p>
+                    <p>Auctoritate beatorum apostolorum Petri et Pauli et domini pape, qua fungimur, et concilii congregati, denunciamus Fridericum quondam imperatorem, fautores, adiutores, et consiliatores suos, excommunicatos.</p>
+                    <p>Et anathematizamus et excommunicamus omnes illos, qui dictum Fridericum uocauerunt ad partes istas, uel uocauerint ad aliquem habentem potestatem suo nomine, et omnes illos qui dictum Fridericum uocauerint, et omnes illos qui ipsum receperint, uel aliquem nuncium suum, et oras que ipsum recipiunt, supponimus interdicto.</p>
+                    <p>Et nisi ad mandatum ecclesie uenerint illi qui uocauerint, eum uel nuncios suos, ad potestatem exercendam in partibus istis, infra triginta dies: ipsos et alios qui uocauerunt eum, uel nuncios suos ad potestatem exercendam in partibus istis, denunciamus infames, quod nec ad potestariam, nec ad consulatum, nec ad rectoriam, iudicatum, tabellionatum, nec ad testimonium, nec ad alios actus legitimos admittantur; et si de facto admissi fuerint, sentencia per eos lata, et quidquid per eos factum fuerit, nullam habeat firmitatem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 23</head>
+                    <p>Item denunciamus excommunicatos clericos, prelatos, qui eidem Friderico dederint auxilium uel fauorem.</p>
+                    <p>Et si tales ipsum uocauerint, denunciamus eos priuandos suis beneficiis, et prelatos dignitatibus suis deponendos, nec ab istis sententiis aliquis absolui possit, nisi per dominum papam, uel alium de suo speciali mandato.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Savona</title>
+                <recordID>1824</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1266-11-13</origDate>
+                <dateNotes/>
+                <origPlace>Savona</origPlace>
+                <diocese/>
+                <province>Milan</province>
+                <country>Italy</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Provincial</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 1824</p>
+                <p>Year: 1266</p>
+                <p>Month: 11</p>
+                <p>Day: 13</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Savona</p>
+                <p>Diocese: None</p>
+                <p>Province: Milan</p>
+                <p>CountryModern: Italy</p>
+                <p>Latitude: 44.3</p>
+                <p>Longitude: 8.483333</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Provincial</p>
+                <p>IssuingAuthority: Ottone VIsconti</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1262</p>
+                <p>RegnalEnd: 1295</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: Yes</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Atti dell' arcivescovo...di Milano (Visconti), p. 8, doc. VII</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: WebDownload</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: only one chapter survives</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>All Text</head>
+                    <p>...Item quecumque ciuitas uel alia uniuersitas persecuta fuerit suum antistitem, archiepiscopum uel episcopum et in huiusmodi presumptuosa persecucione perstiterit ita ut in sua sede maiori non audeat manere uel consenserit uel passa fuerit persecucionem huiusmodi fieri dummodo hoc ualeat prohibere, rector illius ciuitatis uel uniuersitatis, consiliarii et officiales sint ipso facto excommunicati; ciuitas uero uel uniuersitas ipso facto districte subiaceat interdicto.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1]</p>
+                    <p>[2]</p>
+                    <p>[]</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

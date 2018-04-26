@@ -1,0 +1,309 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ivrea</title>
+                <recordID>1819</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1290-05-24</origDate>
+                <dateNotes/>
+                <origPlace>Ivrea</origPlace>
+                <diocese>Ivrea</diocese>
+                <province>Milan</province>
+                <country>Italy</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 1819</p>
+                <p>Year: 1290</p>
+                <p>Month: 5</p>
+                <p>Day: 24</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Ivrea</p>
+                <p>Diocese: Ivrea</p>
+                <p>Province: Milan</p>
+                <p>CountryModern: Italy</p>
+                <p>Latitude: 45.466667</p>
+                <p>Longitude: 7.883333</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Alberto Gonzaga</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1288</p>
+                <p>RegnalEnd: 1321</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: Ivrea, ASD, x/6, HM. 3240302</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Alfonsi, RIcerche sulle costituzioni sinodali del vescovado di Ivrea (secoli XI-XV), tesi di laurea, Universita' di Torino, Facolta' di Giurisprudenza, 1982 (item 3, pp. 132-144)</p>
+                <p>EditionOther: Vignono, Visite pastorali, xxvi-xxviii (partial)</p>
+                <p>SourceNotes: parchment badly damaged and eaten by mice; copied by notary Guale da Flore sometime before 1337; combined with 1324 synodal statutes</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['Library Scan', 'Other']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: Inc. &quot;Et ego Antonius rapicia notarius...&quot;; Expl. &quot;in ecclesia iporiense.&quot;</p>
+                <p>BiblioRefs: Andenna, Storia della Chiesa di Ivrea, 411-413</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Et ego Antonius Rapicia notarius et dicti domini episcopi scriba.</p>
+                    <p>In nomine Domini nostri Iesu Christi amen.</p>
+                    <p>Inter cetera que ecclesiarum rectores efficiant in cospectu regis eterni placidos et in ecclesiis hominum graciossos id per grande id quasi precipuum fore digonscitur ut cum gregis… diligentis.</p>
+                    <p>Hac siquidem nos frater Albertus diuina miseracione episcopus iporegiensis, consideracionis racione commoti, infrascriptas constituciones, ordinaciones et statuta ad honorem Omnipotentis Dei et Beate Marie Uirginis [1]… nostrorum duximus promulganda.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>Primo igitur ut circa eucharestiam corporis Domini debita reuerencia a sacerdotibus exhibeantur et populi deuocio augeatur statuimus, uolumus et mandamus ut consacratum corpus dominicum contingerit ad infirmum defferri [2]… cetera illud in uasse mundo, decenti uellamine supposito, et clerico seu scolari cota inducta, cum campanella et lumine precedenti ferat et referrat; contrarium facientes nostro arbitrio puniantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>Item [3] ut dampnanda temeritas illarum qui mulieribus et aliis pro maleficiis exercendis exhibere et uandere non formidant penitus compescantur, hac constitucione firmiter prohibemus ne quis consecratas hostias uel crisma seu oleum benedictum pro malefitiis exercendis tradat; contrafacientes ex nunc prout ex tunc presentis constitucionis auctoritate sentenciam excommunicacionis incurrant et ne temeraria manus ad illa sacramenta se possit estendere, sacerdos quilibet sub fideli custodia clauibus adhibitis ea seruet [4].</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>Item statuimus ut unusquisque clericus tam ciuitatis quam diocesis [5] iporiensis, cuiuscumque dignitatis ordinis et condicionis existat, in diuinis officiis coctam seu capam clausam uel mantellam decenter deferrat, sub pena nostro arbitrio auferenda.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>Item statuimus ut tam clerici [6] ciuitatis quam diocesis iporegiensis in sacris ordinibus constituti uestimenta clausa de super ferant, girossis prorsus amotis, sub pena nostro arbitrio auferenda.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>Item statuimus ut nullus clericus nobis subditus [7]… personali sub pena nostro arbitrio auferenda.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>Item statuimus ut nullus clericus nobis subditus arma portare debeat; qui uero contrarium fecerit arma perdat et alia nostro arbitrio auferenda [8].</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>Item statuimus ut omnes prepositi et plebani, rectores ecclesiarum [9] diocesis nostre in suis ecclesiis continuam residenciam facere teneantur, nec se debeant ab eisdem absentare sine nostra licencia speciali sub pena nostro arbitrio auferenda.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>Item statuimus ut omnes et singuli clerici tam ciuitatis [10] quam diocesis nostre cuiuscumque dignitatis, ordinis seu condicionis existant, quatenus concubinas, focaria, seu amaxias usque ad XV. dies a publicacione presentium, a se remoueant illas uel alias de cetero nullatenus ad missuri, alioquin ex nunc pro [11] ut ex tunc eos et eorum quemlibet presentis constitucionis autoritate duximus ad officio suspendendos, ad alias penas nichilominus processuri, si et quantum eorum proteruitas meruerit eorum; nec in posterum clericus cum [12] muliere quam pro sua retinuit concubina seu amaxia uel de qua habetur suspectus, conloquium habeat in publico uel priuato ut omnis suspicio et delinquendi accusacio auferatur sub pena nostro arbitrio auferenda; nec filios [13] ex fornicacione susceptos secum in diuinis officiis seu in dominus ecclesie retinere presumat, sub pena nostro arbitrio auferenda.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>Hac constitucione firmiter prohibemus ne aliquis clericus nostre ciuitatis et diocesis [14]… eleuando de sacro fonte sub pena nostro arbitrio auferenda.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>Item statuimus et statutum esse declaramus quod nullus clericus tabernam seu caupunam retineat sub pena nostro arbitrio auferenda.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>Item statuimus… minutum non uendatur.</p>
+                    <p>Qui uero contra presentis constitucions tenorem uendi fecerit nostro arbitrio punietur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>Item firmiter inhibemus ne aliquis clericus nostre iurisdicionis subiectus et suppositus tabernam intret causa bibendi nisi fuerit in itinere constitus, sub pena [15] nostro arbitrio auferenda.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>Item statuimus quod nullus clericus ciuitatis et diocesis ad azardum aleas seu taxillos ludere audeat nec ludentilas seu ludis huiusmodi interesse sub pena nostro arbitrio auferenda.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>Item statuimus ut unusquisque clericus tonsuram et habitum defferat congruentem sub pena nostro arbitrio auferenda.</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>Item statuimus quod nullus clericus post sonum tercium campane per terram de nocte ire presumat nisi ad infirmos fuerit uisita dum constitutus; contrarium facientes nostro arbitrio puniantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>Item statuimus uolumus et mandamus quod nullus clericus et maxime in sacris ordinibus constitutus, tabellionatus seu aduocacionis seu procuracionis officia in foro… miserabilium personarum negocio duxerit facendum sub pena nostro arbitrio auferenda.</p>
+                </div>
+                <div>
+                    <head>Capitulum 17</head>
+                    <p>Item statuimus ne quis clericus choreas ducere su mittere nec maitinatas de nocte cum aliquibus ducere audeat sub pena nostro arbitrio auferenda.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18</head>
+                    <p>Hac sinodali constitucione prohibemus ne quis sacerdotum pro missa celebranda ad altare cum patinis aliquibus uel planellis accedat nec diaconus euangelium nec suddiaconus epistulam legant [16] et nullus clericus maxime canonicus aut in sacris ordinibus constitutus presumat intrare chorum uel ibi stare nudis pedibus dum diuina officia celebrantur sub pena nostro arbitrio auferenda.</p>
+                </div>
+                <div>
+                    <head>Capitulum 19</head>
+                    <p>Item statuimus ut quilibet clericus [17] ciuitatis et diocesis nostre, cuiuscumque ordinis, dignitatis, status et condicionis existat, ad sinodum uocatus personaliter accedere temeatur; nisi fuerit in infirmitate uel alio iusto impedimento detentus et tunc aut per certum nuntium aut per suas certas litteras se excusare procuret [18].</p>
+                    <p>Contrarium facientes nostro arbitrio puniatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 20</head>
+                    <p>Item statuimus, uolumus et mandamus ne aliquis peregrinus sacerdos in aliqua ecclesiarum nostre ciuitatis et diocesis admittatur ad diuina officia celebrandum absque litteris commendatiis diocesani sui [19].</p>
+                    <p>Qui uero contrarium fecerit nostro arbitrio puniatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 21</head>
+                    <p>Item statuimus quod nullus questuarius in aliqua ecclesiarum ciuitatis et diocesis nostre ad predicandum et questum petendum admittatur nisi cum litteris nostro sigilli munitis… tamdiu detineatur quousque nostris omnibus intimetur; qui contrarium fecerit nostro arbitrio puniatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 22</head>
+                    <p>Interdicimus clericis uniuersis nostre iurisdicioni subiectis cuiuscumque condicionis existant ne per se uel per alios [20]… occulte nec familiares secum retineant qui illas exerceant; contrarium facientes ex nunc prout ex tunc presentis constitucionis auctoritate sint suspensi et pecuniam sic mutuatam perdant.</p>
+                    <p>Quam uobis… actum processuri prout eorum temeritas exerit exegerit et nobis uidebitur respectiue.</p>
+                </div>
+                <div>
+                    <head>Capitulum 23</head>
+                    <p>Item statuimus quod nullus manifestus usurarius admittatur ad ecclesiasticam sepulturam licet mandauerit uniuersis usuras restituere… restituendis eisdem secundum formam constitucionis Gregorii decimi que sic incipit: quamquam usurarii manifesti… [21]; quam constitucionem uniuersos et singulos ecclesarum recotres in suis ecclesiis tenere debeant statuimus sub pena nostro arbitrio auferenda [22].</p>
+                </div>
+                <div>
+                    <head>Capitulum 24</head>
+                    <p>Item statuimus et statutum fore declaramus quod nullus clericus ciuitatis et [23] diocesis iporiensis usurariis pecuniam fenebram exercentibus alienigenis et non oriundis de terris domos ad… terris retinuerunt, si clerici sunt ipsos excommunicatos fore declaramos si uero laici eos secundo et tercio peremptorie admonemus ut dictos usurarios intra unius mensis spatium a publicacione… eos ex nunc prout ex tunc manere uolumus ipso facto.</p>
+                </div>
+                <div>
+                    <head>Capitulum 25</head>
+                    <p>Item statuimus, uolumus et mandamus quod omnes ecclesiarum parrochialium rectores, tam ciuitatis quam diocesis nostre, omnes adulteros et adulteras… quibus noticiam habeant, infra .XV. dies postquam ad eorum noticiam peruenerit debeant nunciare [24] eos inde pena delita castigare possimus, sub pena nostro arbitrio auferenda.</p>
+                </div>
+                <div>
+                    <head>Capitulum 26</head>
+                    <p>Clamdestina matrimonia penitus inhibemus; prohibere exoresse ne quis sacerdos talibus interesse presumat, statuimus [25] ut cum matrimonia fuerint contrahenda in ecclesiis presbiteri publice proponant competenti termino preffinito ut infra illum qui uoluerit, legitimum impedimentum opponat et eciam ipsi presbiteri nichilominus inuestigant utrum aliquod impedimentum obsistat; cum autem [26] probabilis apparuerit coniunctura contra copulam contrahendam, tractatus impediatur expresse donec qui fieri debeat super eo maniffestis constituerit documentis, si autem in conputacione graduum aliqua dubitacio emerxerit, in hoc deffinitum equum requiratur nec sacerdos quisquam aud [27] eat in cassu dubio perficere matrimonium episcopo inconsulto, sed ad ipsum referrat quando emerxerint questiones super matrimoniis, semper prohibeant sacerdotes in nuptiis sortilegia, et hec nostra constitucio sepe populo per sacerdes exponatur [28]; si quis autem ad impediendam legitimam copulam [29] maliciossum impedimentum obiecerit, et qui matrimonia nisi in face ecclesie contraxerit si ipso facto excommunicatus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 27</head>
+                    <p>Item statuimus quod nullus clericus nostre ciuitatis et diocesis sortilegia, diuinaciones, incantaciones facet… moni consulat uel illos ad eorum domos accedere faciat; qui contrarium fecerit sit a benefficio presentis constitucionis auctoritate suspensus et aliter nostro arbitrio puniatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 28</head>
+                    <p>Item presenti constitucione sancimus quod cuilibet ecclesiastico… gos diuinos incantatores, malefficos precantantes et consimiles, quocumque nomine censeantur, nobis infra .XV. dies postquam huiusmodi ad ipsorum noticiam deducentur, denunciare non tardet ut huiusmodi pestes, que ex hiis rebus efficiuntur, destruantur sub pena nostro arbitrio auferenda.</p>
+                </div>
+                <div>
+                    <head>Capitulum 29</head>
+                    <p>Presenti edito inhibemus expresse ne aliquis clericus ciuitatis et diocesis iporiensis terras domos, terras uineas aliaque immobilia bona seu eciam cruces, calices, turribula, libros et quidlibet nostre diocesis debere alienare, seu cedere sub modico censu ea in fraude concedere aliquo modo presumat sine nostra licencia speciali.</p>
+                    <p>Et si quis ea et eorum aliquot concessit uel alienauit illud infra mensem a publicacione presentium stud… nunc uarcum et mane.</p>
+                    <p>Contrarium facientes penis legitimis a sacris canonibus constitutis ac aliis nostro arbitrio infligendis, decreuimus subiacere mandantes uniuersis et singulis ecclesiarum rectoribus… asticarum siue ad suas ecclesias siue ad alias quascumque nostre diocesis pertineant et nomine muassorum occupantium et detentorum bona predicta nobis in scriptis intra eundem terminum denunciare et eciam mandamus omnibus ecclesiarum rectoribus tam ciuitatis quam diocesis nostre ut omnes possessiones reditus et prouentus suarum ecclesiarum fideliter conscribant et de iis inuenciarium faciant nobisque presentent infra… ipso et nunc prout ex tunc eisdem sic obmissis decernimus esse priuatos et ordinabimus prout nobis uidebitur expedire.</p>
+                </div>
+                <div>
+                    <head>Capitulum 30</head>
+                    <p>Item statuimus quod quibuslibet diebus dominicis et festiuis in suis parrochialibus… et honeste morentur sub pena nostro arbitrio infligenda.</p>
+                </div>
+                <div>
+                    <head>Capitulum 31</head>
+                    <p>Item statuimus et statutum fore declaramus quod quilibet utriusque sexus saltem semel in domo recipiat eucharistie sacramentum; contrafacientes excommunicacionis sentenciam incurrant; quis excommunicacionis sentenciam per mensem animo sustinuerit indurato, si laicus est .XL. solidorum censualis monete pena mulctetur et aliter pena grauiori prout eius obstinacio meruerit pur… suorum existenciam meritorum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 32</head>
+                    <p>Ne ecclesia Dei maxime status et ordines formam ordinis regularis per apostatas uiros inutiles infametur, omnes et singulos apostatas nostre ciuitatis… publicacione presentis constitucionis ad religiones siue ordines redeant de quibus tenere exiuerunt uel ad alios ordines infra octo dies dictos .xv. immediate sequentes peremptorie de… alioquin ex nunc in omnes et singulos apostatas supraddictos excomunicacionis sentenciam duximus profferendam contra eos factores et receptatores siue defensores eorum acrius processuri…</p>
+                </div>
+                <div>
+                    <head>Capitulum 33</head>
+                    <p>Item statuimus, uolumus et mandamus ut omnes abbates et priores monachos suos apostatas et fugitiuos de monasteriis eiectos uolant et [30] ad suum monasterium sub pena excommunicacionis recipere studeant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 34</head>
+                    <p>Item precipimus ut pro primo [31] secundo ed tercio peremptorie omnes et singulos quam clericos tam laicos ciuitatis et diocesis nostre qui habuerint uel habent de rebus mobilibus et immobilibus et semouentibus certis et scripturis alias ad ecclesiam iporiensem infra .X. dies a publicaciones presentis constitucionis restituant uel illis quibus hoc duximus committendum.</p>
+                    <p>Simul eciam admonemus omnes scientes aliquos habere de rebus predictis ut intra eundem terminum habentes huiusmodi nobis uel illis quidue hoc committemus denunciare procurent; alioquin aduersus eos qui contrafecerint excommunicacionis sentenciam promulgamus; et hec nostra sentencia per sacerdotes sepe populo exponatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 35</head>
+                    <p>Precipimus quod sacerdotes in confessione maiora maioribus reseruantes, mittant ad episcopum penitentes propter omicidia, blasphemos, in rectores manuum mittantes siue clericos uel quoscumque religiossos, propter incendia, propter simoniam [32], propter factam litterarum falsitate, propter incestum, propter lapsum carnis in masculos cum brutis cum monialibus, propter uiolacionem cimiteriorum et eciam [33] ecclesiarum, hereticos et scismaticos, sortilegii diuinatores [34] et huiusmodi et qui ad eos accedunt, qui de sacramentis Ecclesie sortillegia commiserunt uel ad hoc consilium prestiterunt uel qui abortiuum facere presumpserunt uel ut fieret modo aliquo procurant; item clerici penitentes pro irregularibus factis sunt ad episcopum mittandi [35], qui bis permixit se baptizari et qui scientes interfuit; qui sine prima tonsura aliquem ordinem susceperit, quicumque per se uel per alium omicidium perpetrauit uel iudicio sanguinis interfuerit.</p>
+                    <p>Item qui auctoritatem, consilium in aliquo impendit unde mors hominis uel membrorum multillacio est secuta, siue in aliquo occasio siue causa fuit, qui litteras dictat, scribit uel legit uel aliquo aminichulum ad hoc prestat ut aliquis mutiletur, ad episcopum est mittendus.</p>
+                    <p>Item clerici uel presbiteri qui suspensi, promoti sunt uel qui excommunicati celebrauerunt diuina.</p>
+                    <p>Item sacerdos minister cuius negligencia aliquid circa sacramentum altaris inhonestum quocumque modo euenit, ad episcopum debet mitti.</p>
+                </div>
+                <div>
+                    <head>Capitulum 36</head>
+                    <p>Item districte precipimus quod omnes abbates, priores, prepositi plebani et alii ecclesiarum rectores, presentes constituciones [36] infra duorum mensium spatium a publicacione presentium, de manu nostri notarii habeant et recipiant ipsasque sepe legant et exponant sibique legi faciant et exponi ne earum transgressores pretextu ignorantie se ualeant excusare.</p>
+                    <p>Similiter monemus pro primo, secundo et tercio perentorie subditos nostros uniuersos et singulos, ut statuta nostra, precepta predicta inuiolabiliter teneant et obseruent.</p>
+                </div>
+                <div>
+                    <head>Explicit</head>
+                    <p>Lecte et promulgate fuerunt et approbate secundum… anno Domini Millesimo [38]. CCLXXXX., indiccione tercia, die.XXIIII., mensis maii, presentibus clero et capitulo iporiense tam ciuitatis quam diocesis et deceptantibus constituciones easdem actum in ecclesia iporiense…</p>
+                    <p>In nomine [37] Domini amen.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] Ed. in parentheses: (Dei et Beate Marie Uirginis)</p>
+                    <p>[2] (dominicum contingerit ad infirmum defferri)</p>
+                    <p>[3] Open parenthesis before Item, no closing parenthesis</p>
+                    <p>[4] (adhibitis ea seruet)</p>
+                    <p>[5] From Item in parentheses</p>
+                    <p>[6] From Item in parentheses</p>
+                    <p>[7] (nobis subditus)</p>
+                    <p>[8] (arbitrio auferenda)</p>
+                    <p>[9] From Item in parentheses</p>
+                    <p>[10] (ut omnes et singuli clerici tam ciuitatis)</p>
+                    <p>[11] From de cetero in parentheses</p>
+                    <p>[12] (nec in posterum clericus cum)</p>
+                    <p>[13] (nec filios)</p>
+                    <p>[14] (ciuitatis et diocesis)</p>
+                    <p>[15] From intret causa in parentheses</p>
+                    <p>[16] (suddiaconus epistulam legant)</p>
+                    <p>[17] (Item statuimus ut quilibet clericus)</p>
+                    <p>[18] From aut per in parentheses</p>
+                    <p>[19] From absque in parentheses</p>
+                    <p>[20] (alios)</p>
+                    <p>[21] From quamquam in quotacion marks</p>
+                    <p>[22] From tenere debeant in parentheses</p>
+                    <p>[23] Edited from ed</p>
+                    <p>[24] damage; in eos?</p>
+                    <p>[25] From prohibere in parentheses</p>
+                    <p>[26] From inuestigant in parentheses</p>
+                    <p>[27] From in hoc in parentheses</p>
+                    <p>[28] (populo per sacerdes exponatur)</p>
+                    <p>[29] From si quis autem in parentheses</p>
+                    <p>[30] Edited from ed</p>
+                    <p>[31] From Item in parentheses</p>
+                    <p>[32] Edited from siminiam</p>
+                    <p>[33] Open parentheses</p>
+                    <p>[34] Close parentheses after di-</p>
+                    <p>[35] From item clerici in parentheses</p>
+                    <p>[36] (rectores, presentes constituciones)</p>
+                    <p>[37] (In nomine)</p>
+                    <p>[38] ed. Millio</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gniezno</title>
+                <recordID>2019</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1290-09-14</origDate>
+                <dateNotes/>
+                <origPlace>Gniezno </origPlace>
+                <diocese>Gniezno </diocese>
+                <province>Gniezno </province>
+                <country>Poland</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Provincial</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 2019</p>
+                <p>Year: 1290</p>
+                <p>Month: 9</p>
+                <p>Day: 14</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: held in September (acc Palazzini) correcting KDW/Gromnicki (who said October)</p>
+                <p>Place: Gniezno </p>
+                <p>Diocese: Gniezno </p>
+                <p>Province: Gniezno </p>
+                <p>CountryModern: Poland</p>
+                <p>Latitude: 52.533333</p>
+                <p>Longitude: 17.6</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Provincial</p>
+                <p>IssuingAuthority: Jakob Swinka</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: Yes</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Kodeks dyplomatyczny Wielkopolski II, 35 (no. 654)</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: ['only fragments of two decrees survive', 'http://www.wbc.poznan.pl/Content/20067/kw_02.html']</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'WebDownload']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: ['Gromnicki, Synody prowincyonalne, 215-16: https://books.google.com/books?id=tdLcnQAACAAJ', 'Korytkowski, Arcybiskupi gnieznienscy, I, 480-81: https://books.google.com/books?id=4rsaAAAAYAAJ']</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>De iniuriis clericis illatis.</p>
+                    <p>Quod si episcopum capi contigerit, uulnerari uel occidi, generale interdictum in tota prouincia obseruetur; in alio prelato uel canonico cathedralis ecclesie, si predicta fuerint perpetrata, in tota diocesi generaliter cessabitur a diuinis; si autem circa plebanum uel aliam personam ecclesiasticam, religiosam uel secularem similia fuerint attemptata, in toto archipresbiteratu; si uero ipsum archipresbyteruin predictas iniurias pati contigerit, in toto archidiaconatu cessabitur a diuinis.</p>
+                    <p>Si res ipsorum capi contigerit et ad locum aliquem deduci, locus in quo rapiuntur et in quo detinentur, debeat subiacere ipso facto ecclesiastico interdicto.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>De anno gracie.</p>
+                    <p>Propter salutem animarum prelatorum et beneficiatorum quorumcunque, ac propter consolacionem amicorum et seruitorum eorundem, per mortem ipsorum desolatorum, statuimus [1], ut cum quis [2] de clero beneficiatus decederet, fructus primi anni pro debitis ipsius, seruitoribus et amicis eiusdem, et aliis piis causis et exequiis per illius anui circulum faciendis per eum quem ad hoc executorem eligeret; aut si intestatus decederet, si cathedralis, collegiate aut conuentualis ecclesiarum prelatus canonicusque esset, per diocesanum; si uero ruralis ecclesie rector uel alius quicunque clericus existeret, per decanum, sub testimonio archidiaconi pro salute ipsius anime conuerti deberent, deductis prouentibus unde uicarius ualeat in ecclesia sustentari; annum Domini a Circumcisione eiusdem inchoando.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] statuimus in parentheses in ed.</p>
+                    <p>[2] Ed reads quits; corr. RWD to quis</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

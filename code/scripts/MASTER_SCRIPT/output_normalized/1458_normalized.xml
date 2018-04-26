@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Canterbury</title>
+                <recordID>1458</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1432</origDate>
+                <dateNotes/>
+                <origPlace>London</origPlace>
+                <diocese>Canterbury</diocese>
+                <province>Canterbury</province>
+                <country>England</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Provincial</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 1458</p>
+                <p>Year: 1432</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: London</p>
+                <p>Diocese: Canterbury</p>
+                <p>Province: Canterbury</p>
+                <p>CountryModern: England</p>
+                <p>Latitude: 51.507222</p>
+                <p>Longitude: -0.1275</p>
+                <p>PlaceNotes: [check place]</p>
+                <p>Classification: Provincial</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Records of Convocation 5, p. 300</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['Library Scan', 'Hard Copy Scan']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: ['[Second] constitution abolishing so-called &quot;Auncell weight&quot;', '[delete from database?]']</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>All Text</head>
+                    <p>Henricus, permissione diuina Cantuariensis archiepiscopus, totius Anglie primas et apostolice sedis legatus, uniuersis et singulis rectoribus uicariis capellanis curatis etc.</p>
+                    <p>Senscentis mundi malicia ferali more lasciuiens contra salutaria maiorum constituciones ut prius usque ibidem in spiritu leuitatis.</p>
+                    <p>Quocirca de dictorum confratrum nostrorum consilio uobis omnibus et singulis auctoritate dicti concilii committimus et mandamus sub pena inobedientie et contemptus firmiter iniungentes quatenus omnes et singulos parochianos uestros quibuscunque pondenibus aut mensuris notabiliter standardo regia discordantibus et precipue dicta prohibito pondere le auncell scheft seu poundre uulgariter nuncupato qualitercunque utentes utiue facientes eisdem prima, secundo et tercio peremptorie maneatis et ipsos quantum in uobis est efficaciter inducatis moneriue seu sic induci faciatis eosdem quos eciam tenore presentium peremptorie monemus quatenus infra unius mensis spatium a tempore monicionis uestre huiusmodi quin uerius nostre continue numerandum ab omni pondere seu mensura standardo regio (ut prefertur) notabiliter discordante et presertim ab omni usu quin potius abusu dicti prohibiti ponderis uocati le auncell scheft seu poundre abstineant et desistant omnino abstineatque et desistat quilibet eorundem.</p>
+                    <p>Dictaque mensuras et pondera sic ut premittitur [1] prohibita realiter et cum effectu dimittant eadem uel eorum aliquo de cetera nullatenus receptura nec eis aut aliquo eorundem usum sub pena excommunicacionis maioris quam etc.</p>
+                    <p>Quorum absolucionem diocesanis locorum et penitenciariis eorum specialiter reseruamus, etc.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] (ut premittitur)</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Padua</title>
+                <recordID>1845</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1447</origDate>
+                <dateNotes/>
+                <origPlace>Padua</origPlace>
+                <diocese>Padua</diocese>
+                <province>Aquileia</province>
+                <country>Italy</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 1845</p>
+                <p>Year: 1447</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Padua</p>
+                <p>Diocese: Padua</p>
+                <p>Province: Aquileia</p>
+                <p>CountryModern: Italy</p>
+                <p>Latitude: 45.416667</p>
+                <p>Longitude: 11.866667</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Pietro Dona'</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1428</p>
+                <p>RegnalEnd: 1447</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Ceccon, Sinodi diocesane, pp239-241</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'WebDownload']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: additions to earlier Liber Synodalis of 1433</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Constituciones noue anno Domini MoCCCCo XLVII.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>Ad constitucionem de utentibus falsis probacionibus addicio supra a carta.</p>
+                    <p>Quia sunt nonnulli tam procuratores quam causidici et alias causarum solicitatores plus comodum clientullorum suorum, quod tamen damnabile est, incomodum procurantes quam iustitie debitum, in tantum quod eciam hi tales omni Dei postposito timore et honestatis non erubescunt scienter et uti et docere usum falsorum instrumenorum, posicionum et probacionum, que res et animas talium interimit et facultates deceptorum in causis surripit iniuste atque deuorat; uolentes itaque quantum possibile sit huiusmodi falatiis occurere, additientes ad constitucionem de utentibus falsis probacionibus et cetera hac sinodali sanccione statuimus, quod si quis procurator causarumque solicitator uel quisuis alius causidicus de cetero deprehensus fuerit scienter usus fuisse uel uti docuisse uel fecisse falsis instrumentis uel probacionibus uel aliis quibuscumque posicionibus in causis emergentibus et in curia nostra episcopali uentillatis, et maxime in causis beneficialibus et matrimonialibus, ultra penam excomunicacionis quam ex vi prime constitucionis incurrit ipso facto et ultra penam periurii et infamie a iure impositam, talis falsarius per facti euidenciam uel alias in his de falso conuictus uel confessus, penam ducentarum librarum incurrat ipso facto, cuius tercia pars sit damnum passi, tercia sit phisci episcopalis et tercia denunciatoris si apparuerit; decernentes quod, si aliquis ex falsariis istis alios denunciauerit in premissis, nullam quoad causam in qua falso usus fuerit et denunciauerit penam incurrat e nihilominus tercium talis pene lucretur.</p>
+                    <p>Addicientes et mandantes quoad terrorem talium falsariorum hec nostra constitucio singulo anno in prima publica audiencia curie episcopalis paduane, prima die iuridica post sinodum et prima die iuridica sancte quadragesime, semper et in perpetuum legi debeat et publicari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>Pro reddenda racione et conseruacione bonorum hospitalium et fabricarum ecclesiarum omnium.</p>
+                    <p>Quia in plerisque ecclesiis et hospitalibus tam ciuitatis quam diocesis nostre deputati et ordinati sunt certi et speciales annui redditus pro fabricis reparacionibus et usibus ecclesiarum predictarum ac pauperum substentacionibus, soliti gubernari et administrari uel per massarios ecclesiarum predictarum uel hospitalarios siue priores uel per alios deputatos per loca, tam clericos quam laicos, qui cum tenerentur fideliter et pie administrare et distribuere ad usum fabricarum predictarum et pauperum et de distributis iustum computum tenere et racionem ostendere, nichilominus quia nonnulli ex his talibus plus proprium comodum et utilitatem querunt quam que Dei sunt, quamque curent de fabricis ecclesiarum predictarum e pauperum substentacione, uolentes et quantum cum deo possumus intendentes ad reparacionem, conseruacionem et augmentum ecclesiarum omnium ac Christi pauperum uegetacionem et potissime habentibus fabricas huiusmodi et hospitalium hospitalitatem tenentium uel tenere debentium, hac nostra saluberrima constitucione statuimus et ordinamus quod singulo anno in sancta synodo archipresbiteri, presbiteri et rectores ecclesiarum tam ciuitatis quam diocesis nostre teneantur in scriptis tradere nomina massariorum et gubernatorum fabricarum predictarum ac nomina priorum siue gubernatorum hospitalium parochiarum siue uillarum et locorum suorum, eosque ex forma huius constitucionis monere, quos nos eciam per presentes monemus, quatenus ex assumpcione talium suorum officiorum teneantur uenire una cum archipresbiteris uel rectoribus ecclesiarum predictarum siue massariis earundem et hospitalium conseruatoribus cum inuentariis introituum talium fabricarum et hospitalium, et corporale subire iuramentum per manus nostras uel uicarii nostri seu alterius per nos ad hec deputandi, quod bona fide et conscienciose, recte, integre et fideliter gubernabunt et administrabunt redditus fabricarum et hospitalium predictorum, eosdem redditus ad ordinatum usum distribuendo, sub pena decem librarum applicandarum ecclesiis et hospitalibus illis quarum et quorum tales massarii et gubernatores siue priores et hospitalarii sic electi per singulos annos non uenerint ad iurandum et sub pena dupli omnium exactorum, si per singulos annos non reddiderint fidele computum de administratis huiusmodi nobis uel officialibus nostris uel aliis idoneis personis saltem de nostra licencia super hoc deputatis uel deputandis, uel si deprehensi fuerint in proprios usus dedisse tales redditus uel alias indebite defraudasse, occultasse uel inconsulte alienasse predictos.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>Constitucio de percepcione et diuisione fructuum beneficiorum et de modo solucionis daciarum et aliorum onerum pro beneficiis occurrentium.</p>
+                    <p>Quoniam frequenter in nostra curia lites oriri uidimus super fructibus, redditibus et prouentibus beneficiorum ciuitatis et diocesis nostre paduane inter dimittentes beneficia et eorum successores et consequenter circa collectas seu imposiciones que ipsis beneficiis racione huiusmodi fructuum imponuntur, quibusdam asserentibus annum quo ad percipiendos huiusmodi fructus incipiendum esse natiuitate Domini, quibusdam ab incarnacione, aliis uero a festo sancti Petri de mense iunii et secundum hoc eciam onera beneficiorum dicunt regulari debere; nos igitur lites sedare cupientes et in premissis certam et indubitatam tradere legem, presenti constitucione decernimus, statuimus et ordinamus quod annus quoad premissa incipere debeat in festo beati Petri apostoli de mense iunii, cum tunc temporis nouos fructus recolligere incipiamus, sicque incipiendo beneficiati percipere debeant fructus quorum usuarii et possessores sint, pro cursu temporis quo uidelicet steterunt in beneficiis, et similiter pro eodem tempore omnia onera temporalia et spiritualia incumbencia predictis beneficiis persoluere habeant integraliter, quodque beneficiati predicti, si dimiserint beneficia predicta quandocunque infra annum, uel sui heredes legitimi si decesserint testati tantum, dimittere uel tradere debeant de fructibus ipsorum beneficiorum successoribus eorundem quantum pro rata temporis usque ad nouos fructus dare debebunt, eciam pro collectis et aliis oneribus occurrentibus.</p>
+                    <p>Declarantes nihilominus quod propter hanc nouam nostram costitucionem in aliquo non derogetur statuto ecclesie paduane iamdudum in eadem seruato, quod quidem statutum locum habere uolumus in beneficiatis dicte ecclesie paduane dumtaxat et non in aliis.</p>
+                    <p>Constitucionibus eciam de prestando fideiussores per beneficiatos siue beneficiandos tempore institucionis eorumdem in beneficiis alias in suo robore permansuris.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1]</p>
+                    <p>[2]</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

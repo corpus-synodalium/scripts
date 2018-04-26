@@ -1,0 +1,309 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Coutances</title>
+                <recordID>1036</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1372-04-06</origDate>
+                <dateNotes/>
+                <origPlace>Coutances</origPlace>
+                <diocese>Coutances</diocese>
+                <province>Rouen</province>
+                <country>France</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 1036</p>
+                <p>Year: 1372</p>
+                <p>Month: 4</p>
+                <p>Day: 6</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Coutances</p>
+                <p>Diocese: Coutances</p>
+                <p>Province: Rouen</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 49.046111</p>
+                <p>Longitude: -1.443889</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Bessin, II, 560-64</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: https://books.google.com/books?id=0SGIk69vxS0C</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Data Capture']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>[1] SIluester Dei et Apostolice Sedis gracia Constantiensis Episcopus, Decano Christianitatis Constant. et omnibus aliis Decanis, Ecclesiarum Rectoribus, personis ecclesiasticis salutem in Domino.</p>
+                    <p>Cum Statuta et precepta Synodalia Constantiensia a predecessoribus nostris Episcopis Constantiensibus ordinata et edita, necnon et Statuta Prouincialia, et contenta in eisdem pro communi utilitate facta, ab aliquibus ecclesiarum Curatis et aliis personis ecclesiasticis nostrarum ciuitatis et Diocesis debeant obseruari, et ad obseruacionem huiusmodi preceptorum omnes subditi nostri censura ecclesiastica possint et debeant canonice compelli, et eorum transgressores corrigi et puniri secundum canonicas sancciones.</p>
+                    <p>Uerum quia nonnulli ex Curatis, et personis ecclesiasticis nobis subditis Statuta predicta Prouincialia et Synodalia a longo tempore, sicut experiencia docuit, prout tenentur nunc obseruare non curarunt, quod nulli dubium, uertitur in eorum periculum animarum et scandalum ipsorum plurimorum: uolentes super hoc de oportuno prouidere remedio, et talibus periculis quantum possumus prouidere et obuiare, in nostra sancta Synodo Constantiensi hac die Martis post Quasimodo 6. mensis Aprilis anno Domini 1372. certas ordinaciones et Statuta fecimus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>Imprimis ordinamus et precipimus quod precepta et Statuta Synodalia dictorum predecessorum nostrorum, necnon et Statuta Prouincialia supradicta in suis formis a quibuscumque subditis nostris fideliter et inuiolabiliter obseruentur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>Precipimus omnibus et singulis personis ecclesiasticis nostrarum ciuitatis et Diocesis, qui in beneficiis suis residenciam personalem, ut tenentur non faciunt, et qui non habent per se Apostolicam, uel per nos licenciam de non residendo, petant et obtineant cum effectu: alias contra tales prout iuris et racionis fuerit, ipsorum absencia non obstante, procedemus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>Inhibemus sub pena suspensionis et excommunicacionis omnibus Capellanis ne in Ecclesiis parochialibus deseruire presumant, nisi primitus nobis fuerint presentati, et per nos, uel a nobis deputati et approbati, et animarum cura prout iuris est eisdem fuerit commissa.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>Prohibemus sub penis predictis omnibus Rectoribus, Capellanis, et coeteris personis ecclesiasticis, ne de coetero in domibus, aut locis priuatis, necnon in locis interdictis, nobis inconsultis, nisi in casibus a iure permissis, audeant celebrare diuina.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>Precipimus ne aliqui beneficiati, cuiuscumque status et condicionis existant, causa peregrinandi, uel aliter, a ciuitate et Diocesi nostris, non petita uel obtenta licencia se habeant absentare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>Prohibemus ne Clericus alium Clericum, seu quamuis aliam personam ecclesiasticam, super accionibus personalibus, nobis inconsultis, in foro seculari conuenire presumat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>Prohibemus ne persone ecclesiastice procuratores in rebus laicorum fiant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>Statuimus ne laici secus altare dum misteria celebrantur inter Clericos stare uel sedere presumant, sed pars illa que cancelli ad altare dicitur, tantum psallentibus pateat Clericis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>Prohibemus ut nullus Sacerdos feminas, de quibus suspicio possit esse, retineat; et qui publice eis abuti uoluerint, ne talia faciant, censura ecclesiastica compellantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>Precipimus ut Sacerdotes et alii Clerici eundo et redeundo, cum deuocione in gestu et habitu se exhibeant modestos, iuxta suum Ordinem tonsuram congruam deferentes, ne status ipsorum uertatur in opprobrium.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>Precipimus ut ab ebrietate omnes persone ecclesiastice diligenter se abstineant, uinoque sibi temperent, maxime cum ebrietas mentis inducat exilium, libidinisque prouocet incentiuum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>Precipimus sub penis suspensionis et excommunicacionis ut persone ecclesiastice ad taxillos publice non ludant, nec mimis, ioculatoribus, et histrionibus intendant, nec talibus ludis intersint, sed se in aliis bonis ludis immisceant diligenter.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>Precipimus ut omnes ecclesiarum Curati in Ecclesiis parochialibus singulis diebus Dominicis et festiuis omnes impedientes iurisdiccionem nostram ecclesiasticam publice denuntient excommunicatos.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>Precipimus ut nullus Presbyter excommunicatum a Nobis, uel ab alio quocumque iudice ordinario, pro absoluto habeat, uel ad sacramenta ecclesiastica recipiat, donec a Nobis, uel eius excommunicatore, de eius absolucione constiterit euidenter; sed ab omnibus uitetur, ut rubore suffusus reconciliacionis graciam ualeat impetrare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>Statuimus ut quilibet scedulam aut cartam habeat, in qua nomina excommunicatorum parochie sue scribat, et eos excommunicatos, et cuius auctoritate, et quo instante, sue parochie singulis diebus Dominicis denuntiet, licet a nemine fuerit requisitus.</p>
+                    <p>Necnon omnes redditus Ecclesie, possessiones, et legata in Missalibus uel aliis scribat.</p>
+                    <p>Nec de his que sunt de Ecclesia Presbyteri alienent, nisi per consilium nostrum: si quid autem factum, uel attentatum fuerit in contrarium, ipso iure irritum decreuimus et inane.</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>Precipimus ne quis duas Missas in una Ecclesia, uel pluribus, una die, exceptis casibus a iure permissis, nisi fuerit super hoc a nobis dispensatus, celebrare presumat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 17</head>
+                    <p>Uerum quia humane leges testatorum exitum tanquam arbitrium precipiunt obseruari.</p>
+                    <p>Statuimus ut infra tres menses quilibet Rector parochialis Ecclesie nomina et cognomina parochianorum suorum defunctorum, quorum testamenta non fuerunt legitime approbata a Nobis uel aliis per nos ad hoc deputatis, in scriptis notificet.</p>
+                    <p>Necnon nomina executorum huiusmodi defunctorum, dictaque testamenta, si scripta fuerint, legitime approbata, Nobis, uel aliis ad hoc per nos deputatis in scriptis notificet.</p>
+                    <p>Necnon nomina executorum huiusmodi defunctorum deferentes, ne fraudis locus relinquatur, ut moris est ualeant approbare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18</head>
+                    <p>Nonnulli, quod dolentes referimus, bona intestatorum decedentium, et qui in dictis nostris ciuitate et Diocesi decesserunt intestati, quorum cognicio, deuolucio, et omnimoda disposicio ad Nos tam de iure quam consuetudine notoria pertinere noscuntur, propriis commodis inhiantes, pluribus coloribus exquisitis, temporibus retroactis auctoritate propria sed potius uoluntate temeraria, ceperunt, capiunt, occupant, ac detinent indebite et de facto, prout ex relacione fide dignorum ad nostrum peruenit auditum.</p>
+                    <p>Inhibemus sub penis suspensionis et excommunicacionis, ne aliquis, cuiuscumque condicionis et status existat, sub colore alicuius debiti, quouis modo bona intestatorum huiusmodi auctoritate propria temeraria presumant aliqualiter occupare, donec per Nos super talibus, prout de iure est faciendum fuerit ordinatum.</p>
+                    <p>Mandantes et precipientes sub penis prelibatis omnibus Rectoribus et personis ecclesiasticis, ut infra tres menses a tempore notitie quilibet in sua parochia nomina et cognomina dictorum intestatorum cum inuentario bonorum ipsorum, Nos, seu deputatos nostros, ut moris est, legitime certificare procurent.</p>
+                </div>
+                <div>
+                    <head>Capitulum 19</head>
+                    <p>Prohibemus ne Sacerdotes uel Religiosi super casibus Nobis a iure reseruatis licencia super hoc non obtenta absoluant.</p>
+                    <p>Neque aliquem parochianum alienum ad Sacramenta ecclesiastica recipiant sine causa.</p>
+                    <p>Religiosi uero contrarium facientes, excommunicacionis sentenciam incurrunt ipso facto.</p>
+                </div>
+                <div>
+                    <head>Capitulum 20</head>
+                    <p>Quia nonnulli eleemosinarum questores in suis proponunt predicacionibus multa falsa et uana, ut simplices decipiant, et pecuniam e fallaci ingenio extorqueant ab eis, in eorum animarum periculum et scandalum plurimorum: uolentes, prout est Nobis possibile, uiam talibus precludere.</p>
+                    <p>Districte prohibemus ne aliqui questores, nisi Apostolicas litteras, uel nostras habuerint, quomodolibet admittantur: quibus questoribus interdicimus quamlibet predicacionem, uolentes per uos solum id quod in suis continetur litteris populo exponi, uel si maluerint Presbyteri ipsimet suis exponant subditis que sub sigillo uiderint contineri: attendentes diligenter datam litterarum, et ne in datis seu litteris sit falsitas.</p>
+                    <p>Que si euidenter appareat, attestetur per Presbyteros, et ad nostros carceres ecclesiasticos adducantur, pro talibus penis seu delictis penam debitam recepturi.</p>
+                </div>
+                <div>
+                    <head>Capitulum 21</head>
+                    <p>Statuimus insuper ne nulla persona ecclesiastica uel secularis, cuiuscumque status uel condicionis existat, matrimonium clandestinum in nostris ciuitate et Diocesi, bannis nondum factis per tres Dominicos, ut moris est, nisi de nostra licencia celebrare presumat.</p>
+                    <p>Si quis uero contra fecerit, aut operam, consilium, uel fauorem prestiterit, suspensionis sentenciam incurrit: principales uero persone, necnon et omnes opem consilii et fauorem in talibus prestantes, ipso facto excommunicacionis sentenciam incurrunt.</p>
+                </div>
+                <div>
+                    <head>Capitulum 22</head>
+                    <p>Sortilegos autem, et usurarios publicos, necnon et sacrilegos, ac litterarum Apostolicarum et nostrarum falsarios, precipimus publice excommunicatos nunciari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 23</head>
+                    <p>Precipimus insuper ne Presbyteri, Religiosi, et Clerici inhonestas negociaciones, siue suo, siue alieno nomine exerceant.</p>
+                    <p>Negociacionem enim inhonestam dicimus, si emant, ultra uictum, uinum, bladum, carnes, uel talia, ut carius uendant.</p>
+                    <p>Uel si in estate precio minus iusto emant ea que debent insequenti mense Septembris recipere.</p>
+                    <p>Uel si tradant usque ad tempus uel bladum, uel res suas; et tunc exigant maius pretium quam ueluerint ante terminum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 24</head>
+                    <p>Cum ad nostri noticiam deuenerit aliquos simplices secum in eodem lecto aliquotiens ponere infantes suos teneros, ac per hoc, proh dolor [2] sepe contingat eosdem infantes propter sui teneritatem mortuos et oppressos reperiri: super quo dicti parentes excusacionem pretendentes, asserunt se de morte huiusmodi ignorare qualitatem.</p>
+                    <p>Propter quod uolentes tantis periculis corporum et eciam animarum, quantum possumus cum Deo, obuiare.</p>
+                    <p>Precipimus et mandamus omnibus Presbyteris curam animarum exercentibus, quatinus singulis diebus Dominicis suos parochianos sollicite moneant et inducant ne de coetero cum eisdem in eodem lecto huiusmodi pueros teneros secum ponant, significentque eis quod de morte huiusmodi nullam habebunt excusacionem, quasi si procurassent et affectassent mortem eorumdem suorum infantium punientur; maxime cum post prohibicionem huiusmodi uideantur conscii mortis eorum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 25</head>
+                    <p>Preterea quia compertum aliquos propter paupertatem aut simplicitatem suos filios et filias, aut alios consanguineos et consanguineas post septennium, et ante pubertatem solitos ponere simul in eodem lecto ad dormiendum, ex quo sepe sequitur incestus inter eosdem; et proniores sepe fiunt postea ad lubricos actus carnis exercendos.</p>
+                    <p>Precipimus et mandamus omnibus Presbyteris curam animarum habentibus, quatinus diligenter et sepe hoc fieri prohibeant: intimantes suis parochianis quod si post prohibicionem nostram talia euenerint ex quibus scandalum oriatur, tenebuntur tanquam de propriis delictis eorum, quasi uideantur hoc affectasse.</p>
+                </div>
+                <div>
+                    <head>Capitulum 26</head>
+                    <p>Statuimus et ordinamus quod omnes Presbyteri parochianos suos moneant frequenter in Ecclesiis suis quod omnes capitanei domorum utriusque sexus ad confessionem ueniant ante Pascha floridum; et qui in hoc negligentes fuerint, usque ad Octabas Pasche ad communionem Paschalem non admittantur: et usque ad illud tempus sicut in quadragesimali tempore ieiunent et abstineant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 27</head>
+                    <p>Precipimus uobis expresse ut in singulis diebus Dominicis semel in Missa in impedientes iurisdiccionem ecclesiasticam occulte uel indirecte; ac in omnes impediri procurantes, ad hoc consilium uel fauorem prebentes, excommunicatos de iure, excommunicacionis sentenciam fulminetis, et denuntietis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 28</head>
+                    <p>Precipimus districte ne Presbyteri, uel Monachi, siue Clerici placita laicorum pertractent; uel firmas eorum teneant; siue in rebus eorum ministri uel procuratores existant; aut super factis personalibus coram iudicibus secularibus litigent, ac eciam si ab eisdem iudicibus respondere compellantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 29</head>
+                    <p>Inhibemus insuper ne Clericus alium Clericum, seu quamuis aliam personam ecclesiasticam super accione personali in foro seculari conuenire presumat.</p>
+                    <p>Et si quis Clericus coram iudice seculari et uetito super accionibus personalibus conuentus declinatorium non petierit; grauiter per Nos punietur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 30</head>
+                    <p>Statuimus ne diebus Dominicis aut Festiuis seculares iudices sua teneant placita; alias quod per ipsos factum fuerit, nullius sit momenti.</p>
+                </div>
+                <div>
+                    <head>Capitulum 31</head>
+                    <p>Inhibemus sub pena suspensionis et excommunicacionis omnibus Capellanis ne in ecclesiis seu parochiis deseruire presumant, nisi primitus nobis fuerint presentati, et per nos, aut nostros deputatos approbati, et ecclesiarum cura, prout est iuris, eisdem fuerit commissa.</p>
+                    <p>Et qui curam animarum habent, in cura consimili deseruire, nec eam ad firmam capere seu habere presumant.</p>
+                    <p>Et multo fortius qui curam animarum habet in una parochia, in qua sunt plures porciones sub eodem tecto, non capiat porcionem alteram ad firmam, ne utriusque porcionis confundantur iura, aut simul uniri uideantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 32</head>
+                    <p>Statuimus conformiter ad Statuta Concilii generalis quod omnes, qui ad sacros Ordines promoueri uoluerint, feria quarta ante ipsam ordinacionem ad locum examinacionis accedant, ut super eorum uita, etate, litteratura et aliis requisitis ualeat fieri plenior inquisicio ac examinacio.</p>
+                </div>
+                <div>
+                    <head>Capitulum 33</head>
+                    <p>Precipimus ut Sacerdotes habeant Manipulum Curatorum, ut ualeant cognoscere que et quot sunt Sacramenta, et precepta moralia, et ea que ad officium Sacerdotis requiruntur, prout in ipso libro plenius declarantur; et consimiliter Breuiarium proprium, nec accomodatum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 34</head>
+                    <p>Insuper precipimus ut nullus presumat deseruire Altari, uel Epistolam legere, nisi cum superlicio, uel in capa clausa, et ad minus sit Clericus tonsuratus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 35</head>
+                    <p>Inhibemus ut Sacerdotes et Religiosi super casibus Nobis a iure reseruatis, licencia super hoc non obtenta, aliquam personam non absoluant: nec eciam aliquem parochianum ad sacramenta recipiant sine causa.</p>
+                    <p>Religiosi uero contrarium facientes sentenciam excommunicacionis incurrunt.</p>
+                </div>
+                <div>
+                    <head>Capitulum 36</head>
+                    <p>Statuimus ut infra tres menses quilibet Rector parochie sue nomina et cognomina parochianorum suorum defunctorum, quorum testamenta non fuerint approbata, Nobis, uel aliis per Nos deputatis in scriptis notificet: necnon nomina executorum huiusmodi defunctorum, dictaque testamenta, si scripta fuerint, deferent, ne fraudi locus relinquatur, sed ut moris est ualeant approbari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 37</head>
+                    <p>Uolumus et ordinamus quod omnes Curati seu Capellani deseruientes in parochiis suis, teneantur sub pena arbitraria nobis applicanda, deferre Nobis aut Officiariis nostris ad hoc deputatis casus notorios criminum suarum parochiarum, ut per hoc ipsorum subditis emendacionem morum acquirant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 38</head>
+                    <p>Statuimus quod in causis officii testes a Promotore producti, quia non solent expensas reportare, pro subleuamine subditorum nostrorum, non cogantur coram Officiali nostro ad testimonium perhibendum comparere, nisi in grauibus et arduis causis, sed per Decanum loci, aut alium commissarium ad hoc de consensu partium eligendum iurentur et examinentur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 39</head>
+                    <p>Precipimus ne quis Presbyterorum aut aliorum uirorum ecclesiasticorum birreta rubea, borreletos in suis caputiis, aut cornetas dissutas deferre presumant: quod si secus fecerint, pena debita punientur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 40</head>
+                    <p>Insuper ut populus liberius uacare et intendere ualeat Diuinis Officiis in Uigilia Natiuitatis Dominice et festis Pentecostes, ac in Letaniis seu processionibus que fiunt per tres dies Rogacionum ante festum Ascensionis Domini.</p>
+                    <p>Statuimus et ordinamus ut de coetero illis diebus uacet Curia, et abstineat a placitis quibuscumque.</p>
+                </div>
+                <div>
+                    <head>Capitulum 41</head>
+                    <p>Cum opera bona in peccato mortali facta ad salutem anime impetrandam sint inefficacia, nec peccatum ipsum aliter quam per Sacramentum Penitentie deleatur.</p>
+                    <p>Exhortamur in Domino omnes et singulos Clericos huius Diocesis quatinus ad illud Sacramentum frequenter recurrant, ne subito preoccupati die mortis querant spatium penitentie, quod inuenire non possint.</p>
+                </div>
+                <div>
+                    <head>Capitulum 42</head>
+                    <p>Precipientes insuper districte quod quilibet tempore quadragesimali, ante Dominicam primam Passionis suo proprio Sacerdoti, aut alteri de eius licencia integre confiteatur, aut saltem ad Dominicam Palmarum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 43</head>
+                    <p>Si quis uero in suo peccato adeo obstinatus reperiatur, qui ultra confiteri distulerit: cum non uideatur sponte, sed coactus propter temporis breuitatem uenire, nequaquam audiatur, nisi forte propter euidens periculum corporale; imo ad nos remittatur, suscepturus ante omnia pro sua negligencia debitam punicionem.</p>
+                    <p>Quo facto de nostri ordinacione audiri poterit, aut usque ad Octabas Pasche differatur: quod statutum in Ecclesiis parochialibus sub graui pena et arbitraria frequenter publicari precipimus.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] Haue numbered each paragraph as a separate statute but these numbers do not appear in printed text.</p>
+                    <p>[2] &quot;!&quot; printed here.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

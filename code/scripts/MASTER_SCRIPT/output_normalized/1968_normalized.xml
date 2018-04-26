@@ -1,0 +1,282 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Siena</title>
+                <recordID>1968</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1227-08-27</origDate>
+                <dateNotes/>
+                <origPlace>Siena</origPlace>
+                <diocese>Siena</diocese>
+                <province/>
+                <country>Italy</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 1968</p>
+                <p>Year: 1227</p>
+                <p>Month: 8</p>
+                <p>Day: 27</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: July 28-August 27</p>
+                <p>Place: Siena</p>
+                <p>Diocese: Siena</p>
+                <p>Province: None</p>
+                <p>CountryModern: Italy</p>
+                <p>Latitude: 43.318611</p>
+                <p>Longitude: 11.330556</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Bonfiglio</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: Yes</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Pellegrini, Chiesa e citta, Appendix A, p474-478</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: fragmentary toward end</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['Library Scan', 'Hard Copy Scan']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: Bonfiglio, bp of Siena, issues constitutions with assistance of the chapter and the Dominican master Riccardus, pursuant to Gregory IX's reform directive to the bishops of Tuscia</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Gregorius episcopus seruus seruorum Dei, uenerabilibus fratribus uniuersis episcopis per Tusciam constitutis salutem et apostolicam benediccionem.</p>
+                    <p>Ecce uenit Deus sempiternus et Dominus qui fundauit terminos orbis terre, citans nos in uocem archangeli et in nouissima tuba ad generale concilium ut uniuersis impendat suorum stipendia meritorum; labia eius indignacione sunt plena et lingua ipsius quasi ignis deuorans: quomodo dormientes et amantes sompnia iacentes in lectis eburneis et lasciuentes in cubilibus suiis diem aduentus eius cogitabunt aut flere poterunt ad uidendum ipsum?</p>
+                    <p>Cum reuelabuntur omnia abscondita tenebrarum et infelix impiorum nuditas apparebit non erit locus ubi lateant miseri, nudi stantes ante tribunal Christi ut audiant uocem iudicii, qui ad uocem obturauere consilii aurem suam, ad confusionem igitur perpetuam euitandam declinandos sempiternos ardores ac cruciatos eternos oportet omnes qui assumpti sunt ad agrum dominicum excolendum granum a pallea flagello debite correccionis excutere et a fruge dominica çiçania separare, ne electos contagium tante corrupcionis inficiat et filios Dei cum filiis mundi huius hora repentine calamitatis inuoluat.</p>
+                    <p>Quocirca fraternitati uestre in uirtute obedientie per apostolica scripta districte precipiendo mandamus quatinus omni mora et occasione postpositis, primo incipientes a uobis ipsis torporem desidie et negligentie teporem omnimodo deponentes ne bouis stercore lapidatos incipiat uos Dominus uomere de ore suo, arma spiritualia gladium et ignem uiriliter assumentes incipiatis parietem fodere ut appareant genimina uiperarum et radius lucis uibretur interius et ad uindictam exigat umbram mortis, moniales et monachos et clericos seculares efficaciter corrigentes tam in capite quam in menbris.</p>
+                    <p>Cum autem prelati [1] ecclesiarum sepe propter occupaciones multiplices seu occasiones alias non sufficiant ministrare populo uerbum Dei et statutum ad hoc fuerit in generali concilio ut ad sanctum predicacionis officlium salubriter exequendum uiri assumantur idonei potentes in [2] opere ac sermone qui plebes sollicite uisitantes eas uerbo edificent et exenplo, nos ad exequendum plenius officii uestri debitum aliquos de fratribus ordinis predicatorum, ex quorum approbata religione magnus in ecclesia Dei fructus iam prouenisse dignoscitur, curabimus destinare, qui uestri cooperatores et coadiutores in quibus expedit existentes tam uerbo predicacionis quam uisitacionis officio uobis suffragium conuenienter impendant, ut uestram et ipsorum sollicitudinem muri Ierhusalem et templum Domini reparentur.</p>
+                    <p>Si uero quicquam difficultatis emerserit quod uideatur per uos expediri non posse, illud ad sedem apostolicam referatis.</p>
+                    <p>Nos enim in hiis pro melius oportunum fuerit uobis efficaciter assistemus [3] et necessarium impendemus auxilium et fauorem; quod [4] si super hiis que mandamus fueritis negligentes cum securis ad radicem infructuose arboris sit ponenda grauem penam poteritis tamquam qui ex hoc uos reperitis [5] culpabiles non inmerito formidare, quare [6] uolumus et mandamus ut per uos et fratres eosdem ad nos quantumque feceritis plenius referatur.</p>
+                    <p>Datum Anagnie, v kalendas augusti, pontificatus nostri anno primo.</p>
+                    <p>Et in anno Domini millesimo ducentesimo xxvii, indiccione xv die vi kalendas septembris hoc rescriptum recepit Senensis episcopus et cum preposito Senense et magistro Ricardo fratre ordinis predicatorum istas constituciones que secuntur [7] precepit et ordinauit:</p>
+                    <p>In nomine Domini.</p>
+                    <p>Amen.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>Ad reformacionem Ecclesie Senensis de mandato et auctoritate domini pape Gregorii viiii, statuimus et ordinamus quod canonici maioris ecclesie Senarum debeant incedere secundum consuetudinem ipsius ecclesie que talis est [8]: quod canonicus in ecclesia, in claustro et in refectorio et ubicumque fuerit in ciuitate [9] sit in capa clausa uel cocta uel camiscia clausa superana cum pellibus et manctellis [10] afiblatis retro uel ante [11] pectus, extra ciuitatem [12] ad minus habeat uestimenta [13] superiora clausa, et... quod officia et cetra spiritualia in ecclesia cum deuocione faciat sine confabulacione et principiis [14] intersit officiorum et perseueret ad istum modum super officiis sicut et [15] ceteri clerici remaneant [16].</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>Item ordinamus quod plebani, priores [17] et ecclesiarum prelati qui habent curam animarum habeant indumenta [18] clausa uel cottam uel camisiam clausam superanam cum pellibus et mantellis affiblatis sicut dictum est in ecclesia [19] claustro et refectorio, alibi [20] ad minus [21] habeant uestimenta superiora clausa que [22] habeant et teneant subdiaconus et diaconus secundum facultatem ecclesie et non tonsuratos... non</p>
+                    <p>adsumant... [23] qui incipiunt officia sint in capa uel cocta alii habeant uestimenta superiora clausa cum pellibus afiblatis sicut dictum est tam in ecclesia quam in claustro et refectorio; et ad legendum epistulam uel lecciones uel ad seruiendum altari in plebibus, canonicis uel capellis ciuitatis nisi sit tonsoratus et in capa uel cocta nullus adcedat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>Item nullus prelatus de cetero recipiat aliquam in oblatam uel conuersam sine conuinencia episcopi; de receptis autem de quibus suspecio est uel oriri potest remoueantur de toto cimiterio et circuitu ecclesie, sed illas ex quibus filios uel filium procreauerunt remoueant de tota parochia, alias uero mulieres nullo modo admittant ad seruicia sua in domibus suis nisi inualida sine [24] graui infirmitate.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>Item precipimus quod nullus clericus portet [25] uestem de uiridi panno uel rubro.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>Item precipimus quod nullus clericus neget hospitalitatem pauperibus secundum facultates sue ecclesie.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>Item precipimus quod nullus clericus recipiat tutelam uel curam nec intersit coreis uel comestionibus nupciarum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>Item precipimus quod nullus clericus ludat ad tabulas uel quoquomodo cum taxillis uel ad scacos in plateis uel in uiis publicis et qui contrafecerit sit interdictus et si perseuerauerit excomunicetur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>Item precipimus quod nullus clericus portet arma mortifera nec eciam arma defensionis sine licencia sui episcopi, et quod nullus clericus sine iusta et racionabili causa sit nocturnus et quod nullus clericus fideiubeat pro aliquo sine licencia episcopi.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>Item precipimus quod nullus clericus intret tabernas uel loca [26] suspecta unde [27] honestati clericali possit racionabiliter detrhai.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>Item precipimus quod nullus clericus faciat compatrignum sine licencia sui episcopi speciali.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>Item precipimus quod nullus sacerdos recipiat aliquam mulierem ad confessionem, nisi in loco publico in ecclesia, et quod non plures simul, sed sigilatim audiat quamlibet et examinet diligenter.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>Item precipimus quod omnes clerici et precipue qui sunt in sacris ordinibus constituti tonsiones et corone suis ordinibus deferant competentes.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>Item statuimus quod nullus clericus paciatur ioculatores tempore officii in ecclesia uel circa ecclesiam ioculare, nec cum clericis in mensa comedere.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>Item precipimus in uirtute obedientie plebanis et prioribus qui habent cappelanos publice tenentes focarias, ut infra xv dies postquam sciuerint [28] debeant istum denunciare nobis et si post trinam admonicionem eas non reiecerint, ab ecclesia eiciamus eos.</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>Item precipimus quod nullus prelatus retineat clericum alterius episcopatus sine litteris commendatitiis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>Item precipimus quod nullus clericus uel scolaris ad festiuitatem uadat nisi inuitatus ad canendum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 17</head>
+                    <p>Item precipimus quod nullus clericus aliquas diuinaciones occultim faciat et suspicioso medichamine non... [29] cuidam mulieri, precipue in minoribus [30].</p>
+                </div>
+                <div>
+                    <head>Capitulum 18</head>
+                    <p>Item precipimus quod quolibet sacerdos ad minus adiscat cognoscere peccata mortalia et modum penitentie ut sciat discernere inter lepram et lepram et soluere ac ligare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 19</head>
+                    <p>Item statuimus ut altaris uestimenta sint munda et palle ac corporalia saltem bis in anno lauentur.</p>
+                    <p>Corpus Christi [31] Domini in mundo et tuto loco ponatur et non sub capa sed publice cum reuerencia deportetur ad comunicandos infirmos.</p>
+                </div>
+                <div>
+                    <head>Capitulum 20</head>
+                    <p>Item precipimus quod prelati libros habeant competentes et alios circa cultum altaris et ornatum ecclesie, prius potius quam corporum suorum uel aliarum diuinarum [32] solliciti, ita ut Deo, qui totum dat, saltem aliqua pars reddatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 21</head>
+                    <p>Item precipimus ut Sacramentum immolacionis [33] Christi et redempcionis nostre in medietate [34] conficiatur altaris, nam Christus pro toto oblatus est mundo.</p>
+                    <p>Ad quod sacramentum consulimus ut quiquam sacerdos si non dignus non tamen indignus accedat [35], quia Dominus est.</p>
+                </div>
+                <div>
+                    <head>Capitulum 22</head>
+                    <p>Item precipimus quod sacerdotes nouiter [36] ordinati non faciant inuitaciones ad primam missam suam, uero [37] ea pro questu in sequentem diem dominicum differant [38] uel in festum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 23</head>
+                    <p>Item precipimus quod nullus sacerdos uel clericus loquatur cum rumore [39] super altare uel circa, nec eciam in choro tempore officiorum nisi causa coreccionis [40].</p>
+                </div>
+                <div>
+                    <head>Capitulum 24</head>
+                    <p>Item precipimus quod nullus clericus ecclesiam manu recipiat laicorum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 25</head>
+                    <p>Item precipimus quod nullus prelatus faciat aliquam uendicionem alicuius possessionis sine licencia episcopi.</p>
+                </div>
+                <div>
+                    <head>Capitulum 26</head>
+                    <p>Item precipimus quod nullus clericus faciat aliquam relacionem super uulneribus alicuius uel a p...nacione [41] nec recipiat aliquem uel aliquam in egritudine de [42] nec det aliquam pocionem acutam [43] nec uadat per domos respiciendo urinas [44] uel dando aliquas pociones uel exercitando aliter medicina [45].</p>
+                </div>
+                <div>
+                    <head>Capitulum 27</head>
+                    <p>Item precipimus quod quilibet clericus supradictas ordinaciones legat semel in mense ut adiscat [46].</p>
+                </div>
+                <div>
+                    <head>Capitulum 28</head>
+                    <p>Item precipimus clericis uniuersis supradictis constituciones seruare, qui... illas presumpti fuerint contempsores indignacionem... incurrent... et se beneficii... nouerint remouendos [47].</p>
+                    <p>Item precipimus.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] Ed. prelat[i].</p>
+                    <p>[2] Ed. [potentes in].</p>
+                    <p>[3] Ed. [as]sistemus.</p>
+                    <p>[4] Ed. [quod].</p>
+                    <p>[5] Ed. re[per]tis.</p>
+                    <p>[6] Ed. qua[re].</p>
+                    <p>[7] Ed. [que s]ecuntur.</p>
+                    <p>[8] Ed. [est].</p>
+                    <p>[9] Ed. '&lt;fuerit in ciui&gt;tate'.</p>
+                    <p>[10] Ed. ma(n)ctellis.</p>
+                    <p>[11] Ed. an(te).</p>
+                    <p>[12] Ed. &lt;extra ciuitatem&gt;.</p>
+                    <p>[13] Ed. hab[eat ues]timenta.</p>
+                    <p>[14] Ed. &lt;principiis&gt;.</p>
+                    <p>[15] Ed. &lt;sicut et&gt;.</p>
+                    <p>[16] Ed. &lt;remaneant&gt;</p>
+                    <p>[17] Ed. &lt;plebani, priores&gt;</p>
+                    <p>[18] Ed. &lt;habeant indum(en)ta&gt;</p>
+                    <p>[19] Ed. &lt;pellibus et mantellis affiblatis sicut dictum est in [ecclesia]&gt;</p>
+                    <p>[20] Ed. al[ibi]</p>
+                    <p>[21] Ed. min[us]</p>
+                    <p>[22] Ed. q(ue)</p>
+                    <p>[23] Ed. &lt;subdi[a(conu)s et dia(conu)]s secundum facultatem ecclesie et [non tonsu]ratos... non</p>
+                    <p>adsumant...&gt;</p>
+                    <p>[24] Ed. sin(e)</p>
+                    <p>[25] Ed. cler&lt;icus por&gt;tet</p>
+                    <p>[26] Ed. [lo]ca</p>
+                    <p>[27] Ed. un(de)</p>
+                    <p>[28] Ed. sciue(r)i(n)t</p>
+                    <p>[29] Ed. &lt;medichamine non...&gt;</p>
+                    <p>[30] Ed. m(in)oribus</p>
+                    <p>[31] Ed. &lt;Christi&gt;</p>
+                    <p>[32] Ed. d[iuina]r(um)</p>
+                    <p>[33] Ed. im(m)olacionis</p>
+                    <p>[34] Ed. n(ost)re &lt;in medietate&gt;</p>
+                    <p>[35] Ed. &lt;accedat&gt;</p>
+                    <p>[36] Ed. nouit(er)</p>
+                    <p>[37] Ed. u(er)o</p>
+                    <p>[38] Ed. &lt;in sequentem d[iem d(omi)nicum dif]ferant</p>
+                    <p>[39] Ed. &lt;rumore&gt;</p>
+                    <p>[40] Ed. &lt;coreccionis&gt;</p>
+                    <p>[41] Ed. p...nacio(ne)</p>
+                    <p>[42] Ed. &lt;... egritudine de...&gt;</p>
+                    <p>[43] Ed. &lt;acuta(m)&gt;</p>
+                    <p>[44] Ed. &lt;respici&gt;endo &lt;urinas&gt;</p>
+                    <p>[45] Ed. ex&lt;ercitando aliter medicina&gt;</p>
+                    <p>[46] Ed. ad&lt;[iscat...&gt;]</p>
+                    <p>[47] Ed. &lt;supradictas constituciones s(er)uare, qui... illas p(re)s(um)pti fuerint c(on)tempsores indignacionem... incurre(n)t... et se beneficii... nouerint remouendos&gt;</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

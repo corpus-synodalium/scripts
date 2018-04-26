@@ -1,0 +1,154 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Canterbury</title>
+                <recordID>1967</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate precision="circa">1205</origDate>
+                <dateNotes/>
+                <origPlace>&lt;unknown&gt;</origPlace>
+                <diocese>&lt;unknown&gt;</diocese>
+                <province>Canterbury</province>
+                <country>England</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 1967</p>
+                <p>Year: 1205</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: Yes</p>
+                <p>DatingNotes: 1200x1215</p>
+                <p>Place: &lt;unknown&gt;</p>
+                <p>Diocese: &lt;unknown&gt;</p>
+                <p>Province: Canterbury</p>
+                <p>CountryModern: England</p>
+                <p>Latitude: 52.561928</p>
+                <p>Longitude: -1.464854</p>
+                <p>PlaceNotes: Issued for an unknown English diocese; location marked as geographical centre of England</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Councils &amp; Synods, I/2, pp. 1070-74</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['Library Scan', 'Hard Copy Scan']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: issued (it would seem, acc. editor's note) as a local appendix to the 1200 Council of Westminster</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>Qualiter populus instruendus est.</p>
+                    <p>Precipimus eciam ut sacerdotes populum sibi commissum cum omni diligencia, uerbo pariter exemplo, instruant.</p>
+                    <p>Doceantque frequenter in linqua materna oracionem dominicam: scilicet Pater noster, et symbolum apostolorum: scilicet Credo in Deum, et confessionem generalem: scilicet Confiteor.</p>
+                    <p>Instruantque eos sollicite quod sine firma articulorum fige et futurorum bonorum spe necnon et caritate, que est dileccio Dei et proximi, salus prouenire non potest.</p>
+                    <p>Doceantque eos quante sit auctoritatis confirmacionis sacrementum.</p>
+                    <p>Licet enim sine eo salus proueniat paruulo post perceptam baptismi graciam morituro, ualde tamen necessaria est confirmacion in hac uita uicturo et cum spiritualibus nequitiis incessanter pugnaturo;  ideoque instruantur ut prauulos suos offerant episcopo cum oportunitatem habuerint, ut cum debita reuerencia et summa deuocione suscipiatur tantum sacramentum, quod non nisi per manus episcopi ministratur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>De ornamentis ecclesie.</p>
+                    <p>Precipimus eciam ut singule ecclesie calicem argenteum habeant, pallas quoque altaris et uestes sacerdotales honestas, uasa quoque et utensilia competentis, que omnia postquam fuerint sacris usibus deputata ad humanos usus extrinsecus minime resumantur.</p>
+                    <p>Sed cum attrita fuerint uel confracta, comburentur uel confluentur et cineres seorsum in loco sacro recondantur.</p>
+                    <p>In libris quoque necessariis et ad diuinum officium competenter sufficientibus prospiciatur cuilibet ecclesie, et hii cum ceteris ornamentis non uedantur nex pignori obligentur nec aliquo alienacionis titulo ab ecclesia ammoueantur cum semel fuerint deputata, nisi in casibus a canone concessis, et hoc cum speciali auctoritat nostra et consciencia.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>De prestacione decimarum et potestate sacerdotum.</p>
+                    <p>Quia sine decimarum prestacione salus omnino peruenire non potest, utriusque testamenti auctoritate subnixi precipimus ut decime de omnibus que per annum renouantur matrici ecclesie cum debita integritate soluantur, nisi forsan alique fuerint ab integritate matricis ecclesie auctoritate episcopali separate; ita quidem ut occasione mercedis seruientum uel messorum decima pars non minuatur.</p>
+                    <p>Habeant eciam presbiteri potestatem excommunicandi omnes fraudatores decimarum suarum in genere et eosdem secundum formam exxlesiasticam absouendi, si priuatim ad satisfaccionem uenerint.</p>
+                    <p>Si uero publicatum fuerit eorum delictum non absoluantur nisi ab episcopo uel archidiacono.</p>
+                    <p>Quia uero nonnulli clerici decimas sibi ad pauperum sustentaciones concessas in laico consueuerint feodo collocare, et multiplex ob hoc ipsum a laicis potestatibus ecclesie et clericalibus personis irrogari consueuerit iactura, districte precipimus ut omnes per episcopatum nostrum decime in libero ecclesie tenemento collocentur, et si que forsitan per clericorum nostrorum negligenciam uel maliciam fuerint in laicis possessionibus adunate, nisi ad admonicionem per decanum loci ex parte nostra faciendam fuerint infra competentem terminum ad ecclesiasticum tenementum delate, si per clericos nostros steterit in ipsos competenter animaduertemus; sin uero per laicos, terram illam in qua decime fuerint uiolenter detente, usque ad competentem satisfaccionem iubemus sub interdicto concludi.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>Antiqua eciam canonum statuta sequentes, decernimus ut clerici in sacris ordinibus constituti, si mulierculas in domibus suis sub incontinentie nota tenuerint, aut abiciant eas et continenter uiuant aut ab officio et beneficio ecclesiastico fiant penitus alieni.</p>
+                    <p>In minoribus uero ordinibus clerici constituti, si inuenti fuerint concubinarii, quia ipsis libertatem ab apostolo concessam auferre nolumus nec ualemus, per censuram ecclesticam, interdicti scilicet et excommunicacionis, compellantur ad alterutrum, uidelicet uel concibunas penitus abiciant uel cum ipsis in facie ecclesie publice ac sollempniter contrahant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>De clericali habitu.</p>
+                    <p>His eciam adnectimus ut sacerdotes et clerici cuiusque ordinis habitum habeant clericalem et tonsuram canonicam.</p>
+                    <p>Si quis uero inuentus fuerit comam nutriens et quasi sus ad uolutabrum luti et Canis ad uomitum reuersus, ab eo quem semel assumpsit, si archidiaconi commonicione tonsuram non resumpserit, si beneficiatus fuerit ab officio et beneficio eccelsiastico suspendatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>His adnectimus ut clerici abstineant a turpibus spectaculis, ab his maxime in quibus sanguis humanus effunditur, adeo ut nec torneamentis nec duellis de cetero interessse presumant, sed nec tabernis nec publicis intersint potacionibus.</p>
+                    <p>Prohibemus eciam ne sacerdotes uel reliqui clerici usuris uel negociacionibus uel lucris turpibus inuigilent.</p>
+                    <p>Fenerari quidem omnibus indistincte prohibetur; negociari uero, cum sit laicis ubicunque permissum, clericis tamen omnibus est in antiquis canonibus usque quaque prohibitum.</p>
+                    <p>Si quis autem post hanc nostram inhibicionem clericus fuerit inuentus et nefociator, in ipsum nouerit iuxta canonum statuta seuerissime iudicandum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>Quod sacerdotes non admittantur.</p>
+                    <p>Dum simus debitores, iuxta uerbum apostoli, pro commisso nobis grege ante Christi tribunal respondere, graue quidem gerimus quod sacerdotes annui absque nostra consciencia ad animarum curam gerendam inutiles interdum admittuntur et indigni.</p>
+                    <p>Et cum fuerint admissi, nobis insciis et inconsultis, pro libitu clericorum, cum parochianorum suorum secreta didicerint, indistincte ammouerentur et alii in eorum locum, pro ut leuius ac vilius sicut aliquod uile mancipium conduci possunt, in graue dicrimen animarum substituuntur.</p>
+                    <p>Eapropter precipimus ne quis de cetero capellanus uel annus uel perpetuus ad curam animarum admittatur, nisi nobis prius fuerit presentatus, et cum fuerit admissus non nisi nobis consultis ammoueatur.</p>
+                    <p>Saluo, etc.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

@@ -1,0 +1,179 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Salzburg</title>
+                <recordID>1406</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1216</origDate>
+                <dateNotes/>
+                <origPlace>Salzburg</origPlace>
+                <diocese>Salzburg</diocese>
+                <province>Salzburg</province>
+                <country>Austria</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Provincial</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 1406</p>
+                <p>Year: 1216</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: late September or early October</p>
+                <p>Place: Salzburg</p>
+                <p>Diocese: Salzburg</p>
+                <p>Province: Salzburg</p>
+                <p>CountryModern: Austria</p>
+                <p>Latitude: 47.8025</p>
+                <p>Longitude: 13.045833</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Provincial</p>
+                <p>IssuingAuthority: Eberhard</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: Munich BSB, Clm. 5822, fols. 179v-180v</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Pixton, Watchmen, 227-31</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: preface &amp; cc. 16 &amp; 17 transcribed directly from MS</p>
+                <p>BaseText: ['Library Scan', 'Digital MS']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: see Mierau, Vita Communis und Pfarrseelsorge; Pixton, Watchmen, 227-31; Johanek, Synodalia, I.51-52, 89</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Eberhardus dei gracia salzpurgensis archiepiscopus et apostolice sedis legatus apud salzpurgam residens in sinodo dixit.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>Prohibemus districte nequis episcoporum, uel aliorum prelatorum, uel clericorum inferiorum dignitatum, alicui excommunicato communionem audeat dare uel eciam communicare aliusquam satisfecerit competenter.</p>
+                    <p>Si quis autem hoc contempserit obseruare, et si episcopus est, sit suspensus, donec se sedis apostolice conspectui representet.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>Item, si quis parrochianus in parrochia sui pastoris deliquerit, et tamen ipsum [1] potestatem habeat ille pastor sufficienter eum ammonitum sentencia excommunicacionis studeat innodare.</p>
+                    <p>Quam sentenciam omnes episcopi illius prouincie et pastores, ipsis ab excommunicatore proprio intimatam, non differant execucioni mandare, facientes eum districtius euitare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>Item, si quis parrochianus alterius in altera parrochia constitutus deliquerit, potestatem habeat ille pastor racione delicti eum excommunicandi, et illam excommunicacionem proprio pastori denunciet execucioni mandandam, certo nomine designato, quod nomen uel nomina excommunicatorum omnibus diebus festiuis recitentur coram plebe, et ab omnibus deuitentur omni excusacione remota.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>Et si potestas fuerit malefactor, terram suam faciat interdicto subiacere, donec de sua absolucione per literas excommunicatoris constiterit manifeste.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>Si quis autem prelatorum uel clericorum conuictus fuerit hoc ne fecisse, ipso iure sit suspensus donec satisfecerit competenter.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>Item si quis res ecclesiasticorum uel clericorum decedentium tempore uite uel mortis rapere presumpserit, alicuius iuris pretexta, tamquam sacrilegus ab omnibus reputetur, nec absoluatur nisi a proprio episcopo satisfaccione premissa, ita tamen ut composicio quam sancti canones sacrilegis statuerunt, exacta totaliter, illis quibus debetur secundum statuta canonum tribuatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>Item si quis laicus racione aduocacione, si in rebus ecclesie, dotibus et honoribus, plus usurpauerit accipere quam antique consentudo racione permiserit, excommunicetur ab illo qui presidet ecclesie uiduare, donec ablata restituat et de dampno caueat in futurum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>Si qua ecclesia priuilegia habeat que aduocacione contineatur certa iura, statuimus quod ipso iure contra ea faciens sit excommunicatus, et ab omnibus uitetur, qui superius dictam uoluerit effugere ulcionem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>Ut autem facilius quilibet clericorum excommunicatum ab ipso uel ab alio audeat publicare uel eciam deuitare prouido consilio, statuimus quatenus quilibet episcoporum in suo burgo, in ciuitate domum uel domos constituat in quibus recipiatur de ecclesiis suis profugos, uel eiectos potencia laicorum et ipsis faciant competenter prouideri, reseruatis duabus ecclesiis ad hoc opus pietatis, secundum qualitatem ecclesiarum, numero ordinato, quarum pensione ad hoc opus pietatis recepta.</p>
+                    <p>Illis personis efficacius possit prouideri, et si regulares fuerint prelato episcopo prouideat, subditis in aliis ecclesiis collocatis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>Item precipimus omnibus episcopis in Salzburgensi diocesi constitutis, ut omnes qui subdiaconatus uel diaconatus ordinem susceperunt et uitam militantes laicalem duxerint, et matrimonia contraxerint, ut ad clericatum redeantur habitu et tonsura, dissoluto matrimonio; uel postea inito nunciato moneatur diligentius et inducatus, et si necesse fuerit per censuram ecclesiasticam compellere non omittatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>Item si qua puella in monasterio per annos xiicim uel amplius permanserit in habitu monachali, ipsa in eadem ecclesia perpetuo permaneat, et si exiens assumpserit uitam laicalem ad monasterium per censuram ecclesiasticam redire compellatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>Item si monachus uel regularis canonicus per annos xiicim permanserit, permaneat perpetuo.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>Item nullus monachorum uel regularium constituatur ad regulam ecclesiarum; si quodlibet monasterium in parochiis ad se pleno pertinentibus iure presentet episcopo clericum uel clericos seculares uel uice eorum archidiaconis, perpetuos uicarios constituendos, quibus tamen de ecclesiis predictis relinquatur, quod si ipsis et propriis [2] uel suis sufficere possint et [3] possint efficatius prouidere.</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>Item nullus uicariis in ecclesiis constituatur, nisi presentatur episcopo uel archidiacono; si notus fuerit aut honestus, et prouide, nec deiciatur nisi primo illis consultis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>Item nullus clericus in castellis antiquis uel nouis audeat celebrare nisi de prelatorum in quorum parrochia sunt licencia speciali</p>
+                </div>
+                <div>
+                    <head>Capitulum 17</head>
+                    <p>Item uulgares purgaciones scilicet ferri igniti uel aque frigide uel huiusmodi fieri dissimulandi [4] propter urgentem necessitate preter quam in causa sanguinis, uolumus eciam ut ad easdem purgaciones omnes coloni uel rustici super decimis compellantur de tercio in tertium annum ad euacuandam fraudem quam in decimis facere consueuerunt.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] reading of 'tipm' uncertain</p>
+                    <p>[2] word(s) illegible in MS.</p>
+                    <p>[3] word illegible in MS.</p>
+                    <p>[4] expansion uncertain</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

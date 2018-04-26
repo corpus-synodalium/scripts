@@ -1,0 +1,511 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Aosta</title>
+                <recordID>0970</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1280</origDate>
+                <dateNotes/>
+                <origPlace>Aosta</origPlace>
+                <diocese>Aosta</diocese>
+                <province>Tarentaise</province>
+                <country>Italy</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 970</p>
+                <p>Year: 1280</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Aosta</p>
+                <p>Diocese: Aosta</p>
+                <p>Province: Tarentaise</p>
+                <p>CountryModern: Italy</p>
+                <p>Latitude: 45.733333</p>
+                <p>Longitude: 7.316667</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Simon de Duin</p>
+                <p>IssuingAuthorityAlt: Simon de Duingt</p>
+                <p>RegnalStart: 1275</p>
+                <p>RegnalEnd: 1283</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Amiet, Le pontifical d’Emeric de Quart, pp196-208</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: Hard Copy Scan</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: 58 decisions; 44 statutes inspired by Eudes de Sully (in some places verbatim), the remainder apparently additions to an initial corpus</p>
+                <p>BiblioRefs: Avril, Premiers statuts parisiens</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>[1] Hic incipiunt statuta synodalia que utuntur in ecclesia Augustensi.</p>
+                    <p>Sacerdotes ieiunii intrent synodum.</p>
+                    <p>In ieiunio enim et oracione debet synodus celebrari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>De habitu clericorum.</p>
+                    <p>Induti albis et stolis intrent in synodum.</p>
+                    <p>Item habeant supertunicalia clausa sine punctis cum in publicum exeunt ut eorum habitus a laicorum habitu discernatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>De tonsura sacerdotum et clericorum.</p>
+                    <p>Item statuimus et ordinamus quod omnes sacerdotes et clerici tonsuram clericalem et circumcisionem capillorum deferant congruentem cum scriptum sit in canone quod de tonso capite et patentibus auribus incedere clerici debeant.</p>
+                    <p>Contrarium uero facientes penam XX solidorum incurrant sine misericordia aliqua.</p>
+                    <p>Item statuimus quod omnes curati ecclesiarum parochialium infra festum sancti Michelis omnia statuta synodalia penes se habeant et secum deferant ad synodum subsequentem.</p>
+                    <p>Quod si non fecerint eos pena XX solidorum sine misericordia condempnamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>De causis.</p>
+                    <p>Nec causas adducant ad synodum aut alia negocia que non pertinent ad synodum nec si tunc muniant cum synodo debent interesse.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>Quod omnes ueniant.</p>
+                    <p>Omnes presbiteri maxime curam animarum habentes ueniant ad synodum.</p>
+                    <p>Et si graui detenti infirmitate uel alia necessitate ineuitabili uenire non poterunt capellanum suum mittant aut clericum loco sui.</p>
+                    <p>Item si personaliter ad synodum non uenerint nec legittimam necessitatem pretendent penam interdicti et LX solidorum incurrant illa uice.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>Quod honeste se habeant.</p>
+                    <p>Rubrica.</p>
+                    <p>In eundo et redeundo a synodo honeste ambulent et honeste querant hospicia et in eis circumspecte se habeant ne status clericorum uertatur populo in obprobrium et contemptum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>De reuerencia sacramentorum.</p>
+                    <p>Honor magnus et reuerencia debita singulis sacramentis sancte ecclesie precipue a sacerdotibus et clericis exhibeatur et ut laici similiter exhibeant frequenter eos sacerdotes moneant et hortentur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>De baptismo.</p>
+                    <p>Baptismus cum reuerencia et honore celebretur et cum magna cautela maxime in distinccione et prolacione uerborum in quibus tota uirtus sacramenti consistit et salus puerorum scilicet: N. ego te baptizo in nomine Patris et Filii et Spiritus Sancti Amen.</p>
+                    <p>Et in romano similiter sub hac eadem forma proferuntur.</p>
+                    <p>Doceant frequenter sacerdotes laicos baptizare debere pueros in necessitate eciam mulieres et eciam patrem et matrem pueri in summa necessitate.</p>
+                    <p>Semper sacerdos interroget laicum cum in necessitate baptizauerit puerum quid dixerit et quid fecerit.</p>
+                    <p>Et si inuenerit laicum discrete et modo debito baptizat se et formam uerborum in romano protulisse integre approbet factum.</p>
+                    <p>Sin autem baptizet puerum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>De custodia fontis et crismatis.</p>
+                    <p>Fontes sub sera clausi custodiantur et eucharistia propter sortilegia.</p>
+                    <p>Crisma similiter et sacrum oleum sub claue seruentur [2] hoc sub pena XX solidorum pro qualibet uice quod contrarium fieret.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>De patrinis.</p>
+                    <p>Ad leuandum puerum de fonte tres ad plus recipiantur.</p>
+                    <p>Quod autem amplius est a malo est.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>De crismacione.</p>
+                    <p>Sacerdotes moneant populum de confirmacione puerorum post baptismum enim debet suscipi sacramentum confirmacionis.</p>
+                    <p>Quod si confirmandus adultus fuerit confiteatur prius et postea confirmetur.</p>
+                    <p>Et tunc possunt mutari nomina pueris si uelint in confirmacionem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>De uestibus altaris.</p>
+                    <p>Lintheamina altaris et indumenta sepe abluantur ad reuerenciam Saluatoris nostri et tocius curie celestis que cum eo presens est quociens missa celebratur [3] et hoc in pena XX solidorum quocienscumque contrarium fieret.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>De uasis altaris.</p>
+                    <p>Calices et ampulle uini et aque in ministerio altaris munde et integre habeantur [4] nec uinum ultra I diem et offertur obseruetur in pena X solidorum.</p>
+                    <p>Et similiter ampulle crismatis et olei sancti.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>De commonicione egrorum [5] et reuerencia portandi Corpus Christi.</p>
+                    <p>Non permitteant diaconibus presbiteri deferre infirmis sanctum Corpus Christi nisi in necessitate cum sacerdos fuerit absens.</p>
+                    <p>Sed semper sacerdos cum magna reuerencia et maturitate deferat in pixide eburnea uel alia decenti bene clausa propter casum et cum lucerna precedente cantantes VII psalmos cum letania pro infirmo eundo et redeundo.</p>
+                    <p>Et si via longa fuerit addant XV psalmos et alias oraciones.</p>
+                    <p>Sic enim persoluunt infirmo debitum et audientes inuitant ad exhibendam Deo reuerenciam et honorem.</p>
+                    <p>Frequenter laici moneantur ut ubicumque uiderint Corpus Domini statim genua flectant et tamquam Domino creatori suo iunctis manibus quousque transierit supplicent orando.</p>
+                    <p>[6] Item inhibemus ne aliquis Corpus Christi latenter deferre presumat ad infirmum sub pena interdicti.</p>
+                    <p>Et clericum ducant secum cum caligis et superpellicio in pena XX solidorum.</p>
+                    <p>[7]Nec portantes crucem ad processionem in pena XX solidorum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>De habitu ministrorum.</p>
+                    <p>Nullus clericus permittatur seruire altari nisi cum superpellicio aut cappa clausa.</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>Ne quis sacerdos missam bis in die celebret.</p>
+                    <p>Nullus bis in die missam audeat celebrare nisi in magna necessitate scilicet cum aliquis moritur.</p>
+                    <p>Tunc curati et eciam uicarii et uicini</p>
+                    <p>sacerdotes possunt ante ablucionem post primam missam secundam celebrare si fuerint requisiti.</p>
+                    <p>Et hoc sub pena X solidorum quorum accusator habet IIII solidos.</p>
+                    <p>Nullus antequam matutinas canonicas dixerit et primam presumat aliqua necessitate missam celebrare.</p>
+                    <p>Omnes deuote et non festinanter in horis dicant psalmos et alia officia.</p>
+                    <p>Statim post uesperas dicant capellani in ecclesia completorium.</p>
+                </div>
+                <div>
+                    <head>Capitulum 17</head>
+                    <p>De confessione.</p>
+                    <p>Sacerdos circa confessionem maximam curam adhibeant et cautelam scilicet ut diligenter inquirant peccata usitata singillatim.</p>
+                    <p>Inusitata autem nonnisi a longe per aliquam circumstanciam sic tamen ut expertis detur materia confitendi.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18</head>
+                    <p>De loco confitendi.</p>
+                    <p>Ad audiendam confessionem communiorem locum sibi in ecclesia eligant sacerdotes ut communiter ab omnibus uideri possint.</p>
+                    <p>Et in locis abditis et occultis aut extra ecclesiam nullus recipiat confessiones nisi in magna necessitate uel infirmitate.</p>
+                </div>
+                <div>
+                    <head>Capitulum 19</head>
+                    <p>Qualiter se habeat ibi sacerdos in confessione.</p>
+                    <p>In confessione sacerdos uultum habeat humilem et oculos ad terram ne faciem respiciat confitentis maxime mulieris et ei persuadeat ut integre confiteatur.</p>
+                    <p>Aliter enim dicat nil ualere.</p>
+                </div>
+                <div>
+                    <head>Capitulum 20</head>
+                    <p>Quod interroget confitentem.</p>
+                    <p>Audita confessione sacerdos interroget confitentem an ab omni uelit abstinere mortali.</p>
+                    <p>Aliter eum non absoluat nec iniungat satisfaccionem ne confidat se moneat ut interim agat quicquid boni potest ut Deus cor illius ad ueram et plenam penitenciam illustret.</p>
+                </div>
+                <div>
+                    <head>Capitulum 21</head>
+                    <p>De satisfaccione.</p>
+                    <p>In iniungendis satisfaccionibus paruis sibi caueant sacerdotes quia secundum quantitatem culpe et possibilitatem confitentis et satisfaccio debet estimari.</p>
+                    <p>Alioquin quod minus est requiretur ab eis.</p>
+                    <p>In usura furto rapina ualde sibi caueant ne aliquis iniungat satisfacciones scilicet missarum elemosinarum et huiusmodi priusquam reddiderint ablata.</p>
+                    <p>Non enim dimittetur tale peccato nisi prius restituatur ablatum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 22</head>
+                    <p>De commonicione ad confessionem.</p>
+                    <p>Frequencius moneant populum ad confessionem et precipue ab inicio quadragesime instanter precipiant omnes generaliter ad confitendum uenire.</p>
+                </div>
+                <div>
+                    <head>Capitulum 23</head>
+                    <p>De eodem.</p>
+                    <p>In confessione sibi caueant sacerdotes ne inquirant nomina personarum cum quibus peccauerunt sed circumstancias tamen et quantitates.</p>
+                </div>
+                <div>
+                    <head>Capitulum 24</head>
+                    <p>De confessione non reuelanda.</p>
+                    <p>Nullus sacerdos ira uel odio uel eciam in morte alicuius audeat reuelare confessionem signo uel uerbo generaliter uel specialiter ut dicendo quales estis scio.</p>
+                    <p>Et si reuelauerit absque misericordia debet degradari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 25</head>
+                    <p>De matrimonio.</p>
+                    <p>Matrimonium cum honore et reuerencia celebretur et in facie ecclesie non cum risu et ioco ne contempnatur.</p>
+                    <p>Et antequam fiat semper in tribus dominicis aut tribus festiuis diebus a se distantibus quasi tribus edictis perquirat sacerdos a populo sub pena excommunicacionis de legitimacione sponsi et sponse qui debent coniungi et ante fidem datam de contrahendo matrimonio.</p>
+                    <p>Et ante hec tria edicta nullus audeat aliquomodo matrimonium celebrare.</p>
+                    <p>Et quicumque interfuerit matrimonio clandestino tres processiones faciat exutus supertunicali et discalciatus antequam absoluatur ita quod uiri in camisia et mulieres in tunica uadant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 26</head>
+                    <p>De contrahendo.</p>
+                    <p>Prohibeant presbiteri laicis ne dent sibi fidem mutuo de matrimonio contrahendo nisi coram sacerdote et loco celebri scilicet ante ianuam ecclesie et coram pluribus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 27</head>
+                    <p>Quid prohibeant.</p>
+                    <p>Semper in nupciis prohibeant per excommunicacionem sortilegia fieri.</p>
+                    <p>Malefici quoque excommunicentur et celantes consanguinitatem et alia impedimenta matrimonii ut uotum ordinem disparem cultum et compaternitatem que tantum IIII a matrimonio personas excludunt scilicet compatrem et commatrem et fratrem uel sororem spiritualem scilicet filium uel filiam patrini quo mediante compaternitas trahitur.</p>
+                    <p>Nullus sacerdos in casu dubio audeat perficere matrimonium episcopo inconsulto sed ad eum referat omnes dubietates.</p>
+                </div>
+                <div>
+                    <head>Capitulum 28</head>
+                    <p>Ut nil propter sacramenta exigatur quia simonia est.</p>
+                    <p>Prohibetur districte sub excommunicacionis pena ut nullus sacerdos aut capellanus exigat aliquid ante benediccionem nupcialem siue pro testimonio conferendo siue pro matrimonio celebrando occasione ferculorum que in nupciis debentur.</p>
+                    <p>Celebrato autem matrimonio si consuetudo fuerit exigatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 29</head>
+                    <p>De unccione infirmorum.</p>
+                    <p>Cum reuerencia deferatur oleum sanctum ad infirmos et eos unguant sacerdotes cum magno honore et oracionum celebritate et nichil inde penitus exigatur.</p>
+                    <p>Ad quod sacramentum moneant populum sacerdotes non tantum diuites sed eciam pauperes senes et iuuenes omnes maxime ab annis quatuordecim et supra et ad omnes se communiter paratos exhibeant cum fuerit necesse.</p>
+                    <p>Hoc sacramentum licite potest iterari in qualibus magna infirmitate unde metus est mortis.</p>
+                    <p>Et post susceptum reuerti licite ad opus coniugale postquam cum ualuerit de infirmitate.</p>
+                </div>
+                <div>
+                    <head>Capitulum 30</head>
+                    <p>Omnes habeant librum manualem.</p>
+                    <p>Librum qui dicitur manuale habeant singuli sacerdotes parochiales ubi continetur ordo seruicii extreme unccionis cathecismi et</p>
+                    <p>baptismi et huiusmodi habeant et canones penitenciales et ordinarium officiorum secundum usum qui obseruatur in ecclesia maiori [8]in pena LX solidorum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 31</head>
+                    <p>De testamentis.</p>
+                    <p>Sacerdos testamenta sua non disponant per manum laicalem.</p>
+                    <p>Ipsi quoque prohibeant laicis ne testamenta sua faciant sine presencia sacerdotis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 32</head>
+                    <p>De redditibus ecclesie.</p>
+                    <p>Omnes ecclesie suos redditus scribant in missalibus suis sub pena XX solidorum.</p>
+                    <p>Qui recuperabuntur in uisitacione sine misericordia nec de rebus ecclesie alienent nisi per consilium episcopi.</p>
+                </div>
+                <div>
+                    <head>Capitulum 33</head>
+                    <p>De morientibus in partu.</p>
+                    <p>Mulieres mortue in partu scindantur si infans uiuere credatur si tantum bene constiterit de morte earum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 34</head>
+                    <p>De cura mortuorum.</p>
+                    <p>Sacerdotes audita morte parrochianorum suorum eos statim absoluant cum psalmo De profundis et collecta.</p>
+                </div>
+                <div>
+                    <head>Capitulum 35</head>
+                    <p>De resignacionibus ecclesiarum.</p>
+                    <p>Relaxaciones uel resignaciones ecclesiarum non fiant in manu abbatum uel quorumlibet patronum sed in manu episcopi a quo cura habetur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 36</head>
+                    <p>De predicatoribus girouagis.</p>
+                    <p>Non permittantur predicatores questuarii celebrare missas super archas nec campanas pulsare per uicos nec loqui in ecclesia nec presentare reliquias sed tantum deferant litteras testimoniales cum litteris episcopi diocesani et sacerdotes loquuntur pro eis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 37</head>
+                    <p>De oracione.</p>
+                    <p>Exhortentur populum sepe ad addiscendam et dicendam dominicam oracionem et Credo in Deum et beate semper uirginis salutacionem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 38</head>
+                    <p>Ne habent mulieres contuberniales.</p>
+                    <p>Nullus sacerdos aut capellanus teneat in domo sua mulierem occasione aliqua nisi sit eius mater aut soror aut talis persona de qua non possit esse suspicio [9] et hoc precipimus sub pena XX solidorum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 39</head>
+                    <p>Ne sint lusores.</p>
+                    <p>Non ludant aleis uel deciis.</p>
+                    <p>Et quicumque luserit ad taxillos uel aleas publice in villa extra cimiterium et domos clericorum [10] uel in cimiterium publice dum diuina officia celebrantur ipso facto interdictum incurrat si fuerit in sacris constitutus [11] et nichilominus penam XX solidorum incurret nec huiusmodi ludis assistant nec intersint spectaculis uel choreis.</p>
+                    <p>Non intrent tabernas causam potandi et sine amico comite clerico uel laico non intrent domos alienas.</p>
+                    <p>Non discurrant per uicos et plateas nec habeant capas manicatas et uestes ornatas.</p>
+                </div>
+                <div>
+                    <head>Capitulum 40</head>
+                    <p>Nemo recipiat decimas a laico.</p>
+                    <p>Nullus clericus aut regularis recipiat decimas in feudum de manu laici nisi per manum episcopi.</p>
+                </div>
+                <div>
+                    <head>Capitulum 41</head>
+                    <p>Qui recipiantur ad predicandum.</p>
+                    <p>Nullus recipiatur ad predicandum nisi sit autentica persona ab episcopo missa.</p>
+                </div>
+                <div>
+                    <head>Capitulum 42</head>
+                    <p>De non prestando iuramento patronis ecclesiarum.</p>
+                    <p>Nullus clericus faciat iusiurandum patrono nisi prius fuerit episcopo presentatus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 43</head>
+                    <p>De uotis discrete emittendis.</p>
+                    <p>Moneant sacerdotes sepe populum et maxime mulieres ne uotum faciant nisi cum magna deliberacione et assensu uirorum suorum et consilio sacerdotum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 44</head>
+                    <p>Item alia statuta.</p>
+                    <p>Item quod finito completorio cantent alta uoce et deuote Salue regina uel aliam antiphonam pulcram beate Marie.</p>
+                    <p>Item statuimus ut quilibet parochianus seu parochiana etatem habens confiteatur suo curato uel eius uicario semel in anno quamuis alii confessus fuerit.</p>
+                </div>
+                <div>
+                    <head>Capitulum 45</head>
+                    <p>Alia.</p>
+                    <p>Item sigillent sacerdotes litteras episcopi et sui officialis absque alia exaccione.</p>
+                    <p>Item citaciones presententur et alie littere die dominico uel festo IX leccionum sacerdotibus et dies citacionis distet per tres dies saltim sequentes et fiat citacio hora prima eciam si non contineretur in littera alia hora.</p>
+                </div>
+                <div>
+                    <head>Capitulum 46</head>
+                    <p>Alia constitucio.</p>
+                    <p>Item moneantur publice parochiani quod uolentes matrimonium contrahere peccata sua confiteatur proprio sacerdoti antequam desponsentur.</p>
+                    <p>[12] Et sacerdos qui eos desponsauerit ante absolucionem pena C solidorum qualibet uice incurrat.</p>
+                    <p>Item quod nullus presbiter presumat desponsare parochianum uel parochianam alterius absque licencia episcopi uel sui curati.</p>
+                </div>
+                <div>
+                    <head>Capitulum 47</head>
+                    <p>Alia constitucio.</p>
+                    <p>Item precipimus quod non differant per uillas capucia ante dissuta [13] nec eciam condulata et hoc precipimus sub pena XX solidorum.</p>
+                    <p>Item statuimus quod sacerdotes tabernas non intrent sed prorus illas euitent nisi casu necessitatis in itinere constituti uel nisi fuerint infra domos clericorum et hoc precipimus obseruari in pena X solidorum.</p>
+                    <p>[14] Item statuimus et inhibemus ne aliquis sacerdos deferat cotulares acutos et hoc sub pena XL solidorum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 48</head>
+                    <p>Alia constitucio.</p>
+                    <p>Item statuimus quod sacerdotes in plateis uel eciam in domibus suspectis non sedeant cum mulieribus suspectis et hoc precipimus obseruari sub pena interdicti.</p>
+                </div>
+                <div>
+                    <head>Capitulum 49</head>
+                    <p>Alia constitucio.</p>
+                    <p>Item inhibemus ne aliquis sacerdos filium in sacerdocio genitum in domo sacerdotali secum teneat nec habeat et hoc precipimus sub pena XXV solidorum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 50</head>
+                    <p>Item aliud statutum.</p>
+                    <p>Item ne idem filius patri sacerdoti in altari administret et hoc sub pena XXV solidorum quorum accusator habeat X solidos.</p>
+                    <p>Item precipimus ut quilibet incuratus habeat sigillum proprium quod nisi singulis synodis ostenderet pena XX solidorum incurrat.</p>
+                    <p>Item monemus ut omnes sacerdotes faciant aduentus Domini.</p>
+                    <p>Item precipimus ut quilibet sacerdos habeat proprium clericum et secum teneat sub pena interdicti.</p>
+                </div>
+                <div>
+                    <head>Capitulum 51</head>
+                    <p>Item alia statuta.</p>
+                    <p>Item statuimus ut feria quarta et septima et tribus diebus Rogacionum abstineant sacerdotes et in sacris ordinibus constituti ab esu carnium nisi in Natiuitate Domini et graui infirmitate.</p>
+                    <p>Et in tribus diebus Rogacionum incurrant interdictum.</p>
+                    <p>Quod ad omnes clericos extendi uolumus et mandamus nisi forte grauis infirmitas aliud suaderet in quo casu debilibus et egrotis esum carnium minime prohibemus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 52</head>
+                    <p>Item alia statuta.</p>
+                    <p>Item precipimus et monicione premissa compellant per excommunicacionem parochianos suos extrahere omnes archas et garneria de ecclesiis et cimiteriis exceptis archis confratriarum nisi propter guerras sustinerent.</p>
+                </div>
+                <div>
+                    <head>Capitulum 53</head>
+                    <p>Item alia.</p>
+                    <p>Item precipimus ne aliquis interdicat uel excommunicet nisi in scriptis.</p>
+                    <p>Item precipimus ne aliquis incurratus instrumenta acquisitorum suorum faciat nisi in nomine ecclesie et hoc precipimus sub pena interdicti.</p>
+                    <p>Et si aliquis fecerit contrarium hoc reuocet coram domino episcopo infra XV dies sub pena interdicti si acquisitum factum fuerit de bonis [15] nota ecclesie.</p>
+                    <p>Item precipimus ne aliquis incuratus recipiat sacerdotem alienigenam sine mandato nostro ad celebrandum nec aliquem uicarium donec fuerit nobis presentatus in pena L solidorum quorum X sint accusatoris [16] et quolibet anno nobis presentatus in pena XX solidorum.</p>
+                    <p>Item statuimus ut panis benedictus non fiat amodo de hostiis sed de pane frumenti ut per speciem panis saltim diiudicent laici Corpus Christi.</p>
+                    <p>Candelabra uel uasa ecclesie ad communes usus sacerdotes gracia alicuius hospitis non deportent.</p>
+                    <p>Priores uel sacerdotes et alii ecclesiarum rectores bona ecclesie immobilia non infeudent uel aliquo modo alienent uel pignori obligent et hoc iurent postquam cura animarum eis fuerit collata.</p>
+                    <p>Excommunicati uitentur et frequenter moneantur nec communioni uirorum catholicorum ingerere se presumant sed sint donec satisfaciant omnino a consorcio fidelium alieni.</p>
+                </div>
+                <div>
+                    <head>Capitulum 54</head>
+                    <p>Regula.</p>
+                    <p>Notandum est quod in octaua Pentecostes canimus de sancta Trinitate per totam ebdomadam.</p>
+                    <p>Sequenti uero dominica incipimus librum Regum et Deus omnium usque in kalendas augusti.</p>
+                    <p>Si augustus interuenerit usque ad quartam feriam dominica ante incipimus In principio.</p>
+                    <p>Si quinta uel sexta uel septima sequenti dominica et sic de ceteris responsoriis.</p>
+                    <p>In principio cantamus per quatuor ebdomadas augusti postea Si bona per duas dominicas.</p>
+                    <p>Postea Peto Domine unam dominicam.</p>
+                    <p>In hac ebdomada celebramus ieiunium quatuor Temporum.</p>
+                    <p>Sequenti dominica Adonai Domine et Domine rex omnipotens.</p>
+                    <p>A kalendis octobris Adaperiat usque ad festiuitatem omnium sanctorum.</p>
+                    <p>Ibi incipimus Uidi Dominum usque ad Aduentu Domini.</p>
+                    <p>Dominica post octauam Epiphanie cantamus Domine ne in ira usque in Septuagesimam.</p>
+                    <p>Postea In principio.</p>
+                    <p>In Pascha per duas ebdomadas cantamus Angelus Domini.</p>
+                    <p>Postea Dignus es Domine per duas ebdomadas.</p>
+                    <p>Postea Si oblitus fuero usque ad Ascensionem Domini.</p>
+                </div>
+                <div>
+                    <head>Capitulum 55</head>
+                    <p>De rebus ecclesie non alienendis.</p>
+                    <p>Inhibemus et districte precipimus ne prior uel sacerdos aliquis immobiles possessiones unius ecclesie presumat uertere ad aliam ecclesiam quamuis ambe ecclesie in eius sint potestate sub pena interdicti.</p>
+                </div>
+                <div>
+                    <head>Capitulum 56</head>
+                    <p>De eodem.</p>
+                    <p>Item districte inhibemus ne aliquis sine licencia sui episcopi rem immobilem uel rusticam sue ecclesie alienet per uendicionem uel donacionem uel commutacionem nec eciam creditori suo titulo pignoris obliget sub pena interdicti.</p>
+                </div>
+                <div>
+                    <head>Capitulum 57</head>
+                    <p>De statu regularium.</p>
+                    <p>Prohibemus ne regularis aliquis sine socio regulari ponatur uel moretur in ecclesia parochiali sub pena interdicti.</p>
+                </div>
+                <div>
+                    <head>Capitulum 58</head>
+                    <p>De censibus.</p>
+                    <p>Prohibemus ne noui census imponantur ecclesiis nec ueteres augeantur et quod prelatus aliquis partem redituum ecclesiarum suis usibus appropriare non presumat sub pena interdicti.</p>
+                </div>
+                <div>
+                    <head>Capitulum 59</head>
+                    <p>Tenor littere late sententie condam per bone memorie dominum Simonem episcopum Augustensem contra usurpatores iurisdiccionis ecclesiastice et contra illos qui super certis casibus in ipsa littera adnotatis causam seu querelam deponerent coram domino seculari sequitur in hunc modum.</p>
+                    <p>Simon miseracione diuina episcopus Augustensis dilectis in Christo uniuersis incuratis et uicariis in ciuitate et diocesi Augustensi constitutis ad quos presentes littere peruenerint salutem in Domino sempiternam.</p>
+                    <p>Cum secundum tradicionem sacrorum canonum ac eciam sanctorum patrum quociens casus seu questio oritur non solum inter clericos sed eciam inter laicos super sacrilegio item super crimen heresis item super crimine simonie item super crimine periurii item super crimine adulterii item super usuris item super dote item super decimis item super matrimonio item super natiuitate alicuius utrum sit legitimus uel illegitimus item super iure patronatus et si questio oriatur inter duos laicos uel clericum et laicum quis eorum presentacionem habeat in aliqua ecclesia dicta causa seu questio deduci debeat ad iudicium ecclesiasticum et coram iudice ecclesiastico uentilari ac eciam causa hostagii de consuetudine antiqua in diocesi Augustensi hactenus obseruata coram iudice ecclesiastico uentiletur item ad ecclesiasticum iudicem spectent proteccio uiduarum et pupillorum item punicio cuiuslibet peccati mortalis item exequi ultimas uoluntates defunctorum item clamores defunctorum item bona peregrinorum morientium ab intestato penes episcopum debeant custodiri per annum ad opus proximorum si uenerint alioquin eroganda sint ad pios usus item questio elemosinarum confratriarum primiciarum et omnium redituum ecclesiasticorum et priorum locorum uobis de consilio uenerabilis et discreti uiri domini Petri de Thora decani Sedunensis canonici Augustensis et plurimorum aliorum sapientium distincte precipiendo mandamus sub pena interdicti quatenus parochianos uestros publice in ecclesiis uestris moneatis per tres dies festiuos continuos ut super predictis casibus uel aliquo predictorum causam seu querelam non deponant coram domino seculari, cum ex hoc eneruaretur et eneruari contingeret ecclesiasticam iurisdiccionem.</p>
+                    <p>Quod si post monicionem trinam facere acceptauerint ipsos quos ex tunc in scriptis excommunicamus singulis diebus dominicis et festiuis excommunicatos publice nuncietis.</p>
+                    <p>Et illum uel illos de quibus uobis constiterit propter hanc causam excommunicacionis summam incurrisse ac inde tanquam excommunicatos accrius euitetis.</p>
+                    <p>Item moneatis per tres dies festiuos continuos dominos seculares ut super predictis casibus uel aliquo predictorum ad cognoscendum partes suas nullatenus interponant cum ad eos nulla super hiis cognicio seu iurisdiccio sit attributa.</p>
+                    <p>Quod si postmodum facere attemptauerint ipsos quos ex tunc tanquam usurpatores iurisdiccionis ecclesiastice in scriptis excommunicamus.</p>
+                    <p>Excommunicatos in ecclesiis uestris publice nuncietis singulis diebus dominicis et festiuis diligenter precauentes ne circa hoc negligentes uel remissi uel eciam timidi existatis aliquatenus nam contra uos dure et aspere actore domino procederemus.</p>
+                </div>
+                <div>
+                    <head>Explicit</head>
+                    <p>Datum et actum Auguste in nostra synodo die martis post Ascensionem Domini anno Natiuitatis eiusdem Mo CCo LXXXo.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] The first seccion (A) is titled 'STATUTS DE SIMON DE DUIN (1280)'</p>
+                    <p>[2] &lt;hoc sub pena XX solidorum pro qualibet uice quod contrarium fieret&gt; in angled brackets</p>
+                    <p>[3] &lt;et hoc in pena XX solidorum quocienscumque contrarium fieret&gt; in angled brackets</p>
+                    <p>[4] &lt;nec uinum ultra I diem et offertur obseruetur in pena X solidorum&gt; in angled brackets</p>
+                    <p>[5] &lt;et reuerenda portandi Corpus Christi&gt; in angled brackets</p>
+                    <p>[6] &lt;Item inhibemus ne aliquis Corpus Christi latenter deferre presumat  ad infirmum sub pena interdicti. Et clericum  ducant secum cum caligis et superpellicio in pena XX solidorum&gt; in angled brackets</p>
+                    <p>[7] &lt;Nec portantes crucem ad processionem  in pena XX solidorum&gt; in angled brackets</p>
+                    <p>[8] &lt;in pena LX solidorum&gt; in angled brackets</p>
+                    <p>[9] &lt;et  hoc  precipimus  sub  pena  XX solidorum&gt; in angled brackets</p>
+                    <p>[10] &lt;uel in cimiterium   publice   dum   diuina   officia   celebrantur&gt; in angled brackets</p>
+                    <p>[11] &lt;et nichilominus penam  XX  solidorum  incurret&gt; in angled brackets</p>
+                    <p>[12] &lt;Et sacerdos qui eos desponsauerit ante absolucionem pena C solidorum qualibet uice incurrat&gt; in angled brackets</p>
+                    <p>[13] &lt;nec eciam  condulata&gt; in angled brackets</p>
+                    <p>[14] &lt;Item statuimus et inhibemus ne aliquis sacerdos deferat cotulares acutos et hoc sub pena XL solidorum&gt; in angled brackets</p>
+                    <p>[15] &lt;nota (?)&gt; in angled brackets</p>
+                    <p>[16] &lt;et quolibet anno nobis presentatus in pena XX solidorum&gt; in angled brackets</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

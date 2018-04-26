@@ -1,0 +1,201 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lucca</title>
+                <recordID>1623</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1366</origDate>
+                <dateNotes/>
+                <origPlace>Lucca</origPlace>
+                <diocese>Lucca</diocese>
+                <province>[Holy See]</province>
+                <country>Italy</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 1623</p>
+                <p>Year: 1366</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Lucca</p>
+                <p>Diocese: Lucca</p>
+                <p>Province: [Holy See]</p>
+                <p>CountryModern: Italy</p>
+                <p>Latitude: 43.85</p>
+                <p>Longitude: 10.5</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Dinelli, Sinodi, 115-119</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: https://books.google.com/books?id=5lVfAAAAcAAJ</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'WebDownload']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: additions to 1351 synod</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>In nomine Domini amen.</p>
+                    <p>Infrascripte sunt addiciones facte per reuerendum in Christo patrem et dominum dominum Berengarium Dei, et apostolice sedis gracia lucanum episcopum constitucionibus synodalibus suprascriptis ipsius domini episcopi in publica et generali clericorum ciuitatis et diocesis lucane congregacione, et synodo per ipsum Dominum episcopum congregata, et celebrata Luce in maiori ecclesia lucana anno Natiuitatis Domini millesimo trecentesimo sexagesimo sexto, indiccione quinta, die XX. mensis octobris Pontificatus santissimi in Christo Patris, et domini nostri domini Urbani Pape quinti anno IV.</p>
+                    <p>Nos Berengarius Dei et apostolice sedis gracia lucanus episcopus infrascriptas addiciones nostris constitucionibus facimus, uidelicet.</p>
+                    <p>In primis capitulo quinto circa principium post uerbum: locis: addimus sic uidelicet: uel hospitalibus: et deinde post uerbum uenerabilis addatur: uel hospitalis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>Capitulo circa principium post uerbum ecclesiastica addatur uel hospitalia, seu pia loca.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>Capitulo in fine addatur sic uidelicet: extendentes hanc constitucionem nostram ad obtinentes collegiata beneficia ecclesiastica, uel plebanias, uel alias dignitates, qui uigore huiusmodi constitucionis moniti teneantur se ad presbyteratus ordinem facere promoueri infra annum a die de se facte institucionis, nisi legitime docuerint se possessionem pacificam habere minime potuisse, ex qua se promoueri ad dictum ordinem non fecerunt, et predicta fieri decernimus, et mandamus per hanc nostram constitucionem sub pena predicta canonis, siue iuris.</p>
+                </div>
+                <div>
+                    <head>Capitulum 25</head>
+                    <p>Capitulo in fine addatur sic uidelicet: et idem statutum per omnia obseruetur, et locum habeat in quocumque supposito racione delicti, contractus, domicilii, siue rei iurisdiccioni temporali lucani episcopi in quacumque causa accusacionis, denunciacionis, uel inquisicionis de et pro quibuscumque excessibus, uel delictis commissis, uel committendis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 33</head>
+                    <p>Capitulo in fine addatur sic uidelicet.</p>
+                    <p>Non tamen propter aliquod preamissorum, uel aliquod ex contentis in aliquibus nostris constitucionibus intendimus foro, uel iurisdiccioni seculari in personam aliquam ecclesiasticam iurisdiccionem aliquam prorogare, siue alias tribuere, aut dare, quin imo si aliqua contra hanc nostram intencionem reperirentur quomodolibet edita, siue facta per nos, uel per aliquem, seu aliquos ex predecessoribus nostris lucanis episcopis tanquam canonibus inimica, eciamsi transiuissent in contractum, in his scriptis totaliter reuocamus eadem, et haberi uolumus pro non factis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 39</head>
+                    <p>Capitulo post illud uerbum, requirat: addatur sic uidelicet: uel hospitale, siue alium pium locum de cetero.</p>
+                    <p>Et deinde addatur in fine sic uidelicet.</p>
+                    <p>Insuper uolumus, et mandamus, et sub infrascriptis penis citamus, requirimus, et monemus pro primo, secundo, tercio, et peremptorio termino, ac monicione canonica omnes et singulos rectores hospitalium nostre ciuitatis, uel diocesis, quatenus sub excomunicacionis et priuacionis penis infra duos menses proxime futuros a die publicacionis huius nostre constitucionis debeant, et teneantur in hospitalibus, que habent, uel de cetero habebunt, continuam residenciam facere personalem, et bona, et reditus dictorum hospitalium conuertere in usus pauperum, aliaque omnia et singula facere, que sancte recordacionis dominus Clemens Papa V prouidit per suam constitucionem, que incipit, Quia contingit.</p>
+                </div>
+                <div>
+                    <head>Capitulum 45</head>
+                    <p>Capitulo post illa uerba: uel loci ecclesiastici: addatur sic uidelicet: uel alias ullo modo sine nostra, uel nostri Uicarii generalis in nostra absencia extra ciuitatem, uel diocesim lucanam licencia speciali.</p>
+                </div>
+                <div>
+                    <head>Capitulum 69</head>
+                    <p>Capitulo in fine addatur sic uidelicet.</p>
+                    <p>Et quia malicia temporis faciente beneficia ecclesiastica in nostra ciuitate, et diocesi sunt in tantum in suis facultatibus attenuata, quod ipsorum beneficiati incumbentibus oneribus supportatis ex eisdem beneficiis non percipiunt ad uiuendum.</p>
+                    <p>Statuimus, et ordinamus, quod in parrochialibus ecclesiis ipsarum parrochiani, in plebibus uero tam ipsarum, quam aliarum ecclesiarum plebatus earumdem parrochiani teneantur, et possint, et debeant compelli, tam per censuram ecclesiasticam, quam per alia iuris remedia ad reparacionem, et refeccionem, construccionem, seu reconstruccionem ipsarum ecclesiarum, et plebium refeccione, reparacione, construccione, uel reconstruccione egentium in nostra ciuitate, uel diocesi.</p>
+                </div>
+                <div>
+                    <head>Capitulum 73</head>
+                    <p>Capitulo addatur sic in fine uidelicet: nec non omnes et singulos, qui scienter clericos, uel ecclesiasticas personas traxerint coram aliquo iudice seculari, uel aliquo alio iurisdiccionem secularem quomodolibet exercente.</p>
+                </div>
+                <div>
+                    <head>Capitulum 80</head>
+                    <p>Capitulo addatur in fine sic uidelicet: ceterum ad simoniacorum maliciam conuincendam, qui ut plurimum sic occulte simoniam committunt, quod de simoniaca labe conuinci non possint, statuimus, quod si quis ex permutacione adeptus est beneficium ecclesiasticum honorabile, et ualoris maioris in triplo in redditibus annuatim eius, quod ualet, uel ualebat beneficium, quod ex permutacione huiusmodi dimisit, quodque beneficium sic dimissum non sit tanti honoris, quanti est adeptum, cum testimonio bone fame probantium esse, uel fuisse publicam uocem, et famam huiusmodi beneficium adquisitum esse, et fuisse adeptum per simoniam, ut quicumque tale beneficium honoris, et ualoris predictorum obtinet, uel de cetero obtinebit, eo ipso conuincatur simoniacus, et huiusmodi beneficium habuisse, uel habere per simoniacam prauitatem, et teneatur, et puniatur constitucionibus canonicis, sacris canonibus, ac penis, que contra simoniacos emanarunt.</p>
+                    <p>De articulis fidei.</p>
+                </div>
+                <div>
+                    <head>Explicit</head>
+                    <p>Item cum super articulis fidei, et sacramentis ecclesie debeant quilibet esse docti, hac nostra constitucione ponimus hos articulos fidei, et sacramenta ecclesie, ut per quoscumque clericos implicite, et explicite sciantur, et eosdem articulos, et alia sacramenta suos parrochianos doceant, et quod singuli plebani, et rectores parrochialium ecclesiarum infra mensem sub pena excomunicacionis ipsos articulos, et ipsa sacramenta, et hanc nostram constitucionem recipere et habere de manu nostri cancellarii.</p>
+                    <p>Qui quidem articuli sunt XIV, quorum VII respiciunt ad Diuinitatem Christi, et VII ipsius humanitatem.</p>
+                    <p>Articulorum diuinitatis primus est de unitate diuine essentie ibi: credo in unum Deum.</p>
+                    <p>Secundus de persona Patris ibi: Patrem omnipotentem.</p>
+                    <p>Tertius de persona filii ibi: Et in Iesum Christum filium eius.</p>
+                    <p>Quartus de persona Spiritus Sancti ibi.</p>
+                    <p>Et in Spiritum Sanctum.</p>
+                    <p>Quintus de affectu, quo a Deo creamur in esse nature ibi: Creatorem coeli et terre.</p>
+                    <p>Sextus de affectu, quo a Deo creamur in esse gratie ibi.</p>
+                    <p>Sanctam et catholicam ecclesiam, sanctorum comunionem remissionem peccatorum.</p>
+                    <p>Septimus de effectu, quo a Deo perficimur in esse glorie ibi.</p>
+                    <p>Carnis resurreccionem uitam eternam amen.</p>
+                    <p>Articuli uero humanitatis Christi sunt primus ibi.</p>
+                    <p>Qui conceptus est de Spiritu Sancto.</p>
+                    <p>Secundus ibi.</p>
+                    <p>Natus ex Maria Uirgine.</p>
+                    <p>Tertius ibi.</p>
+                    <p>Passus sub Poncio Pilato mortuus et sepultus.</p>
+                    <p>Quartus ibi.</p>
+                    <p>Descendit ad inferos.</p>
+                    <p>Quintus ibi.</p>
+                    <p>Tercia die resurrexit a mortuis.</p>
+                    <p>Sextus ibi.</p>
+                    <p>Ascendit in Coelum sedet ad dexteram Patris Omnipotentis.</p>
+                    <p>Septimus ibi.</p>
+                    <p>Inde uenturus est iudicare uiuos et mortuos.</p>
+                    <p>Alii tamen dicunt dictos articulos fidei diuinitatis et humanitatis Christi esse XII, facientes de ultimis duobus predictis articulis diuinitatis unum articulum, et de primis duobus articulis supradictis humanitatis unum articulum, quorum eciam opinio est bona, et isti omnes articuli habentur in simbolo minori.</p>
+                    <p>Est eciam credendum, et tenendum, quod Spiritus Sanctus a Patre et Filio procedat tamquam ex unica spiracione, et non tamquam ex duobus principiis, uel ex duabas spiracionibus.</p>
+                    <p>Est eciam credendum et tenendum, quod anima racionalis, siue intellectiua est forma corporis humani per se, et essencialiter.</p>
+                    <p>Sacramenta uero ecclesie sunt septem, quorum quedam sunt necessaria, et quedam uoluntaria.</p>
+                    <p>Sacramenta necessaria sunt quinque uidelicet.</p>
+                    <p>Baptismus, Confirmacio in fronte, Penitencia, Unccio, et Corpus Christi.</p>
+                    <p>Hec dicuntur sacramenta necessitatis, quia sine istis homo saluari non potest, si contemptu admittantur [1], et haberi possint.</p>
+                    <p>Sacramentum uero Baptismi a quocumque in necessitate potest recipi, dummodo in forma ecclesie conferatur, et idem de penitencia est tenendum, quod in necessitate quis possit cuilibet confiteri.</p>
+                    <p>Cessante autem necessitate debent huiusmodi sacramenta baptismi et penitentie conferri secundum canonicas sancciones.</p>
+                    <p>Sacramenta uero uoluntaria sunt duo, uidelicet Ordo, et Matrimonium, et ideo dicuntur uoluntaria, quia omittere, quin recipiantur, non est peccatum [2].</p>
+                    <p>Item quia ex malo opere quis non debet comodum reportare, statuimus et ordinamus, quod nullus possit assumi in prelatum, uel rectorem alicuius ecclesie, uel hospitalis, aut pii loci, qui in primo curato beneficio, quod prius habuit male administrauerit, et huiusmodi beneficium damnificauerit, et ad hoc teneatur quilibet taliter assumens de omnibus, et singulis bonis habiti beneficii predicti nobis, uel nostro uicario generali facere ueram, et integram racionem.</p>
+                    <p>Qua non facta de eo quelibet institucio facta in quocumque alio beneficio curato, uel non curato, aut hospitali, uel pio loco nostre ciuitatis, uel diocesis nulla sit ipso facto.</p>
+                    <p>Extendentes eciam constitucionem, et eius penam felicis recordacionis domini Gregorii Pape VIIII, que incipit: Quam sit ecclesiis: et que habetur de eleccione lib. VI ad quemlibet electum, presentatum, uel postulatum ad regimen cuiuslibet hospitalis nostre ciuitatis uel diocesis lucane, et ad quemcumque, qui de cetero eligatur, presentabitur, et postulabitur ad regimen cuiuslibet hospitalis dicte ciuitatis, uel diocesis, ut uidelicet non consentiendo infra mensem eleccioni de se facte, seu presentacioni, uel postulacioni infra mensem a tempore sibi presentate huiusmodi eleccionis, presentacionis, uel postulacionis, iure si quid ei ex presentacione, eleccione, uel postulacione huiusmodi foret acquisitum, ex tunc eo ipso sit priuatus, sicut per dictam constitucionem deberet fieri, et seruaretur in electis ad beneficia ecclesiastica, de quibus in constitucione huiusmodi continetur.</p>
+                    <p>Item reuocamus totaliter, et expresse omnes et singulos iconimos per nos, uel nostros uicarios, uel alios quoscumque hactenus constitutos, uel alios quoscumque in nostra ciuitate, uel diocesi in quibuscumque beneficiis ecclesiasticis, mandantes eisdem iconomis omnibus, et singulis in uirtute sancte obedientie, et sub excommunicacionis pena, quod infra duos menses proxime futuros debeant nobis, uel nostro uicario generali de perceptis fructibus, introitibus, redditibus, et obuencionibus uniuersis beneficiorum ipsorum, eorumque exitibus facere ueram, et integram racionem.</p>
+                    <p>Inhibentes de cetero totaliter, et expresse omnibus, et singulis nostre ciuitatis, et diocesis, ne in aliquo beneficio ecclesiastico uel hospitali aut pio loco sub pena excommunicacionis aliquem iconomum, uel administratorem, uel receptorem constituere, ponere, uel deputare audeant, aut presumant.</p>
+                    <p>Nostre tamen intencionis existit predicta non extendi ad iconomos per nos, uel nostrum uicarium generalem constitutos a sex mensibus proxime preteritis citra.</p>
+                    <p>Item statuimus, quod operarii ecclesiarum nostre ciuitatis, uel diocesis sub pena excommunicacionis non audeant, uel presumant bona aliqua ecclesiarum recipere, colligere, uel habere sine nostra, uel nostri generalis uicarii licencia speciali, et de perceptis nobis, uel eidem uicario teneatur, et debeant infra mensem proxime futurum facere ueram, et integram racionem.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] Deleted: (leg. omittantur).</p>
+                    <p>[2] Ed. peecatum</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

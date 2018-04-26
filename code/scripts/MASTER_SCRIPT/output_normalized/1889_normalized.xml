@@ -1,0 +1,151 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Acqui</title>
+                <recordID>1889</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1265</origDate>
+                <dateNotes/>
+                <origPlace>Acqui</origPlace>
+                <diocese>Acqui</diocese>
+                <province>Milan</province>
+                <country>Italy</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 1889</p>
+                <p>Year: 1265</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: or 1266</p>
+                <p>Place: Acqui</p>
+                <p>Diocese: Acqui</p>
+                <p>Province: Milan</p>
+                <p>CountryModern: Italy</p>
+                <p>Latitude: 44.676111</p>
+                <p>Longitude: 8.468611</p>
+                <p>PlaceNotes: now Acqui Terme</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Alberto</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1258</p>
+                <p>RegnalEnd: 1270</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: 'capituli' issued jointly with Ottone Visconti, AB of Milan</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Baroni, Atti dell'arcivescovo...Visconti, doc 6, p7</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['Library Scan', 'WebDownload']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Hec sunt capitula facta et ordinata per dominum archiepiscopum Mediolanensem et per dominum Albertum [1] episcopum Aquensem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>Primo namque statuerunt quod nullus presbiter uel clericus teneat uel habeat fornicariam in domo uel in domibus ecclesie nec alibi teneat publice concubinam.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>Item quod nullus sacerdos uel clericus uendat uel alienet aut obliget libros, crucem, calicem, uestes sacerdotales nec terras seu possessiones ecclesie.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>Item quod nullus archipresbiter uel prepositus ultra solidos [1]... Papienses uel presbiter ultra solidos [2] 100 Papienses debitum faciat super bonis ecclesie sine licencia domini...</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>Item quod nullus sacerdos uel clericus uadat sine ueste clericali et corona competenti, et qui contrafecerit careat beneficio ecclesiastico.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>Item quod nullus clericus recipiat ordinem extra suam diocesim sine licencia sui episcopi.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>Item quod nullus presbiter uel clericus eligat uel assumat aliquem in clericum socium uel ministrum in ecclesia sua sine licencia episcopi, et qui contrafecerit dominus episcopus ipsum excommunicat in his scriptis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>Item quod nullus sacerdos ludet ad aliquem ludum alearum nec illud exerceat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>Item quod nullus clericus habeat beneficium neque ecclesiam quam pater eius administrat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>Item quod quilibet rector ecclesie quemlibet ex parochia sua, quem sciat stare publice in adulterio, monere debeat ut infra dies quindecim debeat dimittere adulteram et redire ad gremium Sancte Matris Ecclesie, alioquin ipse... denunciet excommunicatos.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>Item quod quilibet minister possit subtrahere cuilibet de parochia sua diuinum officium et ecclesiastica sacramenta, si iamdicto ministro noluerit respondere de decimis et primitiis.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] Originalli Al(bertum).</p>
+                    <p>[2] Originalli (solidos).</p>
+                    <p>[3] Originalli (solidos).</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

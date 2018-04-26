@@ -1,0 +1,146 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Melun</title>
+                <recordID>0324</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1300-02-21</origDate>
+                <dateNotes/>
+                <origPlace>Melun</origPlace>
+                <diocese/>
+                <province>Sens</province>
+                <country>France</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Provincial</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 324</p>
+                <p>Year: 1300</p>
+                <p>Month: 2</p>
+                <p>Day: 21</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Melun</p>
+                <p>Diocese: None</p>
+                <p>Province: Sens</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 48.540556</p>
+                <p>Longitude: 2.66</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Provincial</p>
+                <p>IssuingAuthority: Etienne Bécard</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: Paris Bib Arsenal 394 fols. 198-200r</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Mansi 25, col 1-6</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Digital MS', 'Data Capture']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>IN nomine Domini, amen.</p>
+                    <p>Nos Stephanus miseracione Diuina Senonensis archiepiscopus, una cum suffraganeis nostre Senonensis prouincie, in prouinciali concilio apud Meledunum celebrato, anno Domini MCCC. die Iouis ante festum B. Uincentii, continuata de die in diem a die Lune precedenti, congregatis, una cum aliis personis ecclesiasticis dicte prouincie, ad ordinandum, statuendum, et reformandum ea que fuerint ordinanda et reformanda: eodem approbante concilio ordinamus et precipimus, quod quedam constituciones domini Bonifacii VIII. pape, in presenti concilio, ac nostris et suffraganeorum nostrorum synodis publicentur, et cuilibet presbytero parochiali copia liberetur, et quilibet eorum habere et commendare debite memorie de cetero teneatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>Sancimus igitur, ut nullis, nisi dignitate preditis, aut personatum obtinentibus, seu ecclesiarum cathedralium canonicis, cause, auctoritate litterarum sedis apostolice, uel legatorum eiusdem, de cetero committantur, nec audiantur alibi quam in ciuitatibus uel locis insignibus, ubi possit commode copia peritorum haberi.</p>
+                    <p>Cum uero eiusdem ciuitatis seu diocesis fuerint actor et reus: extra ipsos causa non committatur, nec conueniatur aliquis eorum: nisi ab episcopo contra aliquem de sua diocesi, uel ab aliquo contra eum, aut eius capitulum, seu contra uniuersitatem ciuitatis, uille, uel castri, fuerit accio dirigenda: uel nisi actor eamdem ciuitatem, seu diocesim intrare non audens, aut sui aduersarii merito potenciam perhorescens, eum infra ipsas nequeat conuenire secure.</p>
+                    <p>In his quippe casibus, extra dictas ciuitatem et diocesim possit contra predictos causa committi.</p>
+                    <p>Nullus tamen eorum ultra unam dietam a fine sue diocesis ualeat conueniri.</p>
+                    <p>Sed et in duobus ultimis casibus nisi impetrans de dicta perhorrescencia quam in litteris apostolicis exprimere teneatur [1] primo fidem iudici faciat, saltem per proprium iuramentum: iudex ipse nullatenus in causa procedat, sed partes a sua iurisdiccione dimittens, impetrantem eumdem in expensis legitimis alteri parti condemnet.</p>
+                    <p>Cum autem actor et reus ciuitatis et diocesis fuerint diuersarum: si actor in ciuitate uel diocesi rei iudicem habere recuset, ipsum non in sua scilicet actoris, sed in alia ciuitate uel diocesi habere impetrare ualeat, reumque trahere ad eamdem: dummodo locus ad quem eum traxerit, ultra unam dietam, sicut in alio casu premittitur, minime sit remotus.</p>
+                    <p>In nullo quoque casuum predictorum, iudex extra ciuitatem uel diocesim in quibus deputatus fuerit citet partes, nec de causa sibi commissa cognoscat nisi ad hoc expressus accesserit partium earumdem assensus [2] nec alibi quam infra illas ciuitatem seu diocesim, et personis dumtaxat superius designatis, committat quomodolibet uices suas.</p>
+                    <p>Quicquid autem contra premissa, uel aliquid eorum contigerit attentari, sit ipso iure irritum et inane.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>Preterea quesiuisti, cum tibi ab aliquo sub hac forma mandatur, auctoritate qua fungor, iniungo [3] ut talem denuncies excommunicacionis sententie subiacere; ac tibi super mandato apostolico hesitanti, ab aliquo non sit facta fides: an mandatum huiusmodi exequi tenearis.</p>
+                    <p>Super quo, huiusmodi tibi damus responsum: quod nisi mandato sedis apostolice certus extiteris, exequi non cogeris quod mandatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>Quoniam, ut intelleximus, quorumdam iusticiariorum, balliuorum, iudicumue secularium et temporalium dominorum, in quibusdam partibus presumptuosa temeritas sic excreuit, ut in terris eorum seu districtibus litteras apostolicas impetrantes, uel ad iudices ordinarios ecclesiasticos recurrentes super causis, negotiis, seu questionibus, que de iure uel antiqua consuetudine ad forum ecclesie pertinent, obtinere non possint in eis per eosdem ordinarios iudices uel apostolicas litteras iustitie complementum; quin potius super illis recurrere ad iudicium seculare, uel a lite, causa, seu questione desistere compellantur: nos iusticiam nostram et ecclesie sponse nostre nolentes negligere, qui alios in sua iusticia confouemus, statuimus ne quis impetratores litterarum, uel alios ad forum ecclesie recurrentes super causis, que ad idem forum de iure uel antiqua consuetudine pertinere noscuntur, per se uel per alium, ad desistendum, uel in foro seculari de questionibus huiusmodi litigandum, per ipsorum iudicum ecclesiasticorum, uel impetrantium, uel litigantium seu uolentium litigare, et aut propinquorum ipsorum seu rerum illorum aut ecclesiarum suarum eciam capcionem, modisue aliis quibuscumque, compellat, seu compelli faciat uel procuret: nec per se aliosue impediat, quo minus coram iudicibus ecclesiasticis, delegatis seu ordinariis, querelantes de causis, que, ut premissum est ad cognicionem pertinent eorumdem, possint libere iusticiam obtinere: nec ad premissa facienda det consilium, auxilium uel fauorem.</p>
+                    <p>Si quis uero contra presumpserit, excommunicacioni se ipso facto nouerit subiacere: a qua, nisi tam iudici cuius cognicio fuerit impedita uel iurisdiccio usurpata, quam parti que turbata in prosecucione fuerit sui iuris, de iniuriis, damnis, expensis, et interesse, prius per eumdem fuerit integre satisfactum, nullatenus absoluatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>Cum contumacia, in causa presertim fidei, suspicioni presumpcionem adiicat uehementem, si suspectus de heresi uocatus a uobis ut de fide respondeat, excommunicacionis uinculo, pro eo quod parere subterfugit, aut contumaciter, se absentat, per uos fuerit innodatus, quam per annum animo substinuerit pertinaci, ex tunc uelut hereticus condemnetur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>Episcoporum et aliorum prelatorum querelis frequentibus et querulosis clamoribus excitati, presenti decreto duximus statuendum: ne aliqui seculares aut regulares, quantumcumque exempcionis seu libertatis sedis apostolice priuilegiis communiti, cuiuscumque ordinis, religionis, status, uel condicionis existant, scienter celebrent uel faciant celebrari Diuina in ciuitatibus, castris, uillis, nisi quatenus eis a iure conceditur, seu locis aliis interdictis ab ordinariis siue delegatis iudicibus, aut a iure; siue excommunicatos publice, uel interdictos ad Diuina officia seu ecclesiastica sacramenta, siue ad ecclesiasticam sepulturam admittant.</p>
+                    <p>Qui uero contra presumpserit, preter alias penas a iure statutas, ingressum ecclesie sibi nouerit interdictum: donec de transgressione huiusmodi, ad arbitrium eius, cuius sentenciam contempserit, satisfecerit competenter.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>Cum iuris utilitas tot et tantis excogitata uigiliis, sufficienter nequeat prosperari, si processus ministrorum iustitie contingat iniquorum machinacionibus impediri: ut illorum audaciam quos amor Diuinus a malo non reuocat, saltem rigor ecclesiastice coerceat discipline, sacri prouisione concilii duximus statuendum: quod si quis, cuiuscumque dignitatis aut condicionis existat, nuncios aut executores ecclesiasticorum iudicum, aut alias litteras eorumdem actaue iudiciaria deferentes, hac occasione uerberare, capere, detinere, occultare, carceri mancipare, mutilare, aut quod grauius est censendum, interficere, litteras uel acta predicta personis memoratis auferre, seu ea rumpere, cancellare, aut alias destruere quoquomodo, uel sic ablata celare presumpserit, aut ut ista fiant procurauerit, uel facientibus consilium uel opem duxerit adhibendam, excommunicacionis sententie, quam ex nunc proferimus, subiaceat ipso facto: a qua, nisi prius tam iudici, cuius auctoritatem contempserit, quam passo iniuriam, et ceteris quorum intererit, prout excessus postulabit atrocitas, satisfecerit competenter, nullatenus absoluatur.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] (quam in litteris apostolicis exprimere teneatur) in round brackets</p>
+                    <p>[2] (nisi ad hoc expressus accesserit partium earumdem assensus) in round brackets</p>
+                    <p>[3] ed. &amp; ms. ini</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

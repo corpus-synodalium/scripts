@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Angers</title>
+                <recordID>0906</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1326</origDate>
+                <dateNotes/>
+                <origPlace>Angers</origPlace>
+                <diocese>Angers</diocese>
+                <province>Tours</province>
+                <country>France</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 906</p>
+                <p>Year: 1326</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: Saint Luke</p>
+                <p>Place: Angers</p>
+                <p>Diocese: Angers</p>
+                <p>Province: Tours</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 47.473612</p>
+                <p>Longitude: -0.554167</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Foulque de Mathefelon</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1324</p>
+                <p>RegnalEnd: 1355</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: Paris, BnF fr 22354, p73</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Arnauld, Statuts du diocese d'Angers (1680), 124-25</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: https://books.google.com/books?id=OcQPXFeqPScC (this is the 2nd edition; the first was published the same year, in Angers)</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Data Capture']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>All Text</head>
+                    <p>QUanquam omnes, et singuli nostri subditi, qui ad nostram Synodum uenire tenentur, debeant nostra Statuta, et predecessorum nostrorum Synodalia penes se habere scripto tenus; ne tamen eorum quispiam hoc omittat, et statutorum huiusmodi ignoranciam pretendere ualeat, subditis eisdem precipimus, et mandamus eos et eorum singulos ad hoc canonice premonentes, quatenus huiusmodi statuta ad quamlibet nostram, et successorum nostrorum Synodum de cetero in quaternis antiquis, una cum nouis eis additis fideliter, et integre deferant, nobisque, uel ei quem ad hoc deputabimus patenter ostendant in uirtute obedientie, et sub pena excommunicacionis, ad quam contra rebelles, mediante iusticia procedemus; nec reputabuntur sufficienter in Synodo comparere hi qui ea non deferent, ut est dictum.</p>
+                    <p>Si qui uero ea, uel eorum aliqua non habeant, faciant ipsa fideliter iterum transcribi suis sumptibus, et expensis.</p>
+                    <p>Exemplaria uero reperient ad hoc ex parte nostra posita Andegaui in domibus Ioannis Coillant et Thome Aprilis Clericorum nostre Andegauensis Curie iuratorum.</p>
+                    <p>Preterea licet turbatores iurisdiccionis Ecclesiastice ordinarie, cuiuscumque status existant, autoritate Prouincialium Conciliorum sint ipso facto excommunicacionis sentencia innodati, a qua nisi condigna prius satisfaccione prestita, cessante saltem mortis articulo, non sunt aliquatenus absoluendi.</p>
+                    <p>Prout tamen datur nobis intelligi, nonnulli Sacerdotes seculares, et religiosi, potestate sibi permissa damnabiliter abutentes, ac eam, quam non habent nequiter usurpantes, excommunicatos huiusmodi de facto absoluere presumunt, nulla satisfaccione prestita de offensa, in decepcionem, et graue periculum animarum, elusionemque et fraudem predictorum Conciliorum, ac Ecclesiastice iurisdiccionis depressionem immensam.</p>
+                    <p>Quapropter omnibus, et singulis Ecclesiarum Rectoribus nobis subditis, et eorum loca tenentibus, sub pena suspensionis precipimus, quatenus diebus Dominicis, et maxime in Quadragesimali tempore, turbatores huiusmodi denuntient, ut premittitur, excommunicatos.</p>
+                    <p>Intimantes, quod absque satisfaccione lesis et Ecclesie prestita non merentur absolui, nec eos reputabimus alias absolutos.</p>
+                    <p>Absolucionem autem eorum nobis, et quibus specialiter committemus, quatenus possumus, reseruamus ex causa, eam quibusuis aliis interdicentes expresse.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

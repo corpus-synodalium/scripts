@@ -6,6 +6,7 @@ import deps.csv_parser
 import deps.utils
 import deps.xml_utils
 from pprint import pprint
+import sys
 
 # main.py (v1) Apr 09, 2018
 # -------------------------
@@ -30,22 +31,25 @@ from pprint import pprint
 
 class MasterParser():
 
-    def __init__(self):
-        self.text_input_dir = './input/text_test/'
+    def __init__(self, normalize):
+        self.text_input_dir = './input/text/'
         self.notes_input_dir = './input/notes/'
         self.csv_file_name = './input/metadata/metadata.csv'
         self.xml_output_dir = './output/'
+        self.normalize = normalize
 
         self.utils = deps.utils.UtilityFunctions()
         self.xml_utils = deps.xml_utils.XMLUtils(self.utils)
-        self.text_parser = deps.text_parser.TextParser(self.text_input_dir, self.utils)
-        self.note_parser = deps.note_parser.NoteParser(self.notes_input_dir, self.utils)
+
         self.csv_parser = deps.csv_parser.CSVParser(self.csv_file_name, self.utils)
-        
+
+        self.metadata = self.csv_parser.getMetadata()
+        self.text_parser = deps.text_parser.TextParser(self.text_input_dir, self.utils, self.metadata, self.normalize)
+        self.note_parser = deps.note_parser.NoteParser(self.notes_input_dir, self.utils, self.normalize, self.metadata)
+
 
         self.texts = None
         self.footnotes = None
-        self.metadata = None
         self.parseData()
 
     def parseData(self):
@@ -58,7 +62,6 @@ class MasterParser():
         print('Success!')
 
         print('Parsing metadata ...')
-        self.metadata = self.csv_parser.getMetadata()
         print('Success!')
 
     def checkInputFiles(self):
@@ -72,6 +75,8 @@ class MasterParser():
         for filename in sorted(self.text_parser.input_file_names):
             record_id = self.utils.getRecordID(filename)
             xml_file_name = '{}{}.xml'.format(self.xml_output_dir, record_id)
+            if self.normalize:
+                xml_file_name = '{}{}_normalized.xml'.format(self.xml_output_dir, record_id)
             with open(xml_file_name, 'w') as xml_file:
                 text = self.texts[record_id]
                 footnotes = self.footnotes[record_id]
@@ -83,7 +88,8 @@ class MasterParser():
             #    break
 
 def main():
-    master = MasterParser()
+    normalize = '-n' in sys.argv
+    master = MasterParser(normalize)
     master.checkInputFiles()
     master.writeXMLFiles()
 

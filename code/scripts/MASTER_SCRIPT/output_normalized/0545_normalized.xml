@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Faenza</title>
+                <recordID>0545</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1321</origDate>
+                <dateNotes/>
+                <origPlace>Faenza</origPlace>
+                <diocese>Faenza</diocese>
+                <province>Ravenna</province>
+                <country>Italy</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 545</p>
+                <p>Year: 1321</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Faenza</p>
+                <p>Diocese: Faenza</p>
+                <p>Province: Ravenna</p>
+                <p>CountryModern: Italy</p>
+                <p>Latitude: 44.283333</p>
+                <p>Longitude: 11.883333</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Ugolino dei Minori</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1311</p>
+                <p>RegnalEnd: 1336</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: Yes</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Tonducci, Historie di Faenza, 393; Mittarelli, Accessiones historicae Faventinae, 545-46</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: https://books.google.com/books?id=nbHTXzPnyE4C</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: WebDownload</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: ['-prior to 16th-c, synods are known for 29 Sept 1312, 1321, and 1335', 'partial transcription of one constitution in Tonducci: Volentes insuper Constitutionem B. M. Domini Rainaldi olim Archiepiscopi Ravennae executioni debitae mandare, iniungimus omnibus Clericis Nobis subiectis, quatenus celebrare studeant festa Sanctorum Archiepiscoporum Ravennae qui fuerunt a Columba electi etc.', 'Insuper festa Patronorum Ecclesiarum Suffraganearum Sanctae Ravennatis Ecclesiae suis diebus, ut sequitur.', 'Ravennae S. Ursicini Martiris die 13. Decembris. S. Prosperi Regii die 25. Novembris. S. Geminiani Mutinae die ultima Ianuarii. S. Petronii Bononiae die 4. Octobris. S. Cassiani Imolae, et Comacli die 13. Augusti. S. Mercurialis Forolivii die ultima Aprilis. S. Ruffili Foropopil. die 18. Iulii. S. Vicini Sarsenat. die 28. Augusti. S. Georgii Ferrariae die 24. Aprilis. S. Iulii Arimini die 21. Iunii.', 'Another partial passage survives in Mittarelli: Beatorum Confessorum Emiliani pontificis, et &lt;Te&gt;Rentii Levitae in civitate et burgis, ad quorum corpora veneranda in suis propriis ecclesiis residentia Dominus cotidie miranda dignatur ostendere ... Sanctorum archiepiscoporum Ravennae, et Sanctorum Titularium ecclesiarum suffraganearum metropolitae ecclesie Ravennatis.']</p>
+                <p>BiblioRefs: Sinodi di Faenza (Mazzotti), pp20-22</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>All Text</head>
+                    <p>[1] Beatorum Confessorum Emiliani pontificis, et Rentii [2] Leuite in ciuitate et burgis, ad quorum corpora ueneranda in suis propriis ecclesiis residencia Dominus cotidie miranda dignatur ostendere ...</p>
+                    <p>Sanctorum archiepiscoporum Rauenne, et Sanctorum Titularium ecclesiarum suffraganearum metropolite ecclesie Rauennatis.</p>
+                    <p>[3] Uolentes insuper Constitucionem B. M. Domini Rainaldi olim Archiepiscopi Rauenne execucioni debite mandare, iniungimus omnibus Clericis Nobis subiectis, quatenus celebrare studeant festa Sanctorum Archiepiscoporum Rauennatis qui fuerunt a Columba electi etc.</p>
+                    <p>Insuper festa Patronorum Ecclesiarum Suffraganearum Sancte Rauenne Ecclesie suis diebus, ut sequitur.</p>
+                    <p>Rauenne S. Ursicini Martiris die 13. Decembris.</p>
+                    <p>S. Prosperi Regii die 25. Nouembris.</p>
+                    <p>S. Geminiani Mutine die ultima Ianuarii.</p>
+                    <p>S. Petronii Bononie die 4. Octobris.</p>
+                    <p>S. Cassiani Imole, et Comacli die 13. Augusti.</p>
+                    <p>S. Mercurialis Foroliuii die ultima Aprilis.</p>
+                    <p>S. Ruffili Foropopil. die 18. Iulii.</p>
+                    <p>S. Uicini Sarsenat. die 28. Augusti.</p>
+                    <p>S. Georgii Ferrarie die 24. Aprilis.</p>
+                    <p>S. Iulii Arimini die 21. Iunii.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] From Mittarelli, Accessiones, 545-46</p>
+                    <p>[2] i.e. Terentii</p>
+                    <p>[3] From Tonducci, Historie di Fenza, 393</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

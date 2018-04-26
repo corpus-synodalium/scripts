@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Avignon</title>
+                <recordID>0949</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1342-04-25</origDate>
+                <dateNotes/>
+                <origPlace>Avignon</origPlace>
+                <diocese>Avignon</diocese>
+                <province>Aix-en-Provence</province>
+                <country>France</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 949</p>
+                <p>Year: 1342</p>
+                <p>Month: 4</p>
+                <p>Day: 25</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Avignon</p>
+                <p>Diocese: Avignon</p>
+                <p>Province: Aix-en-Provence</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 43.95</p>
+                <p>Longitude: 4.817</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Jean de Cojordan</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1336</p>
+                <p>RegnalEnd: 1348</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: Bordeaux, Arch. communales, MS 2, fols. 49-50; </p>
+                <p>SourceOther: Paris, Arsenal, 716, fol. 12; Avignon, BM 2601, fol. 7 </p>
+                <p>Edition: Martene, Thes, IV, col. 565</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: ['[IRHT]', 'Bordeaux images: http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=4043 (at images 48-49)']</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Data Capture', 'Digital MS']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>All Text</head>
+                    <p>ITem, cum non sit nouum nec irreprehensibile, si secundum uarietatem temporum, maxime necessitate urgente, aut utilitate publica euidente, humana statuta in melius mutentur, seu uerius reformentur, a nostrisque predecessoribus synodaliter et per aliquos officiales iudicialiter fuerit constitutum, quod nullus christianus uel christiana cuiuscumque status existat, sub graui pena quam facientes, ipso facto incurrere decernebant, auderet pro ipsius cura aliquem Iudeum medicum euocare, nec pro infirmitate sua consilium curacionis recipere.</p>
+                    <p>Ab eodem quoque nullus hipotecarius seu speciator receptas ordinates per talem Iudeum medicum auderet seu attentaret sub eadem pena conficere nec ministrare alicui christiano.</p>
+                    <p>Et propterea nos attendentes quod tempore constitucionum huiusmodi erat maior medicorum christianorum copia, qui sic ad christianorum curandas egritudines poterant euocari: quamquam quamplurimi christiani metu dicte sententie excommunicacionis licet grauiter egrotantes non audeant Iudeos medicos euocare, quamquam christianorum medicorum penuriam paterentur, et ideo forsitan citius decedebant.</p>
+                    <p>Nos uolentes, ut expedit super his apponere remedium opportunum, dictum statutum, siue constituciones ac penas, aut excommunicacionum sentencias in eis, premissorum occasione appositas, duximus synodaliter suspendendas, donec consultius ordinauerimus super his, excommunicacionis sentenciam latam contra comedentes carnes diebus lune et martis prime septimane quadragesime modo simili synodaliter suspendentes.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

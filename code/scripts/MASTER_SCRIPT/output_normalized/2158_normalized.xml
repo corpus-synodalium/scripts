@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cambrai</title>
+                <recordID>2158</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1359</origDate>
+                <dateNotes/>
+                <origPlace>Cambrai</origPlace>
+                <diocese>Cambrai</diocese>
+                <province>Reims</province>
+                <country>Belgium</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 2158</p>
+                <p>Year: 1359</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Cambrai</p>
+                <p>Diocese: Cambrai</p>
+                <p>Province: Reims</p>
+                <p>CountryModern: Belgium</p>
+                <p>Latitude: 50.175579</p>
+                <p>Longitude: 3.2345</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Pierre de Clermont</p>
+                <p>IssuingAuthorityAlt: Petrus de Claromonte</p>
+                <p>RegnalStart: 1349</p>
+                <p>RegnalEnd: 1368</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Gousset, APER, III, 87</p>
+                <p>EditionOther: Acta et decreta synodi diocesanae Cameracensis...R. de Croy (Douai, 1550)(partial)</p>
+                <p>SourceNotes: https://books.google.com/books?id=XNU-AAAAcAAJ</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: WebDownload</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: ['Inc. percipimus quosdam...', 'Survives as tit. XXIX in 1550 compilation.']</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>All Text</head>
+                    <p>Percipimus quosdam sue salutis immemores, et iuris ignaros, qui patronos ecclesiarum, aliorumque beneficiorum collatores ordinarios decipientes, quin potius ipsos fraudantes, plures uirtute litterarum apostolicarum acceptaciones fraudulentas et occultas facere non formidant, prouisiones suas de dictis beneficiis, necnon possessionis adepcionem longo tempore protrahentes, in lesionem aliorum impetrantium, et suarum periculum animarum; nos igitur fraudibus, et tot diuersis periculis obuiare cupientes, easdem acceptaciones occulte et fraudulenter fieri de cetero prohibemus, tabellionibus et notariis publicis omnibus districte iniungentes, et sub pena perpetue deposicionis sui officii, necnon priuacionis, precipientes, quatenus si acceptaciones aliquas coram eis fieri de cetero contigerit, patrono seu ordinario collatori beneficii sic acceptati infra mensem intimare procurent.</p>
+                    <p>Alioquin, indignacionem nostram, et sui officii priuacionem, et infamie periculum poterunt merito formidare.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1]</p>
+                    <p>[2]</p>
+                    <p>[]</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

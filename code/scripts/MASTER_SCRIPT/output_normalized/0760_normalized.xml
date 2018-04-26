@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cambrai</title>
+                <recordID>0760</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1317-10-01</origDate>
+                <dateNotes/>
+                <origPlace>Cambrai</origPlace>
+                <diocese>Cambrai</diocese>
+                <province>Reims</province>
+                <country>Belgium</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 760</p>
+                <p>Year: 1317</p>
+                <p>Month: 10</p>
+                <p>Day: 1</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Cambrai</p>
+                <p>Diocese: Cambrai</p>
+                <p>Province: Reims</p>
+                <p>CountryModern: Belgium</p>
+                <p>Latitude: 50.175579</p>
+                <p>Longitude: 3.2345</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Pierre de Lévis-Mirepoix</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1309</p>
+                <p>RegnalEnd: 1324</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Reusens, Statuta, 69-70</p>
+                <p>EditionOther: Gousset, APER II, 507-512</p>
+                <p>SourceNotes: https://books.google.com/books?id=L9U-AAAAcAAJ</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Library Scan', 'WebDownload']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Locus XLIus.</p>
+                    <p>Anno Domini millesimo tricentesimo decimo septimo.</p>
+                    <p>Anno Domini millesimo CCCo decimo septimo, die sabbati in die beati Remigii, reuerendus in Christo pater Petrus [1] Dei gracia Cameracensis episcopus, tenens suam synodum in ecclesia sua Cameracensi fecit et edidit hec statuta.</p>
+                    <p>Quoniam, ut experiencia nos docuit, nonnulli sacerdotes, immo uerius deceptores, in aliena messe falcem suam mittere non uerentes, in nostris ciuitate et diocesi, sine nostra uel curatorum harum ecclesiarum licencia, in eorum parrochiis et eorumdem ecclesiis presumunt temeritate propria audire confessiones et ministrare ecclesiastica sacramenta, contra sacrorum canonum constituta, cum sibi confitentes absoluere nequeant uel ligare, uel iura ecclesiastica ministrare, Nos, tante temeritati et animarum periculo obuiare cupientes, statuendo prohibemus, ne quicumque sacerdos, sine nostra uel curatorum nostrorum licencia, audire confessiones uel ipsa sacramenta ministrare presumat, nisi in mortis articulo, ubi non possit haberi copia curatorum.</p>
+                    <p>Si quis hoc facere presumpserit, excommunicacionis uinculo sit ligatus, saluis tamen auctenticis et priuilegiis apostolicis, quorum uolumus esse defensores.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>Item denunciamus excommunicatos a canone omnes hereticos, credentes et fautores eorumdem, et omnes scismaticos.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>Item omnes qui impediunt iurisdiccionem ecclesiasticam et Ecclesie libertatem, et qui in hiis impediendis prestant auxilium, consilium uel fauorem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>Item denunciamus excommunicatos a canone omnes illos qui, temporale dominium optinentes, suis subditis interdicunt, ne prelatis, uel clericis, siue personis ecclesiasticis, quitquam uendant aut emant aliquid ab eisdem, neque ipsis bladum molant, coquant panem aut alia obsequia exhibere presumant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>Item denunciamus excommunicatos a canone synodali omnes illos qui in comitatu nostro Cameracensi castra, uillas, nemora, prata, molendina, uiuaria et alia loca et iura, ad nostram episcopalem mensam pertinencia, uiolenter inuadunt et iniuriose occupant, et illos qui in premissis aut aliquo premissorum eisdem dant consilium, auxilium uel fauorem; et terras eorum ecclesiastico supponimus interdicto.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>Item denunciamus interdictos a canone synodali omnes illos qui in nostro comitatu Cameracensi agricultores euntes et redeuntes ad agriculturam, et ipsam exercentes, et animalia quibus arant et semina portant ad agrum, capiunt, uulnerant et interficiunt, et omnes qui eisdem in premissis prestant consilium, auxilium uel fauorem.</p>
+                    <p>Precipimus in uirtute sancte obedientie omnibus curatis ecclesiarum nostrarum ciuitatis et diocesis Cameracensis, ut predictas denunciaciones publice faciant promulgari singulis diebus dominicis et festiuis, cum ibidem maior fuerit populi multitudo; negligentes uero pena canonica feriantur.</p>
+                    <p>Item rubrica de execucione statutorum synodalium, Statuimus, sequitur preceptum per uenerabiles uiros uicarios generales in spiritualibus et temporalibus reuerendi in Christo patris ac domini domini Petri [2], Dei gracia Cameracensis episcopi, in remotis agentis, in synodo dicti reuerendi patris.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] Originalli P[etrus].</p>
+                    <p>[2] Originalli P[etri].</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

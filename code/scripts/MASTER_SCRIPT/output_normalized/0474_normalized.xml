@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brixen</title>
+                <recordID>0474</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1313</origDate>
+                <dateNotes/>
+                <origPlace>Brixen</origPlace>
+                <diocese>Brixen</diocese>
+                <province>Salzburg</province>
+                <country>Italy</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Provincial</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 474</p>
+                <p>Year: 1313</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Brixen</p>
+                <p>Diocese: Brixen</p>
+                <p>Province: Salzburg</p>
+                <p>CountryModern: Italy</p>
+                <p>Latitude: 46.716667</p>
+                <p>Longitude: 11.65</p>
+                <p>PlaceNotes: now Bressanone</p>
+                <p>Classification: Provincial</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Sinnacher, Beytraege, V, 202-204</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: https://books.google.com/books?id=dNEAAAAAcAAJ</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'WebDownload']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: survives in 4 MSS (see Johanek, Synodalia, III, Anhang I)</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>All Text</head>
+                    <p>Uenerabili in Christo Patri Iohanni Dei gracia Episcopo Brixinensi Berengarius miseracione diuina Thusculanus Episcopus Salutem in Domino.</p>
+                    <p>Ne in uobis quicquam reperiat humani generis inimicus, propter quod laborem uestrum euacuet a mercede, sed ut exhibeatis Domino seruitutem et acceptabile fiat uestre iustitie sacrificium coram eo; autoritate Domini Pape, cuius primarie curam gerimus; uestre deuocioni concedimus, quatenus liceat uobis discreto et idonee presbytero uestra confiteri peccata, et ab eo de transgressionibus Statutorum, Constitucionum, Canonum, Legatorum, Delegatorum Sedis apostolice et aliorum Iudicum et Superiorum uestrorum, si forte committendo uel transgrediendo huius statuta, constituciones seu mandata aliqua huius sentenciarum generalium aliqualiter incurristis, postquam in Episcopum fuistis assumptus, horarum Canonicarum omissione, periuriorum reatibus et peccatis uestris aliis, que sibi confitemini, auctoritate predicta, absolucionis beneficium recipere in forma Ecclesie et penitenciam salutarem, nisi talia commiseritis adeo enormia, propter que merito sit Sedis apostolice consilium requirendum.</p>
+                    <p>Super Irregularitate uero, siquam sio ligatus Pontificale officium exercendo et alias uos diuinis officiis inmiscendo contraxistis, auctoritate eadem eidem Presbytero dispensandi uobiscum hac uice liberam tenore presencium concedimus facultatem, dummodo aliud Canonicum non obstat, ita tamen, quodsi quilibet per premissa ad satisfaccionem tenemini postquam de huiusmodi [1] satisfaccione uobis constiterit, satisfaciatis competenter, ac in quantum licita sint iuramenta ad eorum et horarum Canonicarum obseruanciam redeatis, alioquin in eandem sentenciam qua propter hoc eratis astrictus, protinus relabamini ipso facto.</p>
+                    <p>In cuius rei testimonium presentes literas nostro sigillatas sigillo uobis duximus concedendas.</p>
+                    <p>Datum Carpentaroti XV. Kalendas Ianuarii, Pontificatus Domini Clementis Pape V. anno IX.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] huius (modi)</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

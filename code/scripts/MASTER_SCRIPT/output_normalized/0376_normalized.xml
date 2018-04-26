@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sion</title>
+                <recordID>0376</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1305</origDate>
+                <dateNotes/>
+                <origPlace>Sion</origPlace>
+                <diocese>Sion</diocese>
+                <province>Tarentaise</province>
+                <country>Switzerland</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 376</p>
+                <p>Year: 1305</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Sion</p>
+                <p>Diocese: Sion</p>
+                <p>Province: Tarentaise</p>
+                <p>CountryModern: Switzerland</p>
+                <p>Latitude: 46.227778</p>
+                <p>Longitude: 7.358611</p>
+                <p>PlaceNotes: aka Sitten</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Gremaud, Documents, 31, 108-9 [no 1228]</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: https://books.google.com/books?id=0xU3m734GDcC</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Data Capture']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>All Text</head>
+                    <p>Die ueneris post festum beati Luce euangeliste, anno Dni MoCCCoUo, dnus episcopus ad instanciam priorum, curatorum et aliorum ibidem in sancta synodo existencium, omnes sentencias excommunicacionis, suspensionis et interdicti in statutis synodalibus contentas reuocauit ac relaxauit, ac precepit in ipsis statutis alias penas imponi et apponi secundum dispensionem et ordinacionem discretorum uirorum dni officialis Sedun. et dni Iohannis Boneti curati de Neinda, ne propter impericiam aliquorum uel negligenciam simplicium contingat aliquos dictis sentenciis innodari et irregularitatem forsan incurrere et pericula animarum.</p>
+                    <p>Quia intelleximus, quod quidam experimento erroris heretice ducti, qui secundum quod iura censent sunt clericis et ecclesiis semper infesti, parentibus suis, fratribus, consanguineis, amicis, uicinis et aliis in egritudinibus constitutis et pro remedio animarum suarum uolentibus ecclesiis ecclesiarumque ministris suas elemosinas perpetuas uel temporales legare, donare uel eciam elargiri, prohibent, impediunt uel perturbant ne hoc faciant, ipsos inducendo contra uoluntates eorum et quodam modo uerbis, terroribus, ne talia ordinent, peruertendo contra ecclesiasticam libertatem, nos uolentes eorum maliciis obuiare et indempnitati ecclesiarum succurrere, ut debemus, tenore presencium statuimus, ut omnes de cetero et singuli talia attemptantes ipso facto sint uinculo excommunicacionis nodati, a qua non possint absolui, donec ecclesiis uel ministris per eos sic dampnificatis satisfecerint competenter.</p>
+                    <p>Hoc autem statutum precipimus in XV diebus semel in singulis ecclesiis publicari.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

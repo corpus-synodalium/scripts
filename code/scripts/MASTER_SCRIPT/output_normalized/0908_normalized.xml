@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Angers</title>
+                <recordID>0908</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1327</origDate>
+                <dateNotes/>
+                <origPlace>Angers</origPlace>
+                <diocese>Angers</diocese>
+                <province>Tours</province>
+                <country>France</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 908</p>
+                <p>Year: 1327</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: Saint Luke</p>
+                <p>Place: Angers</p>
+                <p>Diocese: Angers</p>
+                <p>Province: Tours</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 47.473612</p>
+                <p>Longitude: -0.554167</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Foulque de Mathefelon</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1324</p>
+                <p>RegnalEnd: 1355</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: Paris, BnF fr 22354, p74</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Arnauld, Statuts du diocese d'Angers (1680), 126-27</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: https://books.google.com/books?id=OcQPXFeqPScC (this is the 2nd edition; the first was published the same year, in Angers)</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Data Capture']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>All Text</head>
+                    <p>MOnemus uos omnes, et singulos Archidiaconos, Archipresbyteros, et Decanos, Ecclesiarumque Rectores, et Capellanos Curatos quoscumque nostre Diocesis hic presentes, et uestrum singulos, uobisque et uestrum singulis nihilominus inhibemus in uirtute sancte Ecclesie, et obedientie, et sub pena suspensionis, et quinquaginta librarum monete currentis nobis applicandarum, et in pios usus conuertendarum, ne aliquis uestrum recedat ista die, nec sequenti de villa Andegauensi, nisi petita licencia, et obtenta a nobis, uel Magistris Petro Uicario Archidiacono Andegauensi, Mauricio de Sizugat, et Roberto Helie Commissariis nostris in hac parte, quos in Palacio nostro Andegauensi poterit quilibet inuenire, cum simus locuturi uobiscum super aliquibus tangentibus necessitatem Ecclesie nostre, que per nos uel Commissarios nostros predictos uobis poterunt diebus predictis latius apparere.</p>
+                    <p>Item uobis omnibus et singulis Rectoribus, et Capellanis, et Curatis predictis, in quorum Parochiis sunt Eleemosinarie, seu domus Dei ad recepcionem seu Hospitalitatem pauperum et infirmorum specialiter deputate, iniungimus sub penis superius declaratis, quatenus unusquisque uestrum infra festum Natiuitatis Domini proximum uenturum nobis, uel Officiali nostro Andegauensi referat fideliter, et sub dicto iuramento nomen et statum domorum et rerum pertinentum ad easdem, et Priorum seu Administratorum earum, ut auditis uestris relacionibus in premissis sic ordinemus super hoc et faciamus quod iusticia suedebit.</p>
+                    <p>Item iniungimus sub penis predictis uobis omnibus et singulis Rectoribus et Capellanis Curatis predictis, quatenus singulis diebus Dominicis, festisque nouem leccionem cum Clero, et Populo congregato ad diuina, ex parte nostra publice in uestris Ecclesiis indicatis, quod si sunt aliqui, cuiuscumque status seu condicionis existant, qui iuste conqueri uoluerint de quacumque persona nobis subdita, et potissime de procuratoribus seruientibus, et aliis, qui tam nostras, quam subditorum nostrorum Curias frequentant, seu frequentauerint tempore retroacto, apud sanctum Elemandum in crastino festi sancti Andree proximo, cum diebus sequentibus accedant.</p>
+                    <p>Et ibidem fiet per nos, uel Commissarios nostros, quos faciemus ibidem propter hoc specialiter interesse, eciam summarie, et de plano cuilibet iuste conquerenti, faciente Domino, iustitie complementum; et ipsa die faciemus extra Synodum iniungi Rectoribus, qui non apportauerunt Statuta Synodalium et Prouincialium Conciliorum, et quaternum Synodalem, quod ipsi in uirtute obedientie ad aliam proximam Synodum afferant, et exhibeant, alioquin ipsos sine spe uenie puniemus.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

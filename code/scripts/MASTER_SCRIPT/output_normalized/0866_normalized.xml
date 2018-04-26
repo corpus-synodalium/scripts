@@ -1,0 +1,126 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tortosa</title>
+                <recordID>0866</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1318-06-19</origDate>
+                <dateNotes/>
+                <origPlace>Tortosa</origPlace>
+                <diocese>Tortosa</diocese>
+                <province>Tarragona</province>
+                <country>Spain</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 866</p>
+                <p>Year: 1318</p>
+                <p>Month: 6</p>
+                <p>Day: 19</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Tortosa</p>
+                <p>Diocese: Tortosa</p>
+                <p>Province: Tarragona</p>
+                <p>CountryModern: Spain</p>
+                <p>Latitude: 40.812778</p>
+                <p>Longitude: 0.523333</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Berenguer de Prats</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1316</p>
+                <p>RegnalEnd: 1340</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Synodicon Hispanum, XII, 631-32</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['Library Scan', 'Hard Copy Scan']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Inscripcio [1].</p>
+                    <p>Prima synodus domini Berengarii, Dertusensis episcopi, anno millesimo trecentesimo decimo octauo, decimo tercio kalendas iulii celebrata Dertuse.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>Quod rectores faciant residenciam in suis ecclesiis.</p>
+                    <p>Nos Berengarius, miseracione diuina Dertusensis episcopus, assistentibus nobis uenerabilibus Bernardo de Barberano, priore, et capitulo sedis eiusdem ac rectoribus nostre diocesis Dertusensis et aliis qui consueuerunt et debent admitti ad synodum celebrandam, approbamus et confirmamus omnes constituciones nostrorum predecessorum, et specialiter constitucionem domini Petri, bone memorie, editam super residencia personali a rectoribus in suis ecclesiis faciendam, mandantes eisdem, sub pena in dicta constitucione contenta, quod infra tempus seu terminum in eadem comprehensum omnes rectores nostre diocesis in suis ecclesiis residenciam faciant personalem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>Quod nullus construat ecclesiam uel altaria in iam constructis ecclesiis, sine licencia episcopi.</p>
+                    <p>Quamuis sit in sacris canonibus constitutum ut nullus de nouo sine licencia episcopi ecclesiam [2] in aliqua diocesi construere debeat, sed nec construi facere per se uel per alium ecclesiam uel capellam, nec aliquod altare erigere in ecclesiis iam constructis.</p>
+                    <p>Et contra predicta iura, multi in Dertusensi diocesi, quadam temeritate adhibita, non dubitauerint in iam constructis ecclesiis erigere altare seu altaria, et de nouo eciam ecclesiam construere.</p>
+                    <p>Et parum esset iura condere, nisi esset qui eadem tueretur.</p>
+                    <p>Idcirco nos Berengarius, Dertusensis episcopus, affectantes futuris periculis obuiare, assistentibus nobis uenerabilibus Bernardo de Barberano, priore, et omnibus aliis de capitulo, presenti constitucione statuimus quod de cetero nullus, cuiuscumque condicionis, gradus aut status exsistat, edificet aut construat per se uel per alium aliquam ecclesiam uel capellam, seu altare uel altaria, in nostra diocesi Dertusensi in iam constructa ecclesia seu eciam construenda, absque nostra uel successorum nostrorum speciali petita licencia et obtenta.</p>
+                    <p>Quod si a quoquam contrarium fuerit attemptatum, incurrat excommunicacionis sentenciam ipso facto.</p>
+                    <p>Et eadem excommunicacione decernimus innodari omnes qui auctoritate propria, uel uerius temeritate, in capella seu altaribus, sine nostra uel successorum nostrorum licencia in antea construendis, ausi fuerint scienter celebrare missam seu facere celebrari.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] In brackets</p>
+                    <p>[2] &lt;ecclesiam&gt;</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

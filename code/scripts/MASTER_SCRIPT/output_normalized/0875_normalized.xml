@@ -1,0 +1,260 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tortosa</title>
+                <recordID>0875</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1433-02-01</origDate>
+                <dateNotes/>
+                <origPlace>Tortosa</origPlace>
+                <diocese>Tortosa</diocese>
+                <province>Tarragona</province>
+                <country>Spain</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 875</p>
+                <p>Year: 1433</p>
+                <p>Month: 2</p>
+                <p>Day: 1</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Tortosa</p>
+                <p>Diocese: Tortosa</p>
+                <p>Province: Tarragona</p>
+                <p>CountryModern: Spain</p>
+                <p>Latitude: 40.812778</p>
+                <p>Longitude: 0.523333</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Ot de Montcada i de Luna</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1415</p>
+                <p>RegnalEnd: 1473</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Synodicon Hispanum, XII, 673-81</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['Library Scan', 'Hard Copy Scan']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Inscripcio [1].</p>
+                    <p>Duplex synodus domini Othonis de Moncada, episcopi Dertusensis.</p>
+                    <p>Constituciones reuerendi domini Othonis, episcopi Dertusensis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>Premium notariale [2].</p>
+                    <p>Anno Domini millesimo quater centesimo tricesimo secundo, die sabbati, que computabatur duodecima mensis iulii, ordinaciones infra scriptas fecit reuerendus in Christo pater dominus Otho, Dei gracia Dertusensis episcopus, in congregacione sui cleri, quam fecit in villa Uldecone.</p>
+                    <p>Post uero idem reuerendus dominus episcopus in sollemni synodo, quam in sua Dertusensi ecclesia cum suo honorabili capitulo et clero congregauit, dictas ordinaciones, aliquibus correctis, additis et mutatis de consensu predictorum, et aliquibus de nouo additis, uoluit et decreuit vim constitucionum habere et pro constitucionibus obseruari et inter alias constituciones synodales collocari.</p>
+                    <p>Que publicate fuere in dicta synodo, die prima februarii anno a natiuitate Domini millesimo quater centesimo tricesimo tercio in dicta ecclesia Dertuse, quarum tenor talis est.</p>
+                    <p>Quod curati inducant pro uiribus omnes parochianos suos ad confitendum.</p>
+                    <p>Item, statuimus quod predicti curati pro uiribus suis inducant omnes suos utriusque sexus parochianos, tam clericos quam laicos, qui ad annos discrecionis peruenerint, ad confitendum et communicandum, frequentibus monitis et [7] exhortacionibus congruentibus.</p>
+                    <p>Et si parochianorum aliqui uoluerint alteri, quam suo, confiteri curato, de eius licencia, albarano seu scriptura aut uiue uocis oraculo ipsius cui confitebuntur, dictum suum teneantur certificare curatum, ut ulterius sacratissimum Eucharistie sacramentum a suo ualeant curato digne recipere aut de eius licencia ab alio presbytero seu religioso cui hoc curatus decreuerit committendum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>Quod curam animarum habentes faciant unum librum, in quo scribant nomina confitentium et communicantium per totum circulum anni.</p>
+                    <p>Sicut per baptismum, que est prima tabula post naufragium, uetus exuitur et induitur nouus homo, sic per secundam tabulam, que est penitencia, resurgimus post peccatum et ad portum ducimur salutarem, cuius precipua pars oris confessio inter cetera computatur.</p>
+                    <p>Uerum quia multi utriusque sexus circa eamdem negligentes nostris temporibus reperiuntur, iura et sacra mandata, tam apostolica quam prouincialia et synodalia circa hec edita contemnendo [3] idcirco nos Otho, Dei gracia episcopus Dertusensis, ut animarum periculis de salubri remedio prouideatur, in hac sacra synodo, de consensu honorabilium prioris et capituli eiusdem ecclesie Dertusensis, prout inferius continetur duximus prouidendum, statuendum et eciam ordinandum.</p>
+                    <p>In primis, statuimus et eciam ordinamus quod quicumque curatus, rector aut uicarius aut quiuis alius curam animarum regens, [4] attento quod annus quo ad percepciones fructuum et ad seruitutes beneficiorum curatorum incipit in ista nostra diocesi prima die mensis maii [5] faciat librum iuxta constitucionem super his editam per bone memorie Arnaldum, predecessorem nostrum, que incipit Mandamus et ordinamus [6], quem incipiat facere eadem die, non in papirea fustra et troces, sed in bona forma, ubi nomina omnium qui confitebuntur scribantur, ac eciam illorum qui communicabunt.</p>
+                    <p>Et sic per totum cuiuslibet anni circulum dictum librum continuent, taliter quod in fine anni de animabus sibi commissis Deo et nobis, seu ad deputatos, debitam ualeant reddere racionem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>Premium notariale [2].</p>
+                    <p>Anno Domini millesimo quater centesimo tricesimo secundo, die sabbati, que computabatur duodecima mensis iulii, ordinaciones infra scriptas fecit reuerendus in Christo pater dominus Otho, Dei gracia Dertusensis episcopus, in congregacione sui cleri, quam fecit in villa Uldecone.</p>
+                    <p>Post uero idem reuerendus dominus episcopus in sollemni synodo, quam in sua Dertusensi ecclesia cum suo honorabili capitulo et clero congregauit, dictas ordinaciones, aliquibus correctis, additis et mutatis de consensu predictorum, et aliquibus de nouo additis, uoluit et decreuit vim constitucionum habere et pro constitucionibus obseruari et inter alias constituciones synodales collocari.</p>
+                    <p>Que publicate fuere in dicta synodo, die prima februarii anno a natiuitate Domini millesimo quater centesimo tricesimo tercio in dicta ecclesia Dertuse, quarum tenor talis est.</p>
+                    <p>Quod curati inducant pro uiribus omnes parochianos suos ad confitendum.</p>
+                    <p>Item, statuimus quod predicti curati pro uiribus suis inducant omnes suos utriusque sexus parochianos, tam clericos quam laicos, qui ad annos discrecionis peruenerint, ad confitendum et communicandum, frequentibus monitis et [7] exhortacionibus congruentibus.</p>
+                    <p>Et si parochianorum aliqui uoluerint alteri, quam suo, confiteri curato, de eius licencia, albarano seu scriptura aut uiue uocis oraculo ipsius cui confitebuntur, dictum suum teneantur certificare curatum, ut ulterius sacratissimum Eucharistie sacramentum a suo ualeant curato digne recipere aut de eius licencia ab alio presbytero seu religioso cui hoc curatus decreuerit committendum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>Quod omnes illi, quibus data est licencia audiendi confessiones, teneantur eciam habere librum superius dictum.</p>
+                    <p>Item, quod religiosi, cuiuscumque religionis exsistant, et alii presbyteri quicumque, quibus per nos seu uicarium nostrum dabitur licencia audiendi confessiones in dicta diocesi, aut per curatum parochialem in parochia sua, iuxta constitucionem prouincialem domini Ioannis, archiepiscopi Terracone, item cum in edita decretali et eciam per [8] constitucionem domini legati de Fuxo, que incipit Cum in Ecclesie corpore [9] quibus eam [10] adicere intendimus [11], teneantur similem librum facere et albarana dare omnibus qui sibi confitebuntur.</p>
+                    <p>Qui libri seu albarana tradantur curatis parochialibus.</p>
+                    <p>Et similia albarana teneantur parochiani habere eorum [12] qui extra diocesim fuerint confessi ab illis quibus confitebuntur, ut per illos et illa suus curatus parochialis sit de eorum confessionibus certificatus.</p>
+                    <p>Et nisi dictum librum et conscripcionem fecerint dicti religiosi et alii presbyteri, nullatenus admittantur ad confessiones audiendas, quantumcumque licenciam seu licencias a nobis seu uicario aut officiali nostro habeant et obtineant in quacumque forma uerborum.</p>
+                    <p>Et ut firmius predicta obseruentur, uolumus et mandamus quod in licentiis concedendis dictis religiosis et secularibus clericis expresse ponatur clausula tenoris sequentis: Ita tamen quod nomina illorum qui uobis confitebuntur conscribere teneamini et tradere parochiali curato illorum, alias presens licencia nostra nullius sit ualoris uel momenti [13].</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>Quod curati teneantur ponere in eodem libro nomina illorum quos per albarana sciunt confessos esse et communicasse.</p>
+                    <p>Statuimus eciam quod predicti curati teneantur in dicto libro suo, per eos fiendo, ponere nomina omnium qui eis aut aliis confitebuntur, de quibus per libros seu albarana aut oraculo uiue uocis, ut prescribitur, erunt certificati, necnon nomina omnium qui communicabunt seu de consilio suorum confessorum abstinuerint a percepcione Eucharistie sacramenti, qui tales habentur pro excusatis; et ad aliam partem, nomina omnium illorum qui, licet fuerint confessi, non communicauerint; tum et ad aliam partem nomina omnium illorum qui non fuerint confessi, nec communicauerint anno illo.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>Quod predicti uicarii siue curati faciant copiam de dicto libro, quam tradant officiali nostro.</p>
+                    <p>Statuimus eciam et ordinamus quod quilibet dictorum curatorum omni anno, sibi retentis originalibus, faciat copiam de libro sic per eum, tam ex sibi confessis, quam per alios de quibus erit, ut predicitur, certificatus [14] composito et facto, quam sine alia monicione et mandato tradat seu mittat officiali nostro de et sub cuius officialatu exsistat, ut eius parceatur laboribus et expensis, uidelicet usque ad decimam quintam diem post Pascha dominice Resurreccionis, qua dominica cantatur Ego sum pastor bonus [15], sub pena centum solidorum.</p>
+                    <p>Que pena in tribus equalibus partibus diuidatur, quarum una operi sedis, alia fabrice illius ecclesie cuius erit rector seu uicarius, et reliqua tercia procuratori fiscali domini episcopi adquiratur.</p>
+                    <p>Ut ex hiis officialis certificatus nos de premissis ualeat ueridice informare seu prouidere, ut animarum periculis congruentibus remediis succurratur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>Quod hi qui sacros ordines habent et tamen sunt impediti ad missarum celebracionem, teneantur quolibet anno saltem quinque uices sumere sacramentum Eucharistie.</p>
+                    <p>Uerum, quia ex sacratissime Eucharistie suscepcione a malo retrahimur et confortamur in bonum et ad uirtutum et graciarum proficimus incrementa, cum debeant quoque presbyteri, sicut prefulgent gradus honore, ceteros instruere opere uirtuoso, idcirco premissis adicere decreuimus quod presbyteri, cuiuscumque gradus aut dignitatis exsistant, qui senio aut alia legitima causa a celebracionis exercicio sunt aut erunt de cetero excusati, ut edificent exemplo, et ceteros, tam clericos quam laicos, ad salutem animarum perducant, quinque uicibus saltem in anno quolibet publice in missis sollemnibus, in ecclesiis ubi moram traxerint, uidelicet diebus Natiuitatis Domini nostri Iesu Christi, Resurreccionis eiusdem, Pentecostes et Assumpcionis beate Uirginis gloriose et in celebracione Omnium Sanctorum communicare teneantur.</p>
+                    <p>Item, quod beneficiati, qui non erunt presbyteri sed erunt in sacris ordinibus constituti, eorum uestigia insequentes, teneantur totidem et similibus diebus, anno quolibet eciam publice in ecclesiis ubi moram traxerint, communicare.</p>
+                    <p>Item, quod alii beneficiati non presbyteri aut in sacris non constituti teneantur ter, aut saltem bis, quolibet anno communicare, iuxta constitucionem in sacro Terraconensi concilio editam, que incipit Item, cum clerici [16], scilicet diebus Natiuitatis Domini et Resurreccionis eiusdem et Pentecostes.</p>
+                    <p>Item, quod ceteri utriusque sexus christiani qui ad annos discrecionis peruenerint, exhortentur, iuxta sacrorum canonum statuta, ter in anno communicare, sed ad minus semel compellantur per eorum curatos, iuxta canonem Omnis utriusque sexus [17] et constitucionem prouincialem superius editam in sacro Terraconensi concilio, que incipit Ne citra ea, etc. [18].</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>Quod curati reuerenter et deuote tractent sacra.</p>
+                    <p>Uolumus insuper et ordinamus quod rectores et alii curati, quibus ex animarum cura onus incumbit, sic circa celebraciones missarum, collaciones sacramentorum et alia officia diuina et ecclesiarum regimina sint attenti, ut eorum exemplo ceteri inducti, tam clerici quam laici, in exsecucione diuini cultus reddantur efficaciores, et de animabus et curis sibi commissis Altissimo ualeant debitam reddere racionem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>Quod omnes beneficiati non curati teneantur pro qualibet libra redituum suorum beneficiorum tres in anno missas celebrare.</p>
+                    <p>Sane quia ex missarum celebracione anime fidelium, tam uiuorum quam defunctorum, a peccatis purgantur, uite atque salutis eterne suffragia consequuntur, et ut piis uotis instituentium ecclesiastica beneficia satisfiat et fidelium mentes ad alia instituenda deuotius inducantur, ordinamus quod ceteri beneficiati non curati residentes in beneficiis suis teneantur, secundum quotam quantitatem quam recipiunt de beneficiis suis, in ecclesiis et altaribus ubi eorum beneficia sunt instituta, pro ualore cuiuslibet libre redituum quos inde habent, ad minus tres in anno missas celebrare aut ibidem facere celebrari per alios presbyteros substitutos.</p>
+                    <p>Saluis tamen semper instituentium diposicionibus que frequenciores celebraciones et seruicia exigunt et disponunt.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>Quod ponantur substituti in beneficiis absentium, quibus prouideatur de quarta parte redituum.</p>
+                    <p>Prouidemus insuper ad seruicia beneficiorum absentium, quod illis deseruiatur per presentes et residentes, petita prius et obtenta a nobis seu nostro uicario generali licencia seruiendi, ut in aliis constitucionibus predecessorum nostrorum est cautum.</p>
+                    <p>Et ut pro labore seruitutis remuneracio uniformiter subsequatur, cum in hoc non reperiamus esse prouisum, statuimus, de consilio predictorum, quod taliter seruicio substitutus habeat quartam partem redituum illius beneficii cui deseruiet, ut est dictum, nulla facta deduccione onerum uel compensa.</p>
+                    <p>Et hec taxa in tota nostra diocesi generaliter obseruetur, exceptis tamen constitucionibus et consuetudinibus nostre ecclesie Dertusensis circa substitutos comensalium eiusdem, ac disposicionibus instituentium circa seruitutes aliter disponentium, in quibus nullatenus intendimus aliquid immutare, derogare seu innouare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>Quod substituti teneantur celebrare pro qualibet libra quarte partis septem missas quolibet anno in altari sub cuius inuocacione est institutum beneficium.</p>
+                    <p>Et ut debitum seruitium impendant pro remuneracione laboris, eciam statuimus quod quilibet substitutus in altari inuocacionis illius beneficii, ad quod seruiendum substituitur, septem missas pro qualibet libra quarte partis quam pro dicta seruitute, ut est dictum, percipiet, celebrare teneatur.</p>
+                    <p>Super quibus et de quorum, tam residentium quam substitutorum, celebracione, procuratores presbyterorum ecclesiarum, si ibidem fuerint, alioquin curati in qualibet ecclesia regentes teneantur sua facere protocolla ac scripturas, ubi missas que per beneficiatos aut eorum substitutos celebrabuntur, omni fraude cessante, conscribantur.</p>
+                    <p>Et si beneficiatus seu ab eo substitutus ut premittitur, cessauerit celebrare, defalsetur et detrahatur tali seruitium negligenti tantum, quantum cessauerit pro quota cuiuslibet misse, ut est superius ordinatum.</p>
+                    <p>Et illud, quantumcumque fuerit, per rectorem illius ecclesie uel uicarium ac per procuratorem presbyterorum, ubi talis procurator fuerit, concorditer detur et distribuatur in alios presbyteros qui dictas missas suppleant ac celebrent, ut est dictum.</p>
+                    <p>Quod si de distribucione huiusmodi concordare nequiuerint curatus et procurator, ex tunc illa quantitas sacristie illius ecclesie pro reparacionibus seu ornamentis eiusdem adquiratur.</p>
+                    <p>Et ut ad premissa conscribenda dicti procuratores aut, suo casu, curati attentius inducantur, cum sentiens onus et commodum sentire debeat, detur illi conscribenti quarta pars illius quantitatis que ex talibus negligentibus substrahatur, residuis tribus partibus in missis aut reparacionibus seu ornamentis distribuendis, ut supra dicitur et continetur.</p>
+                    <p>Adiciendo quod sicut curatus de confessionibus et communione suorum parochianorum tenetur reddere racionem, sic pari modo procurator aut curatus suo loco de celebracionibus conscriptis et cessatis atque suppletis per beneficiarios et eorum substitutos, eodem aut simili libro teneantur nobis aut officialibus nostris in dominica que cantatur Ego sum pastor bonus [19] reddere racionem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>Quod fiant capbreuia in ecclesia.</p>
+                    <p>Quia per constituciones bone memorie domini Petri, que incipit Quia rei euidencia [20], et Eneci, que incipit Cupientes ecclesiarum statui [21], archiepiscoporum sancte ecclesie Terracone, salubriter et late disponitur quod in qualibet ecclesia fiant capbreuia censualium et redituum earumdem et beneficiorum ibidem institutorum, que in communi archiuo ponantur, etc.</p>
+                    <p>Que tamen constituciones in hac nostra diocesi nullatenus aut negligenter fuerunt ad debitam exsecucionem deducte, eo propter, de predictorum consilio, mandamus, illas ad debitam exsecucionem deducendo [22] omnibus et singulis quos dicte constituciones comprehendunt, quatenus infra annum, a dominica in Albis proxime instanti connumerandum, dicta capbreuia faciant, et in termino statuto ad libros confessionum exhibendos, illa sic facta capbreuia exhibeant, ut in dictis archiuis ulterius poni ualeant et recondi.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>Quomodo rectores et alii curati se debeant presentare episcopo.</p>
+                    <p>Quamuis per constitucionem recolende memorie domini Berengarii, predecessoris nostri, incipientem Item, statuimus [23], caueatur quod rectores et ceteri presbyteri nostre diocesis ex quacumque causa ad ciuitatem Dertusensem uenerint, coram episcopo seu eius uicario generali teneantur certis diebus, sub certis penis ibidem contentis, se presentare, prout in eadem latius continetur, uerum nos dictam constitucionem benignius moderantes, de predictorum consilio, solum in rectoribus et eorum uicariis eamdem constitucionem decreuimus obseruari, sublato eciam quod dicti rectores et uicarii, prima presentacione facta, ulterius de triduo in triduum se representare minime teneantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>De hiis qui interuenerint in matrimoniis clandestinis.</p>
+                    <p>Attendentes et considerantes quod nos alias, certis motiuis inducti, disposuerimus et ordinauerimus quod omnes interuenientes in matrimoniis clandestinis et que sine bannorum edicione fierent, sentencia excommunicacionis innodentur.</p>
+                    <p>Uerum quia plures interessentes in sponsalibus de [24] edicionibus dictorum bannorum legitimam ignorantie causam habentes, in dictas penas incidebant.</p>
+                    <p>Ut animarum periculis obuietur, de consilio predictorum, predictam penam excommunicacionis precise quo ad principales contrahentes et illum seu illam qui eosdem desponsauerit, manus aut iuramenta recipiendo seu uerba inter eos de presenti proferendo [25] statuimus et uolumus locum habere.</p>
+                    <p>Absolucionem omnium illorum qui predictas excommunicacionis sentencias incurrerint, nobis seu successoribus nostris, ac nostri aut illorum uicariis generalibus, reseruando.</p>
+                    <p>Aliis penis in constitucionibus super hiis editis in suo robore duraturis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>Quod annus inter beneficiatos simplices, sicut in curatis, incipiat prima die madii.</p>
+                    <p>Quoniam, matre experiencia et relacione ueridica informati, didicimus quod ex incertitudine temporis inter beneficiatos simplices nostre diocesis super dimissione fructuum multe oriuntur questiones.</p>
+                    <p>Idcirco, ad dictas questiones et controuersias sedandas, de consilio predictorum, ordinamus quod sicut in beneficiis curatis in dicta diocesi, quo ad fructus et reditus computandos, die prima madii annus incipit, sic in aliis beneficiis non curatis per totam diocesim uniuersaliter eadem die, scilicet prima madii, annus incipiat currere.</p>
+                    <p>Et inter predecessores et successores equaliter seruata prorrata temporis omnes fructus, reditus et prouentus dictorum beneficiorum diuidantur, ac onera soluantur et supportentur, ut in omnibus beneficiis, tam curatis quam simplicibus, uniformiter equalitas obseruetur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>De lectis tenendis in abbatiis</p>
+                    <p>Querelosis rectorum nostre diocesis clamoribus ad nos peruenit quod cum in constitucione domini Arnaldi, predecessoris nostri, que incipit Item, quia, iure testante [26], et eius declaratoria, que incipit Quia constitucio nihil debet, etc. [27] contineatur certus numerus lectorum tenendorum in [28] abbatiis suarum ecclesiarum, vix habita differencia de ecclesiarum ualoribus, quod incongruum esse uidetur, cum iuri consonum exsistat ut onera sequantur formam et sortem emolumentorum.</p>
+                    <p>Idcirco, dictam constitucionem moderantes, de consilio predictorum prioris et capituli ordinamus quod habentes ecclesias in ualore redituum, iuxta arrendamenta earum seu prout commode et communi existimacione arrendari possent [29] usque ad uiginti libras, habeant tenere saltem unum lectum; et habentes a supra usque ad quinquaginta libras, duos; a supra uero usque ad octoginta libras, tres lectos; a supra usque ad centum, quatuor lectos.</p>
+                    <p>A supra centum uero libras habentes, quinque lectos tenere ibidem et habere proprios teneantur, iuxta constituciones predictas, quas in aliis uolumus in suo robore permanere.</p>
+                    <p>Et insuper ainas seu utensilia ad domus seruitium et opus culine conducentes, prout cuilibet abbatie fuerit congruum et opportunum, tenere et successoribus suis dimittere teneantur.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] In brackets</p>
+                    <p>[2] In brackets</p>
+                    <p>[3] From iura et sacra in parentheses</p>
+                    <p>[4] Begin parenthesis</p>
+                    <p>[5] From attento quod in parentheses</p>
+                    <p>[6] Mandamus et ordinamus in quotacion marks</p>
+                    <p>[7] &lt;et&gt;</p>
+                    <p>[8] &lt;per&gt;</p>
+                    <p>[9] Cum in Ecclesie corpore in quotacion marks</p>
+                    <p>[10] &lt;eam&gt;</p>
+                    <p>[11] quibus eam adicere intendimus in parentheses</p>
+                    <p>[12] &lt;eorum&gt;</p>
+                    <p>[13] From Ita tamen in quotacion marks</p>
+                    <p>[14] From tam ex sibi in parentheses</p>
+                    <p>[15] Ego sum pastor bonus in quotacion marks</p>
+                    <p>[16] Item, cum clerici in quotacion marks</p>
+                    <p>[17] Omnis utriusque sexus in quotacion marks</p>
+                    <p>[18] Ne citra ea, etc. in quotacion marks</p>
+                    <p>[19] Ego sum pastor bonus in quotacion marks</p>
+                    <p>[20] Quia rei euidencia in quotacion marks</p>
+                    <p>[21] Cupientes ecclesiarum statui in quotacion marks</p>
+                    <p>[22] From illas in parentheses</p>
+                    <p>[23] Item, statuimus in quotacion marks</p>
+                    <p>[24] &lt;de&gt;</p>
+                    <p>[25] From manus in parentheses</p>
+                    <p>[26] From Item in quotacion marks</p>
+                    <p>[27] From Quia in quotacion marks</p>
+                    <p>[28] &lt;in&gt;</p>
+                    <p>[29] From iuxta arrendamenta in parentheses</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

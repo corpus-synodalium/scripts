@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Albi</title>
+                <recordID>0200</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate precision="circa">1278</origDate>
+                <dateNotes/>
+                <origPlace>Albi</origPlace>
+                <diocese>Albi</diocese>
+                <province>Bourges</province>
+                <country>France</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 200</p>
+                <p>Year: 1278</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: Yes</p>
+                <p>DatingNotes: first set between 1277-79, while second set issued in 1280</p>
+                <p>Place: Albi</p>
+                <p>Diocese: Albi</p>
+                <p>Province: Bourges</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 43.928889</p>
+                <p>Longitude: 2.146389</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Avril, Statuts, VI, 78 (correcting Lacger ed)</p>
+                <p>EditionOther: Lacger, Statuts synodaux d'Albi, 457-59 </p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: Hard Copy Scan</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: [&quot;Bernard de Castanet's statutes don't add anything that was not already found in preceding statutes (Lacger, p457)&quot;, 'Biget, Legislation, 202 says that the only innovations concern devotional matters  (faithful to revere the name of Jesus and bow when they hear it spoken)']</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>In una synodo fecit legi sic.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>De usurariis et concubinariis manifestis.</p>
+                    <p>Excommunicamus in his scriptis et excommunicatos mandamus sollempniter ab omnibus presbiteris, singulis diebus dominicis et festiuis, presente et audiente populo, usurarios et concubinarios manifestos, siue sint masculi siue femine supradicti.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>De curatis instituendis in synodo.</p>
+                    <p>Item mandamus quod aliquis presbiter non regat nec teneat curam animarum nisi sibi commissa fuerit per nos uel curiam nostram, et quod curam recipiat in synodo que circa festum Pentecostes celebratur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>De horis canonicis.</p>
+                    <p>Item mandamus omnibus et singulis presbiteris parrochialibus quod quolibet die dicant horas statutas et pulsent horas canonicas in ecclesiis suis, alioquin non recipientur deinceps, sed aliter punientur ad arbitrium curie nostre.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>De synodo.</p>
+                    <p>Item quod nisi ueniant in prima die synodi in quinque solidis Remundensium dandis operi ecclesie secundum misericordiam punientur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>De clericis coniugatis.</p>
+                    <p>Item de clericis coniugatis que utuntur in ecclesiasticis non proponimus defendere nos eos quoad tallias et alias exacciones.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

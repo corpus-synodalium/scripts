@@ -1,0 +1,173 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Valencia</title>
+                <recordID>0419</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1357</origDate>
+                <dateNotes/>
+                <origPlace>Valencia</origPlace>
+                <diocese>Valencia</diocese>
+                <province>Tarragona</province>
+                <country>Spain</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 419</p>
+                <p>Year: 1357</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Valencia</p>
+                <p>Diocese: Valencia</p>
+                <p>Province: Tarragona</p>
+                <p>CountryModern: Spain</p>
+                <p>Latitude: 39.470239</p>
+                <p>Longitude: -0.376805</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Vidal de Blanes </p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1356</p>
+                <p>RegnalEnd: 1369</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Synodicon Hispanum, XII, 780-85</p>
+                <p>EditionOther: Perez de Heredia, Sinodos, 725-735</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['Library Scan', 'Hard Copy Scan']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Inscripcio [1].</p>
+                    <p>Die lune, intitulata pridie idus iunii, anno a natiuitate Domini millesimo trecentesimo quinquagesimo septimo, reuerendus in Christo pater et dominus dominus Uitalis, miseracione diuina episcopus Ualentinus, secundum quod moris est et a sanctis patribus fore noscitur institutum, celebrauit generalem synodum cum omnibus rectoribus, uicariis perpetuis uel eorum procuratoribus in sede Ualentina, et in dicta synodo fecit ordinaciones et constituciones sequentes.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>Quod rectores publicent excommunicatos non soluentes decimas.</p>
+                    <p>Uitalis, miseracione diuina episcopus Ualentinus, uniuersis et singulis rectoribus et uicariis perpetuis ecclesiarum ciuitatis et diocesis Ualentine, uel nostri loca tenentibus, salutem in Domino sempiternam.</p>
+                    <p>Quia non solum ex synodali constitucione per dominum Raimundum, bone memorie, predecessorem nostrum facta, excommunicacionis sentencia noscitur promulgata in quoscumque decimas et primicias integraliter soluere nolentes, uerum eciam ex constitucione nuper in sacro Tarraconensi concilio edita.</p>
+                    <p>Idcirco uobis uniuersis et singulis, in uirtute sancte obedientie, dicimus et mandamus quatenus si aliqui fuerint qui dictas decimas et primicias integraliter, ut premittitur et prout in dictis constitucionibus continetur, soluere contradixerint, non solum uigore dicte constitucionis dicti sacri concilii singulis diebus dominicis et festiuis, cum maior populi multitudo conuenerit ad diuina, publice et palam denuntietis excommunicatos, et eciam tamquam excommunicatos euitetis et faciatis ab aliis artius euitari tanto tempore et tamdiu donec predictas decimas et primicias exsoluerint integraliter hiis quibus de iure fuerint soluende et a nobis beneficium absolucionis meruerint obtinere.</p>
+                    <p>Datis, Ualentie, decima die iunii, anno Domini millesimo trecentesimo quinquagesimo septimo.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>Quod rectores in locis Saracenorum moneant dominos predictorum ne çala clametur.</p>
+                    <p>Uitalis, miseracione diuina episcopus Ualentinus, uniuersis et singulis rectoribus, uicariis perpetuis ecclesiarum ciuitatis et diocesis Ualentine, uel nostri loca tenentibus, salutem in Domino sempiternam.</p>
+                    <p>Quia culpam facientis habet qui quod potest corrigere non emendat, et tam ex ordinacione generali domini nostri pape, quam ex constitucione prouinciali sacri concilii Tarraconensis, ob Dei reuerenciam fuerit ordinatum quod domini terrarum et locorum in quibus ipsi habent dominium moneantur et alias, ut de cetero didiscimus, per nostros predecessores moniti fuerint [2] ut prohiberent et prohiberi faciant ne Saraceni [3] inuocent alta uoce seu proclament nomen perfidi Machometi.</p>
+                    <p>Et ab obitu citra domini Hugonis, bone memorie, predecessoris nostri, in aliquibus locis, ut intelleximus, publice proclamatur, in diuine maiestatis offensam et dictorum dominorum ipsorum locorum graue periculum animarum.</p>
+                    <p>Idcirco desiderantes peccatum huiusmodi tante paganitatis nostris temporibus a dictis locis nostre diocesis amputare, uobis et uestrum cuilibet, in uirtute sancte obedientie et sub pena excommunicacionis, dicimus et mandamus quatenus dominos et alcaidos et loca tenentes eorum dominorum ex parte nostra semel, secundo, tercio et peremptorie moneatis publice in uestis ecclesiis quatenus in terris et locis nostre diocesis et eorum iurisdiccioni aut districtui subiectis no permittant, immo prohibeant et prohiberi faciant proclamacionem iam dictam.</p>
+                    <p>Alioquin, nisi predicta adimpleuerint et prohiberi fecerint, cum dictam inuocacionem fieri sciueritis, ipsos et quemlibet ipsorum excommunicatos, uirtute prouincialis constitucionis predicte, denuntietis, ipsosque ad diuina officia aut ecclesiastica sacramenta minime admittatis, et in omnibus locis que in nostra diocesi habent, tamquam ecclesiastico interdicto suppositis, cessetis a diuinis, nec a predicta sentencia absoluantur nec interdictum aliquatenus relaxetur donec predicta fieri prohibuerint cum effectu.</p>
+                    <p>Datis, etc.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>Quod omnes rectores habeant tractatum editum per dominum Uitalem, episcopum Ualentie, sub pena centum solidorum.</p>
+                    <p>Uitalis, miseracione diuina episcopus Ualentinus, uniuersis et singulis rectoribus et uicariis perpetuis uel aliis curam animarum gerentibus infra ciuitatem et diocesim Ualentinam constitutis, salutem in Domino sempiternam.</p>
+                    <p>Cum nos decreuerimus ut uos et uestrum quilibet debeat habere quedam documenta ad gubernacionem siue curam animarum et ad instruccionem uestri et populi uobis commissi ualde utilia et necessaria, idcirco uobis et uestrum cuilibet, in uirtute sancte obedientie et sub pena centum solidorum, operi retrotabuli sedis Ualentine applicandorum, quam penam uos et uestrum quemlibet ipso iure uolumus incurrere, si mandatum nostrum inferius expressatum non adimpleueritis cum effectu [4], dicimus et mandamus quod hinc ad festum beati Michelis proxime instantis dicta documenta in scriptis habeatis.</p>
+                    <p>Nos enim sumus parati uobis et uestrum cuilibet, cum per uos fuerimus requisiti, dictorum documentorum copiam tradere, ita quod infra octo dies, postquam dictam copiam habueritis, transumptum habeatis accipere, et, habito transumpto, dictam copiam nobis illico restituere habeatis.</p>
+                    <p>Datis Ualentie, etc.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>Quod manumissores reddant computum.</p>
+                    <p>Uitalis, miseracione diuina episcopus Ualentinus, uniuersis et singulis rectoribus, uicariis perpetuis ciuitatis et diocesis Ualentine uel eorum loca tenentibus, salutem in Domino.</p>
+                    <p>Uobis uniuersis et singulis, in uirtute sancte obedientie et sub excommunicacionis pena, dicimus et mandamus quatenus si est aliquis uestrum detinens bona defunctorum que piis usibus, secundum disposicionem testatorum, debeant applicari, tradatis et delibretis illa per totum mensem iulii proxime uenturum Guillermo Ollerii, procuratori pauperum Christi, et nichilominus reddatis infra idem tempus uicariis aut officiali nostris bonum, uerum et legale computum ac racionem de administratis per uos racione predicta.</p>
+                    <p>Mandamus, insuper, quod si scitis aliquos parochianos uestros dicta bona defunctorum detinentes, per totum dictum mensem notificetis dicto Guillermo Ollerii in scriptis nomina ipsorum et quantitatem.</p>
+                    <p>Datis, etc.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>De beneficiis incompatibilibus.</p>
+                    <p>Uitalis, miseracione diuina episcopus Ualentinus, uniuersis et singulis rectoribus, uicariis perpetuis ac quibuscumque aliis beneficiatis duas uel plures ecclesias uel beneficia incompatibilia uel curam cum beneficio, cum dispensacione uel sine, obtinentibus infra ciuitatem et diocesim Ualentinam, salutem in Domino sempiternam.</p>
+                    <p>Quia de iure aliquis non potest sine dispensacione duas uel plures ecclesias curatas uel beneficia incompatibilia aut unum cum altero retinere, idcirco uobis et uestrum cuilibet, in uirtute sancte obedientie et sub pena centum solidorum, operi retrotabuli sedis Ualentine applicandorum, [5] quam penam uos et uestrum quemlibet uolumus eo ipso incurrere, si mandatum nostrum inferius expressatum non adimpleueritis cum effectu [6], dicimus et mandamus quatenus hinc ad ultimum diem mensis iulii proxime uenturi inclusiue ostendatis coram nobis uel uicariis aut officiali nostris dictam dispensacionem, si quam habetis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>Quod rectores et beneficiati in suis beneficiis residenciam faciant personalem.</p>
+                    <p>Uitalis, miseracione diuina episcopus Ualentinus, uniuersis et singulis rectoribus, uicariis perpetuis et quibuscumque beneficiatis infra ciuitatem et diocesim Ualentinam constitutis, salutem in Domino.</p>
+                    <p>Quia, secundum sancciones canonicas, unusquisque uestrum tenetur in sua ecclesia uel beneficio residenciam facere continuam et personalem, idcirco uos et uestrum quemlibet tenore presentium admonemus primo, secundo et tercio ac peremptorio termino, ut parcatur laboribus et expensis [7], ut in dictis uestris ecclesiis et beneficiis continuam et corporalem residenciam faciatis, nisi licenciam obtineatis specialem a nobis.</p>
+                    <p>Alias notificamus uobis per presentes quod procedemus contra uos et uestrum quemlibet ad priuacionem uestrarum ecclesiarum et beneficiorum, prout ius et iusticia suadebunt.</p>
+                    <p>Datis Ualentie, etc.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>Quod decima in subsidium episcopi certo termino soluatur.</p>
+                    <p>Uitalis, miseracione diuina episcopus Ualentinus, uniuersis et singulis rectoribus ac [8] uicariis perpetuis ciuitatis et diocesis Ualentine, salutem in Domino.</p>
+                    <p>Quia per uos fuit nobis graciose concessa una decima in subsidium expensarum factarum per nos racione nostre promocionis, exsoluenda in festo beati Michelis instantis, uidelicet medietas, et alia medietas in proximo uenturo festo Resurreccionis.</p>
+                    <p>Idcirco uobis uniuersis et singulis dicimus et mandamus, in uirtute sancte obedientie et sub excommunicacionis pena, quatenus in dictis terminis exsoluatis nobis quantitatem, cuilibet uestrum in dicta decima pertinentem, hic in palacio nostro episcopali.</p>
+                    <p>Datis Ualentie, duodecima die iunii, anno Domini millesimo trecentesimo quinquagesimo septimo.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] In brackets</p>
+                    <p>[2] From et alias in parentheses</p>
+                    <p>[3] &lt;Saraceni&gt;</p>
+                    <p>[4] From quam penam uos in parentheses</p>
+                    <p>[5] Begin parentheses</p>
+                    <p>[6] End parentheses that began at quam penam</p>
+                    <p>[7] From ut parcatur in parentheses</p>
+                    <p>[8] &lt;ac&gt;</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

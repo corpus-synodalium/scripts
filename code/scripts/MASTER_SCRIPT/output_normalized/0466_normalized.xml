@@ -1,0 +1,205 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Linkoping</title>
+                <recordID>0466</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate precision="circa">1345</origDate>
+                <dateNotes/>
+                <origPlace>Linköping</origPlace>
+                <diocese>Linköping</diocese>
+                <province>Uppsala</province>
+                <country>Sweden</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 466</p>
+                <p>Year: 1345</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: Yes</p>
+                <p>DatingNotes: 1339x1351</p>
+                <p>Place: Linköping</p>
+                <p>Diocese: Linköping</p>
+                <p>Province: Uppsala</p>
+                <p>CountryModern: Sweden</p>
+                <p>Latitude: 58.4</p>
+                <p>Longitude: 15.616667</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Peter Torgilsson</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1339</p>
+                <p>RegnalEnd: 1351</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Reuterdahl, Statuta synodalia, cap IX (pp43-50)</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: https://books.google.com/books?id=WaZBAAAAYAAJ</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'WebDownload']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Petrus, Dei gracia Episcopus ecclesie Lincopensis, uniuersis Prepositis, Plebanis, Sacerdotibus et Clericis Sue ciuitatis et diocesis Salutem in omnium Saluatore.  (A1) Cum hi, qui Sacris altaribus debent astare, et Christum Dei Filium proprias tractare manibus, et hostias pro peccatis oblaturi, prout tanti dignitas exegit officii, debent omni pollere munditie et displicentie nota carere, ne cum is, qui displicet, ad interressendum mittitur, irati animus ad deteriora prouocetur, monemus, exhortamur et quantum possumus precipimus et mandamus, quantenus Status uestri dignitatem attendentes, honeste, pie ac sancte uiuere studeatis, ab omni libidinum vicio, precauentes: et non solum a malo, sed ab omni specie mali, prudenter abstinentes, diuina reuerenter ac diligenter pertractetis, adhibentes omnem diligenciam in tractando Sacramentum corporis et Sanguinis dominiei, nec non alia ecclesiastica Sacramenta: legendo eciam distinete et cantando: ac eciam circa ornamentum altaris et eucharistie custodiam, ac aliorum, que in diuino Sacrorum ministerio sunt, omnis munditie studiosos uos exhibendo, ut Dei auertatur indignacio, et populi deuocio suscitetur.</p>
+                </div>
+                <div>
+                    <head>Capitulum A2</head>
+                    <p>Precipimus eciam, ut corpus Christi non per alium, quam Sacerdotem, ad infirmos deferatur, ac ad ecclesias portetur.</p>
+                    <p>Quod si Sacerdos ipse ad ecclesiam commode statim deferre nequiuerit, in aliquo singulari et mundo loco sub bona custodia deuote ac fideliter obseruetur; ualde enim periculosa in eo tractando est negligencia et, cum potuit, euitanda.</p>
+                    <p>Quare si forsan, per incuriam Sacerdotum, sanguinis stilla super terram, uel fabulam, uel altare, uel pallas ceciderit quid agendum sit tam de penitencia, quain de stilla, docetur ex decreto Pape per hec uerba:</p>
+                    <p>Si per negligenciam aliquid de sanguine Christi stillauerit super terram, uel tabulam, lingua lambatur et terra radatur:</p>
+                    <p>Si non fuerit tabula, corrodatur locus et igne consummetur, et cinis infra altare recondatur, et Sacerdos XV.  diebus penitebit: si super altare stillaueuit calix sorbeat Minister stillam, et tribus diebus peniteat:</p>
+                    <p>Si usque ad tabulam, IX. diebus: Si usque ad quartura, XXX. diebus peniteat, et linteamenta, que tetigerit stilla, tribus uicibus Minister abluat, calice supter posito, at aqua ablucionis sumatur et iuxta altare condatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum A3</head>
+                    <p>Hortamur quoque et mandamus, ut comessaciones et ebrietates ab omnibus euitentur, cum ebrietas et mentis inducat exilium, et libidinis prouocet incentiuum:</p>
+                    <p>Statuentes, ne quilibet sacerdos, in uillis forensibus domicilium habens, uel ecclesiam aliquam ibidem, bibere presumat in tabernis: item nec alii, nisi caussa necessitatis in itinere constituti.</p>
+                </div>
+                <div>
+                    <head>Capitulum A4</head>
+                    <p>Uolumus eciam et precipimus, ut quotiens sacerdotes ad Capitulum, in nostra, seu nostrorum Prepositorum, prouincia habendum, conuocentur, cum Superpelliciis ueniant: et consuluimus, prout honestati conuenit clericali, ut clausa deferant decenter indumenta.</p>
+                </div>
+                <div>
+                    <head>Capitulum A5</head>
+                    <p>In his et aliis bonis, Deo operante, se exerceant, et subditorum saluti pastorali cura prouidentes, cure sibi commissi gregis dominici animo sollicito et deuoto solerter inuigilent et intendant, ne ipsis negligentie torpore depressis antiqui hostis morsibus lacerandi exponantur, et in die districti iudicii sanguis eorum ipsorum manibus requiratur: exhibentes se irreprensibiles, et in ministerio suo ac conuersacionis, honestate se formando aliis precedentes.</p>
+                    <p>De his, que ad Salutem animarum pertinent subditis suis predicent, exponendo eis singulis diebus dominicis Oracionem dominicum et Symbolum apostolicum, cum Aue Maria et aliis, que Dei clemencia ministrauit: inducendo eos ad eonfessiones de peccatis, et elemosinas et alia misericordia; opera impendenda: et ut in ultimis de bonis suis a Deo collatis testamentum condant ad fabricam Lincopensis ecclesie, uel alia pia bona misericorditer adlargiendo.</p>
+                </div>
+                <div>
+                    <head>Capitulum A6</head>
+                    <p>Preterea districte precipimus, ut Prepositi se principaliter ab omnibus illicitis emundantes, subditos suos in uirtutibus et bonis moribus edificent et confirment, in se et ipsis, quantum poterunt, vicia exstirpando, maxime autem vicium incontinentie, quod heu [1] in Sacerdotibus et Clericis nostri temporis inoleuit, et honestatem inquinat clericalem.</p>
+                    <p>Quos huiusmodi delicto inuolui nouerint, moneant salubriter, corrigant et castigent.</p>
+                    <p>Et si forsan aliqui super hoc se incorrigibiles attenderint, nobis eos sine mora denuncient, ut per manus nostre apposicionem, monicione premissa,, corrigantur.</p>
+                    <p>Quod si forte Prepositorum apparuerit negligencia, seu quod absit, eiusdem incontinentie labe inuncti fuerint, cum ubi sit gradus alcior, ibi sit casus grauior, in ipsos animaduertemus sentencia grauiori.</p>
+                </div>
+                <div>
+                    <head>Capitulum A7</head>
+                    <p>Insuper eciam propter eorum assercionem, quibus pro penitentium introduccione in ecclesiam contingat, et periculum, quod ex falsa suggestione poterit uenire, non intelligentes sed ueniam improuide molientes, per quam credunt, facilius consequi quod intendunt, fingunt se maiorem penitentie modum, quam fecerunt, compleuisse, et sic amplioris reatus culpam et grauioris noxe labem incurrunt, cum umbra cuiusdam ficte penitentie pretendatur, nec ueritas subsistat, cum effictum remedium cupiant, non debitum adhibere; uolumus et statuimus, ut Prepositi singuli nostre diocesis Capitulum in quadragesima competenti tempore ante coenam Domini teneant, ut penitentes prepositurarum suarum ibidem conueniant, ipsos de iniuncta sibi penitencia et modo penitendi examinantes diligenter: et sic eos, conscriptis eorum delictibus, et iniunctis pro eis penitentiis, et quatenus penitendo expleuerint, Lincopiam quadragesima proxima ante coenam dominicam summo mane sub sigillis suis transmittant, ut ab his, quos ad introduccionis officium deputamus, commode ualeant expediri, ipsorum, cum redierint, simplicitati fidem non habentes, nisi nostris, uel introductorum, literis fulciantur.</p>
+                    <p>Precipimus eciam, ut secundum formam premissam ante festum Apostolorum Petri et Pauli dictos penitentes examinent, ut secundum eundem modum ab introductoribus redeant expedite: inhibentes expressius, ne umquam in Osgocla, preter Lincopie, introducciones aliqua: penitentium, nisi forte super oppressione infantum, a quocunque presumantur permittentes Prepositis in remocioribus partibus nostre diocesis, super oppressione infantum misericorditer ut introducant; in aliis maioribus excessibus eisdem in preposituris suis introducendi interdicentes facultatem, nisi mulieres fuerint, uel persone debiles, uel infirme.</p>
+                </div>
+                <div>
+                    <head>Capitulum A8</head>
+                    <p>Uerum quia multi ex mera ignorancia in irregularitates incidunt, monemus Sacerdotes omnes et singulos nostre diocesis quod si per nos, seu officiales nostros, interdicti seu suspensionis aut excommunicacionis seu tencias in ipsos fieri contingat, iusticia exigente, a diuinis abstineant; nam si sic ligati celebrare presumserint, irregularitatem incurrunt, super qua cum ipsis non potest nisi per sedem apostolicam dispensari.</p>
+                </div>
+                <div>
+                    <head>Capitulum A9</head>
+                    <p>Preterea, sicut per predecessores nostros Statutum inuenimus, uolumus, et in uirtute sancte obedientie firmiter demandamus, ut nullus uicarium de nouo promotum sibi assumat, nisi per literas nostras, uel Capituli nostri, a seruicio chori Lincopensis, pro addiscendo per biennium officio, se ostenderit absolutum, alioquin talem Uicarium assumens nouem marchas sine aliqua remissione soluere teneatur.</p>
+                    <p>Omnes insuper Sacerdotes huiusmodi nouiter promotos, aut eciam in posterum ordinandos monemus primo, secundo et tercio, ac peremptorie, inhibentes eis nihilominus in uirtute sance obedientie laice persone cuiuscunque status, preeminentie aut condicionis existat, exceptis personis Domini nostri Regis et Reginas, homagium prestent, aut cotidiano se iungant seruicio, sine nostra licencia speciali.</p>
+                    <p>Contrarium facientes sentenciam suspensionis ab officio, quam in ipsos, premissa canonica monicione predicta ex nunc feremus, incurrere uolumus ipso facto: et si durante huiusmodi, suspensione dampnabiliter se ingesserint diuinis, irregularitatis laqueo se inuoluent, a quo non poterint, nisi per sedem apostolicam, liberari: Quia uero propter abusum predictum, vix inueniuntur sacerdotes, qui Curatis debilibus et senio confectis, ac aliis impotentibus, propter magnas et latas parochias, assistant et auxilium ferant in ministerio ecclesiarum suarum, uolumus et mandamus, ut singuli Prepositi inquirant, quot et qui Curati in singulis preposituris Uicariis indigeant, ipsosque conscriptos Capitulo ecclesie nostre intimare procurent et uicarios petere pro iisdem.</p>
+                </div>
+                <div>
+                    <head>Capitulum A10</head>
+                    <p>Preterea certa relacione didicimus, ut quidam, tam prouinciarum Prepositi, quam ecclesiarum Curati, tamquam ingratitudinis filii, ecclesie nostre Lincopensi, matri sue, que eas ad honorem produxerat, emulos se exhibent et ostendunt, more prolis uiperee, materna rumpentes, uiscera; dum ingerunt emulos et dampna procurant; decimas quippe decimarum, ipsius ecclesie fabrice debitas quidam diminuunt, quidam ex toto auserunt, et ne exhibeantur, impedientibus laicis nimis fauent, cum eis deberent pro uiribus resistere, et eas per sacre communionis subtraccionem, sicut mandatum nostrum habeata resistentibus extorquere.</p>
+                    <p>Quidam eciam confuse et perraixtim, siue computo, in quadam summa eas afferunt, ut ex hoc nimis ledi nostra fabrica uideatur, nec facile potest aduerti, quis in tam tnodico sit fidelis.  Prepositi quoque a penitentibus in plerisque partibus magnas extorquent elemosinas, sed modicum, uel nihil ipsi fabrice reddunt.</p>
+                    <p>Denarium insuper beati Petri, qui est census Romane ecclesie, similiter summatim, sine distincto computo, contra mandatura sedis apostolice, colligunt et adducunt.</p>
+                    <p>Uolumus itaque, et in uirtute obedientie, immo sub pena trium marcharum, districte mandamus, ut quilibet Curatus decimas decimarum, et denarium beati Petri, et denarium beate Uirginis in Uazstenom, sub certo et distincto computo colligat et Preposito suo tradat, ipseque Prepositus summam cuiuslibet parochie distinctam offerat ad ecclesiam Lincopensem.</p>
+                    <p>Prouideant quoque sollicite, tam Prepositi, quam Curati, ut negocia ecclesie nostre predietse in premissis et aliis, ac eciam decimis canonicalibus colligendis de singulis parochiis, absque dissimulacione quacunque fideliter peragant.</p>
+                    <p>Etenim si quis, quod absit in contrario repertus fuerit, preter diuinam, quam habebit timere uindictam, ipse deieccionen honoris non immerito sustinebit et nihilominus ecclesiam reddere debebit indempnem; etenim non dimittitur peccatum, nisi restituatur ablatum.</p>
+                    <p>Laicos, uel quoscunque decimarum prestaciones impedientes, in tempore paschali a sacra communione omnino suspendant, si eciam ipsi eandem penam incurrere noluerint.  Si quis eciam Prepositorum, uel Curatorum, in elemosinis, penitentium, uel legatis morientium, aut aliis quibuscunque ad predictam ecclesiam spectantibus, fraudator inuentus fuerit, sciat se eo ipso penam amissionis officii uel beneficii meruisse.</p>
+                </div>
+                <div>
+                    <head>Capitulum A11</head>
+                    <p>Intelligimus plerosque Curatorum per plures annos ueteri chrismate uti, contra Sacrorum canonum instituciones, que precipiunt omni anno nouum confici et uetus cremari, quem abusum et reprobande negligentie torporem abolere uolentes, in uirtute obedientie et sub pena trium marchurum districte precipiendo mandamus; quod de singulis preposituris et prouinciis nostre diocesis Curati, uel per se in coena domini, qui ita uicini sunt, quod hoc efiicere possint, sacrum chrisma, cum oleo infirmorum, recipiant, uel statim post pascha unum Curatum pro eis recipiendis in expensis omnium, uel uicissim quemlibet, prout eis uisum fuerit, mittant, prouisum diligenter, quod in uigilia pentecostes fons baptismatis nullo modo, nisi cum nouo chuismate, consecretur, sub pena trium marcharum supradicta.</p>
+                </div>
+                <div>
+                    <head>Capitulum A12</head>
+                    <p>Ceterum uolumus et in uirtute obedientie, sub pena trium marcharum, precipimus firmiter et distincte ut omnes Prepositi cum duobus testibus sinodalibus, de singulis Preposituris uicissim assumendis, ad Sinodum nostram episcopalem, in commemoracione S. Pauli celebrandam, Lincopiam ueniant annuatim, prout penam predictam pecuniariam duxerint euitandam.</p>
+                </div>
+                <div>
+                    <head>Capitulum A13</head>
+                    <p>Precipimus insuper, ut si per sedem apostolicam decimas sexennales imponi contingat, apportacionem ipsarum ad ecclesam Lincopensem ultra terminos in literis prefixos nullus differat uel retardet; alioquin contrarium facientes penam in ipsis literis contentam poterint non immerito formidare.</p>
+                </div>
+                <div>
+                    <head>Capitulum A14</head>
+                    <p>Hoc itaque statuentes precipimus, ut singuli nostre diocesis Prepositi presens statutum in capitulis suis promulgari faciant et exponi.</p>
+                    <p>[2] PETRUS, Dei gracia Episcopus Lincopensis, dilectis filiis, Dominis Proposito et singulis ecclesiarum Rectoribus in prepositura Lincopensi et Thiust constitutis paternam in Domino deleccionem.</p>
+                </div>
+                <div>
+                    <head>Capitulum B1</head>
+                    <p>Uolumus et nobis omnibusque singulis, firmiter precipiendo mandamus; quatenus in dominica medie quadragesime et duobus diebus immediate sequentibus, annis singulis, parochianos uestros uestrum singuli publice in ecclesiis uestris monere, curetis, ut quicunque eorum infra diem pasche, quem pro termino peremtorio assignamus eisdein, de decimis episcopalibus, presbiteralibus ecclesiasticis et hospitalibus, seu alii cuicunque de iure et consuetudine debilis, nec non de testamentis, et specialiter si infra annum a tempore mortis testatoris soluta non fuerint, ac de omnibus aliis parochialibus et ecclesiaslicis, tam Presbytero, quam Campanario debitis, nec non de solucione Skulpenninge cum aliis quibuscunque obuenientibus iuribus, personis ecclesiasticis quibuscunque hactenus exhiberi et solui consuetis, satis facere studeant, ut tenentur.</p>
+                </div>
+                <div>
+                    <head>Capitulum B2</head>
+                    <p>Laicos insuper parochianos uestros, publice concubinas tenentes, qui easdem nondum desponsauerint, nec prorsus abdicauerint cum effectu, uel alterutrutum predictorum infra terminum certum, quem eis ad hoc, duxeritis prefigendum, faciant cum effectu: insuper et illos, qui per nempdam uel alias, iusta de causa super criminibus ecclesiasticis publice sunt conuicti, ad condignam recipiendam et peragendam penitenciam moneatis.</p>
+                </div>
+                <div>
+                    <head>Capitulum B3</head>
+                    <p>Preterea parochianos eciam uestros rebelles ad reddendum laboricium pro construccionibus uel reparacionibus ecclesie uel cimiterii, que meliores et distinociores parochiani sibi et aliis parochianis de consensu Curati imposuerint uel indixerint, similiter moneatis.</p>
+                </div>
+                <div>
+                    <head>Capitulum B4</head>
+                    <p>Ceterum uolumus, ut quilibet uestrum terciam clauem de annona et thesauro ecclesie penes se habeat, et reliquas duas apud duos parochianos, per Presbyterum et Parochianos libere et ad hoc unanimiter eligendos, qui tutores dicuntur, uolumnus remanere; ita tamen quod annis singulis infra quartam diem pasche iidem tutores annales cum Presbytero, plenarium coram tota parochia reddant computum de omnibus ecclesie redditibus, ex quacunque racione leuatis, et quibuscunque eciam usibus ipsius ecclesie erogatis: quorum tutorum tutelam et tunc annuatim uolumus expirare, nisi de nouo maioris partis parochianorum et Presbiteri consensu iterum eligantur.</p>
+                    <p>Presbiter autem et tutores ipsi, qui pro tempore fuerint, caueant diligenter, ne pecunias, annonam, uel res alias, ecclesie sue bona, indiscrete et irracionabiliter distrahant, dissipent, seu sine condicione sufficiente, uel pignore cuipiam mutuent et concedant: quod quidem pignus, si in rebus mobilibus fuerit, sub sera et custodia ciste ecclesiastice uolumus obseruari, ut imminente seu exigente ipsius ecclesie necessitate, possessoribus tamen eorundem pignorum prius sufficienter moninitis ad eadem pignora redimenda, si ipsa infra terminum competentem non redemerint, eadem pignora possint pro necessitatibus ecclesie distrah seu uendi; ita tamen quod quicquid ultra sortem principalem debiti, pro ipsis pignorbus ex parte ecclesie habitum et receptum, ipsis possessoribus restituaitur integraliter et reddatur.</p>
+                    <p>Si uero pro bonis seu rebus ecclesie Presbiter et tutores predicti minus sufficiencia pignora receperint, ipsi super defectu huiusmodi ecclesiam indempem reddere teneantur.</p>
+                    <p>Eos, qui hanc nostram constitucionem seu mandatum contempserint, ac iura ecclesiastica supradicta ante diem pasche contumaciter non soluerint, a communione corporis dominici in ipso die pasche et deinceqs, donec de premissis et eorum singulis competenter satisfecerint, alienos esse uolumus et suspensos.</p>
+                </div>
+                <div>
+                    <head>Capitulum B5</head>
+                    <p>Porro uolumus, ut quibibet uestrum, qui premissa omnia, ut supra dicitur, pubicare neglexerit uel presentium harum litterarum transscriptum in sua ecclesia ante festum purificacionis Marie Uirginis nunc proxime uenturum, in III. marchas denariorum pro nostris deputandis usibus, punietur.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] [!] inserted here</p>
+                    <p>[2] &quot;Addimus eiusdem PETRI Ep. Lincop. statuta alia.  An autem hec et que precedunt, in Synodo edita sint, quamquam id facile credamus, non amen ad liquidum constat.  Descripsimus ex membrana codicis Upsaliensis in 4. N. 19.&quot;</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

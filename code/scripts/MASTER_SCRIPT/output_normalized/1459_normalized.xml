@@ -1,0 +1,114 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Canterbury</title>
+                <recordID>1459</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1439</origDate>
+                <dateNotes/>
+                <origPlace>London</origPlace>
+                <diocese>Canterbury</diocese>
+                <province>Canterbury</province>
+                <country>England</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Provincial</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 1459</p>
+                <p>Year: 1439</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: London</p>
+                <p>Diocese: Canterbury</p>
+                <p>Province: Canterbury</p>
+                <p>CountryModern: England</p>
+                <p>Latitude: 51.507222</p>
+                <p>Longitude: -0.1275</p>
+                <p>PlaceNotes: [check place]</p>
+                <p>Classification: Provincial</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Records of Convocation 5, p. 408</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['Library Scan', 'Hard Copy Scan']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: Constitution for augmentation of poor vicarages</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>All Text</head>
+                    <p>Cum propter nimiam prorogacionem litium que ex subtili ordinis iudiciarii obseruancia nonnumquam proueniens solet esse litigantibus maxime pauperibus onerosa iure communi statutum sit quod in quibusdam casibus simpliciter et de plano ac sine strepitu et figura iudicii procedi ualeat, ac in nostra Cantuariensi prouincia multe sunt ecclesiarum in fructibus satis abundantium exiles uicarie, quarum fructus propter tepescentem modo plus quam solito populi deuocionem earundem uicariis eciam ut tenuem uitam ducant non sufficiunt; contra quos insuper si ad[1] augmentacionem sue porcionis coram locorum ordinariis agant per rectores proprietariosue ecclesiarum huiusmodi tot difficultates per excepcionum dilacionumque dispendia opponuntur quod a propositis eorum iustis querelis propter inopiam et obtinendi in causa desperacionem ab inicio penitus desistere compelluntur, presentis concilii prouida deiberacione statuimus quod de cetero in[2] causa augmentacions uicarium exilium que quibusdam casibus predictis non multum absimilis est similiter et eodem modo si hoc petat pars actrix, uidelicet summarie et de plano ac sine strepitu et figura iudicii procedatur; adicientes quod ordinarii locorum uicarios affirmantes se eisdem proprio iuramento paupertatis onere nimium pregrauatos causam augmentacionis huiusmodi uicariarum suarum prosequentes in forma pauperum admittant suum officium in hac parte gratis et liberaliter eis impendentes, necnon ab aduocatis, procuratoribus ceterisque officialibus et actorum scribis curiarum et consistoriorum suorum patrocinia factaque gratis impendi faciant et liberaliter impartiri.</p>
+                    <p>Talesque porciones huiusmodi uicariis assignare curent quales pro fructibus et prouentibus ecclesie racionabiliter suppetere et ad onera que ad uicarios pertinere debent uiderint conuenire; et quod non minor porcio assignetur alicui uicario quam summa duodecim marcarum si ad tantam summam totius ecclesie cuius est uicaria augmentanda fructus integri se extendant.</p>
+                    <p>Et ne locorum ordinarii pretextu difficultatis citandi proprietarios et rectores huiusmodi, qui nonnumquam moram trahunt extra dioceses in quibus consistunt uicarie de quarum augmentanda porcione questio uertitur, sint ab execucione suorum officiorum quomodolibet impediti, eiusdem concilii auctoritate statuimus quod in causis augmentacionum predictarum[3] per citaciones in ecclesiis illis[4] quarum rectores aut proprietarii extra diocesim ordinarii demandantis citacionem huiusmodi demorantur aliquo die Dominico uel festiuo cum maior in eisdem affuerit populi multitudo publice et solemniter factas in quibus citacionibus ad comparendum ipsis citatis ad minus dentur triginta dies, predicti rectores et proprietarii perinde arctentur ad comparendum ac si essent huiusmodi citacione personaliter apprehensi.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] [ad]</p>
+                    <p>[2] [in]</p>
+                    <p>[3] predict[arum]</p>
+                    <p>[4] [illis]</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

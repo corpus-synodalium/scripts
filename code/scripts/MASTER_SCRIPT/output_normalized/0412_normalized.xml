@@ -1,0 +1,173 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sens</title>
+                <recordID>0412</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1269-10</origDate>
+                <dateNotes/>
+                <origPlace>Sens</origPlace>
+                <diocese>Sens</diocese>
+                <province>Sens</province>
+                <country>France</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Provincial</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 412</p>
+                <p>Year: 1269</p>
+                <p>Month: 10</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Sens</p>
+                <p>Diocese: Sens</p>
+                <p>Province: Sens</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 48.1975</p>
+                <p>Longitude: 3.2877</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Provincial</p>
+                <p>IssuingAuthority: Pierre de Charny</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1267</p>
+                <p>RegnalEnd: 1274</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Mansi 24, 3-8</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Data Capture']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: ['**I suspect these are the inspiration for Usurarum Voraginem**', 'issued by Pierre de Charny † (1267 - agosto 1274); according to Frowein, Episkopat, 320', '-brief bio sketch in Fasti, t. 11, pp117-19, where it notes that the date of his death varies from 8/16/21 August 1274; ', &quot;Charny as also 'camerier du pape' under Urban IV and Clement IV; from August 1262 to at least Oct 1267 he resided at the papal court and managed important financial transactions (Fasti, 11, 117)&quot;]</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>CAPITULA.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>Contra clericos qui focarias tenent.</p>
+                    <p>CUm legatorum sedis apostolice statuta edita in prouincia eis commissa, perpetuo sunt seruanda, et bone memorie quondam apostolice sedis Gallo legatus in Francia contra sacerdotes et clericos concubinarios statutum fecit in his uerbis: Excommunicamus [1] omnes sacerdotes et clericos quoscumque, qui post legitimam admonicionem, focarias, uel alias mulieres de quibus mala suspicio possit suboriri, in domibus propriis uel alibi, unde populus uel ecclesia scandalizetur, duxerunt retinendas, nisi sint clerici, qui sunt in minoribus constituti ordinibus, quos legitime contraxisse probatur.</p>
+                    <p>Qui tamen cum uigore ecclesiastica beneficia retinere non debent: ac ex huiusmodi salubri statuto rarus [2] aut nullus fructus peruenit, quia forte statutum huiusmodi ad multorum noticiam non peruenit, cum multi sacerdotes et clerici in propriarum periculum animarum, plurimorum scandalum, perniciosum exemplum, uituperium ministerii nostri, et ad dispendium ecclesiastice dignitatis, tenent focarias, uel alias mulieres suspectas, in domibus propriis uel alibi, unde populus uel ecclesia scandalizetur: precipimus, et in uirtute districte obedientie mandamus, ut omnes prelati, siue maiores, siue minores, subditos suos sacerdotes et clericos tenentes in domibus suis, uel alibi mulieres huiusmodi, si sint per hoc publice diffamati, auctoritate statuti predicti in synodis et capitulis, presentibus [3] moneant competenter, ut ab insolentiis huiusmodi perniciosis et detestabilibus resipiscant.</p>
+                    <p>Quod si competenter moniti non fecerint, auctoritate statuti huius, excommunicati, publice denuncientur, ac exigente eorum rebellione, eorum beneficia saisientur.</p>
+                    <p>Caueant prelati quicumque, ne in faciendis his monicionibus sint tepidi uel remissi, si canonicam ulcionem uelint effugere ac infamiam: ne scrupulo societatis non careat, qui manifesto facinori, cum possit, desinit obuiare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>Ne ecclesiastici contractibus usurariis subscribant: et contra usuras.</p>
+                    <p>Quia subscripti sigilli apposicio in multis iuris articulis consensum et probacionem inducit: prohibemus ne qua persona ecclesiastica litteras uel instrumenta super contractibus usurariis, uel de usura suspectis, sigillare uel sigillari presumat.</p>
+                    <p>Ex hoc enim quidam laici credentes, uel confingentes contractus huiusmodi per ecclesiam approbari, peccant securius, nec uerecundantur dare publice pecuniam suam ad usuram.</p>
+                    <p>Ex qualitate auctoritatis, negotii, et persone creditoris contractus usurarios reputamus; uidelicet si creditor consueuit fenerare: prohibentes, ne quis in domibus, uel in locis, aut terris ecclesiarum, Lombardos uel alios aduenas qui uulgariter cawersinos [4] dicuntur, usurarios manifestos, recipere presumat: cum receptores huiusmodi approbare uideantur usuram, quam utriusque testamenti pagina detestatur.</p>
+                    <p>Qui contra fecerint, a superiori suo, monicione competenti premissa, per censuram ecclesiasticam compescantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>Ut usurarii communione et sepultura careant.</p>
+                    <p>Item quia parum est esse iura, nisi sint qui ea regant et obseruent et faciant obseruari: constitucionem concilii contra usurarios editam, qua cauetur, ne usurarii manifesti ad communionem admittantur altaris, nec Christianam, si in peccato decesserint, accipiant sepulturam, et quod oblacionem ipsorum nullus recipiat, firmiter precipimus obseruari.</p>
+                    <p>Qui contra fecerint, preter penam constitucionis eiusdem, sui superioris arbitrio puniantur.</p>
+                    <p>Si uero exempti siue priuilegiati contra constitucionem eamdem fecerint: episcopo loci illius contra eos, quantum de iure poterit, procedere non omittant.</p>
+                    <p>Et si propter hoc ipse, uel alius ad quem pertinet, litem, seu molestiam, aut calumniam paciatur: expensis communibus, que fient de contubernacione communi, per duos, uidelicet unum de capitulo cathedralis ecclesie, et unum abbatem eiusdem diocesis fide dignum, imponenda et exigenda super illos, quos, ad hoc deputauerint, defendetur.</p>
+                    <p>Durabit autem presens statutum usque ad sequens concilium: et tunc melius uidebitur quis fructus ex hoc poterit prouenire, et de hoc computabitur in concilio subsequenti.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>Ut seruetur canon, omnis utriusque sexus.</p>
+                    <p>Item, statutum concilii, generalis de uiuentibus arcendis ab ingressu ecclesie, et morientibus qui Christina debent sepultura carere, nisi saltem semel in anno omnia peccata sua fideliter confessi fuerint proprio sacerdoti, et ad minus in Pascha susceperint reuerenter Eucharistie sacramentum, nisi forte de proprii sacerdotis consilio ob aliquam racionabilem causam ab eius percepcione ad tempus abstinendum duxerint, obseruetur firmiter, et frequenter in ecclesiis publicetur.</p>
+                    <p>Caueant sacerdotes, ne ad communionem altaris aliquem admittant, nisi sibi, uel alii idoneo de sua licencia omnia peccata sua sit confessus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>Ne clerici clericos trahant ad publica iudicia.</p>
+                    <p>Quamuis hoc graue nimis et Diuini plenum animaduersione iudicii, quod aliqui laici falcem in messem Domini sacrilegis ausibus ingerentes personas ecclesiasticas suis subiiciendo iudiciis in periculum fidei, ecclesiasticam moliuntur subiicere libertatem: hoc tamen attentius zelum commouet ulcionis, quod iidem laici, sui fermentum erroris dicuntur in clero aliquoties inuenire; dum clerici a clericis, in eo quod est grauius, religiosi, non solum [5] sed interdum uoluntarii, spretis ecclesiasticis tribunalibus, ad publica iudicia educantur.</p>
+                    <p>Hinc uolentes iuxta sacrorum instituta canonum nos salubriter contra morbum huiusmodi remedia inuenire, ad instar felicis recordacionis Innocentii pape predecessoris nostri statuendum duximus, ac eciam inhibendum, ut tam prelati, siue regulares sint siue, et seculares, quam alii clerici regni Francie, alii alios in contemptum publici beneficii, quod toti clericorum collegio ita inuiolabiliter institutum est, ut eis priuatis aliquorum pactis, uel consensibus nequeat derogari, suo relicto iudice ad publica trahere iudicia non presumant.</p>
+                    <p>Alioquin presumptores huiusmodi causam perdant, habendi a communione nihilo minus alieni: et tam episcopi, quam alii, in criminali negocio, si relicto ecclesiastico iudicio publicis iudiciis expurgare uoluerint, suum locum amittant, eciamsi pro ipsis ecclesia profiteatur.</p>
+                    <p>In civili uero perdant quod si locum suum maluerint obtinere.</p>
+                    <p>Quo circa fraternitati uestre ad instar predecessoris eiusdem in uirtute obedientie districte precipiendo mandamus, quatenus et inhibicionem huiusmodi in uestris prouincialibus conciliis et episcopalibus synodis per [6] dioceses publicetis, et faciatis solemniter publicari, ubi et quando uidebitis expedire.</p>
+                    <p>Si quos uero uobis lege diocesis subiectos, seu et exemptos contra quos, quantum ad hunc articulum pertinet, uobis, tanquam delegatis a nobis, committimus auctoritate presentium uices nostras [7] circa predicta manifeste culpabiles inuenietis: excommunicatos expresse denuncietis, et faciatis auctoritate nostra usque ad satisfaccionem condignam publice nunciari: quos absolui absque speciali mandato sedis apostolice prohibemus, si secus actum fuerit irritum nunciantes.</p>
+                    <p>Ipsos nihilo minus alias animaduersione castigando canonica, si fuerit opportunum: contradictores per censuram ecclesiasticam appellacione postposita, compescendo.</p>
+                    <p>Non obstante si aliquibus eorum ab apostolica sede sit indultum, quod excommunicari aut interdici per apostolicas litteras, neque uel suspendi, que de indulto huiusmodi eiusque tenore de uerbo ad uerbum plene et expresse non fecerint mencionem, seu constitucione de duobus dictis edita in concilia generali.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>De abusibus priuilegiorum.</p>
+                    <p>Licet regularis ordinis professores, illi presertim, quos maioris libertatis apostolica sedes priuilegiis honorauit, attollere congruis fauoribus, et ipsorum illibata omnino seruare priuilegia intendamus: sic tamen suis iuribus uolumus manere contentos, quod ipsorum priuilegiorum limites obseruantes, iura non occupent uel impediant aliorum.</p>
+                    <p>Sane intelligimus, quod Templarii, et alii religiosi priuilegio exempcionis gaudentes, de regno Francie hospites suos qui dati ordinum eorum seu oblati dicuntur, uel qui aliquem censum, eciam modicum, eis soluunt, per se ac conseruatores a sede apostolica deputatos, priuilegiorum pretextu defendunt, ne, cum delinquunt, a suis ordinariis ecclesiasticis, sicut alii laici pro furtis uidelicet, adulteriis, et aliis criminibus, quorum ad ordinarios ipsos spectare noscitur correccio, puniantur.</p>
+                    <p>Capellas autem et oratoria sine consensu et auctoritate diocesanorum construunt, necnon et interdicti et suspensionis sentencias, quas ordinarii proferunt in loca et personas sibi subiecta, damnabiliter contemnentes, faciunt in locis eisdem, capellis, et oratoriis, Diuina renitente iusticia, celebrari: quanquam quod hec ipsis liceant, apostolicum priuilegium aut indulgenciam non ostendant.</p>
+                    <p>Causas quoque suorum hominum assumentes, illos quos propriis hominibus iniuriari asserunt; super huiusmodi iniuriis, licet sint iidem homines liberi, conueniunt, et in causam nomine suo trahunt.</p>
+                    <p>Iidem eciam exempti, et alii quamplures religiosi, pro cunctis peccatis cunctas penas statuunt infligendas: ex quo interdum euenit, ut dum tales pene delinquentibus infliguntur, eorum peccata, que occulta fuerant, ueniant in noticiam aliorum.</p>
+                    <p>Uolentes itaque talium presumpcionibus, congruis, prout nostre incumbit solicitudini, remedius obuiare: apostolica authoritate, de consilio fratrum nostrorum statuimus, quod si hospites uel homines, qui dati dicuntur uel oblati, uel qui prefatis exemptis aliquem soluunt censum, si non se omnino iisdem exemptis reddiderint, sicut in proprietatibus suis omnimodo duxerunt remanendum, propter hec ab episcoporum suorum sentencia nullatenus eximantur, sed potestatem in eos ipsi episcopi, sicut in alios suos parochianos, eximant, cum pro suis excessibus fuerint corrigendi: nec ob hoc, exemptorum ipsorum conseruatores quicquam contra episcopos ualeant attentare.</p>
+                    <p>Oratoria uero uel capellas in locis non exemptis, sine diocesanorum locorum licencia, iidem exempti constuere non presumant: nec in sic constructis, neque in locis non exemptis, cum ab ordinariis fuerint interdicta, celebrent uel faciant celebrari Diuina.</p>
+                    <p>Quod si talia presumserint, per locorum ipsorum ordinarios compescantur: et si quas propter hoc exemptorum ipsorum conseruatores sentencias in contrarium protulerint, illas penitus reuocamus.</p>
+                    <p>Prohibemus autem, ne in locis exemptis hec ipsi exempti facere audeant, nisi super his licenciam sedis apostolice habeant, uel ipsius priuilegium speciale.</p>
+                    <p>Causas quoque siue lites proprias suorum liberorum hominum, que uidelicet ad ipsos tantum homines iidem exempti suo nomine siue ut actores, siue ut defensores, ueluti suas aliquatenus non assumant, eciamsi sint ipsi dicti homines censuales: cum id nequaquam licitum sit iisdem.</p>
+                    <p>Pro peccato uero incognito et occulto cuncta pena nullatenus statuatur: ex quo, si per eum satisfiat, quodammodo peccatum ipsum percipi ualeat uel adduci.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] Quotacion marks in margin start here.</p>
+                    <p>[2] Quotacion marks in margin end here.</p>
+                    <p>[3] Gap marked with &quot;........&quot;.</p>
+                    <p>[4] Ed. giues &quot;...&quot; (suppl. cawersinos, per Chartres 1355, c. 31; cf. Paris, BnF, lat. 5185, p. 196)</p>
+                    <p>[5] Gap marked with &quot;. . . . . .&quot;.</p>
+                    <p>[6] Gap marked with &quot;...........&quot;.</p>
+                    <p>[7] &quot;contra quos...presentium uices nostras&quot; in parentheses.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

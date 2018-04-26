@@ -1,0 +1,134 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Padua</title>
+                <recordID>1848</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1446-06-08</origDate>
+                <dateNotes/>
+                <origPlace>Padua</origPlace>
+                <diocese>Padua</diocese>
+                <province>Aquileia</province>
+                <country>Italy</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 1848</p>
+                <p>Year: 1446</p>
+                <p>Month: 6</p>
+                <p>Day: 8</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Padua</p>
+                <p>Diocese: Padua</p>
+                <p>Province: Aquileia</p>
+                <p>CountryModern: Italy</p>
+                <p>Latitude: 45.416667</p>
+                <p>Longitude: 11.866667</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Pietro Donato</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1428</p>
+                <p>RegnalEnd: 1447</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Ceccon, Sinodi diocesane, pp236-239</p>
+                <p>EditionOther: Dondi dall'Orologio, Dissertazione nona sopra l'istoria ecclesiastica padovana, doc. XXIII, pp60-66</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'WebDownload']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: additions to earlier Liber Synodalis of 1433</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Anno domini nostri Iesu Christi millesimo quadringentesimo quadragesimo sexto, indicione nona, feria quarta post Penthecostes, presidente reuerendissimo patre in Christo et colendissimo domino domino Petro Donato permissione diuina sancte sedis paduane pontifice meritissimo.</p>
+                    <p>Sequuntur nonnulle synodales constituciones noue et ueterum addiciones et reformaciones pernecessarie in sancta synodo paduana, presentibus patribus et clericis infrascriptis, die qua supra publicate.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>Addicio ad rubricam de sacramentis et cathedraticho.</p>
+                    <p>Quia nonnulli archipresbiterorum et rectorum parochialium ecclesiarum tam ciuitatis quam diocesis nostre paduane ad tantam deuenerunt ignoranciam et nimium profecto crassam et nullo modo diutius tollerandam, quod per singulos annos in quinta feria cene Domini quando nouum crisma conficitur mittunt personas mere laicas ad accipiendum sacratissima sacramenta, crismatis uidelicet et olei cathecumenorum et pro infirmis, propter quod, ut certificati sumus, et multa scandala euenerunt et maleficia plurima subsecuta sunt, et nonnulli sint sacerdotes qui maiori insipiencia ducti per multos menses et dies et aliqui quasi per totum anni circulum carentes sacramentis nouis ueteribus abutuntur tam in baptismate quam in extrema unccione, non animaduertentes quod tales improbi sacerdotes digni sunt deposicione secundum canonicas sancciones; uolentes igitur quantum Deo auctore debemus et huic et priori defectibus salubriter prouidere, hac synodali constitucione sancimus quod nullus archipresbiterorum uel aliorum curatorum nostre iurisdiccioni subiectus audeat uel presummat de cetero mittere quoquomodo per manus laicorum ad accipiendum ecclesiastica sacramenta predicta, quia que sancta sunt per prophanas manus contractari non debent, sed debeant ipsimet, si circa celebracionem diuinorum uel audienciam confessionum illis diebus fuerint prepediti, per honestos sacerdotes uel alios clericos ire uel mittere reuerenter ad episcopalem sedem pro recepcione sacramentorum predictorum, in et sub pena nostro arbitrio imponenda pro quacunque uice cuilibet contrafacienti.</p>
+                    <p>Utentes autem crismate et aliis sacramentis ueteribus uolumus et declaramus per presentes penam iuris incurrere et pena iuris omnino castigari debere.</p>
+                    <p>Ceterum ad tollendum damnabilem et malum abusum nonnullorum archipresbiterorum et aliorum curatorum qui tam ex iuris debito quam ex longeua seruata consuetudine obligati sunt annale prestare cathedraticum sedi episcopali paduane, differendum illud exsoluere usque in diem quo percipiuntur ecclesiastica sacramenta quasi tunc temporis illud, ut uerbo improbo aliquorum eorum utatur, persoluatur pro sacramentis, cum talia tamen et gratis et reuerenter quisque accipere et dare teneatur, ordinamus et hac synodali monicione monemus quemlibet archipresbiterum uel ecclesie rectorem a quibus prestari debet cathedratichum prelibatum ut illud per singulos annos infra octauas festi beate Iustine uirginis integraliter exsoluere teneantur sub pena dupli contrafacienti irremissibiliter auferenda.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>Addicio ad rubricam de habitu clericorum.</p>
+                    <p>Intantum creuit impudencia nonnullorum clericorum nostrorum qui, ut dolentes de aliquibus referamus, non tanquam sacerdotes Dei et ministri eius incedant in habitu condecenti sed aliis uestimentis a lateribus scissis et manicis apertis atque faldatis caligisque solatis siue consuticiis indifferenter utentes; alii ita impudice comam nutrientes plusquam deceat taliter se exornant ita ut quasi laici reputentur; alii ita breuia et inconueniencia, dum in publicum exeunt, deferunt indumenta quod non sacerdotes sed mercatores uel potius uiatores hominibus uideantur, ex quo plurimum uituperatur ministerium sacerdotale et oculi hominum huius seculi non minus scandalizantur.</p>
+                    <p>Nos igitur uolentes hanc effrenatam impudenciam talium clericorum compescere et ipsos, quos diuinus terror a peccato non reuocat, metu temporalis pene in uiam honestatis reducere, hac nostra synodali ordinacione monemus et singulos sacerdotes et clericos quoscunque beneficiatos uel in sacris ordinibus constitutos iurisdiccionis nostre quod ob Dei reuerenciam et ordinis clericalis onorem uelint et debeant secundum canonicas sancciones et constituciones synodales desuper disponentes sese conformare debito habitui clericali et infra unius mensis spatium a die presentis monicionis huiusmodi omnem superfluitatem indumentorum et inconuenienciam habitus a se abdicare cum effectu; alioquin nec ipsos pro clericis habebimus, qui clericalem habitum gestare dedignantur, nec pro ueris clericis defendemus procedendo nihilominus contra tales qui post lapsum dicti mensis non se reformauerint in premissis secundum quod in synodalibus sanccionibus super hoc alias edictis latius continetur uel secundum qualitatem excessus eorundem clericorum incorrigibilium qui se emendare noluerint in premissis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>Addicio ad rubricam de inuentario conficiendo de bonis ecclesie.</p>
+                    <p>Rerum experiencia nos docuit et ex multiplici querela didicimus non adhuc fuisse sufficienter prouisum indemnitati bonorum ecclesiasticorum, etsi super hoc ultra iuris disposicionem quamplures emanauerint hactenus constituciones per elapsum.</p>
+                    <p>Audiuimus nanque nonnullas esse ecclesias parochiales tam ciuitatis quam diocesis nostre paduane que ex mala parochianorum consuetudine nec massarios siue bonorum conseruatores habuerunt per elapsum nec habent de presenti qui curam habeant de conseruacione bonorum ecclesiarum, ne sinistro modo dillapidentur uel alienentur inconsulte uel nimium premature.</p>
+                    <p>Intelleximus eciam quod ex infidelitate nonnullorum beneficiatorum in ecclesiis prelibatis occurri tpersepe quod nedum bona immobilia ecclesiarum ipsarum inconsulte alienantur in dies sed eciam mobilia preciosa diuino cultui deputata furtim surripiuntur in intollerabile damnum et iacturam ecclesiarum predictarum.</p>
+                    <p>Certificati preterea sumus nonnullas esse de ecclesiis prelibatis que occurentibus grauaminibus temporalibus propter guerras in grauissima debita daciarum remanserunt, quia beneficiati in ipsis suis temporibus dacias occurentes soluere postponunt, quibus postea ex insperato recedentibus onus intollerabile colectarum remanent ecclesiis prelibatis.</p>
+                    <p>Uolentes igitur indemnitati ecclesiarum et earundem coseruacioni bonorum quantum cum Deo possumus salubriter prouidere, addicientes synodalibus constitucionibus super hoc alias edictis, hac saluberrima synodali ordinacione mandamus in primis quod omnes et singule ecclesie parochiales tam ciuitatis quam diocesis paduane habeant de cetero unum uel plures idoneos fidedignos et securos massarios per singulos annos uel singula biennia ad longius in parochia seu uicinia sua de nostra uel uicarii nostri speciali comissione et in presencia presbiteri parochialis fideliter elligendos, alias ex postea per nos uel officium nostrum iureiurando confirmandos; qui quidem massarii diligenter et cum iuramento conficere habeant integrum et autenticum inuentarium de omnibus et quibuscunque bonis tam mobilibus quam immobilibus ecclesiarum suarum, cuius inuentarii copia una sit et esse debeat apud ecclesiam uel rectorem eius, alia apud massarios ipsos, tercia uero curie episcopali uel sapientibus cleri presentetur; qui eciam masarii curam habeant diligenter quod nullo pacto uel ex quacunque de causa bona mobilia diuino cultui deputata uel eciam immobilia pignorentur uel alias quomodocumque dillapidentur; quique prouidere habeant quod rectores ecclesiarum suarum, si terrigene non fuerint uel alias laudabiles et approbate persone, cautissime fide iubere debeant eorum institucioneis tempore, maxime de bonis mobilibus ecclesiarum in manibus suis tanquam rectoribus consignatis uel consignandis.</p>
+                    <p>Preterea ne ecclesie ipse per debita daciarum ut supra dictum est in debitis ad sempiternum obligate remaneant, ordinamus et tenore presentium mandantes statuimus quod singuli masarii et bonorum ecclesiasticorum conseruatores predicti per suas parochias et ecclesias ita inuigilare debeant et solicite preuidere quod rectores ipsarum ecclesiarum suis temporibus dacias occurrentes suas integraliter persoluant, eciam si pro ipsarum daciarum quantitatibus specialem porcionem uel administracionem, de scitu tamen rectoris ecclesie et parochie, in redditibus ecclesiarum earundem pro huiusmodi causa consignatam habere deberent, ut per diligenciam et obseruanciam huius saluberrime sanccionis et bona iam ecclesiis dedicata et in futurum applicanda, lege magistra, securius conseruentur et ipsarum ecclesiarum indemnitati salubrius prouideatur, constitucionibus aliis de premissis loquentibus in suo robore permansuris.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1]</p>
+                    <p>[2]</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

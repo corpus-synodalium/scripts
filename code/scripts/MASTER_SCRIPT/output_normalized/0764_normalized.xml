@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cambrai</title>
+                <recordID>0764</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1314</origDate>
+                <dateNotes/>
+                <origPlace>Cambrai</origPlace>
+                <diocese>Cambrai</diocese>
+                <province>Reims</province>
+                <country>Belgium</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 764</p>
+                <p>Year: 1314</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: dated 1315 in Gousset</p>
+                <p>Place: Cambrai</p>
+                <p>Diocese: Cambrai</p>
+                <p>Province: Reims</p>
+                <p>CountryModern: Belgium</p>
+                <p>Latitude: 50.175579</p>
+                <p>Longitude: 3.2345</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Pierre de Lévis-Mirepoix</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1309</p>
+                <p>RegnalEnd: 1324</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Reusens, Statuta, 65-66;</p>
+                <p>EditionOther: Gousset, APER, II, 502</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Library Scan', 'WebDownload']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Locus XXXVIIIus.</p>
+                    <p>Statutum factum de execucione statutorum anno Domini Mo CCCo XIIIIo.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>Quia plerumque ex indebita execucione statutorum synodalium scandala prouenerunt, statuimus et precipimus ut, ubicumque per statuta synodalia cessandum fuerit, ad minus cessetur ibidem iuxta statuta predicta absque alterius uel officialis nostri expectacione mandati.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>Item titulo de exequiis mortuorum et eas tangentibus in Item si terris ecclesie ab ipsis excultis etc., et post illa uerba decedant inter dicta festa, addimus, uel in aliqua alia parte anni, dum tamen fructus aliquos non perceperint.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>Item denuncientur excommunicati auctoritate concilii prouincialis dominus Egidius de Barbrouck et dominus Dionisius de Alost, presbiteri beneficiati in ecclesia beati Rumoldi Machliniensis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>Item denuncientur excommunicati qui fabricant, cudunt seu cudi faciunt monetam infra comitatum Cameracensem contra iurisdiccionem et honorem domini Cameracensis episcopi, et qui eisdem prestant auxilium, consilium uel fauorem, et qui eisdem monetis ipsas approbando utuntur in quibuscumque contractibus, sicut alias super predictis est constitucio in synodo publicata.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

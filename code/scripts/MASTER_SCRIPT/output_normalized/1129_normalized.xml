@@ -1,0 +1,155 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Narbonne</title>
+                <recordID>1129</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1257-06-21</origDate>
+                <dateNotes/>
+                <origPlace>Narbonne</origPlace>
+                <diocese>Narbonne</diocese>
+                <province>Narbonne</province>
+                <country>France</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 1129</p>
+                <p>Year: 1257</p>
+                <p>Month: 6</p>
+                <p>Day: 21</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Narbonne</p>
+                <p>Diocese: Narbonne</p>
+                <p>Province: Narbonne</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 43.1836</p>
+                <p>Longitude: 3.0042</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Guillaume de Broue</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: BAV Vat lat. 9868, fol. 136</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Avril, Statuts 6, 388-91</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['Hard Copy Scan', 'Digital MS']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: concerning tithes</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Statuta que fecit Guillelmus [1] archiepiscopus Narbonensis anno MoCCoLoUIIo de decimis rectoribus parochiarum que negligebantur in Reddesio.</p>
+                    <p>Hic qualis fuerit tunc temporibus ecclesiastica disciplina de decimis abunde, edocemur.</p>
+                    <p>Cum decime sint tributa egentium animarum et ipsas dominus noster in signum uniuersalis sui dominii retinuerit nec eas retinere aliquibus uel defraudare liceat sine periculo animarum, Malachia propheta dicente quod qui decimam non dederit ad decimam reuertetur et idem iuris sit in primicia et decima, eodem propheta testante qui decimas et primicias in horrea sacerdotum apportari precepit.</p>
+                    <p>Igitur, nos Guillelmus [2] Dei gracia sancte Narbonensis Ecclesie archiepiscopus, qui labores uoluntarios appetimus ut quietem et pacem aliis preparemus cum in predictis et quibusdam rebus aliis que de iure et consuetudine approbata Ecclesiis dari debent in Reddesio diuersi sint usus, imo potius abusus seu eciam corruptele, secundum castrorum diuersitates ipsas quanta possumus affeccione tollere et eas ad unum debitum et communem statum reducere cupientes ut inter rectores et parochianos ecclesiarum dicte terre, dileccio et charitas deinceps que est pacis uinculum nutriatur et animarum periculum euitatur, Deum habentes pre oculis, deliberacione habita super inquisicione per ... officialem nostrum Reddensen de nostro speciali mandato super predictis in diuersis castris facta duximus de singulis generaliter et specialiter ordinandum prout superius continetur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>In primis statuentes quod de cetero de omni blado, legumino, isseria, siue panioro ac milio ac rodore in gerba et uineola [3], uindemia, oliuis, nucibus, pomis, amigdalis, uiminibus, canape et lino, oloribus, sepis, porris, rabis, aliisque in castris et uillis in quibus predicta uel aliquid de predictis crescunt octaua pars pro decima et primicia ecclesiarum rectoribus persoluatur.</p>
+                    <p>Hoc idem precipimus de omni fructu arborum de quo domino temporali aliquid pro dominio persoluetur, cum quilibet de omnibus qui iuste possidet decimam et primiciam soluere teneatur, nec ecclesia deterioris condicionis esse debeat quam dominus temporalis.</p>
+                    <p>Statuentes eciam quod pro pullis, equis et mulinis, duodecim denarii melgorienses, pro asininis et uitulis octo denarii tam pro decima quam primicia eisdem rectoribus persoluantur.</p>
+                    <p>De agnis uero lana et hedis, si parochianus octo habuerit duobus de melioribus sibi electis, det de sex residuis meliorem; si autem habuerint uno electo dabit dimidium de meliori tercio remanente uel eciam estimetur de cuius estimacione medietatem pro decima et primicia soluere teneatur.</p>
+                    <p>Si uero tres uel duos aut unum agnum uel hedum habuerit pro quolibet anno duo denarii melgorienses; pro hedo uero unus denarius pro decima et primicia persoluantur; de porcellis autem de prima porcellata dabit unum et de duabus porcellatis sequentibus eiusdem suis; si eas habuerit, similiter dabit unum; sin autem, dimidium uel eius estimacionem.</p>
+                    <p>Pro decima et primicia soluere teneatur de anseribus uero anatibus et pullis gallinariis de qualibet domo in qua fuerit de qualibet pro decima et primicia detur unus.</p>
+                    <p>De caseis autem siue in die unum uel plures fecerit, dentur decem casei sine fraude pro decima et primicia pro una integra mulsione.</p>
+                    <p>De tegulis uero de qualibet fornata, quinquaginta bone tegule pro decima et primicia persoluantur.</p>
+                    <p>De apibus autem de quolibet examine tam de ueteribus quam de nouis, dentur duo denarii pro decima et primicia sine fraude uel si de nouis octauum examen dare uoluerint duobus sibi electis de septem residuis meliorem dent et sic pro ipsis nouis ad soluendam pecuniam nullatenus compellantur.</p>
+                    <p>De feno uero et ferraginibus si seccentur siue uendantur siue non, octaua pars pro decima et primicia persoluatur nisi forte agricultor animalia cum arat si tantum essent debilia de suis ferraginibus uellet restaurare quod ei liceat decima et primicia non soluta.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>Cum autem uir et uxor matrimonium contrahere uoluerint, dent meliores homines parochie, siue sint nobiles siue innobiles, suo rectori pro prandio tres solidos melgorienses et unam gallinam pro cena nec ab eisdem de cetero panem uel carnes accipiant et cum eisdem uescantur; de aliis uero inferioribus a dicta quantitate pecunie descendendo prout fuerit nubentis possibilitas exigaturi; pro arris autem benedicendis octo denarii melgorienses per sponsum solummodo apponantur.</p>
+                    <p>Si autem mulier de parochia sua exierit ad maritum, det suo capellano de cuius parochia exit octodecim denarios melgorienses pro prandio et unam gallina pro cena.</p>
+                    <p>Si de melioribus est de villa alioquin obseruetur descendendo quod superius est expressum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>In quinque uero festiuitatibus uidelicet in festo Omnium Sanctorum et Natalis Domini, Paschalis, Pentecostes et in festo altaris precipui parochie sue offerat dominus domus unum denarium melgoriensem et eius uxor obolum ac mater, et ceteri de familia dum tamen masculi, quatuor decimum annum et femine duodecim compleuerint siue panem tantummodo ualentem prout uxori et familie magis uidebitur expedire in uigiliis uero dictarum festiuitatum, et baptismis et oblacionibus nubentium et luminaribus laudabiles consuetudines obseruentur; paschalem uero cereum quodlibet castrum et villa iusta possibilitatem suam conuenientem faciet et honestum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>Ad hec statuimus quod si uir et uxor duos lectos completos habuerint, unum habeat rector ecclesie uiro mortuo uel uxore uel dimidium si non habuerint nisi unum et meliorem uestem defuncti cum caligis et sotularibus eiusdem exceptis clamide supertunicali atque capa.</p>
+                    <p>Et hoc idem precipimus obseruari in filiis masculis si post decimum quartum annum et feminis, si post duodecim annum moriantur, si non fuerint in patria potestate, cum tunc confiteri debeant et eque sacramenta ecclesiastica ministrari.</p>
+                    <p>Si uero infra etatem predictam masculus uel femina moriatur, et sint in paterna potestate, uolumus quod sex denarios melgorienses tantum eorum parentes soluant rectori ecclesie loco lecti.</p>
+                    <p>Decendentes uero infra septennium quatuor denarios tantummodo soluere teneantur; si uero masculus uel femina que sit sui iuris infra etatem predictam uel supra decesserit circa uestes et lectos precipimus obseruari quod de patrefamilias superius est expressum.</p>
+                    <p>Et quia in quibusdam locis maioribus in Reddesio in die qua corpus traditur sepulture, et septimo et nono, die datur comestio capellano et clericis eiusdem, hoc per totum Reddesium precipimus obseruari quod hactenus laudabilius est seruatum et hoc idem in oblacionibus defunctorum dicimus obseruandum in animarum remedium eoremdem.</p>
+                    <p>Precipientes rectoribus ecclesiarum et eorum loca tenentibus districte, ut in suis missis in dictis nouem diebus speciales oraciones faciant pro defunctis, et eos siue coram altari uel in cimeterio, si commode fieri potest, cum aqua benedicta absoluant et oracionibus defunctorum ut in iis deuocio populi excitetur, prohibentes in uirtute obedientie predictis rectoribus et eorum loca tenentibus quod pro campanis pulsandis uel cimeteriis nihil exigant uel recipiant a defunctis uel heredibus eorumdem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>Precipientes districte in uirtute obedientie et sub pena excommunicacionis uniuersis et singulis ecclesiarum rectoribus et ceteris hominibus in Reddesio constitutis, ut predicta omnia et singula studeant fideliter obseruare, si nostram uelint effugere ulcionem, dantes dictis rectoribus plenariam potestatem, quod si in predictis uel in aliquo predictorum suos parochianos rebelles inuenerint seu contradicentes, adeo quod nolint seruare predicta quod eis liceat legitimis monicionibus premissis auctoritate nostra per censuram ecclesiasticam compellere parochianos eosdem.</p>
+                </div>
+                <div>
+                    <head>Explicit</head>
+                    <p>Actum apud Alanham undecimo calendas iulii, anno Domini MCCLVII, in presencia et testimonio magistri B ... Bellini, precentoris Agathensis, R ... Nazarii, officialis Reddensis, R ... archidiaconi Reddesii inferioris, B ... archipresbiteri Terminorum et P ... capellani ecclesie de Riuterio.</p>
+                    <p>Et ad maiorem predictorum omnium firmitatem, nos, archiepiscopus supradictus presentes litteras fecimus nostri sigilli munimine roborari.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] Ed. G&lt;uillelmus&gt;.</p>
+                    <p>[2] Ed. G&lt;uillelmus&gt;.</p>
+                    <p>[3] Ed. &lt;uineola&gt;.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

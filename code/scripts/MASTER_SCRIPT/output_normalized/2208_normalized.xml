@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ivrea</title>
+                <recordID>2208</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1315-04-30</origDate>
+                <dateNotes/>
+                <origPlace>Ivrea</origPlace>
+                <diocese>Ivrea</diocese>
+                <province>Milan</province>
+                <country>Italy</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 2208</p>
+                <p>Year: 1315</p>
+                <p>Month: 4</p>
+                <p>Day: 30</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: indiction 12</p>
+                <p>Place: Ivrea</p>
+                <p>Diocese: Ivrea</p>
+                <p>Province: Milan</p>
+                <p>CountryModern: Italy</p>
+                <p>Latitude: 45.466667</p>
+                <p>Longitude: 7.883333</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Alberto Gonzaga</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1288</p>
+                <p>RegnalEnd: 1321</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: ASDI, x/6, HM. 3140000</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Alfonsi, RIcerche sulle costituzioni sinodali del vescovado di Ivrea (secoli XI-XV), tesi di laurea, Universita' di Torino, Facolta' di Giurisprudenza, 1982 (item 2, pp. 117-18)</p>
+                <p>EditionOther: Vignono, Visite pastorali, xxviii (partial)</p>
+                <p>SourceNotes: Previously Arch. Capit. mazzo V, n. 287, notarized act dated 14 October 1325</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['Library Scan', 'Other']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: Inc. Millio. CCCXV. die martis ultimo aprilis; expl. dierum de indulgentia.</p>
+                <p>BiblioRefs: Andenna, Episcopato, 347</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>All Text</head>
+                    <p>Millesimo [1] .CCCXV. die martis ultimo aprilis, presentibus testibus Gerardo Baffo de Cunus, Francisco domino Rubonis de Romano et aliis; de communi uoluntate totius cleri ciuitatis et diocesis iporiensis, ordinatum est quod fiat sinodus omni anno die martis in mane post .XV. pascatis resurreccione Domini et interim cogitetur et deliberetur de habendo manuali cum minori grauamine quo possit haberi et minoribus expensis.</p>
+                    <p>Item deliberatum est quod quilibet rector eclesie perrochialis habeat et teneatur habere constituciones editas per dominum fratrem Albertum episcopum iporiensem et comitem in primcipio sui regiminis et qui non habent faciant eas scribi infra mensem a die publicacionis et deliberacionis prefate.</p>
+                    <p>Item deliberatum est quod in omnibus ecclesiis diocesis iporiensis, religiosorum dumtaxat exceptis fiat officium sicut fit in ecclesia cathedrali et festum Sancti Bessi ab omnibus celebretur et quod quilibet qui celebrauerit festa Sanctorum Martirum patronorum nostrorum Sauini, Bessi, et Teguli, experte dicti domini episcopi gaudeat .XL. dierum de indulgencia.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] ed. Millio</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

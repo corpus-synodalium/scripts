@@ -1,0 +1,192 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Alcala</title>
+                <recordID>0650</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1336-08-02</origDate>
+                <dateNotes/>
+                <origPlace>Alcalá de Henares</origPlace>
+                <diocese>Toledo</diocese>
+                <province>Toledo</province>
+                <country>Spain</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 650</p>
+                <p>Year: 1336</p>
+                <p>Month: 8</p>
+                <p>Day: 2</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: contains material from 1330 &amp; 1332, acc. Sanchez Herrero, Concilios, 197</p>
+                <p>Place: Alcalá de Henares</p>
+                <p>Diocese: Toledo</p>
+                <p>Province: Toledo</p>
+                <p>CountryModern: Spain</p>
+                <p>Latitude: 40.466667</p>
+                <p>Longitude: -3.366667</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Jimeno de Luna</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1328</p>
+                <p>RegnalEnd: 1337</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Synodicon Hispanum, X, 549-553</p>
+                <p>EditionOther: Sanchez Herrero, Concilios, 197-200</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['Library Scan', 'Hard Copy Scan']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Proemium [1].</p>
+                    <p>Eximinus, miseracione diuina archiepiscopus Toletanus, Hispaniarum primas et regni Castelle cancellarius, uenerabilibus et in Christo sibi dilectis decano et capitulo ac uniuerso clero ecclesiarum ciuitatis et diocesis Toletane, salutem in Christo, salutis auctore.</p>
+                    <p>Cum leuamus in circuitu oculos nostros et gregem dominicum sollicitudini nostre commissum undique mentis acie contemplamur, ex debito pastoralis officii uigilem curam impendimus ut cultores uinee Domini sic cultui salutis intendant quod eiusdem uinee uictoriosi palmites, exclusis spinis et tribulis, latius extendantur et fructuosis germinibus amplientur.</p>
+                    <p>Licet igitur graue feramus et merito cum aliqua sinistra nobis de quibusdam personis ecclesiasticis et aliis referuntur, de illis tamen turbamur acerbius qui sunt ad ecclesiarum regimen deputati, cum nonnumquam prebeant per exemplum delinquendi subditis incentiuum.</p>
+                    <p>Proinde talia, que cordi nostro puncturam inferunt et decorem obnubilant fame sue, sub dissimulacione transire salua consciencia nequeuntes, ne incorrecta prestent audaciam committendi peiora, conuocauimus synodum, et intendentes potius ad obseruacionem constitucionum prouincialium et synodalium super corrigendis excessibus et moribus reformandis editarum, quas coram nobis et dicta synodo fecimus recenseri, quam ad multiplicacionem earum, aliquas tamen, ut subsequitur, consulta delibertacione eis duximus annectendas.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>De annua celebracione synodi [2].</p>
+                    <p>Ut ad diuini cultus augmentum et salutem populi, pastor uultum pecoris sui inspiciat, statuimus quod synodus secunda dominica post festum Resurreccionis dominice, uidelicet qua legitur euangelium Ego sum pastor bonus [3], singulis annis apud Toletum celebretur, nisi aliter per nostras litteras duxerimus ordinandum.</p>
+                    <p>Ad quam diem omnes archipresbyteri et uicarii nostre diocesis, et de quolibet archipresbyteratu et uicaria duo clerici, de statu suorum archipresbyteratuum et uicariarum ac ecclesiarum informati, uenire teneantur, eciam non uocati, et constituciones prouinciales et synodales afferre secum non postponant, ac synodo intersint superpelliciis induti.</p>
+                    <p>Non uenientes aut de synodo sine speciali archiepiscopi uel eius locum tenentis licencia ante finem synodi recedentes, tamquam inobedientes ad eius arbitrium puniantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>De particione fructuum beneficii cum moritur beneficiatus [4].</p>
+                    <p>Quoniam plerumque accidit quod clerico beneficiato decedente, super fructibus beneficii inter successorem et consanguineos defuncti questionis materia suborta, uariis et diuersis consuetudinibus allegatis, inuicem se uexant laboribus et expensis, et successor, propter facultatum ipsius ecclesie insufficienciam, cogitur mendicare.</p>
+                    <p>Statuimus quod quandocumque clericus ipse decesserit, pro rata temporis quo uixerit fructus sui beneficii percipiat, residuum uero futuro successori applicetur, quauis contraria consuetudine non obstante, et constitucionibus [5] bone memorie domini Gundissalui et domini Gundissalui, quondam archiepiscoporum Toletanorum predecessorum nostrorum, que incipiunt Ut morientium uota et Cum bone memorie [6], in suo robore duraturis.</p>
+                    <p>Annum quoque in kalendis Ianuarii uolumus inchoari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>De feriis.</p>
+                    <p>Cum ocia fomentum pariant uiciorum, festiuitatum multitudinem duximus temperandam, cum in illis, eo quod non laborant, pauperes aggrauantur et ociosi ac deliciosi ad illicita prouocantur.</p>
+                    <p>Quare festiuitates necessario colendas subnotauimus, quas qui contempserit colere, per suum presbyterum compellatur.</p>
+                    <p>Festum scilicet:</p>
+                    <p>Circumcissionis Domini</p>
+                    <p>Epiphanie</p>
+                    <p>Beati Uincentii</p>
+                    <p>Illefonsi</p>
+                    <p>Purificacionis beate Marie</p>
+                    <p>Cathedre sancti Petri</p>
+                    <p>Sancti Mathie apostoli</p>
+                    <p>Annunciacionis beate Marie</p>
+                    <p>Resurreccionis Domini, cum feria secunda et tercia</p>
+                    <p>Sancti Marchi euangeliste</p>
+                    <p>Apostolorum Philipi et Iacobi</p>
+                    <p>Inuencionis sancte Crucis</p>
+                    <p>Ascensionis Domini</p>
+                    <p>Pentecostes cum duobus diebus sequentibus</p>
+                    <p>Corporis Domini</p>
+                    <p>Barnabe apostoli</p>
+                    <p>Natiuitatis beati Iohannis Baptiste</p>
+                    <p>Apostolorum Petri et Pauli</p>
+                    <p>Triumphi sancte Crucis</p>
+                    <p>Marie Magdalene</p>
+                    <p>Sancti Iacobi apostoli</p>
+                    <p>Sancti Petri Ad uincula</p>
+                    <p>Transfiguracionis Domini, eodem die sanctorum Iusti et Pastoris</p>
+                    <p>Beati Laurentii</p>
+                    <p>Assumpcionis beate uirginis Marie</p>
+                    <p>Sancti Bartholomei apostoli</p>
+                    <p>Natiuitatis beate Uirginis</p>
+                    <p>Exaltacionis sancte Crucis</p>
+                    <p>Beati Matthei apostoli</p>
+                    <p>Dedicacionis beati Michelis</p>
+                    <p>Sancti Luche euangeliste</p>
+                    <p>Apostolorum Simonis et Iude</p>
+                    <p>Sollemnitatis Omnium Sanctorum</p>
+                    <p>Sancti Martini</p>
+                    <p>Sancti Eugenii</p>
+                    <p>Sancte Catharine</p>
+                    <p>Sancti Andree apostoli</p>
+                    <p>Sancti Nicholai</p>
+                    <p>Sancti Thome apostoli</p>
+                    <p>Expectacionis beate Marie</p>
+                    <p>Natalis Domini</p>
+                    <p>Sancti Stephani</p>
+                    <p>Sancti Iohannis euangeliste</p>
+                    <p>Sanctorum Innocentium</p>
+                    <p>Et omnes dies dominicos.</p>
+                    <p>Et quelibet parrochia obseruet festiuitatem illius sancti in cuius honorem eius maior ecclesia est constructa.</p>
+                    <p>Officium uero harum predictarum festiuitatum et aliarum, siue sint nouem siue trium leccionum, prout hactenus fieri consueuerunt in ecclesiis a clericis obseruentur.</p>
+                    <p>Et ad audiendum officia laici nichilominus moneantur.</p>
+                </div>
+                <div>
+                    <head>Explicit</head>
+                    <p>Datum Alcale, Toletane diocesis, iiii. nonas Augusti, anno Domini millesimo trecentesimo tricesimo sexto, sub sigilli nostri appenssione.</p>
+                    <p>Eximinus.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] &lt;Proemium&gt;</p>
+                    <p>[2] Seccion title in brackets</p>
+                    <p>[3] From Ego sum in quotacion marks</p>
+                    <p>[4] Seccion title in brackets</p>
+                    <p>[5] &lt;et constitucionibus&gt;</p>
+                    <p>[6] Ut morientium uota and Cum bone memorie in quotacion marks</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

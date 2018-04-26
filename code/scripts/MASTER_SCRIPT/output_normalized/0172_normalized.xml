@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Chartres</title>
+                <recordID>0172</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1355</origDate>
+                <dateNotes/>
+                <origPlace>Chartres</origPlace>
+                <diocese>Chartres</diocese>
+                <province>Sens</province>
+                <country>France</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 172</p>
+                <p>Year: 1355</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Chartres</p>
+                <p>Diocese: Chartres</p>
+                <p>Province: Sens</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 48.455847</p>
+                <p>Longitude: 1.484184</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Louis de Vaucemain</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Martene, Vet Script, 7, coll 1366-67</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Data Capture']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>NOs uicarii et commissarii in hac parte a domino domino L. miseracione diuina Carnotensi episcopo deputati in presenti sancta synodo moniciones, inhibiciones, reuocaciones, et precepta que sequuntur edidimus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>Quod frustra essent iura, nisi ea tenerentur, et eatenus a sanctis patribus nonnulla statuta prouincialia et synodalia iuri consona fuerunt facta, per que tam ecclesiastici quam commissi eis habent regi.</p>
+                    <p>Que quidem statuta circa baptismata, matrimonium, et alia ecclesiastica sacramenta, necnon circa regimen et ordinacionem status ecclesiastici et mundani plura sunt necessaria, que singuli abbates, decani rurales et ecclesiarum curati sub certis penis in eisdem contentis habere et seruare tenentur; que eciam annis singulis ab omnibus haberi precipimus et obseruari.</p>
+                    <p>Et quia experiencia nouimus, quod pauci ea habent et seruant, ex quo plura illicita et inconueniencia committuntur, et debita omittuntur, non absque graui culpa predictorum: quin immo cum annis singulis sancta synodus celebratur, nonnulli abbates, decani rurales, et ecclesiarum curati ad eam uenire non curant, et eorum qui ueniunt secum ad ea que aguntur uacant, alii per ecclesiam colloquendo, alii per uillam ad mercaturas, et alia opera illicita et inhonesta discurrunt, et illicenciati recedunt: nescientes nec curantes quid in synodo fuerit ordinatum, adeo quod magis confusio quam synodus dici possit, nec noticia haberi potest, qui presentes fuerint uel absentes, nec parentibus obediencia prodesse, uel non parentibus contumacia potest obesse.</p>
+                    <p>Idcirco nos uolentes talibus obuiare et de remedio prouidere, monemus peremtorie in his scriptis omnes et singulos abbates, decanos rurales, et ecclesiarum curatos sub pena contumacie, quod omnes et singuli coram nobis uel mandato nostro in curia nostra compareant personaliter antequam recedant, ut scire possimus qui uenerint, et qui non; alioquin omnes et singulos qui recesserint, reputamus contumaces.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>
