@@ -1,0 +1,66 @@
+/* Global */
+
+p {
+    font-size: 1.1em;
+    line-height: 1.7em;
+    margin-bottom: 25px;
+}
+
+
+/* nav-bar */
+
+.nav-link {
+    font-size: 1.1em;
+}
+
+.dropdown-menu {
+    font-size: 1.1em;
+    position: absolute;
+    will-change: transform;
+    top: 0px;
+    right: 0px;
+    transform: translate3d(0px, 38px, 0px);
+}
+
+#navigation {
+    padding-right: 3%;
+}
+
+
+/* text */
+
+#text-body {
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+
+/* footer */
+
+footer {
+    padding: 10px 0;
+    margin-top: 50px;
+    text-align: center;
+    color: #fff;
+}
+
+footer p {
+    font-size: 1.2em;
+    margin: 0.5rem;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+footer a {
+    color: #fff;
+}
+
+footer a:hover {
+    color: #ecaf45;
+    text-decoration: none;
+}
+
+footer .love {
+    color: red;
+}
