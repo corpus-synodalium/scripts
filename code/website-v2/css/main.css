@@ -9,6 +9,11 @@ p {
 
 /* nav-bar */
 
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
 .nav-link {
     font-size: 1.1em;
 }
@@ -34,6 +39,7 @@ p {
     font-size: 18px;
     padding-left: 15%;
     padding-right: 15%;
+    min-height: calc(100vh - 145px); /* (65 + 20)px + 60px for nav */
 }
 
 
@@ -41,7 +47,7 @@ p {
 
 footer {
     padding: 10px 0;
-    margin-top: 50px;
+    height: 65px;
     text-align: center;
     color: #fff;
 }
