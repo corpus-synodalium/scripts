@@ -6,6 +6,15 @@ p {
     margin-bottom: 25px;
 }
 
+.bg-primary {
+    background-color: #175e54 !important;
+}
+
+.btn-primary {
+    background-color: #175e54 !important;
+    border-color: #175e54 !important;
+}
+
 
 /* nav-bar */
 
@@ -63,10 +72,15 @@ footer a {
 }
 
 footer a:hover {
-    color: #ecaf45;
+    color: #F3E801;
     text-decoration: none;
 }
 
 footer .love {
     color: red;
+}
+
+.btn:hover {
+    color: #F3E801;
+    text-decoration: none;
 }
