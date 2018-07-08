@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sion</title>
+                <recordID>0373</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate precision="circa">1219</origDate>
+                <dateNotes/>
+                <origPlace>Sion</origPlace>
+                <diocese>Sion</diocese>
+                <province>Tarentaise</province>
+                <country>Switzerland</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 373</p>
+                <p>Year: 1219</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: Yes</p>
+                <p>DatingNotes: dating given by Gremaud and upheld by Morenzoni, despite objections by some others (incl. Treyer), who push it to 1233 or later</p>
+                <p>Place: Sion</p>
+                <p>Diocese: Sion</p>
+                <p>Province: Tarentaise</p>
+                <p>CountryModern: Switzerland</p>
+                <p>Latitude: 46.227778</p>
+                <p>Longitude: 7.358611</p>
+                <p>PlaceNotes: aka Sitten</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Landri de Mont</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1206</p>
+                <p>RegnalEnd: 1236</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Gremaud, Documents, 29, 210-222 [no 282]</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: https://books.google.com/books?id=MGmoF8riCdUC</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Data Capture']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>All Text</head>
+                    <p>In nomine Dni. MoCCCoLXXo, die uero VI mensis iunii, nos Gichardus Dei et apostolice sedis gracia episcopus Sedun., ad honorem Dei, beate Uirginis matris eius, beati Theodoli, tociusque curie celestis, wulneribus populi, cuius regimen licet indignis contulit Deus nobis, mederi decencius cupientes, statutam nostram synodum mandauimus celebrare, qua die presentibus capitulo nostro, scilicet Willermo cantore Sedun., Aimone Binfa, Iacobo de Bona, Heinrico de Blanchis, Petro Coci, Hugone Pascalis, Iohanne de Brusatis, Petro Tauelli et Petro de Moinos, prioribus, curatis, uicariis, beneficiatis et aliis ecclesiarum rectoribus nostre Sedun. diocesis, exceptis excusatis causis iustis et precedentibus minus iustas, dictam sanctam synodum celebrantes, constituciones editas synodales per predecessores nostros et nos in aliis synodis confirmamus, aliqua, sicut sequitur, adiungendo, nouiterque faciendo.</p>
+                    <p>Et in primis cum per predecessores nostros et nos plures facte fuerant constituciones iustis causis contra tenentes mulieres suspectas, quibas, nec in aliis, in presenti synodo, in quantum constituimus, per presentem intendimus nullatenus derogare, sed eas pocius confirmamus, statuimus, ordinamus quod infra VII dies quicumque beneficiatus ordinatus nostre diocesis, cuiuscumque status uel condicionis existat, tenens mulierem suspectam in hospicio suo uel extra sibi uictum et uestitum ministrando, eam dimittat et abiciat ab eo, ne malum exemplum peccandi laicis parochianis prebeatur et ut Deo mundius seruiatur, alias sentenciam excommunicacionis incurrat, dictorum septem dierum canonica monicione premissa, quam si per mensem sustinuerint animo indurato, per nos seu successores nostros suis beneficiis sit priuandus. Nam a multis perpendimus laicos de talibus tenentibus mulieres suspectas derisiones facere, necnon, quod peius est, ad pecandum exemplis clericorum consimiliter iam inductos, in perniciem tocius cleri dinoscitur redundare.</p>
+                    <p>Item quam reuerenter et quam munde panis in uerum corpus Christi conuertendus et consecrandus fieri debeat et tractari, nullus est sane mentis qui ignoret. Cum igitur ad istam diocesim ab ignotis forsitan, pro dolor, et immundis aportentur et emantur communiter hostie consecrande, salubre remedium apponentes, tutuimus et ordinamus quod de cetero nullus in nostra diocesi consecrare debeat hostias que non facte fuerint per sacerdotem electum per nos seu successores nostros et ad istud confeccionis hostiarum officium constitutum, qui dare debeat XXV de paruis hostiis et XXti de magnis pro uno den. Maur.; qui alias attentauerit, acceptauerit et fecerit, penam quinque sol. incurrat, quos nobis soluere debeat infra decem dies sequentes ipsum actum, alias sentenciam excommunicacionis incurrat, dictos decem dies quod [l. pro][1] canonica monicione prefigentes. Presentem tamen constitucionem lapsis duobus mensibus dumtaxat uendicare uolumus sibi locum.</p>
+                    <p>Officialis curatus [l. curie][2] Sedun. curatis sine uicariis de Conches, de Aragnon, de Morgia, de Uespia et prioribus seu uicariis de Castellione, de Leuca, salutem in Dno sempiternam. Cum pro eo quod partem cedentem paroschianis uestris pro quantitate debita dnis de Monte Ioueto racione fideiussionis facte dno comiti Sabaudie de quantitate seu parte quantitatis sibi promisse pro defensione seu utilitate patrie Uallesii non soluebant, ad quam quantitatem contribuere tenentur parochiani uestri, qua de causa, quia non contribuebant, guerrarum calempnitates patria Uallesii, maxime communitates a Narres inferius uerisimiliter formidabant, in parochiis uestris cessum diuinarum teneri mandauerimus et pariter interdictum, nunc autem parentur contra patriam istam bella magna, quia tota quantitas debita non soluitur, nec de fideiussionibus dandis comiti curat ipse, sed uult habere totam integram quantitatem, que si punctualiter solueretur, pax perpetua cum dicto dno comite firmiter creditur obtineri. Quare dictis guerrarum periculis imminentibus patenter euitabitur, si soluatur, et atento quod fuerunt dicti uestri parochiani in mora diucius persoluendi, quodcumque crescente contumacia crescere debeat et pena, mandamus uobis in uirtute sancte obediencie et sub pena excommunicacionis quam in uos et uestrum quemlibet ferimus, nisi feceritis quod mandamus, quatenus dictos parochianos uestros qui non soluerint, moneatis ut infra quindenam Iohannis Baptiste dictam porcionem et partem eis contingentem de quantitate indicta discenis terre Uallesii causa dicte quantitatis promisse sic apportent, quod cum aliis communitatibus persolui ualeatis, pax habere et guerrarum calampnitates euitari, alias cessu diuinorum et interdicto, prout nunc est, remanente, dictos non apportantes ad soluendum, quos ex nunc prout ex tunc et ex tunc prout ex nunc excommunicacionibus in hiis scriptis excommunicamus publice nunc, cum intimacione quod si predicta sustineant aliquandiu animo indurato, contra eos, quantum ius pacietur, ulterius procedemus. Item cum intelleximus aliquos, Dei timore postposito, suarumque animarum salutem non curantes, cessum et interdictam appositum uiolasse in cimiteriis interdictis cadauera hominum immittendo, portasque ecclesiarum locorum fenestrando et perforando et corpus Christi in dampnum animarum suarum uidendo per foramina et fenestras, necnon sanis uiaticum seu eucharistiam ministrando, mandamus uobis in uirtute sancte obediencie et sub excommunicacionis pena quam in uos ferimus, nisi feceritis quod mandamus, quatenus moneatis predictos qui cadauera infra cimiteria interdicta immiserunt, ut ipsi infra quindenam proximam festi beati Iohannis Baptiste dicta cadauera manibus propriis exhumant et extra cimiteria reponant, dictos eciam perforantes et fenestrantes nouas portas ecclesiarum reficiant et reponant suis propriis sumptibus et expensis, et idem dicimus de fenestris ecclesiarum fractis et perforatis causa predicta, et qui ministrauerunt eucharistiam sanis, ut ad satisfaccionem et nunam [? -ed] condignam proueniant, alias ipsos predictos quos ex nunc prout ex tunc et ex tunc prout ex nunc excommunicacionibus in hiis scriptis excommunicatos a nobis publice nuncietis, quem eisdem duximus prefigendum. Datum Seduni, die VI mensis iunii, anno Dni Mo.CCCo.LXXo, et eadem per nos dictum officialem in sancta synodo publicatum.</p>
+                    <p>Item cum statutum sit in constitucione nouella summi pontificis dni Bonifacii pape VIII quod omnes et singuli iuridicionem ecclesiasticam impedientes in casibus in quibus ecclesiastici iudices de iure uel de consuetudine consuerunt iudicare, sunt excommunicati ipso iure, precipimus ut per curatos, uicarios singularum ecclesiarum hoc salubre statutum saltim semel in mense wlgaliter in presencia populi publicetur, et nunc preceptum est nobis [l. uobis][3] in sancta synodo omni septimana per officialem, ne transgressores pretextu ignorancie a pena statuta se ualeant excusare, quam ex quo uetiti fuerint, eos dignum est sustinere.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

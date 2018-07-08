@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verona</title>
+                <recordID>1839</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1192-09-01</origDate>
+                <dateNotes/>
+                <origPlace>Verona</origPlace>
+                <diocese>Verona</diocese>
+                <province>Aquileia</province>
+                <country>Italy</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Other</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 1839</p>
+                <p>Year: 1192</p>
+                <p>Month: 9</p>
+                <p>Day: 1</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Verona</p>
+                <p>Diocese: Verona</p>
+                <p>Province: Aquileia</p>
+                <p>CountryModern: Italy</p>
+                <p>Latitude: 45.433333</p>
+                <p>Longitude: 10.983333</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Other</p>
+                <p>IssuingAuthority: Adelardo II</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1188</p>
+                <p>RegnalEnd: 1214</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: Acta giving summary of diocesan statutes issued at synod, rather than statutes proper</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Bellotti, RIcerche intorno alle costituzioni, 51-52</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['Library Scan', 'Hard Copy Scan']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>All Text</head>
+                    <p>S. T. Die Martis primo intrante septembri, in Uerona, in palacio domini Adelardi sacrosancte Romane Ecclesie Cardinalis ac Ueronensis Episcopi, in presencia domini Adriani archipresbyteri Ueronensis Ecclesie, dompni Ugonis abbatis monasterii sancti Zenonis, magistri Benenati archipresbyteri plebis Grezane, domini Lanfranci archipresbyteri sancti Petri de Castro Uerone, magistri Girardi archipresbyteri sancti Iohannis in Ualle, presbyteri Otonis sancti Faustini, magistri Danioti sancti Thome, domini Tebaldi sancti Sebastiani, presbyteri Ferreti sancti Stefani, presbyteri Wilielmi sancte Marie in Clauega, presbyteri Iohannis sancte Marie Antique et aliorum plurium presbyterorum et clericorum.</p>
+                    <p>Ibique suprascripta dominus Episcopus precepit sub pena excomunicacionis quod nullus clericus de ciuitate Uerone neque de toto episcopatu Uerone hinc in antea ludent cum taxillis neque cum scachetis, et si quis hoc fecerit inde in antea, sit excomunicatus.</p>
+                    <p>Hoc facto, dominus Petrus de Placencia, tituli sancte Cecilie presbyter Cardinalis, tunc apostolicas sedis Legatus, omnia suprascripta confirmauit.</p>
+                    <p>Et insuper suprascriptas dominus Petrus Cardinalis, sub pena excomunicacionis precepit quod nullus clericus de ciuitate Uerone neque de toto episcopatu Uerone, hinc in antea portet arma interdicta, nec portet uestimenta de rubeo colore, neque de zaino, neque de uiride ; et si quis fecerit inde in antea sit excomunicatus.</p>
+                    <p>Die Mercurii secundo intrante septembri in suprascripta palacio, in presencia dompni Ugonis abbatis sancti Zenonis, dompni Nerroti et dompni Corradi sancti Georgii in Braida Canonicorum, presbyteri Otonis sancti Faustini, presbyterorum Zenonis et Boni sancti Laurentii, presbyteri Nigri sancti Siri, magistri Girardi archipresbyteri sancti Iohannis in Ualle, domini Lanfranci archipresbyteri sancti Petri de Castro Uerone, presbyteri Bonitemporis eiusdem ecclesie, magistri Benenati archipresbyteri plebis Grezane, magistri Alberici plebis Calauene, presbyteri Otonis sancte Marie ad Fratas.</p>
+                    <p>Ibique suprascriptas dominus Petrus Cardinalis cum suprascripta domino Ueronensi episcopo, extinctis candelis, excomunicauere et anathematizauere Roubadanum de Capris et Fidelem et Preuedum medicos, qui manent in domo domine Imillole, pro heresi in qua ipsi erant, et omnes illas personas que dant eis uel dabunt auxilium uel consilium siue hospicium et que facient mercatum cum eis.</p>
+                    <p>Acta fuerunt hec in suprascriptis locis.</p>
+                    <p>Anno a Natiuitate Domini millesimo centesimo nonagesimo secundo, indiccione decima.</p>
+                    <p>S. T. Ego Bonawisa Domini Federici Romanorum Imperatoris Notarius interfui et hanc cartam rogatus scripsi et subscripsi [1].</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] Ed. &quot;(?)&quot;</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

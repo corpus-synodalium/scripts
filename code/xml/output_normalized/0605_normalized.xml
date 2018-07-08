@@ -1,0 +1,129 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lisbon</title>
+                <recordID>0605</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1264-03-26</origDate>
+                <dateNotes/>
+                <origPlace>Lisbon</origPlace>
+                <diocese>Lisbon</diocese>
+                <province>Braga</province>
+                <country>Portugal</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 605</p>
+                <p>Year: 1264</p>
+                <p>Month: 3</p>
+                <p>Day: 26</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Lisbon</p>
+                <p>Diocese: Lisbon</p>
+                <p>Province: Braga</p>
+                <p>CountryModern: Portugal</p>
+                <p>Latitude: 38.713811</p>
+                <p>Longitude: -9.139386</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Mateus</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Synodicon Hispanum, 2, 300-302</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['Library Scan', 'Hard Copy Scan']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Iste sunt constituciones domini Matthei Ulixbonensis episcopi edite in synodo celebrata Ulixbone in sequenti die post festum beate Marie de Março, era m. ccc. ii.</p>
+                    <p>Omnes constituciones per predecessores nostros hactenus promulgatas confirmamus et approbamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>De prohibicione baculi et portarii.</p>
+                    <p>Prohibemus sub excomunicacione ne aliquis subditus ecclesie Ulixbonensis utatur baculo uel portario domini regis in hiis que ad forum ecclesiasticum spectant absque nostra licencia speciali.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>De confessionibus.</p>
+                    <p>Precipimus omnibus rectoribus et uicariis ecclesiarum quod deputent sacerdotes idoneos qui audiant confessiones et intersint testamentis parrochianorum suorum.</p>
+                    <p>Item, statuimus quod cum parrochianus alicuius ecclesie condiderit testamentum absque presencia proprii rectoris uel sacerdotis deputati ab eo ad hoc, ecclesia cuius est ille parrochianus succedat in tercia tercie bonorum defuncti quasi ab intestato.</p>
+                    <p>Inhibemus sub pena excomunicacionis ne aliquis parrochianum alienum recipiat ad diuina diebus dominicis et festiuis.</p>
+                    <p>Item, precipimus quod si quis in illa egritudine de qua decesserit non fuerit confessus proprio sacerdoti qui eum ligare de iure potest et absoluere ei, nisi in neccessitate, sepultura ecclesiastica denegetur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>De parrochiis non limitatis.</p>
+                    <p>Item, diffinimus et statuimus parrochias non limitatas per predia per nos extra ciuitatem et castra Ulixbonensis diocesis, esse per predia limitandas, ita quod parrochiani qui in ciuitate uel castris morati fuerint, teneantur solummodo ad solucionem decimarum personalium si predia habuerint in parrochia aliena.</p>
+                    <p>De prediis autem soluant illis ecclesiis in quarum sunt parrochia limitata.</p>
+                    <p>Hoc idem statuimus et diffinimus esse seruandum in parrochiis limitatis quod decime sint personales et prediales sicut superius est diffinitum.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

@@ -1,0 +1,216 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Arles</title>
+                <recordID>1906</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1234-07-10</origDate>
+                <dateNotes/>
+                <origPlace>Arles</origPlace>
+                <diocese>Arles</diocese>
+                <province>Arles</province>
+                <country>France</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Provincial</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 1906</p>
+                <p>Year: 1234</p>
+                <p>Month: 7</p>
+                <p>Day: 10</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Arles</p>
+                <p>Diocese: Arles</p>
+                <p>Province: Arles</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 43.6767</p>
+                <p>Longitude: 4.6278</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Provincial</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Gallia christiana novissima, Arles, cols. 382-85, no. 988</p>
+                <p>EditionOther: Mansi, 23, cols. 335-342</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'WebDownload']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: Note at end of MS: &quot;Precedentia statuta, excepto statuto de usuris judeorum, fuerunt renovata [a] predicto domino Johanne, in concilio Arelatensi, anno Domini M.CC.XXX.VI, scilicet iii. ydus novembris.&quot; [i.e. all statutes reconfirmed in council of 1236 **except those concerning the Jews]</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>CONCILIUM DOMINI IOHANNIS CELEBRATUM ANNO DOMINI MCCXXXIIII. VI. IDUS IULII.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>Quoniam ex obedientie debito constituciones Romanorum pontificum tenemur fideliter obseruare, mandamus omnibus suffraganeis nostris et districte precipimus, ut canonicas regulas et statuta consilii Lateranensis secundi a domino papa Innocencio III promulgata diligenter obseruent, et a suis subditis faciant obseruari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>Item, presentis approbacione concilii, duximus statuendum ut quilibet episcopus, in sua diocesi, frequenter fidem predicet orthodoxam, et cum expediet, ut per alias onestas et discretas personas faciat predicari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>Item statuimus quod quilibet episcopus moneat efficaciter et inducat, et si necesse fuerit, per Deum eos compellat, potentes, castellanos, consules eciam ciuitatum, et aliorum locorum dominos et rectores, quibuscumque fungantur officiis, ut sicut reputari cupiunt et haberi fideles, ita pro defensione fidei prestent publice iuramentum, quod de terris sue iurisdiccioni subiectis uniuersos hereticos ab ecclesia denotatos, bona fide, pro uiribus exterminare studebunt.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>Item, statuimus ut singulis diebus dominicis et festiuis publice excommunicentur ei anathematizentur, pulsatis campanis et extinctis candelis, omnes heretici quibuscumque nominibus censeantur, credentes, receptatores, defensores et fautores eciam eorumdem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>Item, ut plenius exterminari ualeat heretica prauitas, statuimus ut singulis parochiis, tam in ciuitatibus quam extra, quibus episcopus sacerdotem unum, uel duos uel tres bono opinionis laicos, uel plures si opus fuerit, iuramenti religione constrigat quod diligenter et sollicite inuestigant, si quos ibi reperierint hereticos, credentes, fautores, defensores et receptatores eorum, et ipsi episcopo, rectoribus ciuitatum, et dominis locorum, et baiulis eorumdem, cum omni studeant festinancia intimare, ut eos puniant secundum canonicas et legitimas sancciones ; nichilominus bona hereticorum omnia confiscantes, hiis tamen qui incarcerari debent, ad arbitrium episcopi, sufficienti prouisione retenta.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>Item, sicut audiuimus, quidam heretici in Aralatensi prouincia constituti, qui metu mortis ad catolicam ecclesiam reuertentes, nec non et plures alii de heretica prauitate conuicti, ad errorem prauitatis eiusdem, quam a se penitus abdicasse uidebantur, ut grauius scindere ualeant catolicam unitatem, sepius reuertuntur ; unde, ne per tales, sub ficta conuersionis specie, catolice fidei professores perniciosius corrumpi contingat, omnibus suffraganeis nostris, auctoritate domini pape, et nostra, districte precipimus ut heretici pestilentes, postquam de prauitate fuerint iam conuicti, si aliter puniti non fuerint, iuxta quod eorum quilibet in sua diocesi, ut ipsis det uexacio intellectum, in carcere perpetuo detrudere non postponant ; de bonis ipsorum, si qua fortassis habent, uite sibi necessaria prout talibus conuenit, ministrando.</p>
+                    <p>Dampnati per ecclesiam de heretica prauitate, si conuerti noluerint, seculari iudicio relinquantur, animaduersione debita puniendi, sicut dominus papa statuit hereticos, iudicamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>Item, mandamus quod pax seruetur per totam Arelatensem prouinciam, prout in statutis pacis euidencius continetur.</p>
+                    <p>Insuper hoc omnibus suffraganeis nostris, et aliis ecclesiarum prelatis, auctoritate presenti concilii iniungentes, quod de pace tenenda et cen. ei. fideliter obseruanda, et de plenitudine iudicio exibenda, mutuum sibi prestent ad inuicem concilium et iuuamen.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>Item, quia propter coniuraciones et conspiraciones que confrairie uocantur, in ciuitatibus, uillis et castris, quam multe discordio et discencionis materie suscitantur, auctoritate presentis concilii, sub interminacione anathemati prohibemus, ne in uillis, ciuitatibus et castris fiant de cetero confratrie, nisi de uoluntate diocesani episcopi, propter urgentem et euidentem utilitatem, id fiat, et si que actenus facte sunt, causa cognita, ad diocesani arbitrium destruantur, possessionibus ipsarum aliis piis locis, secundum diocesani arbitrium, deputatis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>Item, statuimus quod si quis, propter dampnum datum uel iniuriam irrogatam, excommunicacionis uinculo fuerit innodatus, non tamen absolucionis beneficium mereatur optinere ipse qui dampnum dedit uel iniuriam irrogauit, quam pro posse suo satisfaciat competenter.</p>
+                    <p>Quod si absque satisfaccione debita fuerit absolutus, absoluens iuxta superioris arbitrium puniatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>Item statuimus, quod si quis post mortem detectus fuerit in secta seu credencia hereticorum decessisse, si eorum corpora uel ossa ab aliis discerni potuerint, extumulentur et seculari iudicio relinquantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>Item statuimus ut nulle laico persone, nomine suo uel alterius, ecclesia uel ecclesiasticum beneficium concedatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>Eciam auctoritate presentis concilii prohibemus ne quis in aliquem excommunicacionis sentenciam, nisi competenti admonicione premissa, et presentibus personis idoneis, per quas si neccesse fuerit possit probari admonicio, promulgare presumat.</p>
+                    <p>Excommunicatus autem, si satisfacere contempserit infra mensem, non ante absolucionis consequitur beneficium quam pro singulis mensibus soluat pro pena solidos quinquaginta, quorum medietatem dominus temporalis percipiat, alia uero medietas ad pias causas diocesano reseruetur episcopo dispensanda.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>Item, mandamus omnibus suffraganeis nostris et districte precipimus, ut in corrigendis excessibus et moribus reformandis, presertim in clero, curam et sollicitudinem cum Dei timore habeant diligentem, per singulas dioceses statuendo personas idoneas, prouidas et honestas, que sollicito inuestigent que correccione uel reformacione inuenerint esse digna, et ea diocesano episcopo studeant intimare.</p>
+                    <p>Quod si diocesanus negligens fuerit in correccione, ipsi referre ad prouinciale concilium non postponant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>Item, statuimus ut in qualibet synodo et singulis diebus dominicis et festiuis, excommunicentur usurarii et adulteri manifesti, diuini et sortilegii, et omnes ad eorum diuinacionem uel sortilegium scienter accedentes.</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>Item, decernimus quod Iudei masculi, a xiiii. annis et supra, deferant extra domos, in superiori ueste, in pectore, signum celle, latitudinis trium uel iiii digitorum, nisi sint in uiagio constituti.</p>
+                    <p>Mulieres autem iudee, a xii. annis et supra, oralia deferant extra domos.</p>
+                    <p>Si uero iudei quicumque pretextu contrafecerint, christianorum eis participium denegetur.</p>
+                    <p>Hac eadem pena iudeos decernimus compellendos ad satisfaciendum ecclesiis, pro decimis et oblacionibus de domibus et possessionibus quas noscuntur in ipsis parrochiis possidere.</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>Item, hoc duximus statuendum, quod si priuilegiati [1] sentencias prelatorum et censuram ecclesiasticam duxerint eneruandas, et eis possit propter hoc plerumque iusticia denegari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 17</head>
+                    <p>Item, cum teneamur iura suffraganeorum nostrorum deffendere et seruare, uolumus et mandamus omnibus suffraganeis nostris, ut regalia Beati Trophimi ad ecclesiam Arelatensem pertinencia, pro posse suo, deffendant utiliter et potenter, secundum quod in priuilegiis Romano- rum Imperatorum eidem ecclesie est concessum, quorum priuilegiorum transcriptum, uel saltem transcriptum priuilegii Colradi, unusquisque habeat et transcribat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18</head>
+                    <p>Item, statuimus ut quelibet ruralis ecclesia proprium habent sacerdotem, uel saltim iuxta disposicionem diocesani episcopi ecclesie deseruiatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 19</head>
+                    <p>Item, statuimus quod episcopi et alii prelati curam animarum habentes, in decimis, primiciis, legatis, uel relictis cappellanis uel monasteriis, uel aliis piis locis, et in aliis iuribus ecclesiasticis, iura communi utantur, et procedant secundum canonicas sancciones.</p>
+                </div>
+                <div>
+                    <head>Capitulum 20</head>
+                    <p>Item, quoniam pro certo didicimus quod credentes hereticorum, fautores, defensores et receptaturos eorum, in testamentis, hereticis actenus legauerunt, de consilio presentis concilii, prohibemus ne quis siue presencia rectoris uel cappellani sue parrochialis ecclesie, presumat condere testamentum, uel testis interesse, nisi periculum sit.</p>
+                    <p>Quod si tabellio tali testamento presumpserit interesse, ipso facto excommunicacionis se nouerit incurssurum.</p>
+                    <p>Et st testator taliter decesserit, sine licencia diocesani episcopi, non tradatur ecclesiastice sepulture.</p>
+                    <p>Quod si testator ea que legauit pro anime sue redempcione non diuiserit, sed aliquorum disposicioni commiserit diuidenda, illi sine consilio diocesani uel eius locumtenentis, uel rectoris ecclesie parrochialis, si illi de facili haberi non possunt, legata diuidere non presumant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 21</head>
+                    <p>Item, statuimus ne aliqua pedagia, uel salinaria, per Arelatensem prouinciam accipiantur, nisi que apparent imperatorum, uel regum, uel principum, uel Lateranensis concilii largicione concessa, uel ex antiqua consuetudine, a tempore cuius non extat memoria, introducta.</p>
+                    <p>Quod si aliquis contra hoc fecerit, et infra mensem non destiterit, ex tunc per censuram ecclesiasticam desistere compellatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 22</head>
+                    <p>Item, sub interminacione anathematis prohibemus ne aliquis Arelatensis prouincie super decimis uel aliis iuribus debitis ecclesiasticis parrochialibus, cum aliquibus religiosis componere audeat, sine auctoritate diocesani episcopi, uel ius uni ecclesie debitum alteri audeat assignare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 23</head>
+                    <p>Item, statuimus quod nullus ecclesiastico beneficio iam adepto, sine cause cognicione, a prelato suo aliquatenus spolietur.</p>
+                    <p>Quod si spoliatus infra mensem non fuerit restitutus,ex tunc, cum de spoliacione constiterit, superior, ex officio suo, spoliatum restituere non postponat.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] MS priuiliati</p>
+                    <p>[2]</p>
+                    <p>[]</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

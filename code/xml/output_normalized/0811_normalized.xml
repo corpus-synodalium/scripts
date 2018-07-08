@@ -1,0 +1,120 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Angers</title>
+                <recordID>0811</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1271</origDate>
+                <dateNotes/>
+                <origPlace>Angers</origPlace>
+                <diocese>Angers</diocese>
+                <province>Tours</province>
+                <country>France</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 811</p>
+                <p>Year: 1271</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: Saint Luke</p>
+                <p>Place: Angers</p>
+                <p>Diocese: Angers</p>
+                <p>Province: Tours</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 47.473612</p>
+                <p>Longitude: -0.554167</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Nicolas Gellent</p>
+                <p>IssuingAuthorityAlt: Nicholaus Gelant</p>
+                <p>RegnalStart: 1260</p>
+                <p>RegnalEnd: 1291</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Avril, Statuts, III, 106-109</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: Hard Copy Scan</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Idem Nicholaus in synodo sancti luce anno domini Mo CCo septuagesimo primo.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>Ne clerici se obligent per litteras secularium.</p>
+                    <p>Cum a bone memorie Michele predecessore nostro statutum fuerit quod nullus clericus, seu aliqua alia persona ecclesiastica, alicui se obliget per litteras cuiusque iudicis secularis, nos statutum predictum innouantes, illud in diocesi Andegauensi precipimus obseruari.</p>
+                    <p>Si qui uero contrarium in posterum fecerint, littere per quas se obligauerint per iudices ecclesiasticos execucioni nullatemus demandentur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>De processionibus publicis.</p>
+                    <p>Quia culpa est rei miscere ad se minime pertinenti et falcem suam in messem ponere alienam, et processionum publicarum imposicio diocesani officio competere dignoscitur, inhibemus, sub pena excommunicacionis, ne aliqua persona Andegauensis diocesis ecclesiastica, uel eciam secularis, processiones publicas imponat persone alicui publice faciendas.</p>
+                    <p>Item presbiteris et capellanis ecclesiarum nostre diocesis, sub pena consimili nihilominus inhibentes, ne ipsi in suis parrochiis permittant talia perpetrari, nobis si qui forte contrarium attemptare presumpserint scribentes, ut a nobis de tali commisso more debito puniantur.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

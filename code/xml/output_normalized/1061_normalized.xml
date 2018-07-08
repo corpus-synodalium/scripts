@@ -1,0 +1,236 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Geneva</title>
+                <recordID>1061</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1394</origDate>
+                <dateNotes/>
+                <origPlace>Geneva</origPlace>
+                <diocese>Geneva</diocese>
+                <province>Vienne</province>
+                <country>Switzerland</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 1061</p>
+                <p>Year: 1394</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Geneva</p>
+                <p>Diocese: Geneva</p>
+                <p>Province: Vienne</p>
+                <p>CountryModern: Switzerland</p>
+                <p>Latitude: 46.2</p>
+                <p>Longitude: 6.15</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Guillaume de Lornay</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1388</p>
+                <p>RegnalEnd: 1408</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: Geneva, AE, MS hist 47, f°164-166v</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Fleury, HIstoire de l'Eglise de Geneve, I, 440-41</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: https://books.google.com/books?id=Ov8PAAAAYAAJ</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'WebDownload', 'Digital MS']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: Summary of topics in Binz, Vie religieuse, 174-75</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>In nomine domini Amen.</p>
+                    <p>Anno domini millesimo CCCmo nonagesimo quarto, diebus lune et martis post Ascensionem Domini.</p>
+                    <p>Nos Guillelmus, Dei et sedis apostolice gracia Gebennensis episcopus, pro reformacione subditorum nostrorum animarum que salute et scelerum corrupcione [1] ut mala opera uitentur et bonis operibus uerbo pariter et exemplo salubrius insequatur, sanctam synodum in ecclesia beati Petri Gebennensi duximus celebrandam, in qua uestigiis, statutis et constitucionibus predecessorum nostrorum inherentes de consilio et consensu uenerabilis capituli nostri Gebennensi aliqua memorenda, et aliqua propter nouitatem temporibus modernis occurrentis ad obmendi periculis animarum et eclesie nostre lesione euitandi duximus, statuendum nichil detrahere constitucionibus predecessorum nostrorum cupientis, sed ipsas in omnibus fuis capitulis et statuta sacri concilii Uiennensi, irrefragabiliter obseruari precipimus et iubemus sub pena in ipsis contentis, etc.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>De habitu clericorum et sacerdotium.</p>
+                    <p>In primis igitur, pro uita et honestate tocius cleri monemus omnes et singulos, quod habitum et uestes deferent honestas et non nimius biones nec zonas desuper, inludos que et tabernas non frequentant, barbas non nutriant, neque comas ut potissime in sacris constitutis, nec defferent sotulares accutos cum pelona, nec capucia parua in capite transuersata, sed honeste incedentis, prout alias fuit statutum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>De... [2] in beneficiis faciendis.</p>
+                    <p>Item quod super residencia in beneficiis uestris facienda, et concubinas uobiscum publice non tenentis, sed pocius ei cientis sub formidalibus penes in quodem processu olim facto per bone memorie domini Alemendi, quondam episcopum Gebennensi, quem processus uobis precipimus inuiolabiliter obseruari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>Item quod processum uel ordinacionem factam quod haberetis in fine missale diligenter uisitetis et eum publicetis ut supra alias grauiter punientum de contentu.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>De diligentis literarum.</p>
+                    <p>Item quod diligenter uos habeatis super recepcionem, monicionem et absolucionem et prorogacionem earumdem et ipsas registretis penes uos et earum datam et tempus dilacionem ipsarum sic quod lapsis terminis in ipsis comprehensem nucietis tales in ipsis nominatis excomunicacionis non expectatis agrauatorum uel alias litterisque ulterius nisi uobis conste de anullacione dictaroum litterarum et solucionem dictorum creditorum infra tempus, super quibus est multis negligentis, cuius occasione multociens excomunicacionis admittetis ad diuina.</p>
+                    <p>Et propterea peccatis enormiter et temerarie agitis super quibus grauiter puniendum si culpabiles reperti de premissis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>De Corpus Christi sub claui ten...[3]</p>
+                    <p>Item quod uos omnes curati et ecclesiarum rectorum sub claui teneatis sacratissimum Corpus Christi sacram crisma oleum sanctum.</p>
+                    <p>Eciam sacros baptismatos fontes et copertoria decentes sub pena alia in sanctis synodi super hec constitutos.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>Item monemus uos omnes beneficiatos in nostra ciuitate et diocesi Gebennensi, quatenus manuteneatis edificia et domos beneficiorum uestrorum in bono statu, et ruinosa iuxta facultatem beneficiorum reparetis, et super coperturis ibidem necessariis uel nunc uel in futurum taliter, probe et fideliter prouideatis, quod uestri deffectu, culpa uel negligencia imposterum non ueniant in ruinam.</p>
+                    <p>Et si contra feceritis et negligentes fueritis in hac parte, ex iniuncto nobis officio super hiis prouidebimus, et ad correccionem contra uos procedemus, secundum canonicum sanciones.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>Item quod super abusu preuilegiorum et literarum apostolicarum abussores statuta prouincialia et constituciones synodi a predecessoris nostris super hoc editis uobis precipimus inuiolabiliter obseruari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>Item inhibemus uobis omnibus sacerdotibus sub pena excomunicacionis ne in altaribus nouiter constructis et eiectis sine nostri uel uicarii nostri licencia speciali celebrare nisi fuerint sufficienter dotata et rectores per nos seu predecessores nostros in ipsis fuerint canonice instituti alias contra uos super contentu et inobediencia procedemus iusticia mediente.</p>
+                    <p>Item quod non ueniatis ad sepulturam nec prebisteratas nisi uocatis sicut a proprio sacerdoti uel ab amicis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>Item inhibemus uobis omnibus sacerdotibus sub pena excomunicacionis ne in altaribus nouiter constructis et eiectis sine nostri uel uicarii nostri licencia speciali celebrare nisi fuerint sufficienter dotata et rectores per nos seu predecessores nostros in ipsis fuerint canonice instituti alias contra uos super contentu et inobediencia procedemus iusticia mediente.</p>
+                    <p>Item quod non ueniatis ad sepulturam nec prebisteratas nisi uocatis sicut a proprio sacerdoti uel ab amicis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>Item monemus uos ecclesiarum rectores et uicarios quatenus parrochianos uestros, qui sunt uel qui fuerint excommunicati, nuncietis singulis diebus dominicis excommunicatos, prout in constitucionibus iam super hoc edictis continetur, ut psaltim uerecundia moti, sustinent reddire ecclesie unitati.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>Item monemus uos in uirtute sancte Dei obedientie, et sub pena excomunicacionis, uobis iniungimus per presentes quatenus sum excequcione literarum curiam nostre faciles uos reddatis, et incontinenti sine mora ipsius [4] recipiatis et sub data diei qua uobis presentis fuint reddatis portitorum debite signatis nec non sub eadem pena uobis precipimus quatenus dictos portitores si ab ipsis fueritis requisiti secretos teneatis per totaqm diem recepcionis et ultra si eis uideatur expedire, propter pericula que possunt eisdem portitorum euenire.</p>
+                    <p>Et nichillominus ubicumque fueritis reperti per dictos portitores eciam ad unam leucam duas uel ultra prope parrochias uestras eorum literas curie nostre, incontinenti recipiatis sine mora nisi nisi ad alia loca ueraciter uelletis uos transfferre non reuertende uos de proximo ad uestras eclesias alioquin super hec de contentu et inobediencia ad punicionem condignam contra uos procedemus quod ceteris cedatis in exequcioni iusticia tam omnio offensa.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>Item statuimus et uobis precipimus sub pena excomunicacionis predicta quatenus psaltim semel in quolibet mense adiudeatis parrochianos uestros utriusque sexus, quod septem peccata mortalia per uos eis declaranda euitent modum omnibus.</p>
+                    <p>Et decem precepta legint.</p>
+                    <p>Et septem opera nostre possibili ad impleant sicut alia fuit statutis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>Item uobis iniungimus pro bono statu domini nostri pape Clementis et unitate sancte Romane ecclesie sibi comisse et liberacione tene sancte eciam pro pace inter catholicos obseruanda et pro nobis et eclesia nostra, quod quibus uelit orare et dicere specialiter qualibet septimana deuotissime missam per eundem dominum nostrum papam super sedicione fist scismata ordinatis.</p>
+                    <p>Et quod quibus eclesiarum rectores missa... [5] conscribant in suis missale seu scribi faciant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>Item prohibemus cuique sacerdoti sub pena excomunicacioni bis in die missam celebrare nisi in casibus a iure statutis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>Item quod experiencia nos docuit et ad relacionem fidedignorum nobis inuocuit quod questores et nonulli religiosi suis preuilegiis abutentes pro tribus denarum recipiunt et iam diu acceperunt quam presbiteros parrochiali uestrorum cofratres suos asserentes ipsos posse tempore interdicti in uestris uel suis eclesiis sepeliunt uirtute preuilegiorum suorum, quod falsum est cuius nullus possit esse confrater ipsorum, nisi se dedicauerit mutato habita uel omnia bona dederit retentis usufructis, secundum canonicas sancciones.</p>
+                    <p>Et ideo uobis prohibemus ne imposterium eisdem si casus aduenerit talia fieri permitatis nec questores in uestris in eclesiis admitatis, nisi portent literas nostras uel uicarium nostri sigillo nostro a curie nostre patenter sigillatas ut alias fuit statutis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>Item propterea quia plerumque prout didicimus relacione fidedigne absolute ex officio sui parte consensu conceduntur ad tempus quo pendente interdicti tales absoluti decedunt et tradundur ecclesiastice sepulture nulla canonice recepta de satisfaciendo creditorum iuxta bonorum facultatis quod cedit et cedere potest in p... [6] iamdictorum creditorum detrimentis multis racionibus atque causis, ideo nos uolentes super indampnitatis dictorum creditorum prouidere de consilio et consensu nostri uenerabilis capituli, statuimus et ordinamus quod si de cetero aliquis excomunicatis ex officio nostro seu uicario aut officiali nostri absoluatur, et absolucione durante ipsum decedere contingerit abhuimus non tradatur eclesie sepultis hoc uobis expressa sub pena excomunicacionis inhibentis, nisi prius recepta idonea caucione de satisfaciendo creditorum suis, ad quorum seu cuius instanciam excomunicacionis fuerint, secundum bonorum suorum facultis et per instrumentum seu per litteram ad opus creditorum recipiendam iuxta formam absolucionis in mortis articulo in concilio Uiennensi ordinata, et rectores ecclesiarum et eorum uicarium sunt persone autentice in hiis casu ad recipiendum instrumentum seu litteram de caucione predicta.</p>
+                    <p>Item inhibemus uobis rectoribus ecclesiarum sub pena excomunicacionis, ne aliquos uicarios in ecclesiis uestris per amodiacionem aut alias constituatis, seu deputetis, absque nostra uel uicarii nostri licencia speciali et per litteram concedenda.</p>
+                    <p>Et insuper inhibemus sub eadem pena, quod nullatenus ecclesias uestras alicui laico amodiatis uel arendetis ut alias fuit statutum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>Item propterea quia plerumque prout didicimus relacione fidedigne absolute ex officio sui parte consensu conceduntur ad tempus quo pendente interdicti tales absoluti decedunt et tradundur ecclesiastice sepulture nulla canonice recepta de satisfaciendo creditorum iuxta bonorum facultatis quod cedit et cedere potest in p... [6] iamdictorum creditorum detrimentis multis racionibus atque causis, ideo nos uolentes super indampnitatis dictorum creditorum prouidere de consilio et consensu nostri uenerabilis capituli, statuimus et ordinamus quod si de cetero aliquis excomunicatis ex officio nostro seu uicario aut officiali nostri absoluatur, et absolucione durante ipsum decedere contingerit abhuimus non tradatur eclesie sepultis hoc uobis expressa sub pena excomunicacionis inhibentis, nisi prius recepta idonea caucione de satisfaciendo creditorum suis, ad quorum seu cuius instanciam excomunicacionis fuerint, secundum bonorum suorum facultis et per instrumentum seu per litteram ad opus creditorum recipiendam iuxta formam absolucionis in mortis articulo in concilio Uiennensi ordinata, et rectores ecclesiarum et eorum uicarium sunt persone autentice in hiis casu ad recipiendum instrumentum seu litteram de caucione predicta.</p>
+                    <p>Item inhibemus uobis rectoribus ecclesiarum sub pena excomunicacionis, ne aliquos uicarios in ecclesiis uestris per amodiacionem aut alias constituatis, seu deputetis, absque nostra uel uicarii nostri licencia speciali et per litteram concedenda.</p>
+                    <p>Et insuper inhibemus sub eadem pena, quod nullatenus ecclesias uestras alicui laico amodiatis uel arendetis ut alias fuit statutum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 17</head>
+                    <p>Item statuimus et ordinamus et ad noticiam uestram et omni quorum interest deducimus animam sanctam synodum per uos tenendam et celebrandam quam dui diuina faciente gracia eclesie nostre Gebennensi presidebimus quolibet anno infuturum diebus martis, mercurii et iouis ante festum Pentecostes, absque alio ulteriori mandato uel notificacione quibus diebus singulis annis conueniant omnes abbates, priores et eclesiarum rectores totius diocesis, nisi firmiter contra mandato illo anno quo nos dictam synodum uolimus celebrare usque per apposicionem cedularum una in porta eclesie maioris Gebennensi, alia in curia officiali.</p>
+                    <p>Scientes quod licet uno anno sancta synodus fiunt contra mandata quod nolus secundo anno predictus diebus tenebitur sine mandato nisi eciam modo quo supra sibi comendaretur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18</head>
+                    <p>Item inhibemus uobis omnibus eclesiarum rectoribus et uicariis nostris inposterum recipiatis quoquomodo nisi fuerunt sigillo curie nostre sigillatos et hec sub pena excomunicacione quam ex nunc canonica monicione premissa que terminum pro canonica monicione assignamus uobis fecimus et statuimus in hec scriptis quam quemlibet contrarium facientes iuxta formam contentam in processu quem habere debetis in fine missale de litteris curie nostre non recipieri sine sigillo.</p>
+                </div>
+                <div>
+                    <head>Capitulum 19</head>
+                    <p>Ordinamus insuper quod quibus uestrum habeat complete omnes constituciones completas et ipsas dilenter studeant et custodiant sub pena iam alia dicta.</p>
+                </div>
+                <div>
+                    <head>Capitulum 20</head>
+                    <p>Monemus omnes prelatos abbates priores, curatos et ecclesiarum rectores qui motu auaricie excerati terras, uineas, prata, nemora, domus, census, redditus, predia et alias res eclesiarum titulis alienacionem abbergacionem accensatis, permitatis et tradiderunt uel eorum predecessorum et illos et illas qui predicta tenent et possident ut ipsi infra unum mensem post publicacionem precium informent procuratis fiscale domini nostri episcopi de predictis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 21</head>
+                    <p>Item omnes curatis, capellanos, clericos et alios seculares qui pecunias et alias bona a Christi fidelibus pro reditibus perpetuis acquirendum ad opus eclesiarum, altarium, maladerum, hospitalium ac fabricarum earumdem recepiunt, et illos qui predicta tradiderunt ut predicta donata et recepta infra dictum mense reuelent.</p>
+                </div>
+                <div>
+                    <head>Capitulum 22</head>
+                    <p>Item omnes seruientes et celebrantes in quibuscumque capellis, altaribus et eclesiis ubilibet constitutis non tamen dotatis et nulla postestate canonica sibi atributa de dictis dotacionibus et titulis dictum procuratorem informent infra dictum mensem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 23</head>
+                    <p>Item omnes personas ecclesiasticas ut ipsis litteras et instrumenta faciencia ad opus eclesiarum suarum habere procurent et penes se custodiant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 24</head>
+                    <p>Item notarios et iuratos qui aliquas literas et contractus aliquos recepiunt seu habent in prothocollo sibi commissis de predictis aleuiacionibus, permutacionibus, albergacionibus, accensacionibus, donacionibus et legatis ut de ipsis informent dictum procuratorem uel mittant tenorem earumdem infra dictum mensem scienter et consentienter infra dictum mensem reuelent.</p>
+                    <p>Et siqui fuit qui de iure suo confidant et uelint opponere quare predicta fieri non debeant compareant coram nobis infra quindecim dies post publicacionem presentium, alioquin contra ipsos per sentenciam excomunicacionem procedemus iusticia non offensa.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] &lt;corrupcione&gt;</p>
+                    <p>[2] word uncertain</p>
+                    <p>[3] end of word uncertain</p>
+                    <p>[4] \ipsius/</p>
+                    <p>[5] word uncertain</p>
+                    <p>[6] blank in MS</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

@@ -1,0 +1,404 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Utrecht</title>
+                <recordID>0696</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1347-04-26</origDate>
+                <dateNotes/>
+                <origPlace>Utrecht</origPlace>
+                <diocese>Utrecht</diocese>
+                <province>Cologne</province>
+                <country>Netherlands</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 696</p>
+                <p>Year: 1347</p>
+                <p>Month: 4</p>
+                <p>Day: 26</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Utrecht</p>
+                <p>Diocese: Utrecht</p>
+                <p>Province: Cologne</p>
+                <p>CountryModern: Netherlands</p>
+                <p>Latitude: 52.083</p>
+                <p>Longitude: 5.1</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Jan van Arkel</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Joosting, Bronnen, V, 114-22</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: Data Capture</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Aliud statutum eiusdem Iohannis de Arkel episcopi Traiectensis.</p>
+                    <p>1347.</p>
+                    <p>Iohannes Dei gracia episcopus Traiectensis.</p>
+                </div>
+                <div>
+                    <head>Capitulum A1</head>
+                    <p>Monemus omnes et singulos sacerdotes et clericos synodo nostre interesse debentes nec per se nec per procuratores idoneos comparentes, ut infra quindecim dies de huiusmodi contumacia satisfaciant aut medio tempore causam pretendant et prebent, quare non tenentur.</p>
+                    <p>Alioquin ipsos ex nunc prout ex tunc excommunicacionis sentencia innodamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum A2</head>
+                    <p>Item.</p>
+                    <p>Citamus eosdem, ut ad annum futurum scilicet sub anno MoCCCXLUIIIo feria tercia post Cantate ad synodum nostram redeant.</p>
+                </div>
+                <div>
+                    <head>Capitulum A3</head>
+                    <p>Item.</p>
+                    <p>Precipimus omnia decreta apostolica canonica ecclesiasticas constituciones consilii generalis statuta prouincialia et synodalia atque penas ecclesiastice censure annexas, que omnia hic pro lectis insinuatis et nominatim publicatis haberi uolumus, sub obediencie pena inuiolabiliter [1] obseruari.</p>
+                </div>
+                <div>
+                    <head>Capitulum A4</head>
+                    <p>Item.</p>
+                    <p>Anno futuro celebrabitur Pascha XIIo kalendas Maii propter bisextum.</p>
+                </div>
+                <div>
+                    <head>Capitulum A5</head>
+                    <p>Item.</p>
+                    <p>Absoluciones clericorum et laicorum et suspensorum interdictorum aut excommunicatorum, qui sic ligati diuinis interfuerunt, nobis seu nostro penitenciario generali tantummodo reseruamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum A6</head>
+                    <p>Item.</p>
+                    <p>Precipimus, ne homicide uoluntarii in causis illicitis, antequam per nos fuerint reconsiliati ecclesie unicati, ad communionem altaris admittantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum A7</head>
+                    <p>Item.</p>
+                    <p>Omnes commissiones prouisorum ac super absolucione casuum nobis reseruatorum necnon questuariorum, quibus sigillum capituli nostri non appendet, ex nunc reuocamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum A8</head>
+                    <p>Item.</p>
+                    <p>Precipimus singulis presbiteris, ut negocium fabrice nostre fideliter exequantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum A9</head>
+                    <p>Item.</p>
+                    <p>Precipimus omnibus debitoribus dicte fabrice sub pena excommunicacionis, ut infra mensem post hanc nostram monicionem eidem satisfaciant.</p>
+                </div>
+                <div>
+                    <head>Capitulum A10</head>
+                    <p>Item.</p>
+                    <p>Precipimus singulis sacerdotibus sub pena excommunicacionis, ut uno die dominico semel in mense insinuent populo, quod iniuste quesita, si nesciantur quibus de iure reddenda sunt, dari debent fabrice antedicte et nulli alteri; [2] quia dominus Clemens felicis recordacionis papa quartus [3] in consilio Uiennensi reuocauit omnia priuilegia concessa quibuscunque locis ordinibus et personis super huiusmodi iniuste quesitis et commisit solis episcopis in suis diocesibus disponere de eisdem; et nos et nostri antecessores huiusmodi iniuste quesita donauimus fabrice ecclesie nostre Traiectensis antedicte.</p>
+                    <p>Et precipimus sub pena excommunicacionis late sentencie, ne quis aliter recipiendo uel dando disponat de eisdem.</p>
+                </div>
+                <div>
+                    <head>Capitulum A11</head>
+                    <p>Item.</p>
+                    <p>Omnes negocio fabrice dolose contrariantes, nisi infra sex dies resipuerint et inde satisfecerint, ab ingressu ecclesie suspendimus et absoluciones eorundem solis prouisoribus dicte fabrice reseruamus. [4]</p>
+                </div>
+                <div>
+                    <head>Capitulum B</head>
+                    <p>Hec sunt dubia, super quibus nonnulli dubitant:</p>
+                </div>
+                <div>
+                    <head>Capitulum B1</head>
+                    <p>In primis.</p>
+                    <p>Cum festum Annunciacionis beate Marie transfertur, utrum populus ad ieiunandum et ad celebrandum ab opere seruili in uigilia et in die translacionis siue in illis diebus, a quibus dictum festum translatum est, teneatur? [5]</p>
+                    <p>Respondemus, quod utique in diebus translacionis ieiunandum et celebrandum est, nisi forte specialiter quis uouisset. [6]</p>
+                    <p>Simile est de uigilia Mathie, cum transfertur; et de die Natiuitatis Christi, cum in sexta feria uenerit, faciendum est sicut canones statuerunt.</p>
+                </div>
+                <div>
+                    <head>Capitulum B2</head>
+                    <p>Item, secundo.</p>
+                    <p>Si sacerdotes pretextu priuilegii, eis propter promociones dicte fabrice indulti, possint uota commutare uel dispensare? [7]</p>
+                    <p>Respondemus, quod uirtute dicti priuilegii non possunt uota commutare uel dispensare, sed tantummodo de uotis simplicibus fractis possunt absoluere.</p>
+                </div>
+                <div>
+                    <head>Capitulum B3</head>
+                    <p>Item, tercio.</p>
+                    <p>Ex quo nobis reseruauimus in statutis adulteria manifesta, utrum solutus cum coniugata aut coniugatus cum soluta adulterium committere dicatur? [8]</p>
+                    <p>Respondemus, quod propter communionem peccati uel coniugum paritatem coniugatus cum non coniugata adulterium committere dicitur; de coniugata et non coniugato dubium non existit.</p>
+                </div>
+                <div>
+                    <head>Capitulum B4</head>
+                    <p>Item, quarto.</p>
+                    <p>Cum contrahentes clamdestinam [9] sint excommunicati, utrum parentes eorum interessentes, qui dictum contractum clamdestinum possent impedire et non impediunt, et alii opem et operam ad hoc prestantes sint excommunicati; et si sunt excommunicati, a quo sint absoluendi? [10]</p>
+                    <p>Respondemus, quod predicti parentes excommunicati sunt nec absolui possunt a suo curato.</p>
+                    <p>Alii uero interessentes tamquam nupciis celebrandis minori ligantur sentencia, a qua a suo curato uel per suum curatum possunt absolui.</p>
+                </div>
+                <div>
+                    <head>Capitulum B5</head>
+                    <p>Item, quinto.</p>
+                    <p>Utrum tempore, quo solempnisari matrimonia prohibentur, rectoribus ecclesiarum liceat banna pro contrahere uolentibus proponere, et bannis propositis liceat infra idem tempus matrimonia contrahere et postea licito tempore dictum matrimonium in facie ecclesie solempnisari sine nota inobediencie uel clamdestine uel excommunicacionis sentencie antedicte? [11]</p>
+                    <p>Respondemus: licet proponere banna et contrahere matrimonia temporibus supradictis, quamuis solempnisacio et benediccio ecclesie dumtaxat sint certis temporibus interdicte.</p>
+                </div>
+                <div>
+                    <head>Capitulum B6</head>
+                    <p>Item, sexto.</p>
+                    <p>Utrum sacerdotes possint absoluere suos subditos confitentes de omnino occultis reseruatis nobis in statutis non obstante reseruacione predicta, que inter occulta et manifesta non distinguit? [12]</p>
+                    <p>Respondemus: non possunt absoluere.</p>
+                </div>
+                <div>
+                    <head>Capitulum B7</head>
+                    <p>Item, VIIo.</p>
+                    <p>Quot annorum erit, quem licet inungere? [13]</p>
+                    <p>Respondemus, quod doli capax uel pubertati proximus potest inungi, ex quo peccare potest.</p>
+                </div>
+                <div>
+                    <head>Capitulum B8</head>
+                    <p>Item, VIIIo.</p>
+                    <p>Quot uicibus uel quantis intersticiis liceat sic inungi? [14]</p>
+                    <p>Respondemus: relinquitur discrecioni sacerdotum, consideracione habita personarum et desiderio earundem, intersticio uel tempore moderato, ne frequencia fiat.</p>
+                </div>
+                <div>
+                    <head>Capitulum B9</head>
+                    <p>Item, IXo.</p>
+                    <p>An post confeccionem noui sacramenti crismatis olei sancti et infirmorum alicui presbitero uti liceat antiquo sacramento? [15]</p>
+                    <p>Respondemus: in nullo necessitatis casu ueteri crismate et oleo uti licet absque nostra licencia speciali; sed debet sub excommunicacionis pena uetus crisma et oleum ipsa die Cene Domini igne consumi.</p>
+                    <p>Ultimus casus de sacramento ueteri reuocatus est, ita quod licite usque ad dominicam Iubilate post Pascha uti ualeamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum C</head>
+                    <p>De solucione diuersorum dubiorum.</p>
+                    <p>Iohannes Dei gracia etc.</p>
+                </div>
+                <div>
+                    <head>Capitulum C1</head>
+                    <p>Omnes et singulos clericos, huic synodali, etcetera.</p>
+                    <p>Quere A.</p>
+                </div>
+                <div>
+                    <head>Capitulum C2</head>
+                    <p>Item omnes et singulos abbates et prepositos, etcetera.</p>
+                    <p>Quere B.</p>
+                </div>
+                <div>
+                    <head>Capitulum C3</head>
+                    <p>Item decreta apostolica canonum, etcetera.</p>
+                    <p>Quere C.</p>
+                </div>
+                <div>
+                    <head>Capitulum C4</head>
+                    <p>Item absoluciones tam clericorum quam laicorum, etcetera.</p>
+                    <p>Quere D.</p>
+                </div>
+                <div>
+                    <head>Capitulum C5</head>
+                    <p>Item omnibus et singulis inhibemus, ne homicidas uoluntarios, etcetera.</p>
+                    <p>Quere E.</p>
+                </div>
+                <div>
+                    <head>Capitulum C6</head>
+                    <p>Item omnes et singulas commissiones prouisorum necnon super absolucione, etcetera.</p>
+                    <p>Quere F.</p>
+                </div>
+                <div>
+                    <head>Capitulum C7</head>
+                    <p>Item omnes debitores domini nostri episcopi.</p>
+                    <p>Quere G.</p>
+                </div>
+                <div>
+                    <head>Capitulum C8</head>
+                    <p>Item eadem auctoritate negocium fabrice.</p>
+                    <p>Quere I.</p>
+                </div>
+                <div>
+                    <head>Capitulum C9</head>
+                    <p>Item eadem auctoritate monemus, etcetera.</p>
+                    <p>Quere K.</p>
+                </div>
+                <div>
+                    <head>Capitulum C10</head>
+                    <p>Item eadem auctoritate omnibus et singulis ecclesiarum rectoribus precipimus et mandamus, quatinus singulis mensibus uno die dominico, etcetera.</p>
+                    <p>Quere L. [16]</p>
+                </div>
+                <div>
+                    <head>Capitulum C11</head>
+                    <p>Preterea, cum nonnulli ecclesiarum rectores subditi nostri supra infrascriptis articulis se racionabiliter dubitare proponant et se de hiis per nos certificari humiliter supplicarunt:</p>
+                </div>
+                <div>
+                    <head>Capitulum C11i</head>
+                    <p>Primo.</p>
+                    <p>An, cum festum Annunciacionis dominice transfertur populis ad celebrandum et ieiunandum, utrum homines, qui ad hoc ex uoto tenentur, translato tempore teneantur, etcetra?</p>
+                </div>
+                <div>
+                    <head>Capitulum C11ii</head>
+                    <p>Secundo.</p>
+                    <p>An presbiteri parrochiales ex priuilegio nostro uel antecessorum nostrorum ad usus fabrice ecclesie nostre Traiectensis possint uota aliqua commutare?</p>
+                </div>
+                <div>
+                    <head>Capitulum C11iii</head>
+                    <p>Tercio.</p>
+                    <p>Cum per statuta synodalia absoluciones adulteria committendum sint episcopo reseruate, an solutus uel soluta cum coniugato uel cum coniugata adulterium committere censeatur?</p>
+                </div>
+                <div>
+                    <head>Capitulum C11iv</head>
+                    <p>Quarto.</p>
+                    <p>An aliquibus clamdestine contrahentibus, cum propter hoc per statuta synodalia excommunicacionis sentencia sint innodati, an parentes contrahentium hoc mandantes uel cum prohibere possint non prohibentes uel alii huiusmodi contractui interessentes simili ligentur sentencia, et an curati eorum tales parentes et interessentes possint absoluere?</p>
+                </div>
+                <div>
+                    <head>Capitulum C11v</head>
+                    <p>Quinto.</p>
+                    <p>An temporibus, quibus matrimonium celebrari prohibetur, rectoribus ecclesiarum liceat banna pro contrahere uolentibus proponere et bannis propositis liceat infra idem tempus matrimonium contrahere et postea licito tempore dictum matrimonium in facie ecclesie solempnizare, sine nota inobediencie uel clamdestine uel excommunicacionis sentencie antedicte?</p>
+                </div>
+                <div>
+                    <head>Capitulum C11vi</head>
+                    <p>Sexto.</p>
+                    <p>An curatis in casibus nobis reseruatis omnino occultis liceat absoluere suos subditos confitentes, non obstante reseruacione predicta, que inter occulta et manifesta distinguit?</p>
+                </div>
+                <div>
+                    <head>Capitulum C11vii</head>
+                    <p>Septimo.</p>
+                    <p>Cuius etatis esse debeat, qui extrema unccione infirmorum oleo inungetur?</p>
+                </div>
+                <div>
+                    <head>Capitulum C11viii</head>
+                    <p>Octauo.</p>
+                    <p>Quot uicibus uel quantis intersticiis quem liceat sic ungi?</p>
+                </div>
+                <div>
+                    <head>Capitulum C11ix</head>
+                    <p>Nono.</p>
+                    <p>An post confeccionem noui crismatis olei sancti et infirmorum alicui presbitero antiquo uti liceat.</p>
+                </div>
+                <div>
+                    <head>Capitulum C12</head>
+                    <p>Soluciones dubiorum:</p>
+                    <p>Ad que singillatim statuendo et decernendo respondemus:</p>
+                </div>
+                <div>
+                    <head>Capitulum C12i</head>
+                    <p>Ad primum, uidelicet quod festum Annunciacionis predictum in ieiunio et diuinorum obseruacione ac operum seruilium uacacione ipso tempore translatum seruari et celebrari debebit, nec quis ad iteracionem est obligatus, nisi specialiter hoc uouisset.</p>
+                    <p>Et idem de festo beati Mathie dicimus, quod quandoque propter causas aliquas transferri consueuit.</p>
+                    <p>De festo Natiuitatis dominice, cum in sexta feria uenerit, obseruari precipimus, quod canones statuerunt.</p>
+                </div>
+                <div>
+                    <head>Capitulum C12ii</head>
+                    <p>Ad secundum respondemus, quod, quamuis olim dicta fabrica huiusmodi priuilegium dicitur habuisse, hoc ipsi tamen certis ex causis non indulsimus, sed ut in uotis simplicibus uiolatis possint absoluere non tamen dispensare uel commutare, quod nobis et nostro generali penitenciario specialiter reseruamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum C12iii</head>
+                    <p>Ad tercium respondemus, quod, quamquam de accepcione stricta istius uocabuli adulterium dicatur committere, qui thorum alterius uiolat, nec mulier habere thorum dicatur, interpretamur propter peccati communionem et malicie paritatem non coniugatam cum coniugato adulterium committere.</p>
+                    <p>De coniugata uero et soluto dubium non existit.</p>
+                </div>
+                <div>
+                    <head>Capitulum C12iv</head>
+                    <p>Ad quartum respondemus, quod parentes huiusmodi mandantes et prohibere ualentes et alii opem uel operam prestantes clamdestino contractui tanquam in crimine participantes iuris ligantur sentencia nec per curatos absolui possunt ab illa.</p>
+                    <p>Alii uero interessentes tanquam pro nupciis celebrandis minori ligantur sentencia, a qua possunt per suos proprios sacerdotes absolui.</p>
+                </div>
+                <div>
+                    <head>Capitulum C12v</head>
+                    <p>Ad quintum respondemus illud de iure licere, cum sola matrimonii solemnizacio et benediccio ecclesie duntaxat sint certis temporibus interdicte.</p>
+                </div>
+                <div>
+                    <head>Capitulum C12vi</head>
+                    <p>Ad sextum dicimus, quod tam in occultis quam in manifestis, in dictis statutis synodalibus expressis, episcopis Traiectensibus est reseruata et curatis abdicata absoluendi potestas.</p>
+                </div>
+                <div>
+                    <head>Capitulum C12vii</head>
+                    <p>Ad septimum respondemus, quod, cum, ex quo quis doli capax esse reperitur uel pubertati proximus, peccare poterit, potest et inungi.</p>
+                </div>
+                <div>
+                    <head>Capitulum C12viii</head>
+                    <p>Ad octauum respondemus, quod, quia hoc in iure cautum non reperimus, hoc ipsorum curatorum arbitrio duximus relinquendum, ut, consideracione habita personarum decumbentium et desiderii earundem temporum quoque et circumstandarum, sacramentum sepius uel rarius, ne uilescat propter frequenciam, hoc impendant.</p>
+                </div>
+                <div>
+                    <head>Capitulum C12ix</head>
+                    <p>Ad nonum dicimus, quod uti non liceat post confeccionem noui ueteri crismate et oleo sacro.</p>
+                    <p>Immo in uirtute sancte obedientie et sub pena excommunicacionis, quam in modum statuti in hiis scriptis ferimus in rebelles, prohibemus, ne quis subditorum nostrorum post diem Cene Domini quouis modo uel quocunque casu necessitatis sine nostra licencia speciali utantur ueteri crismate uel oleo sacro; et sub eadem pena precipimus eisdem, ut eadem die Cene Domini annis singulis huiusmodi uetus crisma et oleum igne consumant.</p>
+                </div>
+                <div>
+                    <head>Capitulum C13</head>
+                    <p>Ceterum, cum propter ingentem nobis et ecclesie nostre necessitatem nouiter exortam ad presens dicte nostre synodo interesse personaliter nequeamus [17], de circumspecta discrecione dilectorum nobis dominorum Henrici sancti Iohannis officialis nostri Traiectensis et Hugonis sancte Marie decanorum, Hugonis Wstinc et Suederi uter Le, Maioris canonicorum ecclesiarum Traiectensium confisi, [18] ipsis et eorum cuilibet in solidum tenore presentium committimus et mandamus, quatinus uice nostra dicte nostre synodo intersint hac uice hecque statuta mandata et declaraciones nostras insinuent et promulgent, synodalia quoque, prout ad nos pertinent, exequantur et obseruent, faciantque quod decreuerint per ecclesiasticam censuram firmiter obseruari.</p>
+                    <p>In quorum omnium testimonium has litteras sigillo nostro fecimus consignari.</p>
+                </div>
+                <div>
+                    <head>Explicit</head>
+                    <p>Datum anno Domini M.oCCC.oXLUII.o, mensis Aprilis die XXVIo.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] -il- originalli in italics.</p>
+                    <p>[2] Deleted: --</p>
+                    <p>[3] Deleted: (sic).</p>
+                    <p>[4] Deleted: --</p>
+                    <p>[5] Deleted: --</p>
+                    <p>[6] Deleted: --</p>
+                    <p>[7] Deleted: --</p>
+                    <p>[8] Deleted: --</p>
+                    <p>[9] Deleted: (sic).</p>
+                    <p>[10] Deleted: --</p>
+                    <p>[11] Deleted: --</p>
+                    <p>[12] Deleted: --</p>
+                    <p>[13] Deleted: --</p>
+                    <p>[14] Deleted: --</p>
+                    <p>[15] Deleted: --</p>
+                    <p>[16] Deleted: --</p>
+                    <p>[17] Deleted: --</p>
+                    <p>[18] Deleted: --</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

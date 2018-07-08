@@ -1,0 +1,239 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Linkoping</title>
+                <recordID>1959</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate precision="circa">1400</origDate>
+                <dateNotes/>
+                <origPlace>Linköping</origPlace>
+                <diocese>Linköping</diocese>
+                <province>Uppsala</province>
+                <country>Sweden</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 1959</p>
+                <p>Year: 1400</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: Yes</p>
+                <p>DatingNotes: dating and attribution uncertain</p>
+                <p>Place: Linköping</p>
+                <p>Diocese: Linköping</p>
+                <p>Province: Uppsala</p>
+                <p>CountryModern: Sweden</p>
+                <p>Latitude: 58.4</p>
+                <p>Longitude: 15.616667</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Reuterdahl, Statuta synodalia, pp82-85</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: https://books.google.com/books?id=WaZBAAAAYAAJ</p>
+                <p>TranscriptionNotes: check Diplomatium Fennicum for transcription</p>
+                <p>BaseText: ['GoogleBooks', 'WebDownload']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Capitulum A</head>
+                    <p>Hec publicari debent per Curatos coram parochianis, et debet quilibet Curatus, sub pena priuacionis officii sui, habere ista in scriptis.</p>
+                </div>
+                <div>
+                    <head>Capitulum A1</head>
+                    <p>Primo, quod idem potest esse compater in confirmacione, qui fuit in baptismo.</p>
+                </div>
+                <div>
+                    <head>Capitulum A2</head>
+                    <p>Secundo, quod tanta contrahatur paternitas in confirmacione, sicut in baptismo, quoad omnia iura.</p>
+                </div>
+                <div>
+                    <head>Capitulum A3</head>
+                    <p>Tercio, quod uxor legitima, carnaliter cognita, efficitur commater et absens et sine quocunque facto suo, ubicunque maritus fit compater, et e conuerso.</p>
+                </div>
+                <div>
+                    <head>Capitulum A4</head>
+                    <p>Quarto, quod sacerdos baptizans fit compater quoad omnia iura et impedimenta, sicut is, qui de sacro fonte leuauit.</p>
+                </div>
+                <div>
+                    <head>Capitulum A5</head>
+                    <p>Quinto, quod dampnati, improbi et reprobi sunt omnes, tamquam proditores fidei, qui dicunt; simpticem fornicacionem non esse mortale peccatum.</p>
+                </div>
+                <div>
+                    <head>Capitulum A6</head>
+                    <p>Sexto, quod dampnati et excommunicati, ut heretici, qui dicunt infernum non esse.</p>
+                </div>
+                <div>
+                    <head>Capitulum A7</head>
+                    <p>Septimo prohibitum est, quod nulla laica persona de fide, uel articulis fidei, disputare audeat.</p>
+                </div>
+                <div>
+                    <head>Capitulum A8</head>
+                    <p>Octauo, quod quicunque uult sponsalia contrahere cum uidua, uel uirgine, non accedat ad carnalem copulam, antequam sibi fuerint sponsalia in ecclesia publicata, ne filii nati ex eo matrimonio incestuosi fiant, et est pena contrahentium trium marcharum.</p>
+                </div>
+                <div>
+                    <head>Capitulum A9</head>
+                    <p>Nono, quod pater familias et uxor sua et filie legitime debent ecclesie soluere denarium beate Uirginis in Uatzstenis, et alii non nisi uelint; et hoc tributum petiit ipsa Uirgo, ut intercedat pro regno pro denario predicto: et pro decimis canonicalibus suspendendi sunt parochiani , sicut pro aliis iuribus ecclesiasticis, die Pasche.</p>
+                </div>
+                <div>
+                    <head>Capitulum A10</head>
+                    <p>Decimo debent Curati publicare coram parochianis, ut recte soluant decimas, et dicere eis, quod nullus eorum admittetur ad communionem die pasche, nisi ipsa hora, qua communicauerit, fateatur se recte decimasse, et caueant Curati, quod illa hora unumquemque interrogent etc.</p>
+                </div>
+                <div>
+                    <head>Capitulum B</head>
+                    <p>Hec, que sequuntur, oportet curatos secum habere in scriptis.</p>
+                </div>
+                <div>
+                    <head>Capitulum B1</head>
+                    <p>Primo, quod populum instruant in uera fide et preceptis diuinis et moribus bonis, et si nesciunt, addiscant.</p>
+                </div>
+                <div>
+                    <head>Capitulum B2</head>
+                    <p>Secundo, quod concubinas abiiciant et in bonis moribus uiuant, et ah omnibus illicitis cor, linguam, corpus seruent.</p>
+                </div>
+                <div>
+                    <head>Capitulum B3</head>
+                    <p>Tercio, quod concubine contumaces monende sunt, ut se corrigant.</p>
+                </div>
+                <div>
+                    <head>Capitulum B4</head>
+                    <p>Quarto, quod contumaces, post monicionem, puniende sunt in quarta parte fructuum et reddituum unius anni.</p>
+                </div>
+                <div>
+                    <head>Capitulum B5</head>
+                    <p>Quinto, si perseuerant in mala uita, incarcerande sunt.</p>
+                </div>
+                <div>
+                    <head>Capitulum B6</head>
+                    <p>Sexto, quod concubinis publicis septennis penitencia imponenda est per Prepositos, et caueant Prepositi, sub pena sui officii, ut ita faciant, et interdicant eis ingressum ecclesie, donec tres karenas compleuerint.</p>
+                </div>
+                <div>
+                    <head>Capitulum B7</head>
+                    <p>Septimo, si concubine perseuerant in malicia sua, in carcerem ponende sunt.</p>
+                </div>
+                <div>
+                    <head>Capitulum B8</head>
+                    <p>Octauo, quod nullus Clericus aliene diocesis, sine literis testimonialibus et licencia Ordinarii sui uel Capituli, colligatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum B9</head>
+                    <p>Nono, quod nullus Curatus audeat artare parochianum pro aliqua candela ultra ualorem unius marce cere, et quod candelam despectam non faciat ipsi parochiano.</p>
+                </div>
+                <div>
+                    <head>Capitulum B10</head>
+                    <p>Decimo, quod nullus Curatus suspendeat aliquem a percepcione corporis Christi, nisi de mandato Prepositi sui, et caueat, quod non admittat non admittendos, ex eo, quod non uult requirere Prepositum.</p>
+                </div>
+                <div>
+                    <head>Capitulum B11</head>
+                    <p>Undecimo, quod Prepositi aduertant diligenter de Presbyteris uagabundis, et remittant eos ad Capitulum.</p>
+                </div>
+                <div>
+                    <head>Capitulum B12</head>
+                    <p>Duodecimo, quod Curati deferant habitum clericalem, cum bonis operibus.</p>
+                </div>
+                <div>
+                    <head>Capitulum B13</head>
+                    <p>Tredecimo, quod nullus Curatus [1], sub pena [2] trium marcharum, parochianum alienum ad communicacionem admittat.</p>
+                </div>
+                <div>
+                    <head>Capitulum B14</head>
+                    <p>Quatuordecimo, quod Curati Prepositis suis obediant eosque [3] uenerentur.</p>
+                </div>
+                <div>
+                    <head>Capitulum B15</head>
+                    <p>Quintodecimo, quod Prepositi, ut testes Synodales, in festo Apostolorum Petri et Pauli intersint in Lincopensi ecclesia diuinis officiis in superpelliciis suis.</p>
+                </div>
+                <div>
+                    <head>Capitulum B16</head>
+                    <p>Sextodecimo caueant Curati, ut uinum purum sine corrupcione, et panem seu oblatam de simula frumenti habeant, et ideo emant de mercatoribus, qui deferunt de Almania, si possint attingere: et sub pena carceris, quod uestes et ornamenta altaris sint munda et alba.</p>
+                </div>
+                <div>
+                    <head>Capitulum B17</head>
+                    <p>Decimo septimo caueant Presbyteri, quod horas canonicas et beate Uirginis et Vll Psalmos sciant deuote et distincte legere, et sic eciam legant, que examinabunt.</p>
+                </div>
+                <div>
+                    <head>Capitulum B18</head>
+                    <p>Decimo octauo: caueant Curati, quod corpus Domini deferant in parochia cum Superpellicio et Stola, quod reuerenter habeatur in locis, ad que illud deferunt; et quod honeste et reuerenter exhibeant mores sinos coram inhabitatoribus locorum illorum, ut discant ex moribus illorum illud corpus gloriosum uenerari, prout penam carceris uitare uoluerint.</p>
+                </div>
+                <div>
+                    <head>Capitulum B19</head>
+                    <p>Decimo nono: Curati caueant, quod habeant collacionem beneficiorum suorum, et literas super ipsa collacione.</p>
+                </div>
+                <div>
+                    <head>Capitulum B20</head>
+                    <p>Uicesimo quod quicunque Curati uisitant infirmos, inducant eos ad dandam elemosinam ecclesie Lincopensi, ut eo facilius participes fiant diuinorum officiorum, que in ipsa ecclesia Lincopensi fiunt.</p>
+                </div>
+                <div>
+                    <head>Capitulum B21</head>
+                    <p>Uicesimo primo, quod nullus Sacerdos optinebit ecclesiam de certo, nisi articulos fidei et precepta diuina sciuerit, et que sint opera misericordie.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] ed. 'Curatns'</p>
+                    <p>[2] ed. 'pepa'</p>
+                    <p>[3] ed. (eosque)</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

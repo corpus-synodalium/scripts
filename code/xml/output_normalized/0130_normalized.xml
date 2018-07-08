@@ -1,0 +1,150 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Auch</title>
+                <recordID>0130</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1308-11-26</origDate>
+                <dateNotes/>
+                <origPlace>Auch</origPlace>
+                <diocese>Auch</diocese>
+                <province>Auch</province>
+                <country>France</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Provincial</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 130</p>
+                <p>Year: 1308</p>
+                <p>Month: 11</p>
+                <p>Day: 26</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Auch</p>
+                <p>Diocese: Auch</p>
+                <p>Province: Auch</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 43.6465</p>
+                <p>Longitude: 0.5855</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Provincial</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Duffour, Livre Rouge, 1.66-69</p>
+                <p>EditionOther: Mansi 25, col 199;</p>
+                <p>SourceNotes: http://books.google.com/books?id=mstTAAAAYAAJ</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'WebDownload']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: 6 canons</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Statuta edita sub anno subscripto.</p>
+                    <p>Constituciones et statuta in prouinciali concilio Auxitano celebrato edita per Reuerendum in Xto patrem Amaneum Dei gracia archiepiscopum auxitanum sexto kalendas decembris anno Domini [1] Mo CCCVIII.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>Statuimus quod quecumque persone iurisdiccioni nostre subdicte, cuiuscumque condicionis, dignitatis uel eminentie existant, in prouincia auxitana iura et deueria quecumque iure, usibus uel consuetudinibus ipsarum ecclesiis, beneficiis, abbatiis, personatibus, prioratibus uel officiis debita, uiriliter omnibus remediis quibus se iuste iuuare poterunt acquirendo, retineant et acquirant, adeo quod non possint de negligencia per superiores redargui uel puniri.</p>
+                    <p>Et si dicte persone in predictis negligentes fuerint uel remisse, earum superiores possint earumdem supplere deffectum, exigere, acquirere ecclesiis et petere ante dicta.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>De celebracione missarum.</p>
+                    <p>Uolentes diuinum officium amplius pro uiribus ampliare, statuimus quod quilibet residens intitulatus in ecclesia cathedrali uel collegiata, regulari uel seculari, habeat ebdomadam sibi assignatam officiorum ecclesie in ordine in quo fuerit constitutus, scilicet presbyter dicere missam, diaconus euangelium et sic de aliis; et predicta habeant execucioni demandari per deputatum uel deputandum per eorum superiores qui presunt ecclesiis supradictis.</p>
+                    <p>Et si in predictis dicti inferiores qui non obediunt prelatis suis uel illis qui per eos fuerint deputati, per substraccionem prebende unius septimane, ut prelato uidebitur, puniatur; uel nichilominus plus uel minus legitime puniendus prout proteruitas seu inobediencia meruerit delinquentium; super predictis uero, conscientiis ordinarium committitur, quod dispensare ualeant si sibi uidebitur faciendum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>De usuris.</p>
+                    <p>Ut animarum periculis salubrius obuietur, prouide duximus statuendum ut decretalis usure uoragine posita in titulo de usuris, libro sexto, pro prouinciali concilio habeatur et semper rectores parrochialium ecclesiarum plebibus indicantur, ne quis per ignoranciam ualeat se tueri.</p>
+                    <p>Uerum, quia iuxta canonicas sancciones, ille usurarius est censendus, qui ex pacto pro mutuo recipit aliquid ultra sortem; item censetur eodem modo iuxta statuta et priuilegia super hoc et multis aliis articulis ecclesie utilitatem concernentibus sigillata in cera uiridi sunt in thesauro Archiepiscopi auxitane ecclesie.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>De monachis et regularibus.</p>
+                    <p>Edicto perpetuo inhibemus, ut abbates regulares, bona eis et suis monachis conuentualibus communia nullatenus diuidant, irritum decernentes si contra hec fuerit aliquid effectualiter attemptatum; pari prohibicione utiliter statuentes, ne abbates regulares monachis simplicibus aliquas pensiones assignent stantes in pecuniis, bladis uel rebus aliis quibuscumque.</p>
+                    <p>Quod si contra fecerint abbates superius nominati, pensionem aliqualiter assignando, pensiones predictas, infra annum repetant; quod si predictas pensiones, infra annum prelati cum effectu non duxerint repetendas, ex tunc episcoporum quilibet, dictorum siquidem prelatorum pensiones predictas possit et ualeat mense proprie applicare: decernentes pensionis assignacionem uel pensionum factam in contrarium nullius existere firmitatis.</p>
+                    <p>Statuendo nichilominus, omnes monachos prouincie auxitane debere comedere in uno refectorio et in uno dormitorio pariterque dormire iuxta beati Benedicti regulam et canonica instituta.</p>
+                    <p>Renouantes scienter pariter et expresse constitucionem super hiis alias editam a nostris predecessoribus ne quis super hiis per non usum se ualeat aliqualiter excusare.</p>
+                    <p>Iniungentes abbatibus, ut predicta sic obseruent et faciant obseruari, quod non possint a nobis uel a suis ordinariis de culpa uel negligencia reprehendi.</p>
+                    <p>Presentem uero constitucionem non tantum ad futura extendi uolumus sed eciam ad preterita et presencia et mandamus...</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>De pensionibus religiosorum.</p>
+                    <p>Cum nonnulli mendicantes, transeuntes ad ordinem non mendicantium, ab ambicione, ad honorum beneficia uel eciam pensiones eo libentius optant sic transire, quo facilius possint predictorum aliquid optinere; nolentes in ea uocacione in qua uocati sunt, iuxta dictum apostoli, permanere: hinc est quod nos speciali constitucione duximus statuendum, quod predictis condam mendicantibus in ordine non mendicantium persistentibus, pensiones alique in pecuniis, bladis uel rebus aliis quibuscumque a prelatis ipsorum nullathenus assignentur.</p>
+                    <p>Quod si factum fuerit in contrarium, nullum esse decernimus ipso facto.</p>
+                    <p>Quod si contra fecerint prelati superius nominati pensionem eis aliqualiter assignando, pensiones predictas possint et ualeant mense sue proprie applicare.</p>
+                    <p>Presentem uero constitucionem nedum ad futura extendi uolumus, sed eciam ad preterita et presencia et mandamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>Renouacio et approbacio constitucionum.</p>
+                    <p>Cum multa sit diligencia per nostros predecessores prouisum casibus qui solent in nostris ciuitatem et diocesi ac prouincia aux. euenire per constituciones legitimas prouinciales que ab aliquibus minus debite obseruantur, hinc est quod nos omnes constituciones prouinciales alias per predecessores nostros et eciam per nos editas, renouamus, approbamus easque de fratrum nostrorum consilio et assensu, ex certa sciencia confirmamus ac ipsas inuiolabiliter precipimus obseruari.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] ed. Dni</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

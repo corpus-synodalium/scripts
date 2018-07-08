@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cognac</title>
+                <recordID>1919</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1262</origDate>
+                <dateNotes/>
+                <origPlace>Cognac</origPlace>
+                <diocese>Angoulème</diocese>
+                <province>Bordeaux</province>
+                <country>France</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Provincial</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 1919</p>
+                <p>Year: 1262</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Cognac</p>
+                <p>Diocese: Angoulème</p>
+                <p>Province: Bordeaux</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 45.7</p>
+                <p>Longitude: -0.33</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Provincial</p>
+                <p>IssuingAuthority: Pierre de Roncevault</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1262</p>
+                <p>RegnalEnd: 1270</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Mansi 23, cols 1105-1110</p>
+                <p>EditionOther: Labbe XI, coll. 820-22</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Data Capture']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Constituciones prouinciales facte in synodo apud Cognac, presidente domino Petro Dei gracia Burdegalensi archiepiscopo, an. Dom. MCCLXII. in primo anno promocionis sue.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>Ut loca in quibus res uel persone ecclesiastice capte detinentur, subiaceant interdicto.</p>
+                    <p>STatuimus, et sacri approbacione concilii definimus, quod loca, uille, castra, ciuitates, siue parochie, in quibus res ecclesie aut personarum ecclesiasticarum, uel ipse persone, capte, rapte, inuase, uel occupate detinebuntur, nisi monicione premissa, soluantur uel recredantur, ipso facto subiaceant interdicto: ipsis eciam capientibus, inuadentibus, occupantibus, detinentibus, et id fieri procurantibus, excommunicacionis sententie subiacentibus ipso facto.</p>
+                    <p>Et si forte alibi transferantur, ut aliquando comperimus esse factum, loco illo in quo facta est translacio, subiacente denuo interdicto, primum interdictum nihilo minus in suo robore perseueret.</p>
+                    <p>Et si ad plura loca translacionem contingat fieri, idem duximus obseruandum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>De illis qui impediunt iurisdiccionem ecclesiasticam.</p>
+                    <p>Rursus illos qui impediunt quoquo modo, uel procurauerint impedire, ne cause que ad forum ecclesiasticum de iure uel de consuetudine pertinere noscuntur, in foro ecclesiastico uentilentur, excommunicacionis sententie decernimus subiacere.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>De excommunicatis compellendis.</p>
+                    <p>Cum quos timor Dei a malo non reuocat, pena debet cohibere temporalis: statuimus, quod barones et alii iurisdiccionem temporalem habentes, ad compellendum excommunicatos per occupacionem bonorum, que sub sua iurisdiccione consistunt, uel alias, redire ad ecclesie unitatem, per censuram ecclesiasticam compellantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>Ut detentores non absoluantur ab excommunicacione, nisi restituant.</p>
+                    <p>Predicti uero delinquentes, a dicte excommunicacionis sentencia nullatenus absoluantur, nisi rerum et personarum facta prius deliberacione et restitucione plenarie, et satisfaciant de expensis, damnis, interesse, et deperditis, tam ipsis passis iniuriam, quam eciam ecclesiis et eorum administratoribus, in quibus ob eorum delictum cessatum extiterit.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>Quomodo impediendi, qui publice celebrant Diuina durante interdicto.</p>
+                    <p>Adiicimus: cum erit generale interdictum loci, et denunciatum per ordinarium, uidetur posse occurri contra illos, qui celebrant publice Diuina non clausis ianuis, durante interdicto predicto, hoc modo: ut inhibeatur in quolibet episcopatu generaliter, et specialiter ubi opus erit, quod parochiani et subditi non accedant ad ecclesias suas infra metas parochie loci interdicti, causa audiendi in eis Diuina, durante predicto interdicto.</p>
+                    <p>Et si secus egerint, excommunicentur, et excommunicati denuncientur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>De uicariis non constituendis.</p>
+                    <p>Cum olim in concilio prouinciali fuerit ordinatum, uicarios per archidiaconatus, decanatus, archipresbyteratus, ab archidiaconis, decanis, uel archipresbyteris non constitui, nisi forte ipsis iusta causa absentibus, hoc fieret de suorum licencia prelatorum; et nonnulli de predictis predictam constitucionem hactenus, prout intelleximus, neglexerint obseruare: ipsam ex nunc, per interminacionem excommunicacionis, cui non parendo, tam constituentes, quam constitutos supponimus, inuiolabiliter precipimus obseruari.</p>
+                    <p>Adiicientes, ut et ipsi extra fines archidiaconatuum, decanatuum, et archipresbyteratuum, de causis aliquibus cognoscere non presumant, contra facientibus penam infligentes eamdem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>Quomodo debent pronunciari constituciones prouinciales in synodo.</p>
+                    <p>Statuimus, ut constituciones prouinciales annis singulis in synodis publicentur, et maxime ille, per quas pene transgressoribus infliguntur.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

@@ -1,0 +1,118 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Skara</title>
+                <recordID>0753</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1329</origDate>
+                <dateNotes/>
+                <origPlace>Skara</origPlace>
+                <diocese>Skara</diocese>
+                <province>Uppsala</province>
+                <country>Sweden</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 753</p>
+                <p>Year: 1329</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Skara</p>
+                <p>Diocese: Skara</p>
+                <p>Province: Uppsala</p>
+                <p>CountryModern: Sweden</p>
+                <p>Latitude: 58.383333</p>
+                <p>Longitude: 13.433333</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Peter Larsson</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1322</p>
+                <p>RegnalEnd: 1336</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Gummerus, Synodalstatuter, pp65-66</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: https://books.google.com/books?id=kt8vAQAAMAAJ</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'WebDownload']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>All Text</head>
+                    <p>Tabula trunci indulgenciarum Scarensis diocesis.</p>
+                    <p>Anno domini MCCCo XXIXo ista fuerunt per uenerabilem patrem dominum Scarensem episcopum in synodo statuta et pia dispensacione concessa.</p>
+                    <p>Et primo quod in singulis dominicis diebus uel festiuis, quando fuerit oportunum, publicentur indulgencie XXXII karenarum omnibus elemosinam suam ad fabricam beate Marie Scaris largientibus; et quociens quis elemosinam dederit, tociens indulgenciam huiusmodi consequatur.</p>
+                    <p>Itemque sacerdos curatus possit dispensare cum oppressoribus infancium ita, quod dies ieiunandos in pane et aqua in karenis, exceptis omnibus sextis feriis et quatuor temporibus, possint redimere VIII denaris diuites, Pauperes uero quatuor.</p>
+                    <p>Similiter uero extra karenas, Exceptis sextis feriis quatuor temporum et quadragesime et uigiliis ieiunandis in sextis feriis conuenientibus.</p>
+                    <p>Item adulteri et periuri diuites dabunt solidum, pauperes uero quatuor denarios.</p>
+                    <p>Similiter aliis detrimentis quibuscunque secrete penitendis uigiliis sanctorum et aliis diebus ieiunandis dabunt diuites solidum, pauperes uero quattuor denarios, exceptis uigiliis superiorum omnium sanctorum et parasceues; et hec omnia fiant cum dispensacione et consilio curati et condicionem persone considerantis.</p>
+                    <p>Et sit in qualibet ecclesia truncus uel alia custodia tuta, ubi cum testimonio sacerdotis oblacio fideliter reponatur etc.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1]</p>
+                    <p>[2]</p>
+                    <p>[]</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

@@ -1,0 +1,160 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Rouen</title>
+                <recordID>0241</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1313-10</origDate>
+                <dateNotes/>
+                <origPlace>Rouen</origPlace>
+                <diocese>Rouen</diocese>
+                <province>Rouen</province>
+                <country>France</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Provincial</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 241</p>
+                <p>Year: 1313</p>
+                <p>Month: 10</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Rouen</p>
+                <p>Diocese: Rouen</p>
+                <p>Province: Rouen</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 49.443889</p>
+                <p>Longitude: 1.103333</p>
+                <p>PlaceNotes: In ecclesia beatae mariae de prato [Notre-Dame-du-Pré]</p>
+                <p>Classification: Provincial</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Bessin, Concilia, I, 171-73</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: https://books.google.com/books?id=0SGIk69vxS0C</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'WebDownload']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Non debet reprehensibile iudicari si secundum uarietatem temporum statuta quandoque uariantur humana: cum legantur nonnulla in ueteri Testamento, in nouo mutata fuisse.</p>
+                    <p>Cum igitur bone memorie Dominus Guillelmus predecessor noster in Prouinciali Concilio apud Prioratum B. M. de Prato iuxta Rotomagum, et apud Pintaruillam, quedam statuerit que quibusdam moderacionibus uidebantur non mediocriter indigere: dicta statuta cum infra scriptis ordinacionibus et detraccionibus decreuit presens Concilium moderari in modum sequitur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>De his que curati et beneficiati fugere debent.</p>
+                    <p>Statuimus quod nulli Sacerdotes curati, seu alii clerici beneficiati, in locis publicis de cetero cucufati incedant, aut sotularibus consutis laqueis calceati, uel ensibus accincti seu gladiis ad modum militum super uestes.</p>
+                    <p>Et ne minus congruentem tonsuram, aut uestimenta deferant nimia breuitate notanda.</p>
+                    <p>Neque suam in luxuriis, ebrietatibus et comessacionibus uitam ducant.</p>
+                    <p>Nec audiant aut examinent processus in curia seculari, seu quomodolibet alias exerceant officium iustitie secularis:</p>
+                    <p>Sed pie et iuste et decenter uiuant secundum canonicas sancciones.</p>
+                    <p>Qui autem culpabiles aliquorum excessuum, post monicionem de abstinendo, a quolibet eorum reprehensi, secundum qualitatem delicti arbitrio suorum iudicum puniantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>De penis iniunctis contra habentem concubinas.</p>
+                    <p>Qui uero focarias seu concubinas, aut alias mulieres suspectas in suis habebunt domibus, uel in aliis locis fouebunt, seu eciam frequentabunt: quiue feneraticos, et alios contractus illicitos exercebunt; si post monicionem, eciam generalem, de abstinendo penitus ab eisdem, culpabiles fuerint deprehensi: pena amissionis omnium fructuum beneficiorum suorum per annum absque spe misericordie puniantur.</p>
+                    <p>Et contra ipsos ad priuacionem beneficiorum huiusmodi, si per annum pertinaces in eadem perseuerent malicia, procedatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>Ne assisie uel placita teneantur diebus Dominicis.</p>
+                    <p>Idem Concilium statuit ut balliui, uicecomites, prepositi, et maiores, et alii iudices seculares quocumque nomine censeantur, generaliter moneantur ut assisias et placita diebus Dominicis, et festis Uirginis gloriose, beati Iohannis Baptiste, et beati Michelis Archangeli, sanctorumque apostolorum et Euangelistarum, et aliis que cum clero et populo in ecclesiis celebrantur, in quibus solum est diuinis laudibus, non terrenis negotiis insistendum, tenere et exercere desistant et quiescant.</p>
+                    <p>Qui si parere contemserint, temere fortasse contrarium attentando; incurrant excommunicacionis sentenciam ipso facto.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>Ne clerici procurent clamorem de Harou.</p>
+                    <p>Item quod clerici qui super factis personalibus, ubi clamor de Haro fuerit, et de facto persone super hoc queritur, iustitie seculari se supponent, et ipsi iustitie sub pretextu facti huiusmodi sponte exhibebunt emendam: post monicionem de contrario generalem, ipso facto excommunicacionem incurrant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>Ne iudices seculares compellant personas ecclesiasticas coram se respondere.</p>
+                    <p>Statuit idem Concilium, inhibendo ne quisquam iudex secularis clericos, aliasue personas occasione factorum a clericis commissorum, et super factis et delictis personalibus quibuscumque, et specialiter in clamore de Haro, nec de crimine usurarum a clerico perpetrato, uiuente eodem clerico uel defuncto, coram se quomodolibet respondere compellat, seu cognicionem huiusmodi factorum in se sumat.</p>
+                    <p>Quod si generaliter moniti, contra fecerint, excommunicati subiaceant ipso facto, a qua per Prelatos, non nisi parti et iudici satisfacto, quomodlibet absoluantur: nec per officiales aut penitenciarios Prelatorum, nisi eis de speciali commissione liceat, huiusmodi sententie relaxentur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>Ne persone ecclesiastice super causis spiritualibus respondeant coram iudicibus secularibus.</p>
+                    <p>Statuit idem Concilium quod persone ecclesiastice occasione spiritualium, et decimacionum, et consimilium, eciamsi clamor de Haro interuenerit, non presumant respondere, nec de causis huiusmodi coram secularibus iudicibus agitare: alioquin nisi destiterint generaliter moniti, aut attentata super his coram iudicibus secularibus reuocare non curauerint indilate, excommunicacionis sentenciam incurrant ipso facto.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>De penis iudicum secularium.</p>
+                    <p>Iudices eciam seculares, qui de dictis causis cognoscere presumserint, aut partes coram se directe uel indirecte super hoc litigare compulerint, aut eos ad examen Ecclesiastici iudicis remitter recusauerint, uel plus debito distulerint, post monicionem eciam generalem incurrant similiter excommunicacionis sentenciam ipso facto.</p>
+                    <p>Et si qua persona ecclesiastica contra personam ecclesiasticam studiose procurauerit Haro fieri seu clamorem ut causas huiusmodi trahat ad iudicium seculare, post publicacionem huiusmodi statuti: excommunicacionis sentenciam ipso facto incurrant, a quibus non absoluantur sententiis, nisi sicut de aliis est expressum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>De Pareatis et Breuibus.</p>
+                    <p>Statuit similiter idem Concilium quod Breuia que iustitie secularis, ut ecclesiasticam iurisdiccionem impediat et perturbet, iudicibus ecclesiasticis dirigit, in quibus de sui natura notorie breuia nulla cadunt; et per ecclesiasticos iudices nullatenus admittantur, nec eis in aliquo pareatur.</p>
+                    <p>Et si forsitan ex hoc sumta occasione balliui, uicecomites, prepositi, maiores, aliiue iudices seculares, ad personarum uel bonorum capcionem procedant, directe, uel indirecte partem ad desistendum, uel iudicem compellendo: precedente monicione eciam generali, excommunicacioni subiaceant ipso facto; cum in hoc appareat iurisdiccionem ecclesiasticam impediri per ipsos: a qua sentencia absolui non ualeant, nisi sicut de aliis est premissum.</p>
+                    <p>Hec autem Statuta precipit idem Concilium in singulis synodis et Calendis publicari, et ab omnibus inuiolabiliter obseruari; statutis factis per Dominum Guillelmum predecessorem nostrum in predictis Conciliis suis sublatis penitus, nisi quatenus continetur in istis.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

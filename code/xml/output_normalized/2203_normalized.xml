@@ -1,0 +1,190 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ivrea</title>
+                <recordID>2203</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1452-05-02</origDate>
+                <dateNotes/>
+                <origPlace>Ivrea</origPlace>
+                <diocese>Ivrea</diocese>
+                <province>Milan</province>
+                <country>Italy</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 2203</p>
+                <p>Year: 1452</p>
+                <p>Month: 5</p>
+                <p>Day: 2</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Ivrea</p>
+                <p>Diocese: Ivrea</p>
+                <p>Province: Milan</p>
+                <p>CountryModern: Italy</p>
+                <p>Latitude: 45.466667</p>
+                <p>Longitude: 7.883333</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Giovanni di Parella</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1437</p>
+                <p>RegnalEnd: 1479</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: ASDI, x/6, HM. 368/479, CC. 1</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Alfonsi, RIcerche sulle costituzioni sinodali del vescovado di Ivrea (secoli XI-XV), tesi di laurea, Universita' di Torino, Facolta' di Giurisprudenza, 1982.  (Doc. 4, pp. 212-22)</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: nos. LVII-LXII</p>
+                <p>BaseText: ['Library Scan', 'Other']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: ['Inc. &quot;Infrascripte sunt constituciones nuper edite&quot;', 'Expl. &quot;in suo robore duraturis&quot;']</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Infrascripte sunt constituciones nuper edite per reuerendum in Christo patrem et dominum Iohannem de Parella, iporegie episcopum dignissimum; et primo de rescriptis et aliis litteris per perrochianos non publicandis, nisi de licencia domini episcopi uel eius uicarii.</p>
+                </div>
+                <div>
+                    <head>Capitulum 57</head>
+                    <p>Quoniam circha execucionem rescriptorum propter impericiam clericorum, nonnulli subditi nostre diocesis quandoque minus iuste fatigantur laboribus et expensis ex importunitatibus utencium, uolentes quantum est nobis possibile ad ipsorum quietem laborare ut tenemur:</p>
+                    <p>Statuimus et ordinamus ut nullus orator siue clericus siue alius nobis subditus aliquod rescriptum, preter quam a curia nostra emanatum, publicet uel execucioni demandet nisi habita deliberacione sex dierum infra quos super ipsa execucione facienda nos aut nostrum uicarium seu periciorem consulat et hoc sub pena .XXV. solidorum, protestantes propterea quod per dictam constitucionem nostram, mandatis superiorum nostrorum, nolimus in aliquod derrogare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 58</head>
+                    <p>De residencia fienda in beneficiis.</p>
+                    <p>Item statuimus et ordinamus quod quicumque habuerit ecclesiam perrochialem, in ea teneatur personaliter residere et seruire, nec ecclesia ipsam seu quodocumque beneficium det aliquis ad firmam uel censum, uel capellanum constituat seu ignotum recipiat absque autoritate nostra, et hoc sub pena decem librarum iure nichilominus in suo robore permanente monicione premissa.</p>
+                </div>
+                <div>
+                    <head>Capitulum 59</head>
+                    <p>De publicacione excommunicatorum fienda.</p>
+                    <p>Item statuimus et ordinamus quod unusquisque curatus siue locumtenens faciat registrum de excommunicatis in sua perrochia, quos quolibet die dominice denuncet, quousque de absolucione sibi constiterit, faciatque collacionem de suo registro cum registro curie nostre, ante primam dominicam quadragesime, inter ipsum et scribam nostrum dicte curie nostre, qui pro tempore fuerit.</p>
+                    <p>Et hoc sub pena duorum ducatorum camere nostre applicandorum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 60</head>
+                    <p>De custodia Eucharestie et de aliis sacramentis.</p>
+                    <p>Item statuimus quod omnes curati seu eorum uices gerentes, uestimenta et ornamenta, imagines Ecclesie et lampades sepe mundent et honeste conseruent, diebus que horis ac locis congruis diuina officia celebrent et deuote Eucharestie, uero sacramentum teneant in ipsis ecclesiis sub firma mundaque custodia et cum lumine semper ante, quod manutenere debeant perrochiani; uolumus preterea ictum sacramentum de mense in mensem renouari et magis secundum quod expediens fuerit.</p>
+                    <p>Ita tamen quod de. XV. diebus in .XV. diebus infalabiliter uisitent et hoc sub pena .XX. solidorum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 61</head>
+                    <p>De missa audienda a perrochiano suo.</p>
+                    <p>Quoniam unusquisque perrochianus, iure positiuo testante, sub pena peccati mortalis, missam proprie perrochie, nisi causa legiptima existente, audire tenetur, ea propter statuimus et ordinamus ut unusquisque [1] curatus diocesis nostre, iuxta ordinandum aliarum constitucionum, monere, inducere et exortari studeat suos perrochianos ut id adimpleant in quantum dictam penam cupiunt euitare; quod si dictis monicionibus et exortacionibus obtemperare recusauerint, de remedio opportuno curabimus prouidere ut nostro incombit officio pastorali.</p>
+                </div>
+                <div>
+                    <head>Capitulum 62</head>
+                    <p>De ludibriis, conuiuis, coreis et aliis artibus illicitis in ecclesiis et cimiteriis non faciendis.</p>
+                    <p>Decet ut in cuius pace factus est locus aditus, eius sit cum dedita ueneracione pacificus, cum igitur in ecclesiis in quibus debet esse quieta conuersacio Deo grata, inspicientibus placida que considerantes non solum instruat sed eciam reficiat sub specie deuocionis, aliquando fuerit contuberina cantilaciones, corrizaciones, commessaciones, rixe, ludibria et multa mala committantur, que causa honestatis pertransimus sub silencio in Dei offensam et ecclesiarum graue scandalum; ea propter uolentes de remedio prouidere, uti nontro incoabit pastorali officio, ne ubi est peccatorum uenia postulanda, ibi peccandi detur ocaxio aut deprehendantur peccata commitere, statuimus et ordinamus quatenus nulla persona cuiuscumque status seu condicionis existant, in locis predictis nec eciam in cimiteriis audeat corrizare, cantare, pulsare seu pulsari facere, item nec conuiuia aut compessaciones, parlamenta publica et alia qua possunt diuinum officium perturbare et hoc sub pena solidorum decem, pro quolibet et quam penam pecuniariam contraffacens incurrat ipso facto, camere nostre applicandam et nostro arbitrio disponendam.</p>
+                </div>
+                <div>
+                    <head>Capitulum 63</head>
+                    <p>Item pari modo et sub pari pena statuimus et ordinamus ut unusquisque curatus infra secundum diem quadragesime, uel quam primum sibi aderit facultas, ueniat ad requirendum et consulendum cum prefato reuerendo domino episcopo uel uicario, in absencia ipsius reuerendi domini episcopi, de casibus reseruatis petendum que pro eo legiptimum confessorem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 64</head>
+                    <p>Item si contingat aliquem curatum ultra casus sibi concessos perrochianum aliquem recipere ad confessionem, et ipsum ad episcopum remittere, quod tunc et eo casu, ipsum in certa matricula describat faciatque uerbum in sinodo cum dicto reuerendo domino episcopo in genere.</p>
+                </div>
+                <div>
+                    <head>Capitulum 65</head>
+                    <p>Item quod nullus curatus admittat in perrochia sua aliquem fratrem, cuiuscumque fuerit ordinis ad confessiones audiendas nisi habita mittera episcopalis, sic et taliter ut in populo fiat publicacio de casibus reseruatis si quos dictos fratres habere contingerit.</p>
+                </div>
+                <div>
+                    <head>Capitulum 66</head>
+                    <p>De confessione saltem semel in anno proprio sacerdoti fienda.</p>
+                    <p>Item, quia qui super pauca fidelis fuerit, constituetur super multa et medicus, morbo cooperto, infirmantis congruam debet administrare medellam, cum de cunctis nobis subiectis simus racionem reddituri, canonica hoc sanccione dicente, statuimus et ordinamus ut omnes utriusque sexus, saltem semel in anno confiteantur peccata sua proprio sacerdoti et recipiant corpus Christi, aliter non sic confitenti nec recipienti, nisi causa legiptima fuerit excusandus et consilio sui sacerdoti abstineat a recepcione corporis Christi, si ipsum mori contingat morte subitanea, ecclesiasticam sepulturam talibus personis irreprehensibiliter licet denegari, uobis omnibus et singulis iniungentes quatenus inter cetera statuta, ut super presens statutum, in personis nobis subiectis sepius intimare curetis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 67</head>
+                    <p>De ornamentis sacerdotus.</p>
+                    <p>Quia decet clericum ornatum esse non solum interiori ornamento, quod constitit in sciencia et uirtutibus, uerum eciam ornamento exteriori, quod maxime constitit in habitu et in cessu, cibo, potu ac conuersacione: ut exemplo sue conuersacionis ostensura morum insinuet in composicioneque habitus, in composicionem mentis designat: hoc ideo presenti nostro statuimus edicto, ut nemo nostre diocesis uel residens in eadem, in sacris ordinibus constitutus, audeat uel presumat in dicta nostra diocesis exemplum eius habitacionem defferre, in capite pileum seu capellum nisi tempore pluuioso uel nisi esset in itinere constitutus, uel alia racionabilis uel euidens causa subsit; nec sine capucio incedere nec uestes nimis breues aut sine manicis deferre et hoc sub pena uiginti solidorum, quam post huiusmodi nostri edicti publicacionem, contrafacientes quoscumque in premissis uel aliquo premissorum pro qualibet uice qua contrafecerint, uolimus incurrere ipso facto.</p>
+                </div>
+                <div>
+                    <head>Capitulum 68</head>
+                    <p>Assignacio curatorum ut fidem faciant de constitucionibus et de manipulo curatorum.</p>
+                    <p>Quia plures ex curatis nostre diocesis iporegiensis sunt non habentes constituciones sinodales nostras et predecessorum nostrorum et habentes illas non publicant, hoc ideo assignantur curati ecclesiarum nostre diocesis fidemfacturi, de ipsis constitucionibus infra mensem augusti proximo uenturi, sub pena duorum ducatorum; item et pariter de manipulo curatorum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 69</head>
+                    <p>Quilibet curator habeat opus magistri Anthonii de Florencia.</p>
+                    <p>Item quia pauci sunt experti in interrogacionibus necessarii circha confessionem, est que opus magistri Anthonii de Florencie ualde laudabile et necessarium pro ipsis interrogacionibus fiendis et in qui continentur canones penitenciales et de materia excommunicacionum, una cum tractatur de excessibus circha habitu personarum, uolimus quod unusquisque curatus habeat illud opusculum infra festum Sancti Andree proximo uenturo, sub pena trium ducatorum pro quolibet confraciente incurrenda et fabrice Ecclesie nostre aplicanda.</p>
+                </div>
+                <div>
+                    <head>Capitulum 70</head>
+                    <p>Curati studeant intelligere et explicite scire .VII. peticiones oracionis dominice et .XII. articulos fidei et omni die festiuo publice dicere ter Pater Noster, Aue Maria et Credo.</p>
+                    <p>Item quia heu proh dolor propter ignoranciam curatorum et defectum non reperiunt de locis montanis, imo et de planis uiginti duo, imo nec unus qui sciat oracionem dominicalem neque articulos fidei nec salutacionem gloriose Uirginis Marie et eciam quod grauius est, plures sunt curati et ecclesiastici qui nesciunt distinguere septem peticiones oracionis dominice nec articulos fidei, tamen unusquisque curatus tenetur scire explicite dictos articulos fidei, septem peticiones oracionis dominice et Aue Maria et docere populum sibi comissium ut sciant premissa, hoc ideo presentium, serie monemus omnes curatos dicte nostre diocesis quatenus primo studeant intelligere et explicite scire predictas septem peticiones, salutaciones Uirginis Marie et duodecim articulos fidei, illosque et illas explicite declarare perrochianis suis et omnie die festiuo, antequam detur panis benedictus, dicatur saltem ter Pater Noster, Aue Maria et Credo, ita ut masculi et femine et parguli sciant reportare et eciam teneant scolas saltem ut doceant paruulos uenire uolendo, moneant que populum sibi comissum ut studeant scire predicta oracionis sub pena priuacionis ecclesiastice sepulture et semper in confessionibus audiendis interrogent primo eorum perrochianos si sciant predictas oraciones; faciendo talem diligenciam circha premissa, ut de eorum regimine terratorii nostro ualeant, bonam reddere racione anime.</p>
+                </div>
+                <div>
+                    <head>Capitulum 71</head>
+                    <p>Curati moneant populum suum ut non teneant infantes lactantes in lecti sed in cunis.</p>
+                    <p>Item, quod unusquisque curatus moneat populum suum, ut non teneant infantes in lectis ipsorum sed in cunis siue cunabulis et aliquam faciant oracionem seu deuocionem, in cunis fine infantes signo crucis muniantur.</p>
+                    <p>Item quod infra mensem notifficent adulteria publica et publice excommunicatos.</p>
+                </div>
+                <div>
+                    <head>Capitulum 72</head>
+                    <p>Matrimonia clandestina non fiant.</p>
+                    <p>Licet ab antiquo et tanto tempore quod hominum excedit memoriam, fuerit in nostre diocesi obseruatum quod contrahentes clandestina matrimonia et illis interescentes incurrerint excommunicacionis sentenciam ipso facto; multi tamen, ut intelleximus, de censura ecclesiastica non curantes, non solum reperiuntur contraxisse huiusmodi prohibita matrimonia, uerum eciam reperiuntur persona mediatrices que seducentes puellas et iuuenes, in magnam displicencia [2] parentum, inducunt ad talia matrimonia contrahenda, ex quibus scandala plurima oriuntur; unde cupientes huic morbo congruam adhibere medullam et scandalis ac animarum periculis, quantum cum Deo possimus, sicut nostro incoabit officio obuiari: statuimus et ordinamus ut talie clamdestina matrimonia de cetero contrahentes et illis interessentes, seducentes uel inducentes, ultra excomunicacionis sentencia, cui uolimos ipso facto subiacere incurrant penam decem florinorum sabaudiorum, scilicet singuli contrahentes et pariter seducentes uel inducentes, singuli uero interessentes, florinorum quinque penam incurrant, tociens quociens contra premissa uel aliquid premissorum contraffecerint: quam penam soluere teneantur in manibus nostri procuratoris fiscalis, priusquam a predicta excomunicacionis sentencia absolui possint; penis tamen per alias constituciones nostras seu predecessorum nostrorum contra excommunicatos edictarum in suo robore duraturis.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] Ed. unusquique</p>
+                    <p>[2] Ed. displicencina</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

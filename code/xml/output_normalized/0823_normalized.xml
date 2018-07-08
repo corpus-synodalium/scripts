@@ -1,0 +1,120 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Angers</title>
+                <recordID>0823</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1291</origDate>
+                <dateNotes/>
+                <origPlace>Angers</origPlace>
+                <diocese>Angers</diocese>
+                <province>Tours</province>
+                <country>France</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 823</p>
+                <p>Year: 1291</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: Saint Luke</p>
+                <p>Place: Angers</p>
+                <p>Diocese: Angers</p>
+                <p>Province: Tours</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 47.473612</p>
+                <p>Longitude: -0.554167</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Guillaume le Maire</p>
+                <p>IssuingAuthorityAlt: Guillermus Major</p>
+                <p>RegnalStart: 1291</p>
+                <p>RegnalEnd: 1317</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Avril, Statuts, III, 151-153</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: Hard Copy Scan</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Guillermus Maior episcopus Andegauensis in synodo sancti Luce anno Domini Mo CCo XCo Io.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>De cognoscentibus filias spirituales.</p>
+                    <p>Quia a multis spiritualis cognacio contempnitur adeo quod aliqui non uerentur proprias filias suas spirituales carnaliter cognoscere, iniungimus archidiaconis, archipresbiteris et decanis quod circa inquisicionem talium diligenter existant, et si quem rectorem cum aliqua parrochiana sua iacuisse, uel eam carnaliter cognouisse, de cetero inuenerint, ipsum per sex menses ab omni officio et beneficio suspendant et suspensum teneant, et medii temporis prouentuum quasi iure deportus inter archidiaconum loci et decanum uel archipresbiterum dimidia pars diuidatur, alia parte fabrice ecclesie contra quam deliquerit remanente, ita tamen quod ex eisdem prouentibus seruitoribus ecclesiarum prouideatur competenter.</p>
+                    <p>Si uero aliquis sacerdos, deseruiens ecclesie non curatus, tale commiserit cum aliqua parrochiana ecclesie cui deseruit, statim a dicta ecclesia expellatur, in archidiaconatu nullatenus seruiturus quousque triennium sit elapsum, et, si de facto ipsius scandalum ortum fuerit, a diocesi per triennium precipimus expellendum, adimentes omnino potestatem archidiaconis, archipresbiteris et decanis dispensandi cum aliquo in hoc casu, uel eciam differendi [1].</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>Ne monachi confessiones audient sine licencia episcopi.</p>
+                    <p>Statuimus et ordinamus ne quis monachus aliquam ecclesiam uel capellaniam deseruiendam assumat, et ne confessiones cuiusquam parrochianorum, eciam de consensu rectoris, absque necessitatis articulo audiat, nisi de licencia episcopi et consensu, et quod monachi in eodem dormitorio iaceant, et ad matutinas de nocte surgant, maxime tempore hiemali.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] Originalli [differendi].</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

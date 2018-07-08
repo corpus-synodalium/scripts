@@ -1,0 +1,217 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pont-Audemer</title>
+                <recordID>0129</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1279-05-04</origDate>
+                <dateNotes/>
+                <origPlace>Pont-Audemer </origPlace>
+                <diocese>Evreux</diocese>
+                <province>Rouen</province>
+                <country>France</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Provincial</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 129</p>
+                <p>Year: 1279</p>
+                <p>Month: 5</p>
+                <p>Day: 4</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Pont-Audemer </p>
+                <p>Diocese: Evreux</p>
+                <p>Province: Rouen</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 49.355</p>
+                <p>Longitude: 0.514722</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Provincial</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Bessin, Concilia Rotomagensis provinciae, I, 149-61</p>
+                <p>EditionOther: Mansi 24, 219-32</p>
+                <p>SourceNotes: https://books.google.com/books?id=0SGIk69vxS0C</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'WebDownload']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: see Foreville, Reception, 251; and Boisset, Reception, 33</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Anno Domini 1279. die Iouis ante Ascenscionem, apud Pontem Audomari fuerunt salubriter ordinata in Prouinciali Concilio per Reuerendum Patrem Dominum Guillelmum Dei gracia Archiepiscopum Rotomagensem et eius Suffraganeos, de totius Concilii prouidencia unanimi et concordi, que inferius continentur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>Uolentes Presbyterorum et clericorum excommunicatorum insolenciam coarctare, sacris Canonibus inherendo, statuimus: quod Presbyteri et clerici beneficiati quamdiu autoritate Ordinariorum suorum iuste excommunicati fuerint, beneficiorum suorum stipendia siue fructus non percipiant, et recuperandi eosdem fructus totaliter spem amittant: nisi quam citius commode potuerint, quod ordinariorum suorum arbitrio duximus relinquendum, procurauerint se absolui; et nisi Ordinarii eorum ipsis super dictis fructibus graciam fecerint specialem.</p>
+                    <p>Si uero per annum dictam excommunicacionis sentenciam animo sustinuerint indurato: procedatur acrius contra eos per beneficiorum suorum priuacionem, et alias iuxta canonicas sancciones.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>Item uolumus et ordinamus quod Presbyteri ordinati, capellas uel ecclesias parochiales obtinentes, quid Missas non celebrant ut deberent, ipsas celebrare diutius sine causa racionabili negligentes, canonice moneantur ut Missas celebrent, prout conuenit, intra tempus a suis Ordinariis prefigendum: alioqui contra ipsos per subtraccionem fructuum beneficiorum suorum, et altas prout iustum fuerit, procedatur.</p>
+                    <p>Adiicientes quod quicumque super hoc moniti fuerint, si eidem monicioni non paruerint, pro non residentibus habeantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>Uolumus eciam et ordinamus, quod Statuta in Bituricensi [1] Concilio, presertim edita contra impedientes iurisdiccionem ecclesiasticam, uel qui impediunt uel imminuunt Ecclesie libertatem; uel colligaciones, statuta, prohibiciones, uel banna, uel quecumque alia molimenta faciunt contra ipsam, singulis mensibus in parrochialibus ecclesiis, cum maior aderit populi multitudo, die Dominico uel festiuo, et in singulis Synodis, bene et intelligibiliter publicentur, necnon et Constituciones Concilii Lugdunensis* [3] super hoc contra ipsos edite, et contra usurarios manifestos.</p>
+                    <p>Precipientes districte, quod quilibet parochialis presbyter transcriptum habeat constitucionum dictarum.</p>
+                    <p>Ut animarum saluti prouideatur salubrius, adiicimus, ut penitenciariis atque confessoribus Rotomagensis Prouincie suggeratur, ut interrogent, an in penam inciderint alicuius constitucionum dictarum, et ut exponant eis penam atque pericula earumdem: ipsos ad suos Ordinarios remittentes, si contra constituciones predictas ipsos repererint deliquisse; cum per ipsos penitenciarios uel confessores absolui nequeant in hoc casu.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>Statuimus eciam et ordinamus, quod excommunicati a canone [2] propter uiolenciam manuum inieccionem in Clericos, cum de hoc legimite constiterit, per parochiales presbyteros ad mandatum Ordinariorum suorum, excommunicati publice nuntientur, atque tamquam excommunicati ab omnibus acrius euitentur: et nisi infra terminum competentem a suo Ordinario prefigendum, post denunciacionem huiusmodi procuuarerint se absolui, uel iter arripuerint ad sedem Apostolicam, uel eius Legatum, pro huiusmodi absolucione impetranda, iusticiari mandentur, sicut in aliis excommunicatis per suos Ordinarios in Rotomagensi Prouincia est hactenus fieri consuetum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>Preterea precipimus, ut secundum statuta Concilii generalis, [3] quilibet Christianus singulis annis ad minus semel confiteatur proprio Sacerdoti, uel alii potestatem habenti audiendi confessionem eiusdem, et salutarem sibi penitenciam iniugendi: et quod Uiaticum recipiat in Paschate, nisi racionabilis causa subsit quare a recipiendo Uiatico debeat abstinere.</p>
+                    <p>Alioquin contra talem, tanquam suspectum de heresi, procedatur.</p>
+                    <p>Adiicientes, quod nomina talium per suos Presbyteros Ordinario eorum insinuentur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>Statuimus quod potestates seculares, clericos capientes cum maiori uiolencia quam requirit rebellio defendentis, uel detinentes eos ultra uel contra requisicionem iudicis ecclesiastici, denuntientur excommunicati a canone in generali; ita speciali uero non, priusquam de eo constiterit euidenter.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>Districtius inhibemus, ne de causis ad Ecclesiam pertinentibus, a personis ecclesiasticis iudex secularis, maxime super personalibus accionibus, adeatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>Statuimus eciam ut Abbates, priores, et alie ecclesiastice persone, que percipiunt maiores decimas in Ecclesiis parochialibus, compellantur ad restaurandam fabricam, libros, et ornamenta, pro rata quam percipiunt in eisdem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>Inhibemus [4], ne aliqui christiani, seu alique christiane, Iudeis seruire in hospitiis suis, seu cum ipsis habitare presumant: et precipimus quod Iudeis signa patiencia deferre cogantur, que a catholicis discernantur. [5]</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>Firmiter inhibemus ne uigilie et choree in coemeteriis et sacris locis fiant [6] precipientes quod transgressores canonice puniantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>Prohibemus ne clerici beneficiati, seu in sacris Ordinibus constituti, uenacionibus au aucupiis sint intenti uel assueti.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>Statuimus, ut in abbatiis atque prioratibus, in quibus facultates non sunt diminute, reintegretur numerus religiosarum personarum: nisi forsan ex superioris expressa licencia, atque causa racionabili, sustineatur ad tempus.</p>
+                    <p>Hoc autem quod a iure statutum est, ne monachus solus alicubi commoretur, obseruari uolumus et mandamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>Moneantur monachi commorantes in prioratibus non conuentualibus, cum interminacione suspensionis et excommunicacionis, et prout expediens uisum fuerit inducantur, ut statuta Gregorii Pape, quantum ad esum carnium confessiones, et ieiunia, studeant obseruare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>Statuimus quod regulares cum secularibus non morentur, nisi de Diocesani licencia.</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>Statutum factum [7] de non contrahendo mutuo a religiosis ultra certem quantitatem, nisi de licencia Abbatis sui, firmiter obseruetur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>Precipimus quod Decani rurales, exercentes iurisdiccionem, non suspendant uel excommunicent, nisi in scriptis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 17</head>
+                    <p>Item precipimus, quod Sacerdotes non desistant a denunciacione excommunicacionis, quantumcumque partes pacificent inter se: nisi sub legitime constiterit de excommunicatorum absolucione.</p>
+                    <p>Uolumus eciam, quod absolucio fiat cum solemnitate.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18</head>
+                    <p>Item inhibemus Sacerdotibus, ne presumant excommunicare in generali, nisi pro furtis et deperditis, et competenti monicione premissa.</p>
+                </div>
+                <div>
+                    <head>Capitulum 19</head>
+                    <p>Statuimus ut Capellani, quibus Ecclesie committuntur ad tempus, super literatura, conuersacione, atque ordinacione sua, diligenter examinentur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 20</head>
+                    <p>Placuit sancto Concilio promulgare, quatenus in singulis parochialibus Ecclesiis, et locis publicis, moneantur diebus dominicis et festiuis a se distantibus ter clerici non uxorati, et eciam uxorati, ut a secularibus negotiis abstineant, maxime inhonestis, quodque tonsuram deferant et habitum clerico congruentes.</p>
+                    <p>Alioquin si ab huiusmodi, tercio moniti, non desisterint: non coniugatos, dum his se implicuerint, quominus de suis facultatibus, statutis et consuetudinibus patrie subiaceant, Ecclesia non defendet: in coniugatis autem equanimiter tolerabit, quod ab ipsis iusticias debitas Domini seculares, uelut ab aliis uxoratis, exigant, atque seruicia consueta.</p>
+                    <p>Denique si post premissas moniciones clerici in apostasia tonsure et habitus clericalis remanserint, et se in negotiis secularibus permiscuerint, et contingat quod pro suis excessibus a personis atque iudicibus secularibus in carceribus fuerint comprehensi: non precipiemus eos per censuram ecclesiasticam liberari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 21</head>
+                    <p>Statuimus eciam de clericis non deferentibus tonsuram quod ipsi moneantur in synodis, in ecclesiis cathedralibus atque parochialibus, et eciam a decanis ruralibus in suis Kalendis, ut ipsi tonsuram et habitum deferant clericis congruentes.</p>
+                    <p>Alioquin si post trinam ammonicionem, per interualla debita factam eisdem super predictis, contemserit tonsuram et habitum deferre predictos, et in delictis enormibus fuerint deprehensi per iusticiam laicalem, non defendentur per Ecclesiam quoad hec, quominus inde a iusticia seculari debite puniantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 22</head>
+                    <p>Item statuimus de sacerdotibus excommunicatis propter defectum solucionis decime, ut infra instantem Ascensionem Domini currente se absolui, ac secum dispensari super irregularitate, si quam occasione predicta incurrerunt.</p>
+                    <p>Alioqui puniemus eos grauiter, eciam per beneficiorum suorum priuacionem, si uiderimus expedire.</p>
+                </div>
+                <div>
+                    <head>Capitulum 23</head>
+                    <p>Precipimus eciam ut per singulas Ecclesias moneantur clerici crucesignati, ne litteris apostolicis, uel Legati sedis apostlice, seu alias quoquo modo abutantur: scientes, quod sollicitudine qua conuenit, contra eos inuigilabimus, ut excessus eorum non remaneat impuniti.</p>
+                </div>
+                <div>
+                    <head>Capitulum 24</head>
+                    <p>Statuimus eciam, quod Canonici regulares, qui ad curam animarum a suis patronis, Episcopis presentantur, non recipiantur ad eas, nisi prius per inquisicionem prehabitam constiterit eos esse bone uite, honesteque conuersacionis, bonis imbutos moribus, atque eciam de sufficienti sciencia eorum, atque natalibus eorumdem: quodque eorum prelati, postquam ipsi ab Episcopo recepti fuerint ad curam animarum, eos sine licencia Episcoporum ab eis non ualeant amouere: et quod, nisi sufficientes personas infra quadraginta dies a tempore uacacionis ecclesiarum, presentauerint: per Episcopos ecclesiis uacantibus prouideatur, ponendo ibi Presbyteros seculares, si sibi uidebitur expedire.</p>
+                    <p>His autem ita factis, Concilioque concorditer celebrato, recessimus dicendo: In uiam pacis, et quasdam oraciones competentes.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cambrai</title>
+                <recordID>2153</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1345-05-23</origDate>
+                <dateNotes/>
+                <origPlace>Cambrai</origPlace>
+                <diocese>Cambrai</diocese>
+                <province>Reims</province>
+                <country>Belgium</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 2153</p>
+                <p>Year: 1345</p>
+                <p>Month: 5</p>
+                <p>Day: 23</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Cambrai</p>
+                <p>Diocese: Cambrai</p>
+                <p>Province: Reims</p>
+                <p>CountryModern: Belgium</p>
+                <p>Latitude: 50.175579</p>
+                <p>Longitude: 3.2345</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Gui de Ventadour</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1342</p>
+                <p>RegnalEnd: 1349</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Reusens, Statuta, 105-6</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Library Scan', 'WebDownload']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Locus LXVus.</p>
+                    <p>Statuta et addiciones facte per reuerendum in Christo patrem dominum Guidonem de Uentheodoro, episcopum Cameracensem, apud Castellum in Cameracesio, in synodo per eum celebrata die lune post Sacramenti anno supradicto, M. CCC. XLVo. [1]</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>Ad nostrum, quod dolentes referimus, peruenit auditum quod nonnulli nostrarum ciuitatis et diocesis Cameracensis beneficia obtinentes, quibus animarum cure sunt annexe, ac in eisdem per dispensacionem nostram uel eciam aliam iusto titulo minime residentes, seu dictis beneficiis per se infirmitate uel alia iusta causa minime deseruientes, ipsis beneficiis faciunt per apostatas peregrinos, penitus ignotos seu ignorantes, aut tales quod utrum sint in sacro sacerdotii ordine constituti uerisimiliter dubitatur, uel alios minus idoneos ad administranda ecclesiastica sacramenta, dampnabiliter deseruiri in graue scandalum ac periculum animarum; Nos igitur morbo tam pestifero uolentes, prout Nobis incumbit, de salubri remedio prouidere, ne ex negligencia in arcto iudicio possimus in hoc casu reprehendi, matura deliberacione preuia, duximus statuendum quod nullus de cetero in nostris ciuitate seu diocesi Cameracensi beneficio curam animarum habenti ecclesiastica sacramenta ministrando deseruire presumat uitra mensem, nisi Nobis aut nostra in illa parte fungentibus auctoritate prius personaliter se presentauerit, et auctoritate nostra ad deseruiendum tali beneficio, exhibendi ecclesiastica sacramenta idoneus fuerit repertus; contrafacientes ipso facto decernimus auctoritate huius nostri synodalis statuti maioris excommunicacionis sentencia innodatos.</p>
+                    <p>Presens siquidem statutum ad deseruientes pro residentibus personaliter in suis beneficiis et eisdem pro se officiantibus absentibus, tamen per illa tempora dumtaxat et commoda, quibus statuta nostra permittunt, residentes absque nostra licencia a suis absentare beneficiis, uolumus non extendi.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] Date originalli in brackets.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

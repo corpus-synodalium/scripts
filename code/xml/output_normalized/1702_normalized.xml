@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lamego</title>
+                <recordID>1702</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1252</origDate>
+                <dateNotes/>
+                <origPlace>Lamego</origPlace>
+                <diocese>Lamego</diocese>
+                <province>Braga</province>
+                <country>Portugal</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 1702</p>
+                <p>Year: 1252</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Lamego</p>
+                <p>Diocese: Lamego</p>
+                <p>Province: Braga</p>
+                <p>CountryModern: Portugal</p>
+                <p>Latitude: 41.100833</p>
+                <p>Longitude: -7.81</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Egas Pais</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Synodicon Hispanum II, 279-80</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['Library Scan', 'Hard Copy Scan']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: two constitutions concerning tithes and parishes</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>Nouerint uniuersi presentem paginam inspecturi quod nos Egas, diuina miseracione episcopus Lamecensis, in sinodo nostra sentenciando pronunciauimus, habito consilio peritorum, quod omnes decime nostre diocesis inter ecclesias diuidantur sicut hactenus diuise fuerunt.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>Item, si aliquis ab ista sinodo in antea emerit possessiones in terminis alienis, decime integre remaneant ecclesie in cuius termino hereditas fuerit laborata.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>Item, si aliquis dederit suam hereditatem ad porcionem alicui de alio termino laborandam, media pars illius decime ducatur ad ecclesiam cuius parrochianus fuerit laborator.</p>
+                </div>
+                <div>
+                    <head>Explicit</head>
+                    <p>In cuius rei testimonium presentem paginam sigillo nostro fecimus comuniri.</p>
+                    <p>Sub era m.a cc.a I. xl.a</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

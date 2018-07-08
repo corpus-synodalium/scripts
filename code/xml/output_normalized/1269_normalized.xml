@@ -1,0 +1,418 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Angers</title>
+                <recordID>1269</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate precision="circa">1350</origDate>
+                <dateNotes/>
+                <origPlace>Angers</origPlace>
+                <diocese>Angers</diocese>
+                <province>Tours</province>
+                <country>France</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Abstract/Abbreviation</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 1269</p>
+                <p>Year: 1350</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: Yes</p>
+                <p>DatingNotes: compiled during or after bishopric of Foulque de Mathefelon (r. 1323-53), since title makes reference to him</p>
+                <p>Place: Angers</p>
+                <p>Diocese: Angers</p>
+                <p>Province: Tours</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 47.473612</p>
+                <p>Longitude: -0.554167</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Abstract/Abbreviation</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: Paris, BnF lat. 11030, fol. 29v-33v</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Avril, Statuts, III, 258-66</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: Hard Copy Scan</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: Abbreviation of the second Synodal quire (with statutes of Nicholas Gellent and Guillaume le Maire). As Avril notes (p. 258, n1) none of the obligations concerning prelates and monks are listed; only those concerning 'les devoires des cures' are included. &quot;Il est significatif de noter que les pretres en restaient a cet enseignement simplifie&quot;.</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Constituciones dominorum Nicholai, Guillelmi, Fulconis episcoporum.</p>
+                    <p>Andegauensium incipiunt statuta synodalia secundum Andegauensem ecclesiam.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>Primo statuimus quod quilibet habeat ordinarium secundum usum Ecclesie Andegauensis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>Item, ne missale et calix obligentur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>Item, statuimus quod parrochianis ad nos sunt mittendi propter aliquos casus uenientes ad nos uisitantes, ne grauentur laboribus et expensis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>Item, de testamentis summam X librarum Turonensium excedentibus nobis, uel officiali nostro infra unum mensem notificent.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>Item, de diligencia circa diuinum officium.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>Item, ne mulieres purificentur die nupciarum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>Item, contrahatur matrimonium per uerba de presenti donec in benediccione nupciali.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>Item, ne presbiteri habeant suos pueros secum ad altare ministrantes nec alios commorantes.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>Item, de filiabus spiritualibus que sunt et qualiter euitandus concubitus earum sub pena beneficium amittendi.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>Item, ut quilibet presentet suum capellanum episcopo.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>Item, precipimus quod rectores habeant capellanos secum commorantes in ecclesiis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>Item, quod singulis diebus dominicis et festiuis excommunicati publice in ecclesia nominent eciamsi creditoribus suis satisfecerint, donec absolucionis beneficium meruerunt obtinere et, si sustinuerint, tradentur a nobis uel archidiacono uel archipresbitero.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>Item, quod quilibet habeat quaternum synodale sub pena excommunicacionis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>Item, de citacionibus faciendis et sigillacione earumdem et quod data earumdem diligenter attendatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>Item, quod capellani deseruientes ecclesiis habeant uictum sufficientem et quod firmarii penitus excludentur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>Item, ne hostie, loco panis benedicti, alicui ministrantur ne propter hoc eucharistiam uitare uideantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 17</head>
+                    <p>Item, ne clerici beneficiati uel alii qui gaudere uoluerint priuilegio clericali existant in ecclesiis ociosi uel cucufati, immo tonsuram congruam defferentes legant Domino seruientes.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18</head>
+                    <p>Item, postquam aliquis sustinuerit excommunicacionem per duos menses, a tempore publicacionis eiusdem, totam eius familiam ecclesiastico supponimus interdicto, preterquam in baptismi et penitencie sacramentis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 19</head>
+                    <p>Item, prohibemus ne questores cum cartula sine litteris nostris uel officialis nostri admittantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 20</head>
+                    <p>Item, si aliquis excommunicatus in mortis articulo pecierit absolucionem, faciat iuramentum de stando iuri, obligans bona sua et heredes suos, et si non habeat bona, sufficit iuramentum et, si non possit loqui, signa tamen penitencie appareant, in ipso pro eo caueant heredes, si uoluerint, si non nihilominus absoluatur.</p>
+                    <p>Et si signa penitencie non appareant, ecclesiastica careat sepultura.</p>
+                </div>
+                <div>
+                    <head>Capitulum 21</head>
+                    <p>Item, inhibemus ne presbiteri cum cornibus et canibus uenantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 22</head>
+                    <p>Item, ne in locis in quibus morentur, tabernas intrent.</p>
+                </div>
+                <div>
+                    <head>Capitulum 23</head>
+                    <p>Item, ne aliquid exigant pro sepulturis, benediccionibus nupciarum, nec pro ceteris Ecclesie sacramentis, nec pro litteris liberatoriis ad nubendum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 24</head>
+                    <p>Item, ne mulieres recipiantur ad purificacionem nisi prius denunciatum fuerit sacerdoti.</p>
+                </div>
+                <div>
+                    <head>Capitulum 25</head>
+                    <p>Item, ne sacerdotes faciant eos abiurare quando carnaliter commiscuerunt, sed eos aliter possunt inducere ad nubendum, et si unus promittat alteri quia primum sese carnaliter miscuerint, ex tunc contraxerint ad inuicem unus in alium nomine matrimonii, si Ecclesia ualeat consentire.</p>
+                </div>
+                <div>
+                    <head>Capitulum 26</head>
+                    <p>Item, concedimus uiginti dies indulgencie omnibus qui, dum portat Corpus Christi, detulerunt comitiuam.</p>
+                </div>
+                <div>
+                    <head>Capitulum 27</head>
+                    <p>Item, precipimus ne sacerdotes per conuocacionem alicuius questoris a loco conueniant alienam nisi nostras super hoc receperint litteras speciales.</p>
+                </div>
+                <div>
+                    <head>Capitulum 28</head>
+                    <p>Item, quod qualibet die dicant horas canonicas.</p>
+                </div>
+                <div>
+                    <head>Capitulum 29</head>
+                    <p>Item, precipimus quod habentes ecclesias et capellanias successiue se faciant ad ordines promoueri.</p>
+                </div>
+                <div>
+                    <head>Capitulum 30</head>
+                    <p>Item, prohibemus ne quis imponat publicam processionem cum id ad nostrum dignoscatur officium pertinere et ne rectores in suis ecclesiis hoc fieri permittant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 31</head>
+                    <p>Item, precipimus ne quis benediccionem celebret nupcialem donec banna publice fuerint facta, ut moris est, per tres dies dominicos uel festiuos.</p>
+                </div>
+                <div>
+                    <head>Capitulum 32</head>
+                    <p>Item, sacerdotes curati coram suo archidiacono uel decano conueniant die iouis post Quasimodo, ad penam quinque solidorum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 33</head>
+                    <p>Item, ne persone ecclesiastice per litteras obligentur curie secularis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 34</head>
+                    <p>Item, quod aggrauaciones, ut continentur in illis, execucioni debite demandentur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 35</head>
+                    <p>Item, quod sacerdotes requisiti de confessionibus audiendis in mortis articulo de personis uicinis accedent indilate; alioquin si quis per negligenciam decesserit inconfessus, sciat beneficio suo esse priuandus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 36</head>
+                    <p>Item, ne aliquis capellanus extraneus admittatur, nisi appareat de conuersacione et ordinis promocione.</p>
+                </div>
+                <div>
+                    <head>Capitulum 37</head>
+                    <p>Item, sacerdotes litteras iudicum extraneorum exsequantur, donec eis auctoritas sit ostensa.</p>
+                </div>
+                <div>
+                    <head>Capitulum 38</head>
+                    <p>Item, precipimus ne diaconi eucharistiam ministrent nec audient confessiones, nisi in mortis articulo hoc requiratur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 39</head>
+                    <p>Item, ne laici in choro uel cancello tumulentur, nisi sint ecclesie fundatores uel eorum heredes uel patroni, nobis uel officiali nostro inconsultis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 40</head>
+                    <p>Item, inhibemus ne sacerdotes, a dominica ante Cineres usque ad festum Pasche, edent carnes sub pena suspensionis et excommunicacionis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 41</head>
+                    <p>Item, ne de cetero in capellis et locis solitariis benedicciones nupciarum celebrentur, licet banna in ecclesiis parrochialibus sufficienter fuerint presignata, que loca quoad hoc supponimus ecclesiastico interdicto.</p>
+                </div>
+                <div>
+                    <head>Capitulum 42</head>
+                    <p>Item, ne rectores ecclesiarum alias ecclesias regere presumant propter propinquitatem hoc facere solentes.</p>
+                </div>
+                <div>
+                    <head>Capitulum 43</head>
+                    <p>Item, statuimus ne sacerdotes litteras excommunicacionis exsequant publice in ecclesiis suis, si post XV dies impetracionis sibi fuerint presentate, sed excommunicatus euitetur, donec fuerit absolutus.</p>
+                    <p>Item, si prope diem Resurreccionis Domini uel prope mortem alicuius, littere excommunicacionis fuerint presentate, quod fieri solet per maliciam aduersarii, ut a corona fidelium repellentur, uel ab ecclesia sepultura, ipsos excommunicatos loco nostri in forma Ecclesie absoluatis, nobis eorum nomina refferentes.</p>
+                </div>
+                <div>
+                    <head>Capitulum 44</head>
+                    <p>Item, statuimus quod sacerdotes per se non per alium mandata nostra exsequentur siue iudicum ordinariorum, dum iste clausule continentur: si uobis constiterit, uel si ita est, uel si contra fecerit, uel nisi obtentauerit, testes excommunicacionis aduocantes.</p>
+                    <p>Item, suos clericos et capellanos iurare faciant rectores quod alia mandata fideliter exsequentur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 45</head>
+                    <p>Item, prohibemus ne sacerdotes uel clerici citaciones faciant uel excommunicatos denuncient, nisi prius a nobis recepto mandato.</p>
+                    <p>Item, ne sigillent citaciones, donec fecerint mandata.</p>
+                </div>
+                <div>
+                    <head>Capitulum 46</head>
+                    <p>Item, precipimus quod sacerdotes curati dicant ad notam uesperas et matutinas ad notam, diebus dominicis et festiuis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 47</head>
+                    <p>Item, iniungimus sacerdotibus ut dicant parrochianis suis nullum matrimonium contrahi posse per potaciones inter se factas mutuo, ex qua potacione plures uidimus iam deceptos.</p>
+                </div>
+                <div>
+                    <head>Capitulum 48</head>
+                    <p>Item, inhibemus ne questores predicare in ecclesiis permittantur, sed rectores uel capellani eorum indulgenciis exponant, prout in litteris nostris uel officialis nostri uiderint contineri.</p>
+                </div>
+                <div>
+                    <head>Capitulum 49</head>
+                    <p>Item, precipimus quod processiones consuete fiant et quod sacerdos populum sibi subditum die dominica precedenti diligenter moneat ut intersint uel saltem unum de familia mittant et hoc sub pena excommunicacionis et suspensionis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 50</head>
+                    <p>Item, ne executores de bonis defunctorum aliquid sibi acquirant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 51</head>
+                    <p>Item, prohibemus ne in dominicis diebus et aliis solempnitatibus beate Marie Uirginis, sanctorum apostolorum et aliis celebrare consuetis, persone ecclesiastice terrenis operibus non insistent, uerum lumen laicis ostendentes et ipsos ad ecclesiam conuenient inducendos.</p>
+                </div>
+                <div>
+                    <head>Capitulum 52</head>
+                    <p>Item, inhibemus ne molciores ac barbitonsores de suis operibus diebus illis operentur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 53</head>
+                    <p>Item, uirtute sancte obediencie, precipimus rectoribus et capellanis quod singulis dominicis diebus excommunicatos denuncient et faciant euitari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 54</head>
+                    <p>Item, statuimus quod pulsetur ad uesperas in uesperis nouem leccionum et quod missa dicatur cum nota.</p>
+                </div>
+                <div>
+                    <head>Capitulum 55</head>
+                    <p>Item, precipimus rectoribus ecclesiarum, sub pena suspensionis, quod ipsi infra mensem a tempore quo receperint presbiteros in suo seruicio nobis uel nostris clericis ad hoc deputatis fideliter representent.</p>
+                </div>
+                <div>
+                    <head>Capitulum 56</head>
+                    <p>Item, in uirtute sancte obediencie, precipimus quod nomina excommunicatorum, qui ultra annum sentenciam excommunicacionis sustinuerint, nobis uel officiali nostro mittantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 57</head>
+                    <p>Item, precipimus ne sacerdotes de peccatis nobis reseruatis absoluere presumant, falcem in messem alienam mittentes.</p>
+                </div>
+                <div>
+                    <head>Capitulum 58</head>
+                    <p>Item, quod sacerdotes clausa defferent indumenta sub amissione eorumdem leprosis erogatorum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 59</head>
+                    <p>Iniungimus sacerdotibus quod in penitenciis dandis iniungant semel in anno uel plus secundum qualitatem culpe ecclesiam sancti Mauricii uisitare nostram, nam indulgencias unius anni et quadraginta dies in festo sancti Mauricii et per octabas poterunt obtinere sequentes.</p>
+                </div>
+                <div>
+                    <head>Capitulum 60</head>
+                    <p>Item, quod sanctum chrisma quolibet anno ante Pascha per honestas personas petatur, sub pena decem solidorum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 61</head>
+                    <p>Item, ne sortilegi et diuinatores permittantur, sed nobis reuelentur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 62</head>
+                    <p>Item, quod gratis omni exaccione depulsa decedentes inungatur cum sit unccio salubra sacramentum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 63</head>
+                    <p>Item, quod omnes utriusque sexus discrecionem habentes semel in anno proprio sacerdoti confiteantur et recipiant Eucharistie sacramentum, et quod hoc in ecclesiis frequenter publicetur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 64</head>
+                    <p>Item, iuramento precipimus quod sint sacerdotes ecclesiarum rectores in eisdem, alioquin ipsos ut periuros puniemus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 65</head>
+                    <p>Item, rectores eant ad synodum, nisi tamen habeant impedimentum, de quo fidem facere tenentur infra mensem, sub pena quinque solidorum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 66</head>
+                    <p>Item, ne capelle et oratoria de nouo construantur sine licencia nostra, ipsas merito suspendendas et hoc uolumus per rectores nostre diocesis publicari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 67</head>
+                    <p>Item, quod infra tres menses a tempore mortis testatoris nostris commissariis ad hoc deputatis, rectores exhibeant, una cum nominibus executorum quos elegerint.</p>
+                </div>
+                <div>
+                    <head>Capitulum 68</head>
+                    <p>Item, prohibemus ne rectores ecclesiarum eant ad exsequias mortuorum, nisi fuerint requisiti et quod suas ecclesias sine presbitero non dimittant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 69</head>
+                    <p>Item, quod in diebus dominicis et festiuis ab operibus seruilibus caueant sub pena suspensionis et excommunicacionis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 70</head>
+                    <p>Item, quod si aliquis sacerdos cum filia spirituali fuerit fornicatus ab omni officio deponatur et peregrinando duodecim annis peniteat et postea, factus religiosus, Deo seruiat cunctis diebus uite sue.</p>
+                    <p>Item, beatus Gregorius omnibus episcopis: Si qui sint presbiteri, diaconi, subdiaconi qui in crimine fornicacionis iaceant, interdicimus eis ingressum ecclesie usque dum peniteant et emendant.</p>
+                    <p>Si quis uero in peccato suo perseuerauerit, nullus presumat officia audire quia benediccio illorum uerterit in malediccionem, dicente Domino per prophetam: Benediccionibus uestris maledicam.</p>
+                    <p>Qui hinc precepto inobedire nolunt, crimen idolatrie incurrunt.</p>
+                    <p>Item, Bonifacius: Ille cui ingressus ecclesie est interdictus et diuina celebrat, irregularis efficitur, sed contra hoc interdum si diuinis ingerat sacramentis, nec tali durante interdicto debeat in cimiterio sepeliri, et ob hoc, nos omnes presbiteros, diaconos, subdiaconos nostre diocesis auctoritate canonica fornicatores notorios publice nunciamus quoad se et alios fore suspensos et eisdem ingressum ecclesie fore penitus interdictum, nostris subditis inhibentes ne missas talium audiant nec eorum corpora, nisi penituerint in cimiterio audeant sepelire.</p>
+                </div>
+                <div>
+                    <head>Capitulum 71</head>
+                    <p>Item, precipimus quod singuli defferant secum ad synodum quaternum synodale parati suis archipresbiteris exhibere.</p>
+                </div>
+                <div>
+                    <head>Capitulum 72</head>
+                    <p>Item, prohibemus ne aliquis executor executori suo bona testatoris empcionis nomine uel aliquouis modo tradat seu tradi consenciat, decernentes contractus in hoc casu esse nullius momenti et ipsos executores tradentes uel consencientes reos ad restitucionem duppli precii rei tradite uel translate in utilitate deffuncti conuertandum auctoritate presentis statuti condempnamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 73</head>
+                    <p>Item, precipimus quod quolibet mense quaternum synodale legatur a quolibet sacerdote.</p>
+                </div>
+                <div>
+                    <head>Capitulum 74</head>
+                    <p>Item, precipimus quod nullus peremptoriam cum deffectu sibi directam exsequatur, nisi prius uiderit simplicem et redderit sigillatam nisi contineatur quod simplex facta fuerit per iudicem ante eius apparitorem aut per aliam personam hoc facere potentem de mandato speciali.</p>
+                </div>
+                <div>
+                    <head>Capitulum 75</head>
+                    <p>Item, precipimus uniuersis rectoribus et capellanis ut cum [1] ad nos mittant incestuosos certificare nobis curent utrum crimen sit notorium uel occultum.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] Originalli (cum).</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

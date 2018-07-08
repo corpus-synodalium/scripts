@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Angers</title>
+                <recordID>0831</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1298</origDate>
+                <dateNotes/>
+                <origPlace>Angers</origPlace>
+                <diocese>Angers</diocese>
+                <province>Tours</province>
+                <country>France</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 831</p>
+                <p>Year: 1298</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: Saint Luke</p>
+                <p>Place: Angers</p>
+                <p>Diocese: Angers</p>
+                <p>Province: Tours</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 47.473612</p>
+                <p>Longitude: -0.554167</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Guillaume le Maire</p>
+                <p>IssuingAuthorityAlt: Guillermus Major</p>
+                <p>RegnalStart: 1291</p>
+                <p>RegnalEnd: 1317</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Avril, Statuts, III, 194-99</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: Hard Copy Scan</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Idem Guillermus in synodo sancti Luce eodem anno.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>De eidem sancte synodo precedenti pena adiecta.</p>
+                    <p>Cum nos nuper ad reformacionem curiarum ecclesiasticarum nostre diocesis et ad quorumdam filiorum iniquitatis dictas curias frequentancium subditos nostros suis peruersis machinacionibus uexancium et infestancium calumpnias reprimandum, cum archidiaconis, archipresbiteris et decanis presentibus et absencium uicariis habito salubri et diligenti tractatu et ipsorum consensu super hoc accedente, ad utilitatem reipublice, inter alia duximus statuendum quod sigillatores predictorum archidiaconorum, archipresbiterorum et decanorum de cetero aliquas litteras super quibusuis contractibus confectas, chartas siue testamenta nullatenus presumant sigillare, nisi predicti archidiaconi, archipresbiteri et decani, eorum officiarii et sigillatores predicti ipsas passarent, aut esset aliqua specialis littera, ad quam specialiter transeundam inter certas personas alicui notariorum suorum specialiter committerent uices suas, ac nonnulli archidiaconi, archipresbiteri et decani [1], ordinacione nonobstante predicta, pluribus personis, prout nos experiencia docuit, extra loca in quibus sua consueuerunt tenere placita, uices suas committunt, ac ad ipsorum relacionem, litteras per ipsos passatas, super quibuslibet contractibus confectas sigillent communiter sicut prius, et ac si ab ipsismet archidiaconis, archipresbiteris et decanis, officiariis uel sigillatoribus eorum passate fuissent in contemptum et elusionem ordinacionis predicte et prouincialis concilii dudum apud Salmurium celebrati, quo cauetur processus et litteras, per tales cursores et exploratores passatas, nullius fore momenti, decernentes monemus omnes et singulos archidiaconos, archipresbiteros et decanos predictos, ac officiarios et sigillatores eorum, una monicione pro omnibus, quod statutum huiusmodi studeant inuiolabiliter obseruare, in contrarium uero facientes ac eos qui commissiones tales a tempore noticie monicionis recipere et illis uti presumpserint, suspensionis sentenciam promulgamus, preter penam in dicto concilio Salmuriensi statutam.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>De excusacione synodi per abbates.</p>
+                    <p>Cum abbates de iure ad synodum uenire teneantur, nisi certum et canonicum habeant impedimentum, quod in suis litteris excusacionis in synodo episcopo dirigendis tenentur exprimere et multoties aliqui friuole se excusant, uera impedimenta non habentes, statuimus quod quicumque abbas se excusauerit in synodo in litteris sue excusacionis certum et sufficiens pretendat impedimentum, et infra quindecim dies a die synodi episcopo, si in partibus fuerit, aut officiali ipsius, si episcopum abesse contigerit, se presentet, nisi ex certa causa et notoria excusante constet agere in remotis, uel in infirmitate notoria detineri, super impedimento in sua excusacione contento fidem facturus prestito iuramento.</p>
+                    <p>Si quis uero infra dictos quindecim dies pro predictis adimplendis uenire distulerit, ipsum, quem ex tunc suspendimus, decernimus manere suspensum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>Ut presbiteri ueniant ad synodum.</p>
+                    <p>Familiaritas nimia parit contemptum, quod manifeste huius temporis experimenta declarant, cum sicut fide occulata comperimus, rectores ecclesiarum nostre diocesis, sue malicie et uenie facilitate confisi, ad synodos nostras uenire contempnant, hinc est quod omnes et singulos ecclesiarum rectores nostre diocesis, una monicione pro omnibus, admonemus quod ipsi ad nostras synodos ueniant, ut tenentur, nisi iusto, certo et canonico impedimento fuerint impediti, super quo nobis fidem faciant infra mensem a die synodi numerandum.</p>
+                    <p>Si quis uero premissis parere contempserit, quinque solidos nomine pene nobis soluere teneatur.</p>
+                    <p>Sane quia de facili de absencium nobis omnibus nominibus nobis constare non possit, precipimus archipresbiteris et decanis quod quilibet super absentibus sui archipresbiteratus uel decanatus nos uel officialem nostrum studeant reddere cerciores.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] Originalli [decani].</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

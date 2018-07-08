@@ -1,0 +1,278 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Milan</title>
+                <recordID>0300</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1287-09-12</origDate>
+                <dateNotes/>
+                <origPlace>Milan</origPlace>
+                <diocese>Milan</diocese>
+                <province>Milan</province>
+                <country>Italy</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Provincial</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 300</p>
+                <p>Year: 1287</p>
+                <p>Month: 9</p>
+                <p>Day: 12</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Milan</p>
+                <p>Diocese: Milan</p>
+                <p>Province: Milan</p>
+                <p>CountryModern: Italy</p>
+                <p>Latitude: 45.4666</p>
+                <p>Longitude: 9.1666</p>
+                <p>PlaceNotes: in ecclesia Sancte Tecle</p>
+                <p>Classification: Provincial</p>
+                <p>IssuingAuthority: Ottone Visconti</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1262</p>
+                <p>RegnalEnd: 1295</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Baroni, Atti dell'arcivescovo...Visconti, doc. CCLXVI (pp227-234)</p>
+                <p>EditionOther: Muratori, RIS, VIII, Milan (1726), coll. 1053-1068; Mansi 24, col 868-882; Arnoldi, Carte dell'Archivio Arcivescovile di Vercelli, pp324-335, n. 77</p>
+                <p>SourceNotes: https://babel.hathitrust.org/cgi/pt?id=wu.89106551070</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['Library Scan', 'WebDownload']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Otto, Dei et apostolice sedis gracia sancte Mediolanensis ecclesie archiepiscopus, uniuersis presentes literas inspecturis salutem in domino Iesu Christo.</p>
+                    <p>Quia hominum malicia preualente caritas refrigescit, fides subtrahitur, attenuatur Ecclesie deuocio et libertas ecclesiastica usurpatur, nos ad honorem Dei patris omnipotentis et beate Marie Uirginis gloriose et sancti Ambroxii confessoris, patroni nostri, et ad animarum salutem et subditorum nostrorum edificacioncm et immunitatem Ecclesie conseruandam et reprimendam maliciam peruerssorum, presentibus et assistentibus nobis [1] in prouinciali concilio uenerabilibus fratribus et sufraganeis nostris... Brixiensi,... Nouariensi,... Laudensi,... Taurinensi,... Cremonensi, Albensi, Uintimiliensi episcopis, ac electo Aquensi,... archipresbitero et ordinariis ecclesie Mediolanensis, Ascherio archidiacono Alexandrie et magistro Petro Goltintesta canonico Laudensi procuratoribus... Astensis episcopi,... uicedomino,... preposito et Iohanne de Ferraria canonico ecclesie Brixiensis pro capitulo eiusdem [2] ecclesie,... archidiacono et archipresbitero ecclesie Nouariensis pro capitulo eiusdem ecclesie, Iacobo Cimiterio [3] et magistro Petro Goltintesta [4] canonicis ecclesie Laudensis pro capitulo eiusdem ecclesie, Andriolo de Gauio et Amedeo Pane canonicis ecclesie Terdonensis pro capitulo eiusdem ecclesie, sede uacante, magistro Germano canonico Astensi pro capitulo Astensis ecclesie,... preposito et Bertholino Prando canonico ecclesie Taurinensis pro capitulo eiusdem ecclesie, Oberto de Merescalco [5] canonico Aquensis ecclesie pro capitulo eiusdem ecclesie,... preposito Nantelmo de Adelaxiis, Pergamino de Nembro [6] et Robacastello de Muzo canonicis ecclesie Pergamensis pro capitulo eiusdem ecclesie,... archipresbitero et Guizardo de Persico canonico ecclesie Cremonensis pro capitulo eiusdem ecclesie,... archidiacono et Sauino canonico ecclesie Iporiensis pro capitulo eiusdem ecclesie,... archidiacono et Guilielmo de Buxeto canonico ecclesie Albensis pro capitulo eiusdem ecclesie, presbitero Anselmo de Castello canonico ecclesie Saonensis et uicario capituli, sede uacante, pro capitulo eiusdem ecclesie,... preposito et presbitero Ottone canonico ecclesie Uintimiliensis pro capitulo eiusdem ecclesie, predicto presbitero Anselmo Albiganensi pro capitulo eiusdem ecclesie, Ascherio archidiacono, Roffino archipresbitero et Iohanne Merlano canonico ecclesie Alexandrie pro capitulo eiusdem ecclesie,... Sancti Constancii et de Tolla monasteriorum abbatibus, infrascriptas constituciones, ordinaciones et statuta in hac ecclesia Sancte Tegle Mediolanensi, hoc sacro concilio aprobante, facimus et solempniter promulgamus auctoritate et mandato et priuillegiis sedis apostolice et legatorum eius in omnibus [7] semper saluis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>In primis monemus, inducimus et ortamur ut constituciones et statuta, sanctorum patrum canones, concilia et decretales Romanorum pontificum inuiolabiliter obseruentur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>Item monemus, inducimus et ortamur ut concilia et statuta a sanctis patribus et summis pontificibus edita nec non leges condam Frederici imperatoris promulgate contra hereticam prauitatem pro libertate ecclesiastica inuiolabiliter obseruentur [8].</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>Item statuimus quod prelati et clerici seculares omnes constituciones et ordinamenta editas et edita tam per legatos sedis apostolice quam per nos et predecessores nostros et subfraganeos Mediolanensis Ecclesie et predecessores eorum tam super cultu diuino quam super uita et honestate clericorum debeant inuiolabiliter obseruare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>Item statuimus quod abbates et monaci regulam sancti Benedicti, priores, prepositi et canonici regulares inuiolabiliter obseruent et per diocesanos locorum ad predicta compellantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>Item statuimus quod abbates, priores, prepositi, monaci et canonici regulares nec non abbatisse et moniales ad aleas uel taxillos non ludant nec corehicent; abbatisse uel moniales ad exequias non uadant; nulla persona ecclesiastica in domibus monasterii uel ecclesiarum seu eciam alibi teneat baschaciam nec mutuet [9] in baschacia, et qui contra fecerit sit excomunicatus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>Item prohibemus abbatibus, prioribus et monacis et canonicis regularibus et religiosis quibuscumque ut canes, ancipitres, astures uel falcones ad uenandum habeant, teneant [10] uel teneri faciant nec huiusmodi uenacionibus aut uagacionibus utantur.</p>
+                    <p>Qui, si moniti per diocesanum proprium se culpabiles exhibuerint in premissis, auctoritate huius constitucionis sentenciam excomunicacionis ipso facto incurrant, quam si per mensem substinuerint animo indurato pena grauiori puniantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>Item quia nonnulli secularis potestatis gerentes offitium libertatem et immunitatem ecclesiasticam ledere ac minuere mollientes [11] tamquam inuidi honoris et priuillegii ecclesiastici ecclesiasticas coram se personas [12] litigare compellunt contra canonicas sancciones, statuimus quod uenientes clerici coram eis, quos fore [13] clericos habitus et clericalis tonsura demonstrat et allegato priuillegio coram ipsis, si iusticiarii uel seculares iudices compulsioni nichilominus instituerint, eo ipso sentenciam excomunicacionis incurrant, a qua nullatenus absoluantur nisi ab huiusmodi compulsione destiterint et de dampno, expensis et interesse, que et quas ob hoc substituerint, per ipsos iusticiarios seu iudices seculares fuerit satisfactum, eorum processibus habitis in eorum huiusmodi questionibus et prolacionibus nil omnino roboris habituris.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>Item cum sint aliqui qui personas ecclesiasticas et res earum capiunt et inuadunt et personas easdem carceribus seu uinculis mancipatas et res detinent et cum a iudicibus ecclesiasticis amonentur quod res et personas ecclesiasticas reddant et liberent ut res et personas easdem possint impune detinere, diutius negant maliciose se res illas uel personas cepisse uel occupasse uel eciam detinere.</p>
+                    <p>Quare [14] eorum cotidianis fraudibus occurrentes deliberacione prouida duximus statuendum ut siue loci fuerit dominus siue rector siue quocumque alio nomine noncupetur teneatur iurare se rem illam uel personam non detinere nec detineri facere nec dolo uel malicia desiisse habere nec liberandi uel restituendi potestatem habere, qui, si iuramentum hoc prestare noluerit, cum eo ipso culpabilis uideatur excomunicacionis uinculo sit astritus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>Item statuimus et ordinamus quod quicumque statutum, preceptum, decretum, bannum, interdictum seu mandatum fecerint seu fieri fecerint aut factum seruauerint aut dederint consilium, auxilium uel fauorem contra excomunicatores uel denunciatores sentenciarum excomunicacionum uel interdictorum uel obseruatores ipsarum publicum uel ocultum denuntientur excomunicati propter hoc per totam prouinciam nostram, post quam denunciacionem diocesanus si sibi expedire uidebitur cessari faciat a diuinis in loco uel locis in quibus morabuntur uel ad que uenerint taliter excomunicati quamdiu moram fecerint in eisdem nec absoluantur donec satisfecerint competenter de dampnis et iniuriis propter hoc ecclesie et ecclesiasticis personis illatis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>Item statuimus quod omnes illi rectores et potestates qui de cetero fecerint seu consenserint aliquid fieri contra fidem catholicam uel ecclesiasticam libertatem nec omnes et singuli qui super hoc dederint auxilium, consilium uel fauorem publice uel priuatim sint ipso facto excomunicacionis uinculo innodati et tamquam excomunicati ab omnibus euitentur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>Item statuimus ut nullus in consiliis [15] seu concionibus alicuius ciuitatis, castri, burgi seu uille aut uniuersitatis, collegii seu societatis presumat arengare, proponere seu alio quocumque modo dare auxilium, consilium uel fauorem super aliquibus factis uel faciendis que reddundent in hereticorum fauorem et lesionem catholice fidei uel ecclesiastice libertatis, alioquin excomunicacionem incurrat ipso facto et nichilominus sit notatus tamquam suspectus de heretica prauitate et eciam feudis omnibus et beneficiis que ab ecclesiis seu monasteriis uel earum seu eorum uassallis obtinent nec non iure patronatus siue aduocatie, si quod in aliquibus habet ecclesiis, omnino sit priuatus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>Item statuimus ut nullus prelatus aut clericus secularis uel religiosus cuiuscumque sit condicionis, preeminentie seu status, a quocumque penes quem deponit pecuniam uel ab alio nomine ipsius per se uel per alium emolumentum aliquod racione ipsius depositi paciscatur habere siue specialibus et expressis uerbis siue generalibus quibuscumque utantur, quod, si quis huiusmodi nostre constitucionis uiolator extiterit, uolumus et mandamus quod depositario contra deponentem excepcio competat ad emolumentum huiusmodi non soluendum.</p>
+                    <p>Et si soluerit, accionem habeat contra taliter deponentem ad repetendum que racione depositi soluit eidem.</p>
+                    <p>Qui uero depositum huiusmodi fecerit uel fieri fecerit et emolumentum aliquod racione huiusmodi depositi pactus fuerit recipere uel habere per se uel per alium sentenciam excomunicacionis incurrat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>Item statuimus quod nulla ecclesiastica secularisue persona cuiusque ordinis, condicionis, status aut dignitatis existat, ecclesias, ecclesiarum possessiones, domos, iurisdicciones, uassallos eorum, feudum seu bona et iura quecumque ad illas spectancia inuadere, occupare, usurpare aut capere seu detinere uel occupatoribus, inuasoribus et capientibus auxilium, consilium uel fauorem publicum uel ocultum prestare presumat, et si quis ecclesias, ecclesiarum possessiones, domos, iurisdicciones, uassallos eorum seu iura et bona et quecumque ad illas spectancia inuaserint, occupauerint aut capere seu detinere presumpserint, ecclesias ipsas et ipsarum iura, possessiones et bona superius nominata infra duos menses a publicacione presentis constitucionis in ciuitate Mediolani ac eius diocesi, in aliis uero ciuitatibus nostre prouintie et diocesibus earundem infra similem terminum ex quo presens constitucio fuerit publicata, in eisdem libere et absolute dimittant, restituant et relaxent ut ipsis ecclesiis per illos ad quos de iure in eisdem eleccio uel collacio aut presentato seu prouisio pertinet de personis idoneis ualeat prouideri.</p>
+                    <p>Qui uero contra huiusmodi nostre constitucionis tenorem facere uel uenire presumpserit, si fuerit persona ecclesiastica, que ecclesiam taliter occupauerit uel detinuerit, non solum ecclesia taliter occupata uel detenta, uerum eciam omnibus beneficiis ecclesiasticis, que infra nostram prouinciam obtinet, cum presentis concilii auctoritate priuamus; si uero eadem persona ecclesiastica non ecclesiam set iura premissa uel aliquod premissorum detinet occupata et infra tempus prefixum libere et absolute non dimiserit aut de celero occupabit, excomunicacionis uinculo sit astricta, quam, si spacio duorum menssium substinuerit animo indurato, ex tunc omnibus benefitiis que infra nostram prouinciam obtinet sit priuata.</p>
+                    <p>Laicus autem feudum, si quod ab ecclesia tenet, perdat et excomunicacionis uinculo sit astrictus, a qua nisi satisfecerit competenter non ualeat absolucionis benefitium obtinere.</p>
+                    <p>Quam sentenciam, si per tres menses substinuerit animo indurato et per diocesanum passi iniuriam requisitus infra eundem terminum libere et absolute non restituerit uel si dictum detentorem requirere non audebit et post denunciacionem factam in loco publico quo ad dictum inuasorem possit dicta denunciacio peruenire ecclesiam uel bona occupata non restituerit, terra propria, si quam habet seu tenet alibi [16] infra nostram prouinciam quamdiu inuasori [17] obedierit supposita sit ecclesiastico interdicto et nisi ante necesitates ultimas tam ecclesiastica persona quam secularis sibi de huiusmodi absolucione prouiderit quamuis in mortis articulo non sit ei, si penituerit, absolucio et comunio deneganda, tamen ecclesiastica careat sepultura donec ecclesia taliter occupata per eum aut iura et bona premissa absolute et libere dimittantur ac de fructibus eiusdem ad mandatum ordinarii uel eius uicarii fuerit satisfactum omnesque religiosos et clericos seculares, qui tales scienter ad ecclesiasticam sepulturam ab officio et beneficio per annum decernimus fore suspenssos.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>Item presenti constitucione statuimus quod nulla persona ecclesiastica nostre prouintie possessiones uel res immobiles ac iura monasteriorum, ecclesiarum et hospitalium el aliorum locorum uenerabilium seu thesaurum, libros uel paramenta quocumque titulo distrahat, alienet aut pignori obliget sine diocesani licencia speciali, quod, si contra factum fuerit, huiusmodi distracciones, alienaciones uel pignorum obligaciones nulle sint ipso iure nec per eas emptoribus uel creditoribus ius aliquod aquiratur et nichilominus distrahentes, alienantes uel pignori obligantes, ipso iure hac presenti constitucione officio et beneficio sint suspenssi quousque per diocesanum suspensionem huiusmodi contigerit relaxari, recipientes uero scienter bona predicta uei aliquod predictorum in pignore uel alio modo illicito sentenciam excomunicacionis ipso facto incurrant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>Item statuimus et ordinamus quod si aliquis rector uel alius dominus temporalis seu ciuitas, comune, alius locus uillam aut burgum aut alium locum de nouo construxerint aut construere uoluerint, homines alicuius ecclesie compellere uel compelli facere per se uel per alium non presumat ut causa habitandi se transferant ad uillam uel burgum seu locum constructum aut construendum de nouo, prohibentes eciam ne predicte persone seu loca de possessionibus hominum ecclesie quominus in iurisdiccione et dominio ecclesie remaneant se modo aliquo intromitant.</p>
+                    <p>Qui uero contra predicta facere attemptabit, si rector fuerit aut alius dominus temporalis, ipso facto sentenciam excomunicacionis incurrat et terra, si quam infra nostram prouinciam obtinet, quam diu eidem obedierit, sit supposita ecclesiastico interdicto.</p>
+                    <p>Ciuitas autem, comune seu locus alius, qui uel que contra nostram constitucionem facere attemptabit, ipso facto ecclesiastico subiaceat interdicto, quod interdictum relaxari non possit nisi per diocesanum in cuius ciuitate uel diocesi dampnum fuerit irrogatum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>De hiis autem qui scienter ecclesiastica feuda celant uel alia bona immobilia ad ecclesiam spectancia, si infra duos menses a tempore publicacionis huiusmodi eadem ab ecclesia recognoscere et id quod debent ecclesie et ecclesiasticis personis facere racione feudi uel alio contractu seu alio iusto modo facere, soluere seu restituere contradicent, auctoritate presentis concilii sentenciam excomunicacionis incurrant, quam, si per annum substinuerint animo indurato, cadant ipso facto a iure feudi et ab omni alio iure quo tenebant et tenuerunt bona predicta, et ad ecclesiam reuertantur, et hanc nostram constitucionem per singulas parrochias singularum diocesum semel in anno precipimus publicari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 17</head>
+                    <p>Item statuimus quod quicumque habet uel tenet modo illicito cruces, calices, paramenta et libros seu quecumque alia bona diuino cultui deputata, ecclesie uel illi, cuius est, infra duos menses a tempore publicacionis huiusmodi restituere debeat et consignare, et si ignorat cuius ecclesie sint uel fuerint aut aliam personam cuius fuerint diocesano uel capitulo cathedralis ecclesie, si uacaret, consignet, alioquin excomunicacionis uinculo sit astrictus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18</head>
+                    <p>Item statuimus quod singuli episcopi in suis synodis publice exponere non omitant quod periuri sunt infames et ab omni actu legitimo repellendi nec merentur ecclesias regere et alias penas quibus propter periurium sunt astricti, iniungentes sacerdotibus parrochialibus ut et ipsi in suis ecclesiis sepius predicti publicent ne pretestu ignorantie occaxionem habeant peiorandi.</p>
+                </div>
+                <div>
+                    <head>Capitulum 19</head>
+                    <p>Item statuimus ne aliquis religiosus clericus uel laicus contrafaciat uel contrafieri faciat aut falsificet uel falsificari faciat literas nostras uel diocesanorum nostrorum seu instrumenta coram nobis uel aliquo diocesanorum nostrorum confecta uel rogata uel quibus nos impartimur auctoritatem aut aliquis ex suffraganeis nostris, et si quis contrafecerit, excomunicacionis uinculo sit astrictus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 20</head>
+                    <p>Item statuimus et mandamus quod quicumque alicuius ultime uoluntatis execucionem susceperit ante omnia que defunctus ad pias causas et pro male ablatis restituendis de bonis suis restituendi et reddendi mandauerit, expediat exeeutor nisi defunctus aliud iusserit faciendum; quo facto, que prediximus exequatur, circa quod uolumus quod parrochialis sacerdos defuncti infra menssem a die obitus testatoris uel quo, cum defunctum cognouerit, per se uel per alium diocesano loci uel eius officiali nomine defuncti et executoris eius denuntiet quid et quantum pro predictis casibus legauerit, refferat et exponat, et tunc diocesanos uel officialis ipsius eundem executorem compellat secundum uoluntatem defuncti que premissa sunt adimplere.</p>
+                    <p>Sacerdos autem, qui denunciacionem predictam diocesano uel eius officiali fatiendam scienter omiserit, excomunicetur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 21</head>
+                    <p>Item statuimus quod quicumque legata seu relicta ad pias causas detinet occupata uel de cetero occupabit nisi infra menssem a tempore huiusmodi publicacionis restituerit siue impedierit quominus distribui possint secundum uoluntatem testatoris, sentenciam excomunicacionis incurrat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 22</head>
+                    <p>Item statuimus ut de cetero parrochialis ecclesia terciam habeat porcionem de hiis que testator legauerit ecclesie ubi elegerit sepulturam et de oblacionibus faciendis circa exequias sepulture, nisi in aliquibus locis racione alicuius composicionis uel consuetudinis certum aliud obseruetur, et quod aliquis dolum uel fraudem non comittit in hiis que legauerit uel legare uoluerit aliquis pro anima sua et de oblacionibus ut ecclesia parrochialis defraudetur canonica porcione, et non inducat seu induci faciat quod aliquis sepulturam eligat alibi quam in ecclesia sua; et qui contrafecerit, ipso facto sentenciam excomunicacionis incurrat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 23</head>
+                    <p>Item statuimus ne quis sacerdos secularis uel religiosus alterius clerici uel laici, excepto cum mortis articulo imminente, sacerdotem proprium habere potest nisi de licencia diocesani uel proprii sacerdotis, confessiones audiat, ei penitenciam iniungat uel absoluat eundem.</p>
+                    <p>Et si quis contra hoc fecerit, ipso facto excomunicacionis uinculo sit astrictus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 24</head>
+                    <p>Item statuimus quod nullus clericus religiosus uel secularis aut eciam laicus oratoria, altaria uel capellas seu ecclesias in locis non exemptis sine diocesanorum ipsorum locorum licencia construat uel construi faciat nec in iam constructis uel construendis diuina temptet officia celebrare.</p>
+                    <p>Si uero in loco exempto constructum fuerit oratorium uel capella nullus ibidem celebrans aliquem de grege alteri credito recipiat ad diuina.</p>
+                    <p>Nullus insuper in locis non exemptis predicta faciat nec in eisdem cum ab ordinario fuerint interdicta celebret uel faciat celebrari diuina, nec eciam in exemptis hoc ipsi exempti faciant nisi super hiis licenciam sedis apostolice habeant uel ipsius priuillegium speciale, de quibus licencia et priuillegio infra XV dies a tempore positi interdicti eidem diocesano uel officiali ipsius aut ei quem ad hoc deputauerit fiat fides.</p>
+                    <p>Qui autem contra hanc nostram constitucionem aliquid fatiet, eum in hiis scriptis excomunicacionis uinculo innodamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 25a</head>
+                    <p>Item quia Humiliati indifferenter offitium predicacionis usurpant, confessiones audiunt, iniungunt penitencias et absoluciones concedunt nec non parrochianos alienos recipiunt ad diuina, hoc duximus statuendum quod, si super hoc a sede apostolica uel legatis ipsius aliquo priuillegio seu priuillegiis asserunt seu credunt se fore munitos infra tres mensses postquam presens constitucio fuerit in ciuitate nostra et ciuitatibus prouintie nostre, diocesano uel eius officiali aut capitulo Cathedralis ecclesie, si uacaret, uel eius uicario de huiusmodi priuillegio seu priuillegiis faciant plenam fidem, alioquin eos et eorum quemlibet auctoritate presentis concilii amonemus primo, secundo et tercio ut a predictis desistant; quod, si predicta facere uel aliquid premissorum presumpserint, ipsos et eorum quemlibet excomunicacionis uinculo innodamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 25b</head>
+                    <p>Item statuimus quod Humiliati suo diocesano obediant et quod dadias, fodra et collectas una cum alio clero soluant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 26</head>
+                    <p>Item cum quidem indifferenter predicacionis offitium usurpare conentur, statuimus quod secularis, clericus uel religiosus aut eciam laicus cuiuscumque ordinis, status aut scientie glorietur, predicare audiat uel presumat nisi a sede apostolica uel legatis ipsius priuillegium habuerit speciale uel a diocesano loci hoc sit eidem commissum, et si quis contrafecerit, auctoritate presentis concilii excomunicacionis uinculo sit astrictus; et si questuarii fuerint, que aliqua in predicacionibus huiusmodi lucrati fuerint uel acquisierint, licite possit eis aufferri et aufferrentium fiant.</p>
+                    <p>Nolumus quod presbiteri in Cathedralibus ecclesiis existentes, hac constitucione ligentur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 27</head>
+                    <p>Item statuimus in presenti concilio et uolumus per totam nostram prouinciam firmiter obseruari quod, si laicus excecata et obstinata racione adeo fuerit induratus, quod excomunicacionis sentenciam per annum substinuerit nec absolucionem curauerit obtinere: sacerdos, de cuius parrochia excomunicatus fuerit, diocesano loci uel capitulo Cathedralis ecclesie, si uacaret, infra menssem refferat per se uel per nuntium specialem, et tunc diocesanos loci seculari iudici illius excomunicati denuntiet pertinaciam et contemptum.</p>
+                    <p>Qui iudex, sub cuius iurisdiccione temporali idem excomunicatus existit, pena pecuniaria illum cogat absolucionis benefitium postulare et prestare caucionem ecclesie, si potest, quam casus excomunicacionis illius requirit; et si forte iudex secularis negligens fuerit uel remissus in hoc, iudex ecclesiasticus ad hoc per censuram ecclesiasticam iudicem illum cogat.</p>
+                    <p>Si uero excomunicatus predictus rector fuerit, ciuitas uel loci aut officialis aut dominus siue quocumque alio nomine censeatur qui non possit per modum predictum ad absolucionem huiusmodi coherceri et eandem excomunicacionem per annum substinuerit animo indurato, terra uel locus in quo idem rector fuerit uel officialis aut dominus seu quis alius quocumque nomine censseatur, et terra, si quam propriam infra nostram prouinciam obtinet, quamdiu eidem excomunicato obedierit, supposita sit ecclesiastico interdicto et nichilominus ipso facto feudum, si quod ab ecclesia tenet, perdat et ad ecclesiam reuertatur.</p>
+                    <p>Si uero clericus excomunicatus adeo mentis obstinate fuerit, quod infra annum non procurauerit se absolui, tunc diocesanus illum benefitiis suis priuet et ad illa beneficia eligantur idonei per eos ad quos eleccio uel presentato noscitur pertinere.</p>
+                    <p>Qui autem ob hanc causam uel quamcumque aliam a diocesano excomunicatus fuerit uel excomunicacionem incurrerit ipso facto, et sic excomunicatus ingerat temere se diuinis uel quicquam [18] iniurie excomunicatori uel suo parrochiali presbitero pro eo quod eum euitet uel non admiserit ad diuina uel cuicumque alteri clerico uel laico ob hanc causam dixerit uel intulerit uel dici aut inferri mandauerit, excomunicetur iterum et, si eius proteruitas meruerit, predicta sentencia uel sententie augmententur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 28</head>
+                    <p>Item precipimus in uirtute obedientie et sub obtestacione diuini iudicii uniuersis et singulis episcopis nostre prouintie ne alicui religioso clerico uel seculari dent uel dari faciant crisma et [19] oleum sanctum nec eos recipiant ad ordines uel publice ad celebrandum missam absque literis commendaticiis diocesanorum suorum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 29</head>
+                    <p>Item precipimus uenerabilibus fratribus nostris episcopis Mediolanensis Ecclesie sufraganeis nec non procuratoribus ecclesiarum cathedralium uacantium quod infra XV dies a presenti publicacione computandos harum constitucionum copiam seu exemplum recipiant et infra tres mensses in suis ciuitatibus eas publicent uel faciant publicari.</p>
+                </div>
+                <div>
+                    <head>Explicit</head>
+                    <p>In cuius rei testimonium et perpetuam firmitatem premissa omnia scribi et in publicam formam reddegi mandauimus per notarium infrascriptum et nostri sigilli appensionis munimine roborari.</p>
+                    <p>Actum in dicta ecclesia Sancte Tecle Mediolani, sub anno Domini currente MCCLXXXVII, indiccione prima, die ueneris XII septembris.</p>
+                    <p>Presentibus dominis episcopis et aliis supradictis ac... ministro prouinciaii et... guardiano conuentus Mediolanensis fratrum Minorum et aliis multis fratribus Predicatorum et Minorum ordinis,... abbatibus,... prioribus,... prepositis,... archipresbiteris et presbiteris nec non aliarum ecclesiarum et domorum regularium prelatis, canonicis et capellanis et aliis multis prelatis, religiosis et personis ecclesiasticis tam de Mediolano et eius districtu et diocesi quam prouincia et aliunde, ibi in concilio congregatis, et presentibus eciam Uberto Uicecomite filio condam domini Rugerii Uicecomitis de Massino, Onrigolo Uicecomite filio condam Lanterii Uicecomitis de Iuorio, Stobiono Mantcgacio filio condam domini Philipi Mantegatii ciuitatis Placentie, Iohannino filio condam domini Girardi de Bargono [20] de Parma, Iohannino filio condam domini Detesalue Gonzoni de Crema, Bombello Marinono et Tadeo filio condam domini Iacobi qui dicitur Talialupus de la Cruce ciuitatis Mediolani, ad hoc uocatis testibus et rogatis. [21]</p>
+                    <p>Ego Antegradus Crotus, publicus auctoritate imperiali notarius ac scriba predicti domini archiepiscopi promulgacioni et publicacioni predictarum constitucionum, statutorum et ordinamentorum nec non approbacioni eorum facte in concilio per predictos dominos episcopos, ordinarios et alios supradictos interfui et ea omnia de mandato dicti domini archiepiscopi, episcoporum et aliorum predictorum scripssi et in publicam formam reddegi et ad transcribendum dedi notario infrascripto et me subscripsi meoque consueto signo signaui. [22]</p>
+                    <p>Ego Guilielmus Sarronus publicus ciuitatis Mediolanensis notarius iussu dicti notarii scripsi.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] no[bis]</p>
+                    <p>[2] eius[dem]</p>
+                    <p>[3] Iacob[o] Ci[miterio]</p>
+                    <p>[4] Goltin[testa]</p>
+                    <p>[5] Oberto de Merescalco in brackets</p>
+                    <p>[6] [Nembro]</p>
+                    <p>[7] [eius in omnibus]</p>
+                    <p>[8] [ob]seruentur</p>
+                    <p>[9] [mutuet]</p>
+                    <p>[10] [teneant]</p>
+                    <p>[11] [ac minuere mollientes]</p>
+                    <p>[12] [ecclesiasticas coram se personas]</p>
+                    <p>[13] [quos fore]</p>
+                    <p>[14] [Quare]</p>
+                    <p>[15] [in consiliis]</p>
+                    <p>[16] ali[bi]</p>
+                    <p>[17] inuas[ori]</p>
+                    <p>[18] [quicquam]</p>
+                    <p>[19] [et]</p>
+                    <p>[20] [B]argono</p>
+                    <p>[21] Deleted: (ST)</p>
+                    <p>[22] Deleted: (ST)</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

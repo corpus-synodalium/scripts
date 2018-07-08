@@ -1,0 +1,160 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Geneva</title>
+                <recordID>0440</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1343-11-11</origDate>
+                <dateNotes/>
+                <origPlace>Geneva</origPlace>
+                <diocese>Geneva</diocese>
+                <province>Vienne</province>
+                <country>Switzerland</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 440</p>
+                <p>Year: 1343</p>
+                <p>Month: 11</p>
+                <p>Day: 11</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: Fleury ed gives 1336, erroneously</p>
+                <p>Place: Geneva</p>
+                <p>Diocese: Geneva</p>
+                <p>Province: Vienne</p>
+                <p>CountryModern: Switzerland</p>
+                <p>Latitude: 46.2</p>
+                <p>Longitude: 6.15</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Alamand de Saint-Jeoire</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1342</p>
+                <p>RegnalEnd: 1366</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: Geneva, AE, MS hist 47, f°150r-151r</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Fleury, Histoire de l'Eglise de Geneve, I, 436-37 [partial edition]</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: https://books.google.com/books?id=Ov8PAAAAYAAJ; </p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Digital MS']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Alie constituciones.</p>
+                    <p>In nomine domini Amen.</p>
+                    <p>Quoniam sicut predecessorum constituciones et statuta iusta et legitima successoribus conuenit custodire, ita debet eciam malefacta corrigere secundum uarietatem temporum et locorum in melius habito salubriter immutare.</p>
+                    <p>Cum igitur multe et uarie ad nostrorum informacionem subditorum et corrupcionem manauerint constituciones et statuta salubriter instituta suppleccione digna, saluis super canonicis institutis et preceptis concilii Uiennensis, quibus non possumus, nec debemus in aliquo derogare, sed pocius ea precipimus et uolumus inuiolabiliter obseruari, Dei auctoritate, duximus in nostra sancta synodo, de consensu uoluntatis et consilio nostro capituli ordinanda et eciam declaranda.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>De impedientis iuridicionem ecclesiasticam.</p>
+                    <p>In primis, cum impedientes iuridiccionem eclesiasticam et perturbantes seu nostram aut curie nostre, que ad nos spectat, de iure uel de consuetudine antiqua, auctorite apostolica Uiennensis concilii et predecessorum nostrorum, ipso iure sunt excommunicacionis et sentencia  excomunicacionis innodati, quocunquemodo directe uel indirecte, publice uel occulte, exquisitis coloribus, fraudibus figurentis de quibuscumque contra mentem constitucionis Bonefacii Pape VIII quominus libere possint querelantes in dicta curia nostra litigare et iusticiam obtinere,  dantesque consilium,  auxilium uel fauorem in premissis simili sentencia auctoritate apostolica sunt ligati.</p>
+                    <p>Eciam si imperiali regali seu alia quacumque ecclesiastica uel seculari prefulgeant dignitate, ipsos exconmunicatos prima dominica cuiuslibet mensis, necnon in festis sollempnibus, ante fores ecclesie candelis extinctis, in aqua uersus sub pedibus conculcatis, atque campanis pulsatis publice nuncietis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>Item excomunicamus publice omnes illos qui per vim uel metum absoluciones suas obtinuerunt et procurauerunt optinere et quicumque potestatem secularem que inquisitam contra clericum faciet scienter quod fieri fecit et quecumque notorum qui eam scripserit excominicacionis publice nuncietis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>De litteris.</p>
+                    <p>Propterea quicumque clericus sine notarum qui literas receperit sigillo nostro sigillandas, penes se notam retineant se prothocolum.</p>
+                    <p>Qui uero contrarium fecerit per nos, seu officialem nostrum, sibi comisso officio sit preuatus ipso iure.</p>
+                    <p>Eamdem quod penam incurrunt iurati nostri qui papiros, seu prothocolla, iuratorum nostorum defunctis, seu uiuentium, capiunt uel literis leuant aut leuari faciunt sine nostra officia licencia habita, uel obtenta, alio uero notario qui literas nostras sigillandas sigillo nostro de papirorum nostrorum leuauerit, uel officii nostri, ipso facto excomunicacionis sentencia sit ligatus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>De occupantes ecclesias.</p>
+                    <p>Cum occupantes ecclesias et easdem custodientis ipso facto auctoritate apostolica sit excomunicacionis sentencia innodatos ipsos ut supra excomunicacionis publice autoritate locus quod in quo fiet predicta occupacio, secundum formam consilii Uiennensis ecclesiastice subiaceat interdicto.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>Precipientes ulterius ut alium preceptum extitit ut in honeste uestes curati, clerici et presbiteri de cetero non defferent, prout modernis temporis plus solito defferant concubinas si quas uero habeant eiciant nullas decetero recepturi.</p>
+                    <p>Siquis aliquem publice tenuerit ad priuacionem beneficium procedemus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>De litteris recipiendis.</p>
+                    <p>Declaramus ciuitatis Lugdini, Seduni et Uienne distare a fine nostre diocesi Gebennensi ultra unam dietam uulgalem propter quod uobis precipimus inhibentes quod nullas litteras recipiatis contra subdictos nostros, eciam apostolicas auctoritate, quarum detrahi seu conuenie mandantur dicti subdicti nostri ad dictas ciuitates uel alteram earumdem contra constitucionem domini Bonefacii Pape VIII quam cauetur quod nullus ultra unam diettam afine sue diocesi ualeat conueniri quicquidem autem fiet contra illam ipso facto sit irritum et ipso iure, nisi aliud expressum in litteris apostolicis caueatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>De litteris.</p>
+                    <p>Inhibemus eciam ne quicumque subdictus noster litteras cuiuscumque se indicem asserentem excequatur nisi exhibeatur originale eidem aut rescriptum apostolicum uel per iudicem ordinarum, sigillo nostro autentiquo sigillato nec recipiatur citacio, in qua citari mandabuntur personne quas lator citacionis duxerit, nominandos uel illa in quibus cauetur citetis ad diem qua lator ipsius citacionis duxerit assignandi.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>Contrahentes cum suis consanguineis et affinibus usque ad quartum gradum excommunicati sunt a Deo et a Papa et multas alias penas incurrunt canonicas et ciuiles.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>Exemptores uero in Domino exortamur, quod priuilegiorum suorum tenoribus sint contenti, inducentes eorum subdictos, ne ipsis priuilegiis abutantur, uel eisdem grati non erimus in agendos et de remedio opportuno prouidebimus, prout sacre precipiunt sancciones.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>Quilibet habeat constituciones synodales et prouinciales et earum mandata custodiant, ipsasque studeant diligenter, responsum in alia synodo, quia examinabuntur super eisdem, et nisi tunc nesciant respondere, de negligencia canonice punientur.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

@@ -1,0 +1,190 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sodor</title>
+                <recordID>1433</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate precision="circa">1229</origDate>
+                <dateNotes/>
+                <origPlace>Peel</origPlace>
+                <diocese>Sodor</diocese>
+                <province>[Holy See]</province>
+                <country>[Scotland]</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 1433</p>
+                <p>Year: 1229</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: Yes</p>
+                <p>DatingNotes: 25 March 1229 x 24 March 1230</p>
+                <p>Place: Peel</p>
+                <p>Diocese: Sodor</p>
+                <p>Province: [Holy See]</p>
+                <p>CountryModern: [Scotland]</p>
+                <p>Latitude: 54.221</p>
+                <p>Longitude: -4.691</p>
+                <p>PlaceNotes: ['diocese also known as &quot;The Isles\'; see Cheney, Manx Synodal Statutes, pt 1', 'actually a Possession of the Crown; not part of either England, Scotland or the U']</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Records of Convocation, vol. 1: Sodor and Man, 24-29</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['Library Scan', 'Hard Copy Scan']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: contains numerous later 13th- and 14th-c interpolations (see p24, n28), incl. cc. 10, 11, 12</p>
+                <p>BiblioRefs: see Cheney, Manx Synodal Statutes, pt 1</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Hec sunt statuta synodalia et constituciones diocesis in insula de Mann, per reuerendum patrem Simonem Sodorensem episcopum ibidem confecta et constituta anno Domini millesimo ducentesimo uigesimo nono.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>De probacionibus testamentorum</p>
+                    <p>Pro probacionibus testamentorum ultra summam triginta duorum denariorum nihil penitus exigatur, sed de eadem summa secundum bonorum quantitatem aliquid pauperibus subtrahatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>De bonis intestatorum discedentium.</p>
+                    <p>Bona intestatorum ad arbitrium episcopi diocesani uel, eius in absencia, sui generalis uicarii ministrentur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>De mortuariis</p>
+                    <p>In mortuariis principale animal ecclesie persoluatur, uacca uel bos uel equus si fuerit ad ualorem sex solidorum aut minus.</p>
+                    <p>Et quantum ad uestes, si homo mortuarium persoluerit, ad arbitrium ecclesie stabit an uestes aut tres solidos et sex denarios habere maluerit.</p>
+                    <p>Et si pauper fuerit, et nullum mortuarium persoluerit, accipiantur uestes sicuti sunt, et quintus quique denarius ex liberis bonis. [1]</p>
+                    <p>Et de gilbogo[2] in bonis possesso ad mortuarii ualorem  se extendentibus mortuarium ecclesie persoluatur.</p>
+                    <p>Quod si bona sua ad hoc minime se extendant, tunc quintus quisque denarius de liberis bonis ecclesie persoluantur.</p>
+                    <p>Et si queratur, quid est gilbogus, dicendum est quod gilbogus est quis, si unius tantum noctis etatis extiterit, et ad habendum bona ordinatus, aut in bonis possessus existat.</p>
+                    <p>Si ut dictum est obierit, ecclesia tamen suum debitum obtinebit.</p>
+                    <p>Item prefatus gilbogus, licet mortuarium persoluerit, ultra hoc tamen, tam presbytero et clerico, quam eciam ecclesie sua debita contenentur.</p>
+                    <p>Et si nullum mortuarium persoluerit, nihilominus cum eis concordet.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>De debitis clerico persoluendis.</p>
+                    <p>Debita clerico persoluenda sunt hec.</p>
+                    <p>Si homo mortuarium persoluat, clericus habeat ipsius hominis caligas, calceamenta ad pretium sex denariorum, et capitum pileum, aut capellum pretii maioris uel minoris, sicut ipse homo in die Natalis Domini ambulauerit; item camisiam, zonam ad unius denarii ualorem; bursam ad unius denarii ualorem.</p>
+                    <p>Et cultellum ad unius denarii ualorem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>De aucis, porcis, buculis, uitulis et pullis</p>
+                    <p>Auce apud festum Sancti Michelis aut post capiantur.</p>
+                    <p>Et porci, buculi, uituli et pulli apud festum Sancti Martini in liberos recipiantur, et apud Pascha exigantur [3], rectore ecclesie de predictis porcis, pullis ac buculis in periculo persistente.</p>
+                    <p>Excepto quod si economi buculos desiderauerint habere ad suas efficiendas uaccas lac prebere, ipso rectore economum causante ad custodiendum illos ac si proprios.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>De defunctis nulla bona habentibus.</p>
+                    <p>Si uir aut mulier obierit, et nulla bona ad contentandam ecclesiam pro sua sepultura habuerit, tunc ei qui eorum bona habere uoluissent, si diuites existissent, uidelicet de eorum sanguine propinquiores, ecclesie presbytero et clerico, ad illorum humacionem contentabunt.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>De lacticiniis.</p>
+                    <p>Si lacticinia in ecclesiam conformiter iuxta consuetudinem non portentur, de una uacca duo denarii, de quatuor capris duo denarii, et de octo ouibus octo denarii persoluantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>De eleccione et colleccione agnorum decimalium, buculorum, porcorum et pullorum</p>
+                    <p>Cum ad congregandos agnos decimales, buculos, porcos uel pullos procuratores peruenerint, economus duos et procuratores tertium eligant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>De remouentibus domicilia ac bona sua ab una parochia in alteram.</p>
+                    <p>Si uir uel mulier forte ab una parochia in aliam domicilium suum permutauerit, et bona sua secum abduxerit, si uir nil preter uxorem suam, pueros, lectum, gallum, gallinam, craticulam, et mensulam pistoralem secum asportauerit, et ibidem nisi per tres noctes perseuerauerit antequam ab hac luce decesserit, in illa parochia in quam nuper accessit, debita ecclesiastica persoluantur, quamuis bonorum suorum maior porcio in altera parochia relinquatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>De granis decimalibus[4].</p>
+                    <p>In antiquo statuto economi grana decimalia, ac si propria arconizabant, et ad sua fenilia ducebant ac custodiebant, quousque rector, uel eius procurator ob ea commodius uenire posset, forte usque festum Omnium Sanctorum; modernis uero diebus rectores grana decimalia in arconiolis[9] accipiunt ob maiorem economorum commoditatem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>De ceruisie uendentibus.[5]</p>
+                    <p>Si uir uel mulier ceruisiam uendendam pandoxauerit, siue communis pandoxator uel pandoxatrix fuerit, siue non, si duos denarios et obolum de unaquaque pandoxacione accipiat, lagunculam decimalem ecclesie persoluat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>De textoribus siue textricibus.</p>
+                    <p>Si textor uel textrix tres telas a suis telariis descindat uel decidat, et pro earundem textura solucionem recipiat, duos denarios ecclesie annuatim inde persoluat, et si centum descindat uel decidat, amplius non persoluat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>De sumptori debitis.</p>
+                    <p>Sumptor de iure antiquo et statutis ueteribus, ab omnibus economis garbam de trium ligarum longitudine scilicet frumenti, ordii et auene annuatim recipere debet, et ad omnem caseorum decimacionem et colleccionem, unum agnum electum habere debet, et ad lane decimacionem unum uellus electum debet obtinere.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] [bonis]</p>
+                    <p>[2] &quot;most likeli a compound of gilla (boi) and boc (ioung, tender)&quot;</p>
+                    <p>[3] MS erigantur</p>
+                    <p>[4] appears to be a later gloss</p>
+                    <p>[5] this and following two canons appear to be later addicions (others might be too)</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

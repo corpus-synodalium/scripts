@@ -1,0 +1,306 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Santiago</title>
+                <recordID>0586</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1289-08-17</origDate>
+                <dateNotes/>
+                <origPlace>Santiago</origPlace>
+                <diocese>Santiago</diocese>
+                <province>Santiago</province>
+                <country>Spain</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 586</p>
+                <p>Year: 1289</p>
+                <p>Month: 8</p>
+                <p>Day: 17</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Santiago</p>
+                <p>Diocese: Santiago</p>
+                <p>Province: Santiago</p>
+                <p>CountryModern: Spain</p>
+                <p>Latitude: 42.880447</p>
+                <p>Longitude: -8.546303</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Rodrigo González de León</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Synodicon Hispanum, 1, 272-280</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['Library Scan', 'Hard Copy Scan']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Constituciones facte per dominum fratrem Rodericum archiepiscopum Compostellanum et Capitulum eiusdem que per paragraphos singulariter declarantur</p>
+                    <p>Era m.ccc.xxvii., xvi. kalendas Septembris.</p>
+                    <p>Lecte sunt in sinodo celebrata per reuerendum patrem dominum fratrem Rodericum [1] Dei gracia Compostellanum archiepiscopum constituciones inferius annotate.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>Statuimus ut omnes clerici portent coronas et tonsuras clericales, et non portent barbas longas, licet sint iuuenes.</p>
+                    <p>Et qui contra fecerit, pectet pro quolibet istorum excessuum v. solidos bone monete.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>Statuimus quod nullus clericus portet uestes uirgatas uel uirides uel rubeas, nec tunicam cum corda uel consuticiam intra corpus.</p>
+                    <p>Et qui contra fecerit, pectet v. solidos monete predicte.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>Statuimus quod nullus clericus bibat in taberna nisi in itinere constitutus.</p>
+                    <p>Et qui contra fecerit, pectet v. solidos monete predicte.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>Statuimus quod nullus clericus sit publicus lusor taxillorum, nec intersit in publico isti ludo.</p>
+                    <p>Et qui contra fecerit, pectet pro qualibet uice v. solidos monete predicte.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>Statuimus quod nullus clericus beneficiatus uel promotus uadat armatus in asunata uel litigio cum militibus uel laicis.</p>
+                    <p>Et qui contra fecerit, ipso facto sit excommunicatus et pectet lx. solidos monete predicte.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>Statuimus quod nullus clericus sit uasalus, amus, uel maiordomus, uel sub commenda, uel seruicialis alicuius laici.</p>
+                    <p>Et qui contra fecerit, recipiens uel receptus, sit ipso facto excommunicatus et pectet receptus lx. solidos monete predicte, et nisi restituerit receptus priuetur beneficio suo.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>Statuimus quod omnes clerici qui beneficia curata obtinuerunt ante Concilium Lugdunense, quod faciant se promoueri in presbiteros infra annum, si nondum sunt presbiteri.</p>
+                    <p>Quod si non fecerint, sint ipsis beneficiis ipso facto priuati, nisi fuerint necessitate ineuitabili impediti, uel de licencia nostra uel archidiaconorum suorum in peregrinacione, uel in studio constituti; quibus causis cessantibus, ex tunc licenciam huiusmodi reuocamus, ita quod usque ad annum alium ex tunc sub pena predicta se faciant in presbiteros promoueri, constitucione domini Gregorii pape x. super hoc edita in suo robore duratura.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>Statuimus quod omnis clericus beneficiatus in parrochiali ecclesia faciat se promoueri ad sacros ordines infra annum, alioquin beneficio suo priuetur, nisi per nos uel per archidiaconum suum super hoc cum eo fuerit dispensatum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>Statuimus quod quilibet clericus obtinens in parrochiali ecclesia beneficium sine cura animarum cum eo resideat, nisi per nos uel per archidiaconum suum super hoc cum eo fuerit dispensatum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>Statuimus quod nullus clericus in sua domo uel aliena teneat publice concubinam, et nisi monitus super hoc abiecerit infra mensem beneficio suo priuetur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>Statuimus quod nullus clericus sit sortilegus uel incantator, uel augur uel diuinator.</p>
+                    <p>Et si monitus super hoc non resipuerit, beneficio suo priuetur et est excommunicatus a canone.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>Statuimus quod quilibet rector habeat unum clericum uel monacelum ad minus bene informatum in cantando et legendo, qui ipsum ad horas dicendas iuuet.</p>
+                    <p>Quod nisi fecerit, et solus horas dixerit, sit ipso facto officio beneficioque suspensus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>Statuimus quod quilibet rector resideat continue in ecclesia sua dicendo quotidie omnes Horas in horis debitis, uidelicet Matutinum ante diem et Primam in aurora, et Terciam et missam et Sextam post solis ortum, nisi in festiuitatibus in quibus missa poterit dici hora tercia, et Nonam et Uesperas poterit simul dicere hora uespertina.</p>
+                    <p>Et si necessitatem habuerit, poterit excusare se per alium clericum usque ad paucos dies, set non dimittat ecclesiam sine alio presbitero.</p>
+                    <p>Et si contra fecerit non residendo in ecclesia ut tenetur, monicione premissa, beneficio suo priuetur, nisi de licencia nostra uel sui archidiaconi peregrinaturus fuerit uel studio remansurus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>Statuimus quod quilibet teneat munda et abluta ecclesiastica indumenta.</p>
+                    <p>Quod si non fecerit, pectet pro quolibet excessu v. solidos monete predicte.</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>Statuimus quod quilibet rector teneat sub claue in archa intra ecclesiam Corpus Domini, aram, corporalia, calicem et patenam, et oleum baptismale et infirmorum.</p>
+                    <p>Quod nisi fecerit, pectet pro quolibet excessu v. solidos monete predicte.</p>
+                    <p>Et si inde aliquid mali secutum fuerit, grauius puniatur.</p>
+                    <p>Calicem tamen poterit clericus sub claue loco securo extra ecclesiam custodire.</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>Statuimus quod quilibet parrochianus confiteatur saltim semel in anno proprio rectori uel alii presbitero de licencia sua, ita quod rector sciat confessorem suum, et recipiat ab eo Corpus Christi in festo Natalis Domini, uel Paschatis, uel Pentechostes, nisi ex aliqua iusta causa a percepcione ipsius de licencia rectoris abstinuerit.</p>
+                    <p>Et qui aliter fecerit, tanquam interdictus ab ingressu ecclesie arceatur, grauius si perseuerauerit puniendus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 17</head>
+                    <p>Statuimus quod cum aliquis parrochianus infirmatus fuerit, mox a rectore uisitetur, et inuitetur ad confessionem et penitenciam et percepcionem Corporis Christi et confeccionem testamenti conficiendi coram ipso rectore et testibus.</p>
+                    <p>Et si timeatur de morte, inuitetur cum sacra unccione, et ipsam petens ungatur per rectorem dicendo oraciones proprias quas conscriptas usque ad mensem quemlibet rectorem sub pena suspensionis precipimus habiturum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18</head>
+                    <p>Statuimus quod nullus contrahat matrimonium cum aliqua consanguinea uel affini usque ad quartum gradum inclusiue.</p>
+                    <p>Quod si aliqui fecerint, excommunicentur, et sciant quod filii exinde procreati non sunt legitimi, nec debent succedere in bonis paternis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 19</head>
+                    <p>Statuimus quod quando matrimonium fuerit contrahendum, primo preconizetur in ecclesia in missa per rectorem, per tres dominicas uel per tria festa leccionum nouem presente populo. Quod si aliquis scit impedimentum consanguinitatis uel affinitatis inter eos, uel quod sit aliquis eorum compater uel compatrinus uel filius spiritualis uel filius compatris, uel commatris sue uel uiri uel uxoris quem uel quam ante habuit, uel quod sit alter eorum religiosus uel alibi coniugatus, quod dicat in continenti.</p>
+                    <p>Et si sciens non dixerit, sit excommunicabis ipso facto.</p>
+                    <p>[2] Et si aliquid inde dixerit, diferatur matrimonium et remittantur ad archidiaconum super hoc sentenciam recepturi.</p>
+                    <p>Si uero aliter contractum fuerit matrimonium, tam clericus quam quilibet contrahentium et testium presentium pectet lx. solidos monete predicte.</p>
+                </div>
+                <div>
+                    <head>Capitulum 20</head>
+                    <p>Statuimus quod quicumque manus uiolentas in clericum uel in religiosum, uel intra ecclesiam uel cimiterium in laicum iniecerint, uel aliquid ab ecclesia uiolenter extraxerint, aut ignem ecclesie supposuerint, uel librum, aut calicem, aut ornamenta ecclesiastica contra uoluntatem rectoris contractauerint uel eciam [3] de uoluntate ipsius in pignus receperint, dans et recipiens, uel qui nominatim excommunicatum uel interdictum aut et non excommunicatum nec interdictum in ecclesia interdicta sepelierit aut sepeliri fecerint, soluant sacrilegium et euitentur tanquam excommunicati postquam fuerint denunciati.</p>
+                </div>
+                <div>
+                    <head>Capitulum 21</head>
+                    <p>Statuimus quod nullus clericus uel laicus nominatim excommunicatus uel interdictus in ecclesia interdicta dicat uel audiat horas.</p>
+                    <p>Et qui contra fecerit, pectet lx. solidos predicte monete.</p>
+                    <p>Et nichilominus clericus qui excommunicatus uel suspensus, uel in ecclesia interdicta secundum ordinem suum indutus missam celebrauerit uel horas dixerit, erit irregularis, et rector, qui excommunicatus uel interdictus ad horas admisserit, pectet lx. solidos.</p>
+                </div>
+                <div>
+                    <head>Capitulum 22</head>
+                    <p>Statuimus quod nullus perticarius, aut maiorinus, aut milles, uel quicumque laicus uel domina hospitetur in domo clerici, uel aliquid de bonis suis recipiat, nisi prius sine aliqua coaccione ipse eos receperit uel eis aliquid dederit.</p>
+                    <p>Et qui contra fecerit sit excommunicatus ipso facto et pectet solidos lx. monete predicte.</p>
+                    <p>Et nisi satisfecerit infra mensem, mandamus archipresbitero loci, qui in uirtute obedientie et sub pena excommunicacionis quod ipsum per singulas ecclesias archipresbiteratus sui denunciari faciat excommnicatum singulis diebus dominicis et festiuis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 23</head>
+                    <p>Statuimus quod nullus possit emere ius patronatus ecclesie nisi integrum cum uniuersitate, prout iura uolunt, nisi sint religiosi, qui ius patronatus integrum sine uniuersitate de licencia nostra possunt emere de iure.</p>
+                    <p>Et si contra factum fuerit, tales empciones sint irrite ipso iure.</p>
+                </div>
+                <div>
+                    <head>Capitulum 24</head>
+                    <p>Statuimus quod nullus clericus uel laicus habeat uasalum, amum, uel seruicialem, uel maiordomum regalengum in hereditatibus et cautis et dominiis nostris uel nostri capituli, uel in prestimoniis canonicorum nostrorum.</p>
+                    <p>Et qui contra fecerint, tam recipiens quam receptus sint ipso facto excommunicati, et nisi commoniti infra nouem dies totaliter ab hoc recesserint et satisfecerint, archipresbiter loci teneatur sub pena excommunicacionis ipsos in ecclesiis sui archipresbiteratus ex tunc facere denunciari excommunicatos omnibus diebus dominicis et festiuis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 25</head>
+                    <p>Statuimus quod filii legitimi alicuius patroni tantummodo succedant in iure patronatus et nichil ultra pro censu [4] uel pro iure patronatus accipiant, nisi quantum de consuetudine percipi consueuit, non recipientes ab illa ecclesia partem oblacionum uel decimarum uel hereditatem aliquam pro censu predicto.</p>
+                    <p>Et si contra fecerint, si legitimi uel ilegitimi fuerint, sint excommunicati ipso facto.</p>
+                </div>
+                <div>
+                    <head>Capitulum 26</head>
+                    <p>Statuimus quod nullus clericus super beneficio ecclesiastico se defendat per potenciam secularem uel per arma contra nos, uel contra archidiaconum uel archipresbiterum suum, uel contra ipsorum uel eorum aliquem sentenciam uel mandatum, nec aliquem clericum beneficio ecclesiastico spoliet.</p>
+                    <p>Et si contra fecerit, sit excommunicatus et beneficio suo priuatus ipso iure.</p>
+                </div>
+                <div>
+                    <head>Capitulum 27</head>
+                    <p>Statuimus quod si quis clericis uenientibus ad concilium in ueniendo uel redeundo in suo corpore seu in suis rebus, quas secum attulerint, noceat uel iniuriam fecerit, ipso iure sit excommunicatus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 28</head>
+                    <p>Statuimus quod si clerici receperint ecclesias uel claues earum in domos de manibus laicorum uel in ipsas se propria auctoritate intruserint, tam dantes, quam recipientes, quam se intrudentes sint excommunicati ipso facto, et clerici illi non habeant illas ecclesias illa uice.</p>
+                </div>
+                <div>
+                    <head>Capitulum 29</head>
+                    <p>Statuimus quod si laici receperint decimas et oblaciones ecclesiarum sua auctoritate sine iusto titulo, sint excommunicati ipso facto.</p>
+                </div>
+                <div>
+                    <head>Capitulum 30</head>
+                    <p>Statuimus quod si clerici suspensi fuerint in concilio seu priuati, si ecclesias retinuerint seu officia exercuerint, sint excommunicati ipso facto.</p>
+                </div>
+                <div>
+                    <head>Capitulum 31</head>
+                    <p>Statutum est quod omnes abbates, prelati et rectores et clerici ecclesiarum aut capellani, qui ad concilium contempserint uenire, uel se legitime non excusauerint, quod ipso facto sint excommunicati et nichilominus pignorentur quilibet pro solidis lx. legionensibus ad opus fabrice ecclesie beati Iacobi.</p>
+                </div>
+                <div>
+                    <head>Capitulum 32</head>
+                    <p>Statuimus quod raptores bouum sint excommunicati, et qui cum eis sine uoluntate dominorum suorum laborauerint uel hoc mandauerint uel procurauerint fieri, sint ipso facto excommunicati.</p>
+                </div>
+                <div>
+                    <head>Capitulum 33</head>
+                    <p>Statuimus quod clerici non transeant de uno archidiaconatu ad alium archidiaconatum, immo in eodem archidiaconatu non transeant de una ecclesia ad aliam sine licencia sui archidiaconi uel archipresbiteri.</p>
+                    <p>Et qui aliter fecerint sint ipso iure officio beneficioque suspensi.</p>
+                </div>
+                <div>
+                    <head>Capitulum 34</head>
+                    <p>Statuimus quod clerici uel laici usuras non exerceant aliquo modo.</p>
+                    <p>Et qui contra publice fecerint sint excommunicati ipso iure.</p>
+                </div>
+                <div>
+                    <head>Capitulum 35</head>
+                    <p>Statuimus quod si quis iniuriam irrogauerit canonico uel persone ecclesie Compostellane uel capitulo aut ipsos canonicos uel homines suos auctoritate propria pignorauerit uel eum desonrrauerit aut eius domos uel res inuaserit, ipso facto sit excommunicatus.</p>
+                    <p>Et nisi in continenti uocatus uoluerit satisfacere, ad mandatum duorum de capitulo, si fuerit uasalus ecclesie Compostellane, amittat terram quam tenet perpetuo sine spe restitucionis, et nichilominus per res quas habet compellatur ad prestandum satisfaccionem, et tamdiu denuncientur tales in sinodo et in ecclesiis ciuitatis et diocesis in diebus dominicis et festiuis excommunicati quousque ueniant ad condignam satisfaccionem, cum sint excommunicati ipso facto per constitucionem super hoc editam.</p>
+                </div>
+                <div>
+                    <head>Capitulum 36</head>
+                    <p>Statuimus quod de qualibet parrochia mactent qualibet die dominica Quadragesime unum lupum uel dent unam lecticam integram de lupis lactentibus.</p>
+                    <p>Et qui non fecerint, sin excommunicati ipso facto.</p>
+                </div>
+                <div>
+                    <head>Capitulum 37</head>
+                    <p>Item decernimus excommunicatos et non absoluendos, nisi per papam, et absolutos non sepeliendos infra annum, omnes qui producti in testes falsum testimonium iurauerint.</p>
+                    <p>Et si in mortis articulo fuerint per suum presbiterum absoluti, et conualuerint, sint excommunicati et absoluendi per papam, ut prius, et nichilominus rectores sui mandent eis quod emendent dampnificatis dampnum quod per suum falsum testimonium intulerunt, et hanc sentenciam incurrant eciam tam producentes quam consulentes et eciam subornantes, et illi qui scienter usi fuerint falso instrumento in iudicio.</p>
+                    <p>Et hanc constitucionem statuimus et uolumus extendi quando eciam per inquisiam seu inquisicionem fuerit procedendum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 38</head>
+                    <p>Statuimus quod nullus minuet uel occupet ecclesiam per homines uel per cantum, nisi de nostra uel archidiaconi sui licencia, alioquin sit excommunicatus ipso facto.</p>
+                </div>
+                <div>
+                    <head>Capitulum 39</head>
+                    <p>Statuimus et mandamus in uirtute obedientie et monemus omnes clericos quod satisfaciant Orreo sancti Iacobi de tertiis quas debent a quinque annis circa infra spacium xxx. dierum, post presens concilium.</p>
+                    <p>Alias quemlibet eorundem non soluentem excommunicamus in his scriptis et precipimus excommunicacioni denunciari.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1]Originalli R&lt;odericum&gt;</p>
+                    <p>[2]Originalli &lt;sit excommunicabis...dixerit&gt;</p>
+                    <p>[3]Originalli ex&lt;iam&gt;</p>
+                    <p>[4]Originalli ce&lt;n&gt;su</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

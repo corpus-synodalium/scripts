@@ -1,0 +1,188 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Chartres</title>
+                <recordID>0171</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1325</origDate>
+                <dateNotes/>
+                <origPlace>Chartres</origPlace>
+                <diocese>Chartres</diocese>
+                <province>Sens</province>
+                <country>France</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 171</p>
+                <p>Year: 1325</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Chartres</p>
+                <p>Diocese: Chartres</p>
+                <p>Province: Sens</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 48.455847</p>
+                <p>Longitude: 1.484184</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Robert de Joigny</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Martene, Vet Script, 7, coll 1364-66</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Data Capture']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>SEQUUNTUR STATUTA ET ACTA in synodo per nos R. Dei permissione episcopum Carnotensem celebrata anno Domini MCCCXXV. die Mercurii post festum B. Luce euangeliste.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>PArochiales ecclesias et alia quecumque beneficia ad manum nostram ex quacumque causa posita dearrestamus et deliberamus, uolentes quod illi ad quos pertinent, ipsis iuribus et possessionibus uti libere ualeant, nostro et alterius cuiuslibet iure saluo.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>Monemus omnes et singulos nobis subditos, quod in ecclesiis suis resideant, prout iurauerunt et tenentur, gracias quascumque de non residendo in ecclesiis parochialibus, eciamsi ad plures annos, uel sub quacumque forma concesserimus, utilitate ipsarum ecclesiarum passatas, et alias quascumque gracias reuocamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>Non intendimus cum aliquo dispensare, si de non residencia in parochiali ecclesia per septennium fuerit dispensatum, nostre intencionis existit, quod si contingat nos super non residencia in parochiali ecclesia cum aliquo dispensare, tamen curatus ecclesie a Dominica in Passione usque ad Quasimodo, teneatur exercendo curam eiusdem in ea parochia residere.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>Item, quod obediencia curatorum uel aliorum subditorum nostrorum et officiali nostro obedientium, ut tenentur, eis debet ad terminum cedere non ad noxam.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>Statuimus et inhibemus, ne per archidiaconos Carnotenses uel eorum officiales contra dictos curatos et alios nobis subiectos, seu aliquem ex ipsis procedatu, citando, monendo, suspendendo, excommunicando, uel alio quouis modo, pro eo quod ipsi curati et alii nobis subditi preceptis et inhibicionibus synodalibus et mandatis nostris et officialis nostri obedierint et obedient in futurum.</p>
+                    <p>Et si contrarium a quoquam presumtum fuerit, toties quoties illud ex tunc, prout ex nunc decernimus irritum et inane, et totaliter amouemus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>Item, quia absencia curatorum et capellanorum curas regentium multum periculi esse existit; statuimus quod aliquis curatus uel capellanus curam regens parochie non citetur a quoquam, causa legitima clare et specifice in citatoriis non expressa.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>Item, nullus capellanus ad deseruiendum parochiali ecclesie admittatur, nisi prius quoad illam ecclesiam per officialem nostrum fuerit approbatus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>Item, precipimus, quod curati habeant constituciones et statuta facta in concilio Senonensi prouinciali ultimo celebrato.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>Item, precipimus sub pena LX. solidorum per nos in proprios usus conuertendorum, et precipimus magistris eleemosinarum et leprosariarum, ne ministrent ecclesiastica sacramenta, neue suscipiant publice excommunicatos et interdictos ad diuina fingentes, quia nesciunt ipsos excommunicatos et interdictos, et possent super hoc certificari per breues sicut curati.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>Item, precipimus sub pena predicta fratribus et magistris huiusmodi, quod uestibus indecentibus et peperonis de cetero non utantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>Item, de presbyteris et clericis curatis qui tenent in hospitiis suis et alibi concubinas notorie, uolumus quod antiqua statuta seruentur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>Item, monemus omnes illos qui non habent precepta synodalia, quod ea procurent habere infra tres menses, alioquin grauiter puniemus eosdem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>Item, de capellanis Britonibus, qui in multis indebite conuersantes, secularibus negotiis inuoluti, una die sine causa racionabili pluries celebrantes, et concubinas seu adulteras tenere publice noscuntur, talia fieri prohibemus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>Item, precipimus festum SS. Sacramenti altaris iuxta prouinciale concilium celebrari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>Item, precipimus ducem Bauarie, qui se dicit regem Alamannie, et fautores suos, consiliarios, singulis diebus denunciari excommunicatos et interdictos, et incurisse penas in litteras apostolicis super hoc confectis contentas.</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>Item, statuimus quod illa statuta de publicandis preceptis synodalibus iuxta illud statutum quod incipit: Ut animarum periculo.</p>
+                    <p>Item illud in quo fit mencio de illis qui maliciose deferunt litteras excommunicatis contra illud statutum quod incipit: Item cum excommunicatis.</p>
+                    <p>Item statutum eciam contra illos qui maliciose deferunt citaciones, ut in statuto quod incipit: Contra maliciam, per bone memorie dominum I. predecessorem nostrum edita publicentur et seruentur, ut in eisdem communicentur, alioquin non seruantes penas in eisdem contentas eo ipso incurrent.</p>
+                </div>
+                <div>
+                    <head>Capitulum 17</head>
+                    <p>Item statuimus, ne in leprosariis uel domibus Dei seu aliis capellaniis publice campanis pulsatis diebus Dominicis et festis aliquis celebrare presumat, donec in ecclesia parochiali fuerit celebratum.</p>
+                    <p>Si quis tamen in secreto, exclusis extraneis, in locis predictis celebrare uoluerit hora premissa, nobis placet.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18</head>
+                    <p>Item, prohibemus ne questores aliqui admittantur, nisi cum litteris nostris.</p>
+                </div>
+                <div>
+                    <head>Capitulum 19</head>
+                    <p>Item, archidiaconis et decanis ruralibus, quod nullus eis procuracionem racione uisitacionis soluere presumat, quin prius uisitacionis officio a nostro officiali impenso.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

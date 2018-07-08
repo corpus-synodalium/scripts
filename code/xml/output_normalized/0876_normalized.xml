@@ -1,0 +1,132 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Valencia</title>
+                <recordID>0876</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1255-10-19</origDate>
+                <dateNotes/>
+                <origPlace>Valencia</origPlace>
+                <diocese>Valencia</diocese>
+                <province>Tarragona</province>
+                <country>Spain</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 876</p>
+                <p>Year: 1255</p>
+                <p>Month: 10</p>
+                <p>Day: 19</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Valencia</p>
+                <p>Diocese: Valencia</p>
+                <p>Province: Tarragona</p>
+                <p>CountryModern: Spain</p>
+                <p>Latitude: 39.470239</p>
+                <p>Longitude: -0.376805</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Andrés de Albalat</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1248</p>
+                <p>RegnalEnd: 1276</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Synodicon Hispanum, XII, 694-696</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['Library Scan', 'Hard Copy Scan']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Proemium [1].</p>
+                    <p>Anno Domini millesimo ducentesimo quinquagesimo quinto, tercia feria post festum sancti Luce, et mutata est synodus in feria tercia post dominicam de Quasi modo [2], nos frater Andreas diuina miseracione Ualentinus episcopus, prout moris est et a sanctis patribus constitutum, sanctan synodum celebrantes.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>De forma interdicti imponendi.</p>
+                    <p>In primis, statuimus ut si aliquis clericus parochianum suum ob causam legitimam supponere debuerit sententie interdicti, hanc formam a iure traditam seruare procuret, que in sequentibus continetur.</p>
+                    <p>Primo enim ipsum ter edictis legitimis ammoneat.</p>
+                    <p>Deinde, si contumax fuerit, interdicti sentenciam in scriptis redactam et causam propter quam interdicatur, in eisdem insertam, in ipsum proferat.</p>
+                    <p>Et exemplum scripture huius teneatur persone interdicte tradere infra mensem post diem sententie, si fuerit requisitus, super qua requisicione fieri uolumus publicum instrumentum uel litteras testimoniales confici sigillo authentico consignatas.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>Ne clerici in ciuitatem intrent nisi bis in mense.</p>
+                    <p>Item, cum ad aures nostras conquerenter clamosa insinuacione religiosorum uirorum et aliorum plurium fide dignorum, tam parochianorum quam eciam aliorum, peruenerit quod rectores ecclesiarum et alii clerici Ualentine ciuitatis uicini ingrediantur ciuitatem frequentius quam expediat et eorum deceat honestatem, illicitis et inhonestis se actibus immiscendo, in animarum suarum et parochianorum suorum dispendium et iacturam.</p>
+                    <p>Et sic a seruicio ecclesiarum suarum nimium se subtrahunt et elongant, et ecclesie debitis seruitiis defraudantur et parochiani aliquando plura incurrunt pericula, sicut pro certo didiscimus.</p>
+                    <p>Et ipsi eciam clerici, omissis Horis canonicis, multa committunt illicita, in opprobrium sui et totius ordinis clericalis.</p>
+                    <p>Nos huic morbo desiderantes occurrere et animarum languoribus prouidere, prouida deliberacione statuimus ut deinceps prefati clerici, nisi bis in mense, ciuitatem ingredi non presumant, nisi causa necessaria forte et ineuitabili eos pluries intrare oporteat ciuitatem.</p>
+                    <p>Et quandocumque intrare debuerint, parochiis suis de ministris prius prouideant.</p>
+                    <p>Et cum regnum Dei ante omnia sit querendum, eadem die qua in ciuitatem intrauerint, ad suas ecclesias reuertantur.</p>
+                    <p>Si uero ex causa eos ultra illam diem in ciuitate remanere oporteat, nobis uel officiali nostro causam exponant propter quam moram trahere debeant longiorem.</p>
+                    <p>Et ut negociorum occasione sumpta, Horas non omittant canonicas, uolumus ut in ecclesia Sancte Marie, quamdiu in ciuitate remanserint, Horis nocturnis et diurnis in decenti habitu procurent personaliter interesse, nisi legitimo impedimento fuerint impediti.</p>
+                    <p>Quod si circa premissa aliquid presumpserint attemptare, arbitrio nostro uel officialis nostri graui pena nouerint se puniendos.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] In brackets</p>
+                    <p>[2] From et mutata in parentheses</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

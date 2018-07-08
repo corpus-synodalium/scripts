@@ -1,0 +1,193 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Trier</title>
+                <recordID>1785</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1423-04-26</origDate>
+                <dateNotes/>
+                <origPlace>Trier</origPlace>
+                <diocese>Trier</diocese>
+                <province>Trier</province>
+                <country>Germany</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Provincial</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 1785</p>
+                <p>Year: 1423</p>
+                <p>Month: 4</p>
+                <p>Day: 26</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Trier</p>
+                <p>Diocese: Trier</p>
+                <p>Province: Trier</p>
+                <p>CountryModern: Germany</p>
+                <p>Latitude: 49.7596</p>
+                <p>Longitude: 6.6439</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Provincial</p>
+                <p>IssuingAuthority: Otto von Ziegenheim</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1418</p>
+                <p>RegnalEnd: 1430</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Blattau, Statuta synodalia, I, 222-34</p>
+                <p>EditionOther: Hartzheim, Concilia V, 222-227</p>
+                <p>SourceNotes: https://books.google.com/books?id=dow-AAAAcAAJ</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'WebDownload']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Statuta prouincialia Domini Ottonis Archiepiscopi Treuirensis.</p>
+                    <p>Hec sunt statuta per reuerendissimum in Christo patrem et dominum, dominum Ottonem Dei gracia sancte Treuirensis Ecclesie Archiepiscopum, Germanie et Gallie Belgice Primatem, atque sacri Imperii per Galliam et regnum Arelatense Archicancellarium cum suis suffraganeis, uidelicet reuerendo in Christo patre, domino Conrado Beier Episcopo Metensi personaliter presente, et reuerendo patre domino Henrico Episcopo Tullensi per procuratorem, uidelicet magistrum Imentum de Tapeio, in legibus licenciatum, comparente; et reuerendo in Christo patre domino Ludouico, Episcopo seu administratore perpetuo Uirdunensi Cardinali, in remotis agente et absente licet uocato, ceterisque Prelatis religiosis et secularibus prouincie Treuirensis in Concilio prouinciali, anno Domini millesimo quadringentesimo uigesimo tercio, uigesima sexta die mensis Aprilis in Ecclesia Treuirensi celebrato, edita atque per ipsum sacrum Concilium approbata et ratificata.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>De fide catholica.</p>
+                    <p>Unam, sanctam atque orthodoxam atque apostolicam Ecclesiam sanguine uictime paschalis dedicatam, unicam eterni regis sponsam, ipso sponso in Canticis proclamante: Una est columba mea etc., extra quam non est salus; per unicam arcam Ne tempore generalis diluuii, extra quam cuncta animancia super terram deleta sunt, designatam, pro qua Dominos per Prophetam orauit dicens: Erue a framea Deus animam meam, et de manu canis unicam meam; ubi primum pro se tamquam pro capite, deinde pro unica eius sponsa orauit: hanc credimus et simpliciter profitemur.</p>
+                    <p>In qua secundum cultum christiane religionis a Spiritu sancto per sanctos Apostolos Ecclesie primates primitus introductum, Martyrumque constancia roboratum, Confessorum et Uirginum exemplis decoratum, per sanctos Ecclesie Doctores plantatum, atque per Romanos Pontifices Christi Uicarios, Petri successores, suis monitis et preceptis traditum et expressum, uiuere tenemur.</p>
+                    <p>Hunc siquidem catholice fidei ritum et uere fidelium cultum quidam pseudoprophete suis falsis dogmatibus et reprobatis doctrinis nitebantur peruertere his modernis temporibus: inter quos primo Wicleff, demum Huss et Hieronimus heresiarche Ecclesiam Dei turbauerunt.</p>
+                    <p>Qui, licet cum suis erroribus et falsis doctrinis cum eis adherentibus per Ecclesiam sint damnati, ac in sacrosancta generali Constantiensi synodo per sentenciam reprobati, plures tamen ipsorum errores sequentes reliquerunt, qui, ut experiencia didicimus, suis lupinis morsibus et caninis latratibus per se et certos ipsorum nuncios per mundum uagantes suo lethifero potu vix numerabilium errorum via quadam antichristiana Dei Ecclesiam nituntur ad exterminium ducere, et ueros Christi fideles a via ueritatis declinare, et diabolico instinctu in fauces rugientis inimici perducere.</p>
+                    <p>Uolentes igitur super grege dominico nobis commisso peruigili cura, ut tenemur, uigilare, authoritate huius sacri Concilii prouincialis statuimus et in uirtute sancte obedientie ac sub pena excommunicacionis late sententie, quam pro ex nunc prout ex tunc et ex tunc prout ex nunc ferimus in his scriptis, saluis aliis penis in iure expressis, mandamus, ne aliquis clericus uel laicus scienter peruersam dictorum Wicleff, Huss et Hieronimi, aut eorum sequentium, qui uulgo Hussite uocantur, uel quorumcunque eciam aliorum ab Ecclesia damnatorum doctrinam acceptet, neque tales aut eorum defensores seu receptatores, aut nuncios, scienter ad sua hospicia recipiat, auxilium, fauorem uel defensionem administret quomodolibet uel assistat.</p>
+                    <p>Precipimus insuper omnibus et singulis dominis temporalem iurisdiccionem habentibus, ut quam statim tales in suis territoriis adesse nouerint, ipsos captiuent et Prelatis suis superioribus, ad quos spectat talium examen, ad examinandum eosdem presentent, et quilibet eorum presentet sub penis predictis.</p>
+                    <p>Inferioribus uero, iurisdiccionem non habentibus, sub penis predictis iniungimus, ut prefatos sic errores seminantes sine dilacione Prelatis superioribus denuncient, si eorum accessum commode habere poterint.</p>
+                    <p>Sin autem, iudicibus temporalibus manifestare procurent, qui sub penis predictis tales denunciatos captiuent et, ut prefertur, Prelato superiori ad examinandum eosdem absque mora studeant presentare.</p>
+                    <p>Hortamur insuper et omnibus uere fidelibus et deuotis utriusque sexus et presertim religiosis iniungimus, ut puro corde et humili spiritu Deum omnipotentem exorent, ut sua inoblita bonitate mentes fidelium uiatorum a lethifera peste predictorum errorum armis sue inexpugnabilis potentie protegat et defendat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>De horis canonicis legendis et cantandis.</p>
+                    <p>Attendentes, quod Clerici beneficati et in sacris ordinibus constituti ad immolandum Deo sacrificium laudis, fructum labiorum suorum, uidelicet horas canonicas dicendum, in puritate conscientie et cum deuocione tenentur: quas sepius, quod dolentes referimus, tam religiosi quam seculares persone sine aduertencia legentes atque sincopando celeriter transcurrentes, nulla disciplina tempore psallendi seruata, taciturnitate seu silencio pretermisso, et plerumque extranea, profana et inhonesta intermiscendo colloquia, horis indebitis pensum sue seruitutis persoluunt.</p>
+                    <p>Ne igitur transgressiones huiusmodi inualescant, sacri approbacione Concilii statuimus, ut in cathedralibus, regularibus monasteriis et collegiatis ecclesiis Canonici ac Religiosi cetereque ecclesiastice persone debitis horis per se, impedimento cessante, non tantum per pueros deuote, cum debitis pausis, silencio seruato, sine sincopacione, attenta mente, ut chorus tacens, quid alii legant, aduertat, singulas horas canonicas ceteraque diuina officia studeant adimplere, qui, postquam chorum intrauerint, ab eodem non recedant, nec tempore diuinorum in ecclesia, presertim in naui ecclesie non deambulent sine racionabili causa.</p>
+                    <p>Caueant tamen Clerici, ne in cantando diuinum officium ipsorum uoces exaltando plus hominibus placere studeant, quam prestare Deo officium intendant.</p>
+                    <p>Nam in sacro ministerio dum blanda uox queritur, congrua uita negligitur; et cantor Deum moribus stimulat, cum uocibus populum delectat.</p>
+                    <p>Ceteri uero pastores, uicarii et alii simplices competenti tempore cum debita animaduertencia et totali uerborum expressione horas canonicas legant, et diuinum officium nocturnum pariter et diurnum studiose celebrent et deuote, saluis racionabilibus priuilegiis et statutis quarumcunque ecclesiarum, precipientes omnibus et singulis ecclesiarum Prelatis ceterisque, quorum interest, ut, omni negligencia uel incuria penitus relegatis, circa premissa reformanda, et eorum singula corrigenda sollicitam curent diligenciam adhibere, non obedientes per censuram ecclesiasticam aut subtraccionem fructuum corrigendo.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>De fornicatoribus Clericis beneficiatis et ordinatis.</p>
+                    <p>Quamuis diuino precepto omnes teneantur crimen fornicacionis uitare, precipue tamen uiri ecclesiastici, Sacerdotes et ecclesiarum Prelati, quibus per Prophetam Dominus ait: Sancti estote, quoniam ego sanctus sum, Dominus Deus uester.</p>
+                    <p>Cum enim ipsi dicantur templum Domini, et debeant esse sacrarium Spiritus sancti, indignum est, eos quibuslibet immunditiis seruire, ne et istud terribile uerbum audiant, quod Dominus per alium Prophetam dicit: O uos Sacerdotes, qui fallitis nomen meum, et dixistis, in quo fallimus?</p>
+                    <p>Quibus respondit: Offerentes ad altare meum panes pollutos.</p>
+                    <p>Non est mihi uoluntas in uobis, et sacrificium non accipiam de manibus uestris, quia polluti estis, dicit Dominus.</p>
+                    <p>Summo ergo opere cauere debent Clerici et maxime Sacerdotes a cohabitacione mulierum, presertim suspectarum, ne antiqui hostis fraude decipiantur.</p>
+                    <p>Quanquam autem contra Clericos in sacris constitutos, concubinas notorie secum tenentes aut alias suspectas mulieres, mulla sint edita iura noua et uetera, sintque plures pene apposite: multi tamen huius temporis Clerici dictas penas non uerentur, sed nefando huius criminis vicio se contaminant; unde plura scandala oriuntur, et uerisimiliter, nisi prouideatur, euenient grauiora.</p>
+                    <p>Cupientes itaque huic morbo salubriter prouidere, authoritate huius sacri Concilii statuimus et ordinamus, ut nullus Presbyter uel Clericus in sacris ordinibus et potissimum in maioribus ordinibus existens uel beneficiatus concubinam aut interdictam uel suspectam mulierem secum in domo teneat.</p>
+                    <p>Et si quis huiusmodi talem personam in anime sue periculum, honoris et sui status detrimentum tenuerit, teneat, uel actu detinet, eandem infra duodecim dies a tempore publicacionis huius statuti, quorum quatuor pro primo, quatuor pro secundo, et reliquos quatuor dies pro ultimo et peremptorio termino et monicione canonica assignamus, a se realiter et cum effectu amoueat et dimittat, et de cetero ad se eam non admittat seu ad eam accedat uel cum ea commercium suspectum quomodolibet habeat, sed neque aliam talem assumat, sub pena perdicionis omnium fructuum suorum beneficiorum unius anni.</p>
+                    <p>Quod si nec sic a predictis destiterit, per superiorem suum a diuinis suspendatur, et per alias penas et censuras ecclesiasticas, usque ad beneficii seu beneficiorum suorum priuacionem procedatur: in quo si Prelati uel Capitula, correccionem subditorum habentes, post mensem negligentes reperti fuerint, ex tunc talium correccio ad nos uel Episcopum loci ipso facto deuoluatur.</p>
+                    <p>Inhibemus insuper predictis Sacerdotibus et Clericis in sacris existentibus, ne de stipendio Crucifixi suos filios uel filias spurios uel concubinas dotent et ditent, neque aliquid de predictis bonis ipsis legent, et neque filios aut filias infantes in suis domibus teneant aut nutriant, ipsosque filios aut filias sic foueant in uictu et uestitu ut omnis occasio scandali uitetur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>De uita et honestate Clericorum.</p>
+                    <p>Clericalis ordo debet quasi stella matutina in medio nebule, et quasi sol refulgens lucet, ad decorem domus Dei, in alios splendere.</p>
+                    <p>Sunt enim Clerici in sortem Domini electi, et quasi signum ad sagittam sunt positi.</p>
+                    <p>Sicut ergo ceteros dignitate precedunt, ita decenti habitu, morum honestate, uite sanctitate in se debent ostendere, qualiter alios in domo Dei oporteat conuersari; et precipue ecclesiarum Prelati, qui ad exemplar et normam uiuendi Ceteris sunt antepositi, qui summo studio precauere debent, ne aliqua inhonesta committant, unde scandalum in subditis mentium possit generari: quod enim a Prelatis agitur, facile a subditis in exemplum trahitur.</p>
+                    <p>Ut igitur Clerici discant a uetitis abstinere, auctoritate huius sacri Concilii prouincialis statuimus, ut ipsi suos actus et mores secundum decreta sanctorum patrum, iuris disposicionem, salubriaque monita atque statuta nostrorum antecessorum dirigant, et ipsa obseruare procurent.</p>
+                    <p>Specialiter tamen inhibemus, ne quis Clericorum nefanda iuramenta per corporis membra aut sanguinem nostri redemptoris iurare, aut alias blasphemias in Deum aut in Sanctos eius dicere ullo modo presumat, sub pena amissionis omnium fructuum suorum beneficiorum per tres menses.</p>
+                    <p>Item mandamus, ut Clerici in sacris et beneficiati existentes a ludis illicitis abstineant et maxime a ludo taxillorum uel alearum, qui causa auaritie uel turpis questus fiunt.</p>
+                    <p>Officia eciam a iure Clericis prohibita ipsi non exerceant: ut officium tabernariorum et similium a iure prohibitorum.</p>
+                    <p>Item cum Sacerdotes et Clericos oporteat per decenciam habitus extrinseci intrinsecam morum honestatem ostendere, statuimus, ut nullus Clericorum in sacris existentium, abiecta forma ecclesiastice honestati congruente, alienam formam sibi prohibitam in suis uestibus deferre presumat, et ne miles coelestis militie suo habitu militem armorum se ostendat, sed in decenti ueste incedat, suumque habitum in colore, forma seu figura deferat, prout sancti patres ordinauerunt iuraque sub certis penis sanxerunt, et nouissima sacri generalis Constantiensis Concilii decreta mandauerunt, antecessorumque nostrorum statuta salubria statuerunt.</p>
+                    <p>Tonsuram eciam et coronam quilibet ipsorum decenter portet iuxta sui ordinis qualitatem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>Ne questores sine licencia Episcopi loci admittantur.</p>
+                    <p>Ad refrenandum continuos questoram excessus, quibus nouis excogitatis modis pauperes decipere et eleemosinam ab eis extorquere diuersis fallaciis conantur, nunc indulgencias promittendo, tunc uero certas infirmitates et plagas a Sanctis, sub quorum nomine eleemosinam petunt, infligendas comminando, uariisque aliis decepcionibus populum simplicem ad manus eis adiutrices prestandum inducendo: nonnullis eciam eorum se questores certorum hospitalium uel locorum religiosorum falso mentiendo, simplicibus falsas literas adulterinis sigillis ostendentes; statuimus et ordinamus, ut nullus laicus in questorem admittatur, neque in aliqua ecclesia nobis subiecta sine literis nostris aut Episcopi loci seu apostolicis admittantur, habentes autem literas apostolicas non admittantur, nisi prius nobis uel Episcopo loci ad examinandas easdem literas se presentent.</p>
+                    <p>Nullus eciam questorum, qualescunque literas obtineat, ad predicandum uel aliqua intimandum admittatur, nisi secundum disposicionem Clementine constitucionis: De Penitent. et Remiss.</p>
+                    <p>Nullus eciam talium questorum ad petendum eleemosinam in aliquo loco admittatur, nisi prius literas suas pastori uel uicario eiusdem loci presentet, qui ipsum tunc secundum formam infra scriptam admittat.</p>
+                    <p>Quod si aliquis sine literis, uel literis non presentatis, sub forma questorum eleemosinam in ecclesia uel extra petierit, per pastorem uel uicarium ibidem regentem nobis uel Episcopo loci aut Officiali denuncietur.</p>
+                    <p>Ut autem forma dicta Clericis cunctis pateat, eius tenorem de uerbo ad uerbum decreuimus apponi, que est talis: Abusionibus, quas nonnulli eleemosinariorum questores in suis proponunt predicacionibus, ut simplices decipiant, et aurum subtili uel fallaci potius ingenio extorqueant ab eisdem, cum in animarum cedat periculum et scandalum plurimorum, uiam, prout est nobis possibile, precludere cupientes iuxta statutum Concilii generalis duximus prohibendum districte, ne questores aliqui nisi apostolicas uel diocesani Episcopi literas exhibuerint, quomodolibet admittantur nec permittantur, cum solum ipsis competat indulgencias sibi concessas insinuare populo et charitatiue postulare subsidia simpliciter ab eodem, et nullatenus ipsi populo predicare nec aliud exponere quam quod in literis continebitur supradictis.</p>
+                    <p>Literas quoque apostolicas diocesani Episcopi, ne quid fraudis committi ualeat per easdem, antequam questores admittantur, examinent diligenter.</p>
+                    <p>Ad hec cum aliqui ex huiusmodi questoribus, sicut ad nostram audienciam est perlatum, non sine multa temeritatis audacia et decepcione multiplici animarum, indulgencias populo suo motu proprio de facto concedant, super uotis dispensent, a periuriis, homicidiis et peccatis aliis sibi confitentes absoluant, male ablata incerta, data sibi aliqua pecunie quantitate, remittant, terciam aut quartam partem de penitentiis iniunctis relaxent, animas tres uel plures parentum uel amicorum illorum, qui eleemosinas eis conferunt, de purgatorio, ut asserunt mendaciter, extrahant et ad gaudia paradisi perducant, benefactoribus locorum, quorum questores existunt, remissionem plenariam peccatorum indulgeant, et aliqui ex ipsis eos a pena et culpa ut eorum uerbis utamur [1] absoluant.</p>
+                    <p>Nos abusiones huiusmodi, per quos censura uilescit ecclesiastica et clauium Ecclesie authoritas deducitur in contemtum, omnimode aboleri uolentes, ea per quoscunque questores fieri uel attentari de cetero districtius inhibemus, omnia et singula priuilegia, si qua super premissis uel eorum aliquo sint aliquibus locis, ordinibus uel personis questorum huiusmodi quomodocunque concessa, ne ipsorum pretextu sit eis materia talia ulterius presumendi, auctoritate apostolica, quantum ad premissa, penitus reuocantes.</p>
+                    <p>Questores autem, qui deinceps in premissis uel aliquo premissorum deliquerint, uel alias eciam quibuscunque suis priuilegiis abusi fuerint, sic per locorum Episcopos puniri uolumus, nullo prorsus eisdem questoribus in hac parte priuilegio suffragante, quod a suis temerariis ausibus, qui ubique, ut communis habet assercio, nimium excreuerunt, pene formidine perpensius compescantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>De Confessoribus.</p>
+                    <p>Cum ubi maius uertitur periculum, cautius sit agendum, uolentes itaque saluti animarum prouidere, et quibusdam periculosis fraudibus quorumdam confessorum, plus lanam quam oues diligentium, quantum possumus obuiare: hortamur omnes et singulos religiosos et seculares, confessiones audientes, ut more periti medici debitam medelam confessis adhibeant, et salutarem penitenciam imponant, secundum peccatorum et peccati circumstancias.</p>
+                    <p>Eisdem in uirtute sancte obedientie precipimus, ne propter munera aut spem lucri penitenciam minorem, quam expediat, iniungant, nec ob aliquam causam duriorem infligant; neque aliquis eorum a confitente ante uel post confessionem aliquid exigat uel extorqueat.</p>
+                    <p>Sed nec aliquem res ablatas uel alienas detinentem, nisi restituat, absoluat, si sibi fuerit facultas restituendi de eisdem aut aliis rebus; neque illas res restituendas confessor recipiat, eciam sub promissione restitucionis faciende, nisi forte per alium ita caute restitucio fieri non possit.</p>
+                    <p>Item confessor penitenciam uel onus confesso iniunctum pro aliqua pecunia uel munere ad perficiendum in se non recipiat, neque sibi assumat, sub pena amissionis officii audiendi confessionem usque ad graciam nostram uel Ordinarii loci, sub quo deliquit.</p>
+                    <p>Sub simili pena precipimus, ut nullus confessor aliquem absoluat, in quem potestatem non habeat, et presertim, ne absoluat aliquem in casibus specialiter Episcopo reseruatis, nisi ad hoc a suo superiore commissionem habeat.</p>
+                    <p>Nullus eciam confessorum confessiones audiat in domo sua uel camera priuata, sed in ecclesia, refectorio, aut ambitu, uel alio loco decenti, penis sub predictis.</p>
+                    <p>Item simplicitati quorumdam Presbyterorum, qui interdum aliis Presbyteris, curatis uel non curatis, nullam in eos potestatem habentibus, confitentur, succurrere cupientes, inhibemus, ne de cetero aliquis Presbyter alicui curato uel non curato nullam superioritatem in eum habenti confiteatur, sine licencia sui superioris, cum a non suo iudice nullus ligari ualeat uel absolui.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>Confirmacio statutorum domini Balduini.</p>
+                    <p>Per premissa tamen huius sacri Concilii statuta nolumus neque intendimus statutis predecessorum nostrorum et maxime statutis per dominum Balduinum felicis memorie in Concilio prouinciali editis et expost per eum modificatis in aliquo contradicere, derogare, seu ea reuocare: sed ipsa statuta auctoritate huius sacri Concilii approbamus, innouamus, confirmamus ei ratificamus, singulisque nobis subiectis in uirtute sancte obedientie precipimus, ut eadem statuta obseruent, eis utantur, et secundum ea uiuere non obmittant.</p>
+                </div>
+                <div>
+                    <head>Explicit</head>
+                    <p>Expliciunt statuta prouincialia per dominum Ottonem Archiepiscopum Treuirensem edita.</p>
+                    <p>Amen.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] 'ut eorum uerbis utamur' originalli in parentheses.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

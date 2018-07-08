@@ -1,0 +1,311 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Beziers</title>
+                <recordID>1976</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1246</origDate>
+                <dateNotes/>
+                <origPlace>Béziers</origPlace>
+                <diocese>Béziers</diocese>
+                <province>Narbonne</province>
+                <country>France</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Provincial</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 1976</p>
+                <p>Year: 1246</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Béziers</p>
+                <p>Diocese: Béziers</p>
+                <p>Province: Narbonne</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 43.347615</p>
+                <p>Longitude: 3.218991</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Provincial</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Mansi 23, cols  715-24</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Data Capture']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: Apparent additiones to earlier text</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>LItteras reuerendissimi patris P Dei gracia episcopi Albanensis recepimus sub hac forma.</p>
+                    <p>[1] Uenerabili in Christo patri et amico carissimo Dei gracia archiepiscopo Narbonensi.</p>
+                    <p>P. eiusdem miseracione Albanensis episcopus, salutem in Domino.</p>
+                    <p>Etsi olim in partibus Prouincie domini pape uicem gerentes, uobis scripsimus, ut mandaretis inquisitoribus hereticorum, quod cum uestro et diocesanorum [2] quos ipsi expedire uiderent [3] consilio, in inquisicione heretice prauitatis procederent, iuxta consuetam formam eis super his traditam in penitentiis iniungendis: negotii tamen qualitate pensata, uolumus, et authoritate domini pape uobis mandamus, quatenus predictis inquisitoribus iniungatis, ut in heresis negocio cum uestro, diocesanorum, seu aliorum prelatorum consilio quos expedire uiderint, iuxta formam in talibus consuetam, et litteras apostolicas eis missas, procedere non omittant.</p>
+                    <p>De expensis uero eidem negocio opportunis, iuxta concilium apud Montempessulanum per reuerendissimum patrem Auenionensem episcopum, tum Apostolice sedis legatum, proinde celebratum, faciatis eisdem inquisitoribus prouidere.</p>
+                    <p>Datum Lugduni nonis Martii. [4]</p>
+                    <p>Huius igitur authoritate mandati uobis iniungimus quatenus in prefato inquisicionis negocio uobis commisso procedere secundum tenorem mandati eiusdem sine more dispendio procuretis.</p>
+                    <p>Ad hec nos episcopus memoratus: R Tolosanus: C Carcassonensis: B Helenensis: G Lodouensis: P Agathensis: Bitterensis.</p>
+                    <p>R Nemausensis: Uticensis: Dei gracia episcopi, abbates, ceterique prelati prouincie Narbonensis apud Bitterras in prouinciali concilio congregati, quorum sigilla presentibus sunt appensa, uestris deuotis precibus annuentes libenter, quibus a nobis petistis humiliter, nostris consiliis in toto memorato negocio dirigi et muniri, uestraque dubitaciones prout possumus amputantes, simulque deuocionem uestram adiuuare uolentes, sicut nobis ab ipsa sede apostolica mandatum est: ut qui nostra portatis onera, consilium a nobis et auxilium in ipso nostro negocio caritate mutua reportetis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>COnsulimus, ut infra terminos inquisicionis limitate uobis, ad locum de quo expedire uideritis, iuxta mandatum Apostolicum declinetis, ut inquisicionem de illo, uel de locis aliis faciatis: cum tutum non sit uos ad loca singula declinare: atque ibi conuocatis clero et populo, et proposito uerbo Dei, mandatum uobis factum, et aduentus uestri causam, lectis litteris, quarum authoritate procedere habetis, sicut oportere noueritis, exponatis.</p>
+                    <p>Ac deinde mandetis, ut omnes qui se uel alios sciuerint in crimine labis heretice deliquisse, compareant coram uobis ueritatem dicturi.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>Assignato eis termino competenti, quod tempus gratie uocare soletis, quibus tamen alias huiusmodi gracia non est facta: infra quem terminum uenientes penitentes, et dicentes plenam de se et de aliis ueritatem, habeant impunitatem mortis, immuracionis exilii, et confiscacionis bonorum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>Ut cum de locis aliis fuerit inquisicio facienda, huiusmodi generalem faciatis citacionem, ac tempus gratie assignetis: clericis et laicis in loco illo, de quo fiet citacio, conuocatis, per aliquam personam ecclesiasticam, cui hoc per uestras patentes litteras committatis: qui in testimonium recepti mandati sigillum suum litteris eisdem appendat, et nihilo minus rescribat per suas patentes similiter litteras cum suo sigillo pendenti, qualiter, et coram quibus, et quando, mandatum impleuerit sibi factum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>Ab illis qui sic citati coram uobis infra tempus comparuerint assignatum, recipiatis iuramenta de mera et plena super factis labis heretice, tam de se quam de aliis uiuis et mortuis, dicenda, quam nouerint, ueritate.</p>
+                    <p>Ac postmodum per uos, uel per scriptores, diligenter interrogantes eosdem de singulis, de quibus requirendi uidebuntur, faciatis confessiones ac deposiciones ipsorum fideliter scribi, et in actis inquisicionis deponi, aut per publicam, si potestis habere personam, aut per aliam idoneam, et iuratum, cui et alius uir idoneus iuratus similiter adiungatur: ut sic scriptura huiusmodi uel per manum publicam, uel per duos, ut tetigimus, uiros idoneos in actis reposita et conscripta, ac ei qui confitetur, et deponit coram inquisitore et notario, uel dictis duobus uiris idoneis recitata, tobur obtineat firmitatis.</p>
+                    <p>Iuramenta uero supradicta publice ac presentibus omnibus, qui ad confitendum conueniunt, recipere procuretis: ut ex forma iuramenti secundum quam exigitur, quilibet tam de se, quam de aliis teneatur dicere ueritatem.</p>
+                    <p>Intelligant singuli, quod fit contra ipsos inquisicio, et de quibus: atque ita capitula, de quibus inquiritur, singulis quasi exposita uideantur.</p>
+                    <p>Propter quod nec sit necesse, ut testes qui semel deposuerint in tam generali ac notoria inquisicione, producantur iterum, si eciam post huiusmodi deposicionem contra quemcumque de quo quid nouerint, dixerint, fieri coeperit inquisicio specialiter: nisi de aliquibus circumstantiis, de quibus requisiti non fuerant, uiderentur forsitan requirendi: presertim cum, sicut tangemus inferius, testium nomina nullatenus sint in hac causa fauorabili, tanquam priuilegiato negocio publicanda.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>Talibus infra tempus gratie sponte ac plene confitentibus, et ad ecclesiasticam se redire dicentibus unitatem, beneficium iuxta formam ecclesie absolucionis impendatis, facientes uidelicet ipsos abiurare omnem heresim extollentem se aduersus sanctam et Romanam ecclesiam et fidem orthodoxam, quibuscumque nominibus censeatur: et iurare quod fidem catholicam, quam eadem sacrosancta Romana tenet ecclesia et predicat, seruabunt pariter ac defendent: et hereticos cuiuscumque secte, uestitos pariter et condemnatos, credentes, receptatores, defensores, et fautores eorum persequentur pro uiribus: inuestigando, accusando, et capiendo, uel saltem eos inquisitoribus seu aliis fidelibus, qui eos opportunius capere uelint et ualeant, bona fide manifestando: et quod super his, qui inuenti sunt, uel fuerint in eodem crimine deliquisse, stabunt mandatis inquisitorum, et ecclesie, ac penitenciam que sibi fuerit quandocumque per ipsos iniuncta, recipient et implebunt: pro ea recipienda et implenda, bona sua omnia inquisicioni et ecclesie solemniter obligantes.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>Illos, qui cum sint culpabiles, contemnunt comparere infra tempus gratie, aut maliciose supprimunt ueritatem, citetis suo tempore nominatim.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>Eisque, si ueritatem contra se inuentam confiteri noluerint, exponatis capitula, super quibus inuenti sunt culpabiles, et dicta similiter testium publicetis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>Ac datis dilacionibus competentibus, et defendendi facultate concessa, benigne admittatis excepciones et replicaciones legitimas eorumdem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>Et si quidem in sua defensione defecerint, nisi culpam probatam gratis confiteri uoluerint, assignato ad sentenciam termino peremptorio competenti, damnetis eosdem; non enim sunt ad misericordiam admittendi, dum in sua negacione persistunt, quantumcumque uoluntati ecclesie se supponant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>Illud autem caueatis secundum prouidam sedis Apostolice uoluntatem, ne testium nomina signo, uel uerbo aliquo publicentur.</p>
+                    <p>Sed si instat contra quem inquisicio fit, dicens forte se habere inimicos, uel in se aliquos conspirasse: inimicorum ab eo, seu conspiratorum nomina, inimiciciarum seu conspiracionis causa, et ueritas, exigantur, ut sic et testibus consulatur, et ipsis eciam conuincendis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>Ad nullius uero condemnacionem procedatis sine confessione propria, uel probacionibus dilucidis et apertis: satius enim est relinquere facinus impunitum, quam innocentem damnare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>Quamuis in huiusmodi crimine omnes criminosi et infames, ac participes criminis, ad accusacionem et testimonium admittantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>Illis tantum excepcionibus fidem testium euacuantibus in totum, que non ex zelo iustitie, sed de malignitatis fomite procedere uideantur: ut sunt conspiraciones et inimicitie capitales.</p>
+                    <p>Alia uero crimina, etsi debilitent, non repellunt: maxime ubi testes de crimine fuerint emendati.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>Eos qui se contumaciter absentant, faciatis citari solemniter in parochiali, seu cathedrali ecclesia eorumdem: et in locis in quibus domicilium uel habent, uel habere solebant; et ita contra eos legitimis edictis propositis, precedenti expectacione matura, diligenti eciam discussione habita super actis: ac prelatorum, de quibus expedire uideritis consilio sigillato ad talium condemnacionem, eorum absenciam Dei et euangeliorum supplente presencia, pro culparum exigencia procedatis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>A quibus postmodum redire atque obedire uolentibus, et generaliter ab omnibus, qui prius contumaces, seu inobedientes fuerunt, uel de quorum fuga merito timere possetis, cauciones recipiatis fideiussorias: uel faciatis detineri eosdem ubi magis uidebitis expedire.</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>Perfectos hereticos seu uestitos coram discretis aliquibus et fidelibus examinetis secreto, ipsos ad conuersionem prout poteritis inducentes, et conuerti uolentibus uos exhibeatis fauorabiles, et benignos, cum per tales multum fuerit illuminatum negotium et promotum.</p>
+                    <p>Ac ipsorum penitencias pro qualitate conuersionis et meriti mitigetis, uel quantum uobis uisum fuerit, deferatis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 17</head>
+                    <p>Conuerti nolentes, ubi commode poteritis, damnare tardetis, ipsos frequenter tam per uos, quam per alios ad conuersionem monentes.</p>
+                    <p>Ac tandem in sua malicia pertinaces, faciatis errores suos, ad eorum detestacionem publice confiteri: et sic eos damnatos presentibus secularibus potestatibus, eorumue bailliuis secundum mandatum Apostolicum relinquentes.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18</head>
+                    <p>Ad hereticorum seu credentium condemnacionem, qui non fuerunt reconciliati canonice ante mortem, citatis eorum heredibus, siue aliis, qui de iure citandi fuerint, et concessa eisdem opportuna copia defendendi, similiter procedatis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 19</head>
+                    <p>Ab eorum heredibus, qui confessi et reconciliati, non accepta penitencia decesserunt, satisfaccionem congruam exigatis; ne tantum ac tale crimen, quod eciam publice in iudicio confessi sunt, remaneat in aliquibus impunitum.</p>
+                    <p>Et idem faciatis de illis qui decesserunt accepta penitencia, nec impleta.</p>
+                    <p>Si esse in mora coeperint, uel pro illa implenda obligauerint, ut supra tetigimus, bona sua, uel iniunctus fuerit transitus transmarinus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 20</head>
+                    <p>Damnatos hereticos relapsos, contumaces, et fugitiuos redire uolentes, similiter eciam deprehensos, qui uidelicet post tempus gratie, non nisi nominatim citati uenire curarunt, aut ueritatem suppresserunt scienter et contra proprium iuramentum: ex apostolico mandato in perpetuo carcere detrudatis, nec iniungatis alicui penitenciam carceris temporalis, sed huiusmodi perperui carceris penam seu penitenciam, ex domini Pape indulgencia super hoc uobis concessa, mitigare uel commutare poteritis de prelatorum, quorum iurisdiccioni subsunt, consilio, postquam fuerint in carcere aliquandiu detenti uestris humiliter parendo mandatis, et signa penitentie apparuerint in eisdem, que uos ad misericordiam moueant, simulque noueritis expedire.</p>
+                </div>
+                <div>
+                    <head>Capitulum 21</head>
+                    <p>Receptis prius ab illis bonis satisdacionibus, quod iniunctas sibi pro posse faciant penitencias, et iuramentis de persequenda heresi, et fide catholica defendenda, sicut in reconciliandis superius est expressum: lata eciam in ipsos sentencia, quod si leui argumento comperiri poterit, eos de cetero deuiare a fide, pena, sine misericordia, debita puniantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 22</head>
+                    <p>Hac semper uobis potestate retenta, ut si uideritis negocio fidei expedire, sine noua eciam causa, possitis ad carcerem reducere supradictos.</p>
+                    <p>In damnatis eciam fugitiuis, relapsis et contumacibus adhibeatur ante immuracionem ipsorum de iuramentis et satisfaccionibus cautela superius memorata.</p>
+                </div>
+                <div>
+                    <head>Capitulum 23</head>
+                    <p>Curetis tamen ut talibus immurandis, fiant iuxta sedis Apostolice ordinacionem, separate et occulte camerule, sicut fieri poterit in singulis ciuitatibus diocesim corruptarum, ut alterutrum uel se, uel alios peruertere nequeant; et eos enormis rigor carceris non extinguat, quod ab illis, qui bona illorum tenuerint, fieri, et in necessariis prouideri faciatis eisdem, secundum statuta concilii Tolosani.</p>
+                </div>
+                <div>
+                    <head>Capitulum 24</head>
+                    <p>Hec autem perpetui carceris pena seu penitencia nulli ab inicio de prefatis culpabilibus remittatur, aut in aliam commutetur: nisi uel hereticos redderet, uel propter eius absenciam euidens mortis periculum eius liberis uel parentibus immineret: uel propter aliam causam, que multum iusta et racionabilis uideretur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 25</head>
+                    <p>Sit autem liber accessus uxori ad uirum immuratum, et e conuerso, ne cohabitacio denegetur eisdem, siue ambo immurati fuerint, siue alter.</p>
+                </div>
+                <div>
+                    <head>Capitulum 26</head>
+                    <p>Ceteris qui propter uel promissam graciam, uel propter qualitatem delicti, uel propter aliam racionabilem causam, immurandi non fuerint, huiusmodi penitencias iniungatis: uidelicet ut fidem, et ecclesiam, quam taliter offenderunt, defendant ad tempus, pro uestro arbitrio designatum, per se, uel per alios magis idoneos ultra mare, uel citra, contra Saracenos, uel hereticos, et fautores eorum, aut aliter fidei et ecclesie rebellantes.</p>
+                    <p>In detestacionem eciam erroris ueteris, portent in superiore ueste duas cruces coloris crocei, longitudinis duorum palmorum et dimidii, latitudinisque duorum, et in se trium digitorum habentes latitudinem, unam anterius in pectore, et aliam posterius inter scapulas.</p>
+                    <p>Uestes, in quibus cruces portauerint crocei coloris non habentes, superiori ueste intellecta, supra quam in domo, uel extra, alia non portetur.</p>
+                    <p>Et si fuerint uestiti heretici, uel damnati, portent crucem terciam competentis quantitatis, seu coloris eiusdem in capucio uel in uelo.</p>
+                    <p>Et si forte deierauerint, aut induxerint alios ad deierandum, portent in superiori parte duarum crucum [5] quas portare habent in pectore, et inter scapulas, [6] brachium transuersale palmi unius uel circa.</p>
+                    <p>Qui autem transfretare debebunt, portent cruces predictas donec applicuerint ultra mare: et eas ulterius non teneantur portare, donec in littore transmarino nauem ad redeundem intrantes resumant easdem circa mare, et in mari, et in insulis eas exinde perpetuo portent.</p>
+                    <p>Intersint diebus Dominicis et festiuis Misse ac Uesperis, et Sermoni, si fiat in villa, in qua fuerint: ac ceteris similiter diebus, uel Missas audiant, uel saltem ante prandium ad ecclesiam ueniant ad orandum: nisi impedimentum habuerint, sine fraude.</p>
+                    <p>Et in Missa cuiuslibet diei Dominice ac festiue, inter epistolam et euangelium, ueste superiori et uelo siue capuccio depositis, nisi et in uelo seu capuccio portent cruces, sacerdoti Missam presenti populo celebranti, cum uirgis in manu publice se presentent: ibique data illis disciplina, exponat sacerdos, quod propter culpam labis heretice penitenciam illam agunt.</p>
+                    <p>Sequantur eciam processiones, que fiunt in uillis, in quibus fuerint quandocumque: ita uidelicet, ut superiori ueste deposita, et capitibus uelo seu capuccio denudatis, nisi et in eis cruces portauerint, a processionis inicio portent alte in manu dextra inter clerum et populum, uirgas longas: et in stacione ultima, presentent se illi, qui processioni prefuerit, ut exponat populo, quod talem penitenciam faciunt propter illa que in crimine commiserunt heretice prauitatis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 27</head>
+                    <p>Peregrinaciones similiter, ac penas seu penitencias pecuniarias pro carceribus construendis, et ministrandis necessariis expensis, immurandis pauperibus, ac personis negocio inquisicionis necessariis iniungatis culpabilibus memoratis: et ne usuras exerceant, ac restituant iam acceptas.</p>
+                </div>
+                <div>
+                    <head>Capitulum 28</head>
+                    <p>Et ne bailiuias seu administraciones teneant, nec sint in consiliis, uel familiis potentum: neque utantur uel medici uel notarii officio: nec ad alia officia publica, uel ad actus accedant legitimos: nec portent aurifrisia, uel similia ornamenta, uel uittas croceas, nec sericum, uel corrigias auro uel argento membratas, uel sotulares incisos, seu pictos: et ubi expediens uisum fuerit, eiiciantur de villa in qua conuersati fuerant, in alia certa villa seu prouincia moraturi ad tempus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 29</head>
+                    <p>Hec autem de penitentiis arbitrariis ita perstrinximus, non ut uos omnes, uel equaliter omnibus imponatis: sed ut eas secundum discrecionem uobis traditam a Domino, negotii utilitate, qualitate personarum, culparum quantitate, aliisque pensatis circumstantiis, ita caute ac prouide dispensatis: ut siue plectendo siue ignoscendo, uita culpabilium corrigatur: aut saltem apparere ualeat, quis in tenebris ambulet, quis in luce, quis uere sit penitens, quis ficte conuersus.</p>
+                    <p>Huiusmodi autem penitencias iniungatis publice: nisi ubi esset peccatum occultum, quod neque esset reuelatum per alium, nec reuelari speraretur.</p>
+                    <p>Facientes eos culpas suas conuocatis clero et populo publice confiteri: et abiurare ac iurare, sicut in reconciliandis est expressum.</p>
+                    <p>Ita quod singuli mandent inde fieri publica instrumenta continencia culpas, abiuraciones, promissiones, et penitencias eorumdem.</p>
+                    <p>Et singulis dentur testimoniales uestre littere, hec eadem continentes.</p>
+                    <p>Uobis semper potestate retenta, ut possitis ex causa racionabili, penitentiis iniunctis addere, uel detrahere, uel ipsas eciam commutare.</p>
+                    <p>Et hac potestate consulimus uos usuros, quotiescumque saluti animarum et utilitati negotii uideritis expedire.</p>
+                    <p>Quibus autem fuerint peregrinaciones iniuncte, teneantur dictas testimoniales litteras ostendere in singulis peregrinacionibus, ei qui prefuerit ecclesie quam uisitauerint: et eiusdem litteras de peregrinacione illa peracta, uobis reportare.</p>
+                    <p>Qui uero transfretauerint, cum fuerint ultra mare, ut citius poterunt, presentent se cum uestris litteris, uenerabilibus patribus, uel patriarchis Hierosolimitano, uel Aconensi, aut cuicumque episcopo, uel eorum cuiuslibet locum tenenti: et reportent uobis cum redierint de sua peregrinacione laudabiliter ibi completa, litteras cuiuslibet episcopi transmarini.</p>
+                </div>
+                <div>
+                    <head>Capitulum 30</head>
+                    <p>Ne autem per tales religionis corrumpatur simplicitas, nullum de prefatis culpabilibus, sine apertis conuersionis signis, et nisi omne scandalum atque periculum abesse noueritis, religionem quamcumque ingredi permittatis: et si secus actum fuerit, reuocetis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 31</head>
+                    <p>Ut autem, adiuuante Domino, heresis melius extirpetur et citius, fidesque plantetur in terra: statuta et iura per sedem Apostolicam, eiusque legatos, ac principes, super his edita, faciatis plenissime obseruari.</p>
+                    <p>Preterea uniuersos tam mares, quam feminas, masculos a XIV. feminas a XII. anno et supra, faciatis abiurare omnem heresim: et iurare quod fidem seruent et defendant catholicam, et hereticos persequantur, prout supra in iuramento, quod reconciliandi habent facere, plenius de his et latius continetur: conscriptis singulorum nominibus, tam in actis inquisicionis, quam in parochiis eorumdem.</p>
+                    <p>Et qui presentes infra tempus assignatum, uel absentes infra XV. dies post suum reditum, tale iuramentum non prestiterunt, suspecti de heresi habeantur.</p>
+                    <p>Hanc autem uniuersalem abiuracionem fieri procuretis quam citius, uel per uos ipsos, uel per uestros notarios seu scriptores, uel per alios ecclesiasticos uiros, quibus hoc duxeritis committendum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 32</head>
+                    <p>Adiecto in iuramento comitum, baronum, rectorum et consulum, ac bailiuorum ciuitatum, ac aliorum locorum, quod fideliter et efficaciter, cum ab eis fuerit requisitum, ecclesiam contra hereticos, et eorum complices adiuuabunt iuxta officium et posse suum: et de terris sue iurisdiccioni subiectis bona fide pro uiribus exterminare studebunt uniuersos hereticos [7] ab ecclesia denotatos.</p>
+                </div>
+                <div>
+                    <head>Capitulum 33</head>
+                    <p>Post huiusmodi autem abiuracionem, quicumque lapsi fuerint, et qui non seruauerint, uel fecerint iniunctas sibi penitencias, pena relapsis debita puniantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 34</head>
+                    <p>In singulis eciam parochiis, tam in ciuitatibus, quam extra, sacerdos unus, uel duo, uel tres bone opinionis laici, uel plures si opus fuerit, iuramenti uinculo astringantur, amouendi uel mutandi, quando uobis uisum fuerit: qui diligenter, fideliter, et frequenter, inuestigent hereticos in uillis et extra domos singulorum, et cameras subterraneas, cabanas, et clausella, et alia latibula perquirendo: que omnia obturari, uel destrui faciatis.</p>
+                    <p>Prefatis eciam sacerdoti, et laicis sic iuratis, committatis curam obseruacionis penitenciarum, que singulis de sua parochia iniungentur: ita ut ipsi penes se habentes singulorum parochianorum penitencias, et circa earum obseruacionem solicite uigilantes, contemptores, si qui fuerint, uobis denuncient sine mora, in eos tanquam in relapsos, ut dictum est proxime, processuris.</p>
+                </div>
+                <div>
+                    <head>Capitulum 35</head>
+                    <p>Domos eciam in quibus inuenti sunt, uel fuerint heretici vivi, uel mortui, uestiti seu damnati, scientibus et consentientibus dominis domorum existentibus legitime etatis, dirui faciatis, et bona omnium idibem tunc habitantium confiscari: nisi suam innocenciam et iustam ignoranciam probare poterunt manifeste.</p>
+                    <p>Bona quoque hereticorum et credentium, quos damnaueritis, uel pro hereticis, uel ad murum, faciatis similiter confiscari: et marchas solui capientibus hereticos, ab his, qui secundum statuta soluere tenebuntur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 36</head>
+                    <p>De bailiuis negligentibus, uel suspectis, et aliis culpabilibus non ponendis in administracionibus, uel officiis publicis, uel consiliis seu familiis potentum, et de libris theologicis non tenendis eciam a laicis in Latino, et neque ab ipsis, neque a clericis in uulgari, et de penis contra predictos; nec non et contra sacerdotes qui circa huiusmodi, ad que ex officio, uel ex commissione tenentur, negligentes extiterint, et de confessione peccatorum, et communione ter in anno facienda, de Missis eciam et sermonibus audiendis ex integro diebus Dominicis et festiuis, et de omnibus aliis, que ad heresim extirpandam, fidemque plantandam pertinent, teneri faciatis ad plenum, quicquid iustum noueritis et statutum: et expresse de filiis hereticorum, receptatorum, et defensorum, usque ad secundam generacionem, ad nullum beneficium ecclesiasticum uel officium admittendis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 37</head>
+                    <p>Inter alia, que ad uestrum laboriosum latissimumque spectant officium, hoc summopere prouidere curetis, ut iuris ordinem [8] nisi in quantum priuilegiatum est hoc negotium, et nos supra expressimus, et consulimus [9] seruare studeatis: et omnia que feceritis, uidelicet citaciones, gracias siue indulgencias, interrogaciones, confessiones, deposiciones, abiuraciones, et obligaciones, sentencias et penitencias, et cetera omnia que occurrerint, taliter in actis inquisicionis, uel per manum publicam, uel per duos uiros idoneos, ut prediximus, et iuratos designatis locis, et temporibus, et personis, competenti conscribi ordine faciatis.</p>
+                    <p>Quod si super processu uestro fuerit in aliquo suborta contencio, per hec possit ueritas declarari.</p>
+                </div>
+                <div>
+                    <head>Explicit</head>
+                    <p>Datum apud Biterras XIII. Calend. Maii, anno Domini MCCXLVI.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] quotacion marks in margin start here.</p>
+                    <p>[2] open round brackets here.</p>
+                    <p>[3] close round brackets here.</p>
+                    <p>[4] quotacion marks in margin end here.</p>
+                    <p>[5] open round brackets here.</p>
+                    <p>[6] close round brackets here.</p>
+                    <p>[7] ed. herecos</p>
+                    <p>[8] open round brackets here.</p>
+                    <p>[9] close round brackets here.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

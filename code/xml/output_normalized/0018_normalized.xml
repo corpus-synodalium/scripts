@@ -1,0 +1,1148 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Trier</title>
+                <recordID>0018</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1310</origDate>
+                <dateNotes/>
+                <origPlace>Trier</origPlace>
+                <diocese>Trier</diocese>
+                <province>Trier</province>
+                <country>Germany</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Provincial</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 18</p>
+                <p>Year: 1310</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Trier</p>
+                <p>Diocese: Trier</p>
+                <p>Province: Trier</p>
+                <p>CountryModern: Germany</p>
+                <p>Latitude: 49.7596</p>
+                <p>Longitude: 6.6439</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Provincial</p>
+                <p>IssuingAuthority: Baldwin of Luxembourg</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1307</p>
+                <p>RegnalEnd: 1354</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Blattau, Statuta synodalia, I, 63-155</p>
+                <p>EditionOther: Hartzheim IV, 127-65</p>
+                <p>SourceNotes: https://books.google.com/books?id=dow-AAAAcAAJ</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'WebDownload']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Statuta Prouincialia Domini Balduini Archiepiscopi Treuirensis.</p>
+                    <p>In nomine Domini.</p>
+                    <p>Amen.</p>
+                    <p>Ista sunt statuta salubria prouincialis Concilii Treuirensis, edita solemniter per Reuerendum in Christo Patrem et Dominum, Dominum Balduinum, Dei gracia sancte Treuirensis Ecclesie Archiepiscopum, sacri Imperii per Regnum Arelatense Archicancellarium, et publicata in ecclesia beati Petri Treuirensis, anno Domini millesimo tricentesimo decimo, uicesima octaua die mensis Aprilis, ratificata et approbata concorditer per ipsum prouinciale Concilium.</p>
+                    <p>Inter que quam plures instrucciones canonice ad laudem Dei et necessariam ac utilem erudicionem personarum ecclesiasticarum et secularium Treuerensis ciuitatis, diocesis et prouincie continentur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>De iusticia seruanda.</p>
+                    <p>Unam quidem esse omnium perfectissimam uirtutem arbitrandum est hominibus, iusticiam scilicet, que suum omnibus distribuit, conatus illicitos reprimens et errata condemnans, que aliis augetur uirtutibus, et perficit uirtuosos; eo quod iusticiam colere, summum noscitur esse bonum.</p>
+                    <p>Quod et licet uniuersis incumbat, specialius tamen in pontificali culmine constituti, qui iuris executores existunt, ad exercitium tenentur iustitie, eo quod reintegranda omnia sunt ordinacione Pontificum, quecunque secundum uarietatem temporum, per quorumcunque uiolencias, oppressiones et fraudes ab ecclesiis subtrahuntur ecclesiasticisque personis ablata sunt.</p>
+                    <p>Ad hoc enim Deus preordinauit Episcopos, ut iniusticias remoueant, presumpciones abscindant et Domino in suis seruientibus opem ferant.</p>
+                    <p>Quod maxime fieri conuenit, cum illi grauiter opprimuntur, de quibus dictum est: Nolite tangere Christos meos, per quos Presbyteri et ii qui in Sortem Domini assumti sunt, non absque misterio nuncupantur.</p>
+                    <p>Porro quantis oppressionibus, uiolentiis, iniuriis, blasphemiis et iacturis his diebus per exquisitas hostis antiqui uersucias afficiantur, crucientur, ledantur et opprimantur contra iusticiam in nostra Treuirensi prouincia persone ecclesiastice et Presbyteri, illi potissime, qui feruenciores in seruicio Saluatoris existunt, nullus est qui hesitet.</p>
+                    <p>Ob quam rem, et licet eos humiliari oporteat sub potenti manu Dei, ut in tribulacionis tempore liberentur, ex iniuncto tamen nobis pastorali officio huiusmodi insolentiis tenemur obsistere, ac pro defensione iustitie eos muro inexpugnabili constitucionum utilium circumcingere, ut resisti ualeat ascendentibus ex aduerso.</p>
+                    <p>Cum itaque considerata locorum, hominum et temporum condicione introducantur cause scripturarum remedia, raciones et iura, quod in Apocalipsi competenter describitur, dum Ioannes septem scribit ecclesiis, in unaquaque earum specialia vicia reprehendens, quod eciam secundum Apostolum euidentius declaratur, dum per singulas singulariter ecclesias diuersis remediis medetur illatis uulneribus, ne per exhibicionem unius solius collirii, ad instar periti medici, per eum omnium oculi curarentur:</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>De incendiariis ecclesiarum.</p>
+                    <p>Pro communi omnium subditorum nostrorum utilitate prouida deliberacione statuimus atque precipimus, incendiarios ecclesiarum et locorum religiosorum, ac eorum receptores scienter, singulis diebus dominicis excommunicatos denunciari per omnes conuentuales et parochiales ecclesias, ac per omnia monasteria tam monachorum quam monialium ciuitatis, diocesis et prouincie Treuerensis, decernentes ipsos ex tunc ab omnibus euitandos.</p>
+                    <p>Cum autem ipsi incendiarii post publicacionem excommunicacionis huiusmodi absolui non possint nisi a summo Pontifice; nos, ut iidem incendiarii et receptores eorum super hoc aliquam ignoranciam non pretendant, statuimus, ut hoc ipsis intimetur per parochiales Presbyteros ante denunciacionem predictam.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>De uiolatoribus ecclesiarum.</p>
+                    <p>Item de uiolatoribus ecclesiarum et monasteriorum seu quorumcunque religiosorum et sacrorum locorum fractoribus statuimus, quatenus in loco, ad quem predam earundem ecclesiarum et locorum sacrorum seu personarum ecclesiasticarum duxerint, quam diu ibi est et erit preda uel ipse predo uel prede emtor, cessetur uidelicet in eiusdem loci parochiali ecclesia penitus a diuinis per earundem ecclesiarum parochialium Presbyteros cuiuscunque superioris iudicis ecclesiastici Treuirensis prouincie mandato minime expectato: ita tamen quod iidem parochiales Presbyteri causam cessacionis huiusmodi, contra quem et pro quo eadem fit cessacio, suis Episcopis seu Officialibus eorum, quam primum commode poterunt, non differant intimare.</p>
+                    <p>Si autem in ipsa parochia Conuentus seu Collegium fuerit, ianuis clausis, eiusdem parochie parochianis exclusis, uoce submissa, ita quod foris audiri non ualeant, diuina celebrentur ibidem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>De sepultura interdictorum.</p>
+                    <p>Si quis autem parochianorum predictorum decesserit, sine officio misse cum solis commendacionibus sepeliatur in atrio, exceptis predone, prede emtre, fautoribus seu receptatoribus eorundem.</p>
+                    <p>Premissa uero seruentur quam cito de premissis constiterit per facti seu spolii euidenciam, uel per sacramentum spoliati, si honesta sit persona.</p>
+                    <p>Si quid autem circa premissa et cessaciones huiusmodi dubitacionis seu questionis emerserit, iudicio Episcoporum et eorum Officialium generalium, quorum idem est auditorium, relinquatur: per quos restituta preda resumtisque organis iidem uiolatores, fractores, predones, fautores et receptores eorum damna et interesse spoliato, parochialibus ecclesiis et Presbyteris per censuram ecclesiasticam restituere compellantur, que racione cessacionis huiusmodi spoliatus, eedem ecclesie et Presbyteri incurrerint.</p>
+                    <p>Super quibus damnis credatur iuramento spoliati et Presbyterorum, si honeste sint persone, et excommunicati nuncientur, usque ad satisfaccionem condignam premissorum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>De restitucionibus spolii.</p>
+                    <p>His autem adiicientes decernimus, ut si raptores, uiolatores seu predones quarumcunque rerum sacrorum locorum uel personarum ecclesiasticarum infra mensem, a quo, ut predicitur, cessari contigerit contra eos, predam non restituerint, nec satisfecerint de premissis, absque alio mandato auctoritate presentis statuti, per parochiales Presbyteros excommunicentur, et excommunicati ipso facto sint et eciam nuncientur, interdicta terra eorundem raptorum, uiolatorum seu predonum, si quam habent; et si dominum superiorem habeant temporalem, moneatur dominus per eosdem parochiales Presbyteros, ut eos ad condignam satisfaccionem compellat infra mensem alium a monicionis tempore sibi facte.</p>
+                    <p>Quod si facere neglexerit, ex tunc terra eiusdem temporalis domini ecclesiastico sit supposita interdicto.</p>
+                    <p>Quod autem dicimus de raptore, extendi uolumus ad eum, qui, ut rapina fieret, procurauit.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>De captiuatoribus Clericorum.</p>
+                    <p>Statuimus ut captiuatores Clericorum absque auctoritate superioris ecclesiastici iudicis, qui hoc facere possit et debeat, de qua quidem auctoritate constet, adiutores et defensores eorum, quam primum de captiuacione huiusmodi constiterit per euidenciam facti uel alias legitime, per parochiales Presbyteros excommunicati denuncientur.</p>
+                    <p>Si autem a die denunciacionis Clericum captiuatum infra triduum non restituerint, terra ipsorum, si quam habeant, ecclesiastico, sit supposita interdicto.</p>
+                    <p>Si uero a tempore interdicti huiusmodi infra mensem non resipuerint, eorum domini temporales a locorum Ordinariis moneantur, ut captiuatores et detentores Clericorum ad eorum restitucionem compellant; alioquin ipsi domini temporales per Ordinarios excommunicentur et excommunicati denunciari mandentur.</p>
+                    <p>Quod si excommunicacionis sentencia non proficit contra eos, terre ipsorum, si quas habent, ex tunc ecclesiastico sint supposite interdicto.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>De denunciacione raptorum.</p>
+                    <p>Et quia super constitucionum et sentenciarum execucionibus est iuris subsidium, et ordinariorum iudicum auxilium implorandum; statuimus, quod si raptor uel captiuator predicti excommunicati fuerint nunciati, uel terre eorum, si quas habeant interdicto supposite a iudice ordinario unius ciuitatis uel diocesis prouincie Treuirensis, aliarum diocesium eiusdem prouincie Ordinarii, qui super hoc ex parte spoliatorum seu captiuatorum requisiti fuerint, in suis ciuitatibus et diocesibus eundem raptorem seu captiuatorem excommunicatum denuncient, ipsumque faciant ab omnibus euitari, terras, si quas habeat sub suis iurisdiccionibus, ecclesiastico interdicto supponentes.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>De pertinaciter celebrantibus.</p>
+                    <p>Item statuimus, si Presbyter uel Clericus in sacro ordine constitutus in loco interdicto scienter celebrauerit, uel ipse Presbyter uel Clericus interdictus, suspensus uel excommunicatus, maxime a iudice, diuina ut prius celebrare pertinaciter presumserit, et a loci Ordinario monitus non destiterit, ac infra competentem dilacionem secum super hoc canonice dispensari non obtinuerit, per suum Episcopum et ad mandatum ipsius, ut sit ceteris in exemplum, corporaliter capiatur, ut circumstantiis prouida deliberacione pensatis in perpetuum uel ad tempus, prout Episcopus expedire uiderit, carceri mancipetur ad penitenciam peragendam.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>De tonsure suscepcione clericalis.</p>
+                    <p>Item cum ante sacramentale signum, quod per manus imposicionem imprimitur et confertur, nullus secundum beatum Isidorum dici debeat de sorte Domini, sub pena excommunicacionis late sententie firmiter precipiendo statuimus, ut nullus de ciuitate, diocesi et prouincia Treuirensi signum clericale seu clericalem tonsuram, per quam secundum ueriorem sentenciam ordo clericalis confertur, deferat seu sibi radi faciat, acolithatus eciam ordinem non recipiat, antequam per eum, qui possit et debeat, sibi in collacione prime clericalis tonsure manus imposicio et benediccio sacramentaliter imponatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>Ne plures uno die recipiantur ordines.</p>
+                    <p>Item sub pena excommunicacionis late sententie omnibus subditis nostris nostre ciuitatis, diocesis et prouincie Treuirensis propter multorum abusum clandestinum, qui hactenus fieri consueuit, inhibemus, ne quisquam eorum primam tonsuram cum omnibus aliis minoribus ordinibus, seu acolithatum cum sacro subdiaconatus ordine, maxime cum consuetudo Treuirensis prouincie non repugnet, una et eadem die recipere presumat.</p>
+                    <p>Quod si contra presumptum fuerit, huiusmodi ordines taliter, iure reprobante, recipiens ab execucione eorundem ordinum sit suspensus; cum recepcio plurium ordinum una die sit generaliter reprobata.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>De conuiuiis monachorum et canonicorum.</p>
+                    <p>Item cum spiritualia nullo dato uel promisso, per quod priuata utilitas seu lasciuia induci ualeat, pure et simpliciter conferri debeant, prout in antiquis sanctorum patrum sanccionibus continetur: sub pena excommunicacionis late sententie omnibus personis ecclesiasticis ciuitatis, diocesis et prouincie Treuirensis firmiter inhibemus, ne quisquam ante uel post recepcionem suam in canonicum, in monachum uel in fratrem, seu adepcionem cuiuscunque beneficii ecclesiastici, racione huiusmodi recepcionis prandium seu conuiuium commune, prout hactenus in quibusdam ecclesiis fieri consueuit, faciat, seu eidem prandio, in quo non morum commendanda instruccio sed reprobanda uentris replecio fieri consueuit, intersit.</p>
+                    <p>Uerum ut ad honorem Dei ecclesiarum decus et utilitas augeatur, precipimus, quod in ecclesiis, in quibus super huiusmodi conuiuiis tempore presentis statuti consuetudo seruabatur, loco conuiuii huiusmodi post recepcionem predictam pure et simpliciter factam prestetur una cappa ad ornamentum ecclesie ualoris centum grossorum Turonensium antiquorum, ubi alias cappa maioris uel minoris pretii minime soluebatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>De presentatis per uicarios perpetuos.</p>
+                    <p>Item sub pena excommunicacionis late sententie omnibus perpetuis uicariis ciuitatis, diocesis et prouincie Treuirensis inhibemus, ne quis alium uicarium seu perpetuum mercenarium ad titulos uicariarum suarum, prout hactenus factum fuisse comperimus, presentare presumat; nec admittatur eciam taliter presentatus, decernentes irritum et inane, quidquid contra hoc fuerit attentatum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>Ne non residentes grossos fructus percipiant.</p>
+                    <p>Item sub pena predicta firmiter precipimus, ne quecumque persona ecclesiastica nostre ciuitatis, diocesis et prouincie grossos fructus ecclesiatici beneficii percipiat, nisi in eodem beneficio residenciam fecerit, ut tenetur, et faciat personalem, nisi cum eo super hoc canonice fuerit dispensatum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>De executoribus testamentorum.</p>
+                    <p>Item, quia executores testamentorum seu ultimarum uoluntatum decedentium plerumque in nostra ciuitate, diocesi et prouincia Treuirensi execucionem testamentorum huiusmodi eciam super his, que a testatoribus ad pias causas legata et disposita sunt, nedum infra annum, sed plerumque biennium et tempus multo longius adimplere negligunt: quin imo plerique executores bona decedentium huiusmodi sibi appropriantes et diuidentes inter se prefatas ultimas uoluntates et disposiciones dolose exequi totaliter pretermittunt: quamquam secundum ciuiles eciam sancciones extrema uoluntas testatoris cuiuslibet infra annum debeat execucioni mandari, alias est defunctorum piis uoluntatibus per locorum Episcopos prouidendum, innouando statuimus, quatenus iidem executores per locorum Ordinarios moneantur, ut, facto primitus et quam cito fieri poterit ab eis inuentario super bonis receptis, infra annum a tempore obitus testatoris et huiusmodi execucionis recepte ultimas disposiciones predictas, et precipue ad pias causas, fideliter exequantur; super quo locorum Episcopis seu eorum uices gerentibus fidem faciant.</p>
+                    <p>Alioquin executores prefati bona execucionis sibi commisse Episcopis deliberent anno lapso, per manus Episcoporum secundum disposicionem defuncti diuidenda et ordinanda.</p>
+                    <p>Quod si ipsi executores facere contempserint, ipso facto sentenciam excommunicacionis incurrant: quam excommunicacionis sentenciam si per alium mensem animo indurato sustinuerint, ex tunc cessetur in parochiis eorum usque ad satisfaccionem condignam contra eos, si Episcopis expedire uidebitur, penitus a diuinis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>De rigatis et scacatis uestibus.</p>
+                    <p>Item, cum prima facie quilibet talis presumatur, qualis is esse, cuius fert habitum, comprobatur, in nostraque ciuitate, diocesi et prouincia Treuirensi quam plures Presbyteri, Canonici et Clerici rigatas et scacatas uestes gestantes, nec non mitras, ut uulgariter dicimus, seu cucufas coram Episcopis et Ordinariis ac eciam in ecclesiis, in quibus ipsi beneficia obtinent, deferentes uenerabile signum clericale, per quod ipsi in sortem Domini sunt assumpti, deferre per presumptuosam superbiam uilipendunt, ut sic alterati in milites armate militie uideantur, qui sancte coelestis militie milites esse debent, et quibus non sub terrestri sed coelesti milicia de stipendiis prouidetur, sub pena excommunicacionis late sententie omnibus Presbyteris, Canonicis et Clericis in sacris ordinibus constitutis, et beneficia ecclesiastica obtinentibus, firmiter inhibemus, ne deinceps huiusmodi uestes rigatas seu scacatas, mitras seu cucufas in ecclesiis, in quibus ipsi beneficiati existunt, tempore, quo celebrantur diuina, de cetero deferre presumant; sed tonsurum clericalem conuenientem deferant secundum qualitatem beneficii et condicionem persone, in gestu, habitu et incessu taliter se habentes, ut honeste uiuendo in conuersacione laudabili sint ceteris in exemplum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>Contra beneficiatos non tonsuratos per manus Episcopi.</p>
+                    <p>Item abusum damnabilem, qui in nostra ciuitate, diocesi et prouincia Treuirensi inoleuit, totaliter amouentes, omnibus personis nobis subditis sub pena excommunicacionis late sententie firmiter inhibemus, ne quis antequam primam tonsuram per manus imposicionem sacramentalem receperit, sibi de quocunque beneficio ecclesiastico prouideri procuret.</p>
+                    <p>Si autem contrarium per quamuis personam factum extiterit, illud ex nunc decernimus irritum et inane.</p>
+                </div>
+                <div>
+                    <head>Capitulum 17</head>
+                    <p>De exigentibus munera pro sacramentis.</p>
+                    <p>Item cum secundum canonicas sancciones nihil sit pro sacramentis ecclesiasticis exigendum, sed sint gratis ac sine dilacione qualibet exhibenda, quamquam pie consuetudines super his erga sanctam Ecclesiam pia deuocione a fidelibus introducte debeant obseruari, quamplures tamen parochiales Presbyteri nostre Treuirensis prouincie, prout didicimus, ubi consuetudo non est super certo eis dando, consuetudinem pretendentes, pro sepulturis, chrismatis et olei recepcione et administracione immoderatas pecunie summas et alias res extorquent et exigunt ab inuitis: ineffrenatam itaque auiditatem eorum refrenare uolentes statuimus, ut pretextu consuetudinis, que super certo eis soluendo notoria non fuerit ab antiquo, dicti Presbyteri pro sepulturis et exequiis mortuorum ultra duodecim solidos paruorum Turonensium recipere seu exigere non presumant, sed eciam minori summa contenti sint secundum morientium facultates: super quibus eorum conscienciam oneramus.</p>
+                    <p>In locis uero et parochiis, in quibus super recepcione certi et determinati maioris uel minoris pretii eis soluendi, super quo eciam contenti sint, seu rei cuiuslibet alterius consuetudo dubia non existit, sed a parochianis et aliis quorum interest, recognoscitur ita esse, nihil per hoc presens statutum uolumus immutari, quin huiusmodi pia et notoria consuetudo simpliciter obseruetur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18</head>
+                    <p>De incorporacione ecclesiarum.</p>
+                    <p>Item, cum concessiones seu collaciones ecclesiarum, quas incorporaciones uocant, in quantum ecclesiis et monasteriis non personis conferuntur, ad perpetuas alienaciones pertineant, super eisdem ecclesiis incorporandis in nostra ciuitate, diocesi et prouincia Treuirensi per importunitatem petentium ab ecclesiarum Prelatis et Capitulis faciendis, tante et toties gratie facte fuerint et fieri sperentur in posterum, quod parochiales quam plures Presbyteri vix iam habent et habere posse uidentur, unde secundum statum eorum commode sustententur, sed per incorporaciones huiusmodi, per quas reditus et decime a parochialibus ecclesiis subtrahuntur, licet de communi iure pertineant ad easdem, plurimis eisdem parochialibus Presbyteris pro hospitalitate tenenda et episcopalibus iuribus exsoluendis non suppetunt facultates, sicque quam pluribus Presbyteris et lectoribus in ecclesiis deseruientibus, et spiritualia seminantibus, ipsi carnalia non metant, uineam plantant et colunt, et de eius fructu non edunt; extraneis in messes eorum falces mittentibus, contra Apostolum, secundum quem laborantem agricolam prius oportet suscipere de fructibus suis, maxime cum seruientem altari uiuere deceat de altari.</p>
+                    <p>Nos itaque, ut militanti stipendia minime subtrahuntur, statuimus, ut deinceps in nostra ciuitate, diocesi et prouincia Treuirensi huiusmodi concessiones seu incorporaciones ecclesiarum non fiant in ecclesiis et monasteriis, nisi subsit causa legitima et notoria, de qua constet, et nisi uocatis et presentibus omnibus, qui fuerint euocandi, solemnitates adhibeantur, que, consideratis circumstantiis uniuersis, super alienacionibus rerum ecclesiasticarum adhiberi debent secundum canonicas sancciones: ita quod incorporaciones huiusmodi ipso facto non ualeant, nisi communi tractatu prehabito inter Episcopos et ecclesiarum cathedralium Capitula causa racionabilis uel urgens necessitas seu earundem ecclesiarum euidens utilitas eosdem Episcopos et Capitula communiter ad predictas incorporaciones de cetero faciendas inducat.</p>
+                    <p>Si qui uero aliquid contra fecerint seu fieri procurauerint, illud decernimus irritum et inane.</p>
+                    <p>Per hoc tamen presens nostrum statutum in nullo derogamus incorporacionibus ecclesiarum hactenus rite factis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 19</head>
+                    <p>De negociacionibus ecclesiasticarum personarum.</p>
+                    <p>Item, cum Presbyteri et persone ecclesiastice, maxime in sacris ordinibus constitute, in castris diuinis sub ecclesiasticis stipendiis militare noscantur, ut ecclesiasticum ordinem agnoscentes in aliud secularis uite genus, ecclesiastice discipline spreta reuerencia, non transcendant, statuimus, quin imo sancita a sanctis patribus innouamus, ne Presbyteri seu Clerici in sacris ordinibus constituti et maxime monachi seculares negociaciones exerceant aliqualiter, et precipue tabernas non teneant, lucris turpibus non insistant, munera iniusta non accipiant, iusticiam non uendant pro questu seculari, aliquem precio non conducant, nec in placitis secularibus, orphanorum et uiduarum et personarum miserabilium defensione excepta, disputare contendant, conductores et procuratores, in casibus non permissis, rerum secularium non existant, aleas non sequantur, spectacula secularia fugiant, ornamenta statui et condicioni sue inconueniencia neque desiderent neque gestent, in deliciis superfluis non uiuant, gulam fugiant et sobrietatem sectentur: pondera iniusta seu mensuras non habeant, circa ociosa et superflua non intendant.</p>
+                    <p>Si quis autem Presbyterorum, Clericorum et monachorum contra hoc salutare statutum ausu temerario aliquid attentare presumpserit, competenti monicione premissa, a suo Episcopo, quousque resipuerit et condigne satisfecerit de commisso, excommunicetur et a temere attentatis per censuram ecclesiasticam compellatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 20</head>
+                    <p>De ministris altaris, et quod quilibet rector ecclesie debet habere personam literatam.</p>
+                    <p>Item, prout iam dudum a sanctis patribus in generali Concilio statutum est, precipiendo firmiter innouamus, quod quilibet Presbyter, pastor seu uicarius, in quacunque parochiali ecclesia diuina celebrans, nisi propter paupertatem nimiam et notoriam excusetur, clericum uel personam saltem literatam secum habeat, qui sibi competenter legendo et cantando respondeat in diuinis, quacunque contraria consuetudine non obstante, per quam in quam pluribus locis agricole et alii puri laici, literas penitus ignorantes, qui secus altare, dum sacra misteria celebrantur, stare uel sedere non debent, per quos potius impedire plerumque consueuerat altaris ministerium, quam ipsa decenter in eodem ministerio deseruirent.</p>
+                    <p>Scriptum namque est, quod Ozias lepra percussus est a Domino, eo quod usurpare uoluit officium Sacerdotum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 21</head>
+                    <p>De non exequentibus mandata superiorum.</p>
+                    <p>Item, quia per maliciam, desidiam et subterfugia personarum ecclesiasticarum et Presbyterorum, qui ad superiorum suorum mandata exequenda tenentur, plerumque, effectus iustitie multipliciter impeditur; statuimus, ut Presbyteri et predicte persone ecclesiastice, quibus alicuius mandati execucio a suo superiore committitur, si super execucione huiusmodi quidquam dolose egerint, seu fuerint negligentes, illi seu illis, pro quibus mandatum directum fuerat, ad interesse teneantur et damna, que ob illud incurrerunt, coram iudice a quo mandatum emanauerat declarandis.</p>
+                    <p>Si uero iidem Presbyteri seu quicunque executores alii pro execucione seu obseruacione mandatorum huiusmodi damna passi fuerint, non relaxetur sentencia, quantumcunque principalis pars in hoc consenciat, nisi prius eisdem Presbyteris et executoribus de damnis huiusmodi per eum; qui damna intulit, ad arbitrium iudicis fuerit satisfactum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 22</head>
+                    <p>De inferentibus minas personis ecclesiasticis.</p>
+                    <p>Item, si quecunque persona ecclesiastica uel secularis persone ecclesiastice minas corporales intulerit, et monita a suo superiore eam assecurare noluerit, ad fidelem assecuracionem prestandam indilate ad id per excommunicacionis sentenciam compellatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 23</head>
+                    <p>De porcione perpetuorum uicariorum.</p>
+                    <p>Item, cum is qui altari seruit, uiuere debeat de altari, prout alias in prouinciali Concilio Treuirensi fuerat institutum; innouando precipimus, ut per locorum Ordinarios deseruientibus in parochialibus ecclesiis et precipue perpetuis uicariis competens porcio assignetur.</p>
+                    <p>Quod si iidem deseruientes seu uicarii quouis modo minorem aut minus sufficientem acceptauerint porcionem, nihilominus accionem habeant contra earundem ecclesiarum rectores aut alios fructuum eorumdem perceptores ad augmentum porcionis eiusdem.</p>
+                    <p>Quod enim militantes Deo Presbyteri mendicare non debeant, non specialiter in fauorem persone inductum est, sed totius ordinis clericalis.</p>
+                    <p>Et si deseruientes predicti seu uicarii ad assignacionem debite porcionis agere non audeant, seu, quia lites abhorrent, nolunt super hoc deponere questionem, locorum Ordinarii super huiusmodi porcione debita assignanda suum officium de plano et absque iudiciali strepitu interponant, quamprimum id deuenerit ad noticiam eorundem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 24</head>
+                    <p>De canonicis horis dicendis.</p>
+                    <p>Item, in parochialibus ecclesiis cantentur seu legantur, considerata qualitate temporis, hore canonice, impedimento cessante.</p>
+                    <p>Ad parochiales ecclesias matrices parochiani de uillis circumadiacentibus et capellis seu oratoriis attinentibus saltem quibuslibet diebus dominicis et in solemnibus festiuitatibus sub pena excommunicacionis teneantur accedere, et ibidem missarum solemnia audiant, prout in generali Concilio est a sanctis patribus institutum, precipue ne honor matricis ecclesie pereat per capellas: nisi forte capella adeo sit remota, uel aquarum inundacio, seu aliud impedimentum subsistat, per quod super boc racionabiliter ualeant excusari: in eademque capella de reditibus adeo sit prouisum, quod de auctoritate Episcopi loci eiusdem possit et debeat in diebus talibus ibidem celebrare Sacerdos.</p>
+                </div>
+                <div>
+                    <head>Capitulum 25</head>
+                    <p>De decimis predialibus.</p>
+                    <p>Item, decime prediales non in domibus, sicut hactenus in plerisque locis fieri consueuit, sed in agris, uineis, pratis et in aliis locis, ex quibus proueniunt, sub pena excommunicacionis integraliter persoluantur, nullis deductis expensis, que facte fuerint circa rem huiusmodi decimandam.</p>
+                </div>
+                <div>
+                    <head>Capitulum 26</head>
+                    <p>Coram quibus cause matrimoniales debent tractari.</p>
+                    <p>Item, cum cause matrimoniales tractari debeant per discretos iudices postestatem habentes iudicandi et statuta canonum non ignorantes, firmiter inhibemus, ne Decani rurales seu forenses, Archipresbyteri, ecclesiarum pastores, seu uicarii de causis matrimonialibus cognoscere uel iudicare presumant; si contra factum fuerit, irritum nunciantes.</p>
+                </div>
+                <div>
+                    <head>Capitulum 27</head>
+                    <p>De uilipendentibus sentencias excommunicacionis.</p>
+                    <p>Item, cum excommunicacionis sentencia, que est ecclesie mucro, uilipendatur a pluribus, statuimus, quod si excommunicatus ab ordinario iudice per annum in sua pertinacia et excommunicacione persistat, eiusdem excommunicati moneatur dominus temporalis ab eodem iudice, ut infra terminum competentem eundem excommunicatum redire ad sancte matris Ecclesie unitatem compellat: alioquin ipse dominus temporalis excommunicetur: quam excommunicacionem si per mensem sustinuerit, ex tunc terra eius, si quam habet, prout et in quantum eidem iudici uidebitur, supponatur ecclesiastico interdicto.</p>
+                </div>
+                <div>
+                    <head>Capitulum 28</head>
+                    <p>De alienacionibus bonorum ecclesiasticorum.</p>
+                    <p>Item, quia quam plures ecclesiarum Prelati, et potissime Abbates, Abbatisse, Priores, Prepositi et alie persone ecclesiastice nostre ciuitatis, diocesis et prouincie Treuirensis bona ecclesiarum, monasteriorum et prioratuum adeo prodigaliter dissipando profundunt, uendunt, distrahunt, obligant et adeo exquisitis conuencionibus illicitis, eciam ipsis legum conditoribus incognitis, alienant, hactenusque dilacerando et dilapidando bona eadem consumpserunt, quod eciam in pluribus ecclesiis, monasteriis et prioratibus, in quibus per largiciones Imperatorum, Regum et Principum ac erogaciones fidelium superabundare consueuerant possessiones et reditus, peccatis exigentibus, persone, Clerici uel monachi et conuersi locorum eorumdem in eisdem locis et extra, cultu diuino, cui asscripti fuerant, derelicto, in vili ac indecenti habitu usque ad exinanicionem extreme uirtutis deducti, mendicare coguntur, in locisque huiusmodi claustris seu dormitoriis solemnibus ab antiquo, et que antiquis temporibus propter eorum sublimitatem operis sumptuosi aduenis et incolis mirifica uidebantur, vix eisdem personis, Clericis, monachis et conuersis patet diuersorium, ut ab imbribus et grandinibus protegantur: propter quod eedem persone derisioni laicorum cedunt et scandalo in totius clericalis coetus opprobrium et contemptum.</p>
+                    <p>Predictis itaque dispendiis, in quantum nobis auctore Deo permissum est, obuiare uolentes, maxime cum sicut anima sine corpore corporaliter non uiuit, ita sine temporalibus spiritualia nequeunt diu esse, presenti constitucione sub interminacione diuini iudicii predictis Prelatis, Abbatibus, Abbatissis Prioribus, Prepositis et aliis personis ecclesiasticis firmiter inhibemus, ne in posterum bona ecclesiarum et locorum sacrorum immobilia aliquatenus obligent, distrahant seu eciam alienent per se uel per alium, nisi tractatu prehabito super hoc cum omnibus personis ecclesiasticis eorundem locorum, requisitoque et habito consensu et consilio singulorum eiusdem loci euidens utilitas seu necessitas fieri id exposcat.</p>
+                    <p>Et quia predictis suis Prelatis subditi super huiusmodi alienacionibus quandoque precum induccionibus, alias uero oppressionum formidolosis terroribus consentire contra proprias consciencias ut plurimum non uerentur; presenti constitucioni adiicimus, ut deinceps huiusmodi bonorum immobilium obligacio seu alienacio facta in casibus non permissis ipso facto non ualeat, nisi una cum consensu personarum predictarum auctoritas diocesani Episcopi interuenerit.</p>
+                    <p>Omnes enim basilice sui territorii in eius potestate consistunt: quam quidem auctoritatem non nisi considerata utilitate loci cum solerti cause cognicione idem Episcopus diocesanus impemdat.</p>
+                    <p>Si quis autem contra hoc salutare statutum quidquam attentare presumpserit, tam alienans deposicionis quam recipiens restitucionis rei cum fructibus penas sustineant, nec pretium bona huiusmodi male recipiens ab ecclesia recipiat, sed ad ecclesias, monasteria et loca, quorum eadem bona sunt, libere reuertantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 29</head>
+                    <p>De religiosis extra claustra uagantibus.</p>
+                    <p>Item, sub pena excommunicacionis districtius inhibemus, ne monachi extra claustra per ciuitates, castra seu uillas incedere seu discurrere presumant, nisi racione administracionis, si quam habeant, hoc eis iuxta regulares obseruancias sit permissum, uel nisi Abbatis seu Prioris claustralis super hoc licencia intercedat: quam idem Abbas seu Prior sub pena excommunicacionis eis non impendat, nisi hoc exigerit monasterii euidens utilitas uel patens necessitas eorundem.</p>
+                    <p>Super quo ipsorum Abbatis et Prioris consciencias oneramus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 30</head>
+                    <p>De falsa moneta.</p>
+                    <p>Item, quia nonnulli motu damnabili ac nefando scelere, prout intelleximus, monetam adulterinam et falsam in suis prediis et clausuris exercere presumunt, cuiusmodi facinus ipsi eciam gentiles multipliciter damnauerunt, firmiter omnibus Presbyteris precipimus et iniungimus, ut in omnibus locis et parochiis suis, in quibus huiusmodi falsam et adulterinam monetam per quoscunque cudi seu fabricari cognouerint, in continenti cessent, cuiuscunque superioris sui mandato minime expectato, penitus a diuinis; causamque cessacionis huiusmodi et rei seriem diocesano Episcopo non differant quam primum poterunt significare.</p>
+                    <p>Qui Episcopus ex tunc ad examinacionem falsorum monetariorum huiusmodi spiritualiter et temporaliter totis uiribus totaque intencione procedat, damna ob predictam cessacionem ecclesiis et Presbyteris obueniencia restitui integraliter faciens.</p>
+                </div>
+                <div>
+                    <head>Capitulum 31</head>
+                    <p>De anno gratie.</p>
+                    <p>Item, cum in prouinciali Treuirensi Concilio, presidentibus in eodem recordacionum felicium Theodorico Treuerensi Archiepiscopo, Iohanne Metensi, Rugero Tullensi et Rudolpho Uirdunensi Episcopis, propter multas abusiones annus gratie fuerit alias reuocatus; nos considerantes, quod huiusmodi reuocacio in quandam dissuetudinem est deducta, sicque cathedralium atque collegiatarum ecclesiarum quam plurimum canonici, propriis commodis inhiantes, in graue preiudicium successorum, ecclesiarum damnum, et plerumque in elusionem prouisionum a Sede Apostolica super obtinendis canonicatibus et prebendis in eisdem ecclesiis a personis idoneis obtentarum, fructus prebendarum suarum per unum annum eciam post eorum obitus sibi retinere et appropriare contendunt, annum talem, qui iuxta hoc pro successoribus et ecclesiis bissextilis dici potius debet, annum gratie nuncupantes: per cuius retencionem iidem canonici quamdiu uiuunt super deducendis lasciuiis et prodigalitatibus spem assumunt, presenti constitucione sancimus, ut quacunque consuetudine imo uerius corruptela contraria non obstante, nulli canonico talem annum talisque anni reditus liceat retinere; quem si hactenus retinuerint, uel eum deinceps retinere contingat, talis retencio, qualitercunque fiat seu facta fuerit, nullius sit momenti.</p>
+                    <p>Non teneantur eciam ecclesiarum Capitula executoribus seu creditoribus canonicorum annum huiusmodi retinentium seu aliis eorum nomine de predictis anni fructibus et reditibus respondere, sed ad instituendos successores canonicos transeant pleno iure.</p>
+                    <p>Si quid in contrarium actum fuerit, irritum nunciantes, et hoc prouinciale statutum Episcopi diocesani Treuirensis prouincie in suis ciuitatibus et diocesibus per censuram ecclesiasticam inuiolabiliter a suis subditis obseruari procurent.</p>
+                </div>
+                <div>
+                    <head>Capitulum 32</head>
+                    <p>De manifestis usurariis.</p>
+                    <p>Precipimus districte, ut omnes usurarii restituant quidquid ultra sortem perceperunt, sub pena contra eos in Lateranensi Concilio edita, que talis est: Statuimus, ut usurarii manifesti nec ad communionem admittantur altaris, nec Christianam, si in hoc peccato decesserint, accipiant sepulturam, nec oblaciones eorum quisquam accipiat.</p>
+                    <p>Qui autem acceperit, aut christiane tradiderit sepulture, quod acceperit, reddere compellatur, et donec ad arbitrium sui Episcopi satisfecerit, ab officii sui maneat execucione suspensus.</p>
+                    <p>Item precipimus, ut sorte deducta reddant pignora et remittant.</p>
+                    <p>Item districte precipimus, ut nomine tutele et procuracionis, uel timore domini sui aliqui non committant usuras: quia sicut non suo nomine ita nec alieno potest quis fenus aliqualiter exercere.</p>
+                    <p>Item precipimus, ne ea intencione mutuent pecuniam suam ante messem uel uindemias, recepturi in messe uel uindemiis bladum uel uinum pro multo minori precio, quam uerisimile sit tunc ualere, sub penis ante dictis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 33</head>
+                    <p>De celebracione festorum.</p>
+                    <p>Item, statuimus sub diuine ulcionis pena et precipimus, ut nobiles et domini terre permittant homines suos dies festos obseruare, et non compellant eos euecciones publicas seu alias angarias prestare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 34</head>
+                    <p>De cauuercinis et usurariis.</p>
+                    <p>Item, precipimus districte, ut se circa cauuercinos et alios usurarios ita habeant, sicut in generali Concilio est statutum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 35</head>
+                    <p>De litigantibus coram secularibus iudicibus.</p>
+                    <p>Item, cum de consuetudine approbata et tam diu obseruata, quod memoria non existit, tam Religiosi quam Clerici iniuriatores et molestatores suos coram suis iudicibus, uidelicet ecclesiasticis, in causam traxerint, et nonnulli barones, balliui, nobiles, prepositi et villici et alii laici potestatem secularem habentes, ciuitatis, diocesis et prouincie Treuirensis tam Religiosos quam Clericos coram se litigare compellant, et non paciantur eos ius suum prosequi coram ecclesiasticis iudicibus; precipimus uobis et uniuersis Presbyteris, quatenus in ecclesiis uestris predictas personas moneatis, ut ab huiusmodi tam Religiosorum quam Clericorum molestacione desistant.</p>
+                    <p>Nos omnes personas illas, que post iam dictam monicionem Religiosos et Clericos compulerint coram se litigare, excommunicacionis uinculo innodamus, et precipimus eos singulis diebus dominicis et festiuis excommunicatos denunciari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 36</head>
+                    <p>Ne monachis duo officia assignentur.</p>
+                    <p>Item, nulli monacho uel moniali duo officia in eodem monasterio sub pena excommunicacionis late sententie assignentur.</p>
+                    <p>Singula namque officia sunt personis idoneis singulis assignanda.</p>
+                </div>
+                <div>
+                    <head>Capitulum 37</head>
+                    <p>De Nouitiis.</p>
+                    <p>Item precipimus, ut omnes nouitii post annos discrecionis et probacionis statim faciant professionem expressam in manu Abbatis, uel alterius secundum consuetudines locorum racionabiles et prescriptas.</p>
+                </div>
+                <div>
+                    <head>Capitulum 38</head>
+                    <p>Item de proprietatibus religiosorum.</p>
+                    <p>Item precipimus districte, ut monachi et moniales omnibus proprietatibus, quas hactenus habuerunt, sine difficultate renuntient, ut a omnia in communes usus monasterii redigantur.</p>
+                    <p>Qui uero renunciare renuerint, excommunicentur.</p>
+                    <p>Quod si nec sic resipuerint, per Abbatem uel Abbatissam, aut si non, per Episcopos aut eorum Officiales ad id compellantur.</p>
+                    <p>Item districte inhibemus, ne monachi denarios, quos in oblacionibus missarum recipiunt, sibi reseruare presumant, sed Abbati, uel cui ipse preceperit, assignentur, in communes usus fratrum expendendi.</p>
+                    <p>De denariis anniuersariorum et omnium, que ad manus eorum deuoluuntur, nemo sibi quicquam appropriare presumat; nec per monachos uel moniales de cetero diuidantur, sicut hactenus per abusionem fieri ab aliquibus consueuit, sed in communes usus omnium redigantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 39</head>
+                    <p>De administracione superiorum inter suos monachos.</p>
+                    <p>Item precipimus Abbatibus et Abbatissis, ut suis subditis tam in uictu quam in uestitu secundum sui monasterii possibilitatem necessaria administrent.</p>
+                    <p>Panis uero et uinum et alia necessaria dentur fratribus in communi ad sufficientem necessitatem eorum: nec alicui aliquid ad uitam uel certum tempus specialiter assignetur, et quod utrisque in communi superfuerit, iterum in communitatem reseruetur uel pauperibus distribuatur; et hospitalia pauperum in omnibus monasteriis restaurentur, et eis consueti reditus assignentur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 40</head>
+                    <p>Ne religiosi habeant seruos.</p>
+                    <p>Item inhibemus districte, ne monachi uel moniales habeant famulos uel seruientes utriusque sexus speciales, nisi forsitan in talibus sint constituti officiis, quod ipsis omnino carere non possint: et tunc de consensu Prelatorum suorum assumant eosdem.</p>
+                    <p>Si quis autem alias tales personas retinere presumserit, expelli eas de monasterio sub pena excommunicacionis precipimus per Prelatos.</p>
+                </div>
+                <div>
+                    <head>Capitulum 41</head>
+                    <p>De ludo monachorum in claustris.</p>
+                    <p>Item ludos chorearum, scacorum, annulorum et globorum monachis interdicimus omnino: et ne infra septa sui claustri uel ipsum claustrum tabernas habere, nec infra ipsas ibi uel alibi sedere, ludere uel bibere aliquis eorum audeat, sub pena excommunicacionis late sententie firmiter inhibemus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 42</head>
+                    <p>De uestibus monachorum et monialium.</p>
+                    <p>Item precipimus districte, ne Abbates uel monachi, Abbatisse uel moniales sub pena excommunicacionis late sententie, mantella seu sorcocia aperta portent de cetero, nec habeant pannos de nigra bruneta, nec de moreta, sed quanto haberi possunt humilioris pretii, prout regula precipit.</p>
+                    <p>Cucullas autem habeant cum amplis capuciis et latis; quando equitant, cappis utantur nigris et clausis.</p>
+                    <p>Item, ut dictum est, mantella de bruneta nigra siue de moreta et pellicia seu forraturas de uario seu griseo et alias exquisitas et sumtuosas pelles districte religiosis omnibus sub pena excommunicacionis late sententie firmiter inhibemus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 43</head>
+                    <p>De custodia claustrorum.</p>
+                    <p>Item, claues claustri sint semper apud Priorem, Priorissam uel Magistram; nec sine licencia aliquis monachus seu monialis, maxime de nocte, sub pena excommunicacionis late sententie exire audeat, uel aliquam mulierem, cuiuscunque sit condicionis, monachus in ambitum monasterii introducere presumat sine Abbatis uel Prioris sui licencia speciali; introducta tamen cum licencia non intus comedat uel dormiat ullo modo.</p>
+                </div>
+                <div>
+                    <head>Capitulum 44</head>
+                    <p>De ultima uoluntate.</p>
+                    <p>Item, cum nihil magis hominibus debeatur, quam ut supreme uoluntatis liber sit stilus, et liberum, quod iterum non redit, arbitrium: sub interminacione diuini iudicii precipimus, quod nullus executor ultime uoluntatis, presertim ad pias causas constitutus, a creditoribus uel legatariis testatoris audeat recipere uel exigere pecuniam pro debito suo, seu pro legato eis soluendo, seu pro execucione facienda.</p>
+                    <p>Quod si fecerit, ipso facto sentenciam excommunicacionis incurrat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 45</head>
+                    <p>Contra executores testamentorum.</p>
+                    <p>Item, cum quam plures executores testamentorum defunctorum, maxime ad pias causas deputati, iam diu exequi ultimas uoluntates eorum in sue salutis dispendium et dictorum decedentium detrimentum neglexerint: monemus ipsos omnes et singulos primo et secundo, precipientes eisdem, ut infra annum dicta testamenta exequantur; alioquin ad execucionem eorum ex tunc per locorum Episcopos procedatur, in quantum de iure fieri poterit et debebit.</p>
+                </div>
+                <div>
+                    <head>Capitulum 46</head>
+                    <p>De falsis Apostolis.</p>
+                    <p>Item, inhibemus sub pena excommunicacionis, ne quis in nostra ciuitate, diocesi et prouincia Treuirensi aliquem uel aliquos de illis rusticis, qui se Apostolos appellant, in domum suam recipiat, aut eis eleemosinas eroget, cum, prout in antiquis synodalibus statutis continetur, Sedes Apostolica tales reprobauerit, et in eorum receptatores et fautores excommunicacionis sentenciam protulerit ipso facto.</p>
+                </div>
+                <div>
+                    <head>Capitulum 47</head>
+                    <p>De Begardis.</p>
+                    <p>Item, cum quidam sint laici in ciuitate, diocesi et prouincia Treuirensi, qui sub pretextu cuiusdam religionis ficte Begardos se appellant, cum tabardis et tunicis longis et largis capuciis, cum ocio intendentes, ac labores manuum detestantes, conuenticula inter se aliquibus temporibus faciunt et conseruant, seque fingunt coram personis simplicibus expositores sacrarum scripturarum: Nos uitam eorum, qui extra religionem approbatam ualidi mendicantes discurrunt, merito reprobantes, monemus omnes et singulos huiusmodi Begardos, quos eciam a quolibet parochiali Presbytero in sua parochia moneri uolumus diligenter, ut infra quindenam a premissis desistant, et de laboribus suis uiuant, circa laboresque sicut ceteri homines se exponant; alioquin ipsos et quemlibet eorum, quos excommunicamus in his scriptis, denunciari in parochialibus ecclesiis excommunicatos precipimus et mandamus singulis diebus dominicis et festiuis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 48</head>
+                    <p>De impedientibus nuncios iudicum ecclesiasticorum.</p>
+                    <p>Item statuimus, quod si quis cuiuscumque dignitatis seu condicionis existat, nuncios aut executores ecclesiasticorum iudicum, uel alias literas eorundem actaue iudicialia deferentes hac occasione uerberare, capere, uel detinere, occultare, carceri mancipare aut, quod grauius est, interficere, literas uel acta predicta personis memoratis auferre, seu ea rumpere uel cancellare, aut alias destruere quoquomodo, uel sic ablata celare presumserit, aut ista fieri procurauerit, uel facientibus consilium uel opem duxerit adhibendum, excommunicacionis sententie, quam ex nunc ut ex tunc in ipsum ferimus, subiaceat ipso facto; a qua, nisi prius tam iudici, cuius auctoritatem contemserat, quam passo iniuriam et Ceteris, quorum intererit, prout excessus postulauerit atrocitas, satisfaciat competenter, nullatenus absoluatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 49</head>
+                    <p>De petentibus cum calicibus.</p>
+                    <p>Item prohibemus sub pena excommunicacionis, ne quis de cetero, cuiuscumque condicionis existat, uadat per terram cum calicibus, absque literis Episcopi loci ad petendum pecuniam, quia multe ex hoc trufe ac decepciones committuntur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 50</head>
+                    <p>Ut in exequiis mortuorum conuiuia non fiant.</p>
+                    <p>Preterea cum in exequiis mortuorum lugendum sit potius, quam conuiuandum, inhibemus sub pena excommunicacionis, ne conuiuia et comessaciones teneantur de cetero, que per heredes seu successores defuncti in eisdem exequiis fieri consueuerunt: sed sumptus huiusmodi in usus pauperum et in pias causas in remedium anime defuncti potius conuertantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 51</head>
+                    <p>De Clericis et monachis nocte ambulantibus.</p>
+                    <p>In locis, in quibus post sonitum campane uel buccine de nocte laici sine lumine ire prohibentur, Clericos et monachos huiusmodi nostre constitucionis auctoritate eandem prohibicionem uolumus obseruare: alioquin pene pecuniarie laicis propter hoc imposite eos decernimus subiacere, quam per Archipresbyteros uel per capellanos locorum ipsorum, nomine Episcoporum, ab ipsis Clericis exigi et leuari uolumus et mandamus: quam si forte legitime requisiti soluere renuerint, eandem penam duplicatam per eos soluere per censuram ecclesiasticam compellantur, ut per hoc laicorum uitetur scandalum et Clerici ab illicitis arceantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 52</head>
+                    <p>Ne in anniuersariis comessaciones fiant.</p>
+                    <p>Districtius quoque inhibemus, ne Clerici seu Sacerdotes ad anniuersaria conuenientes in sabbato carnes comedere presumant, uinum quoque temperent, et se uino honeste eciam habeant, et mature, ac pacifice et sine murmure, et cum graciarum accione recipiant et comedant, quod eis fuerit appositum: nec sibi parari faciant cibaria delicata, sed solum pro corporis refeccione necessaria, ne longi temporis uictum breuis hora consumat, et ne que sua, sed que Christi sunt querere uideantur.</p>
+                    <p>A crapula et ebrietate, a plausibus, risibus, cachinnis, insolitis ac inanibus fabulis, iocis et solatiis ac detraccionibus, et uerbis ociosis atque superfluis, et a rixis et contencionibus omnino abstineant.</p>
+                    <p>Paulus quidem Corinthios reprehendit, quia inconuenienter conueniebant coenam Domini manducare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 53</head>
+                    <p>De impedientibus anniuersaria.</p>
+                    <p>Postremo in uirtute sancte obedientie precipimus, ne quisquam uerbo uel facto aliquos inducere uel retrahere presumat, ne anniuersaria fieri solita fiant in ecclesiis, in quarum cimiteriis corpora defunctorum, pro quibus fiunt, sepulta sunt.</p>
+                </div>
+                <div>
+                    <head>Capitulum 54</head>
+                    <p>De ludo taxillorum Clericis prohibito.</p>
+                    <p>Clericus aliquis cum taxillis publice uel occulte ludere non presumat.</p>
+                    <p>Clerici uero in sacris ordinibus constituti uel beneficium ecclesiasticum habentes, qui in platea uel loco publico publice cum taxillis ludere presumpserint, ipso facto ab execucione sui ordinis sint suspensi.</p>
+                    <p>Ludere in premissis casibus intelligimus ad puncta, ut sic dicamus, ponendo qui transuersat, uel qui ludi est particeps, uel lucrum exinde consequitur siue damnum.</p>
+                    <p>Premissam tamen penam extendi nolumus ad ludentes socialiter et solatii causa, et in domibus honestis, et cum personis honestis, non ambicionis uel auaritie causa.</p>
+                </div>
+                <div>
+                    <head>Capitulum 55</head>
+                    <p>De fideiussione Clericorum.</p>
+                    <p>Nullus Clericus securitatem aliquam uel fideiussionem prestet seu faciat coram quacumque persona uel curia seculari de stando uel parendo iuri coram ea, nisi forte racione feudorum uel possessionum, que uel quas ab ea tenet.</p>
+                </div>
+                <div>
+                    <head>Capitulum 56</head>
+                    <p>De scribentibus statuta contra ecclesie libertatem.</p>
+                    <p>Sane Honorius Papa IV. excommunicacionis sentenciam protulit contra statutores et scriptores statutorum contra ecclesie libertatem, necnon et contra potestates, consules, rectores et consiliarios locorum, ubi huiusmodi statuta fuerint obseruata: et insuper contra illos, qui secundum ea presumpserint iudicare, uel in publicam formam redigere ausi fuerint iudicata.</p>
+                    <p>Hanc autem excommunicacionis sentenciam illos incurrere decernimus, qui contra priuilegia et libertates Clericorum et ecclesiarum statuere, ordinare, precipere aut interdicere expresse uel indirecte per se uel per alios presumunt, et precipiunt, ne quis in ecclesiarum uel Clericorum clibanis panem coquat, uel in molendinis eorum molat; ne quis eis ignem det, uel aquam ferat; ne quis possessiones eorum colat aut defendat, sed impune destruat; aut ne quis aliud cum eis commercium habeat uel quomodolibet participet aut loquatur, aut eis de decimis, primitiis, oblacionibus uel aliis iuribus spiritualibus non respondeat, aut his similia agunt: et qui talia facta per alios, in quos dominium habent, seu officiales suos requisiti non reuocant cum effectu.</p>
+                    <p>A qua excommunicacionis sentencia nullatenus absoluantur, donec de damnis et iniuriis propter hoc personis ecclesiasticis et ecclesiis illatis satisfecerint competenter.</p>
+                </div>
+                <div>
+                    <head>Capitulum 57</head>
+                    <p>De Confratriis.</p>
+                    <p>Districtius igitur precipimus, ne quis sub pena excommunicacionis late sententie coniuraciones, colligaciones, confratrias, seu alias quascunque obligaciones fide uel iuramento seu qualibet alia firmitate uallatas facere presumat contra ecclesias, uel ecclesiasticas personas, seu contra ecclesiasticam libertatem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 58</head>
+                    <p>Ne quis oratoria faciat.</p>
+                    <p>Prohibemus sub pena excommunicacionis, ne deinceps quisquam ecclesias, capellas, oratoria, hospitalia, uel alia pia loca et religiosa in Treuirensi prouincia edificet, uel altare aliquod in eadem prouincia erigat sine nostra uel Episcopi loci licencia speciali.</p>
+                </div>
+                <div>
+                    <head>Capitulum 59</head>
+                    <p>De altari portatili.</p>
+                    <p>Sed altaria portatilia ita lata et spaciosa fiant, quod calix et hostia possint tute super illis conuenienti distancia collocari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 60</head>
+                    <p>De non alienandis ecclesiarum ornamentis.</p>
+                    <p>Inhibemus sub pena excommunicacionis, ut nullus Clericus uel laicus calices, libros, uestes sacras et alia ornamenta ecclesiastica per se uel per alium uendere, distrahere, pignori obligare uel alias quomodolibet alienare presumat absque nostra uel Episcopi loci licencia speciali.</p>
+                    <p>Qui uero contra fecerint, Clerici in sacris ordinibus constituti suspensionis, laici uero et Clerici in minoribus constituti excommunicacionis sentencias incurrant ipso facto.</p>
+                    <p>Qui autem tales res in pignus scienter receperit, eas illi ecclesie, cuius sunt, libere restituere teneatur, nulla recuperata pecunia ab eadem.</p>
+                    <p>Sed et quicumque Clericus regularis uel secularis res huiusmodi pro quocumque debito cuiuscunque rectoris uel capellani seu ecclesie propria auctoritate capere presumserit, preter penam excommunicacionis, quam ipsum incurrere decernimus, ipso facto a debito ipso cadat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 61</head>
+                    <p>Ne cause seculares in cimiteriis tractentur.</p>
+                    <p>Ne domini uel iudices seculares aut ballini, aut officiales seu nuncii curie secularis in ecclesiis uel cimiteriis uel	ecclesiarum atriis causas, lites, contenciones seu placita audiant, penitus inhibemus: sed	nec sentencias ibi proferant, nec precepta, banna, edicta, subhastaciones uel execuciones faciant, nec aliquos ad quamcumque penam corporalem condemnatos per loca ipsa deducant.</p>
+                    <p>Tales enim sententie et processus reprobantur a iure.</p>
+                    <p>Sed nec alique congregaciones, concilia, perlamenta uel choreas facere, uel cantilenas dicere, mercata tenere, uel merces uendere, uel aliqua ludibria uel inhonesta agere ibidem presumant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 62</head>
+                    <p>De hospitalitate Clericorum.</p>
+                    <p>Quoniam quidquid habent Clerici, pauperum esse debet, districte precipimus omnibus Presbyteris, rectoribus et curatis, ut in suis ecclesiis hospitalitatem teneant congruentem: prouiso tamen, quod ecclesias ipsas in prandiis, coenis, uel herbergiis et similibus, et quibuslibet aliis grauaminibus laicis quibuscumque non submittant, aut de nouo illis eas quocumque modo tributarias uel censuales faciant, si condignam effugere uoluerint ulcionem.</p>
+                    <p>Sed nec de ecclesiis, aut rebus uel negotiis ecclesiasticis laicorum iudicio aut uoluntate quoquomodo disponant.</p>
+                    <p>Laici autem seu alii quilibet, qui in premissis aut in talibus questis indebitis seruitiis uel similibus ecclesias seu ecclesiastica bona quomodolibet grauare, aut ecclesiasticas personas ad hoc quomodolibet compellere presumpserint, nisi legitime ab Ordinariis moniti a talibus destiterint, aut iam commissa emendare distulerint, excommunicacionis sententie ex tunc ipso facto uolumus subiacere.</p>
+                </div>
+                <div>
+                    <head>Capitulum 63</head>
+                    <p>De pecunia ecclesie disponenda.</p>
+                    <p>Interdicimus, ne rectores et beneficiati de pecunia racione ecclesiarum suarum acquisita emant possessiones seu reditus perpetuos nomine heredum suorum uel eciam alieno.</p>
+                </div>
+                <div>
+                    <head>Capitulum 64</head>
+                    <p>De retinentibus bona predecessorum.</p>
+                    <p>Nullus laicorum sub pena excommunicacionis late sententie bona decedentium Clericorum pretextu ecclesie acquisita occupare uel detinere presumat; sed ad utilitatem ipsius ecclesie conseruentur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 65</head>
+                    <p>De obseruancia rerum ecclesie.</p>
+                    <p>Adhuc iubemus, ut rectores et beneficiati in edificiis et reparacionibus ecclesiarum et domorum, in libris quoque et ornamentis et aliis ad diuinum cultum necessariis iuxta facultates ipsarum ecclesiarum studeant, cum opus fuerit, taliter se habere, quod eorum exemplo parochiani et alii ad hoc merito inuitentur, precipue cum ipsi de iure ad talia possint cogi.</p>
+                </div>
+                <div>
+                    <head>Capitulum 66</head>
+                    <p>De materia calicis altaris.</p>
+                    <p>Omnibus Sacerdotibus nostre Treuirensis prouincie interdicimus, ne quisquam eorum cum calice ligneo, uel uitreo, uel stanneo, uel plumbeo, uel de petra, uel de auricalco, uel de electro infra nostram prouinciam ulterius celebrare presumat.</p>
+                    <p>Habeat igitur unaqueque ecclesia calicem saltem argenteum cum patena.</p>
+                </div>
+                <div>
+                    <head>Capitulum 67</head>
+                    <p>De imaginibus in ecclesia habendis.</p>
+                    <p>Precipimus ut in unaquaque ecclesia ante uel post uel supra quodlibet altare sit imago, uel sculptura uel pictura expresse designans et cuilibet intuenti manifestans, in cuius Sancti meritum et honorem sit ipsum altare constitutum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 68</head>
+                    <p>De residencia personali.</p>
+                    <p>Statuimus, monemus atque precipimus omnibus rectoribus et capellanis curatis ecclesiarum nostre ciuitatis, diocesis et prouincie Treuirensis, ut in suis ecclesiis infra mensem, a die recitacionis presentis constitucionis computandum, residenciam faciant personalem, et hospitalitatem teneant ibidem, prout facultates suarum ecclesiarum commode poterunt supportare: alioquin presentis constitucionis auctoritate ab ipsis beneficiis nouerint se suspensos, nisi cum eis canonice fuerit super hoc dispensatum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 69</head>
+                    <p>Ne ecclesie dentur ad censum uel ad firmam.</p>
+                    <p>Cupientes hospitalitatem in ecclesiis obseruari, interdicimus, ut nullus ecclesias ad censum uel ad firmam det et concedat, seu fructus eius obliget, absque nostra et Episcoporum loci licencia speciali.</p>
+                    <p>Sed et si quis ex aliqua racionabili causa ad censum seu ad firmam dandi licenciam a nobis seu Episcopo loci obtinuerit, non tamen alicui seculari persone officium aliquod in quocunque seculari regimine gerenti adcensare, obligare seu ad firmam dare presumat: alioquin contractum ipsum nullas uires habere decernimus, et ipsum ad firmam dantem et obligantem a beneficio suspendimus.</p>
+                    <p>Contractus uero ad firmam dacionis contra hoc iam initos seu celebratos reuocamus, et omnino uiribus uacuamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 70</head>
+                    <p>De sacramentis dandis.</p>
+                    <p>Districte precipimus omnibus Archipresbyteris et perpetuis uicariis ac eciam curatis, ne propter debitum proprium uel ecclesie sue propria auctoritate denegare presumant quibuscumque personis ingressum ecclesie, aut differre ecclesiastica sacramenta, que eis sunt absque dilacione qualibet concedenda.</p>
+                </div>
+                <div>
+                    <head>Capitulum 71</head>
+                    <p>De testamentis exhibendis.</p>
+                    <p>Item statuimus, ut quandocunque aliquem in parochia cuiusquam Presbyteri nostre ciuitatis, diocesis et prouincie Treuirensis testamentum uel quamlibet ultimam uoluntatem ordinare uel disponere contigerit, post mortem testatoris per eiusdem parochie capellanum moneantur heredes uel heres, uel ipsius ultime uoluntatis executor uel executores, uel ille seu illi, penes quem uel quos scriptum ultime, uoluntatis fuerit, quod ipsam infra XL dies a tempore obitus testatoris computandos nobis uel Officiali nostro in nostra ciuitate et diocesi, Episcopis uero locorum uel eorum Officialibus in nostra prouincia apertam uel aperiendam exhibeant: ne eleemosine seu legata ad pias causas remaneant insoluta, et ut pia ultima testatoris uoluntas debitum sorciatur effectum.</p>
+                    <p>Quod si infra premissos XL dies id non fecerint, impedimento cessante, incurrant excommunicacionis sentenciam ipso facto.</p>
+                </div>
+                <div>
+                    <head>Capitulum 72</head>
+                    <p>De restitucione pecunie male acquisite.</p>
+                    <p>Statuimus, ut heredes et successores defuncti, qui iurauerat, soluere seu reddere pecuniam illicite acquisitam, uel res alias seu legata, moneantur per locorum Ordinarios, ut sicut ille iurauerat, ita ipsi adimpleant: et ad hoc si necesse fuerit, per censuram ecclesiasticam, sicut iustum fuerit, compellantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 73</head>
+                    <p>De testantibus.</p>
+                    <p>Quia nihil est, quod magis debeatur hominibus, quam ut eorum supreme pie uoluntatis legata impleantur, statuimus atque ordinamus, ut quicunque de bonis suis testari atque de anima sua disponere uoluerit, rectorem seu capellanum curatum, qui eius noscere debet conscienciam et condicionem, et a quo ecclesiastica sacramenta uiuens recepit, aduocet, per quem salubrius et iuuari et dirigi poterit in his, que ad salutem anime sue pertinent, peragendis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 74</head>
+                    <p>De monicione executorum ultimarum uoluntatum.</p>
+                    <p>Precipimus quoque in uirtute sancte obedientie uniuersis rectoribus ecclesiarum et curatis, ut annis singulis in quatuor diebus dominicis, uidelicet semel in quolibet quatuor temporum, publice infra solemnia Missarum moneant generaliter omnes et singulos executores testamentorum et quarumlibet ultimarum uoluntatum et disposicionum, et eciam quoslibet heredes et successores, et generaliter quascumque personas, qui uel que tenebuntur aliqua dare, soluere uel facere ad pias causas, seu quoslibet pios usus iuxta defunctorum disposiciones, ut illa infra anni spatium a testatoris obitu computandum dare, soluere et facere teneantur, nisi quod agendum est prolixius tempus necessarium de sui natura uel ex testatoris disposicione exposcat.</p>
+                    <p>Hoc autem locum habere intelligimus in casibus post presentis constitucionis edicionem futuris.</p>
+                    <p>In his uero, que ante presentis constitucionis promulgacionem dari, solui, uel fieri debuerunt, annum ipsum a recitacione presentis constitucionis decernimus computandum.</p>
+                    <p>Alioquin qui infra premissum tempus hoc adimplere neglexerint, excommunicacionis sentenciam ipso facto incurrant.</p>
+                    <p>Eisdem quoque rectoribus et capellanis sub pena suspensionis ab officio precipiendo mandamus, ut infra uiginti dies post lapsum anni premissum nobis uel Officiali nostro in ciuitate et diocesi nostra, et locorum Episcopis in nostra prouincia fideliter denunciare procurent personas, quas nouerint in suis parochiis, que premissa sunt infra premissum tempus non adimpleuisse, ut uel per nos uel per Episcopos ad hoc per competencia remedia urgeantur, uel per nos ipsos seu Episcopos, prout iura suadent, pie ipsorum decedentium uoluntates execucioni debite demandentur.</p>
+                    <p>Relicta autem ad pias causas in extrema uoluntate coram Sacerdote parochiali seu curato et duobus aut tribus fide dignis testibus, eciam sine quacumque scriptura inde confecta, firma decernimus permanere.</p>
+                </div>
+                <div>
+                    <head>Capitulum 75</head>
+                    <p>De male retinentibus bona testatorum.</p>
+                    <p>Precipimus quoque et preceptum fuisse hactenus declaramus, ut testamentorum seu quarumlibet ultimarum uoluntatum executores titulo emcionis uel quouis alio titulo nihil omnino propria auctoritate de bonis retineant testatoris, nisi forte ab illo legatum sibi expresse fuerit uel concessum.</p>
+                    <p>Qui uero contra fecerint, pretium amittant, si ex causa emcionis se dixerint retinere; si uero ex alia causa, iudicis ordinarii loci arbitrio puniantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 76</head>
+                    <p>De testamentis Clericorum beneficiatorum.</p>
+                    <p>Predecessorum nostrorum uestigiis inherentes permittimus de gracia speciali, quod clerici beneficiati nostre ciuitatis, diocesis et prouincie, solutis omnibus ecclesiarum et beneficiorum suorum debitis, disponere possint libere et testari, dum mentis sue compotes existunt, de bonis mobilibus et se mouentibus, obtentu ecclesiarum et beneficiorum suorum acquisitis; ita duntaxat, quod ecclesias suas et beneficia et domos utensilibus et animalibus, que agriculture ipsius ecclesie prius deputata sunt, nequaquam spolient, sed illa et insuper sufficiencia uictualia et sumptus necessarios usque ad nouos fructus colligendos pro futuri successoris et seruitorum ecclesie ac ministrorum necessariorum congrua sustentacione reseruent.</p>
+                </div>
+                <div>
+                    <head>Capitulum 77</head>
+                    <p>De sortilegiis.</p>
+                    <p>Diuinaciones, sorlilegia, auguria et alia quelibet similia supersticiosa remedia, siue in precantacionibus et coniuracionibus, siue in uotis, quas breuia seu characteres uocant, aut eciam in quibuscumque rebus ad collum uel alibi suspendendis uel ligandis consistant, tamquam damnata ab omnibus Christi fidelibus nobis subditis obseruari et fieri, eisdemque fidem adhiberi penitus prohibemus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 78</head>
+                    <p>De eodem.</p>
+                    <p>Nullus ergo paganorum morem secutus ad diuinos, sorciarios, magos, uel augures, pro uita, uel morbo, uel pro morte hominum seu animalium, uel pro rerum amissione, aut contra grandines et tempestates, aut ut a uiro uel muliere magis ametur, aut pro quolibet alio remedio uel consilio supersticioso ab illis exspectando recurrat, aut eos in domum suam, quasi ut malum foris mittant, uel maleficium inueniant, introducat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 79</head>
+                    <p>De diuinacionibus.</p>
+                    <p>Nullus eciam per sortes, quas Sanctorum seu Apostolorum uel psalterii uocant, aut cuiuslibet scripture inspeccione diuinacionis sentenciam profiteatur, aut futura promittat, aut quelibet beneficia in tabulis uel codicibus in astrolabio requirat.</p>
+                    <p>Nulla mulierum se nocturnis horis equitare cum Diana dea paganorum uel cum Herodiade et innumera mulierum multitudine profiteatur.</p>
+                    <p>Hec enim demonica est illusio.</p>
+                    <p>Nemo in herbarum colleccionibus carmina, incantaciones aut alias obseruaciones, preter dominicam oracionem et symbolum adhibeat, nec in breuibus suspendendis uel ligandis aliquid preter illa scribat; demonium tamen sustinenti licet petras et herbas sine incantacione habere.</p>
+                    <p>Dies quoque egipciaci, constellaciones, lunaciones, calendas Ianuarii, inicia mensium, dies mensis, cursus lune, solis et siderum supersticiose obseruari non debent, credendo uidelicet, in illis uirtutem seu necessitatem inesse.</p>
+                    <p>Sed nec in premissis diebus seu temporibus mense cum ampullis et lampadibus in domibus sunt parande, uel per uicos et plateas cantores et choree ducendi.</p>
+                    <p>Nulla eciam tempora fausta uel infausta estimanda, ut quis in eis uelit aut nolit aliquid inchoare; nec ad uolatum uel garritum auium, uel ad motum alicuius membri, aut alicuius animalis aspectum aliquid esse prospere uenturum uel non, prenosticandum est.</p>
+                </div>
+                <div>
+                    <head>Capitulum 80</head>
+                    <p>De prenosticantibus per XII signa.</p>
+                    <p>Interdicimus eciam, ne quis per duodecim signa coeli nascentium in illis mores, actus, euentus aut effectus predicere presumat; et ne homo pro domo fabricanda, aut coniugio sociando, uel huiusmodi illa obseruet.</p>
+                    <p>Quicumque autem post generales prohibiciones, quas in missarum solemniis diebus dominicis per Sacerdotes super his fieri precipimus, si contra premissa fecerint, ingressus ecclesie et ecclesiastica sacramenta eis omnino interdicantur; et si necesse fuerit, excommunicacionis uinculo innodentur, aliisque iuris remediis per locorum Ordinarios a talibus arceantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 81</head>
+                    <p>De questoribus.</p>
+                    <p>Quia plurimi se esse questores hospitalium, ecclesiarum et locorum religiosorum et priorum, falso mentientes, falsas literas portant, aliqua eciam falsa et adulterina signa sibi imponunt: nonnulli quoque sanctuaria se deferre pretendentes abusiones multas in religionum et ecclesiarum et locorum, quorum nomine questus exercent, in infamiam et scandalum populorum.</p>
+                    <p>Idcirco uolentes circa hoc remedium, quale possumus, adhibere, omnibus et singulis rectoribus et curatis nostre ciuitatis, diocesis et prouincie in uirtute sancte obedientie precipimus, ne de cetero ullum questorem in suis ecclesiis sine nostris uel Episcopi loci aut apostolicis literis admittant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 82</head>
+                    <p>Per quos matrimonium debeat celebrari.</p>
+                    <p>Districtius inhibemus sub pena excommunicacionis late sententie, ne aliquis Sacerdos, non habens parochiam siue animarum curam, matrimonia celebret, corpora defunctorum sepeliat, baptizet, confessiones audiat, Eucharistiam seu alia Sacramenta ecclesiastica populo ministret sine nostra aut Episcopi loci, aut illius, cui animarum cura in illo loco commissa est, licencia speciali: cum constet, absoluciones et remissiones ab eo absque licencia huiusmodi tanquam a non suo iudice factas, nisi duntaxat in casu necessitatis, nullius fore momenti.</p>
+                    <p>Nemini etenim licet falcem suam in messem mittere alienam, iuxta illud: Ingressus es ut aduena, numquid ut iudices nos?</p>
+                    <p>Sed nec aliquis Sacerdos in alterius ecclesia uel parochia diebus dominicis uel aliis solemnitatibus missas publicas celebrare presumat, donec rector, uicarius, uel capellanus missam celebrauerit; nisi de ipsius rectoris uel uicarii licencia: cum et secundum canonicas sancciones nulli Sacerdoti liceat, missas peculiares siue priuatas dicere, per quas populum a publicis missarum solemniis, que hora debita fieri consueuerint, talibus diebus abstrahat; nec absque illius licencia saltem tacita uel generali missas publicas celebrare, uel baptizare aut aliquid aliud, quod ad rectoris seu uicarii spectet officium, agere presumat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 83</head>
+                    <p>De ministris altaris.</p>
+                    <p>Omnibus Sacerdotibus sub pena excommunicacionis late sententie precipimus, ne filiis suis illegitimis sibi ad altare ministrantibus diuina officia celebrare presumant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 84</head>
+                    <p>De horis canonicis.</p>
+                    <p>Omnibus insuper curas regentibus precipimus, ne horas canonicas uel aliud quodcunque officium ecclesiasticum sine superpellicio, impedimento cessante, in ecclesiis dicere uel celebrare presumant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 85</head>
+                    <p>De pollucione ecclesiarum.</p>
+                    <p>In ecclesia consecrata sanguinis uel seminis effusione, aut incendio, uel uiolencia polluta, priusquam canonice fuerit reconciliata, arctius prohibemus diuina officia celebrari.</p>
+                    <p>Sed et si in cimiterio consecrato contiguo hoc contigerit, uel si excommunicatus, uel infidelis ibi sepultus sit, tunc absque nostra uel Episcopi loci licencia speciali quisquam in cimiterio non sepeliatur eodem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 86</head>
+                    <p>Ne alieni Sacerdotes parochianos alterius ad confessionem admittant.</p>
+                    <p>Nullus Sacerdos nobis subditus, cui animarum cura commissa non fuerit, parochianum alterius ad confessionem admittat absque nostra uel Episcopi loci seu proprii Presbyteri licencia speciali; nisi forte parochiali Sacerdote in grauissima egritudine constituto, uel nisi tanta fuerit populi multitudo, quod ad confessiones audiendas parochialis Sacerdos sufficere non possit: in quibus casibus concedimus, quod hoc possit de parochialis Sacerdotis licencia, et eciam in graui articulo necessitatis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 87</head>
+                    <p>De communicantibus.</p>
+                    <p>Quamuis omnes fideles in tribus anni temporibus, uidelicet in Natali, in Pascha et in Pentecoste ad communionem corporis et sanguinis Domini sint monendi: precipimus tamen, ut omnes nostri subditi semel in anno capellano seu rectori, in cuius parochia degunt, uel aliis de eius licencia sua confiteantur peccata, et saltem die Pasche Eucharistiam recipiant, nisi de licencia sui abstineant confessoris.</p>
+                    <p>Alioquin a rectoribus et capellanis uiuentes ab ingressu ecclesie et sacramentis ecclesiasticis arceantur, morientibus sepultura ecclesiastica denegetur.</p>
+                    <p>Et insuper in uirtute sancte obedientie precipimus sub pena excommunicacionis rectoribus et capellanis curas regentibus, ut Clericos et laicos, qui premissa facere non curauerint, sed in hoc peccato pertinaciter perstiterint, nobis uel locorum Episcopis notificent et eorum nomina in scriptis assignent, ut ex hoc canonice puniantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 88</head>
+                    <p>Casus Episcopo reseruati.</p>
+                    <p>Quoniam circa maiora maius periculum uertitur, idcirco cautius est agendum.</p>
+                    <p>Inhibemus igitur, et in uirtute sancte obedientie precipimus omnibus rectoribus et curatis et quibuslibet aliis subditis nostre ciuitatis, diocesis et prouincie Treuirensis confessiones audientibus, ne de casibus episcopalibus de iure uel consuetudine ad nos et Episcopos pertinentibus se quomodolibet intromittant: sed ad nos seu Episcopos uel penitenciarios nostros illos, fideliter remittere curent.</p>
+                    <p>Et ne aliquis pretextu ignorantie se in talibus ualeat excusare, aliquos ex illis hic duximus exprimendos.</p>
+                </div>
+                <div>
+                    <head>Capitulum 89</head>
+                    <p>De eodem.</p>
+                    <p>Primo quidem mittendi sunt ad nos uotorum uiolatores, ac post uotum castitatis matrimonium contrahentes.</p>
+                    <p>Secundo, contrahens cum alia matrimonium prima uiuente, et contrahens, uel religionem intrans, aut sacrum ordinem suscipiens inuita uxore propria, post carnalem copulam subsecutam.</p>
+                    <p>Tercio, confessus se credidisse hereticam prauitatem, et se hereticos receptasse, et cum eis participasse et eis fauisse.</p>
+                    <p>Quarto, simoniacus quocunque genere simonie, preterquam mentalis.</p>
+                    <p>Quinto, ab Episcopo alieno sine licencia proprii Episcopi ordinatus uel tonsuratus.</p>
+                    <p>Sexto, homicidium faciens facto, precepto, consensu, consilio, exhortacione, uel quolibet alio modo.</p>
+                    <p>Septimo, concipiens filium a uiro non suo, quem uir, credens suum esse filium, nutrit et instituere intendit.</p>
+                    <p>Octauo, uir qui in mortem coniugis, et uxor que in mortem uiri effectualiter machinatur.</p>
+                    <p>Nono, Presbyter celebrans scienter in ecclesia uel parochia interdicta, et secundas nupcias benedicens.</p>
+                    <p>Decimo, Clericus uel laicus scienter corpus excommunicati, uel eciam in tempore interdicti non excommunicati in cimiterio benedicto sepeliens.</p>
+                    <p>Undecimo, excommunicatus a canone in illis casibus, in quibus Episcopus absoluere potest; et eciam irregularis in illis casibus, in quibus Episcopus dispensare potest.</p>
+                    <p>Duodecimo, matrimonium clandestine contrahentes, et omnes qui scienter intersunt, qui secundum antiqua statuta synodalia nostre prouincie excommunicacionis uinculo sunt ligati.</p>
+                    <p>Terciodecimo, falsarius literarum apostolicarum, siue episcopalium uel officialium, siue publicorum instrumentorum.</p>
+                    <p>Quartodecimo, Sacerdos scienter celebrans in altari non consecrato, uel sine sacris indumentis, celebrans eciam non ieiunus.</p>
+                    <p>Item non ordinatus in Presbyterum missam celebrans; et non ordinatus in diaconum solemniter et publice Euangelium in ecclesia legens, et non ordinatos in subdiaconum solemniter et cum indumentis subdiaconi Epistolam in missarum solemniis legens.</p>
+                    <p>Quintodecimo, Clericus iurans tactis sacrosanctis Euangeliis et periurans, et quandocunque dubitatur, utrum aliquod sacramentum sit seruandum uel non.</p>
+                    <p>Sextodecimo, ubicunque est solemnis penitencia iniungenda; non dicimus hoc de publica.</p>
+                    <p>Septimodecimo, incendiarii et effractores ecclesiarum et domorum ecclesiasticarum, et nocturni depopulatores agrorum, et famosi latrones, qui in itineribus insidiantur.</p>
+                    <p>Decimooctauo, per saltum aliquo ordine pretermisso uel eciam furtiue et contra prohibicionem promotus, et rebaptizatus, et reordinatus, et reconfirmatus.</p>
+                    <p>Decimonono, excommunicatus, suspensus, uel interdictus celebrans missam scienter, uel officium suum solemniter sicut prius celebrans, et qui excommunicatus uel interdictus ordinem uel beneficium suscepit.</p>
+                    <p>Uicesimo, coiens cum moniali sacrata, uirgine uel non.</p>
+                    <p>Uicesimo primo, defloratores uirginum vi, oppresse uel rapte.</p>
+                    <p>Uicesima secundo, opprimens siue perimens prolem suam studiose uel negligenter ante parium uel post.</p>
+                    <p>Uicesimo tercio, quomodolibet abutens chrismate uel hostia uel alia re sacra.</p>
+                    <p>Uicesimo quarto, rapinam uel sacrilegium in ecclesia committens.</p>
+                    <p>Uicesimo quinto, scienter baptizans proprium filium, uel eciam filium uxoris sue ex alio uiro, uel e conuerso, preterquam in articulo necessitatis, et tunc aliis deficientibus, et eciam in catechismo uel confirmacione tenens.</p>
+                    <p>Uicesimo sexto, in ecclesia, maxime consecrata, luxuriam committens, humanum semen quomodolibet ibidem studiose emittens.</p>
+                    <p>Uicesimo septimo, scienter coiens cum iudea, uel saracena, uel pagana, uel e conuerso.</p>
+                    <p>Uicesimo octauo, uerberans patrem uel matrem, uel alias eis enormes iniurias irrogans.</p>
+                    <p>Uicesimo nono, sortilegi, diuini, malefici, incantatores, augures, aruspices, demones pro quacunque causa inuocantes, uel similia facientes.</p>
+                    <p>Tricesimo, contrahentes matrimonium post sponsalia cum aliis iuramento interposito contracta, illis per ecclesiam non dissolutis.</p>
+                    <p>Tricesimo primo, uiolator ecclesie uel cimiterii.</p>
+                    <p>Tricesimo secundo, peccatum sodomiticum committens, uel cum brutis commiscens.</p>
+                    <p>Tricesimo tercio, incestum committens cum quibuscunque consanguineis uel affinibus.</p>
+                    <p>Tricesimo quarto, Sacerdotes uel ministri, quoram culpa uel negligencia aliquid inhonestum circa Sacramentum altaris euenerit.</p>
+                    <p>Tricesimo quinto, cognoscens consanguineam uxoris sue uel sponse.</p>
+                    <p>Tricesimo [1] sexto, procurans quoquo modo siue in se siue in alio sterilitatem.</p>
+                    <p>Tricesimo septimo, blasphemans publice Deum, uel matrem eius, uel sanctos; et falsum testimonium scienter proferens; et laicus transgressor iuramenti; qui tamen post transgressionem satisfecit de eo, quod iurauerat facere uel obseruare.</p>
+                    <p>Tricesimo octauo, Sacerdos coiens cum ea, quam baptizauit, uel cuius confessionem audiuit; uel eciam quilibet coiens cum ea, que qualibet spirituali affinitate est sibi coniuncta.</p>
+                    <p>Tricesimo nono, contrahens matrimonium cum ea, quam cognouit per adulterium, superstite legitima uxore sua, uel e conuerso.</p>
+                    <p>Quadragesimo, mulier, cuius uir diu abfuit, et de illius morte certitudo non habetur, contra prohibicionem ecclesie matrimonium cum alio contrahens; idem e conuerso.</p>
+                </div>
+                <div>
+                    <head>Capitulum 90</head>
+                    <p>De solemnizacione matrimonii.</p>
+                    <p>Inhibemus rectoribus et Sacerdotibus, ne matrimonia inter aliquos, qui non sunt etatis nubilis, siue ambo, siue alter tantum deficiat in etate, uel eciam ubi dubitatur, utrum matrimonium teneat annon, uel si de hoc lis mota fuerit, solemnizare in ecclesia presumant, sine nostra aut Episcoporum locorum, uel Officialium suorum licencia speciali.</p>
+                </div>
+                <div>
+                    <head>Capitulum 91</head>
+                    <p>De matrimonio clandestino.</p>
+                    <p>Denunciamus et declaramus, quod quicunque clandestina sponsalia seu matrimonia contra iuris prohibicionem contrahunt, tam ipsi contrahentes quam eciam omnes Clerici et laici ac religiosi, qui non sunt Presbyteri, qui scienter et sponte non casu fortuito tali matrimonio intersunt, per constituciones tam prouincialis Concilii quam predecessorum nostrorum excommunicacionis, Presbyteri uero suspensionis per triennium incurrant sentenciam ipso facto.</p>
+                    <p>Inhibemus igitur et inhibitum esse de iure declaramus, ne sponsalia seu matrimonia clandestine contrahantur; sed cum contrahenda fuerint matrimonia, Sacerdotes publice ter, scilicet per dies dominicos uel festiuos proponant, et proclamacionem faciant in ecclesiis competenti termino prefinito, ut infra illum, qui uoluerit et ualuerit, legitimum impedimentum opponat; et ipsi Sacerdotes nihilominus per se ipsos fideliter et diligenter inuestigent, utrum aliquod impedimentum obsistat.</p>
+                    <p>Quod si apparuerit, uel eciam de ipso sit probabilis coniectura, contractus matrimonii interdicatur expresse, donec quid super hoc fieri debeat per loci Ordinarium declaretur.</p>
+                    <p>Sacerdos uero, qui tales coniuncciones solemnizare presumserit, aut quilibet regularis, qui eis interesse presumserit, per triennium ab officio suspendatur, grauius nihilominus puniendus, prout culpe ipsius qualitas postulabit.</p>
+                    <p>Sed et illis, qui taliter copulari presumserint, condigna penitencia iniungatur.</p>
+                    <p>Et si sic coniuncti simul publice cohabitare presumserint, ecclesia eos tanquam publicos concubinarios reputabit.</p>
+                    <p>Ueruratamen si clandestine contrahentes talia matrimonia postea in facie ecclesie publicare uoluerint, ab ecclesia recipienda erunt et approbanda tanquam a principio in conspectu ecclesie contracta, nisi uel consanguinitas uel alterum legitimum impedimentum appareat; ita uidelicet quod publice coram Sacerdote et aliis pluribus personis confiteantur se matrimonium contraxisse, uel de nouo in ecclesia matrimonium contrahant de presenti, eisque, si postulauerint, detur benediccio nupcialis, iniuncta tamen prius eis per Sacerdotem penitencia competenti pro eo, quod clandestine contraxerunt.</p>
+                    <p>Predicte autem proclamaciones non remittantur a quoquam, nisi super una uel duabus ex causa duntaxat nos uel Episcopi ex causa uelimus graciam facere specialem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 92</head>
+                    <p>Ne ignoti matrimonialiter copulentur.</p>
+                    <p>Nullus autem Sacerdos ignotas personas de remotis partibus uenientes matrimonialiter copulare presumat, siue ambe ignote fuerint siue altera illarum tantum.</p>
+                    <p>Nec tale matrimonium faciendum denunciet in ecclesia absque nostra uel Episcoporum locorum licencia speciali.</p>
+                    <p>Sed nec Sacerdos aliquis parochianum alienum ad matrimoniam contrahendam recipiat, ignorante proprio Sacerdote.</p>
+                    <p>Si uero sponsas et sponsa de diuersis parochiis fuerint, matrimonium contrahere poterant et nupcialem benediccionem recipere in quacunque ecclesia maluerint, dum tamen ueras literas uel certos nuncios suorum Presbyterorum ostendant, continentes, quod in ecclesiis, quarum sunt parochiani, matrimonium denunciatum fuerit legitime contrahendum, quodque ipsi Presbyteri nullum sciunt uel audiuerunt impedimentum, quominus matrimonium inter eos possit esse: licet ante transtulerint domicilium suum in parochiam alienam, nihilominus tamen denunciacio matrimonii contrahendi fiat in prima ecclesia, in cuius parochia diu morati sunt, et eciam in illa, in quam suum transtulerunt domicilium et morantur, precipue si nouiter transtulerunt.</p>
+                    <p>Eis autem, qui, rupta fide sponsaliorum, matrimonium cum aliis contrahunt, non detur benediccio nupcialis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 93</head>
+                    <p>De recipiendis ad primam tonsuram.</p>
+                    <p>Precipimus, ut nullus illegitime natus ad primam tonsuram uel quoslibet ecclesiasticos ordines uel ecclesiastica beneficia se ingerat uel presentet seu presentari faciat absque legitima dispensacione.</p>
+                    <p>Qui uero contrarium fecerit, et qui talem scienter presentauerit, preter penam iuris ipsum excommunicacionis uinculo innodamus.</p>
+                    <p>Illegitimi quoque beneficia ecclesiastica absque sufficienti dispensacione obtinentes ipso facto ipsis beneficiis se nouerint priuatos.</p>
+                </div>
+                <div>
+                    <head>Capitulum 94</head>
+                    <p>De excommunicatis et nominatim interdictis.</p>
+                    <p>Excommunicatos et nominatim interdictos per totam nostram prouinciam ab omnibus regularibus et secularibus exemtis et non exemtis precipimus in diuinis officiis et sacramentis ecclesiasticis euitari: quia nulli debent in hoc aliquibus priuilegiis se tueri.</p>
+                    <p>Qui uero contrafecerint, uel tales ad sepulturam ecclesiasticam receperint, aut celebrare in ecclesia interdicta presumpserint, ecclesie, in quibus talia fiunt, subiaceant interdicto.</p>
+                </div>
+                <div>
+                    <head>Capitulum 95</head>
+                    <p>De obseruancia mandatorum superiorum.</p>
+                    <p>Precipimus rectoribus et capellanis ecclesiarum omnibus sub pena excommunicacionis, ut precepta, sentencias interdicti et excommunicacionis, que nos uel Episcopi nostre prouincie uel Officiales nostri uel alius auctoritate nostra mandauimus obseruari uel mandabimus in futurum, postpositis odio, gracia uel timore fideliter obseruent, et quantum in eis fuerit, ab aliis faciant obseruari.</p>
+                </div>
+                <div>
+                    <head>Capitulum 96</head>
+                    <p>De male retinentibus literas et instrumenta.</p>
+                    <p>Item precipimus sub pena excommunicacionis late sententie, quod omnes illi, qui retinent scienter et dolose, contra uoluntatem debitorum, omnia instrumenta et literas ipsorum debitorum, de quibus plene satisfactum est eis, quod eadem instrumenta eis restituant infra mensem, ex quo presens statutum ad eos peruenerit, et restituendi habuerint facultatem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 97</head>
+                    <p>De eodem.</p>
+                    <p>Eos quoque, qui propter execucionem mandati, statuti, et ordinacionis premissorum, uel alia qualibet occasione Clericos uel laicos, qui aliquos ad nostram curiam et ecclesiasticos iudices citari uel trahi fecerint, uel interdicti aut excommunicacionis uel alias sentencias et processus contra eos obtinuerint, aut ibi in iudicio contenderint, aut eciam Officialem, iudicem, uel nuncios nostros et Episcoporum, qui huiusmodi sentencias tulerint et processus fecerint, compellere per capcionem personarum uel rerum suarum uel propinquorum suorum, uel alio quocumque modo ad desistendum uel obtinendum absoluciones seu reuocaciones huiusmodi faciendas;</p>
+                </div>
+                <div>
+                    <head>Capitulum 98</head>
+                    <p>Qui nolunt exequi mandata.</p>
+                    <p>Eos eciam, qui in causis ad forum ecclesiasticum pertinentibus execuciones aliquas contra quascumque personas fecerint, capientes, et qui eos capi uel alias ledi mandauerint seu procurauerint, nisi infra unius mensis spatium cum debita satisfaccione premissa emendauerint et cum effectu destituerint, in his scriptis excommunicacionis sentencia innodamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 99</head>
+                    <p>De extortis absolucionibus.</p>
+                    <p>Ne autem circa hec que necessaria sunt omittamus, et ne quis ignoranciam possit pretendere in premissis, duas constituciones felicis recordacionis domini Gregorii Pape X. presenti constitucioni de uerbo ad uerbum duximus subnectendas, quarum prima hec est:</p>
+                    <p>Constitucio prima.</p>
+                    <p>Absolucionis beneficium ab excommunicacionis sentencia, uel quamcunque reuocacionem ipsius, aut suspensionis, seu eciam interdicti, per vim uel metum extorta, presentis constitucionis auctoritate omnino uiribus euacuamus.</p>
+                    <p>Ne autem sine uindicta uiolentie crescat malignandi audacia: eos, qui absolucionem seu reuocacionem huiusmodi vi uel metu extorserint, excommunicacionis sententie decernimus subiacere.</p>
+                    <p>Item alia hec est.</p>
+                    <p>Quicumque pro eo quod in reges, principes, barones, nobiles, balliuos uel quoslibet ministros eorum, aut quoscumque alios excommunicacionis, suspensionis uel interdicti sentencia fuerit promulgata, licenciam dederunt alicui occidendi, capiendi, seu alias in personis aut bonis suis aut suorum grauandi eos, qui tales sentencias protulerunt, siue quorum sunt occasione prolate, uel easdem sentencias obseruantes, seu taliter excommunicatis communicare uolentes, nisi licenciam ipsam re integra deuocauerint, uel si ad bonorum capcionem occasione ipsius licentie sit processum, nisi bona ipsa fuerint infra octo dierum spatium restituta, aut satisfaccio pro ipsis impensa, in excommunicacionis sentenciam incidant ipso facto.</p>
+                    <p>Eadem quoque sint sentencia innodati omnes, qui ausi fuerint predicta licencia data uti, uel aliquod premissorum, ad que committenda dari licenciam prohibemus, alias committere suo motu.</p>
+                    <p>Qui autem in eadem sentencia permanserint duorum mensium spacio, ex tunc ab ea non possint, nisi per Sedem Apostolicam, absolucionis beneficium obtinere.</p>
+                </div>
+                <div>
+                    <head>Capitulum 100</head>
+                    <p>De Clericis in iudicio seculari parentibus.</p>
+                    <p>Illud quoque sub excommunicacionis pena prohibemus, ne quisquam ciuitatis, diocesis et prouincie nostre Clericos seu ecclesiasticas personas trahere seu trahi facere presumat super quibuscumque personalibus accionibus coram quocumque domino, iudice, ballino, uel quolibet alio temporali seu seculari, uel secularem iurisdiccionem habente.</p>
+                    <p>Clerici uero contra hoc facientes excommunicacionis sentenciam incurrant ipso facto.</p>
+                    <p>Sed nec ipsi de facto coram talibus et super talibus siue a Clericis siue a laicis tracti fuerint, in ipsos consenciant, aut coram eis super his respondeant sub eadem excommunicacionis pena, preter alias penas de iure scriptas.</p>
+                    <p>Nos enim sentencias, condemnaciones et processus quoslibet coram talibus, siue per eos siue eorum auctoritate uel mandato habitos et habendos, irritos decernimus et inanes.</p>
+                    <p>Si uero domini seculares, iudices, ballini premissi et alii quicumque quomodolibet directe uel indirecte per se uel per alios tales in se consentire, aut coram se respondere, compellere aut ab eis aliquid extorquere presumpserint; ipsi domini, iudices, ballini et quilibet alii excommunicacionis sententie ipso facto se nouerint subiacere: a qua absolui non possint, nisi prius eis restituant, quod a talibus habuerunt; nec remissio eorum, a quibus exactum extiterit, ipsos extorquentes aliquatenus ualeat excusare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 101</head>
+                    <p>Ne bona ecclesiarum alienis personis submittantur.</p>
+                    <p>Iniuncta nobis officii cura et commissa preterita nos impellunt, ut tam presentis innouacione statuti, quam debitarum adieccione penarum, nostris et subditis nobis ecclesiis indemnitatibus consulamus: ne nos, qui alios in sua iusticia fouere tenemur, ius nostrum et ecclesiarum improuide negligere uideamur.</p>
+                    <p>Quia igitur nonnulli bona et iura nostra et ecclesiarum predictarum spiritualia ecclesiastica et temporalia modis uariis occupare et occupata detinere, Dei timore postposito, non uerentur: alii uero feuda et retrofeuda, bona et iura, que a nobis et ab ecclesiis nostre prouincie tenere debent, aliis personis recognoscere uel submittere non formidant; idcirco precipimus sub pena excommunicacionis late sententie ipsis occupatoribus et detentoribus, ut bona et iura nostra et ecclesiarum absque nostra et antecessorum nostrorum, seu earundem ecclesiarum Prelatorum licencia et assensu minus iuste occupata et detenta, plene, integre et effectualiter nobis et eis restituere et agnoscere: ipsis uero recognitoribus et submissoribus dictorum feudorum et retrofeudorum, ut recogniciones et submissiones quomodolibet factas totaliter et cum effectu reuocare infra mensem, ex quo presens statutum ad eos peruenerit, non omittant.</p>
+                    <p>Requirimus insuper et monemus eos, qui recogniciones et submissiones huiusmodi per se uel per alios quomodolibet receperunt ac recipi fecerunt, ut omni fraude cessante infra idem tempus illa libere resignare, remittere, repudiare et dimittere non omittant, de quibus restitucione, reuocacione, resignacione, remissione seu repudiacione infra XX dies post predictum mensem sufficienter nos et ecclesiarum Prelatos certificare procurent per legitima documenta.</p>
+                </div>
+                <div>
+                    <head>Capitulum 102</head>
+                    <p>Ne quis feuda, retrofeuda, iura uel alia bona, que ab ecclesiis habet, alienet sine Prelatorum licencia et consensu.</p>
+                    <p>Ad hec interdicimus omnibus et singulis, a nobis et ecclesiis nobis subditis quecumque bona ecclesiastica et mundana iura, feuda et retrofeuda quomodolibet tenentibus seu possidentibus, ne de cetero illa in toto uel in parte quoquo modo uel titulo alienare, transferre, recognoscere, uel submittere quibuscumque personis ecclesiasticis uel mundanis, collegiis uel uniuersitatibus, seu in illas sine nostra aut successorum nostrorum ac Prelatorum ecclesiarum predictarum licencia speciali presumant: et ne quisquam recogniciones et submissiones huiusmodi amodo scienter recipere presumat.</p>
+                    <p>In contrafacientes uero ex nunc ut ex tunc, personas scilicet singulares excommunicacionis, in collegia uero seu uniuersitates interdicti in his scriptis sentencias promulgamus: et insuper occupaciones, detenciones, alienaciones, translaciones, recogniciones et submissiones ipsas irritas nunciamus, et totaliter annullamus.</p>
+                    <p>Eidem quoque excommunicacionis sententie decernimus subiacere eos, qui bona immobilia, feuda, iura, iurisdicciones et libertates quarumlibet ecclesiarum nostre ciuitatis, diocesis et prouincie quomodolibet usurpare et occupata detinere presumpserint, nisi infra duorum mensium spatium a presentis publicacione constitucionis connumerandum taliter occupata seu detenta cum omnibus fructibus et prouentibus inde perceptis plene et integre restituerint illis ecclesiis seu ecclesiasticis personis, ad quas pertinere noscuntur: uniuersis et singulis ecclesiarum rectoribus et curatis precipientes, quod presentem constitucionem parochianis suis exponere studeant diligenter; et si forte quemque hac excommunicacione ligatum nouerint, illi sepulturam in morte sua seu aliqua ecclesiastica sacramenta in uita non ministrent, uel admittant eciam ad diuina.</p>
+                </div>
+                <div>
+                    <head>Capitulum 103</head>
+                    <p>De phisicis et medicis.</p>
+                    <p>Quia, sicut intelleximus, plerique indocti, et quorum uita et mores incogniti sunt, in ciuitatibus, castris, oppidis et uillis nostris et nostre prouincie in arte medicine et chirurgie et aliis artibus docere et practicare contendunt; et circa exhibendas medicinas et colliria quam plures imperiti et inexperti se ingerunt, ex quibus quam plurima dispendia prouenisse noscuntur, magistrique esse cupiunt, qui discipuli non fuerunt: districte sub pena excommunicacionis late sententie inhibemus, ne quis deinceps in ciuitate seu diocesi nostra et prouincia artem medicine seu chirurgie exercere seu docere presumat absque nostra seu Episcoporum locorum licencia speciali.</p>
+                    <p>Decet enim, ut prius examinentur et approbentur tam in sciencia quam in moribus hi, qui circa salutem corporum, que rebus quibuslibet preponenda existunt, asserant se expertos; cum maxime in talibus tam periculosis et arduis quilibet ignorans presumi debeat, nisi probauerit se scientem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 104</head>
+                    <p>De honestate Clericorum.</p>
+                    <p>Item precipimus, ut unusquisque, maxime Clericus, dolos et coniuraciones caueat, odium et emulaciones, obtrectaciones atque inuidiam effugiat; non uagis oculis, non effrena lingua, aut petulanti fluidoque gestu incedat: sed pudorem et uerecundiam mentis simplici habitu incessuque ostendat; obscoenitatem eciam uerborum et membrorum sicut et operam penitus execretur; senioribus debitam exhibeat obedienciam, neque ullo iactantie studio seipsum attollat, bonis moribus studeat, ab omnibus illicitis cor, linguam et corpus Deo auctore conseruet: omnis enim iactancia atque immoderacio a bonis est moribus aliena.</p>
+                    <p>Curam pauperum, peregrinorum, et aliarum miserabilium personarum habeant, prebentes eis caritatiuam refeccionem, prout eis a Deo fuerit inspiratum.</p>
+                    <p>Uiduas, orphanos et pupillos defendant, et tam in his quam ia aliis totius boni laudabile exemplum exhibeant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 105</head>
+                    <p>De fetu mortuo.</p>
+                    <p>Si mulier in puerperio decesserit, et partus in uisceribus maternis adhuc iacere credatur, uterus mulieris sine mora aperiatur et partus, si vivus eductus fuerit, baptizetur; si uero mortuus, extra cimiterium tumuletur.</p>
+                    <p>Sed si partus simul cum matre mortuus probabiliter [2] creditur, tunc sine apercione mulier cum partu in cimiterio tumuletur.</p>
+                    <p>Si autem muliere in partu laborante infans ex uentre matris tantum caput emiserit et nasci nequeat, mox aliqua de obstetricibus aquam super caput infantis infundat dicens: Ego te baptizo in nomine Patris, et Filii, et Spiritus Sancti.</p>
+                    <p>Amen.</p>
+                    <p>Et erit baptizatus.</p>
+                    <p>Idem quoque dicendum est, prout quidam asserunt, si maior pars corporis preter caput appareat, et baptizetur; secus si minor.</p>
+                    <p>Unde si solus pes, uel sola manus appareat, baptizari non debet: quod si fiat, nihil agitur.</p>
+                    <p>Cum enim tunc partus non nascatur, nec tunc eciam renasci potest.</p>
+                    <p>Ceterum, si solum caput, uel sola maior pars corporis appareat, nec discerni potest, cuius sexus sit, tunc obstetrix lauando caput cum aqua et faciendo crucem super corpus, dicat sic: Creatura Dei, ego te baptizo in nomine Patris, et Filii et Spiritus Sancti.</p>
+                    <p>Et erit baptizatus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 106</head>
+                    <p>De confirmacionibus.</p>
+                    <p>Confirmacio est secundum ecclesiasticum sacramentum ab ipso Christo institutum, qui Apostolos suos confirmauit, et per eos eorumque successores popules confirmandos esse decreuit.</p>
+                    <p>In hoc sacramento, sicut in baptismo, compaternitas contrahitur, impediens matrimonium contrahendum et dirimens iam contractum.</p>
+                    <p>Nullus potest bis confirmari, sicut nec bis baptizari: nullus, nisi ipse baptizatus sit, alium ad confirmandum presentet.</p>
+                    <p>Nullus proprium filium, uel e conuerso; nec uir uxorem, uel e conuerso; nec uir et uxor simul infantem aliquem in confirmacione teneant seu presentet; non plures unum confirmandum, ant unus plures confirmandos presentet, ne obliuio ex temporis diuturnitate uel personarum multiplicitate proueniens peccandi occasionem inducat.</p>
+                    <p>Nullus hoc sacramentum, nisi baptizatus fuerit, accipiat.</p>
+                    <p>Confirmandus, si adultus sit, prius debet confiteri peccata.</p>
+                    <p>In confirmacione nomina possunt mutari.</p>
+                    <p>Nemo sine hoc sacramento uitam debet finire, ideoque sepe dicatur laicis, ne diu exspectant Episcopi sui aduentum ad confirmandum, sed pueros mittant ad loca proxima, ubi audierint Episcopum aduenisse.</p>
+                </div>
+                <div>
+                    <head>Capitulum 107</head>
+                    <p>De confessionibus.</p>
+                    <p>Nullus alieno Sacerdoti peccata sua confiteatur, nisi prius a proprio petita licencia et obtenta: quam nullus requisitus dare maliciose recusare presumat.</p>
+                    <p>In quibusdam tamen casibus libere potest quis confiteri alieno sacerdoti, a suo Presbytero licencia non petita.</p>
+                    <p>Primo, si Episcopus hoc alii delegauerit specialiter.</p>
+                    <p>Secundo, in aliena parochia peccans potest de illo peccato Sacerdoti illius parochie confiteri.</p>
+                    <p>Tercio, si suum domicilium ad aliam parochiam transtulerit.</p>
+                    <p>Quarto, cum est uagabundus.</p>
+                    <p>Quinto, si sibi mortis periculum imminet, nec habere potest proprium Sacerdotem: quo eciam casu posset laico catholico confiteri.</p>
+                    <p>Sed nec aliquis Sacerdos alterius parochianum ad confessionem admittat sine licencia proprii Sacerdotis.</p>
+                    <p>Debet autem confitens seipsum non alium accusare, nec personam eius, cum qua peccauit, debet nominatim exprimere; sed nec confessor de illa querere debet.</p>
+                    <p>Non debet eciam quis per nuncium, uel per scripturam, sed proprio ore confiteri, ut, qui per seipsum peccauit, per seipsum confiteatur, ut erubescat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 108</head>
+                    <p>De eodem.</p>
+                    <p>Ad hec confessiones mulierum non in loco occulto sed in patenti quis audiat, nec earum facies aspiciat, sed uel capucium ante oculos teneat, uel alibi faciem auertat: et si forte horribile peccatum audierit, non spuat, nec faciem suam torqueat, aut signum aliquod faciat, propter quod peccatorem deterreat, uel rubore seu uerecundia confundat, ita ut reliqua peccata sibi timeat reuelare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 109</head>
+                    <p>De eodem.</p>
+                    <p>Sacerdos peccatorem diligenter admoneat et discrete inducat, ut omnia peccata sua humiliter, uere, integre, simpliciter et fideliter confiteatur, nec uerecundia uel timore aliquod celet; ostendens ei, quia non homini sed Deo, cuius personam representat, ipse locuturus est, et quod ipse Sacerdos peccator est, et beati Petrus et Paulus peccatores fuerunt, eo quod res pene contra naturam est, ut quis sine peccato sit, et humanum est peccare, sed diabolicum in peccato perseuerare.</p>
+                    <p>Dicens ei, quod si ficte et palliate confiteatur, uel si aliquod mortale peccatum celauerit, uel scienter dimiserit, uel partem peccatorum uni Sacerdoti et partem alteri confiteatur, talis penitencia ad eternam salutem non sufficit promerendam.</p>
+                    <p>Intelligens igitur Presbyter ea, que confitens dicere uoluerit, querat ab eo, utrum alia dicere uoluerit, sollicitando eum, ut studiose cogitet, ne aliquod pretermittat: de delictorum circumstantiis prudenter et caute interroget, non tanquam scire appetens, sed ut melius et salubrius consulere sciat, et utatur consilio Concilii generalis, ubi sic dicitur: Sacerdos autem sit discretus, et cautus, ut more periti medici superinfundat uinum et oleum uulneribus sauciati, diligenter inquirens et peccatorum circumstancias et peccati, quibus prudenter intelligat, quale debeat illi prestare consilium, et cuiusmodi remedium adhibere.</p>
+                    <p>Interroget ergo in genere et de diuersis, uidelicet utrum peccauerit peccato superbie, gule, luxurie, et sic de aliis.</p>
+                    <p>Unde Augustinas: Diligens inquisitor et subtilis inuestigator sapienter et quasi astute interroget a peccatore id, quod forsan ignorat, uel uerecundia uult occultare.</p>
+                    <p>Cognito igitur crimine, uarietates eius non dubitet inuestigare, uidelicet locum, tempus, sexum, condicionem, causam, intencionem, personam, motum et alia necessaria, non tamen specificando nimium circumstancias, nec interrogando de inusitatis: ne querendo de illis, que confitens forsitan ignorat uel nunquam audiuit, in his instruatur et ad peccandum inducatur.</p>
+                    <p>Nam et secundum Gregorium loquendo, specificando et interpretando sepe culpa detegitur, quam nescit ipse qui confitetur.</p>
+                    <p>Sed nec inquirat, unde persona est, cum qua confitens peccauit.</p>
+                    <p>Querat eciam Sacerdos a confitente, utrum doleat de commissis, dicens ei, quod non gaudebit se conuersum, nisi doleat se fuisse peruersum; et an proponat ulterius non peccare, et penitenciam egere de commissis.</p>
+                    <p>Et si responderit, se a peccatis non posse abstinere et in aliquibus remanere, debet nihilominus Sacerdos confessionem eius audire et ei de peccatis cqnsilium prebere: prius tamen quam sibi consulat, ei patenter dicat, quod si quis quidquid habet pauperibus erogaret, et quamdiu uixerit, in pane et aqua ieiunaret et alia bona faceret, nihil sibi proficeret ad uitam eternam obtinendam, quamdiu deinde in peccato commisso remanserit, uel propositum et uoluntatem iterum committendi habuerit; nec eum ab aliquo peccato absoluat, nisi ab omnibus penituerit, et usi propositum habuerit, iterum non peccandi: ad quod toto posse et studio ipsum inducat.</p>
+                    <p>Quod si forte ipsum ad ueram penitenciam et confessionem inducere nequiuerit, prebeat ei de peccatis confessis consilium, dicens in hunc modum: Frater, dico tibi et consulo, quod ieiunes, ores, eleemosinas et alia bona facias; hec tamen tibi ad eternam uitam non sufficiunt obtinendam, quamdiu in peccato uel peccati manseris uoluntate; quia nihil prodest ieiunare, orare et alia religionis opera facere, nisi mens ab iniquitate reuocetur.</p>
+                    <p>Et secundum Isaiam irrisor et non penitens est, qui adhuc agit, quod penitet.</p>
+                    <p>Opera enim sine charitate apud Deum nec iusticiam nec innocenciam prestant.</p>
+                    <p>Talem tamen penitenciam facias, ut per hec bona et alia, que feceris, dignetur Dominus cor tuum ad ueram penitenciam illustrare.</p>
+                    <p>Et facta generali confessione: Confiteor Deo etc., non absoluat eum a peccatis, sed dicat ei, quod non recipiat corpus Christi, quamdiu in peccato commisso uel in uoluntate et proposito iterum committendi manebit.</p>
+                    <p>Prouideat tamen, quantum poterit, ne in desperacionis periculum illum inducat, sicut Iudei Iudam desperare fecerunt.</p>
+                    <p>Et quia contraria contrariis curantur, Sacerdos peccatori peccata confitenti et propositum ulterius non peccandi habenti suadeat et imponat penitenciam et correccionem per contrarium sibi correspondentem.</p>
+                    <p>Contra superbiam enim suadeat humilitatem et iniungat oracionem; contra auariciam eleemosinarum effluenciam; contra gulositatem ciborum abstinenciam et sobrietatem; contra luxuriam ieiunium et oraciones, peregrinaciones, disciplinas et alias carnis maceraciones: imponendo tamen semper iuxta persone condicionem penitenciam, quam poterit supportare, ne, si forte nimium aggrauetur, grauius peccet eciam iniunctam penitenciam infringendo.</p>
+                    <p>Nam secundum Ioannem Chrysostomum si erramus modicam penitenciam imponendo, melius est propter misericordiam talem dare, quam propter crudelitatem magnam infringi.</p>
+                    <p>Ubi enim paterfamilias largus est, dispensator non debet esse tenax.</p>
+                    <p>Et secundum Ambrosium melius est penitencias tales prestare pro misericordia, quam pretendere inclemenciam.</p>
+                    <p>Imposita ergo sibi penitencia, et facta generali confessione secundum Confiteor Deo etc. dicat sic: Iniungo tibi talem penitenciam seu satisfaccionem pro peccatis, que cum contricione confessus es; et ponens manum super caput eius dicat: Indulgenciam, absolucionem, et remissionem omnium peccatorum tuorum tribuat tibi omnipotens et misericors Dominus.</p>
+                    <p>Et ego auctoritate Domini nostri Iesu Christi, et beatorum Apostolorum Petri et Pauli, et officii mihi commissi, et auctoritate qua fungor, absoluo te ab his peccatis, que confessus es et contritus.</p>
+                    <p>Et dicat ei, quod si postmodum reduxerit ad memoriam aliqua peccata, que non sit confessus, redeat ad eum, ut ea confiteatur.</p>
+                    <p>Infirmis autem non est indicenda penitencia, sed solum innotescenda seu declaranda.</p>
+                    <p>Dicat enim Sacerdos infirmo, cuius peccata audiuit: Frater, si sanus esses, pro his peccatis, que confessus es, deberes tot annis, uel taliter penitere; sed quia infirmus es, nullam tibi iniungo ad presens penitenciam corporalem.</p>
+                    <p>Si autem de hac infirmitate te mori contigerit, facias dari tantum pauperibus, uel piis locis, uel tot missas celebrari, et similia loco predicte penitentie.</p>
+                    <p>Si uero conualueris, talem penitenciam facies.</p>
+                    <p>Et imponens manum super caput eius absoluat eum a peccatis, prout iam de sano dictum est.</p>
+                    <p>Quod si forte infirmus pro penitencia recipienda Sacerdotem petiit, uel aliqua signa penitentie ostendit, et prius, quam Sacerdos ueniat, ille obmutescit uel amens fit, Sacerdos postea ueniens, siue ad nutum infirmi siue ad testimonium eorum, qui illum penitenciam uel Presbyterum petentem uel alia signa penitentie facientem audiuerunt, debet ei impendere quicquid humanitatis et consolacionis potest, absoluendo ipsum et reconciliando, et oraciones dicendo, osculum crucis sibi dando, in cimiterio sepeliendo, et similia faciendo.</p>
+                </div>
+                <div>
+                    <head>Capitulum 110</head>
+                    <p>De penitencia iniungenda et inquisicione facienda.</p>
+                    <p>Caueat tamen Sacerdos omnino, ne aut uerbo speciali, ut dicendo: ego non sum fur uel adulter, quasi dicat: tu es talis; uel in generali, ut dicendo: scio, qualis tu es; aut signo, aut quolibet alio modo, fauore, odio, uel timore prodat uel reuelet peccatorem.</p>
+                    <p>Sed si forte super penitencia pro peccato iniungenda dubitauerit, et Episcopi uel alterius prudencioris consilio indiguerit, illud caute et generaliter sub aliis terminis absque alicuius persone expressione requirat.</p>
+                    <p>Alioquin deponetur, et in arctum monasterium ad agendum ibi perpetuam penitenciam detrudi debet.</p>
+                </div>
+                <div>
+                    <head>Capitulum 111</head>
+                    <p>De discrecione medicorum.</p>
+                    <p>Medicis corporum sub pena excommunicacionis precipimus, ut infirmos moneant et inducant, quod ante omnia medicos aduocent animaram, et postmodum ad corporalis medicine remedium salubrius procedatur.</p>
+                    <p>Eis insuper sub excommunicacionis pena prohibemus, ne pro corporali salute infirmis suadeant aliquid, quod in periculum sit animarum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 112</head>
+                    <p>De penitentiis et absolucionibus.</p>
+                    <p>Illud quoque notandum est, quod non remittitur peccatum, nisi restituatur uel emendetur ablatum, si restituendi uel emendandi facultas adsit.</p>
+                    <p>Non enim potest quis uere penitere, nec debet a peccato absolui, nec penitencia sibi indici, nisi prius restituat uel emendet rapinam, furtum, sacrilegium, incendium, usuram, uel res ex naufragio uel incendio habitas, seu quaslibet indebitas extorsiones, uel censum retentam preter uoluntatem domini, cui debetur, uel damna cuicumque contra iusticiam data, et generaliter cuiuslibet rei aliene scienter contra iusticiam debitam detencionem.</p>
+                    <p>In his siquidem omnibus et similibus Sacerdos debet precipere confitenti, ut statim satisfaciat iuxta posse; et si peccatum fuerit occultum, fieri debet occulte per ipsum Sacerdotem uel per alienam fidelem personam, suppresso nomine confitentis, restitucio seu emendacio.</p>
+                    <p>Si autem penitens non habet rem, quam restituere debet, nec bona mobilia uel immobilia, unde statim satisfacere possit; uel habet seu potest, is tamen cui restitucio facienda est, presens non est nec esse potest, et confitens apparens uere penitens et contritus, proponens firmiter cum poterit satisfacere, sibi penitencia iniungatur, et si sit infirmus, precipiat heredibus, ut, si mori eum contigerit, de his plene satisfaciant pro eodem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 113</head>
+                    <p>De restitucionibus in confessionibus faciendis.</p>
+                    <p>Omnibus autem penitentibus, sanis uel infirmis, qui aliis tenentur aliquid restituere, non excusantur precipiendo heredibus suis, quod restitucionem faciant uel emendant, nisi ipsimet in toto uel in parte statim restituant et emendant, si hoc commode facere possint.</p>
+                    <p>Tenetur enim aliene rei detentor et eciam eius heres ad restitucionem, in quantum illius hereditas sufficere potest.</p>
+                    <p>Facienda est autem restitucio domini rei uel heredibus eius, si inueniri possint ab his, qui bona huiusmodi habuerant seu damna intulerant, uel heredibus eorum.</p>
+                    <p>Sed si diligenter inquisiti et congruo tempore expectato non inueniantur, sed qui, et ubi sint, ignoratur: tunc cum consilio Sacerdotis res illa in pias causas, presertim in pauperum sustentacionem distribuatur pro illius anima, cuius fuit; fiatque precipue distribucio in pias causas et in pauperes illius loci et territorii, in quo res reperta uel capta seu damnum datum fuit.</p>
+                    <p>Si uero scitur persona, cui est emenda seu restitucio facienda, agit tamen in remotis partibus, nec speratur quod debeat redire, mittatur ei, si fieri possit commodo et secure, uel pro eo reseruetur.</p>
+                    <p>Quod si non uenerit, sed mortuus fuerit, pro anima eius cum consilio ecclesie pauperibus erogetur.</p>
+                    <p>Et hoc, si res restituenda modica sit.</p>
+                    <p>Si uero magni ualoris, debet mitti illi ad expensas detentoris.</p>
+                    <p>Uel si res uel summa modica est, et debitor inops sit, ei relinquatur, ut pro anima illius oret.</p>
+                    <p>Qui pecuniam aut aliam rem in via uel alibi inuenit, tenetur eam reddere illi, qui eam perdidit, si eum poterit inuenire.</p>
+                    <p>Sed si nescitur, cuius fuerit, uel forte scitor, et inueniri non potest, publicetur hoc per Sacerdotes uel precones in ecclesia uel in loco, ubi inuenta est.</p>
+                    <p>Et si diu expectatus non inuenitur, cuius fuerit, erogetur cum consilio ecclesie pauperibus illius loci pro illius anima, cuius fuit; et si modica sit res uel summa inuenta, et inuentor egenus, iuxta persone et rei qualitatem sibi concedi potest, ut eam pro eleemosina sibi retineat, et pro anima, cuius fuit, oret.</p>
+                    <p>Confessor uero, qui debet scire et discernere quidquid habet iudicare, quoniam nemo bene indicat quod ignorat, noscere debet, quod quando plures in rapinis faciendis simul concurrant, quilibet a se occupata restituere tenetur; dum tamen in occupacionibus per alios factis culpabilis non existat.</p>
+                    <p>Si enim culpabilis fuerit, quia forte aliis ut raperent consuluit; tunc eius dolo et consilio damnum datum sit in solidum, in quantum facere potest, tenetur, precipue in foro conscientie.</p>
+                    <p>Sed et si rapinam passus aduersus raptores et consiliarios rapine accusaciones seu acciones suas ex iusta uel iniusta causa exercere non uult, tamen ei satisfaciendum est, nisi forte ipse spoliatus raptori, qui primo et principaliter tenebatur, et qui res habuerit, liberaliter remiserit: quo casu est consiliarius, qui nihil hahuit, liberatus.</p>
+                    <p>Sed si consiliarius a rapinam passo est absolutus, non ideo alii, ad quos res peruenerint, liberantur, nisi illos expresse intellexerit liberare.</p>
+                    <p>Ceterum si non dedit quis consilium de rapina facienda, iuit tamen cum raptore, non ut ad rapinam, quam dissuasit, iuuaret, sed ut raptorem, ne ab aliquo ledi posset, defenderet: tunc si nulla res ablata est, ad nullius rei restitucionem tenetur; sed si raptor aliqua abstulerit, bene tenetur; quia etsi non consilium, opem tamen ad rapinam dedit.</p>
+                    <p>Quod uerum est, si raptor sine eo res apportare nequiuisset; quod si potuisset, iste non tenetur.</p>
+                    <p>Si uero raptor nihil abstulit, sed alias damnum intulit, tunc nullo modo tenetur, qui rapinam dissuasit, licet ad hoc, ut raptorem defenderet, iuerit.</p>
+                    <p>Si tamen raptor nullo modo iuisset, nisi eius habuisset comitatum, bene tenetur: quia etsi uerbo dissuaserit, opem tamen dedit, et facto consuluit.</p>
+                    <p>Generaliter autem restitucio facienda est, qualitercumque in alterius, cuius interest, preiudicium acquisitum sit: puta quia damnum per iniuriam datum est.</p>
+                    <p>Ubi uero nullius interest, tamen alias illicite acquisitum est, ita quod absque peccato retineri non potest: ut sicut aliqui dicunt in his, que excommunicatus acquirit, et eciam ubi alicuius interest, nescitur tamen quis, uel ubi ipse uel eius heres sit; tunc quidem de consilio confessoris esi lotam pauperibus erogandum, uel eidem, si egeat, ul premittitur, relinquendum.</p>
+                    <p>Facienda est enim restitucio eius, quod quis per furtum, rapinam, oppressionem, dolum, uel calumniam acquiuisit, ut per hoc omnes casus comprehendamus, in quibus siue per accusaciones, siue iudicis officio competit repeticio.</p>
+                </div>
+                <div>
+                    <head>Capitulum 114</head>
+                    <p>Item de restitucionibus.</p>
+                    <p>Tenetur enim quis restituere, quod alteri debitura est, siue iure naturali et civili, siue naturali tantum: quale illud est, quod seruo debetur.</p>
+                    <p>Si uero iure civili tantum debitum sit, ut si heres credens hereditatem ad omnia sufficere, soluit integre legatum, de quo poterat falsidiam detrahere legatarius quidem illud ei restituere tenetur: quamuis quidam contradicant, pro eo quod falsidiam detrahere equum est, super qua equitate lex facta est.</p>
+                    <p>Et idem uidetur in eo, qui scripsit, se pecuniam spe future numeracionis debere, qui tamen nihil in ueritate accepit, quia licet biennium, post quod excepcio non numerate pecunie non competit, lapsum sit, non tamen tenetur in foro conscientie reddere seu dare aliquid illi creditori, ad quod iure civili teneretur propter excepcionem admissam.</p>
+                    <p>Item hipocrita, qui sub specie boni Christiani multa quesiuit recipiendo in se execuciones testamentorum, uel alias, ea restituere tenetur, que per fraudem quesiuit: sed forte non illi, qui dedit, quia mercedem suam iam consecutus est: sed faciet sibi amicos de mammona iniquitatis, in pios usus talia conuertendo.</p>
+                </div>
+                <div>
+                    <head>Capitulum 115</head>
+                    <p>De eodem.</p>
+                    <p>Sane restituisse seu satisfecisse quis uidetur, qualitercumque satisfecerit, eciam si re non restituta is, cui restitucio seu emenda facienda erat, paccionibus minime precedentibus, ex corde sibi donauit uel remisit; dum tamen sit persona talis, que donare uel remittere possit: quia satisfacere est ad creditoris uoluntatem facere.</p>
+                </div>
+                <div>
+                    <head>Capitulum 116</head>
+                    <p>De eodem.</p>
+                    <p>Ceterum si is, qui ad restitucionem tenetur, euidenter omnino non soluendo factus est, tunc iuxta premissa sufficit contricio cum proposito reddendi, quando commode poterit: quia eius, qui nihil habet, nihil periculo esse potest, et Deus cor interrogat, lex autem opera querit.</p>
+                    <p>Si autem confessor dubitat, an ille sit adeo pauper, ut diximus; tunc consulat ei, ut bonis cedat; quod si fecerit, satis est; tunc est eius nota paupertas.</p>
+                    <p>Sed et quamuis bonis cedat, nihilominus debet illi iniungere penitenciam salutarem.</p>
+                    <p>Quod et facere debet, eciam si plene solueret seu satisfaceret.</p>
+                    <p>Talis namque duos offendit, scilicet Deum, qui precipit: Non furtum facias, in quo omnis iniusta et illicita aliene rei occupacio siue acquisicio prohibetur.</p>
+                    <p>Quia eciam dixit: Diliges proximum tuum sicut temetipsum.</p>
+                    <p>Et iterum: Non concupisces rem proximi tui.</p>
+                    <p>Unde pro transgressione diuini precepti iniunget illi penitenciam salutarem, per quam Deo satisfaciat.</p>
+                    <p>Offendit eciam proximum, rem illius illicite, contractando aut sibi quomodolibet iniuriam erogando.</p>
+                    <p>Unde ad restitucionem seu satisfaccionem si facultas adsit, uel si non adsit, saltem ad cedendum bonis tenetur, et alteram istorum reliquum non excludit.</p>
+                    <p>Unde non sufficit restitucio [3] seu satisfaccio uel cessio, nisi penitencia, per quam Deo satisfiat, sequatur.</p>
+                    <p>Si uero omnino soluendo non est, sed uel in parte uel in toto soluere potest, non tamen commode et sine periculo sustentacionis sue aut uxoris aut familie, tunc confessor debet illum ad ueram contricionem et penitenciam inducere, dicens ei: Fili, restitue quod potes, ut sic penas infernales euites, et cum Deo in coelis eternaliter glorieris.</p>
+                    <p>Et ponat secundum Augustinum ante oculos eius iudicium Dei: terreat eius conscienciam, et persuadeat penitenciam.</p>
+                    <p>Et si nolit restituere nec conteri, non potest sibi penitencia, sed solum consilium iuxta premissa impendi.</p>
+                    <p>Si uero ad contricionem et penitenciam potest induci, tunc dicat illi, quod statim uel infra certum tempus, quidquid commode emendare potest, emendet, et de reliquo ab eo, cui satisfieri debet, ueniam postulet humiliter et deuote; quam si obtinere potest, bene est: alioquin componat seu ordinet cum ipso, ut cum eius uoluntate paulatim singulis annis et mensibus emendet, quod poterit, donec fuerit plene satisfactum, moderata tamen uite sustentacione sibi et familie reseruata.</p>
+                    <p>Quod si forte plures sunt, quibus satisfacere uel emendare debet, quorum aliqui dilacionem concedere aut in totum remittere uolunt, alii non: tunc confessor consulat illi, ut ad iudicem fori contenciosi accedat, qui uocalis omnibus stabit iudicio maioris partis.</p>
+                    <p>Hec autem maioritas in hoc casu intelligitur tam respectu ciuilis debiti quam et respectu numeri personarum.</p>
+                    <p>Si uero ad omnia paria sint, preferenda quedam erit humanior sentencia, scilicet illorum, qui in concedenda dilacione consentiunt, nec quantum ad hoc interest inter hipothecarios et chirographarios creditores.</p>
+                    <p>Si autem nullam potest misericordiam inuenire, tunc tenetur statim soluere uel bonis cedere: quia talis peccator semper est in mora, presertim ubi is, cui restitucio seu emenda fieri debet, multum et periculose eget.</p>
+                    <p>Iura tamen reis condemnatis quadrimestre tempus ad soluendum concedunt.</p>
+                    <p>Ubi autem non est tanta et tam periculosa creditoris egestas, nec ipse induci potest ad dilacionem aliquam concedendam, nec eciam debitor ad statim emendandum et restituendum: sunt qui dicunt, quod tunc Sacerdos potest suam conscienciam informare ex eo, quod intendit utiliter agere negotium creditoris.</p>
+                    <p>Si enim uidet, quod creditor non potest aliter in perpetuum uel non ita cito, aut non ita commode suum recuperare, potest penitenti, recepto ab eo iuramento et alia idonea caucione, si quam prestare potest, moderatam dilacionem ad soluendum concedere, et sub condicione, scilicet quod si hic infra diem statutum adimpleuerit, absoluere; ut sic creditor sibi debitum recuperet, et ille in desperacionem non incidat: quamquam rigor iuris positiui aliud suadeat in hoc casu.</p>
+                </div>
+                <div>
+                    <head>Capitulum 117</head>
+                    <p>De restitucionibus.</p>
+                    <p>Nemini licet furari furi uel raptori, usurario uel auaro rem furtiuam uel raptam, ut ipse ex ea eleemosinam faciat, quia non sunt facienda mala, ut eueniant bona: aufert enim illi facultatem restituendi rem, qui ad eam tenetur.</p>
+                    <p>Nec rapinam seu furtum iustificat, eo quod raptor largas ex inuasa re eleemosinas facit, imo species furti est uelle de alieno largiri.</p>
+                    <p>Qui rem aliquam sibi ad certum usum recipit commodatam, eam alteri commodando furtum committit.</p>
+                    <p>Sed et creditor, qui re sibi obligata utitur, inscio debitore, committit furtum; quo casu ad estimacionem usus, eciam re domino restituta, tenetur.</p>
+                    <p>Illud eciam notandum est, quod si circa illicite acquisitorum restitucionem ambiguitas oritur, aut si res uel summa, que restitucioni subiacet, magna est, tunc erit nostrum et Episcoporum consilium expectandum.</p>
+                    <p>Item adhuc statuimus, quod Sacerdos damna data seu fore facta sibi a confitentibus, ut aliis restituant, assignata restituere non differat, nec sibi retinere presumat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 118</head>
+                    <p>De suspensis et excommunicatis.</p>
+                    <p>Illud quoque pretereundum non est, quod qui excommunicatus, uel ab homine suspensus, uel aliter absque titulo canonico ecclesiasticum beneficium recipit; si saluari desiderat, omnia inde recepta ecclesie restituat, et beneficium dimittat, nisi cum eo per Sedem Apostolicam fuerit dispensatum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 119</head>
+                    <p>De guerra iniusta.</p>
+                    <p>Item declaramus et denunciamus, quod quicumque dominum temporalem uel aliquem potentem inducit ad guerram iniuste mouendam, uel predam faciendam, in solidum ad restitucionem tenetur.</p>
+                    <p>Ceterum si duo facientes principaliter guerram pacificantur ad inuicem, et damna hinc inde data remittant: talis quidem remissio non extenditur ad homines et subditos eorum, nisi de expresso illorum consensu sit facta remissio.</p>
+                    <p>Imo est eis emenda et restitucio facienda.</p>
+                    <p>Nam et ab illis non possent ipsi domini, guerra non existente, sine rapina extorquere tantumdem, uel nisi pax forsan aliter fieri non possit.</p>
+                    <p>Nam tunc utiliter geratur partis negotium utriusque.</p>
+                </div>
+                <div>
+                    <head>Capitulum 120</head>
+                    <p>De assessoribus et aduocatis.</p>
+                    <p>Assessores quoque et aduocati incitantes et inducentes ex certa sciencia et contra conscienciam iudicem ad iniuste iudicandum, in solidum ad restitucionem tenentur: quia qui occasionem damni dat, damnum dedisse uidetur.</p>
+                    <p>Si uero iudex simplex est et iudicat secundum conscienciam, deceptus tamen consilio assessoris bona fide electi, qui communiter iustus et peritus credebatur, excusatus est, et assessor tenetur.</p>
+                    <p>Tenentur eciam iudex et assessor ad restitucionem, si se scientes imperitos se de iudicando et assedendo intromittant; quoniam culpa est immiscere se rei ad se non pertinenti, et talem assessorem eciam scienter eligens in culpa est.</p>
+                    <p>Rursus assessor percipiens certum salarium, et ultra illud aliquid extorquens, ad restitucionem tenetur.</p>
+                    <p>Alii uero inferiores officiali et nuncii siue missi et similes, si certum salarium percipiunt et ultra illud aliud extorquent, ad restitucionem tenentur.</p>
+                    <p>Si uero certum non recipiunt salarium, et ultra debitum modum et loci modum aliquid per vim uel immoderatam improbitatem extorquent, tunc quidem licet ad restitucionem non teneantur, debent tamen tanquam de improbe acquisito eleemosinas facere.</p>
+                    <p>Prohibitus aduocare, ut religiosus, beneficiatus, et in sacris constitutus, in certis casibus si aduocare presumit, licet non cogatur salarium ei, a quo percepit, restituere, quia eius non interest, ex quo ille in aliqua culpa amissionis cause non fuit, tenetur tamen iuxta Sacerdotis consilium illud in pias causas elargiri.</p>
+                </div>
+                <div>
+                    <head>Capitulum 121</head>
+                    <p>De eodem.</p>
+                    <p>Si uero per cauillaciones et malicias suas aduersario aduocatus iustam causam abstulit, uel ipsum grauauit contra conscienciam, allegando seu posicionem duplicem uel capciosam faciendo, uel falsum testem instruendo, uel clientulum suum ad uerum negandum inducendo, uel litem ex industria protrahendo, et similia; tunc in solidum illi ad uerum interesse tenetur.</p>
+                    <p>Quod si propter eius ignoranciam uel negligenciam clientulus suus causam amiserit, tenetur illi non solum salarium extortum, uerum et damnum litis restituere.</p>
+                    <p>Nam impericia culpe annumeratur.</p>
+                    <p>Uerum quamquam liceat ei uendere iustum patrocinium et iurisperitorum consilium, pauperi tamen gratis consulere debet, si absque magno labore et studio respondere potest: ut sicut gratis accepit, ita et gratis det.</p>
+                </div>
+                <div>
+                    <head>Capitulum 122</head>
+                    <p>De testibus corruptis.</p>
+                    <p>Testis corruptus ad restitucionem damni ei faciendam tenetur, qui propter eius falsum testimonium causam suam amisit.</p>
+                    <p>Si uero receperit premium propter uerum testimonium dicendum, tunc quod percepit, iuxta Sacerdotis consilium, in pios usus erogare tenetur.</p>
+                    <p>Idem est de iudice, recepta pecunia, iustam sentenciam proferente.</p>
+                    <p>Testis tamen et iudex delegatus sumptus moderatos et assessor competens salarium licite recipere possunt.</p>
+                </div>
+                <div>
+                    <head>Capitulum 123</head>
+                    <p>De accusantibus et denunciantibus crimina.</p>
+                    <p>Accusatores et denunciatores criminum, hoc calumniose agentes, ad illati damni restitucionem tenentur.</p>
+                    <p>Sed et qui ex odio, non ex charitate denunciant uel accusant, penitenciam inde agere debent.</p>
+                    <p>Tales et ad restitucionem non solum pecunie seu damni, uerum eciam fame tenentur: ne si forte uel per se uel per alios aliquam cantilenam dixerint, uel libellum famosum scripserint seu legerint, uel fame et honori illius detraxerint in locis illis, in quibus sciunt illum fore ex premissis infamatum, profiteantur publice, se mentitos esse; ubi autem a diuersis et super diuersis infamatus est, tunc arbitrio infamati uel saltem iudicis se super hoc purgent, ueniam insuper ab eo super hoc postulantes.</p>
+                    <p>Deteriores siquidem sunt, qui aliorum uitam, mores famamque corrumpunt, quam ii qui aliorum substancias prediaque diripiunt.</p>
+                </div>
+                <div>
+                    <head>Capitulum 124</head>
+                    <p>De prauis constitucionibus contra iura et Euangelia.</p>
+                    <p>Constituciones quoque contra salutem anime edite seruande non sunt, imo conditores earum et statutorum iniquorum, que sunt contra ius naturale, quod in Lege et in Euangelio continetur, et in ecclesiarum preiudicium et contra ecclesiasticam libertatem, et eorum consiliarii et scriptores et secundum ea iudicantes et ea obseruantes et exequentes ad restitucionem damni ex hoc secuti in solidum, in quantum facere possunt, obligantur.</p>
+                    <p>Idemque est, si fiat contra ius positiuum ad pauperes opprimendos et iusticiam impediendam; et insuper leges ipse et statuta ipso iure non tenent.</p>
+                </div>
+                <div>
+                    <head>Capitulum 125</head>
+                    <p>De lucris inhonestis.</p>
+                    <p>Usurarii et alii inhonesta et prohibita lucra exercentes ad restitucionem eorum tenentur: quicquid autem sorti accidit, usura est.</p>
+                    <p>Unde scriptum est: Mutuum dantes, nihil inde sperantes.</p>
+                    <p>Sed nec ab infideli usuras recipere licet.</p>
+                    <p>Si quis tamen receperit, satisfaciat inde auctoritate ecclesie illis christianis, a quibus forsan ille infidelis usuras extorserat, uel quibus est aliter obligatus, uel in ede sacra ad hoc faciendum deponat, et taliter liberatur.</p>
+                    <p>Quod si usurarius multa de fenore lucratus est, de rigore iuris eciam talia lucra restituere tenetur, sicut et fur et raptor, inter quos enumeratur.</p>
+                    <p>Quia tamen, qui nimis emungit, sanguinem elicit; uidetur nobis, prout et sapientibus uisum est, in hoc casu sufficere debitori, si sortem et sumptum et moderatura interesse duntaxat, et non talia lucra omnia recuperet, quia hoc esset suum repetere cum usuris.</p>
+                    <p>Cautum tamen est, quod, post talem restitucionem, remissionem de talibus lucris ab illo postulet debitore.</p>
+                    <p>Ceterum uxor, filii et familiares usurarii, furis et raptoris de talibus lucris comedentes et induentes, et unde uiuant aliunde non habentes, excusari uidentur, si tamen peccato non consentiunt, sed potius illum ad restituendum et se corrigendum inducunt: quod uerum est, si sit spes uerisimilis de illius correccione; et utantur cum moderamine tali, ut super hoc non subtrahatur illi in totum et in magna parte restituendi facultas.</p>
+                    <p>Si enim nulla sit spes de eius correccione, tunc illi, si sunt eis aliqua bona separata, de eis uiuant: alioquin sibi querant uictum a consanguineis uel amicis, et potius mendicare debent ostiatim, quam de talibus uiuant.</p>
+                    <p>Quia potius debent omnia mala pati, quam tali et tanto malo consentire.</p>
+                    <p>Si autem uir crudelis non permittit uxorem de alio comedere, nihilominus tamen uiuat de dote sua seu sponsalicio, si quod habet: et si non habet hoc, denunciet amicis uel Episcopo, ut illum compescant; quod si nulla monicione compesci poterit, comedat cum cordis dolore potius quam fame moriatur: nam et talis necessitas a pena furti excusat, et quam citius commode poterit, restituat et ad cautelam penitenciam agat.</p>
+                </div>
+                <div>
+                    <head>Capitulum 126</head>
+                    <p>De questis et talliis.</p>
+                    <p>Circa questas, collectas seu tallias sciendum est, quod si dominus in concessione rei sue instituit, quod possit talliare homines et colonos, hoc licite facere potest, imo colonus de hoc aliquid ex certa sciencia retinens uel subtrahens uel celans, ad restitucionem tenetur: dum tamen antiqua et solita tallia fiat, et talis eciam que scitur et probabiliter creditur, quod ab inicio ex iusta causa fuerit imposita.</p>
+                    <p>Uerumtamen si non fuerit dictum, quota tallia fiat, sed in concessione rei fuit indeterminate, dictum, quod dominus in tali homine uel cassamento possit talliam facere; intelligendum est de moderata tallia, considerata hominis facultate et cassamenti qualitate.</p>
+                    <p>Si uero dominus immoderate extorsit, debet ad restitucionem per Sacerdotem induci.</p>
+                    <p>Sed si colonus non exactus tacite uel expresse absque domini dolo et fraude aliquid ultra domino offert, dominus gratis recipiens restituere non tenetur: secus tamen est, si uiolenter aut minis uel terroribus extorsit.</p>
+                    <p>Quod si forte ipse et eius predecessores tot exegerint ab hominibus suis, quod, si uenderet quidquid haberet, restituere non posset: tunc consulat ei Sacerdos, ut remittat hominibus in recompensacionem aliquam seruitutem, uel aliquos census, ad quos ei forte tenentur; uel concedat eis aliquam libertatem, uel construat hospitale, uel aliquid aliud pium agat, cum consensu damna passorum seu successorum illorum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 127</head>
+                    <p>De facientibus eleemosinam de alieno.</p>
+                    <p>Circa facientes eleemosinam de alieno seu de illicite acquisito uolumus omnes scire, quod si aliquis habet aliena bona, ad restitucionem tenetur.</p>
+                    <p>Puta, qui habuit ex iniusto bello, uel ex furto, uel rapina, uel simonia, uel usura, uel ex naufragio, uel ex iniusto pedagio, uel ex iniustis talliis, uel vi uel metu extorsit, uel in ludo causa cupiditatis acquisiuit, uel iudex, uel assessor, seu officialis aliqua indebite acquisiuit.</p>
+                    <p>In his quidem et similibus casibus, si sunt notorii, quibus quis ad restitucionem tenetur, eleemosina uel personalis decima a tali dari uel recipi non debet.</p>
+                    <p>Si uero ad restitucionem non tenetur, puta quia in histrionatu uel similibus acquisiuit: ex taliter quidem acquisitis eleemosina uel personalis decima et dari et recipi possunt.</p>
+                    <p>Nam licet tales turpiter agant, non tamen turpiter recipiunt.</p>
+                    <p>Sed et ubi ad restitucionem aliquis non tenetur, si tamen ex notorio peccato prouenit, ecclesia recipere non debet, ne peccatum approbare uideatur: secus si occultum sit, quamuis Prelatus hoc sciat.</p>
+                    <p>Regulariter autem quicumque ex illicita negociacione uel aliter sine calumnia aliquid acquirit, quod tamen iuxta premissa restituere non tenetur, prudenter agit, si illud in pios usus eroget de sui consilio confessoris: non damnamus tamen eum, si suis heredibus talia relinquit.</p>
+                    <p>De eo uero quod restitucioni subiacet, eleemosina fieri non debet: nam species furti est, uelle, ut prediximus, de alieno largiri; nec debet quis male acquirere, ut bene dispenset.</p>
+                    <p>Nam abominabiles sunt hostie, que ex scelere offeruntur.</p>
+                    <p>Religiosi autem et Clerici, administracionem habentes, possunt eleemosinam et oblacionem facere, quinimo quidquid eis superest, tenentur pauperibus erogare: quoniam quicquid habent Clerici pauperum est, nisi forte suis superioribus uel ecclesiis illud ex debito restituere teneantur.</p>
+                    <p>Pari quoque racione hoc licite facere possunt in studio uel peregrinacione de suorum Abbatum seu Prelatorum licencia speciali existentes.</p>
+                    <p>Religiosus tamen claustralis cuiuscunque religionis proprio carens, nullam administracionem uel officium habens, quia nec proprium nec eciam uoluntatem habendi habere debet, eleemosinam uel oblacionem facere non potest, nisi forte cum Abbatis uoluntate de communibus rebus hoc faciat, uel nisi forte hominem ad mortem esurientem uideat: tunc enim licencia summi Abbatis, scilicet Dei, omnia sunt communia, id est, communicanda, iuxta illud: Pasce fame morientem, quoniam si non paueris, occidisti.</p>
+                    <p>Uxor quoque de rebus paraphernalibus, id est, suis propriis, potest eciam uiro inuito eleemosinas et oblaciones facere.</p>
+                    <p>Sed et de bonis uiri de illius licencia et permissione hoc indistincte facere potest et debet: quinimo de pane, uino et similibus, que de laudabili et approbato more quasi ubique ad uxoris dispensacionem pertinere solent, eciam sine illius expressa licencia, moderate tamen, hoc facere potest, informans sibi conscienciam, quia uir eius hoc ratum habere debeat, eciam si aliquando hoc leuiter, aut ad terrorem forte, ne immoderate effundat, prohibuerit.</p>
+                    <p>Informans eciam sibi conscienciam ex pauperis qualitate, credens, quod si uir illum uideret, idipsum faceret.</p>
+                    <p>Si autem omnino credat, hoc uiro displicere, nec aliquo modo ualeat suam conscienciam informare, nullatenus cum illius scandalo det.</p>
+                    <p>Quod uero de rebus uiri diximus, idem eciam de dotalibus, quarum maritus dominus est, intelligi debet.</p>
+                </div>
+                <div>
+                    <head>Capitulum 128</head>
+                    <p>Item de facientibus eleemosinam.</p>
+                    <p>Filius familias de castrensi et quasi castrensi peculio, nam quantum ad illa paterfamilias censetur, eleemosinam et oblacionem licite facere potest: de aduenticio uero et profecticio sine patris licencia uel permissione id agere nequit, nisi in casibus illis, in quibus de iure donare potest.</p>
+                </div>
+                <div>
+                    <head>Capitulum 129</head>
+                    <p>De indulgentiis eundo et redeundo cum Corpore Christi.</p>
+                    <p>Quando Corpus Domini defertur ad infirmum uel refertur, omnes fideles illud deuote et reuerenter flexis genibus eundo et redeundo adorent.</p>
+                    <p>Nos autem omnibus uere penitentibus ac humiliter confessis ipsum Corpus Christi associantibus quadraginta dies de iniunctis sibi penitentiis misericorditer relaxamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 130</head>
+                    <p>De delictis monachorum et monacharum.</p>
+                    <p>Item sub pena excommunicacionis firmiter inhibemus, ne monachi seu moniales pro delictis ab eis commissis prebendis suis priuentur, sed in suis monasteriis recipiantur, in quibus puniantur et corrigantur, considerata qualitate delicti, secundum regulares obseruancias et alias, prout secundum Deum et iusticiam Superioribus et Prelatis eorundem monasteriorum uidebitur expedire.</p>
+                </div>
+                <div>
+                    <head>Capitulum 131</head>
+                    <p>De excommunicacione.</p>
+                    <p>Item cum nullus excommunicari debeat, nisi pro peccato mortali et contumacia, de qua dubitandum non est, quin peccatum mortale existat: precipimus sub pena excommunicacionis, quod omnes Presbyteri moneant publice in suis ecclesiis et inducant parochianos suos, ut, cum super excommunicacionibus in eos latis fuerint per militantem Ecclesiam absoluti nihilominus confiteantur et conterantur de peccato contumacie uel inobedientie, pro qua excommunicati fuerunt: hoc enim eis expedit ad salutem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 132</head>
+                    <p>De edificiis religiosorum mendicantium.</p>
+                    <p>Item sub pena excommunicacionis omnibus religiosis mendicantibus utriusque sexus, cuiuscumque religionis existant, nostre ciuitatis, diocesis et prouincie firmiter inhibemus, ne extra sua monasteria et claustra nouas mansiones sibi appropriare, seu noua edificia ad usus suos construere presumant, sine nostra et Episcoporum locorum licencia speciali; nisi hoc eis a Sede Apostolica specialiter sit indultum: super quo nobis et locorum Ordinariis fidem facere teneantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 133</head>
+                    <p>De decimis noualium.</p>
+                    <p>Item cum sicut decime de iure communi ad parochiales ecclesias pertineant, omne dubitacionis scrupulum amouentes declaramus, quod omnium noualium decime eciam ad easdem ecclesias parochiales pertinent pleno iure.</p>
+                    <p>Nullus itaque huiusmodi noualium decimas contra uoluntatem Presbyterorum parochialium sibi appropriare seu retinere presumat, nisi super hoc Sedis Apostolice priuilegio sit munitus.</p>
+                    <p>Et ut quid sit nouale singulis innotescat, omnes scire uolumus, nouale esse agrum seu quodcumque predium de nouo ad culturam redactum, de quo non extat memoria, quod aliquando cultus seu cultura fuerit.</p>
+                    <p>Priuilegiaque super huiusmodi noualibus religiosis concessa, non de quolibet tali nouali intelligenda credimus fore, sed de illo dumtaxat, cuius decimam religiosus potest conuentus absque graui detrimento ecclesie parochialis detinere, cum talis sit sepe locus incultus, de quo parochialis ecclesia magnos percipit decimarum racione prouentus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 134</head>
+                    <p>De notariis et tabellionibus publicis.</p>
+                    <p>Item sub pena excommunicacionis late sententie omnibus auctoritate imperiali notariis et tabellionibus precipimus, ut quandocumque in causis spiritualibus et ecclesiasticis eos conficere instrumenta contigerit, super eisdem instrumentis conficiendis prius recipiant protocolla, que penes se dimittant in chartis, ut ex hoc per eos in essencialibus nil mutetur: et quia qui male agit, odit lucem, statuimus, ut iidem tabelliones non occulte in priuatis domibus, sed publice in loco publico huiusmodi protocolla et creanta super conficiendis ab eis instrumentis recipiant, adhibitis ad minus duobus testibus fide dignis, nisi contractus, super quo eadem debent confici instrumenta, talis sit, quod de consensu partium contrahentium usque ad certum tempus uel ad uoluntatem eorundem contrahentium teneri debeat in secreto.</p>
+                </div>
+                <div>
+                    <head>Capitulum 135</head>
+                    <p>De recepcione statutorum.</p>
+                    <p>Item in uirtute sancte obedientie omnibus Suffraganeis nostris et eorum uices gerentibus firmiter precipimus, ut hec statuta salubria recipiant infra mensem, et ea in suis Synodis episcopalibus uel alias quam primum poterant, congregatis omnibus ecclesiarum sibi subditarum Prelatis et rectoribus ac uicariis et personis ecclesiasticis utriusque sexus, eis publice legere et intimare procurent, ac deinceps annis singulis in perpetuum in suis Synodis eadem statuta prouincialia recommendari faciant, ea ex abundanti precipientes et innouantes in eisdem Synodis ab omnibus obseruari.</p>
+                    <p>Et insuper omnium ecclesiarum cathedralium, collegiatarum et monasteriorum tam monachorum quam monialium, ac prioratuum Prelati, Abbates et Abbatisse et Priores, nec non archipresbyteratuum seu decanatuum Archipresbyteri seu Decani quam primum commode poterunt sub pena excommunicacionis copiam de huiusmodi statutis prouincialibus cum suis moderatis expensis recipiant, ut de eis rectoribus et uicariis ecclesiarum ac aliis personis ecclesiasticis prefati Archipresbyteri seu Decani in suis archipresbyteratibus et decahatibus fiat copia in tantum, quod modis omnibus sub pena predicta omnes persone predicte ecclesiastice nostre ciuitatis, diocesis et prouincie eadem statuta habeant penes se infra instantem natiuitatem Domini.</p>
+                </div>
+                <div>
+                    <head>Capitulum 136</head>
+                    <p>Ut Presbiteri bis in anno statuta legant.</p>
+                    <p>Et quia dilacio temporis obliuionem inducit, sub pena excommunicacionis late sententie omnibus Archipresbyteris et decanatuum Decanis, et parochialibus Presbyteris precipimus, ut iidem Decani in suis decanatibus congregatis omnibus Presbyteris suorum decanatuum annis singulis, certa die uel diebus eadem statuta relegant, ut super eis plenius instruantur.</p>
+                    <p>Presbyteri autem saltem bis in anno statuta eadem integraliter legant et uideant, in quantum parochianos suos tangunt et super eis instrui possunt, ipsa statuta in suis ecclesiis eciam semel in anno una die si fieri potest, uel pluribus in uulgari publicent et exponant, prout melius poterunt secundum scienciam a Deo eis datam, ut nemini in nostra ciuitate, diocesi et prouincia lateant ea, que in nostro prouinciali Concilio sunt tam salubriter instituta.</p>
+                </div>
+                <div>
+                    <head>Capitulum 137</head>
+                    <p>De potestate Suffraganeorum.</p>
+                    <p>Postremo uenerabilibus fratribus nostris Episcopis suffraganeis nostre prouincie committimus, cuilibet in sua ciuitate et diocesi, plenariam potestatem absoluendi suos subditos ab omnibus predictis sententiis per nos latis, si quas incurrerint: ita tamen quod prius satisfecerint de commissis, iisdem statutis semper in suo robore duraturis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 138</head>
+                    <p>De indulgentiis concessis a Domino Balduino Archiepiscopo Treuirensi.</p>
+                    <p>Item omnibus subditis nostris Presbyteris ciuitatis, diocesis et prouincie nostre Treuirensis uere penitentibus et confessis, qui quolibet mense uel sepius unam missam celebrauerint de Sancto Spiritu, et aliis personis ecclesiasticis et secularibus preces Deo deuotas et oraciones et precipue oracionem dominicam cum salutacione Uirginis gloriose erga Deum pia deuocione effuderint pro statu pacifico imperii et regni et personarum piissimi principis, charissimi Domini et fratris nostri Henrici Dei gracia Romanorum Regis semper Augusti, et serenissime Auguste Domine Margarethe felicissime coniugis sue, que sibi a Deo data est, et ut Deus ipsos et nos ab omnibus aduersis protegat et defendat, progressusque eorum et nostros ad laudem Dei de uirtute in uirtutem dirigat et prosperari faciat: quadraginta dies, quoties dictam missam celebrauerint, et predictas preces effuderint, de iniunctis sibi penitentiis misericorditer relaxamus.</p>
+                    <p>Et hoc Presbyteri in suis ecclesiis, quam primum commode poterunt, non differant omnibus intimare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 139</head>
+                    <p>De potestate reseruata Archiepiscopo.</p>
+                    <p>Et insuper scire uolumus uniuersos, quod nos Balduinus predictus Treuirensis Archiepiscopus nobis super premissis omnibus et singulis reseruamus potestatem addendi, minuendi, corrigendi, interpretandi et declarandi, quoties opus fuerit, et nobis uisum fuerit expedire.</p>
+                </div>
+                <div>
+                    <head>Explicit</head>
+                    <p>Expliciunt statuta prouincialia.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] Ed. Ticesimo</p>
+                    <p>[2] Ed. prohabiliter</p>
+                    <p>[3] Ed. restituio</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

@@ -1,0 +1,375 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bologna</title>
+                <recordID>0287</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1317</origDate>
+                <dateNotes/>
+                <origPlace>Bologna</origPlace>
+                <diocese>Bologna</diocese>
+                <province>Ravenna</province>
+                <country>Italy</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Provincial</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 287</p>
+                <p>Year: 1317</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Bologna</p>
+                <p>Diocese: Bologna</p>
+                <p>Province: Ravenna</p>
+                <p>CountryModern: Italy</p>
+                <p>Latitude: 44.5075</p>
+                <p>Longitude: 11.351389</p>
+                <p>PlaceNotes: Bologna was actually subject directly to Holy See from 1106 onward; but this is titled &quot;Concilium Ravennate, celebratum Bononiae&quot;</p>
+                <p>Classification: Provincial</p>
+                <p>IssuingAuthority: Rinaldo da Concorezzo</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1303</p>
+                <p>RegnalEnd: 1321</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Mansi 25, col 599-628</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Data Capture']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>In nomine sancte et indiuidue Trinitatis, Patris, et Filii, et Spiritus sancti.</p>
+                    <p>Amen.</p>
+                    <p>QUanta sint ueneracione digna sacrorum conciliorum statuta, maxime Niceni, Constantinopolitani, Ephesini, et Chalcedonensis, que, sicut quatuor euangelia, suscipere et uenerari tenemur, ac sanctorum patrum aliorum concilia et statuta, qui Spiritu sancto illuminati fuerunt, nemo est qui ignoret.</p>
+                    <p>Cum igitur ab ipsis sanctis patribus, in ipsis sacris conciliis, inter cetera fuerit preordinatum et salubriter constitutum, prouincialia concilia fieri debere, ut ea que correccione et reformacione egent, nullatenus negligantur, ita quod nec preceptis euangelicis contrarium, nec decretis sanctorum patrum obseruaretur aduersum: idcirco nos Rainaldus permissione Diuina, et apostolice sedis gracia, sancte Rauennatis ecclesie archiepiscopus, considerantes quod quamplures, maxime uiri ecclesiastici, tum ex temporum tempestate, tum ex morum corrupcione et leuitate, tum ex elacione et uanitate, tum ex tenaci et auida cupiditate, tum ex crassa ignorancia et negligencia, tum ex superbia et irreuerenti inobediencia, uiam coheredum Christi circa grauitatem et honestatem, habitum et incessum ecclesiastice religioni condecentes, et quam fideles et catholici habere debent, exorbitabant: pro his, quantum Deus annuerit, reformandis, ad salutem animarum, quam uehementius zelamus pro Diuina reuerencia, catholice fidei unitate et honore, prouinciale concilium circa hec reformanda duximus conuocandum et congregandum apud Bononiam.</p>
+                    <p>In quo primo constituciones editas et promulgatas per bone memorie fratrem Latinum; tunc apostolice sedis legatum in his partibus, et alias per fratrem Bonifacium predecessorem nostrum, Forliuii, et nos Rauenne et Argente in prouincialibus conciliis legi fecimus: ac deinde, ipso sacro approbante concilio, constituciones infra scriptas duximus statuendas.</p>
+                    <p>CAPITULA.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>CUm ecclesiarum uacantium prouentuum et reddituum, ac bonorum ipsorum, disposicio ad eorum ordinarios de iure pertineat: proinde duximus statuendum, quod uacanti ecclesie statim per ipsius episcopum economus debeat deputari diligens et discretus, qui redditus et prouentus ac bona ipsius colligat et conseruet, ad eiusdem ecclesie et successoris defuncti rectoris ipsius utilitatem et statum.</p>
+                    <p>Prohibentes districte canonicas, clericis, seu patrono ecclesie sic uacantis, quod de redditibus et prouentibus, ac bonis ipsius ecclesie, se intromittere uel disponere nullo modo presumant, nec economum, ut prediximus, ibidem per ipsum deputandum impediant uel molestent, quominus sibi iniunctum officium libere exequatur: nec aliter alicui eorum competat de consuetudine approbata, uel priuilegio speciali.</p>
+                    <p>Quod si secus iidem canonici, uel clerici, seu patroni agere presumpserint: eosdem canonicos, et clericos, ac patronos, presentis auctoritate concilii, priuamus illa uice iure eligendi, seu presentandi: decernentes eleccionem, seu presentacionem secus et aliter attentatam, ipso iure nullius esse momenti.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>Cum de iure nullus sacerdos alteri subditum, sine sui superioris commissione seu licencia, soluere ualeat, uel ligare, [1] nos quamdam consuetudinem, seu potius abusionem, animarum plenam periculis [2] quod uidelicet sacerdotes aliqui per nonnullos prelatos seculares seu regulares, quibus in certis ecclesiis parochialibus rectorum institucio de consuetudine competit, in eisdem ecclesiis instituti, sine sui episcopi auctoritate, commissione, uel licencia parochialis ecclesiarum ipsarum, qui ipsius episcopi subditi esse noscuntur, presumunt soluere et ligare, in suarum preiudicium animarum [3] cupientes penitus extirpare, hoc sacro approbante concilio, sub priuacionis et excommunicacionis penis, inhibemus sacerdotibus memoratis, quod nullo modo presumant in ecclesiis, in quibus modo predicto, et per predictos fuerint instituti, in spiritualibus ministrare, nisi prius ab episcopo loci, prout iura uolunt, eis cura commissa fuerit animarum, de quibus idem episcopus tenetur Christo reddere racionem, tanquam de ouibus sibi commissis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>Sollicite pensantes, quantum officii pastoralis debitum prelatos adstringat curis sollicitis et continuis intendere, et per remedia salubria prouidere, in iis precipue, per que saluti animarum consulitur et prouidetur: et quod parum est iura condere, nisi sit qui ea mandet execucioni.</p>
+                    <p>Uolentes igitur Pictauiense concilium innouare, et debite execucioni demandare, statuimus et ordinamus, hoc sacro approbante concilio, et nihilo minus in uirtute sancte obedientie monemus, et peremptorie, quod abbates, decani, archipresbyteri, prepositi, seu quocumque alio nomine censeantur, ad ordinem sacerdotalem se faciant promoueri; archidiaconi uero, ad ordinem diaconatus, inferiores autem beneficiati in ecclesiis nostre prouincie Rauennensis instituti, ad ordines sacros, secundum quod unus cuiuscumque beneficii requirit, infra annum se faciant promoueri.</p>
+                    <p>Si qui uero predictorum animo indurato promocionem suam distulerint, et hanc nostram monicionem statutum et ordinacionem adimplere neglexerint: auctoritate presentis concilii, ipso iure sint priuati omnibus beneficiis sacros ordines requirentibus, pro quibus promoueri tenebantur, que obtinent in nostra prouincia; nisi cum eis, uel aliquo eorum predictorum fuerit dispensatum, uel in futurum dispensetur; uel nisi iusto impedimento detenti fuerint, quominus promoueri potuerint: et tunc impedimento cessante, procurent, quam cito poterunt, se ad ordines, ut premittitur, facere promoueri.</p>
+                    <p>Ut autem hoc salubre prouinciale statutum, leuius et plenius debitum sorciatur effectum [4], et pretextu ignorantie, quantumcumque crasse, non possint inobedientes desides, et negligentes, aliquam pretendere excusacionem: adiicientes, statuimus et ordinamus, quod quilibet episcopus sancte Rauennatis ecclesias suffraganeus, teneatur infra sex menses synodum celebrare, in qua quidem hoc salubre statutum legi faciat.</p>
+                    <p>Et denuo omnes, ut supra premittitur, sue ciuitatis et diocesis moneat et inducat, cum predicta pena, ad ordines sacros recipiendos.</p>
+                    <p>Item quod in dicta synodo declarent, omnes rectores presentes et futuros parochialium ecclesiarum que curam animarum habent, nec sunt collegiate, non promotos ad ordinem sacerdotalem, infra annum a iure statutum in concilio Lugdunensi, ipso iure fore priuatos, nisi cum eis fuerit dispensatum, uel in futurum dispensetur: etsi de nouo electi fuerint ad easdem ecclesias, cum hec sint contra constitucionem bone memorie Bonifacii pape octaui.</p>
+                    <p>Quos rectores et nos priuamus, seu priuatos declaramus, auctoritate presentis concilii.</p>
+                    <p>Si qui uero in futurum dignitates uel beneficia similia adepti fuerint, teneantur se promoueri facere infra annum ad sacros ordines, secundum quod requirit onus sue dignitatis uel beneficii: alioquin sint priuati ipso iure, auctoritate presentis concilii, beneficiis omnibus, pro quibus promoueri tenentur, que in nostra obtinent prouincia, nisi et cum talibus dispensetur per superiorem suum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>Quoniam sacerdotium ex indisciplinacione populi apparet non sanum, et propter lasciuas dissoluciones clericorum et religiosorum detrahitur Diuino honori et ordini clericali, populique minus ex hoc fiunt deuoti, in tantum, ut eciam iura ecclesiarum retinere, et alii quandoque temerarie inuadere non uereantur, cum incessus, habitus, et uestimenta clericorum et religiosorum, in grauitate, forma, ac colore, distincta sepius non uideantur ab habitu laicorum, quemadmodum esse deberent: proinde statuimus et mandemus, sacro approbante concilio, pro honestate ordinis clericalis; quod nullus religiosus, uel clericus portet arma, nec uestimentum alterius coloris, quam a iure permissi: que desuper clausa sint atque talaria.</p>
+                    <p>Coronam eciam condecentem portent, per quam designetur regalis esse generis, et sperare se debere assequi partem hereditatis Diuine: que scilicet sit rotunda: et ita tonsi sint inferius, quod aures pateant, ita quod si in sacris fuerint, aut beneficiati in ecclesia cathedrali uel collegiata uenerabili, secundum condicionem sui status portent laciorem: alii uero mediocrem uel minorem, suis statibus condecentem.</p>
+                    <p>Capita cooperiant pileo, uel bireto, uel armucia oblonga ad aures.</p>
+                    <p>Laicorum conuiuia non frequentent.</p>
+                    <p>In domibus ecclesiarum studeant habitare.</p>
+                    <p>Prelati, sacerdotes, et alii in dignitatibus uel personatibus constituti, ac canonici cathedralium ecclesiarum in sacris ordinibus constituti, sacerdotes et rectores ecclesiarum ciuitatum et suburbiorum, per ciuitatem incedentes, decentem habitum portent, uidelicet cappas, chlamides, uel tabardos.</p>
+                    <p>Sacerdotes uero extra ciuitatem et suburbia, et alii in sacris ordinibus constituti, saltem tabardos talares, seu condecentes portent.</p>
+                    <p>In ecclesiis uero utantur cappis, uel cottis albis.</p>
+                    <p>Loca turpia nullo modo ingrediantur, nec tabernas, nisi forte in necessitate in itinere constituti, pro cibo uel potu, uel hospicio, compellantur intrare.</p>
+                    <p>Tabernas, merces illicitas, aut personas suspectas, in ecclesiis, uel domibus ecclesiarum que sint intra claustrum uel ad usum clericorum uel ministrorum deputate, seu in domibus contiguis ipsi ecclesie, nullo modo permittant teneri uel commorari. [5]</p>
+                    <p>Si quis autem inuentus fuerit arma portare cuiuscumque generis, penam incurrat 40. solidorum Rauennatum.</p>
+                    <p>Si uero habitum uel tonsuram incongruentem portauerit, 40. solidorum penam incurrat.</p>
+                    <p>Si autem ingressus fuerit tabernas, nisi sit in itinere constitutus; uel merces illicitas contraxerit emendo uel uendendo, per se uel alium, presertim si uinum uendiderit, uel uendi fecerit, uel passus fuerit, quod in dictis domibus quoquo modo uendantur, uidelicet in domibus ecclesiarum, in quibus ministri ecclesie consueuerunt habitare, uel aliter ipsis ecclesiis contiguis, penam 10. librarum incurrat.</p>
+                    <p>Et eamdem penam incurrant tenentes mulieres suspectas in domibus predictis, uel teneri facientes.</p>
+                    <p>Idem et si teneri, uel habitare paciantur.</p>
+                    <p>Si quis uero sine cappa, uel saltem cotta alba, interfuerit Diuinis officiis, penam quinque solidorum se nouerit incurrisse: et eamdem penam incurrant non portantes chlamidem uel tabardum, incedendo per ciuitatem: nisi euidens paupertas racionabiliter aliquem uel aliquos excusaret.</p>
+                    <p>Et similem penam incurrant conuiuia laicorum frequentantes, et alii qui capitibus discoopertis incedunt, uel incedent.</p>
+                    <p>Quas penas declaramus clericos seculares tantum incurrere, et eas teneantur prelati eorum exigere, in usus pauperum conuertendas: nec ipsis ullo modo remittere possit, cum hoc statuatur in fauorem ecclesiastice honestatis.</p>
+                    <p>Si uero fuerit religiosus, qui in predictis, uel in aliquo predictorum delinquat, ieiunet bis in hebdomada in pane et aqua, publice cum fratribus comedendo et sedendo in terra.</p>
+                    <p>Quam penitenciam si non inchoauerit infra mensem, et inchoatam non perfecerit, eum ex nunc capituli uoce priuamus, et ultimum in choro uolumus eum esse.</p>
+                    <p>Et hanc penam paciatur, quousque dictam penitenciam inchoauerit, et inchoatam perfecisse noscatur.</p>
+                    <p>Et nihilo minus contra facientes priuati sint ipso iure priuilegiis et fauoribus concilii huiusmodi, et omnium aliorum conciliorum prouincialium: quia frustra legis implorat auxilium, qui committit in legem.</p>
+                    <p>Omnes autem alias constituciones nostras et predecessorum nostrorum prouinciales, positas sub titulo, De uita et honestate clericorum, cassamus et irritamus, et eas nullius momenti esse uolumus, et presentem solummodo constitucionem remanere in sui roboris firmitate.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>Quoniam experiencia docente, que rerum est efficax magistra, manifeste cognouimus, ut plurimum personas insufficientes, illitteratas, et alias indignas, ad ecclesiastica beneficia obtinenda, institutas in ecclesiis et monasteriis nostre prouincie Rauennatis: ad hec necessitate quadam urgente illos, ad quos spectat eleccio seu recepcio canonicorum et monachorum in dictis ecclesiis et monasteriis, hoc sepius inducente nimia laicorum importunitate, interdum affinitate aliqua seu consanguinitate, uel alias singulari et inordinata dileccione, que sepius homines inducunt, ut omisso racionis iudicio, carnalitatis sequantur affectum, et dignis pretermissis, indignos ad honores ecclesiasticos assumant, ex quibus plurima damna proueniunt ecclesiis, et Diuinus cultus minuitur, quem summopere desideramus augeri.</p>
+                    <p>Cupientes igitur huic pestifero morbo quantum possumus obuiare, et de salubri remedio ecclesiis et monasteriis prouidere: presenti approbante concilio, statuimus et ordinamus, quod de cetero nullus instituatur uel recipiatur in fratrem et canonicum alicuius cathedralis ecclesie uel collegiate, uel monachum alicuius monasterii, uel canonicum regularem, sine licencia speciali ordinarii loci ac metropolitani, si uideatur opportunum ordinario loci, super quo conscienciam ipsius oneramus.</p>
+                    <p>Decernentes ex nunc, prout ex tunc, irritum et inane, quidquid contra factum fuerit, seu attentatum.</p>
+                    <p>Hoc autem statutum durare uolumus usque ad triennium, seu sequens concilium: infra quod estimaciones bonorum et reddituum fient, ita quod pro eorum facultatibus competens numerus ministrantium poterit taxari et statui, prout iura requirunt.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>Plerumque contingit, quod propter minas et potenciam laicorum, nonnulli religiosi prelati nostre prouincie coguntur indebite nonnullos in suorum locorum fratres recipere, uel conuersos, ex quo prelatis ipsis et eorum locis grauamina multa prouenire noscuntur.</p>
+                    <p>Cupientes igitur laicorum in hac parte temeritates excludere, predictorum prelatorum ac ipsorum locorum indemnitatibus prouidere: hoc sacro approbante concilio, prouide duximus statuendum seu declarandum, quod modo predicto recepti in fratres seu conuersos quorumcumque locorum, ad eligendum tam actiue, quam passiue fiant inhabiles: nec ad tractatus quoslibet admittantur, nec eisdem in uestimentis per locorum prelatos modo aliquo debeat prouideri.</p>
+                    <p>Quod et in receptis in monialium monasteriis modo predicto uolumus habere uigorem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>Quoniam ex diutina uacacione damna plurima in spiritualibus et temporalibus ecclesiis solent prouenire, sicut iura testantur, et rerum experiencia manifestat: uolentes itaque iuxta debitum officii nostri ecclesiis in prouincia Rauenn. constitutis, contra dispendiosas uacaciones, de salubri remedio prouidere, hortamur in Domino omnes fratres coepiscopos nostros, presentes et absentes, ac alios inferiores prelatos et clericos, cuiuscumque status et gradus uel condicionis existant, quatenus pro Dei honore et salute animarum suarum et populi, salubriter et celeriter uacantibus ecclesiis de personis idoneis prouidere procurent, ne lupus rapax gregem Dominicum inuadat, et bona dilapidentur.</p>
+                    <p>Nihilo minus, sacro approbante concilio, statuentes, quod si quando contingat propter desidiam seu negligenciam, ad nos collacionem dignitatis alicuius uel beneficii seu prebende cum cura deuolui, teneantur prelatus et capitulum et clerici ecclesie, in qua dignitas, beneficium uel prebenda huiusmodi tanto tempore uacauerit, quod ad nos sit collacio deuoluta, infra mensem a tempore scientie deuolucionis huius, hoc nobis intimare, seu uicario nostro, nobis in remotis agentibus: ne, quod absit, ecclesie diu maneant desolate, et nos nostro defraudemur desiderio.</p>
+                    <p>Illud idem statuimus circa fratres coepiscopos omnes prouincie Rauennatis suffraganeos, quando de ipsis ad capitula collacio deuoluetur.</p>
+                    <p>Quod et de patronis auctoritate eadem uolumus et statuimus intelligi debere.</p>
+                    <p>Negligentes et remissi hoc salubre statutum admiplere, et sequenti concilio arguantur, et pena debita castigentur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>Etsi deceat, et satis consonet racioni et iuri quibuscumque clericis collegiatarum ecclesiarum certum et determinatum numerum habere clericorum, tanto magis canonicis cathedralium ecclesiarum hoc competit, quanto tamquam caput aliorum in seipsis debent ostendere, qualiter inferiores in domo Dei conuersari debeant: non plures in quibuscumque ecclesiis debent institui, quam ex bonis ipsarum uiuere possit: hoc maxime in cathedralibus seruari debet, ne propter inordinatam constitucionem cogantur ipsorum canonici, in opprobrium totius cleri, miserabiliter mendicare.</p>
+                    <p>Uolentes ergo inordinatis recepcionibus factis et fiendis in prouincia nostra, quantum possumus, prouidere, hoc sacro approbante concilio, statuimus et ordinamus, quod ubicumque in cathedralibus uel collegiatis ecclesiis determinatus est numerus canonicorum uel clericorum, statuto uel consuetudine, ille seruetur, nec augeatur quocumque quesito colore, nisi iusta de causa et de licencia ordinariorum suorum.</p>
+                    <p>Ubi autem numerus certus determinatus non est, precipimus statui et firmari, iuxta facultatem ecclesiarum, et hoc infra sex menses a publicacione constitucionis presentis numerandos.</p>
+                    <p>Sed quia non est reprehensibile iudicandum, sed laudandum, si secundum uarietates temporum uarientur eciam humana statuta, et sepius sit inueniri, quod ecclesie antiquo numero canonicorum statuto grauantur: idcirco statuimus, quod si alique ecclesie collegiate uel cathedrales inueniantur antiquo statuto numero in presenti racionabiliter pregrauari, uolumus, quod canonici ipsarum ecclesiarum, de licencia suorum ordinariorum, seu ipsi ordinarii, ubi ad eos solos spectat, reducant seu statuant talem numerum iuxta facultatem ipsarum ecclesiarum: ita quod cedentibus uel decedentibus canonicis, nullus de nouo loco cedentis uel decedentis instituatur, quousque peruenerit ad numerum sic ab antiquo statutum, uel de nouo statuendum.</p>
+                    <p>Et quia nonnulli tam episcopi quam alii prouincie nostre, preteriti et presentes, ut fide dignorum relacione audiuimus, ecclesias [6] cathedrales uel collegiatas, quarum institucio uel ordinacio ad eos spectabat, uel ad se spectare pretendebant, de consuetudine uel priuilegio, aggrauant et aggrauarunt indebito et inordinato numero clericorum, et tali, quod nullo modo ecclesie predicte sic institutis et ordinatis in necessariis prouidere pouterunt, nec possunt: quod cedit in uituperium, nedum eorum, sed totius cleri: et cum tales clerici non possint ecclesiis deseruire, et cogantur quodammodo mendicare: idcirco uolentes tali morbo debitam adhibere medelam, statuimus et ordinamus, quod nec episcopi, nec alii possint uel debeant in ecclesiis cathedralibus, collegiatis, uel aliis, quibus institucio uel ordinacio ad ipsos noscitur pertinere, aliquem uel aliquos ultra numerum presentem de nouo instituere sine licencia sui superioris: et si contra fieret, sit irritum ipso iure.</p>
+                    <p>Uolumus eciam, et eis precipimus in uirtute sancte obedientie, quod numerum sic ordinatum in predictis ecclesiis sic institutum redigere debeant ad debitum congruentem numerum.</p>
+                    <p>Et quia qui altari seruit, de altari uiuere debet, et qui ad onus eligitur, a mercede repelli non debet; statuimus et ordinamus, quod predicti ordinatores, deficientibus propriis redditibus ecclesiarum, in quibus indebitam ordinacionem fecerint, in futurum teneantur sic institutis per ipsos, residentibus in ecclesiis, in quibus instituti sunt, ipsis ecclesiis in Diuinis et aliis deseruientibus, necessaria procurare, et tam in uictu, quam in uestitu et aliis necessariis, iuxta earum exigenciam facultatem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>Quorumdam clericorum desidiam et periculosam negligenciam radicitus extirpare uolentes, qui in eorum ecclesiis residere negligunt, in graue preiudicium animarum ipsorum, et scandalum plurimorum, propter quod ecclesie sepius Diuinis defraudantur officiis, cultusque Diuinus minuitur, quem summo cordis desiderio augeri desideramus: hoc sacro approbante concilio, citamus et requirimus, et monemus omnes clericos nostre prouincie, cuiuscumque ordinis, dignitatis et status et condicionis existant, quatenus infra sex menses, a die presentis citacionis, monicionis et requisicionis numerandos, quorum duos pro primo, duos pro secundo, reliquos duos pro tercio peremptorio eis assignamus, redire debeant ad continuam residenciam faciendam in eorum ecclesiis: eodem sacro approbante concilio statuentes et ordinantes, quod si quis, uel si qui clerici absentes hanc nostram monicionem contempserint, uel in futurum se absentauerint ab eorum ecclesiis, ultra quindecim dies, sine speciali petita licencia et obtenta ab ordinario loci uel eius uicario, ipso ordinario extra ciuitatem agente, ipso iure sint priuati beneficiis omnibus que in nostra prouincia obtinent, nisi per superiorem super iis fuerit cum eisdem misericorditer dispensatum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>Quia parum est iura condere, nisi execucioni debite demandentur, et per bone memorie fratrem Bonifacium predecessorem nostrum, in concilio per ipsum Forliuii celebrato, inter cetera statutum extiterit, quod ubi statute non essent in cathedralibus uel collegiatis ecclesiis quotidiane distribuciones, in synodis proxime faciendis per singulos suffraganeos Rauennatis ecclesie proinde statuerentur, ut per hoc ipsis ecclesiis singulis horis in Diuinis melius seruiretur; et attendentes patres coepiscopos nostros in execucione constitucionis predicte ut plurimum hucusque negligentes fuisse: uolentes igitur dictam constitucionem tamquam racionabilem execucioni debite demandare, hoc sacro approbante concilio statuimus et ordinamus, quod quilibet suffraganeorum nostrorum sub pena inobedientie teneatur sic prouidere, quod in cathedralibus uel collegiatis ecclesiis, dicte quotidiane distribuciones fiant, et mensa communis deputetur: uel ubi dicte distribuciones seu mensa commode ordinari non possent, sic per eosdem ordinarios prouideatur, quod decenter et deuote in Diuinis officiis ecclesiis ipsis deseruiatur: ut sic cultus Diuinus non minuatur, sed potius, ut cupimus, augeatur.</p>
+                    <p>Si quis autem suffraganeorum predicta non obseruauerit, penam statutam contra transgressores canonum poterit formidare, et nihilo minus in sequenti concilio durius increpetur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>Cum imponendis et exigendis collectis talis modus et diuisio debeat obseruari, ut nulla ecclesia, seu ecclesiastica persona, se indebite pregrauari ex iis racionabiliter conqueri possit: ac sepe contingat dominos suffraganeos ecclesie Rauennatis debere Rauennatem ecclesiam uisitare pro festiuitatibus sanctorum martyrum Apollinaris, Uitalis, uel aliis ex causis in prouincia emergentibus a nobis euocari; quos non oportet, pro factis prouincie, propriis stipendiis militare: uolentes hoc adhibere remedium opportunum, statuimus et ordinamus, hoc sacro approbante concilio, quod quilibet episcopus nostre prouincie, in ciuitate et diocesi sua, et de consensu cleri ad hoc specialiter conuocati, personas sufficientes et idoneas deputet et ordinet infra tres menses a publicacione presentis constitucionis, quo omnes redditus et prouentus ecclesiarum omnium, monasteriorum et aliorum locorum religiosorum, cuiuscumque status uel condicionis existant, discuciant et examinent diligenter, et describant seu describi faciant per publicum notarium, iustam estimacionem et debitam unicuique ecclesie imponentes: et hoc in monasteriis, prioratibus, ecclesiis, seu locis ecclesiasticis aliis, ubi a decem annis citra non est facta estimacio ante dicta.</p>
+                    <p>De qua quidem taxacione et estimacione teneatur quilibet episcopus, ad expensas cleri sui, per scripturam publicam archiepiscopali curie facere fidem infra tres menses, ex quo dicta estimacio facta fuit.</p>
+                    <p>Secundum quam estimacionem et taxacionem statuimus et ordinamus, omnia onera nostre Rauennatis ecclesie [7] prouincie imminencia ad presens, uel in futurum, debere diuidi et partiri inter prelatos et clerum Rauennatis prouincie.</p>
+                    <p>Idem modus eciam et diuisio per ipsos obseruetur in diuidendis et distribuendis oneribus specialiter impositis clero sue ciuitatis et diocesis.</p>
+                    <p>Circa uenerandos quoque patres et coepiscopos nostros ducimus statuendum, uolentes parcere grauaminibus subditorum: quod si quando eos laborare contingat, pro factis prouincie Rauennatis, quindecim equitaturis seu eueccionibus ad plus sint contenti, et minus, ut minores non doleant, et iuste conqueri possint, se indebite pregrauari: et ipsorum procuracionibus 12. solidos Bononiensis pro quolibet equo; pro palafreno uero domini, unum florenum auri pro qualibet legali dieta, seu die quo laborauerit, taxamus.</p>
+                    <p>Si uero pro prefatis causis contigeret abbates et prelatos aliquos, seu canonicos cathedralis ecclesie, aut clericos, laborare: abbatibus et prelatis, quatuor equos; canonicis ecclesie cathedralis, tres; clerico uero, unum taxamus.</p>
+                    <p>Et pro unoquoque equo 10. solidos Bononienses habere debeant a clero, et non ultra: et in hoc sint taciti et contenti.</p>
+                    <p>Clericus uero siue laicus, qui sine equo mitteretur a clero, seu iret occasione cleri: sex solidos Bononienses pro qualibet competenti eis dieta taxamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>Etsi, propheta testante, doceamur psallere Deo, et singulis horis psallere sapienter: multo fortius hoc debemus attendere, quando Missa presertim solemniter celebratur, ubi angelice hierarchie inuocantur, et in tali tanto misterio, ut sancti testantur, assistunt, debemus uoce, spiritu, et mente psallere, humiliter et deuote.</p>
+                    <p>Cum igitur Missa in aliqua ecclesia nostre prouincie in nota celebratur, debent omnes, maxime sacerdotes et clerici in ecclesia ipsa, quantum possunt, assistere celebranti, ac omnis clamor, strepitus et tumultus, in eadem ecclesia conquiescere.</p>
+                    <p>Quidam uero non debito modo considerantes predictam Missam, que in nota cantatur, irreuerenter preterunt, se sacris induere, Missas uno concursu cum sacerdote celebrare uolentes, ex quo populorum concursus ac pedum strepitus per ecclesiam sit cum quodam sonoroso clamore: et sic Missa que celebratur in nota, per indirectum quodammodo impeditur, seu minus deuote attenditur.</p>
+                    <p>Uolentes igitur huic indiscreto actui necessariam adhibere medelam, sacro approbante concilio, monemus omnes sacerdotes tam seculares, quam regulares nostre prouincie, atque statuimus, quatenus cum Missa celebratur in nota in aliqua ecclesia, nullus alius sacerdos Missam celebret in eadem, donec Missa prefata fuerit plene completa.</p>
+                    <p>Qui autem contra fecerit, sui ordinarii arbitrio puniatur, ac durius increpetur: penas eciam contra inobedientes latas merito poterit formidare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>Quia nonnulli abbates, priores, prepositi, archipresbyteri, et alii ecclesiarum inferiores prelati, prout est huic sacro concilio intimatum, contra rectores et clericos ecclesiarum subiectarum prelatis eisdem, ordinario iure, inquisiciones formant, accusaciones admittunt, ac ad priuacionem et penas alias procedere non uerentur; et per hoc, tam iuri communi, quam pontificali dignitati plurimum detrahunt: statuimus presentis auctoritate concilii, quod nullus abbas, prior, prepositus, archipresbyter, seu alius prelatus inferior episcopo, contra rectores seu clericos ecclesiarum subiectarum eisdem, inquisicionem formare, accusacionem admittere, uel ad priuacionem procedere quoquo modo presumant.</p>
+                    <p>Decernentes irritum et inane quidquid contra hoc statutum per talem fuerit attentatum, nisi de speciali priuilegio, uel consuetudine legitime prescripta, eis hoc competere dignoscatur.</p>
+                    <p>Ordo namque ecclesiasticus confusioni pateret, si pontificales iurisdiccio non seruaretur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>Quamquam Iudei per ecclesiam tolerentur, non tamen debent in fidelium detrimentum, seu graue dispendium, tolerari: quod sepius Christianis accidit, pro gracia contumeliam, et pro familiaritate contemptum reddendo.</p>
+                    <p>Ideoque olim prouinciale concilium Rauenne celebratum, considerans ex ipsorum cum Christianis permixta conuersacione multa scandala prouenisse, statuit, ac perpetua stabilitate firmauit, quod ipsi rotam panni crocei coloris in uestibus superioribus, ac mulieres ipsorum consimilem rotam in capite deberent portare, ut sic a Christianis possent discerni: et quod ad habitandum alicubi ultra mensem recipi non deberent, nisi in locis, in quibus obtinent sinagogas.</p>
+                    <p>Sed quia nonnulli nescientes a uetitis abstinere, statutum salubre prefati concilii uilipendunt, ignorancia affectata: pena docente poterunt cognoscere, quam sit graue constituciones ecclesiasticas preterire.</p>
+                    <p>Ideoque sacro approbante concilio, uolentes huic morbo salubriter prouidere, monemus omnes tam clericos, quam laicos nostre prouincie, atque statuimus, quatenus nullus de cetero locet domos ipsis Iudeis, nec locatas dimittat, aut uendat, seu quocumque colore concedat, uel inhabitare permittat ultra duos menses a publicacione presentis constitucionis.</p>
+                    <p>Qui uero contra fecerit, ipso facto excommunicacionis incurrat sentenciam, a qua absolui non possit, nisi plene satisfecerit in predictis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>Usurarum uoraginem utriusque testamenti pagina reprobatam, in nostra prouincia reprimere cupientes, denunciamus, seu declaramus, hoc sacro approbante concilio, omnes usurarios manifestos, donec de usuris, prout patiuntur facultates eorum, plenarie satisfecerint, uel de satisfaciendo pro suarum uiribus facultatum idoneam prestent caucionem, fore communione altaris et ecclesiastica sepultura priuatos; eorumque oblaciones recipi non debere, nec ipsos absolui posse; testamenta quoque ipsorum non ualere, sed esse irrita ipso iure.</p>
+                    <p>Omnes eciam, qui huiusmodi usurariis communionem altaris, ac corpus Christi tradiderint, aut eos ad ecclesiasticam admiserint sepulturam, donec ad arbitrium ordinarii loci satisfecerint, ab officii sui execucione decernimus seu declaramus esse suspensos.</p>
+                    <p>Adiicientes, ut pene huiusmodi subiaceant omnes, qui tales usurarios absoluerint, aut ad communionem altaris admiserint, siue testamentis aut sepulture interfuerint eorumdem.</p>
+                    <p>Tabelliones quoque de mutuis et contractibus usurariis, uel in fraudem usurarum initis, instrumenta conficientes, uel recipientes scienter, quibus usurarii penis subiaceant ipso facto.</p>
+                    <p>Ceterum in recipienda ab usurariis penitentibus, de usuris restituendis, caucione predicta, hanc haberi uolumus et obseruari cautelam: ut ante omnia per confessionem usurarii, uel per librum, uel libros racionum eius, aut per testes siue instrumentum, uel aliquo alio modo, fiat certa et manifesta, si poterit, receptarum quantitas usurarum, non earum tantum, que ab incertis, uerum eciam que sunt a certis uniuersitatibus et personis extorte.</p>
+                    <p>Si uero id non sit possibile, arbitretur et moderetur quantitatem huiusmodi is, qui ex uigore presentis constitucionis recepturus fuerit caucionem huiusmodi, secundum rectam conscienciam, ex fama, seu uicinorum testimoniis, aut ex coniecturis aliis uerisimilibus informandam.</p>
+                    <p>Ubi uero pet postas libri usurarii non apparuerit, per petentem sibi usuras restitui, de usuris solutis, si petens habuerit instrumenta originalia, uel exemplaria sumpta de originalibus communis ciuitatis, uel loci illius, in quo contractum fuerit debitum mutui recepti ab usurario, aut alterius obligacionis cum illo contracte, uel cum alio pro eodem, et instrumentum solucionis, seu liberacionis, uel confessionis, solucio usurarum presumatur et iudicetur: et ipso mutuo, uel obligacione, a die contracti debiti seu obligacionis, usque ad diem instrumenti confecti solucionis: et ab illo extorsisse usuras, tot denarios pro libra singulis mensibus, quot declarare uoluerit diocesanus episcopus, aut eius uicarius, uel penitenciarius, si ipse usurarius in dicta caucione non declarauit et dixit, quot denarios accipiebat pro libra mensibus singulis.</p>
+                    <p>Quando autem solucionis instrumentum aut scriptura non apparuerit, tunc iudicetur, usuras per sex menses usurarium extorsisse ab illo, ex illo mutuo, seu obligacione, secundum racionem et taxacionem predictam, pro mense quolibet: dummodo appareat per postas libri, uel alio modo legitimo mutuum, uel obligacionem fuisse contractam.</p>
+                    <p>Quo facto, promittat solemniter, et iuret usurarius ei qui, ut permittitur, hanc receperit caucionem curie ordinarii loci, ubi usurarius fuerit, omnium quorum interest uel intererit nomine, quod ipse, si poterit, per seipsum, uel alium, seu alios, et in presencia uicarii ordinarii predicti, uel eius penitenciarii, uel alterius de curie licencia, sine difficultate qualibet, de usuris a se receptis, et a patre suo, ceterisque personis, quorum hereditas ad ipsum peruenerit, et de aliis male ablatis, et illicite acquisitis per usurarium prauitatem, usque in quantitatem estimatam, et eciam maiorem, si de maiore constiterit, satisfaciet eis, a quibus eas ipse, uel illi receperunt, aut eorum heredibus, si potuerint reperiri: et residuum, de quo, cui restitui debeat, non constabit, ordinario, uel uicario, seu penitenciario ipsius ordinarii libere assignabit, pauperibus erogandum, iuxta ordinarii arbitrium, sine strepitu iudicii, et sigura.</p>
+                    <p>Et quod nihil dicet, uel allegabit, uel faciet per se, siue per alium, propter quod ipsius curie processus, sententie, uel precepta impediantur, aut quomodolibet retardentur circa ipsarum usurarum et illicite acquisitorum modo predicto restitucionem: speciali pacto se, et suos heredes, et bona obligans ad predicta, et renuncians expresse, specialiter et generaliter omnibus excepcionibus, iuribus et defensionibus, secundum libitum, et expressionem recipientis huiusmodi caucionem.</p>
+                    <p>Sed pro his attendendis, et restitucione, et assignacione, ut premittitur, faciendis, obliget omnia bona sua, illa se constituens precario nomine dicte curie possidere: omnimodam licenciam concedens, et liberam potestatem ipsi curie, et recipienti caucionem predictam, pro ea, apprehendendi, distrahendi, et alienandi de ipsius bonis libere ac impune, auctoritate propria, et contradiccione non obstante eiusquam, quidquid et quantum, et ubi uoluerit ipsa curia, usque ad integram restitucionem et satisfaccionem predictorum.</p>
+                    <p>Et eorum occasione renunciet eciam usuris, et sibi pro eis soluendis, uel non recipiendis, seu repetendis, prestita, relaxet, reddat, aut saltem reddere promittat: et iuret, quod libros et quaternos racionum suarum, et instrumenta usuraria que habebit, uel habere poterit, absque dolo uel fraude, diminucione siue subtraccione, ordinario, eius uicario, seu certo nuncio, dabit et consignabit per se uel alios, pro eodem Assignet eciam pecuniam quam habet, uel faciat depositum, si poterit, ad arbitrium ordinarii, seu uicarii, uel penitenciarii ipsius: quod quidem in caucione ipsa uenire censemus.</p>
+                    <p>Damnet eciam heredes suos futuros, sub pena hereditatis amittende, ad eadem facienda: ipsi heredes, si presentes fuerint, eadem se facturos sub pena et sub religione promittant et iurent.</p>
+                    <p>Det preterea, si poterit, pignora, uel saltem fideiussores idoneos, qui ad predicta eodem modo, et sub eisdem penis et tenoribus obligent principaliter se et sua, constituentes se principales debitores in predictis, renunciantes epistole diui Hadriani, beneficio nouarum constitucionum de fideiussoribus, et omni alii defensioni et iuri, ad arbitrium recipientis caucionem eamdem, ex pacto speciali, prestantes simile iuramentum.</p>
+                    <p>Hec autem precipimus fieri coram sacerdote parochiali, et testibus fide dignis ac notario publico, de ordinarii, uel uicarii, aut penitenciarii ipsius mandato, qui recipiat predictas promissionem et obligacionem, renunciacionem et caucionem, et cetera supradicta, de his conficiens instrumentum, Denique caucionem ipsam per singulas ordinariorum dioces, ubi ordinarius uel eius uicarius presens non adesset, recipiat rector parochialis ecclesie, in qua usurarius habitabat, uel notarius publicus in sacerdotis defectum, qui infra mensem teneatur hoc denunciare loci ordinario uel eius uicario.</p>
+                    <p>In ciuitate uero nullus omnino absque ordinarii uel uicarii, seu penitenciarii ipsius licencia speciali, nisi forte parochialis sacerdos, ubi non poterit requiri ad hec cura ordinarii, superueniente subito casu mortis, de illa recipienda se intromittere presumat: alioquin penam 10. librarum Rauennatum incurrat, absque satisfaccione debita minime relaxandam.</p>
+                    <p>Illos namque, quoad predicta, declaramus usurarios manifestos, de quibus per parochiam quam inhabitauerint, uel ubi morarentur, fama fuerit extorsisse usuras, uel ipsorum confessione, aut per idonea argumenta seu alio modo legitimo apparebit.</p>
+                    <p>Consticionem quoque presentem omnes parochialium ecclesiarum rectores, eciam si collegiate fuerint, habeant, legant et intelligant: usurariorum penas predictas frequentius in suis ecclesiis publicantes, et suas cautius euitantes, si Diuinam et nostram effugere cupiunt ulcionem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>Quorumdam fraudibus legis preuaricatorum occurrere intendentes, qui dum male ablata habent, de quibus ignoratur cui sit restitucio facienda, que essent per locorum episcopos aut ipsorum auctoritate inter pauperes prouide dispensanda, legant uel legare procurant, male ablatorum pretextu, de illis non facta mencione, aliquam pecunie quantitatem per executores seu alios, excluso fraudulenter ordinario episcopo; dispensandam: hoc sacro approbante concilio statuimus, quod de cetero quelibet persona, que restituere seu restitui uoluerit aliqua male ablata incerta, siue de quibus, cui facienda sit restitucio, ignoretur in suo testamento, codicillo, uel ultima uoluntate, expresse dicat et clare, Relinquo istud uel illud, seu tantum, de male ablatis incertis, seu restitucione ipsorum: nec dicat, relinquo pro remedio anime mee, seu parentum meorum: neque aliquid aliud inseratur, propter quod que sunt ipsius male ablata incerta, non plenarie cognoscatur, sub pena 10. librarum Rauennatum, quas in usus pauperum conuertendas decernimus.</p>
+                    <p>Rectoribus, capellanis ecclesiarum mandantes sub excommunicacionis pena, quod aliquorum ultimis uoluntatibus non intersint, seu ordinacionibus eorumdem, quos sciuerint uel crediderint contra mentem attentare constitucionis huiusmodi, uel in fraudem: et quod exponant infirmis et ipsorum heredibus, ut nisi nominatim et expresse legauerint male ablata incerta restituenda, non habebunt ecclesiasticam sepulturam, Quoslibet uero clericos, religiosos, uel seculares, qui circa hoc fraudem aliquam procurauerint obseruari, ab ingressu ecclesie et participacione sacramentorum suspendimus in his scriptis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 17</head>
+                    <p>Licet ex dictis sanctorum et ex scriptis conciliorum, omnibus seruis Dei uenaciones cum canibus et auibus sint interdicte: nonnulli tamen religiosi, sicut fide dignorum relacione accepimus, hoc minus pensantes, honestatis laxatis habenis, monachali modestia prorsus abiecta, monasterii claustrum abhorrentes, sine quo monachus uita carere describitur, sicut pisces uita carent sine aqua, more laicorum ipsis intendunt in grauem religionis offensam, opprobrium et scandalum plurimorum.</p>
+                    <p>Uolentes igitur predictorum statui periculoso et detestabili salubriter occurrere, hoc sacro approbante concilio, districtius inhibemus religiosis omnibus, cuiuscumque status, condicionis, religionis, uel ordinacionis existant, ne de cetero uenari, seu ad uenandum exire presumant.</p>
+                    <p>Si quidem abbates, priores uel prepositi, seu alias administraciones habentes fuerint, per annum ipso facto sint suspensi ab omni administracione, donec ad mandatum ordinarii plene satisfecerint.</p>
+                    <p>Inferiores uero sint ineligibiles, et ultimi semper in choro habeantur, donec ad mandatum abbatis, prioris, uel prepositi, sufficienter penitenciam egerint de commissis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18</head>
+                    <p>Seculares potestates, seu rectores uel iudices, quorumcumque locorum prouincie Rauennatis, qui clericos, per ipsos, seu ipsorum familias, cum armis uel alias excessisse, et maxime in habitu clericali repertos, detentos retinent, et ad diocesanum episcopum remittere denegant, requisiti; seu qui clericos ipsos, si eosdem remitti per eos forte contigerit, in scandalum et opprobrium ordinis clericalis, tubis precedentibus et tubantibus, armis apud ipsos inuentis, ad eorum collum appensis, et cum multitudine armatorum, seu alias inhoneste, ad eumdem transmittunt episcopum: declaramus presentis auctoritate concilii, excommunicacionis uinculo innodatos, et eorum sentencias et processus per ipsos seu auctoritate ipsorum latos et factos, ex tunc fore censemus inualidos, donec satisfaccione prestita, a predicta excommunicacionis sentencia per sedem apostolicam dumtaxat absolucionis beneficium meruerint obtinere.</p>
+                </div>
+                <div>
+                    <head>Capitulum 19</head>
+                    <p>Cum nullus pro eodem delicto debeat duplici pena puniri, statuimus et ordinamus, hoc sacro approbante concilio, quod si qua alia pena statuta esset in constitucionibus synodalibus nostris, uel suffraganeorum nostrorum, quam in nostris constitucionibus prouincialibus, uel predecessorum nostrorum, statutum circa idem factum reperiatur, quod altera ipsarum sit contentus loci ordinarius, et una electa et imposita per ipsum, seu eius uicarium, alteram infligere, seu inflictam exigere, non possit.</p>
+                </div>
+                <div>
+                    <head>Capitulum 20</head>
+                    <p>Cum inferior superioris legem habeat obseruare, nec eam possit infringere, seu eciam abolere, et in iure contineatur, quod episcopi plures, uel unus, non possint concedere indulgenciam ultra numerum quadraginta dierum, excepto in sola ecclesiarum consecracione: quod de uno anno statutum fuit in concilio Forliuii celebrato per bone memorie fratrem Bonifacium predecessorem nostrum, circa prelatos eleemosinarios, sub rubrica de pauperibus alendis, limitamus et reducimus ad numerum 40. dierum, hoc sacro approbante concilio.</p>
+                    <p>Ad hoc diligenter considerantes, quod qui aliis presunt, lenitatem cum seueritate miscere debent, et cum subditis misericorditer agere: ita tamen quod honestas et disciplina clericalis non destituatur, aliam nostram constitucionem prouincialem editam et promulgatam per nos in concilio Argente celebrato, positam sub titulo, de etate et qualitate ordinandorum, duximus moderandam: eodem sacro approbante concilio statuentes, quod non obstante constitucione predicta, nos et quilibet episcopus cum suis subditis dispensare possimus, qui contra tenorem et formam dicte constitucionis ad ordines sunt promoti, uel in futurum promouerentur. [8]</p>
+                    <p>Hortamur tamen pro reuerencia Dei dictos dominos episcopos, quod constitucionem ipsam sic salubriter statutam obseruent, et mandent a subditis obseruari, ne per proper, uel alias, personas indignas et minus sufficientes ad ordines promoueri contingat: quod solum mens dicte constitucionis requirit.</p>
+                </div>
+                <div>
+                    <head>Capitulum 21</head>
+                    <p>Item cum negligencia seu contumacia indeuotorum pena condecenti debeat puniri, et in concilio Rauenne per nos celebrato inter alia fuerit statutum, quod capitula ecclesiarum cathedralium quam citius commode possent, obitum suorum episcoporum singulis comprouincialibus episcopis deberent nunciare: et si super hoc fuerint negligentes uel remissi, hoc sacro approbante concilio statuimus, quod capitula ipsa infra 10. dies postquam sciuerint suum episcopum defunctum fore, archiepiscopo et singulis suffraganeis teneatur nunciare: alioquin penam 10. librarum Rauennatum ipso facto incurrant, distribuendarum in usus pios, metropolitani arbitrio. [9]</p>
+                </div>
+                <div>
+                    <head>Capitulum 22</head>
+                    <p>Desiderabiliter affectantes in iis per que saluti consulitur animarum, humane fragilitati, que facile declinant ad malum, via salutifera prouidere, auctoritate Dei omnipotentis et beatorum apostolorum Petri et Pauli, ac approbacione huius sacri concilii, absoluimus, seu absoluendos decernimus et singulos subditos nostros et suffraganeorum nostrorum, et ecclesie Rauennatis, qui penas aliquas seu penam, contentas uel contentam in sacris constitucionibus nostris, seu predecessorum nostrorum, prouincialibus seu synodalibus nostris, uel suffraganeorum nostrorum, uel qui notam inobedientie incurrissent, mandatis nostris seu ordinarii uel uicarii nostri, seu ordinarii eiusdem, non parendo, si contriti confiteantur infra unius mensis spatium a noticia presentis, et ad mandata ordinarii, leso secundum formam ecclesie satisfaciant, seu eius uicarii, eo in remotis agente, uel uicarii capituli ubi ecclesia uacat: super hoc nobis reseruantes auctoritatem plenariam absoluendi et dispensandi, eciamsi in constitucione specialiter reseruatur absolucio et dispensacio concilio prouinciali: eamdem auctoritatem concedentes, et specialiter committentes, presentis auctoritate concilii, locorum ordinariis, seu eorum uicariis, ipsis in remotis agentibus, et uicariis capituli ubi ecclesia uacat.</p>
+                    <p>Hortamur eciam et in Domino obsecramus uenerabiles patres et coepiscopos nostros presentes et absentes, ut pro Diuina pietate et reuerencia huius sacri concilii, relaxari faciant quos episcopi uel alii de eorum mandato seu auctoritate detinent carceratos: dummodo scandalum inde non oriatur, ac oraciones frequentent seu frequentari mandent in Missis pro pace et contra persecutores ecclesie, uidelicet oracionem, Ecclesie tue, ubi non dicitur oracio, A cunctis.</p>
+                    <p>Relaxamus quoque eadem auctoritate omnibus et singulis uere penitentibus et confessis, qui ad hoc sacrum concilium accesserunt, uel pro eo laborauerunt, de iniunctis penitentiis 40. dies, pro singulis diebus, quibus laborauerunt uel laborabunt, usque ad festum omnium sanctorum inclusiue.</p>
+                    <p>Reseruamus insuper nobis, hoc sacro approbante concilio, arbitrium puniendi et absoluendi, quos de iure, possumus, contemptores et transgressores sacrorum canonum, cuiuscumque ordinis, preeminentie, dignitatis uel status existant.</p>
+                    <p>Ad hec, eodem sacro approbante concilio nobis specialiter reseruamus auctoritatem et potestatem declarandi, interpretandi, temperandi, seu minuendi dictas prouinciales consticiones, seu penas in eis contentas, et super dictis penis misericorditer dispensandi cum omnibus et singulis subditis nostris, et suffraganeorum nostrorum, prout qualitas negociorum et condicio personarum requireret.</p>
+                    <p>Lecte et publicate fuerunt predicte constituciones per reuerendissimum patrem, dominum R. permissione Diuina sancte Rauennatis ecclesie archiepiscopum, in ecclesia cathedrali Bononie, assidentibus uenerabilibus patribus et dominis, dominis Huberto Bononiensi, fratre Petro Comaclensi, Petro Foropopiliensi, Ioanne Cesenate, Guidone Regin. pro se et ecclesia sua, et pro fratre Simone Parmensi episcopo, qui post secundam sessionem, ex racionabili causa se absentans, in omnibus et per omnia commisit uices suas eidem, et consensit omnibus que terminantur in ipso concilio: Rimbaldo Imolensi, Guidone Ceruiensi, episcopis, ac procuratoribus fratris Huiguizonis Saffenatis, fratris Hugolini Fauentini, Salionis Adriensis, episcoporum absentium.</p>
+                    <p>Mutinensi propter infirmitatem se canonice excusante, seu ordinandis et statuendis pro se et suo clero reuerenter consentiente: procuratoribus archidiaconi et capituli Forliuiensis, cum ecclesia ipsa ad presens pastore uacet, et capitulorum cathedralium ecclesiarum prouincie Rauennatis.</p>
+                    <p>Presentibus eciam religiosis et uenerabilibus uiris, abbatibus, prioribus, prepositis, archipresbyteris, et aliis quampluribus ad concilium ipsum conuocatis: Huguizone preposito, Cacia presbytero, Gerardino subdiacono cardinale, Boninsegna presbytero, et Albertino subdiacono, cantoribus sancte Rauennatis ecclesie: Guidone sanctorum Fabiani et Sebastiani, Petro sancti Petri in curte, Ioanne sancte Euphemie, ecclesiarum rectoribus, conuentus clericorum Rauenne: fratre Andrea priore sancte Pelagie de Cremona, uicario ipsius domini archiepiscopi, Conrado archipresbytero Paduano, et quampluribus aliis: sub annis Domini 1317. indiccione 15. die 27. Octobris.</p>
+                </div>
+                <div>
+                    <head>Capitulum 23</head>
+                    <p>Nos Rainaldus permissione diuina, et apostolice sedis gracia, sancte Rauennatis ecclesia archiepiscopus, dudum uolentes execucioni debite demandare constitucionem pie memorie Bonifacii pape VIII. quam edidit et promulgauit super clausura monialium, et in qua expresse statuit, omnes et singulas moniales, cuiuscumque religionis, status uel condicionis existerent, sub perpetua clausura debere manere, nullique persone ad eas ingressum patere: inobedientie notam ac malediccionem eternam effugere cupientes, easdem moniales, ubi ad nos spectat, mandauimus et fecimus includi, ac quasdam constituciones addidimus synodales et prouinciales, in quibus, omnibus indistincte, tam clericis quam laicis, prohibuimus ingressum monasteriorum et ad easdem accessum, sine nostra seu uicarii nostri, uel alias ordinarii loci seu eius uicarii, nobis seu ordinario loci in remotis agentibus, licencia speciali, penas pecuniarias, et sentencias excommunicacionis certo modo in contra facientes promulgantes.</p>
+                    <p>Uerum quia a pluribus personis fide dignis, maturis et honestate preditis, sepius audiuimus, quod dicte nostre constituciones, quas pro salubri remedio animarum intencionis nostre erat edidisse, ad ruinam et periculum animarum multorum tendere uiderentur, cupientes, quantum nobis ex alto concessum est, semper auctore Deo, de salubri remedio animarum saluti consulere: super hec eciam sollicitati sepius et requisiti, constituciones ipsas, auctoritate nobis concessa in concilio Bononie per nos celebrato, declarandi, interpretandi, minuendi, moderandi et mitigandi constituciones prouinciales nostras et predecessorum nostrorum, et penas in eis insertas, moderamus et declaramus, ac declarando ac mitigando, statuimus, quod nullus de cetero penas in dictis constitucionibus contentas incurrat pro ingressu monasterii; dummodo locum monialibus pro clausura deputatum per locorum ordinarios non ingrediantur, in quo casu firme et illibate dicte constituciones permaneant.</p>
+                    <p>Concedimus eciam, quod quelibet persona, que non sit notabiliter suspecta, possit loqui monialibus memoratis, sine metu pene, ad cratem seu fenestram ferream, de licencia abbatisse, seu priorisse, uel eius locum tenentis: presentibus tamen semper duabus ex monialibus ab abbatissa uel priorissa, uel earum uicem tenente, ut premittitur, specialiter deputatis, que semper uidere possint et audire sororem, seu monialem, ad fenestram uocatam.</p>
+                </div>
+                <div>
+                    <head>Capitulum 24</head>
+                    <p>Cum ad presidentes officium pertineat exacciones illicitas prohibere, et operantibus de premio seu mercede condigna iuxta qualitates laborum facere prouideri, et in concilio dudum per nos Rauenne celebrato contineatur, ut salaria notariorum et sigilliferorum dominorum episcoporum taxarentur et moderarentur, et quamplures querele ad nos deuenerint super indebitis extorsionibus et oneribus exactis ab eisdem, super hocque in sacro concilio per nos nuper Bononie celebrato, collacio inter nos et suffraganeos nostros, qui in dicto concilio interfuerunt, habita fuerit: et cum dictum fuerit debere super hoc prouideri de remedio opportuno: sed quia multitudine negociorum in dicto concilio terminandorum occupati, non potuimus plene tunc temporis circa hoc intendere sicut desiderabamus, per presentem paginam duximus ordinandum, et hortandum dominos episcopos, suffraganeos ecclesie Rauennatis, quatenus quilibet eorum in sua curia limitare, taxare, et moderari debeat, ad omne scandalum tollendum, quantum notarii seu scriptores eorum uel officialium ipsorum percipere debeant pro quolibet instrumento seu scriptura publica uel priuata, et quantum sigillifer pro sigillo: nosque ex potestate nobis in dicto concilio tradita declarandi constituciones prouinciales nostras, et predecessorum nostrorum, et omni modo, quo melius possumus, uolentes quantum in nobis est, dictam constitucionem obseruare, et execucioni debite demandare, ordinamus et taxamus, quod in solucione facienda notariis pro scripturis, et sigilliferis pro sigillo, modus infrascriptus debeat obseruari.</p>
+                    <p>In primis recipere possit notarius de litteris citacionis simplicibus, seu breuibus cum registracione, 12. denarios Rauennates uel Bononienses: et sigillifer pro sigillo 6. denarios.</p>
+                    <p>De litteris citatoriis, cum narracione prolixa, 2. solidos: et pro sigillo 6. denarios.</p>
+                    <p>De citacione per nuncios, sine litteris, uidelicet pro commissione et relacione, 12. denarios.</p>
+                    <p>Si uero citerentur duo aut plures, recipere posset duos denarios pro quolibet, ultra dictos 12. denarios.</p>
+                    <p>De comparacione seu presentacione, 4. denarios.</p>
+                    <p>De consignacione termini, seu prorogacione, 2. denarios pro parte.</p>
+                    <p>De licencia, parte absente, 4. denarios.</p>
+                    <p>De accusacione contumacie, cum protestacione expensarum, 6. denarios.</p>
+                    <p>De protestacione sine scriptis, 6. denarios.</p>
+                    <p>De protestacione in scriptis, si fuerit prolixa, soluatur ad modum folii registri, sicut infra continetur, in simplici copia.</p>
+                    <p>De oblacione libelli, 3. denarios pro qualibet, uel aliter ad modum registri.</p>
+                    <p>De replicacionibus recipiat idem.</p>
+                    <p>De litis contestacione et iuramento, a qualibet parte, 12. denarios.</p>
+                    <p>De registracione libelli recipiat ab actore tantum, quantum pro registro, in simplici copia, ut supra.</p>
+                    <p>De peticionibus, pro unaquaque recipiat a ponente 3. denarios, et a respondente 1. denarium.</p>
+                    <p>De articulis recipiat ab exhibente, ad modum registri, ut supra.</p>
+                    <p>De copia articulorum, recipiat tantumdem.</p>
+                    <p>De testibus, pro examinacione et scriptura, de quibus folio continente ad minus 25. lineas pro pagina, et 12. dicciones pro linea, que est forma registri, 2. solidos.</p>
+                    <p>De copia in publica forma, tantumdem.</p>
+                    <p>De simplici copia 16. denarios.</p>
+                    <p>De registracione instrumentorum, at aliorum productorum, recipiat ad modum folii registri.</p>
+                    <p>De simplici copia, ut supra continetur, 16. denarios.</p>
+                    <p>Si instrumenta et alia producta registrari non contingat ex causa, tunc de scriptura, seu annotacione, sicut sunt producta pro quolibet instrumento, 4. denarios.</p>
+                </div>
+                <div>
+                    <head>Explicit</head>
+                    <p>De conclusione in causa a qualibet parte, 16. denarios.</p>
+                    <p>De exhibicione suspectorum et confidentium, et assumpcione sapientium ad consulendum, a qualibet parte 6. denarios.</p>
+                    <p>De articulo questionis, super quo debeat consuli, si formabitur, pro parte qualibet 12. denarios, et pro sigillo 10. denarios.</p>
+                    <p>De sentencia definitiua lata ex causa pecuniaria, uel more civili, que estimacionem recipiat, recipiat pro prima libra 2. solidos, et pro singulis libris, usque ad 10. libras, 12. denarios pro libra et ab inde supra, usque ad quinquaginta libras, ultra dictam taxacionem, 3. denarios pro libra.</p>
+                    <p>Ultra uero dictas quantitates, usque ad centum, 2. denarios pro libris, et abinde supra 1. denarium pro libra qualibet, ultra omnes predictas taxaciones: et pro sigillo pendente, si fuerit pendens, 6. solidos ad plus; si non fuerit pendens, 2. solidos Bononiensis. [10]</p>
+                    <p>De interlocutoria, 2. solidos, uel plus, uel minus, arbitrio iudicantis: pro sigillo pendente, 2. solidos; et pro non pendente 12. denarios.</p>
+                    <p>Item si appelletur ab ea, tantumdem recipiat: si detur in forma publica, et idem de sigillo, ut in proximo.</p>
+                    <p>De appellacione viva uoce a definitiua sentencia, 6. denarios.</p>
+                    <p>De appellacione in scriptis oblata recipiat ad modum registri in simplici copia: et si fiat in publica, recipiat tantum, quantum habuerit de sentencia.</p>
+                    <p>De sigillo soluatur ut pro sentencia definitiua.</p>
+                    <p>Pro super iure decimarum, uel patronatus, si super eo consilium habeatur, recipiat notarius quartam partem eius, quod consultori.</p>
+                    <p>Si autem super causa matrimoniali eiam requiratur consilium, uel super premissis, uel consimilibus, consilium non haberetur, iudex arbitretur, pensatis statu, condicionibus et facultatibus personarum, et qualitate causarum, prout equum et iustum uidebitur, religioni et pauperibus compatiendo.</p>
+                    <p>De solucionibus que occurrunt circa collaciones beneficiorum in primis, si ponatur edictum de rectoria capelle ruralis uel urbane, pro scriptura, commissione, et relacione, 3. solidos, pro sigillo 12. denarios.</p>
+                    <p>Pro instrumento, confirmacione, collacione, seu inuestitura eiusdem 30. solidos; considerata tamen qualitate ipsius beneficii: et pro sigillo 2. solidos.</p>
+                    <p>Si edictum ponatur pro archipresbyteratu, uel alia dignitate seu personatu seculari, 4. solidos: pro sigillo 12. denarios.</p>
+                    <p>Pro instrumento confirmacionis eiusdem, 3. libras: pro sigillo 6. solidos.</p>
+                    <p>Si ponatur edictum de prioratu, seu de abbacia, 5. solidos: pro sigillo 2. solidos.</p>
+                    <p>Pro instrumento confirmacionis eiusdem, 8. libras: pro sigillo 10. solidos.</p>
+                    <p>Si de episcopatu ponatur edictum, 10. solidos: et pro sigillo 3. solidos.</p>
+                    <p>Pro instrumento confirmacionis eiusdem, 25. libras: pro sigillo 20. solidos.</p>
+                    <p>Si autem collaciones, confirmaciones, uel inuestituras huiusmodi, seu cause eorum alteri committere contingat, ad peticionem partis, uel partium: tunc soluatur notario de commissione tercia pars eius quod taxatum est: ut nihilo minus taxacio predicta soluatur notario pro confirmacione.</p>
+                    <p>Si autem sponte, seu ex arbitrio committentis fiat commissio: tunc tercia pars, que dabitur notario pro commissione, computetur in salario supra taxato notario scribenti dictam commissionem: et detur pro sigillo id quod supra taxatum est.</p>
+                    <p>Si autem solam audienciam et comminacionem cause committi contingat, soluatur pro commissione duplum eius quod datum fuerit pro edicto.</p>
+                    <p>Si autem certum, uel certos articulos committi contingat, soluetur quod taxatum est pro edicto, et tantumdem pro sigillo.</p>
+                    <p>De commissione appellacionis 10. solidos, pro sigillo pendente 2. solidos, uel 12. denarios.</p>
+                    <p>De litteris questorum 20. solidos: pro sigillo pendente 3. solidos, alias 2. solidos.</p>
+                    <p>De dispensacionibus beneficiorum, etatis uel ordinum, 15. solidos: pro sigillo pendente 4. solidos, alias 12. denarios.</p>
+                    <p>De licencia absentandi, seu non residendi, 10. solidos: pro sigillo 12. denarios.</p>
+                    <p>Pro littera presentatoria et testificatoria ad ordines 8. solidos: pro sigillo 6. denarios.</p>
+                    <p>De litteris seu instrumentis ordinum 3. solidos: pro sigillo 12. denarios.</p>
+                    <p>Et si aliquis casus contingeret, qui non uideretur in premissis expressus, fiat taxacio eius et reduccio, seu restriccio ad arbitrium boni uiri secundum formam registri, ut premittitur, uel alias, prout equitati et moderatori dominorum episcoporum, uel eorumdem uicariis uidebitur conuenire, omnium semper equitate librata.</p>
+                    <p>Et quicumque hoc directe et fideliter obseruauerit, tamquam fidelis seruus Domini, mereatur premium uite eterne: cogitans quod quidquid recipiet cum taxacione, moderacione et restriccione predictis, iuste recipiet, et licite poterit retinere, et sine aliquo conscientie remorsu.</p>
+                    <p>Contra uero facientes nouerint se plecti debere, eciam pena in constitucionibus comprehensa.</p>
+                    <p>Et ut hec omnibus nota fiant, in albo stilo describantur, seu clarius in membrana, in loco ubi ius redditur, affigantur, in singulis pretoriis, ubi ius redditur in curiis episcoporum.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] ed. sigare</p>
+                    <p>[2] open round brackets here.</p>
+                    <p>[3] close round brackets here.</p>
+                    <p>[4] ed. effoctum</p>
+                    <p>[5] no period uisible in scan but assumed to be end of sentence.</p>
+                    <p>[6] Printed with end of line hiphen as &quot;ec-elesias&quot;.</p>
+                    <p>[7] &quot;ecclesie&quot; printed in round brackets.</p>
+                    <p>[8] no period uisible in scan but assumed to be end of sentence.</p>
+                    <p>[9] no period uisible in scan but this is the end of this seccion.</p>
+                    <p>[10] no period uisible in scan but appears to be end of sentence.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

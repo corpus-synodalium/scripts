@@ -1,0 +1,157 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bar</title>
+                <recordID>1969</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1199</origDate>
+                <dateNotes/>
+                <origPlace>Bar</origPlace>
+                <diocese>Bar</diocese>
+                <province>Bar</province>
+                <country>Montenegro</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Legatine</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 1969</p>
+                <p>Year: 1199</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Bar</p>
+                <p>Diocese: Bar</p>
+                <p>Province: Bar</p>
+                <p>CountryModern: Montenegro</p>
+                <p>Latitude: 42.1</p>
+                <p>Longitude: 19.1</p>
+                <p>PlaceNotes: legatine synod for Dalmatia in general</p>
+                <p>Classification: Legatine</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Theiner, Vet.mon.Slav. vol. 1, pp7-8</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: https://babel.hathitrust.org/cgi/pt?id=mdp.39015035826935;view=1up;seq=55</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'WebDownload']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: 12 articles</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>All Text</head>
+                    <p>In nomine patris et filii et spiritus sancti.</p>
+                    <p>Nos Iohannes Capellanus et Simon subdiaconus domini [1] Innocentii pape tertii, apostolice sedis legati ad euellenda nociua de agro dominico, et uirtutum plantaria utiliter inserenda, uidentes multa in clero et populo Dalmatie et Dioclie corrigenda, de sanctorum patrum conciliis decreta presencia duximus innouanda.</p>
+                    <p>In primis itaque decernimus, ut nullus episcopus aliquem ad sacros ordines per pecuniam promouere, seu ecclesiastica beneficia alicui precio interueniente concedere presumat.</p>
+                    <p>Cum enim dominus preceperit Apostolis: Gratis accepistis, gratis date; et spiritus sancti gracia uenalis esse non possit, que in sacris confertur ordinibus: graui puniendus est pena, qui spiritus sancti dona uenalia exponere non ueretur.</p>
+                    <p>Quocirca presenti decreto statuimus, ut quicumque episcopus hoc agere conuictus fuerit, omni ecclesiastica careat dignitate et sine spe restitucionis tam ille qui dederit, quam ille qui scienter sacros ordines pecunia interueniente receperit, perpetuo deponatur.</p>
+                    <p>Cum domini [2] sacerdotes, et hii qui sacro altario deseruiunt, continenter uiuere debeant iuxta illud: Mundamini, qui fertis uasa domini; in partibus Dalmatie atque Dioclie sacerdotes et uxores habere et ecclesias tenere dicuntur.</p>
+                    <p>Quocirca presenti decreto statuimus, ut sacerdotes et diaconos ante susceptum officium, nisi eorum coniuges in manu episcopi uotum fecerint continentie, uxores habentes cum ipsis maneant et ecclesias dimittant: non enim possint secundum ordinem Romane ecclesie manentes in coniugio, nisi defunctis uxoribus aut continenciam uouentibus, si digni inuenti fuerint, ad sacerdotium promoueri.</p>
+                    <p>Illi uero, qui post susceptum sacerdotii uel diaconatus honorem adulteras potius quam uxores accepisse probantur, nisi eas dimiserint, et dignam egerint penitenciam, ab officio et ecclesiastico beneficio fiant penitus alieni.</p>
+                    <p>Prohibemus eciam, ne aliquis episcopus, nisi in quatuor temporibus iuxta sanctorum patrum constitucionem aliquem ad sacros ordines promouere presumat: solus enim Romanus pontifex dominicis diebus subdiaconus ordinare potest.</p>
+                    <p>Cum autem episcopus ordinacionem fecerit, non nisi unum ordinem a subdiacono et supra conferre presumat.</p>
+                    <p>Ordinatus autem in subdiaconatum ad munus per annum in eodem officio deseruiat, et diaconus similiter faciat.</p>
+                    <p>Quicumque autem episcopus contra hoc uenire presumpserit, tamdiu a conferendis ordinibus abstineat, donec a Romano pontifice misericordiam consequatur.</p>
+                    <p>Quoniam secundum gradus et ordines personarum beneficia ecclesiastica in domo domini [3] secundum sanctorum patrum constitucionem distributa noscuntur, decernimus, ut decime seu oblaciones fidelium tam pro uiuis quam pro defunctis in quatuor partibus diuidantur, quarum una sit episcopi, alia ecclesiarum, tercia pauperum, quarta clericorum.</p>
+                    <p>Porcionem quidem pauperum episcopus [4] amministret: porcionem uero ecclesiarum archipresbiter conseruet, et ex mandato episcopi in usibus ecclesie fideliter expendat.</p>
+                    <p>Quicumque autem clericorum contra hoc uenire presumpserit, sua porcione priuetur.</p>
+                    <p>Districtius inhibemus, ne aliquis sacerdos filii sui uel filie spiritualis priuatam confessionem alicui reuelare presumat.</p>
+                    <p>Quod si facere conuictus fuerit, officio et beneficio ecclesiastico perpetuo spolietur.</p>
+                    <p>Idem dicimus de quolibet clerico, qui de homicidio, adulterio, periurio, falso testimonio publice accusatus fuerit et conuictus.</p>
+                    <p>Cum terrarum potestatum nunciis siue ministris honor exhibeatur ab omnibus, multo magis ministris dei honor a laicis exhibendus est, a quibus eis non solum diuina celebrantur officia, uerum eciam sacrum baptisma et corpus domini et penitencia, et cetera ecclesiastica sacramenta iugiter ministrantur.</p>
+                    <p>Quapropter iuxta decretum domini Innocentii pape secundi districtius inhibemus, ne aliquis in personam episcopi siue sacerdotis, uel cuiuslibet clerici uel religiosi uiri uiolentas manus inicere presumat.</p>
+                    <p>Quicumque autem hoc attemptauerit, tamdiu excommunicatus maneat, donec de tanta presumpcione satisfacturus apostolico se conspectui representet, uel ab eius legato, prestita congrua satisfaccione, absolucionis beneficium consequatur.</p>
+                    <p>Similiter sub excommunicacione prohibemus, ne aliquis laicus clericum ad peregrina iudicia trahere presumat ueluti candentis ferri, uel aque, uel cuiuslibet alterius iudicii: non enim pertinet ad laicum clericum iudicare.</p>
+                    <p>Si autem clericus peccauerit, ab archiepiscopo uel episcopo [5], uel eciam prelato suo, aut Romano pontifice, si necesse fuerit, iudicetur.</p>
+                    <p>Cum sacrosancta Romana ecclesia, que mater est omnium ecclesiarum et magistra, decreuerit, ut nullus christianus usque ad septimum consanguinitatis gradum coniugium contrahere presumat, graue nimis est et diuini dignum animaduersione iudicii, quod in partibus Dalmatie et Dioclie a multis factum in ueritate comperimus, ut homines dei timorem non habentes cum consanguineis in quarto et quinto gradu uel infra contra sanctorum patrum constitucionum coniugia contrahere non formident.</p>
+                    <p>Quapropter presenti decreto statuimus, ut quicumque in quarto gradu presertim uel infra coniugium habere conuincitur, nisi ad mandatum ecclesie satisfecerit, et a sue consanguinitatis incesta coniunccione recesserit, tamdiu maneat excommunicatus et ab omnibus ecclesie sacramentis separatus, donec a nefaria copula separetur, et ad mandatum ecclesie satisfaciat.</p>
+                    <p>Item precipimus, ut clerici rasuram et tonsuram teneant clericalem.</p>
+                    <p>Qui autem hoc non fecerit, ab episcopo districcione canonica compellatur.</p>
+                    <p>Cum due sunt in terris potestates a domino constitute, spiritualis uidelicet et secularis, et una de spiritualibus et ecclesiasticis, altera de secularibus habeat iudicare, graue committitur peccatum, quicumque laicus uel ecclesias donare uel ecclesiasticas personas iudicare presumit.</p>
+                    <p>Quocirca presenti decreto statuimus auctoritate dei omnipotentis et beatorum Apostolorum Petri et Pauli, et domini pape Innocentii, ut quicumque clericus de manu laica ecclesiam uel ecclesiastica beneficia receperit, tam qui dederit, quam qui receperit, tamdiu excommunicacionis uinculo teneatur astrictus, donec ad mandatum ecclesie plenarie satisfaciat: et quod contra sacros canones factum fuerit, irritum habeatur et uacuum.</p>
+                    <p>Illos autem laicos, qui ante constitucionem istam ecclesias donauerint, uel in ecclesiasticas personas manus iniecerint uiolentas, uolumus per episcopos tercio commoneri, et nisi penitenciam egerint competentem, eadem sentencia teneantur astricti.</p>
+                    <p>Excommunicamus omnes illos, qui thesauros ecclesiarum iniuste detinent, donec restituant, et eos, qui Latinos detinent in seruitute, nisi recepta pecunia, quam dederunt, eos pristine restituant libertati.</p>
+                    <p>Item excommunicamus omnes illos, qui proprias dimiserunt uxores, uel decetero dimiserint sine iudicio ecclesie, donec ad ipsas reuertantur.</p>
+                    <p>Prohibemus eciam, ut filii presbiterorum, et qui de legitimo non sunt nati matrimonio, ad sacros ordines non accedant.</p>
+                    <p>Similiter prohibemus, ut nullus ordinetur in sacerdotem, nisi tricesimum expleuerit annum.</p>
+                    <p>Ego fr. Iohannes domini pape Capellanus apostolice sedis legatus scripsi et subscripsi.</p>
+                    <p>Ego fr. Simon domini [6] pape subdiaconus apostolice sedis legatus subscripsi.</p>
+                    <p>Ego Iohannes Diocliensis et Antibarensis Archiepiscopus subscripsi.</p>
+                    <p>Ego Dominicus archipresbiter Arbanensis subscripsi.</p>
+                    <p>Ego Petrus Scuarinensis episcopus subscripsi.</p>
+                    <p>Ego Iohannes Polatinensis episcopus subscripsi.</p>
+                    <p>Ego Petrus Aruastinensis episcopus subscripsi.</p>
+                    <p>Ego Dominicus Soacinensis episcopus subscripsi.</p>
+                    <p>Ego Natalis Dulcinensis episcopus subscripsi.</p>
+                    <p>Ego Theodorus Sarcanensis episcopus subscripsi.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] dni</p>
+                    <p>[2] dni</p>
+                    <p>[3] dni</p>
+                    <p>[4] epus</p>
+                    <p>[5] epo</p>
+                    <p>[6] dni</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kromeriz</title>
+                <recordID>1291</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1380</origDate>
+                <dateNotes/>
+                <origPlace>Kromĕříž</origPlace>
+                <diocese>Olomouc</diocese>
+                <province>Prague</province>
+                <country>Czech Republic</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 1291</p>
+                <p>Year: 1380</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Kromĕříž</p>
+                <p>Diocese: Olomouc</p>
+                <p>Province: Prague</p>
+                <p>CountryModern: Czech Republic</p>
+                <p>Latitude: 49.2989</p>
+                <p>Longitude: 17.393</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: John IX of Sroda Slaska</p>
+                <p>IssuingAuthorityAlt: Johannes Noviforensis</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Krafl, Synody, 314-5 [A5]</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['Library Scan', 'Hard Copy Scan']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>All Text</head>
+                    <p>Dei et apostolice sedis gracia Olomucensis episcopus Iohannes honorabilibus et discretis uiris, dominis decanis, prepositis, archidiaconis, canonicis, plebanis, ecclesiarum rectoribus, altaristis et uicariis per ecclesiam, ciuitatem et diocesim nostras Olomucenses constitutis salutem in eo, qui est omnium uera salus.</p>
+                    <p>Honorabiles, deuoti dilecti, accepimus relacione ueridica et experiencia didicimus cottidiana, quod statutum felicis memorie domini Iohannis, episcopi Olomucensis, nostri predecessoris, quod incipit: Licet canon prouincialis statuti [1] in defensionem ecclesiastice libertatis aduersus captiuatores clericorum et spoliatores bonorum ecclesiasticorum cum magna maturitate factum et nonnullis retroactis temporibus tentum et seruatum modo, quod cum cordis amaritudine referrimus, non seruatur, nec debite exequitur secundum sui [2] modum et tenorem; pro eo uobis omnibus et singulis in uirtute sancte obediencie et sub excommunicacionis pena, quam uos et quemlibet uestrum incurrere uolumus ipso facto, si in premissis fueritis negligentes, trium tamen dierum monicione tamquam canonica preuia, districte presentibus iniungimus et mandamus, quatinus ipsum statutum sic inuiolabiliter et inconcusse usque modo tentum et seruatum, quocies et quando persona ecclesiastica captiuari et bona ecclesiastica inuadi contigerit, non expectato superioris mandato secundum continenciam statuti antedicti ad unquem seruetis et seruari faciatis cessando a solempniis diuinorum, donec menti et uerbis eiusdem statuti paritum fuerit cum effectu, nullam negligenciam in premissis commissuri, prout de obediencia pocius commendari uolueritis quam de inobediencia reprehendi.</p>
+                    <p>Datum Chremsier in synodo per nos celebrata sub sigilli nostri maioris appensione anno Domini millessimo tricentessimo octuagesimo feria secunda post festum Trinitatis.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] 'Licet canon prouincialis statuti' in quotacion marks.</p>
+                    <p>[2] '(sic!)' inserted here.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

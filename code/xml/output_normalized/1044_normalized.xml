@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dax</title>
+                <recordID>1044</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1360-10-20</origDate>
+                <dateNotes/>
+                <origPlace>Dax</origPlace>
+                <diocese>Dax</diocese>
+                <province>Auch</province>
+                <country>France</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 1044</p>
+                <p>Year: 1360</p>
+                <p>Month: 10</p>
+                <p>Day: 20</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Dax</p>
+                <p>Diocese: Dax</p>
+                <p>Province: Auch</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 43.7072</p>
+                <p>Longitude: -1.0553</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: None</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Degert, “Constitutions synodales,” Bulletin, 23, no. 3: 150-51; no. 4: 157-58</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: https://books.google.com/books?id=en0UAAAAYAAJ</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'WebDownload']</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>All Text</head>
+                    <p>Anno [1] domini Mille CCC LX die Martis post festum beati Luce euangeliste in ecclesia cathedrali Aquensi, in publica synodo facte publicate fuerunt infrascripte constituciones per reuerendum in Christo patrem et dominum Petrum Iterii Dei gracia episcopum Aquensem.</p>
+                    <p>Quarum constitucionum tenor sequitur per hec uerba.</p>
+                    <p>De beneficiis ecclesiasticis conferendis.</p>
+                    <p>Quia iura civilia dicunt quod quis non debet esse sollicitus de hereditate uiuentis, cui consonat decretalis inhibens quod quis uiuentis beneficium nullatenus ambiat seu a collatore petatur, statuimus quod quicumque petens beneficium uiuentis a collatore, seu ab habente conferendi potestatem in penam sue ambicionis ab assecucione illius beneficii, quod sibi importune postulat, perpetuo sit exclusus.</p>
+                    <p>Et hanc constitucionem infra mensem uolumus per rectores nostre diocesis in suis ecclesiis publice publicari.</p>
+                    <p>De sortilegiis et breuium portantibus citandis per rectorem.</p>
+                    <p>Item quia ut percepimus in nostra diocesi sunt plures sortilegi, diuini et breuium portantes, que omnia iura diuina et canonica multum prohibent et abhorrent, et nos nequeamus, sicut Deo placet, de presenti nostram diocesim uisitare, statuimus quod quilibet rector in sua parochia possit oraculo uiue uocis prefatos tales maleficos citare coram officiali nostro ad certam diem, cuius relacioni litteratorie sub sigillo suo uel sue ecclesie sigillate fidem dari uolumus perinde [2] ac si per litteras nostre curie citacio facta esset.</p>
+                    <p>De lusoribus et uendentibus mercimonia infra ecclesiam uel cimiterium clausum.</p>
+                    <p>Item quia scriptum est quod domus mea domus oracionis uocabitur, uos autem fecistis eam domum negociacionis, et ad nostram ecclesiam cathedralem omnes de nostra diocesi habent confluere pro reuerencia tanquam matrici ecclesie impendenda et ipsi postea in mercatis et nundinis eam uituperant uendendo et emendo ibi pelles mortuas et alia mercimonia inhonesta, ordinamus et statuimus quod quicumque infra ecclesiam seu claustrum uel cimiterium clausum teneat mercimonia aliqua pro uendendo, quod sic tenens in X solidis morlanorum puniatur; de quibus X solidis habeat II solidos reuelans sic tenentem, et VIII solidi applicentur fabrice ecclesie sic offense.</p>
+                    <p>Et idem statuimus de lusoribus in ecclesia et cimiterio clauso uel non clauso supradictis.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] Corrected from 'Annno'.</p>
+                    <p>[2] Ed. [perinde].</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

@@ -1,0 +1,422 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paris</title>
+                <recordID>1975</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate precision="circa">1213</origDate>
+                <dateNotes/>
+                <origPlace>Paris</origPlace>
+                <diocese>Paris</diocese>
+                <province>Sens</province>
+                <country>France</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Legatine</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 1975</p>
+                <p>Year: 1213</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: Yes</p>
+                <p>DatingNotes: Pontal (Conciles de la France capetienne, p397) considers these to be later</p>
+                <p>Place: Paris</p>
+                <p>Diocese: Paris</p>
+                <p>Province: Sens</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 48.24754</p>
+                <p>Longitude: 3.287659</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Legatine</p>
+                <p>IssuingAuthority: Robert de Courcon</p>
+                <p>IssuingAuthorityAlt: Robert Curzon; Robertus de Corceone</p>
+                <p>RegnalStart: None</p>
+                <p>RegnalEnd: None</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Mansi 22, cols 844-57</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'Data Capture']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: Additiones to preceding statutes of 1213 council, along with a set of later statutes</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Capitulum A1</head>
+                    <p>CUm multa oriantur scandala et opprobria, que nocent ecclesie libertati, de eo quod peruersa consuetudine quorumdam, eorum filii ad interuentum pecunie uel alio turpi modo succedunt in prebendis et parochiis ipsorum: auctoritate, qua fungimur, statuimus ut filii priuentur beneficiis sic impetratis.</p>
+                </div>
+                <div>
+                    <head>Capitulum A2</head>
+                    <p>Si prelatus uel quecumque persona emerit prioratum continentem decimas uel parochias, uel alia bona spiritualia, cum hec de iure uendi non possint, denunciamus talem contractum illicitum penitus irritandum.</p>
+                    <p>Et si ceperit talem prioratum ad uitam suam pro certa pecunia causa melioracionis, et non illum meliorauerit, sed potius in deteriorem statum reddiderit; soluta summa pecunia, quam pro illo tradidit, restituat pristine dignitati.</p>
+                </div>
+                <div>
+                    <head>Capitulum A3</head>
+                    <p>Statuimus preterea, ut quicumque officialis infamatus fuerit super uendicione iustitie uel cuiuscumque sacramenti, ab illo officio remoueatur ab episcopo Episcopus autem, si eum amouere neglexerit, canonice puniatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum A4</head>
+                    <p>Item, statuimus ut nulli habenti curam parochialem liceat seculares sciencias addiscere, ex quibus nullatenus possit subditorum suorum saluti prodesse.</p>
+                    <p>Immo si a prelato suo licenciam litteram aut sacram paginam ad informacionem parochianorum suorum addiscat.</p>
+                    <p>Si enim de scholis suis omnibus quisquilias secularis scientie attulerit, et nullos flores de pratis celestis philosophie, secundum euangelium, tamquam infatuatus reiiciatur, et ab omnibus conculcetur.</p>
+                </div>
+                <div>
+                    <head>Capitulum A5</head>
+                    <p>Item statuimus contra prelatos et patronos, ne intuitu mutui, aut indebiti seruitii a feneratoribus accepti, ad prebendas uel ecclesias filios uel nepotes feneratorum admittant.</p>
+                </div>
+                <div>
+                    <head>Capitulum A6</head>
+                    <p>Si abbas, uel prior, uel patronus aliquis indignum presentat episcopo pro cura pastorali obtenenda, statuimus ut talis presentator et receptor canonica pena lata contra illos, qui opus Dei faciunt fraudulenter, puniantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum A7</head>
+                    <p>Si quis autem prelatus beneficium non uacans, contra concilium Lateranense alicui contulerit, in eo puniatur, in quo deliquit, scilicet, ut illa uice careat auctoritate conferendi tale beneficium, quod indigne presumpsit conferre, et maior, cui data est potestas, auctoritatem habeat conferendi illud.</p>
+                </div>
+                <div>
+                    <head>Capitulum A8</head>
+                    <p>Si abbas, uel prior, uel alius prelatus concesserit beneficium non uacans, et super hoc det ei litteras patentes, uel certas pensiones decernimus illam pensionem non tenere et pensiones illas non debere persolui.</p>
+                    <p>Quod si actum fuerit, irritetur, et in penam ipsorum concedimus, quod episcopus loci conferat beneficium illud cum uacauerit.</p>
+                </div>
+                <div>
+                    <head>Capitulum A9</head>
+                    <p>Nullus questuarius uel conductitius predicator pro hospitali uel pro alia domo admittatur ad predicandum aliquo modo, propter enormia scandala que seminant huiusmodi pseudopredicatores; tamen nuntii fideles canonici uel capellani cathedralis ecclesie boni testamonii, uel boni presbyteri, parochiales scilicet, ad arbitrium archiep. uel episcopi loci, uel eorum quorum interest, pro hospitali et aliis causis pietatis admittantur pro acquirendis eleemosinis ad usus pauperum, uel reparacionem ecclesiarum, nec talis administrator, qui super arcas et asseres missam celebret in contemptum Dominici Sacramenti.</p>
+                </div>
+                <div>
+                    <head>Capitulum A10</head>
+                    <p>Item statuimus sub pena suspensionis, ne aliquis sacerdos aut in nundinis aut alibi bifaciet, aut trifaciet missas contra canonicas sancciones.</p>
+                </div>
+                <div>
+                    <head>Capitulum A11</head>
+                    <p>Cum multe parochiales ecclesie propter inopiam sacerdotum debito seruicio defraudentur, ut auctoritate legacionis nostre, et sub pena excommunicacionis precipimus, quatenus a patronis et ab aliis, quorum interest, tam competenter prouideatur sacerdoti, ut diuina ibidem possit honeste celebrare.</p>
+                    <p>Competens autem iudicamus secundum interpretacionem domini pape factam.</p>
+                    <p>Si autem alique ecclesie, que olim opulente, ab aliquo fuerint refecte, nisi canonice factum fuerit, id irritum iudicamus, et beneficia ecclesiarum redintegrari plenissime precipimus, et ne de cetero fiat, sub pena excommunicacionis inhibemus.</p>
+                </div>
+                <div>
+                    <head>Capitulum A12</head>
+                    <p>Nullus sacerdos secularis uel religiosus, uel alius clericus ab episcopo admittatur ad curam animarum, nisi premissa canonica examinacione.</p>
+                    <p>Unde si episcopo presentetur sacerdos, qui sit quasi truncus, nesciens idioma illius parochie, ad quam presentatur, talis non recipiatur.</p>
+                    <p>Et episcopus, si dignus presentetur, non differat illum recipere bona fide, et talis sit etatis qui fuerit presentatus, qualem determinat concilium Lateranense, et in breui possit et debeat ordinari.</p>
+                </div>
+                <div>
+                    <head>Capitulum A13</head>
+                    <p>Cum quidam canonici iurauerint, quod residenciam facerent in diuersis ecclesiis, statuimus ut compellantur ad alterius resignacionem, et in altera debitam facientes residenciam, una illarum sint contenti.</p>
+                </div>
+                <div>
+                    <head>Capitulum A14</head>
+                    <p>Statuimus ut de noualibus laici nullo modo decimam percipiant, immo eam sine aliqua diminucione ecclesie persoluant.</p>
+                </div>
+                <div>
+                    <head>Capitulum A15</head>
+                    <p>Si quis habens parochiam in aliqua ecclesia prebendetur; ad alterius beneficii resignacionem, cuius uoluerit, compellatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum A16</head>
+                    <p>De canonicis et clericis tenentibus parochias et prebendas, in inferioribus ordinibus constitutis, et nihilominus matrimonio copulati, statuimus, et sub pena suspensionis et excommunicacionis prohibemus, ne sic uxorati in scandalum populi ministrent altari.</p>
+                    <p>Decreuimus eciam eos priuandos beneficio ecclesiastico, illis dimissis in matrimonio, eo quod nullatenus debent arare in boue et asino.</p>
+                </div>
+                <div>
+                    <head>Capitulum A17</head>
+                    <p>Si quis uxoratus clericus in inferioribus ordinibus constitutus, teneat preposituras et bailliuas ecclesie, in qua non potest de iure, obstante matrimonio, deseruire; cum illa bona, que tenet de ecclesia, non possint ad laicos usus transire, statuimus sub pena excommunicacionis, quod tales, quod teneant, ecclesie penitus restituant.</p>
+                </div>
+                <div>
+                    <head>Capitulum A18</head>
+                    <p>Si quis in sacris ordinibus constitutus de facto contraxerit matrimonio, ab omni officio et beneficio suspendatur, et non possit absolui, nisi per dominum papam.</p>
+                </div>
+                <div>
+                    <head>Capitulum A19</head>
+                    <p>Sacerdotes qui ex negligencia uel auaricia noluerunt habere libros ad matutinas per singulas ferias decantandas; immo tota septimana, omissis canonicis horis et matutinis, missam celebrant; statuimus, et sub pena suspensionis precipimus, ut libros ad hoc deputatos, aliis expensis omissis, adquirant, et secundum canonicas sancciones horas matutinales et alias canonicas decantent.</p>
+                </div>
+                <div>
+                    <head>Capitulum A20</head>
+                    <p>Item secundum canonicas sancciones sub pena excommunicacionis precipimus, quod si quis clericus infamatus fuerit, quod illud beneficium per simoniam adquisierit: si defecerit in purgacione, uel alias canonice super hoc conuictus fuerit, a beneficio et officio sic adquisito suspendatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum A21</head>
+                    <p>Statuimus ut cum contigerit aliquam prebendam in ecclesia uacare, statim digne persone, ne perdat seruitium, secundum instituta canonica conferatur, ut illa praua aboleatur consuetudo, qua quedam ecclesie solent tot uacantes prebendas a collacione tamdiu suspendere, ut unusquisque ex communi assensu nepoti uel consanguineo sub quocumque paruo uel indigno possit ad arbitrium sue uoluntatis mendicare.</p>
+                </div>
+                <div>
+                    <head>Capitulum A22</head>
+                    <p>Inhibemus, ne quis clericus in sacris ordinibus constitutus, in sotularibus habeat rostra, et ne palliolo de cendallo inhoneste amictus, saltem per plateas incedat.</p>
+                </div>
+                <div>
+                    <head>Capitulum A23</head>
+                    <p>Item, ne quis clericus in sacris ordinibus constitutus, nisi forte quem paupertas attenuat, in supertunicali, sine cappa uel mantello per uicos ciuitatis incedat.</p>
+                    <p>Expliciunt instituciones in Clericis.</p>
+                </div>
+                <div>
+                    <head>Capitulum B</head>
+                    <p>INCIPIUNT DECRETA</p>
+                    <p>De regularibus et monachis.</p>
+                </div>
+                <div>
+                    <head>Capitulum B8</head>
+                    <p>[1] Cum quidam monachi uel religiosi igne cupiditatis adeo sint inflammati, ut in uariis coenobiis uarias fraternitates uenari non erubescant, ut hoc pretextu promoueantur ipsi uel aliqui suorum ad aliquem prioratum, uel aliam quamcumque administracionem: precipimus, ut nullus, ex quo alicui loco religioso uinculo professionis fuerit obligatus, recipiatur in aliud coenobium religiosum salua regula B. Benedicti et priuilegio domini pape.</p>
+                </div>
+                <div>
+                    <head>Capitulum B9</head>
+                    <p>[2] Cum non tantum a malo; sed ab omni specie mali abstinere nos omnes oporteat, et maxime religiosos, ne inordinatus eorum habitus uel gestus possit offendere oculos intuentium secularium, unde religioni plurimum detrahatur: inhibemus districte illis authoritate apostolica, ne chirothecis albis de corio quibus uti solent seculares, et que sunt quasi signum lasciuie, utantur; uel calceamentis secularibus, puta hosellis, uel calceis nimis strictis et peracutis, uel pileis que uulgo dicuntur de coton, uel opertoriis preciosis, puta uariis, uel griseis, uel de ciragrillis, uel de cuniculis, uel de uenetis.</p>
+                    <p>Pannis eciam non utantur nisi nigris uel albis, et non sumptuosis, aut sellis pictis, uel discoloribus, suis uel alienis.</p>
+                    <p>Insuper singulares comessaciones extra refectorium sine licencia abbatis; uel prioris, absente abbate; uel superioris, absente utroque.</p>
+                    <p>Quia multa scandala et enormia contingunt ex crapula quorumdam monachorum, ante carnipriuium per tres septimanas uel per mensem se delicatis carnibus et exquisitis sallamentis sese ingurgitantium; statuimus sub pena excommunicacionis, ne a modo talibus intendant commessacionibus, sed sicut in aliis temporibus monastice uite et ordinacioni religiose se conforment.</p>
+                </div>
+                <div>
+                    <head>Capitulum B26</head>
+                    <p>[3] Prioratum eciam nulli clerico uel laico liceat ad uitam emere, nec ad terminum, nec in fraudem istius constitucionis aliquid facere presumat, cum dicat Apostolus, Ab omni specie mala abstinete uos, et in clerico tale lucrum turpis questus reputari debeat; generaliter uero nec clericis nec laicis prioratus uel domus religiose ullo modo dentur ad firmam.</p>
+                </div>
+                <div>
+                    <head>Capitulum B27</head>
+                    <p>[4] Precipimus eciam sub pena suspensionis ab ingressuris claustrum, uel pastus uel uestimentum exigantur, neque denarii, neque aliud in fraudem predictorum, ita quod propter hoc non repellantur.</p>
+                    <p>Constituimus eciam ut abbates et priores et prepositi religiosorum, si fuerint manifeste remissi et negligentes circa obseruanciam ordinis, et correpcionem subditorum, non promoueantur ad dignitates seu maiora officia: et si post admonicionem superioris se non correxerint, ab officio quod est abbatis, uel prioratus, uel prepositure deponantur.</p>
+                    <p>Si uitam reprobam manifeste duxerint, id constituimus obseruandum.</p>
+                    <p>Item, cum abbates et monachi et uiri religiosi pre aliis omnibus signum humilitatis debeant habere; ne a modo dextrarios equitare presumant prohibemus districte.</p>
+                    <p>Non eciam frequenter et manifeste excedant in sumtibus, nec iuuenes euidenter nimis lasciuos et suspectos in familia sua habeant.</p>
+                </div>
+                <div>
+                    <head>Capitulum C</head>
+                    <p>[5] DE PRELATIS INSTITUCIONES.</p>
+                    <p>Sequentes constituciones in concilio Parisiensi quartam partem faciunt, hic uero terciam.</p>
+                </div>
+                <div>
+                    <head>Capitulum C9</head>
+                    <p>[6] Diligenter superfluitatem sociorum et precipue eueccionum caueant.</p>
+                    <p>Quando procuraciones recipiunt, ne sibi subditos grauent: nec in propriis expensis sint parci, et prodigi in alienis.</p>
+                    <p>Nullas exacciones super sacerdotes uel abbacias clericos alios facere presumentes.</p>
+                </div>
+                <div>
+                    <head>Capitulum C17</head>
+                    <p>[7] Preterea statuimus, ut in singulis episcopatibus, saltem semel in anno, synodus celebretur: et ut pro loco et tempore sint prelati parati ad sacramentum confirmacionis liberaliter indigentibus imponendum: et ut excessus subditorum suorum, canonicorum, et clericorum, et uirorum religiosorum, nullius odio, gracia, uel timore dissimulent.</p>
+                    <p>Et si se non correxerint, non paciantur transire ullatenus impunitos.</p>
+                    <p>Item, si prelatus aliquis in officio suo dolose uel negligenter manifeste se habuerit, ita quod sit uerisimile, quod bonus uir ita se non haberet; ad maiorem administracionem non promoueatur de cetero.</p>
+                </div>
+                <div>
+                    <head>Capitulum C19</head>
+                    <p>[8] Statuimus eciam, ut legitima testamenta morientum, et uoluntates ultimas defunctorum, nullo modo sustineant infirmari.</p>
+                    <p>Ad que facienda sacerdotes proprios precipimus aduocari.</p>
+                </div>
+                <div>
+                    <head>Capitulum C20</head>
+                    <p>[9] Insuper specialiter et districte prohibemus illud nec nominandum flagitium: quod summi principis monetam falsicat, et nature reuerenciam dehonestat: ad quod exstirpandum eciam secundum iura civilia leges insurgere et iura iubentur armari, ut rei tanti sceleris ultore gladio finiantur.</p>
+                    <p>Et quanto scelestius est peccatum, tanto districtius in uirtute sancti Spiritus prelatis precipimus, ne illud alicubi pullulare sustineant; sed ubicumque deprehenderint, euellant, destruant, et exstirpent.</p>
+                    <p>Si autem prelati aut canonici aut quecumque alie persone in hoc summe infamacionis uitium post Remense concilium inciderint, ipso facto, tamquam si in clericum manus uiolentas iniecerint, sciant se excommunicacionis et tanto arcciori uinculo se nouerint innodatos, quanto hoc uitium quod sit contra formam et figuram Iesu Chr. flagiciosius noscantur incurrisse, iuxta illud Augustini super Genesim:</p>
+                    <p>Fere dimisit Dominus incarnari, quia preuidit hoc tam perniciosum flagitium patrandum in forma quam sumpsit de Uirgine gloriosa.</p>
+                    <p>Et [10] tales non absoluantur nisi a papa.</p>
+                </div>
+                <div>
+                    <head>Capitulum C21</head>
+                    <p>[11] Et ex authoritate Dei omnipotentis Patris, et Filii, et Spiritus sancti, et apostolorum Petri et Pauli, et omnium sanctorum Dei, et presentis concilii, statuimus: ut qui de cetero, a quindecim annis supra, tale cuiusmodi commisisse fuerint deprehensi, secundum Lateranense concilium puniantur.</p>
+                    <p>Et si canonici conuentualium ecclesiarum in huiusmodi deprehensi fuerint, et in eorum correccione decanus et capitulum negligentes extiterint, per episcopos locorum arctius puniantur.</p>
+                    <p>Quod si infatuati fuerint, canonica eis purgacio indicatur in presencia episcopi, decani et capituli.</p>
+                    <p>In qua si defecerint, ab officio et beneficio suspendantur.</p>
+                    <p>Hoc autem sub pena suspensionis episcopis precipimus exequendum.</p>
+                    <p>Si uero magistri puerorum et alii qui super hoc manifeste suspecti et infamati sunt, de cetero incidant in hoc uitium, ipso facto sciant se excommunicatos.</p>
+                    <p>Hoc autem et cetera supradicta sub pena suspensionis et excommunicacionis episcopis precipimus.</p>
+                </div>
+                <div>
+                    <head>Capitulum D</head>
+                    <p>[12] INSTITUCIONES DE MONIALIBUS.</p>
+                </div>
+                <div>
+                    <head>Capitulum D2</head>
+                    <p>[13] Singule iaceant in lectis suis, non bine.</p>
+                    <p>Et sint lampades ardentes tota nocte in dormitorio.</p>
+                </div>
+                <div>
+                    <head>Capitulum D5</head>
+                    <p>[14] Quecumque dicta sunt de monachis, de habitu et gestu honesto, de indumentis et calceamentis et coopertoriis religioni congruentibus, de non habendis propriis: de monialibus secundum statum suum repetita intelliguntur.</p>
+                    <p>Ante septennium nulla de cetero recipiatur. [15]</p>
+                </div>
+                <div>
+                    <head>Capitulum E</head>
+                    <p>PARS V DE USURARIIS ET RAPTORIBUS.</p>
+                </div>
+                <div>
+                    <head>Capitulum E1</head>
+                    <p>Statuimus quod nullus simoniacus uel fenerator, uel raptor possit condere testamentum, uel legare aliquid uxori sue, uel filiis, aut filiabus, uel nepotibus, aut monasteriis, aut quibuscumque personis, cum offere aliquid de rapina nihil aliud sit quam immolare filium in conspectu patris, et cum ex precepto Domini nulli liceat offerre pretium carnis aut prostibuli super altare Domini.</p>
+                </div>
+                <div>
+                    <head>Capitulum E2</head>
+                    <p>Statuimus sub pena excommunicacionis, ne nutrix Christiana nutriat filium Iudei, et ne Christiane obstetrices intersint puerperio Iudearum, nec alii Christiani eis seruiant, ne per superficialem legis sue probabilitatem, quam praue exponendo pretendunt, seruientes Christianos secum commorantes in sue incredulitatis inducant baratrum.</p>
+                </div>
+                <div>
+                    <head>Capitulum E3</head>
+                    <p>Statuimus sub pena excommunicacionis, ne quis clericus nundinarius uel alius feneratori seruiat, aut computaciones usurarum aut uendiciones usurarii ad terminum uel contractus eius usurarios de nundinis ad nundinas scribat, et quod nullus aduocatus causam usurarii uel heresis defendat.</p>
+                    <p>Cum submonitus desistere noluerit, primo ab officio et beneficio suspendatur, deinde excommunicetur.</p>
+                </div>
+                <div>
+                    <head>Capitulum E4</head>
+                    <p>Statuimus de speciali mandato domini pape in remedium usurariorum uolentium conuerti ab usuris, ut ea que per usuram adquisierunt uel rapinam, in manus sui prelati, legati, uel missi, corde et ore resignent, ut ipse Deum habens pre oculis, de illicite adquisitis ex quo posita sunt in ordinacione sua, consideratis diligenter omnibus penes ipsum circumstantiis, ordinet secundum Deum que uiderit ordinanda: ut si indigeat, si plures paruulos habeat, si crucem accipiat, si ualetudinarius existat, cum eo licite disponere ualeat, dando ei auctoritate ecclesie, cuius uice in hac parte fungitur, que uiderit secundum statum eius expedire, uel militibus, aut monasteriis, aut quibuscumque personis de eis conquerentibus, a quibus fenerator usuras accepit, restituat.</p>
+                    <p>Predictus prelatus mediator inter feneratores et spoliatos partem usurarum ab eo raptarum, secundum quod Deus ei inspirauerit, dummodo spoliatus sicut fenerator in arbitrium prelati se absolute posuerit, restituat.</p>
+                    <p>Si autem per ista sana et dulcia consilia feneratores se magis contra ecclesiam obdurauerint, et conuerti ab usura noluerint aliquo modo, immo, eam et statum suum in ea pertinaciter defenderint, nolentes audire aut prelatum solum, aut eum cum testibus, aut ecclesiam, tunc ferro est utendum ad resecandum talia putrida membra, ne totum corpus scandalizent, et ne per eos sincera pars trahatur, sicut fit per hereticos, quibus hi obdurati sunt deteriores.</p>
+                </div>
+                <div>
+                    <head>Capitulum E5</head>
+                    <p>Omnibus prelatis in uirtute Spiritus Sancti et sub interminacione districti iudicii precipimus, ut ad extirpandam infeccionem totius ecclesie, uidelicet usuram quocumque modo aut manifestam, aut aliqua simulacione palliatam inquisiciones faciant canonicas et legitimas de his qui super hoc fuerint infamati, non habito respectu ad mundanum timorem, uel amorem, uel graciam, uel odium.</p>
+                    <p>Sub pena igitur excommunicacionis et in remedium penitentie minoribus parochianis iniungant, et si necesse fuerint, specialiter per censuram ecclesiasticam compellant, ut super his ueritati testimonium perhibeant.</p>
+                    <p>Nomina autem illorum, de quibus sic eis per testes constiterit, quod sint usurarii, in matricula scribantur, et si post trinam admonicionem factam publice et nominatim, tamquam nolentes audire solum prelatum, uel ipsum cum testibus, uel ecclesiam, tamquam ethnici et publicani coram omnibus denuntientur excommunicati, pulsatis campanis, extinctis candelis, singulis Dominicis diebus et festiuis excommunicentur, nec eis liceat appellare, et omnia ecclesiastica sacramenta eis denegentur; oblaciones eorum nullatenus recipiantur, et cum in fine uite sue ad ammonicionem prelatorum suorum noluerint desistere, uel usuras restituere pro posse suo recusauerint, precipimus ne quis sacerdos uel monasterium eleemosinam eius, uel eum ad sepulturam in morte recipiat, immo de ipsis consilio prudentium duximus sic statuendum, ut dominus terre bursam et totam eius possessionem per usuram adquisitam saisiat, ut ordinet de ea arbitrio ecclesie, et canes ciuitatis carnem eorum turpiter ab ecclesie foribus eiectam corrodant, et demones eorum animas impenitentes diuino iudicio asportent.</p>
+                </div>
+                <div>
+                    <head>Capitulum E6</head>
+                    <p>Sub eadem districcione precipimus, quod postquam fenerator nominatim fuerit excommunicatus, omnes ei seruientes, preter personas exceptas a canone Gregorii et istius Innocentii, excommunicacionis simili uinculo innodentur.</p>
+                </div>
+                <div>
+                    <head>Capitulum E7</head>
+                    <p>Si qui sacerdotes, uel abbates, uel quecumque persone religiose huiusmodi feneratores post denunciacionem in ecclesiis factam, ad oblacionem, aut sepulturam, uel habitum religionis sine sufficienti satisfaccione spoliatis exhibite, scienter receperint, ipso facto se nouerint excommunicatos, et ab officio et beneficio suspensos, et non possint absolui, nisi a summo pontifice.</p>
+                </div>
+                <div>
+                    <head>Capitulum E8</head>
+                    <p>Cum ex insita antiqui hostis malicia sint a feneratoribus et exactoribus fere in singulis urbibus et oppidis et uillis totius regni Francie pertinacissime sinagoge constitute, quas uulgariter communias uocant: que diabolica instituta, ecclesiasticis institutis contraria penitus in conuersionem totius ecclesiastice iurisdiccionis adinuenerint, precipimus sub interminacione districti iudicii, ne quis occultacione conquestionis facte coram episcopo, de usura uel aliis criminibus illatis a predictis feneratoribus, compellantur sustinere penas statutas a predictis sinagogis, quas in defensione sue usure, et subuersione totius ecclesie statuerunt.</p>
+                    <p>Est autem hec una pena, quod si quis conqueratur episcopo de usuris uel indebitis exaccionibus, tot a cauillacionibus accusatur erga dominum terre, quod statim ad interuentum magne summe pecunie date domino terre ab ipso capiatur, et captus tandem in carcere detineatur, quoad usque destiterit a causa proposita coram episcopo contra feneratorem.</p>
+                    <p>Alia est pena eorum, quod si quis coram episcopo proponat querelam de aliquo tali feneratore, statim iudicio sinagoge, id est communie, et nihilominus pena XL. librarum puniatur, et alie multe pene infligantur eisdem.</p>
+                    <p>Unde sub pene suspensionis et excommunicacionis statuimus, quod nullus aduocatus sciens et prudens defendat tales sinagogas contra ecclesias uel episcopos, cum iura ecclesiastica nihil in his, quantum in se est, pro questu eneruare uideantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum E9</head>
+                    <p>Generaliter autem omnibus principibus, baronibus, uel quibuscumque iusticiariis secularibus et sub pena excommunicacionis districte inhibemus, ne aliquid statuant uel precipiant manifeste uel occulte, quominus fideles quicumque uenire audeant ad ecclesiam, iusticiam et ibi plenum ius accipere uel facere, quominus audeant dare uel offerre ecclesie uel sacerdoti uel ad alios pios usus, eleemosinas, oblaciones, et alia que solent facere more consueto uel ex debito, uel secundum quod Deus eis inspirauerit: indubitanter scituri, quod si hoc fecerint et pertinaces extiterint, cum illud heresim sapiat, ne tamquam heretici puniantur, poterunt sibi timere.</p>
+                </div>
+                <div>
+                    <head>Capitulum E10</head>
+                    <p>Cum uxor feneratoris agit causam spoliaterum, uiuat parce de iis que ministrat ei uir suus de spoliis usure, non quia ipse possit ei dare, cum non sint sue, sed quia ipsa aduocatrix est spoliatorum pro melioranda eorum causa, emolliendo cor uiri sui, inducendo uirum suum ad faciendam condignam restitucionem sic ablatorum.</p>
+                    <p>Si autem inuenerit cor uiri sui impenitens et incorrigibile, et se nihil erga ipsum perficere posse pro facienda debita restitucione; tunc tenetur modis omnibus querere separacionem mense eius et conuiuii, sed numquam thori, ut prius mendicet ab amicis uel aliis quo uescatur et uestiatur, quam huiusmodi tam morticino et quasi idolotito fede usure contra Deum pascatur.</p>
+                    <p>Et si ad tantam deuenerit ualitudinem, ut sit tota decrepita uel leprosa, aut ab omnibus deserta, ut nullus ei uelit panem porrigere, in ingruentis mortis articulo; in tanta necessitate potest sumere cibum a uiro suo, non animo rapiendi sicut uir, sed animo restituendi, cum Deus concesserit ei opportunitatem.</p>
+                    <p>Hoc idem precipimus filiis et filiabus, et nepotibus feneratorum, quam cito paternis alis uolitare incipiunt, sicut cum pulli coruorum sunt implumes, et solo rore coeli, non morticino pascuntur: ita a malicia paterna iudicantur immunes, cum adeo pueriles sint quod animum non habent consentiendi.</p>
+                </div>
+                <div>
+                    <head>Capitulum F</head>
+                    <p>ITEM DE USURARIIS.</p>
+                </div>
+                <div>
+                    <head>Capitulum F1</head>
+                    <p>Cum feneratores et maligni ecclesie persecutores ubique erigant sinagogas malignantium, contradiccionibus suis contra Deum et ecclesiam propositis, ipsi de nouo erexerunt nouas scholas filiorum suorum et doctrinas illorum contra uera rudimenta scholarum, facientes eos informari ad scribenda debita patrum suorum per usuram adquisita: ideoque statuimus, ut a modo non liceat illis hec artificia scribendi, sed ueram doctrinam addiscere, cum nulli liceat locupletari iactura alterius.</p>
+                </div>
+                <div>
+                    <head>Capitulum F2</head>
+                    <p>Statuimus, quod si quis uassallus, uel filius eius, uel quecumque persona subiecta principi per uiolenciam ceperit clericum uel bona ipsius, uel cruce signatum, uel aliquam personam religiosam uel bona ecclesie: si raptor post primam et secundam admonicionem satisfacere noluerit, excommunicacionis uinculo innodetur, et si princeps sub cuius dominio noscitur permanere, monitus noluerit compellere eum ad satisfaccionem, prout debet, uel si manum auxiliatricem ei ad huiusmodi maleficia perpetranda exhibuerit, simili coercionis uinculo constringatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum F3</head>
+                    <p>Dicimus de parte raptoris, quod si filium suum post ammonicionem factam receperit, nec pro ipso emendauerit, excommunicacionis uinculo innodetur.</p>
+                </div>
+                <div>
+                    <head>Capitulum G</head>
+                    <p>De stratis publicis.</p>
+                </div>
+                <div>
+                    <head>Capitulum G1</head>
+                    <p>Si qui clerici aut laici publicas stratas per se uel per alios frangant, et bona transeuntium rapiant, et ipsos in carcere detineant, si moniti a tali malicia non desistant, uel suos desistere faciant, simili sentencia percellantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum G2</head>
+                    <p>Statuimus eciam quod cum villa aliqua subiicitur interdicto, non relaxetur interdictum, nec excommunicacio sine assensu episcopi, donec satisfactum sit sacerdoti de suis damnis que passus est racione interdicti.</p>
+                </div>
+                <div>
+                    <head>Capitulum G3</head>
+                    <p>Cum nulla institucio principis possit infringere statuta noui et ueteris testamenti, aut instituta canonum, precipimus ut in omni causa liceat cuilibet fideli inducere testes fideles contra Iudeum et infideles.</p>
+                </div>
+                <div>
+                    <head>Capitulum H1</head>
+                    <p>De Templariis et Hospitalariis.</p>
+                    <p>Statuimus ut Templarii et Hospitalarii canonici in ecclesiis suis idoneos constituant capellanos, qui curam habeant animarum in eisdem, et sub excommunicacione inhibemus, ne formam priuilegiorum suorum excedant.</p>
+                </div>
+                <div>
+                    <head>Capitulum I1</head>
+                    <p>De decimis soluendis.</p>
+                    <p>In decimis reddatur ecclesiis decima porcio cum integritate.</p>
+                    <p>Qui non reddiderint: excommunicentur.</p>
+                </div>
+                <div>
+                    <head>Capitulum J1</head>
+                    <p>De sortilegis.</p>
+                    <p>Pithonissas, et sortilegas, et earum fautores et receptatores, et ad ipsas currentes excommunicamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum K1</head>
+                    <p>De meretricibus.</p>
+                    <p>Inhibemus eciam ne publice meretrices, quarum cohabitacio ex frequenti usu ad nocendum efficacior pestis est, intra ciuitatem uel oppida permittantur habitare, immo potius iuxta [9] leprosorum consuetudinem sequestrentur.</p>
+                    <p>Quod si premonitie secedere noluerint, per excommunicacionis sentenciam percellantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum L1</head>
+                    <p>De leprosis.</p>
+                    <p>[16] De domibus leprosorum et hospitalibus infirmorum, et peregrinorum, salubri consilio statuimus: ut si facultates loci paciantur quod ibidem manentes possint uiuere de communi, competens eis regula statuatur, cuius substancia in tribus articulis maxime continetur: scilicet ut proprio renuncient, continentie uotum emittant, et prelato suo obedienciam fidelem et deuotam promittant, et habitu religioso non seculari utantur.</p>
+                    <p>Cum autem pauci sani possint multis infirmis competentius ministrare: illud omnino indignum est, ut numerus sanorum ibidem manentium excedat numerum infirmorum aut peregrinorum.</p>
+                    <p>Bona etenim ibidem ex deuocione fidelium collata, non sunt sanorum usibus deputata, sed potius infirmorum.</p>
+                    <p>Nec eciam est id sub silencio pretereundum, quod quidam sani uiri et mulieres, et matrimonii uinculo copulati, quandoque transferunt se ad tales domos, ut sub obtentu religionis possint iurisdiccionem et potestatem eludere secularium dominorum: qui tamen in domo religionis manentes, non minus, immo magis seculariter et delicate uiuunt, et operibus carnis uacant, quam antea uacare consueuerant.</p>
+                    <p>Unde statuimus, ut in habitu religionis religiose uiuant, uel de domibus eiiciantur: ita tamen quod bona domui collata secum non asportent, ne de fraude sua commodum reportare uideantur.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] Text added from 1895_Paris_1213a, cap. B8, with addicions.</p>
+                    <p>[2] Text added from 1895_Paris_1213a, cap. B9, with addicions.</p>
+                    <p>[3] alternate uersion of 1895_Paris_1213a, cap. B26</p>
+                    <p>[4] Text added from 1895_Paris_1213a, cap. B27, with addicions.</p>
+                    <p>[5] This seccion is fourth in 1895_Paris_1213a</p>
+                    <p>[6] Text added from 1895_Paris_1213a, cap. D9, with addicions.</p>
+                    <p>[7] Text added from 1895_Paris_1213a, cap. D17, with addicions.</p>
+                    <p>[8] Text added from 1895_Paris_1213a, cap. D19, with addicions.</p>
+                    <p>[9] Text added from 1895_Paris_1213a, cap. D20, with addicions.</p>
+                    <p>[10] Ed. &quot;E&quot;</p>
+                    <p>[11] Text added from 1895_Paris_1213a, cap. D21, with addicions.</p>
+                    <p>[12] This seccion is third in 1895_Paris_1213a</p>
+                    <p>[13] Text added from 1895_Paris_1213a, cap. C2, with addicions.</p>
+                    <p>[14] Text added from 1895_Paris_1213a, cap. C5, with addicions.</p>
+                    <p>[15] Note: Omittitur uero cap. 9, 10, 11, 12, 13, 15 et seq.</p>
+                    <p>[16] Text added from 1895_Paris_1213a, cap. C9, uerbatim.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

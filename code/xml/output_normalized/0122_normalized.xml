@@ -1,0 +1,200 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tours</title>
+                <recordID>0122</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate>1236</origDate>
+                <dateNotes/>
+                <origPlace>Tours</origPlace>
+                <diocese>Tours</diocese>
+                <province>Tours</province>
+                <country>France</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Provincial</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 122</p>
+                <p>Year: 1236</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: None</p>
+                <p>DatingNotes: None</p>
+                <p>Place: Tours</p>
+                <p>Diocese: Tours</p>
+                <p>Province: Tours</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 47.393611</p>
+                <p>Longitude: 0.689167</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Provincial</p>
+                <p>IssuingAuthority: Juhel de Mathefelon</p>
+                <p>IssuingAuthorityAlt: Juhellus</p>
+                <p>RegnalStart: 1229</p>
+                <p>RegnalEnd: 1244</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Avril, Tours, 158-65</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: None</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: Hard Copy Scan</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Concilium apud Turonis celebratum, anno Domini millesimo (duo centesimo) tricesimo (sexto).</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>De cruce signatis.[1]</p>
+                    <p>Statuimus quod si cruce signati, occasione alicuius delicti a iudice seculari detenti fuerint, per competentem iudicem ecclesiasticum repetantur, ad ipsos restituendos, si opus fuerit, detentorem per censuram ecclesiasticam compellendo, quibus restitutis, si in foro ecclesiastico de homicidio uel alio enormi delicto de cetero perpetrando legitime conuicti fuerint uel confessinullis priuilegiis cruce signatis induitis gaudeant, cum reatus omnem honorem excludat, signo crucis per eumdem ecclesiasticum iudicem exuantur.</p>
+                    <p>Si autem alia delinquentes, in crimine obiecto conuicti fuerint uel confessi, secundum qualitatem et quantitatem criminis, a iudice ecclesiastico puniantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>De iudeis.</p>
+                    <p>Nos autem districtius inhibemus ne cruce signati uel alii christiani iudeos occidere seu uerberare, ueh eorum inuadere, uel auferre uel quascumque minas seu iniurias eisdem inferre presumant, cum Ecclesia iudeos sustineat, que non uult mortem peccatoris, sed ut magis conuertatur et uiuat, scituri quod si contra attentare presumpserint, ulcionem canonice non euadent.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>De aduocatis.</p>
+                    <p>Quia per aduocatorum uels scriptorum impericiam multa solent in causis pericula euenire, statuimus quod nulli recipiantur in causis publicis nisi per triennium iura audierint, uel sint in causarum exercicio approbati.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>De notariis.</p>
+                    <p>Item, nulli recipiantur scriptores in curia nisi sciant stillum curie statutum, super quibus examinari debebunt per officiales locorum, tam aduocati publici quam eciam scriptores.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>De officialibus.</p>
+                    <p>Statuimus quod nulli statuantur officiales, nisi per quinquennium iura audierunt, uel pera causarum exercitium in iudicandi officio sint merite approbati.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>De officio delegati.</p>
+                    <p>Quia nonnulli litteris apostolicis abuntuntur uolentes ipsorum obuiare fraudibus iuxta canonum sanccionem, statuimus ut iudices in Turonensi prouincia a sede apostolica delegati, non alias in causis sibi commissis procedant citando uel aliud faciendo, nisi prius authentico sibi exhibito et inspecto, et impetratore coram ipsis iurante, si presens sit, quando citatorium, uel aliud, impetratum sit, uel, si absens fuerit, doceat quod rescriptum de mandato ipsius impetratum fuerit et quod accionem habere credebat contra eum quem conuenire intendit, tempore impetrati rescripti, et quod pendente iudicio coram ipsis, super illo negocio coram aliis iudicibus non uexabit eum, cum eque et commode ius suum sequi ualeat coram ipsis.</p>
+                    <p>Honestis tamen et grauibus personis de quibus nulla poterit sinistra suspicio suboriri, remitti poterit huiusmodi sacramentum, hoc obseruando siue tribus siue duobus commissum fuerit negotium siue uni.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>De appellacionibus.</p>
+                    <p>Statuimus ut suffraganei uel officiales ipsorum et alii inferiores iudices humiliter appellacionibus deferant, quibus fuerit deferendum, nec propter hoc parti aut aduocatis ipsius bona fide appellantibus molesti existant, maxime cum a definitiua sentencia fuerit appellatum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>De testamentis et eorum executoribus.</p>
+                    <p>Ne decedentium uoluntates, quas pium est execucioni demandari per aliquorum maliciam impediri ualeant uel eciam occultari, statuimus ut infra decem dies a tempore obitus testatoris ad episcopum uel archidiaconum loci, uel ad illos qui loco ipsorum super hoc fuerint deputati, uel ad illos qui iurisdiccionem episcopalem habere noscuntur accedant secum testamentum si scriptum fuerite, delaturi, uel si non scriptum fuerit, per sacramentum ipsorum quod testator disposuit probaturi, ut tunc prefati testatoris uoluntas in formam publicam redigatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>De execucione testamentorum.</p>
+                    <p>[2] Iniungimus autem episcopis, archidiaconis et aliis iurisdiccionem episcopalem habentibus ut, si executores testamentorum in exequenda decedentium uoluntates inuenerint negligentes, uoluntatem ipsorum fideli execucioni demandent, quibus sub interminacione iudicii diuini firmiter inhibemus ne quicquam de bonis decedentium in proprios usus conuertere uel eciam retinere presumant, statuentes ut, si executores aliquid quod sibi deberi asserunt, propria auctoritate duxerint usurpandum, id restituere compellantur, accione, si qua eisdem pro eodem debito competierit, sinta hac sua temeritate priuati, nisi id restituerint, ex quo super hoc moniti fuerint competenter.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>De hiis qui binas nupcias contrahunt.</p>
+                    <p>Statuimus quod singulis diebus dominicis in parrochialibus ecclesiis inhibeatur per sacerdotes, ne quis binas nupcias uel bina sponsalia eodem tempore presumat contrahere et expressim adiiciant quod si contra aliqui fecerint, infames ipso facto effecti, a testimoniis et aliis legitimis actibus excludantur, firmiter iniungentes quod si qui reperiantur talia perpetrasse, nominatim denuntientur infames et in scala ponantur; postea publice fustigentur/, nisi pecunialiter penam illam redimant arbitrio et iudicio iudicantis, que pena fabrice maioris ecclesie publice conferatur, parentibus et consanguineis et aliis eidem pene subdendis, quorum consilio talia fuerint perpetrata, cui pene subiacere censemus eum qui scienter duxerit alterius coniugatam.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>De sortilegiis.</p>
+                    <p>Statuimus quod omnes sacerdotes ecclesiarum parochialium diebus dominicis ac festiuis, parochianis suis sub pena excommunicacionis districte inhibeant ne aliquis uel aliqua sortilegium exercere presumat.</p>
+                    <p>Si quis uero sortilegium repertus fuerit perpetrasse, in scala positus publice fustigetur, uel alias competenter pro modo criminis castigetur, nisi penam sibi iniunctam pecunialiter redimerit ad arbitrium iudicantis, pena in usus pauperum illius parochie publice erogetur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>De clericis participantibus cum excommunicatis.</p>
+                    <p>Reuocantes ueroa ex causa statutum quod apud Castrum Gonterii fecimus per quod persone ecclesiastice communicantes cum excommunicatis in mensa incurrere poterant excommunicacionis sentenciam ipso facto, per quod irregularitatis periculum poterat imminere.</p>
+                    <p>Statuimus ut nulla persona ecclesiastica scienter cum excommunicato participare presumat, si qua uero persona ecclesiastica scienter cum excommunicato nominatim participacionem habuerit in mensa, in domo propria uel ipsius excommunicati, uel alibi, dum tamen in mensa sine scandalo eumdem poterit euitare, que X libras Turonensium habebit in reditibus, X solidos, que uero XX libros et ultra, XX solidos, soluere teneatur, cuius mulcte medietas deputabitur fabrice ecclesie Cathedralis, alia uero pro delacionis premio ad illum pertineat, qui commissum huiusmodi in publico duxerit deferendum, dummodo id finaliter fuerit prosecutus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>De priuilegiis.</p>
+                    <p>Ne sub falso exempcionis pretextu quisquam iurisdiccionem ordinariam illudere possit, presentis concilii auctoritate, statuimus ut si qui coram ordinariis conuenti iudicibus se exemptos alligent, de quorum priuilegiis dubitetur, priuilegium exempcionis sue exhibeant, quod si facere noluerint, pro exemptis nullatenus habeantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>De falsis testibus.</p>
+                    <p>Statuimus ut si qui de deferendo testimonium falso conuicti fuerint uel confessi, fustigentur, nisi penam illam pecunialiter redimant ad arbitrium iudicantis, et si hoc ipsi uidebitur expedire.</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>De conuersis.</p>
+                    <p>Disponant episcopi in suis diocesibus qualiter de nouo conuersi erudiantur in fide, et commode sustententur sicut uiderint expedire, ne sub paupertatis pretextu ad uomitum redire cogantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>De hospitalitate. [3]</p>
+                    <p>Iniungimus abbatibus et prioribus ut hospitalitatem exhibeant sicut decet, et maxime religiosis, qui nudi nudum secuti propter Christum propria dimiserunt.</p>
+                    <p>Hoc seruari precipimus, saluis constitucionibus in aliis conciliis et concilio apud Castrum Gunterii legitime promulgatis, ita tamen quod per eas non derogetur consuetudinibus antiquitus approbatis.</p>
+                </div>
+                <div>
+                    <head>Explicit</head>
+                    <p>Datum die martis proxima ante festum beati Barnabe apostoli, anno Domini MoCCoXXXUIo.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] remoued &lt;&gt;</p>
+                    <p>[2] remoued &lt;&gt;</p>
+                    <p>[3] remoued &lt;&gt;; ed. hospitalitat</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

@@ -1,0 +1,149 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Rouen</title>
+                <recordID>0284</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate precision="circa">1305</origDate>
+                <dateNotes/>
+                <origPlace>Rouen</origPlace>
+                <diocese>Rouen</diocese>
+                <province>Rouen</province>
+                <country>France</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 284</p>
+                <p>Year: 1305</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: Yes</p>
+                <p>DatingNotes: incorrectly conflated with 1313 provincial council in earlier Bessin edition; preface gives reasons for dating it to ca 1305</p>
+                <p>Place: Rouen</p>
+                <p>Diocese: Rouen</p>
+                <p>Province: Rouen</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 49.443889</p>
+                <p>Longitude: 1.103333</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Guillaume de Flavacourt</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1278</p>
+                <p>RegnalEnd: 1306</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Bessin, Concilia, II, 87-89</p>
+                <p>EditionOther: None</p>
+                <p>SourceNotes: https://books.google.com/books?id=0SGIk69vxS0C</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: ['GoogleBooks', 'WebDownload']</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p/>
+                    <p>SYNODUS ROTOMAGENSIS</p>
+                    <p>OBSERUACIO PREUIA</p>
+                    <p>CAPITULA</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p/>
+                    <p>Statuit Conculium Prouinciale celebratum apud Prioratum beate Marie de Prato iuxta Rotomagum, ut Sacerdotes Curati et Clerici beneficiati quicumque, qui generaliter moniti ne de cetero incedant in locis publicis cucufati, seu sotularibus consutitiis calciati, uel ensibus accincti su gladiis ad modum militum super uestes, et ne minus congruentem Tonsuram, aut uestimenta deferant nimia breuitate notanda.</p>
+                    <p>Ne eciam focarias su concubinas, aut alias mulieres suspectas in suis habeant domibus, uel in alienis foueant aut frequentent: et ne casus audiendo, uel examinando processus in curia seculari, uel quomodolibet alias exerceant iustitie secularis.</p>
+                    <p>Ne eciam feneraticos aliosque contractus illicitos exerceant, neque suam in luxuriis, ebrietatibus et comessacionibus uitam ducant: sed pie, decenter atque iuste uiuant secundum Canonicas sancciones, sine aliquo crimine premissorum, post generalem monicionem de abstinendo penitus ab eisdem; si culpabiles fuerint deprehensi, sint in pena amissionis omnium fructuum beneficiorum suorum per unum annum absque misericordia, ac contra ipsos ad priuacionem beneficiorum, si per annum pertinaces in eadem perseuerent malicia, procedatur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p/>
+                    <p>Item idem Concilium statuit ut Bailliui; Uice-comites prepositi, et maiores, et alii iudices seculares quocumque nomine censeantur, moneant ut assisias et placita Dominicis diebus et festiuis Uirginis gloriose, Beatorum Ioannis Baptiste et Michelis Archangeli, Sanctorumque Apostolorum et Euangelistarum, et aliis qui a clero et populo in Ecclesiis celebrantur.</p>
+                    <p>In quibus solum diuinis laudibus est non terrenis negotiis, insistendum, tenere et exercere desistant penitus et quiescant: et si parere contempserint: incurrant excommunicacionis sentenciam ipso facto.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p/>
+                    <p>Item quod Clerici qui super factis personalibus ubi clamor de Haro fuerit, et de facto persone super hoc querendo se supponent iustitie seculari, seu ipsi iustitie pretextu facti huiusmodi exhibebunt emendam; post monicionem de contrario generalem, ipso facto sentenciam excommunicacionis incurrant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p/>
+                    <p>Item statuit idem Concilium inhibendo, ne quisquam secularis iudex Clericos aliasue personas occasione factorum a Clericis commissorum super delictis et factis personalibus quibuscumque commissis et specialiter in clamore de Haro, nec de crimine usurarum a Clerico perpetrato, uiuente eodem Clerico uel defuncto, coram se quomodolibet respondere compellant, seu cognicionem huiusmodi in se sumant: quod si generaliter moniti contra fecerint; excommunicacioni subiaceant ipso facto, a qua per Prelatos non nisi parti et iudici congrue satisfacto quomodolibet absoluantur, nec per Officiales aut Penitenciarios Prelatorum, nisi eis ex speciali commisso liceat, ab huiusmodi sentencia relaxentur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p/>
+                    <p>Item statuit hoc Concilium quod Breuia que iudices seculares ut Ecclesiasticam iurisdiccionem impediant et perturbent, de iudiciis Ecclesiasticis dirigunt in causis in quibus de sui natura Breuia nulla cadunt, per Ecclesiasticos iudices nullatenus admittantur, nec eis in aliquo pareant; quod si assumpta forsan occasione Bailliui, Prepositi, Uice-comites, aliiue iudices seculares: ad personarum uel bonorum capcionem procedant directe uel indirecte, partem ad defendendum uel iudicem compellendo, monicione legitima precedente, excommunicacioni subiaceant ipso facto, a qua absolui non ualeant, nisi sicut de aliis est premissum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p/>
+                    <p>Item statuit Prouinciale Concilium apud Pintaruillam nouissime celebratum; [1] omnes et singulos iudices seculares Clericos racione facti uel obligacionis personalis eciam habiti uel habite coram eis, si ipsorum iudicum litere facte super hoc ostendantur, que tamquam non coram suo iudice pro infectis habeantur; iusticiantes per suorum capcionem bonorum et amicorum suorum, seu aliis quomodolibet directe uel indirecte; necnon omnes et singulos religiosos, et seculares Clericos et laicos cuiuscumque status, ordinis, officii, seu eciam dignitatis extiterint, hoc publice uel occulte fieri procurantes, ipso facto excommunicacionis sentencia subiacere. [2]</p>
+                    <p>Ut autem prio dictum Concilium et secundum, et que in ipsis sunt statuta et acta pateant uniuersis, ea in Synodis singulis, Decanorumque Kalendis ruralium, ac per Parochiles presbyteros diebus singulis Dominics post lecturam Euangelii publice diuulgentur, quatinus unusquisque penas in ipsis insitas Conciliis lucidius uideat, ac propensius ualeat declinare: et de ignorancia nequeat contra dicta Concilia se tueri.</p>
+                    <p>Habeat itaque presbyter Parochialis apud se quilibet memorata Statuta: et eadem, sicut premittitur, in Ecclesia non negligat publicare.</p>
+                    <p>Uolumus quoque quod per Decanos de inobedientibus Presbyteris in hac parte, infra nostram primo uenturam Synodum hiemalem reddamur in uirtute obedientie cerciores.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1]  Quotacion marks begin here.</p>
+                    <p>[2] Quotacion marks presumabli end here (after square bracket)</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

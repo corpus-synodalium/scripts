@@ -1,0 +1,159 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Merton</title>
+                <recordID>1520</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate precision="circa">1260</origDate>
+                <dateNotes/>
+                <origPlace>Merton</origPlace>
+                <diocese/>
+                <province>Canterbury</province>
+                <country>England</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Provincial</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 1520</p>
+                <p>Year: 1260</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: Yes</p>
+                <p>DatingNotes: ['1249x1269, probably 1257x1262', 'Mansi mistakenly dates it to 1300 (ca) and Wilkins to 1305']</p>
+                <p>Place: Merton</p>
+                <p>Diocese: None</p>
+                <p>Province: Canterbury</p>
+                <p>CountryModern: England</p>
+                <p>Latitude: 51.4102</p>
+                <p>Longitude: -0.2024</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Provincial</p>
+                <p>IssuingAuthority: Boniface of Savoy</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1249</p>
+                <p>RegnalEnd: 1269</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: Appears to be a general statute, but not issued in council or synod; may have been drafted to be approved in a great council or parliament</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Powicke &amp; Cheney II, 795-97</p>
+                <p>EditionOther: Wilkins II, 278-28; Mansi 25, col 5-12 &amp; 13-16 (additiones)</p>
+                <p>SourceNotes: Survive in numerous MSS, two of them 13th-c</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: Data Capture</p>
+                <p>OCR: None</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: None</p>
+                <p>BiblioRefs: Cheney, English Synodalia, 97-109</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Incipit</head>
+                    <p>Quoniam propter diuersas consuetudines in petendo decimas per diuersas ecclesias inter rectores ecclesiarum et parochianos suos rixe et contenciones, scandala et odia permaxima oriuntur, uolumus quod in cunctis ecclesiis per archiepiscopatum nostrum constitutis uniformis sit peticio decimarum et prouentuum ecclesiarum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>In primis uolumus quod decime de frugibus non deductis expensis integre et sine aliqua diminucione soluantur, et eciam de fructibus arborum et seminibus omnibus et herbis ortorum, nisi parochiani competentem pro talibus decimis uelint facere redempcionem.</p>
+                    <p>Uolumus eciam quod decime de fenis ubicunque crescant, siue in magnis pratis siue in paruis siue in cheuiciis exigantur et prout expedit ecclesie persoluantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>De nutrimentis autem animalium uolumus, scilicet de agnis, quod pro sex agnis et infra sex oboli dentur pro decima.</p>
+                    <p>Septimus agnus et supra semper detur pro decima, ita tamen quod rector ecclesie, qui septimum agnum receperit, det parochiano suo a quo decimam illam receperit tres obolos in recompensacionem.</p>
+                    <p>Qui octauum agnum receperit, det denarium parochiano.</p>
+                    <p>Qui nonum agnum receperit, det obolum parochiano, uel exspectet rector ecclesie alterum annum donec possit decimum agnum recipere, si maluerit.</p>
+                    <p>Et qui ita exspectauerit, semper exigat secundum agnum meliorem uel tertium ad minus de agnis secundi anni, et hoc pro exspectacione primi anni.</p>
+                    <p>Et ita intelligendum est de decima lane.</p>
+                    <p>Quod si oues alibi in ieme et alibi in estate nutriuntur, decima est diuidenda.</p>
+                    <p>Similiter siquis in medio tempore emerit uel uendiderit oues et certum sit a qua parochia ille uenerint, diuidenda est, sicut de re que sequitur duo domicilia.</p>
+                    <p>Si autem incertum fuerit, habeat illa ecclesia decimam infra cuius limites tempore tonsionis oues inueniuntur.</p>
+                    <p>De lacte uolumus quod decima soluatur dum durat, uidelicet de caseo tempore suo et de lacte in autumpno et ieme, nisi parochiani competentem uelint pro talibus decimis facere redempcionem, et hoc ad comodum ecclesie.</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>De prouentibus autem molendinorum uolumus quod decime exigantur et soluantur ad ualorem prouentuum, et hoc nisi domini pro ualore prouentuum faciant redempcionem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>De pasturis autem et pascuis tam communibus quam non communibus statuimus quod decime fideliter soluantur; et hoc per numerum animalium et dierum, si expedit ecclesie.</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>De piscacionibus autem et apibus, sicut de omnibus aliis bonis iuste adquisitis que renouantur per annum, statuimus quod decime exigantur, sed debito modo.</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>Statuimus eciam quod decimei soluantur de artificibus, de mercatoribus, et de lucro negociacionis, similiter de carpentariis, fabris, textoribus, pandoxatricibus, et omnibus aliis stipendiariis operariis, uidelicet quod dent decimas de stipendiis suis, nisi ipsi stipendiarii aliquid certum uelint dare ad opus uel ad lumen ecclesie si rectori ecclesie id placuerit.</p>
+                </div>
+                <div>
+                    <head>Capitulum 7</head>
+                    <p>In peticione autem principalis legati uolumus quod consuetudo prouincie cum possessione ecclesie obseruetur, ita tamen quod rector ecclesie in peticione sua, siue fuerit uicarius siue capellanus annuus, habeat deum pre oculis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>Sed quoniam multi inueniuntur decimas dare nolentes, statuimus quod parochiani ammoneantur primo, secundo, et tercio, ut decimas deo et ecclesie fideliter soluant.</p>
+                    <p>Quod si se non emendauerint, primo ab ingressu ecclesie suspendantur et sic demum ad solucionem decimarum per censuram ecclesiasticam, si necesse fuerit, compellantur.</p>
+                    <p>Si tamen dicte suspensionis relaxacionem uel absolucionem petierint, ad ordinarium loci mittantur absoluendi, et debito modo puniendi.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>Rectores autem ecclesiarum seu uicarii seu capellani annui, qui predictas decimas predicto modo seu propter formidinem hominum seu fauorem, dei timore postposito, cum effectu non petierint, pena suspensionis innodentur, donec dimidiam marcam argenti pro sua inobediencia archidiacono persoluerint.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1]</p>
+                    <p>[2]</p>
+                    <p>[]</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>

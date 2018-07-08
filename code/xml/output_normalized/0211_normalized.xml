@@ -1,0 +1,274 @@
+<?xml version="1.0" ?>
+<root>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Limoges</title>
+                <recordID>0211</recordID>
+                <transcription/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                    <note>
+                        <date/>
+                        <problems/>
+                    </note>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <baseText/>
+                <textNeeded/>
+                <noKnownText/>
+                <fragment/>
+                <ocrNote/>
+                <msDesc/>
+                <bibl/>
+                <sourceNote/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>Latin</langUsage>
+            <languageNote/>
+            <langUsage/>
+            <creation>
+                <origDate precision="circa">1287</origDate>
+                <dateNotes/>
+                <origPlace>Limoges</origPlace>
+                <diocese>Limoges</diocese>
+                <province>Bourges</province>
+                <country>France</country>
+                <geo/>
+                <placeNotes/>
+                <orgName/>
+                <persName/>
+                <altName/>
+                <regnalYears/>
+                <delegated/>
+                <classNotes/>
+            </creation>
+            <textDesc>
+                <domain>Diocesan</domain>
+            </textDesc>
+            <genNotes/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Metadata</head>
+                <p>RecordID: 211</p>
+                <p>Year: 1287</p>
+                <p>Month: None</p>
+                <p>Day: None</p>
+                <p>Circa: Yes</p>
+                <p>DatingNotes: 1285x1290; renewed in 1295 by Bp Raynaud de la Porte</p>
+                <p>Place: Limoges</p>
+                <p>Diocese: Limoges</p>
+                <p>Province: Bourges</p>
+                <p>CountryModern: France</p>
+                <p>Latitude: 45.85</p>
+                <p>Longitude: 1.25</p>
+                <p>PlaceNotes: None</p>
+                <p>Classification: Diocesan</p>
+                <p>IssuingAuthority: Gilbert de Malemort</p>
+                <p>IssuingAuthorityAlt: None</p>
+                <p>RegnalStart: 1275</p>
+                <p>RegnalEnd: 1294</p>
+                <p>Delegated: None</p>
+                <p>ClassificationNotes: None</p>
+                <p>Language: Latin</p>
+                <p>LanguageNotes: None</p>
+                <p>TextNeeded: None</p>
+                <p>NoKnownText: None</p>
+                <p>Fragment: None</p>
+                <p>Source: None</p>
+                <p>SourceOther: None</p>
+                <p>Edition: Avril, Statuts, VI, 91-98</p>
+                <p>EditionOther: Lecler, “Anciens statuts du diocèse de Limoges,&quot; 143-151;</p>
+                <p>SourceNotes: dating and other info from Avril, Bourges, 87-90 (includes text at 91-98)</p>
+                <p>TranscriptionNotes: None</p>
+                <p>BaseText: Hard Copy Scan</p>
+                <p>OCR: Yes</p>
+                <p>Transcription: Reviewed </p>
+                <p>GeneralNotes: Seem to be additional statutes added to an earlier Liber synodalis, perhaps on model of Clermont</p>
+                <p>BiblioRefs: None</p>
+            </div>
+            <div>
+                <head>Text</head>
+                <div>
+                    <head>Capitulum 1</head>
+                    <p>Sentencia lata in concilio Lugdunensi, in illos qui racione regalium, seu custodie siue aduocacionis bona ecclesiarum, sede uacante, usurpant de nouo ut Extra, De Elect., cap. Generali, In UIe [1].</p>
+                </div>
+                <div>
+                    <head>Capitulum 2</head>
+                    <p>Item in illos qui per uiolenciam uel metu presumentur extorquere absolucionem uel reuocacionem sententie excommunicacionis, suspencionis uel interdicti ut Extra, De his qui vi metus ue causa fiunt, cap. Absolucionis [2].</p>
+                </div>
+                <div>
+                    <head>Capitulum 3</head>
+                    <p>Item in illos qui prelatos uel personas ecclesiasticas submittere, subiacere, uel supponere sibi presumunt, nisi de consensu sui capituli et licencia sedis apostolice Extra, De rebus ecclesie non alienandis, cap. Hoc consultissimo [3].</p>
+                </div>
+                <div>
+                    <head>Capitulum 4</head>
+                    <p>In illos qui pignorant.</p>
+                    <p>Item in illos qui pignorant, id est personas ecclesiasticas pro aliis, nisi infra mensem destiterint Extra, De iniuris et dampno</p>
+                    <p>dato, cap. Etsi pignatores [4].</p>
+                </div>
+                <div>
+                    <head>Capitulum 5</head>
+                    <p>In reges.</p>
+                    <p>Item in reges, principes, barones et nobiles, uel quoslibet eorum ministros aut quoscumque alios, si ipsi tales licenciam dant alicui occidendi, capiendi, uel alias in personis uel bonis suis, seu suorum, grauandi illos qui tulerint sentenciam, uel in illos quorum occasione late sunt, uel obseruatores eorum, uel talibus communicare uolentes, nisi re integra licenciam reuocauerint, uel ubi bona propter hoc capta restituant.</p>
+                    <p>Et in illos qui faciunt premissa racione mandati uel proprio motu et si per duos menses sentencias sustinuerint, non poterunt absolui, nisi a sede apostolica Extra, De sentencia excommunicacionis, cap. Quicumque [5].</p>
+                </div>
+                <div>
+                    <head>Capitulum 6</head>
+                    <p>Item non habet locum relaxacio ad cautelam quoad interdicti sentenciam generaliter promulgatam in ciuitates et castra uel quelibet alia loca ut Extra, De sentencia excommunicacionis, cap. Presenti [6].</p>
+                    <p>Item ordinacio seu statutum concilii prouincialis apud Montemlucium celebrati, quod nonnulli religiosi receperunt decimas a laicis sine consensu diocesani at alii laici et seculares clerici in preiudicium ecclesiarum parochialum iuris prohibicionem tenent, contempnentes, sacro approbante concilio, ordinamus quod rectores ecclesiarum uel eorum uicarii, publice in ecclesiis suis semel, IIo, et tercio, astante plebe, moneant, prohibeant et tradendo, uel recipiendo talia de cetero attemptent, quod si monicione huiusmodi non obstante, contra premissa fecerint uel uenerint ipsos quos ex tunc sacro approbante concilio in scriptis excommunicamus; excommunicatos auctoritate dicti concilii publice diebus dominicis et festiuis nuncietis uel nunciari faciatis.</p>
+                    <p>Moneantur eciam semel, secundo et tercio per eosdem illi qui contra iuris disposicionem decimas receperunt ut eas, qui cum periculo animarum suarum detinent, restituant ecclesiis parrochialibus ad quas spectant, alioquin ad restituendum easdem per locorum ordinarios, siue sint exempti, siue quocumque iure fieri poterint arceantur.</p>
+                    <p>Hoc eciam denunciari precipimus semel, secundo et tercio per rectores ecclesiarum parochialium uel eorum uicarios in monasteriis et religiosis locis sitis in suis parochiis, uel eisdem proprioribus, ne pretextu ignorancie se super hos ualeant excusare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 8</head>
+                    <p>Item quod nonnulli secularem iurisdiccionem exercentes maxime religiosi publice pacis emuli tiranisare cupientes in salutis dispendium eneruare, impedire ac eciam perturbare conantur iurisdiccionem ecclesiasticam contra ciuiles et canonicas sancciones et eciam contra consuetudines diu obseruatas nunc inhibendo subdictis suis ne litigent in foro ecclesiastico eciam de causis de quibus potest in eodem licite litigari, nunc capiendo eos, nunc bona, nunc propinquorum, nunc propter hoc eis occasiones friuolas uel ficticias in ponendo, compellendo eciam clericos et alias personas a causis inceptis desistere et quidem coram se litigare, et bona ipsorum uel parentum uel propinquorum eorumdem et alias directe uel indirecte per se uel per alium multipliciter molestando et alias fieri de cetero sacro approbante concilio prohibemus.</p>
+                    <p>Etsi moniciones huiusmodi facte fuerint, eas precipimus renouari, precipientes ut singuli rectores ecclesiarum aut eorum uicarii in ecclesiis, plebe astante, diebus dominicis et festiuis, semel, secundo et tercio moneant generaliter et prohibeant ne quis cetero talia attemptare presumatt, quod si huiusmodi monicione premissa aliqui de cetero talia fecerit ipsos quos ex tunc, sacro approbante concilio, excommunicamus, in scriptis excommunicatos denuntient auctoritate dicti concilii diebus dominicis et festiuis.</p>
+                    <p>Et si uobis constiterit de premissis ipsos excommunicatos denuntient nominatim et publice et ad diuina eosdem et eorum familiam non recipiant, imo tamdiu teneant excommunicatos quousque ab diocesano uel eius officiali mereantur absolui.</p>
+                </div>
+                <div>
+                    <head>Capitulum 9</head>
+                    <p>Item et nos auctoritate ordinaria monicione prius competenti premissa, excommunicamus omnes illos, siue sint clerici, siue laici, cuiuscumque ordinis, dignitatis seu condicionis existant, qui inhibent seu impediunt et inhiberi seu impediri faciunt, directe uel indirecte quominus more solito, cleri uel laici Lemouicensis diocesi libere et secure ueniant ad curiam Lemouicensem et litigant in eadem, seu litigare uolentes, per capcionem bonorum, uel per infestacionem parentum, affinium, uel amicorum qualiter silere compellant.</p>
+                </div>
+                <div>
+                    <head>Capitulum 10</head>
+                    <p>Item innouamus statutum alias per nostros predecessores factum quod quicumque nuncios nostros uel officialis nostri uel executorum nostrorum seu officiariorum eiusdem litteras deferentes, uerberauerint uel impediuerint per se uel per alium, uel litteras rapuerint aut maliciose retinuerint aut quicumque racione causarum quas plene coram nobis uel officiali nostro moueantur interdum insidiantur uel dampnificant in personis uel in rebus, ipso facto sentenciam excommunicacionis incurrunt, et omnes illi qui ad hoc opem prebuerint uel assensum, consilium, mandatum, a qua sentencia per nos absolui non possunt.</p>
+                </div>
+                <div>
+                    <head>Capitulum 11</head>
+                    <p>Item uobis iniungimus et sub pena excommunicacionis districte precepimus quatinus omnes prepositos, seruientes et bailiuos et quoscumque alios iurisdiccionem temporalem exercentes subditos nostros cum uobis confitebuntur, inter cetera requiratis an in aliquo de preditis casibus contra nos aut curiam nostram Lemouicensem deliquerint, quod si fuerint confessi sicque uinculo excommunicacionis teneantur astricti, ipsos ad nos uel officialem nostrum non iniuncta pena remittatis absoluendos nisi predictis confitentibus mortis periculum imminuerint, quo casu ipsos per uos uolumus posse absolui, ita tamen quod ipsorum corpora non tradantur ecclesiastice sepulture, nisi de licencia a nobis super hoc obtenta, ad quod ipsi per uos prout melius fieri poterit iudicantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 12</head>
+                    <p>Item excommunicamus et excommunicatos denunciari mandamus, monicione premissa, publicos raptores et depredatores bonorum ecclesiarum, alteracionis antique... dubium presentis rediuiue constitucionis oraculo dedicentes...</p>
+                </div>
+                <div>
+                    <head>Capitulum 13</head>
+                    <p>Bigamos omni priuilegio clericali declaramus esse nudatos, et cohibicioni fori secularis additos, consuetudine contraria non obstante; ipsi quoque sub anathemate prohibemus deferre tonsuram uel habitum clericalem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 14</head>
+                    <p>Item excommunicamus omnes illos presbyteros et clericos qui non uocati ueniunt ad alias sepulturas.</p>
+                </div>
+                <div>
+                    <head>Capitulum 15</head>
+                    <p>Item cum intellexerimus quod in die Pasche ad communionem corporis Christi abstinentes magis confusionem timentes quam in caritate sacrosancti corporis Christi feruentes, ut appareant hominibus communicantes, hostiam benedictam cum aliis communicantibus seu ipsis uidentibus a capellanis seu uicariis suis sibi dari faciunt, ut par talem simulacionem appareant hominibus communicantes, ipsa hostia benedicta tam a se quam assistantibus non sine specie idolatrie et ipocrisis indebita reuerencia ipsius corporis Christi habeatur.</p>
+                    <p>Statuimus quod capellani talibus excommunicatis, publicis peccatoribus, in die Pascha hostiam benedictam de cetero non administrent, sed a matriculario ipsius ecclesie panem benedictum si uoluerint ad partem recipiant prout est in aliis diebus dominicis consuetum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 16</head>
+                    <p>Item statuimus quod nulli crucesignati priuilegio crucis gaudeant nisi crucem magnam et patentem in omnibus pannis superioribus defferant et quod capellani inhibiciones seu alias litteras pro eis racione priuilegii impetratas non teneantur alias sigillare.</p>
+                </div>
+                <div>
+                    <head>Capitulum 17</head>
+                    <p>Item statuimus quod aduene et alienigene presbyteri non recipiantur in nostro diocesi ad celebrandum quousque nobis constet de eorum promocione.</p>
+                    <p>Et uolumus quod capellani ecclesiarum in quibus dicti presbiteri celebrarent, nobis denuncient per suas litteras patentes, sigillis suis sigillatas et nos de illis ordinabimus pro melius uidebimus expedire.</p>
+                </div>
+                <div>
+                    <head>Capitulum 18</head>
+                    <p>Item cum intellexerimus quod quidam clerici nostre diocesis contra canonicas sancciones et honestatem clericalem assensant a dominis secularibus prepositatus, bailias, et sergencias quibus inest merum et mixtum imperium et iurisdiccio temporalis et quidam eorum prepositi assisias tenent et ipsam iurisdiccionem temporalem ut seruientes sergencias uel alias per omnia ut laici exercent et capcione lucri iurisdiccionem ecclesiasticam decurtant et personas ecclesiasticas opprimunt, et, quod est horribile, peius tractant quam laici, subtiliores cautelas inuenientes ad nocendum et sepe sentencias excommunicacionis latas contra perturbatores iurisdiccionis ecclesiastice incurrentes, cum aliis clericis passim diuinis in ecclesiis se inmiscent.</p>
+                    <p>Inhibimus ne de cetero aliqui clerici prepositatus, bailias, sergencias in nostra diocesi assensent uel assensas teneant uel alia exercentes statuimus et firmiter inhibemus et in contrarium facientes excommunicacionis sentenciam promulgamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 19</head>
+                    <p>Item cum intellexerimus quod quidam abusus surrexerunt in nostra diocesi quod nobiles matrimonialiter, bannis non editis, copulantur cum tamen longiores et longius cognaciones et affinitates habeant quam plebei, ne de cetero eorum matrimonia sine bannis faciatis in uirtute obedientie uobis inhibimus, alias eos grauiter ut de clandestinis puniemus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 20</head>
+                    <p>Item inhibimus quod capellani, presbiteri et clerici super personalibus accionibus non respondeant uoluntarie coram iudicibus secularibus, siue trahantur a laicis, siue a clericis.</p>
+                    <p>Et si contrarium fecerint in ipsos excommunicacionis sentenciam promulgamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 21</head>
+                    <p>Item excommunicamus omnes laicos, barones, nobiles, clericos et alios quoscumque feoda, seu retrofeoda nostra et Ecclesie nostre Lemouicensis decurtant, diminuunt et ocultant, et ab aliis dominis aduohant se tenere in feodum.</p>
+                    <p>Et illos qui aduohaciones aliquas de noua fecerent de predictis feodis et retrofeodis, uel de aliqua parte de eorumdem, uolumus quod sentencia publicetur per uos in ecclesiis uestris.</p>
+                </div>
+                <div>
+                    <head>Capitulum 22</head>
+                    <p>Item cum decime de iure communi spectent ad ecclesias, excommunicamus [7] omnes illos qui decimas noualium percipiunt et de cetero percipient contra uoluntatem rectorum ecclesiarum in quorum parochiis consistunt.</p>
+                </div>
+                <div>
+                    <head>Capitulum 23</head>
+                    <p>Cum statutum fuerit per predecessores nostros quod ecclesie illorum qui non resident in eisdem necnon et eorum qui ad ordines quos ipsarum ecclesiarum cura requirit non facerent infra iuris terminum promoueri, ecclesie eorum saisirentur, et suspenderent omnes illos qui ex tunc in eorum ecclesiis presument celebrare, nos ipsum statutum approbantes ac eciam innouentes, dictas, que ecclesias et fructus eorum talium saizientes et saiziri mandantes, et eorum uicarios et quoscumque alios in ipsis ecclesiis eorumdem rectorum nomine, sine licencia nostra, celebrantes, post mensem ex nunc suspendimus.</p>
+                    <p>Inhibentes ne rectoribus dictarum ecclesiarum de dictis fructibus uel aliqui alii pro ipsis respondere presumant, quos fructus nobis uel mandato nostro reddi per integrum precipimus, et mandamus, in utilitate ecclesie conuertentes, ipsos que rectores si durantibus dictis sententiis, aliquid de predictis fructibus receperent, uel capifacerint contra huiusmodi inhibicionem nostram, seu residenciam personalem non faciendo officium et tenendo hospitium, excommunicacionis sentencia innodamus, exceptis canonicis Lemouicensibus et sociis et clericis familiaribus nostris, quos pro nostro seruicio specialiter duximus retinendos, quos per dictas sentencias uolumus non ligari.</p>
+                    <p>Iniungentes singulis archipresbyteris in uirtute obediencie quod ecclesias illorum qui ut premittitur residere in suis ecclesiis contempnent saiziant et nomine nostro fructus leuent et percipiant, et dictas ecclesias officiari faciant, et de hoc nos certificent postquam sciuerint infra mensem.</p>
+                </div>
+                <div>
+                    <head>Capitulum 24</head>
+                    <p>Item precipimus quod omnes religiosi in locis collegiatis seu conuentualibus commorantes, comedant simul in refectorio et iaceant in dormitorio et habitu condecenti sue religioni utantur, ne faciant sibi uestes de panno rubeo, uel de aliis diuersis coloribus colorotas, sed de panno conuenienti sue religioni, nec habeant cameras uel domos sibi singulares et appropriatas, nisi necessitas officii id exposcat, et de licencia sui abbatis uel prelati.</p>
+                    <p>Quod tamen raro et iusta de causa fiat.</p>
+                    <p>In contrarium facientes excommunicacionis sentenciam promulgamus auctoritate concilii antedicti.</p>
+                </div>
+                <div>
+                    <head>Capitulum 25</head>
+                    <p>Item iniungimus et precipimus uobis sub pena suspensionis quatinus matrimonia illicite contracta, si que esse in parochiis uestris sciueritis, nobis uel officiali quam citius commode poteritis intimetis, et ne aliquas personas matrimonialiter coniungatis nisi sint in etate legitima ad matrimonium contrahendum, et bannis prius editis, ut est moris, scilicet quod masculus sit in XIIIo anno et femina in XIIo quamquam ab aliquibus pretendatur quod in personis huiusmodi malicia suppleat etatem.</p>
+                    <p>Cum cognicio huiusmodi ad nos uel officialem nostram pertineat in predictis, contrahentes eciam clandestine et cooperatores presentes scienter ad hoc consilium prestantes, siue cleri, siue laici, seu religiosi uel seculares, sequendo statuta predecessorum nostrorum et concilii prouincialis, excommunicatos esse uolumus ac eciam denunciamus.</p>
+                </div>
+                <div>
+                    <head>Capitulum 26</head>
+                    <p>Item inhibimus quod nullus sacerdos uel clericus beneficiatus mulierem habeat in domo sua, nec teneat que sit suspecta, precipientes archipresbiteris quod in archipresbiteratu suo diligenter exquirant si sint aliqui tales mulieres, et omnes huiusmodi mulieres suspectas a domibus ipsorum expellant.</p>
+                    <p>Si quis autem publice canonice monitus deinceps conuictus, ecclesia seu beneficio priuetur, nisi ex causa probabili cum eo misericorditer fuerit dispensandum.</p>
+                </div>
+                <div>
+                    <head>Capitulum 27</head>
+                    <p>Item inhibimus ne proles illegitime nata, in domibus seu de bonis ecclesiam aliquatinus nutriantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 28</head>
+                    <p>Item ne presbiteri negociatores publici fiant, nec tabernas frequentent, nec ad talos, uel aleas ludant; quod si fecerint grauiter puniantur.</p>
+                </div>
+                <div>
+                    <head>Capitulum 29</head>
+                    <p>Item abusores litterarum apostolicarum scienter, sunt excommunicati ipso facto auctoritate concilii prouincialis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 30</head>
+                    <p>Item precipimus quod presbiteri parochiales admoneant parochianos suos ut saltem semel in anno confiteantur eisdem peccata sua.</p>
+                    <p>Ipsi autem quibus confessi fuerint caueant ne aliquo uerbo, uel signo, uel aliqua parte circumlocucione, uel aliquo modo, reuelent peccata eis confessa, quod si fecerint non solum a sacerdotali officio deponendi sunt, sed eciam in arcto loco ad agendam penitenciam sunt tenendi.</p>
+                </div>
+                <div>
+                    <head>Capitulum 31</head>
+                    <p>Item inhibimus ne aliqui presbiteri, seu religiosi, uel aliqui alii cuiuscumque status, seu condicionis existant, excommunicatos auctoritate ordinaria preterquam in articulo mortis absoluant, nec tradant ecclesiastice sepulture donec ab ordinario defuncti sepeliendi obtenta fuerit licencia specialis.</p>
+                    <p>Si uero in contrarium de sic defunctis aliquid attemptetur a quibuscumque, cuiuscumque condicionis existant, tam in eos quam in cooperatores, et qui opem, consilium, uel consensum ad hoc dederint, et qui expensas administrauerint, et qui presentes scienter fuerint tali funeri, nouerint se, auctoritate dicti concilii prouincialis excommunicacionis sentencia innodatos.</p>
+                    <p>Similiter sciant se sententie subiacere qui publicos usurarios in suis cimeteriis presumpserint sepelire.</p>
+                </div>
+                <div>
+                    <head>Capitulum 32</head>
+                    <p>Item cum statutum fuerit in prouinciali concilio quod rectores ecclesiarum et alii clerici beneficiati qui per annum excommunicacione perstiterint si negligentes impetranda absolucione fuerint, suis beneficiis priuentur.</p>
+                    <p>Nos, iuxta tenorem concilii, monemus ut si sint aliqui uestrum talibus sententiis innodati, infra mensem faciant se absolui, alioquin contra ipsos ad priuacionem beneficiorum suorum prout iura uolunt et ipsum statutum requirit, procedemus.</p>
+                    <p>Mandantes nichilominus archipresbiteris nostris, quod nomina talium excommunicatorum qui tanto tempore dictas sentencias sustinuerint nobis intimare procurent, citantes eosdem excommunicatos ad certam diem, mense elapso, coram nobis, priuacionem dictorum beneficiorum audituros.</p>
+                </div>
+                <div>
+                    <head>Capitulum 33</head>
+                    <p>Cum intellexerimus quod in multis comitatibus statuta de nouo facta fuisse contra priuilegium ecclesiastice libertatis et immunitatem, monemus statuentes ut infra duos menses premissa statuta reuocent penitus et annullent.</p>
+                    <p>Quod nisi sic moniti fecerent ipsos quos ex tunc ut ex nunc excommunicamus, tanquam excommunicatos euitandos.</p>
+                    <p>Et cum intellexerimus eciam statuta de nouo facta fuisse in multis comitatibus ciuitatis et diocesis nostre contra ecclesiasticam libertatem, excommunicamus statuentes, scriptores statutorum predictorum et iudices secundum ea iudicantes, nisi infra duos menses predicta statuta reuocauerint et de capitularibus suis amouerint uel fecerint amoueri.</p>
+                </div>
+                <div>
+                    <head>Capitulum 34</head>
+                    <p>Item cum per certe facta monicione ne cum excommunicatis pereant maiori excommunicacione ligantur, uos uolumus non latere quod iste persone post monicionem talem participantes ligati excommunicati sic remaneant donec per nos uel officialem nostrum specialiter absoluantur, et si forte casu aliquo uobis absolucio participantibus specialiter innodatis.</p>
+                </div>
+                <div>
+                    <head>Capitulum 35</head>
+                    <p>Et nos Reginaldus, miseracione diuina Lemouicensis episcopus, supradicta statuta hic lecta, per bone memorie, Gilbertum, Lemouicensem episcopum, predecessorem nostrum, et alios predecessores edita et per eos in suis synodis publicata, confirmantes, approbantes ac eciam innouantes, modo et forma, in presenti synodo sancti Luce, quam primam celebramus, una cum quibusdam aliis statutis publicamus et ea sub penis impositis per predecessores nostros predictos alias in eis positis a subditis nostris precipimus obseruari, etc.</p>
+                </div>
+                <div>
+                    <head>Footnotes</head>
+                    <p>[1] (VI, 1, 6, 13)</p>
+                    <p>[2] (VI, 1, 20, can. 1)</p>
+                    <p>[3] (VI, 3, 9, 2)</p>
+                    <p>[4] (VI, 5, 8, can. 1)</p>
+                    <p>[5] (VI, 5, 11, 11)</p>
+                    <p>[6] (VI, 5, 11, 10)</p>
+                    <p>[7] Ed. &lt;excommunicamus&gt;.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</root>
