@@ -3,19 +3,19 @@ import re
 # note_parser.py (v1) Apr 09, 2018
 # --------------------------------
 # Parses metadata and footnotes from RWD's notes files.
-# This module uses Python 3. 
+# This module uses Python 3.
 # Written by Thawsitt Naing (thawsitt@cs.stanford.edu).
 
 
 class NoteParser:
 
-    def __init__(self, input_dir, utils, normalize, metadata):
+    def __init__(self, input_dir, utils, metadata, normalize):
         self.utils = utils
         self.input_dir = input_dir
         self.input_file_names = self.utils.getInputFileNames(input_dir)
         self.normalize = normalize
         self.metadata = metadata
-        
+
 
     def getFootNotes(self):
         # Return a dictionary
@@ -37,7 +37,7 @@ class NoteParser:
         temp = notes_list[:]
         for index, line in enumerate(notes_list):
             new_line = line
-            
+
             new_line = new_line.replace('j', 'i')
             new_line = new_line.replace('J', 'I')
 

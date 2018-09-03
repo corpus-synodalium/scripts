@@ -5,7 +5,7 @@ from pprint import pprint
 # text_parser.py (v1) Apr 09, 2018
 # --------------------------------
 # Parses sections from RWD's text files.
-# This module uses Python 3. 
+# This module uses Python 3.
 # Written by Thawsitt Naing (thawsitt@cs.stanford.edu).
 
 
@@ -17,7 +17,7 @@ class TextParser:
         self.input_file_names = self.utils.getInputFileNames(input_dir)
         self.metadata = metadata
         self.normalize = normalize
-        
+
     def getTextSections(self):
         texts = {}
         for input_file_name in self.input_file_names:
@@ -120,7 +120,7 @@ class TextParser:
                 d[last_section_number].append(line)
             else:
                 d['Incipit'].append(line)
-                            
+
         # inspect the last section for explicit (conclusion)
         d['Explicit'] = []
         section_names.append('Explicit')

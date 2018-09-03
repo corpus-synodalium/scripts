@@ -31,6 +31,29 @@ class UtilityFunctions:
         lines = list(filter(None, lines))  # remove empty strings from list
         return lines
 
+    def color_print(self, text, color="yellow"):
+        if color.lower() == "red":
+            print("\033[91m{}\033[00m".format(text))
+
+        if color.lower() == "green":
+            print("\033[92m{}\033[00m".format(text))
+
+        if color.lower() == "cyan":
+            print("\033[96m{}\033[00m".format(text))
+
+        if color.lower() == "purple":
+            print("\033[95m{}\033[00m".format(text))
+
+        if color.lower() == "yellow":
+            print("\033[93m{}\033[00m".format(text))
+
+        if color.lower() == "lightgray":
+            print("\033[97m{}\033[00m".format(text))
+
+        if color.lower() == "lightpurple":
+            print("\033[94m{}\033[00m".format(text))
+
+
     def getColumnNames(self):
         column_names = ['RecordID',
         'Year',
@@ -74,13 +97,13 @@ class UtilityFunctions:
     def getExplicitIdentifiers(self):
         # if any of these identifiers appear in a line of the LAST numbered section,
         # then that line belong in "explicit" section.
-        identifiers = ["actum", 
-        "datum", 
-        "explicit", 
-        "expliciunt", 
-        "in cuius rei", 
-        "in cujus rei", 
-        "conclusion", 
+        identifiers = ["actum",
+        "datum",
+        "explicit",
+        "expliciunt",
+        "in cuius rei",
+        "in cujus rei",
+        "conclusion",
         "escatocolo",
         "se acaban",
         "fecho en",
