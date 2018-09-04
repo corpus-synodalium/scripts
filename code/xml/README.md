@@ -44,23 +44,28 @@ deactivate
 
 - Go to `xml` folder.
 
-  ```
-  cd xml
-  ```
+```
+cd xml
+```
 
 - Activate virtual environment.
 
-  ```
-  source scripts/ve.sh
-  ```
+```
+source scripts/ve.sh
+```
 
 - To run normal version:
 
-  ```
-  source scripts/run.sh
-  ```
+```
+source scripts/run.sh
+```
 
 - To run normalized version:
-  ```
-  source scripts/normalize.sh
-  ```
+
+```
+source scripts/normalize.sh
+```
+
+- Here is a screenshot of the program:
+
+![Imgur](https://i.imgur.com/G3fxbAh.png)
