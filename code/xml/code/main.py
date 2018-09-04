@@ -67,7 +67,7 @@ class MasterParser():
         print('Number of text files: {}'.format(num_text))
         print('Number of note files: {}'.format(num_note))
         print('Number of csv rows  : {}\n'.format(num_csv))
-        if (num_text != num_note) or (num_text != num_csv):
+        if (num_text != num_note): #or (num_text != num_csv):
             print('The number of files in all input sources must be the same.')
             print('Please check your input sources. If you want to continue,')
             print('you can comment out "inspect_file_count()" in main.py\n')
@@ -83,6 +83,9 @@ class MasterParser():
             with open(xml_file_name, 'w') as xml_file:
                 text = self.texts[record_id]
                 footnotes = self.footnotes[record_id]
+                if record_id not in self.metadata:
+                    print(record_id)
+                    continue
                 metadata = self.metadata[record_id]
                 xml_file.write(self.xml_utils.getXMLStr(text, footnotes, metadata, filename))
             print_progress_bar(i+1, self.num_files, status=xml_file_name)

@@ -61,6 +61,7 @@ class XMLUtils:
         genNotes = ET.SubElement(profileDesc, 'genNotes')
 
         # child nodes of 'creation'
+        year = ET.SubElement(creation, 'year')
         origDate = ET.SubElement(creation, 'origDate')
         dateNotes = ET.SubElement(creation, 'dateNotes')
         origPlace = ET.SubElement(creation, 'origPlace')
@@ -85,7 +86,7 @@ class XMLUtils:
     # ---------------------------------------------
     # Helper Functions
     # ---------------------------------------------
-    
+
     def getTitleFromFileName(self, filename):
         #record_id = re.findall(r'^(.*?)_', filename)[0]
         name = re.findall(r'^(?:.*?)_(.*?)_(?:.*?)\.txt$', filename)[0]
@@ -113,7 +114,7 @@ class XMLUtils:
         recordID = root.find('teiHeader/fileDesc/titleStmt/recordID')
         recordID.text = '{}'.format(str(int(metadata['RecordID'])).zfill(4))
 
-        
+
 
     def populateProfileDesc(self, root, metadata, filename):
         origDate = root.find('teiHeader/profileDesc/creation/origDate')
@@ -121,6 +122,8 @@ class XMLUtils:
         if metadata['Circa'] == 'Yes':
             origDate.set('precision', 'circa')
 
+        year = root.find('teiHeader/profileDesc/creation/year')
+        year.text = metadata['Year_Sort']
 
         origPlace = root.find('teiHeader/profileDesc/creation/origPlace')
         origPlace.text = metadata['Place']
@@ -169,10 +172,8 @@ class XMLUtils:
         # FootNotes
         div = ET.SubElement(all_text, 'div')
         head = ET.SubElement(div, 'head')
-        head.text = 'Footnotes' 
+        head.text = 'Footnotes'
 
         for line in footnotes:
             p = ET.SubElement(div, 'p')
-            p.text = line 
-
-    
+            p.text = line

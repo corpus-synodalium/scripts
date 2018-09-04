@@ -55,43 +55,7 @@ class UtilityFunctions:
 
 
     def getColumnNames(self):
-        column_names = ['RecordID',
-        'Year',
-        'Month',
-        'Day',
-        'Circa',
-        'DatingNotes',
-        'Place',
-        'Diocese',
-        'Province',
-        'CountryModern',
-        'Latitude',
-        'Longitude',
-        'PlaceNotes',
-        'Classification',
-        'IssuingAuthority',
-        'IssuingAuthorityAlt',
-        'RegnalStart',
-        'RegnalEnd',
-        'Delegated',
-        'ClassificationNotes',
-        'Language',
-        'LanguageNotes',
-        'TextNeeded',
-        'NoKnownText',
-        'Fragment',
-        'Source',
-        'SourceOther',
-        'Edition',
-        'EditionOther',
-        'SourceNotes',
-        'TranscriptionNotes',
-        'BaseText',
-        'OCR',
-        'Transcription',
-        'GeneralNotes',
-        'BiblioRefs']
-
+        column_names = 'RecordID,Year_Sort,Year,Month,Day,Circa,DatingNotes,Place,Diocese,Province,CountryModern,Jurisdiction_ID,Jurisdiction_ID2,Jurisdiction_ID3,Latitude,Longitude,PlaceNotes,Classification,IssuingAuthority,IssuingAuthorityAlt,RegnalStart,RegnalEnd,Delegated,ClassificationNotes,Language,LanguageNotes,TextNeeded,NoKnownText,Fragment,Source,SourceOther,Edition,EditionOther,SourceNotes,TranscriptionNotes,BaseText,OCR,Transcription,GeneralNotes,BiblioRefs'.split(',')
         return column_names
 
     def getExplicitIdentifiers(self):
