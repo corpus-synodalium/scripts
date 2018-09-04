@@ -93,13 +93,13 @@ class XMLUtils:
         title = '{}'.format(name)
         return title
 
-    def getDateText(self, metadata):
-        date_text = metadata['Year']
-        if metadata['Month']:
-            date_text += '-{}'.format(str(int(metadata['Month'])).zfill(2))
-        if metadata['Day']:
-            date_text += '-{}'.format(str(int(metadata['Day'])).zfill(2))
-        return date_text
+    # def getDateText(self, metadata):
+    #     date_text = metadata['Year']
+    #     if metadata['Month']:
+    #         date_text += '-{}'.format(str(int(metadata['Month'])).zfill(2))
+    #     if metadata['Day']:
+    #         date_text += '-{}'.format(str(int(metadata['Day'])).zfill(2))
+    #     return date_text
 
 
     def populateTeiHeader(self, root, metadata, filename):
@@ -117,8 +117,12 @@ class XMLUtils:
 
 
     def populateProfileDesc(self, root, metadata, filename):
+
+        # "Year" field is text-based: e.g. "1210x1215", "1300 (ca.)"
+        # "Year_Sort" field is always a 4-digit number and used for sorting.
         origDate = root.find('teiHeader/profileDesc/creation/origDate')
-        origDate.text = self.getDateText(metadata)
+        origDate.text = metadata['Year']
+
         if metadata['Circa'] == 'Yes':
             origDate.set('precision', 'circa')
 

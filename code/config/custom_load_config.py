@@ -43,7 +43,7 @@ doc_xpaths = {
         ".//profileDesc/creation/date", ".//fileDesc/sourceDesc/bibl/imprint/date",
         ".//sourceDesc/biblFull/publicationStmt/date", ".//profileDesc/dummy/creation/date",
         ".//fileDesc/sourceDesc/bibl/creation/date",
-        ".//profileDesc/creation/origDate"
+        ".//profileDesc/creation/year"
     ],
     "publisher": [
         ".//sourceDesc/bibl/imprint[@type='artfl']", ".//sourceDesc/bibl/imprint[@type='marc534']",
