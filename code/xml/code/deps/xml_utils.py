@@ -152,10 +152,11 @@ class XMLUtils:
         body = root.find('text/body')
         meta = ET.SubElement(body, 'div')
         head = ET.SubElement(meta, 'head')
+        metadata_body = ET.SubElement(meta, 'metadata')
         head.text = 'Metadata'
 
         for key in self.utils.getColumnNames():
-            p = ET.SubElement(meta, 'p')
+            p = ET.SubElement(metadata_body, 'p')
             p.text = '{}: {}'.format(key, metadata[key])
 
         # Text
