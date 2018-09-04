@@ -92,7 +92,7 @@ class MasterParser():
 #==================#
 
 def print_progress_bar(count, total, status=''):
-    progress_bar_len = 60
+    progress_bar_len = 40
     filled_len = int(round(progress_bar_len * count / float(total)))
     percents = round(100.0 * count / float(total), 1)
     progress_bar = '=' * filled_len + '-' * (progress_bar_len - filled_len)
@@ -114,7 +114,7 @@ def main():
     master.inspect_file_count()
     master.parse_data()
     master.write_xml_output()
-    print('\n--- All tasks complete! Take taken: {} seconds ---\n'.format(time() - start_time))
+    print('\n--- All tasks complete! Time taken: {} seconds ---\n'.format(time() - start_time))
 
 if __name__ == '__main__':
     main()
