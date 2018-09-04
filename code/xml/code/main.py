@@ -31,7 +31,7 @@ import deps.xml_utils
 INPUT_TEXT = '../_input/text/'
 INPUT_NOTES = '../_input/notes/'
 INPUT_CSV = '../_input/metadata/metadata.csv'
-OUTPUT = '../_output_test/'
+OUTPUT = '../_output/'
 
 #==============#
 # MasterParser #
