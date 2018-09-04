@@ -43,7 +43,7 @@ doc_xpaths = {
         ".//profileDesc/creation/date", ".//fileDesc/sourceDesc/bibl/imprint/date",
         ".//sourceDesc/biblFull/publicationStmt/date", ".//profileDesc/dummy/creation/date",
         ".//fileDesc/sourceDesc/bibl/creation/date",
-        ".//profileDesc/creation/origDate"
+        ".//profileDesc/creation/year"
     ],
     "publisher": [
         ".//sourceDesc/bibl/imprint[@type='artfl']", ".//sourceDesc/bibl/imprint[@type='marc534']",
@@ -153,7 +153,8 @@ tag_to_obj_map = {
     "add": "para",
     "pb": "page",
     "ref": "ref",
-    "graphic": "graphic"
+    "graphic": "graphic",
+    "metadata": "div"
 }
 
 # Defines which metadata to parse out for each object. All metadata defined here are attributes of a tag,
@@ -182,7 +183,7 @@ sort_order = ["year", "author", "title", "filename"]
 
 # A list of tags to ignore: contents will not be indexed
 # This should be a list of tag names, such as ["desc", "gap"]
-suppress_tags = []
+suppress_tags = ["metadata"]
 
 # --------------------- Set Apostrophe Break ------------------------
 # Set to True to break words on apostrophe.  Probably False for
