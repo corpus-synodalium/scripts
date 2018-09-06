@@ -69,6 +69,13 @@ h5 {
   min-height: calc(100vh - 165px); /* (65 + 20)px + 60px for nav */
 }
 
+@media only screen and (max-width: 600px) {
+  #text-body {
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+}
+
 /* image */
 
 .image-overflow {
