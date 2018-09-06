@@ -16,11 +16,16 @@ p {
 }
 
 h1 {
-  margin: 30px 0px 50px 0px !important;
+  font-style: italic;
+  margin: 30px 0px 0px 0px !important;
 }
 
 h3 {
   margin: 30px 0px !important;
+}
+
+h5 {
+  margin: 20px 0px 40px 0px !important;
 }
 
 /* nav-bar */
