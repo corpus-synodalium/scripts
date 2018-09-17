@@ -110,6 +110,9 @@ doc_xpaths = {
     "diocese": [
         ".//profileDesc/creation/diocese"
     ],
+    "diocese_id": [
+        ".//profileDesc/creation/diocese_id"
+    ],
     "province": [
         ".//profileDesc/creation/province"
     ],

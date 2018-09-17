@@ -66,6 +66,7 @@ class XMLUtils:
         dateNotes = ET.SubElement(creation, 'dateNotes')
         origPlace = ET.SubElement(creation, 'origPlace')
         diocese = ET.SubElement(creation, 'diocese')
+        diocese_id = ET.SubElement(creation, 'diocese_id')
         province = ET.SubElement(creation, 'province')
         country = ET.SubElement(creation, 'country')
         geo = ET.SubElement(creation, 'geo')
@@ -134,6 +135,9 @@ class XMLUtils:
 
         diocese = root.find('teiHeader/profileDesc/creation/diocese')
         diocese.text = metadata['Diocese']
+
+        diocese_id = root.find('teiHeader/profileDesc/creation/diocese_id')
+        diocese_id.text = metadata['Jurisdiction_ID']
 
         province = root.find('teiHeader/profileDesc/creation/province')
         province.text = metadata['Province']
