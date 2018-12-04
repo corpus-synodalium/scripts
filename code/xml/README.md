@@ -18,6 +18,18 @@ This folder contains the Python program and scripts required to generate XML fil
   - `notes`: .txt notes (e.g. `0002_Trier_1277_Notes.txt`)
   - `text`: .txt files (e.g. `0002_Trier_1277.txt`)
 
+## Processing input files
+
+The following bash scrips might be useful.
+
+- Remove all files that contains `_Notes`
+	- `rm -rf *_Notes*`
+- Remove all files that do NOT contain `_Notes`
+	- `shopt -s extglob`
+	- `rm -rf !(*_Notes*)`
+
+Make sure to have a **backup** of all text files before deleting them.
+
 ## Virtual Environment
 
 To make the Python program run consistently on all platforms, I use a [virtual environment](https://docs.python.org/3/tutorial/venv.html) with Python 3.7.0.
