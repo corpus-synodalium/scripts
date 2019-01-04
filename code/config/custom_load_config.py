@@ -119,6 +119,9 @@ doc_xpaths = {
     "country": [
         ".//profileDesc/creation/country"
     ],
+    "placeSearchOption": [
+        ".//profileDesc/creation/placeSearchOption"
+    ],
     "classification": [
         ".//profileDesc/textDesc/domain"
     ],
