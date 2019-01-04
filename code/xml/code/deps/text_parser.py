@@ -21,8 +21,10 @@ class TextParser:
     def getTextSections(self):
         texts = {}
         for input_file_name in self.input_file_names:
-            lines = self.utils.readFile(self.input_dir, input_file_name)
             record_id = self.utils.getRecordID(input_file_name)
+            if record_id not in self.metadata:
+                continue
+            lines = self.utils.readFile(self.input_dir, input_file_name)
             sections = self.readIntoDict(lines, input_file_name)
             # Performs Orthographic Systematization for Latin texts
             if self.normalize and self.metadata[record_id]['Language'] == 'Latin':

@@ -81,11 +81,11 @@ class MasterParser():
             if self.normalize:
                 xml_file_name = '{}{}_normalized.xml'.format(OUTPUT, record_id)
             with open(xml_file_name, 'w') as xml_file:
+                if record_id not in self.metadata:
+                    print('No metadata found. Skipped {}.'.format(record_id))
+                    continue
                 text = self.texts[record_id]
                 footnotes = self.footnotes[record_id]
-                if record_id not in self.metadata:
-                    print(record_id)
-                    continue
                 metadata = self.metadata[record_id]
                 xml_file.write(self.xml_utils.getXMLStr(text, footnotes, metadata, filename))
             print_progress_bar(i+1, self.num_files, status=xml_file_name)
