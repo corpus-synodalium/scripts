@@ -12,6 +12,7 @@ from xml.dom import minidom
 class XMLUtils:
     def __init__(self, utils):
         self.utils = utils
+        self.column_names = self.utils.getColumnNames()
 
     def getXMLStr(self, text, footnotes, metadata, filename):
         root = self.getXMLTemplate()
@@ -88,11 +89,11 @@ class XMLUtils:
     # Helper Functions
     # ---------------------------------------------
 
-    def getTitleFromFileName(self, filename):
-        #record_id = re.findall(r'^(.*?)_', filename)[0]
-        name = re.findall(r'^(?:.*?)_(.*?)_(?:.*?)\.txt$', filename)[0]
-        title = '{}'.format(name)
-        return title
+    # def getTitleFromFileName(self, filename):
+    #     #record_id = re.findall(r'^(.*?)_', filename)[0]
+    #     name = re.findall(r'^(?:.*?)_(.*?)_(?:.*?)\.txt$', filename)[0]
+    #     title = '{}'.format(name)
+    #     return title
 
     # def getDateText(self, metadata):
     #     date_text = metadata['Year']
@@ -109,7 +110,7 @@ class XMLUtils:
 
     def populateFileDesc(self, root, metadata, filename):
         title = root.find('teiHeader/fileDesc/titleStmt/title')
-        title.text = self.getTitleFromFileName(filename)
+        title.text = metadata['Place']
 
 
         recordID = root.find('teiHeader/fileDesc/titleStmt/recordID')
@@ -159,7 +160,7 @@ class XMLUtils:
         metadata_body = ET.SubElement(meta, 'metadata')
         head.text = 'Metadata'
 
-        for key in self.utils.getColumnNames():
+        for key in self.column_names:
             p = ET.SubElement(metadata_body, 'p')
             p.text = '{}: {}'.format(key, metadata[key])
 
