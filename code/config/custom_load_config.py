@@ -119,8 +119,8 @@ doc_xpaths = {
     "country": [
         ".//profileDesc/creation/country"
     ],
-    "placeSearchOption": [
-        ".//profileDesc/creation/placeSearchOption"
+    "allPlace": [
+        ".//profileDesc/creation/_allPlace"
     ],
     "issuing_authority" : [
         ".//profileDesc/creation/_issuingAuthority"

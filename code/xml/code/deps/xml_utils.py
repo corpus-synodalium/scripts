@@ -70,7 +70,7 @@ class XMLUtils:
         diocese_id = ET.SubElement(creation, 'diocese_id')
         province = ET.SubElement(creation, 'province')
         country = ET.SubElement(creation, 'country')
-        placeSearchOption = ET.SubElement(creation, 'placeSearchOption')
+        _allPlace = ET.SubElement(creation, '_allPlace')
         geo = ET.SubElement(creation, 'geo')
         placeNotes = ET.SubElement(creation, 'placeNotes')
         orgName = ET.SubElement(creation, 'orgName')
@@ -148,14 +148,14 @@ class XMLUtils:
         country = root.find('teiHeader/profileDesc/creation/country')
         country.text = metadata['CountryModern']
 
-        placeSearchOptionValues = set()
-        placeSearchOptionValues.add(metadata['Place'])
-        placeSearchOptionValues.add(metadata['Diocese'])
-        placeSearchOptionValues.add(metadata['Province'])
-        placeSearchOptionValues.add(metadata['CountryModern'])
-        placeSearchOptionValues = [x for x in placeSearchOptionValues if x is not None]
-        placeSearchOption = root.find('teiHeader/profileDesc/creation/placeSearchOption')
-        placeSearchOption.text = ' '.join(placeSearchOptionValues)
+        allPlaceValues = set()
+        allPlaceValues.add(metadata['Place'])
+        allPlaceValues.add(metadata['Diocese'])
+        allPlaceValues.add(metadata['Province'])
+        allPlaceValues.add(metadata['CountryModern'])
+        allPlaceValues = [x for x in allPlaceValues if x is not None]
+        _allPlace = root.find('teiHeader/profileDesc/creation/_allPlace')
+        _allPlace.text = ' '.join(allPlaceValues)
 
         classification = root.find('teiHeader/profileDesc/textDesc/domain')
         classification.text = metadata['Classification']
