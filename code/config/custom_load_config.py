@@ -128,15 +128,7 @@ doc_xpaths = {
     "classification": [
         ".//profileDesc/textDesc/domain"
     ],
-    # Duplicate fields added so that we can use
-    # BOTH dropdown and text input for the same field
-    "classification_duplicate": [
-        ".//profileDesc/textDesc/domain"
-    ],
     "language": [
-        ".//profileDesc/langUsage"
-    ],
-    "language_duplicate": [
         ".//profileDesc/langUsage"
     ],
     ###
