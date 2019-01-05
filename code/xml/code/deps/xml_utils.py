@@ -51,6 +51,14 @@ class XMLUtils:
         bibl = ET.SubElement(sourceDesc, 'bibl')
         sourceNote = ET.SubElement(sourceDesc, 'sourceNote')
 
+        source = ET.SubElement(msDesc, 'source')
+        sourceOther = ET.SubElement(msDesc, 'sourceOther')
+        _source = ET.SubElement(msDesc, '_source')
+
+        edition = ET.SubElement(bibl, 'edition')
+        editionOther = ET.SubElement(bibl, 'editionOther')
+        _edition = ET.SubElement(bibl, '_edition')
+
         # Profile Description
         profileDesc = ET.SubElement(teiHeader, 'profileDesc')
         langUsage = ET.SubElement(profileDesc, 'langUsage')
@@ -163,6 +171,7 @@ class XMLUtils:
         langUsage = root.find('teiHeader/profileDesc/langUsage')
         langUsage.text = metadata['Language']
 
+        # Issuing Authority
         persName = root.find('teiHeader/profileDesc/creation/persName')
         persName.text = metadata['IssuingAuthority']
 
@@ -176,6 +185,20 @@ class XMLUtils:
         issuingAuthValues = [x for x in issuingAuthValues if x is not None]
         _issuingAuthority.text = ', '.join(issuingAuthValues)
 
+        # Source and Edition
+        source = root.find('teiHeader/fileDesc/sourceDesc/msDesc/source')
+        source.text = metadata['Source']
+        sourceOther = root.find('teiHeader/fileDesc/sourceDesc/msDesc/sourceOther')
+        sourceOther.text = metadata['SourceOther']
+        _source = root.find('teiHeader/fileDesc/sourceDesc/msDesc/_source')
+        _source.text = '; '.join([x for x in [metadata['Source'], metadata['SourceOther']] if x is not None])
+
+        edition = root.find('teiHeader/fileDesc/sourceDesc/bibl/edition')
+        edition.text = metadata['Edition']
+        editionOther = root.find('teiHeader/fileDesc/sourceDesc/bibl/editionOther')
+        editionOther.text = metadata['EditionOther']
+        _edition = root.find('teiHeader/fileDesc/sourceDesc/bibl/_edition')
+        _edition.text = '; '.join([x for x in [metadata['Edition'], metadata['EditionOther']] if x is not None])
 
 
     def populateText(self, root, text, footnotes, metadata, filename):

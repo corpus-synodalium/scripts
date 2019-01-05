@@ -131,9 +131,14 @@ doc_xpaths = {
     "language": [
         ".//profileDesc/langUsage"
     ],
-    ###
     "record_id" : [
         ".//fileDesc/titleStmt/recordID"
+    ],
+    "source" : [
+        ".//fileDesc/sourceDesc/msDesc/_source"
+    ],
+    "edition" : [
+        ".//fileDesc/sourceDesc/bibl/_edition"
     ]
 }
 
