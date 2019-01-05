@@ -76,6 +76,7 @@ class XMLUtils:
         orgName = ET.SubElement(creation, 'orgName')
         persName = ET.SubElement(creation, 'persName')
         altName = ET.SubElement(creation, 'altName')
+        _issuingAuthority = ET.SubElement(creation, '_issuingAuthority')
         regnalYears = ET.SubElement(creation, 'regnalYears')
         delegated = ET.SubElement(creation, 'delegated')
         classNotes = ET.SubElement(creation, 'classNotes')
@@ -161,6 +162,20 @@ class XMLUtils:
 
         langUsage = root.find('teiHeader/profileDesc/langUsage')
         langUsage.text = metadata['Language']
+
+        persName = root.find('teiHeader/profileDesc/creation/persName')
+        persName.text = metadata['IssuingAuthority']
+
+        altName = root.find('teiHeader/profileDesc/creation/altName')
+        altName.text = metadata['IssuingAuthorityAlt']
+
+        _issuingAuthority = root.find('teiHeader/profileDesc/creation/_issuingAuthority')
+        issuingAuthValues = []
+        issuingAuthValues.append(metadata['IssuingAuthority'])
+        issuingAuthValues.append(metadata['IssuingAuthorityAlt'])
+        issuingAuthValues = [x for x in issuingAuthValues if x is not None]
+        _issuingAuthority.text = ', '.join(issuingAuthValues)
+
 
 
     def populateText(self, root, text, footnotes, metadata, filename):

@@ -122,6 +122,9 @@ doc_xpaths = {
     "placeSearchOption": [
         ".//profileDesc/creation/placeSearchOption"
     ],
+    "issuing_authority" : [
+        ".//profileDesc/creation/_issuingAuthority"
+    ],
     "classification": [
         ".//profileDesc/textDesc/domain"
     ],
