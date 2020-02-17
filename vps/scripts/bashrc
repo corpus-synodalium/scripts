@@ -1,0 +1,36 @@
+# .bashrc
+
+# User specific aliases and functions
+alias rm='rm -i'
+alias mv='mv -i'
+alias ll='ls -la'
+alias nn='nano -w'
+alias af='lynx -dump -width=500 http://localhost:80/whm-server-status'
+alias config='cd /etc/philologic/ && ls'
+alias phtml='cd /var/www/html/philologic/ && ls'
+alias p4='cd ~/PhiloLogic4/ && ls'
+
+# Backup .bashrc
+alias backup0='echo cp ~/.bashrc ~/vps/scripts/bashrc_backup && \
+                    cp ~/.bashrc ~/vps/scripts/bashrc_backup'
+
+# Backup /var/www/html directory in background
+alias backup1='nohup sh ~/vps/scripts/backup_apache_server.sh &'
+
+# Backup /etc/apache2  and  /etc/philologic
+alias backup2='sh ~/vps/scripts/backup_etc.sh'
+
+function fixpermission() {
+	chmod +x /var/www/html/philologic/$1/*.py;
+	chmod +x /var/www/html/philologic/$1/reports/*.py;
+	chmod +x /var/www/html/philologic/$1/scripts/*.py;
+}
+
+# Source global definitions
+if [ -f /etc/bashrc ]; then
+        . /etc/bashrc
+        fi
+
+             PS1='\[\033[01;30m\][\A] \[\033[01;37m\][\[\033[01;31m\]\H\[\033[01;34m\] \W\[\033[01;37m\]] \[\033[00;31m\]\$\[\033[00m\] '
+
+alias puppetsync='puppet agent --test --verbose --trace'

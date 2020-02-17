@@ -1,8 +1,9 @@
 .DS_store
 *.pyc
+__pycache__/
 logins.txt
-code/xml/_input/*
-code/xml/_output/*
-code/xml/output.zip
-code/xml/output_norm.zip
-code/xml/_output_test/*
+xml/_input/*
+xml/_output/*
+xml/output.zip
+xml/output_norm.zip
+xml/test.zip
