@@ -13,6 +13,7 @@ class XMLUtils:
     def __init__(self, utils):
         self.utils = utils
         self.column_names = self.utils.getColumnNames()
+        self.ignored_metadata_fields = self.utils.getIgnoredMetadataFields()
 
     def getXMLStr(self, text, footnotes, metadata, filename):
         root = self.getXMLTemplate()
@@ -208,9 +209,12 @@ class XMLUtils:
         metadata_body = ET.SubElement(meta, 'metadata')
         head.text = 'Metadata'
 
+        # Metadata
         for key in self.column_names:
-            p = ET.SubElement(metadata_body, 'p')
-            p.text = '{}: {}'.format(key, metadata[key])
+            # Exclude igored metadata fields and those with empty values
+            if (key not in self.ignored_metadata_fields) and metadata[key]:
+                p = ET.SubElement(metadata_body, 'p')
+                p.text = '{}: {}'.format(key, metadata[key])
 
         # Text
         section_names = text['section_names']

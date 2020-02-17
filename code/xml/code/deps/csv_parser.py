@@ -19,7 +19,7 @@ class CSVParser():
         # Key: 4-digit recordID (string)
         # Value: a dictionary (metadata (key, value) pairs)
         metadata = dict()
-        with open(self.csv_file_name, newline='') as csvfile:
+        with open(self.csv_file_name, newline='', mode='r', encoding='utf-8-sig') as csvfile:
             database = csv.reader(csvfile, delimiter=',', quotechar='"')
             for row in database:
                 dictionary = self.readIntoDict(row)
@@ -29,6 +29,9 @@ class CSVParser():
 
     # Helper Functions
 
+    # TODO: Optimization
+    # Instead of a dict(), we can use a list to save memory.
+    # since keys are already indexed by nature of spreadsheet
     def readIntoDict(self, row):
         dictionary = dict()
         for i in range(len(row)):
@@ -42,9 +45,15 @@ class CSVParser():
         # deal with tab character in csv files exported by database
         # This tab character is known to appear in the following fields
         # BaseText, GeneralNotes, SourceNotes, PlaceNotes, DateNotes, Transcription Notes
+        key = key.strip()
         if value and ('' in value):
             value_list = value.split('')
             value = list(filter(None, value_list))  # filter empty strings
             if len(value) == 1:
                 value = value[0]  # ["lonely string"] => "lonely string"
+
+        # Format RecordID e.g. 1 to "0001"
+        if key == self.column_names[0]:
+            value = str(value).zfill(4)
+
         return (key, value)

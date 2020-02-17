@@ -50,7 +50,7 @@ class MasterParser():
         self.xml_utils = deps.xml_utils.XMLUtils(self.utils)
         self.metadata = deps.csv_parser.CSVParser(INPUT_CSV, self.utils).getMetadata()
         self.text_parser = deps.text_parser.TextParser(INPUT_TEXT, self.utils, self.metadata, self.normalize)
-        self.note_parser = deps.note_parser.NoteParser(INPUT_NOTES, self.utils, self.metadata, self.normalize)
+        self.note_parser = deps.note_parser.NoteParser(INPUT_NOTES, self.utils, self.metadata)
 
     def parse_data(self):
         self.utils.color_print('Step (2/3) - Parsing data. Please be patient ... \n')
@@ -87,7 +87,11 @@ class MasterParser():
                 text = self.texts[record_id]
                 footnotes = self.footnotes[record_id]
                 metadata = self.metadata[record_id]
-                xml_file.write(self.xml_utils.getXMLStr(text, footnotes, metadata, filename))
+                try:
+                    xml_str = self.xml_utils.getXMLStr(text, footnotes, metadata, filename)
+                    xml_file.write(xml_str)
+                except:
+                    print('Error in {}\n'.format(filename))
             print_progress_bar(i+1, self.num_files, status=xml_file_name)
 
 #==================#

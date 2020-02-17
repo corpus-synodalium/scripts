@@ -53,14 +53,25 @@ class UtilityFunctions:
         if color.lower() == "lightpurple":
             print("\033[94m{}\033[00m".format(text))
 
-
+    # Column Names from metadata.csv spreadsheet
     def getColumnNames(self):
-        column_names = """RecordID,Year_Sort,DatingNotes,Year,Month,Day,Circa,Place,PlaceNotes,
-        Diocese,Province,Latitude,CountryModern,Longitude,Jurisdiction_ID,Jurisdiction_ID2,
-        Jurisdiction_ID3,Jurisdiction_ID4,Jurisdiction_ID5,Classification,IssuingAuthority,
-        ClassificationNotes,IssuingAuthorityAlt,RegnalStart,RegnalEnd,Delegated,Language,
-        LanguageNotes,Source,SourceNotes,SourceOther,Edition,TranscriptionNotes,EditionOther,
-        NoKnownText,TextNeeded,Fragment,GeneralNotes,BaseText,OCR,Transcription,BiblioRefs""".split(',')
+        column_names = """RecordID,Year_Sort,Year,Month,Day,Circa,DatingNotes,
+        Place,Diocese,Province,CountryModern,Jurisdiction_ID,Jurisdiction_ID2,
+        Jurisdiction_ID3,Jurisdiction_ID4,Jurisdiction_ID5,Jurisdiction_ID6,
+        Latitude,Longitude,PlaceNotes,Classification,IssuingAuthority,
+        IssuingAuthorityAlt,RegnalStart,RegnalEnd,Delegated,ClassificationNotes,
+        Language,LanguageNotes,TextNeeded,NoKnownText,Fragment,Source,SourceOther,
+        Edition,EditionOther,Source_URL,Source_URL2,SourceNotes,Transcription,
+        BaseText,OCR,TranscriptionNotes,BiblioRefs""".split(',')
+        column_names = [str.strip() for str in column_names]
+        return column_names
+
+    # Ignored metadata columns that are not displayed in the database
+    # but still processed by the script (jursidiction IDs for mapping)
+    def getIgnoredMetadataFields(self):
+        column_names = """Year_Sort,Jurisdiction_ID,Jurisdiction_ID2,Jurisdiction_ID3,
+        Jurisdiction_ID4,Jurisdiction_ID5,Jurisdiction_ID6,TextNeeded,NoKnownText,
+        Transcription,BaseText,OCR""".split(',')
         column_names = [str.strip() for str in column_names]
         return column_names
 
