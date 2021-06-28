@@ -19,7 +19,7 @@ class CSVParser():
         # Key: 4-digit recordID (string)
         # Value: a dictionary (metadata (key, value) pairs)
         metadata = dict()
-        with open(self.csv_file_name, newline='', mode='r', encoding='utf-8-sig') as csvfile:
+        with open(self.csv_file_name, newline='', mode='r', encoding='utf-8') as csvfile:
             database = csv.reader(csvfile, delimiter=',', quotechar='"')
             for row in database:
                 dictionary = self.readIntoDict(row)
