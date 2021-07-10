@@ -55,12 +55,7 @@ class UtilityFunctions:
 
 
     def getColumnNames(self):
-        column_names = """RecordID,Year_Sort,DatingNotes,Year,Month,Day,Circa,Place,PlaceNotes,
-        Diocese,Province,Latitude,CountryModern,Longitude,Jurisdiction_ID,Jurisdiction_ID2,
-        Jurisdiction_ID3,Jurisdiction_ID4,Jurisdiction_ID5,Classification,IssuingAuthority,
-        ClassificationNotes,IssuingAuthorityAlt,RegnalStart,RegnalEnd,Delegated,Language,
-        LanguageNotes,Source,SourceNotes,SourceOther,Edition,TranscriptionNotes,EditionOther,
-        NoKnownText,TextNeeded,Fragment,GeneralNotes,BaseText,OCR,Transcription,BiblioRefs""".split(',')
+        column_names = """RecordID,Year_Sort,DatingNotes,Year,Month,Day,Circa,Place,PlaceNotes,Diocese,Province,CountryModern,Latitude,Longitude,Jurisdiction_ID,Jurisdiction_ID2,Jurisdiction_ID3,Jurisdiction_ID4,Jurisdiction_ID5,Jurisdiction_ID6,Classification,IssuingAuthority,IssuingAuthorityAlt,RegnalStart,RegnalEnd,Delegated,ClassificationNotes,Language,LanguageNotes,Source_URL,Source_URL2,Source,SourceNotes,SourceOther,Edition,TranscriptionNotes,EditionOther,NoKnownText,TextNeeded,Fragment,BaseText,OCR,GeneralNotes,Transcription,BiblioRefs""".split(',')
         column_names = [str.strip() for str in column_names]
         return column_names
 
