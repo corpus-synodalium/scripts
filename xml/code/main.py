@@ -109,6 +109,7 @@ def print_progress_bar(count, total, status=''):
 
 def print_intro():
     intro = ('\nWelcome! This script will create XML files required for PhiloLogic4 web app.\n')
+    intro += ('\n!!!!! Reminder: Make sure that the CSV header names are updated in utils.getColumnNames method!!\n')
     print(intro)
 
 def main():

@@ -73,7 +73,7 @@ class UtilityFunctions:
 
     # Column Names from metadata.csv spreadsheet
     def getColumnNames(self):
-        column_names = """RecordID,Year_Sort,DatingNotes,Year,Month,Day,Circa,Place,PlaceNotes,Diocese,Province,CountryModern,Latitude,Longitude,Jurisdiction_ID,Jurisdiction_ID2,Jurisdiction_ID3,Jurisdiction_ID4,Jurisdiction_ID5,Jurisdiction_ID6,Classification,IssuingAuthority,IssuingAuthorityAlt,RegnalStart,RegnalEnd,Delegated,ClassificationNotes,Language,LanguageNotes,Source_URL,Source_URL2,Source,SourceNotes,SourceOther,Edition,TranscriptionNotes,EditionOther,NoKnownText,TextNeeded,Fragment,BaseText,OCR,GeneralNotes,Transcription,BiblioRefs""".split(',')
+        column_names = """RecordID,Year_Sort,Year,Month,Day,Circa,DatingNotes,Place,Diocese,Province,CountryModern,PlaceNotes,Latitude,Longitude,Jurisdiction_ID,Jurisdiction_ID2,Jurisdiction_ID3,Jurisdiction_ID4,Jurisdiction_ID5,Jurisdiction_ID6,Classification,IssuingAuthority,IssuingAuthorityAlt,RegnalStart,RegnalEnd,Delegated,ClassificationNotes,Language,LanguageNotes,Source,SourceOther,Edition,EditionOther,Source_URL,Source_URL2,SourceNotes,TranscriptionNotes,NoKnownText,TextNeeded,Fragment,BaseText,OCR,GeneralNotes,Transcription,BiblioRefs""".split(',')
         column_names = [str.strip() for str in column_names]
         return column_names
 
