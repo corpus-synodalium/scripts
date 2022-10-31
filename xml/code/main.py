@@ -22,15 +22,13 @@ import deps.xml_utils
 # ./deps/csv_parser.py
 #
 # REQUIRED INPUT FILES:
-# ../_input/text/*.txt
-# ../_input/notes/*.txt
-# ../_input/metadata/metadata.csv
+# ../_input/*.txt
+# ../_input/metadata.csv
 #
 # For more info on how to use this script, see README.md
 
-INPUT_TEXT = '../_input/text/'
-INPUT_NOTES = '../_input/notes/'
-INPUT_CSV = '../_input/metadata/metadata.csv'
+INPUT_FOLDER_PATH = '../_input/'
+INPUT_CSV_PATH = '../_input/metadata.csv'
 OUTPUT = '../_output/'
 
 #==============#
@@ -48,9 +46,9 @@ class MasterParser():
         self.normalize = normalize
         self.utils = deps.utils.UtilityFunctions()
         self.xml_utils = deps.xml_utils.XMLUtils(self.utils)
-        self.metadata = deps.csv_parser.CSVParser(INPUT_CSV, self.utils).getMetadata()
-        self.text_parser = deps.text_parser.TextParser(INPUT_TEXT, self.utils, self.metadata, self.normalize)
-        self.note_parser = deps.note_parser.NoteParser(INPUT_NOTES, self.utils, self.metadata)
+        self.metadata = deps.csv_parser.CSVParser(INPUT_CSV_PATH, self.utils).getMetadata()
+        self.text_parser = deps.text_parser.TextParser(INPUT_FOLDER_PATH, self.utils, self.metadata, self.normalize)
+        self.note_parser = deps.note_parser.NoteParser(INPUT_FOLDER_PATH, self.utils, self.metadata)
 
     def parse_data(self):
         self.utils.color_print('Step (2/3) - Parsing data. Please be patient ... \n')

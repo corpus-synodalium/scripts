@@ -14,21 +14,9 @@ This folder contains the Python program and scripts required to generate XML fil
 `_input` folder should have the following directory structure.
 
 - `_input`
-  - `metadata`: .csv file containing metadata of all entries
-  - `notes`: .txt notes (e.g. `0002_Trier_1277_Notes.txt`)
-  - `text`: .txt files (e.g. `0002_Trier_1277.txt`)
+  - `metadata.csv`: .csv file containing metadata of all entries
+  - All .txt notes (e.g. `0002_Trier_1277_Notes.txt`, `0002_Trier_1277.txt`)
 
-## Processing input files
-
-The following bash scrips might be useful.
-
-- Remove all files that contains `_Notes`
-	- `rm -rf *_Notes*`
-- Remove all files that do NOT contain `_Notes`
-	- `shopt -s extglob`
-	- `rm -rf !(*_Notes*)`
-
-Make sure to have a **backup** of all text files before deleting them.
 
 ## Virtual Environment
 

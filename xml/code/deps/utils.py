@@ -13,8 +13,26 @@ class UtilityFunctions:
     def __init__(self):
         pass
 
-    def getInputFileNames(self, input_dir):
-        return [filename for filename in os.listdir(input_dir) if re.match(r'.*\.txt', filename)]
+    def isTextFile(self, filename):
+        """
+        Return true if it is a text file, but not a Notes file.
+        e.g. "2399_Gniezno_1298c.txt"
+        """
+        return re.match(r'.*\.txt', filename) and not self.isNotesFile(filename)
+
+    def isNotesFile(self, filename):
+        """
+        Return true if it is a text file containing "_Notes"
+        e.g. "2400_Gniezno_1309_Notes.txt"
+        e.g. "2400_Gniezno_1309_Notes .txt" <-- also handle extra space at the end
+        """
+        return re.match(r'.*_Notes.*\.txt', filename)
+
+    def getInputTextFileNames(self, input_dir):
+        return [filename for filename in os.listdir(input_dir) if self.isTextFile(filename)]
+
+    def getInputNotesFileNames(self, input_dir):
+        return [filename for filename in os.listdir(input_dir) if self.isNotesFile(filename)]
 
     def getRecordID(self, input_file_name):
         return re.findall(r'^(.*?)_', input_file_name)[0]

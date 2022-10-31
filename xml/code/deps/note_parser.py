@@ -12,7 +12,7 @@ class NoteParser:
     def __init__(self, input_dir, utils, metadata):
         self.utils = utils
         self.input_dir = input_dir
-        self.input_file_names = self.utils.getInputFileNames(input_dir)
+        self.input_file_names = self.utils.getInputNotesFileNames(input_dir)
         self.metadata = metadata
 
 

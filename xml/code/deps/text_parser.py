@@ -14,7 +14,7 @@ class TextParser:
     def __init__(self, input_dir, utils, metadata, normalize):
         self.utils = utils
         self.input_dir = input_dir
-        self.input_file_names = self.utils.getInputFileNames(input_dir)
+        self.input_file_names = self.utils.getInputTextFileNames(input_dir)
         self.metadata = metadata
         self.normalize = normalize
 

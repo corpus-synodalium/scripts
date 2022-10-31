@@ -2,8 +2,9 @@
 *.pyc
 __pycache__/
 logins.txt
-xml/_input/*
-xml/_output/*
+xml/_input/*.txt
+xml/_input/*.csv
+xml/_output/*.xml
 xml/output.zip
 xml/output_norm.zip
 xml/test.zip
