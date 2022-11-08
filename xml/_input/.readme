@@ -1,8 +1,10 @@
-README: Put .txt files here.
+README: Put metadata.csv and all .txt files here.
 
-For example:
+For example, \_input folder should contain:
 
+- metadata.csv
 - 2575_Minden_1315c.txt
 - 2575_Minden_1315c_Notes.txt
 - 2578_Noyon_1309.txt
 - 2578_Noyon_1309_Notes.txt
+- .... all other record IDs
