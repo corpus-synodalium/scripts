@@ -60,11 +60,11 @@ class MasterParser():
         self.utils.color_print('Step (1/3) - Inspecting input files ... \n')
         num_text = len(self.text_parser.input_file_names)
         num_note = len(self.note_parser.input_file_names)
-        num_csv = len(self.metadata.keys())
+        num_csv = len(self.metadata.keys()) - 1 # Ignore the header row
         self.num_files = num_text
         print('Number of text files: {}'.format(num_text))
         print('Number of note files: {}'.format(num_note))
-        print('Number of csv rows  : {}\n'.format(num_csv))
+        print('Number of csv rows  : {} (Header row is ignored)\n'.format(num_csv))
         if (num_text != num_note): #or (num_text != num_csv):
             print('The number of files in all input sources must be the same.')
             print('Please check your input sources. If you want to continue,')
