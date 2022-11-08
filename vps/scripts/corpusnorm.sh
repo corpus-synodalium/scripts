@@ -60,5 +60,8 @@ echo "Don't forget to run fixpermission corpusnorm"
 # We don't have an automated way of doing this.
 # To change it manually, open the file below and manually insert " (Normalized)" after $DBNAME
 # $DBNAME refers to "Corpus Synodalium"
+# There are two instances that you need to update
+#   - one in <title> tag
+#   - one in <a> tag
 echo "Don't forget to update \"title\" \$DBNAME in HTML file to ... (Normalized)"
 echo "vim /var/www/html/philologic/corpusnorm/app/index.html"
